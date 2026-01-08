@@ -1,0 +1,1072 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    # Assessment and Reporting of Perioperative Adverse Events and Complications in Patients Undergoing Inguinal Lymphadenectomy for Melanoma, Vulvar Cancer, and Penile Cancer: A Systematic Review and Meta-analysis
+
+Giovanni E. Cacciamani [1] - Luis G. Medina [1] - Aref S. Sayegh [1] - Anibal La Riva [1,2] Laura C. Perez [1,3] - Michael B. Eppler [1] - Inderbir Gill [1] - Rene Sotelo [1] on behalf of the
+Complications and Adverse Events in Lymphadenectomy of the Inguinal Area (CALI) project, the
+International Consensus Panel on Complications in Urology (ICPCU), and the Intraoperative
+Complications assessment and reporting with Universal Standards (ICARUS) Global Surgical
+
+Collaboration
+
+Accepted: 14 December 2022 / Published online: 28 January 2023
+� The Author(s) under exclusive licence to Socie´te´ Internationale de Chirurgie 2023
+
+Abstract
+
+Background Inguinal lymph node dissection (ILND) plays a crucial role in the oncological management of patients
+with melanoma, penile, and vulvar cancer. This study aims to systematically evaluate perioperative adverse events
+(AEs) in patients undergoing ILND and its reporting.
+Methods A systematic review was conducted according to PRISMA. PubMed, MEDLINE, Scopus, and Embase
+were queried to identify studies discussing perioperative AEs in patients with melanoma, penile, and vulvar cancer
+following ILND.
+Results Our search generated 3.469 publications, with 296 studies meeting the inclusion criteria. Details of 14.421
+patients were analyzed. Of these studies, 58 (19.5%) described intraoperative AEs (iAEs) as an outcome of interest.
+Overall, 68 (2.9%) patients reported at least one iAE. Postoperative AEs were reported in 278 studies, combining data
+on 10.898 patients. Overall, 5.748 (52.7%) patients documented C1 postoperative AEs. The most reported ILNDrelated AEs were lymphatic AEs, with a total of 4.055 (38.8%) events. The pooled meta-analysis confirmed that high
+BMI (RR 1.09; p = 0.006), C1 comorbidities (RR 1.79; p = 0.01), and diabetes (RR 1.81; p = `\` 0.00001) are
+independent predictors for any AEs after ILND. When assessing the quality of the AEs reporting, we found 25% of
+studies reported at least 50% of the required criteria.
+Conclusion ILND performed in melanoma, penile, and vulvar cancer patients is a morbid procedure. The quality of
+the AEs reporting is suboptimal. A more standardized AEs reporting system is needed to produce comparable data
+across studies for furthering the development of strategies to decrease AEs.
+
+Giovanni E. Cacciamani and Luis G. Medina have contributed
+
+equally to the paper.
+
+
+& Giovanni E. Cacciamani
+
+Giovanni.cacciamani@med.usc.edu
+
+& Rene Sotelo
+
+rene.sotelo@med.usc.edu
+
+1 Catherine and Joseph Aresty Department of Urology, USC
+Institute of Urology, Keck School of Medicine,, University of
+Southern California, Los Angeles, CA, USA
+## 123
+
+
+2 Department of General Surgery, Digestive Disease and
+Surgery Institute, Cleveland Clinic Foundation, Cleveland,
+OH, USA
+
+3 Department of Surgery, Johns Hopkins University School of
+Medicine, Baltimore, MD, USA
+
+World J Surg (2023) 47:962–974 963
+
+
+Introduction
+
+Melanoma, penile, and vulvar cancers represent approximately
+0.6–6% of all malignancies in the United States. Cumulatively,
+a total of 108.180 new cases are expected in 2022 [1].
+According to the National Comprehensive Cancer Network (NCCN) Guidelines [2–4], inguinal lymph node
+dissection (ILND) represents the standard treatment in
+patients with intermediate (T1b) and high-risk (T2 and T3)
+tumors, positive dynamic sentinel LN, or pathologically
+confirmed ILN metastasis for malignancies of the penis,
+vulva, and melanoma [2–4].
+ILND is a diagnostic and therapeutic intervention,
+playing a crucial role in the oncological management of
+these patients. However, it is associated with high perioperative morbidity, with a wide reported incidence (3–97%)
+
+[5]. There has been a sustained effort to decrease the
+morbidity of this surgery, leading to the proposal of smaller
+resection templates, preservation of the saphenous vein,
+and minimally invasive approaches [6–8]. Nonetheless,
+adverse events (AEs) are still a common occurrence [9].
+Heterogeneity in AE assessment across the literature
+might contribute to a lack of consistency and, therefore,
+comparability between studies.
+This study aims to systematically evaluate perioperative
+AEs in patients with melanoma, penile, and vulvar cancer
+undergoing ILND to answer three key questions: KQ1—
+How is perioperative morbidity reported, assessed, and
+graded; KQ2—What is the impact of different surgical
+approaches, surgical techniques, and patient characteristics
+on perioperative morbidity; KQ3—Are there predictors of
+complications in patients undergoing ILND?
+
+Evidence acquisition
+
+Study design
+
+Figure 1 depicts the workflow of the present study. We
+performed a systematic review to identify all clinical
+prospective randomized controlled trials (RCT) and nonrandomized trials and retrospective comparative and noncomparative studies reporting morbidity following ILND in
+patients with melanoma, penile, and vulvar cancer. Subsequently, we critically evaluated the way complications were
+reported in the studies identified from the literature review
+using the Martin Criteria (10-item guidelines for reporting
+surgical complications) [10] and the European Association
+of Urology (EAU) ad hoc panel for complication reporting
+
+[11]. To answer the PICOTS (Population, Intervention,
+Comparators, Outcomes, Timing, and Setting) of the present
+study, we first performed a pooled analysis to explore the
+
+
+type of AEs primarily related to ILND. After an internal
+discussion among the steering committee of the present
+study, we defined intraoperative and postoperative AEs as
+‘‘strongly,’’ ‘‘likely,’’ and ‘‘unlikely’’ related to the ILND.
+Also, the AEs were categorized into five main clusters:
+Lymphatic, Cutaneous, Infectious, Functional, and Vascular
+(see below for definitions). Next, to assess the impact of
+surgical approach and patient characteristics on ILND-related perioperative AEs, we performed an intervention metaanalysis of studies comparing open-ILND (O-ILND) vs.
+minimally invasive ILND (MIS-ILND) and an inverse
+variance meta-analysis of predictors for perioperative morbidity related to patient characteristics, respectively (see
+below for definition).
+
+ILND-related adverse events definition
+
+Adverse events are defined as, ‘‘any unfavorable outcome
+that occurs during or after the use of a drug or other
+
+intervention and the causal relation between the interven
+tion, and the event is at least a reasonable possibility’’
+
+[12]. As part of these events, complications are stated as
+‘‘[..] adverse events or effects following surgical and other
+invasive intervention’’ [12].
+As previously described [13], we provide a standardized
+definition to better classify the morbidity of patients
+undergoing ILND:
+
+(a) Strongly ILND-related AEs: any perioperative complication directly associated with the violation of the
+lymphatic system, not explainable otherwise (i.e.,
+symptomatic lymphoceles or vascular injury to the
+iliac vessels).
+(b) Likely ILND-related AEs: any perioperative complication that is likely, but not exclusively, associated
+with the violation of the lymphatic system that has
+been reported even in the absence of ILND (i.e.,
+venous thrombosis).
+(c) Unlikely ILND-related AEs: any perioperative complication that cannot be directly or indirectly associated with the violation of the lymphatic system (i.e.,
+hematuria).
+
+These definitions are further categorized as Lymphatic,
+Cutaneous, Infectious, Functional, and Vascular.
+
+Search strategy for relevant studies
+
+A systematic search of original articles published up to
+June 1, 2021, was performed according to the Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) [14], and PRISMA Harms statements [12].
+The present study is registered in PROSPERO
+(CRD42021252602).
+## 123
+
+964 World J Surg (2023) 47:962–974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PubMed, MEDLINE, Scopus, and Embase databases
+were screened for observational comparative and noncomparative studies on ’’Inguinal lymphadenectomy AND
+(Melanoma OR Penile Cancer OR Vulvar Cancer)‘‘
+reporting the following outcomes of interest: overall
+intraoperative complications; postoperative (B 90 days)
+minor (Clavien I–II) and major (Clavien III–V); postoperative sequelae ( `[` 90 days); and readmissions. For this
+study, we excluded all papers published before the Martin
+Criteria (2002) [10].
+All articles were distinguished according to the level of
+evidence for therapeutic studies. Only studies that reported
+perioperative outcomes after ILND defined as having at
+least one of the EAU complication reporting criteria (except for ’’Method of accruing data defined‘‘ OR ’’Duration
+of follow-up indicated‘‘ criteria) [11] were included in the
+analysis (Fig. 2). We excluded reviews, meta-analyses,
+surgical technique description papers without data of
+interest, replies, commentaries, letters to the editor, editorial comments, papers non-matching articles, and studies
+not providing outcomes of interest.
+We excluded studies analyzing national databases
+because of the high risk of overlapping data. The PICOTS
+format fully summarizes our research and analysis strategy
+for evaluating the outcomes of interest.
+## 123
+
+
+Screening and data extraction
+
+Two paired investigators (A.S.S. and A.L.R.) independently screened all articles, focusing on papers reporting
+any of the outcomes of interest. Any disagreement about
+eligibility was resolved by discussion with senior (G.E.C.
+and L.G.M.) authors until a consensus was reached.
+
+Statistical analysis
+
+Studies and cohorts of patients were considered separately.
+If a comparative study included C2 cohorts of patients,
+each cohort was considered as a stand-alone. Several types
+of analyses were performed:
+
+(a) Cumulative analysis of each type of complication:
+quantitative data were summarized and presented in
+tables and charts where necessary. The data retrieved
+from this review were presented as number of events
+(complications) and/or number of patients where
+appropriate. Note: as we previously reported
+
+[13, 15–19], there is heterogeneity in this outcome
+reporting. For example, some studies report the
+number of complications as equal to the number of
+patients who reported a complication. In other studies,
+the number of complications is higher than the
+
+World J Surg (2023) 47:962–974 965
+
+
+
+
+
+
+
+
+
+
+number of patients with a complication (suggesting
+patients experienced `[` 1 complication). As such,
+since we cannot assume that the number of complications reported is ’’per level,‘‘ the percentages
+reported refers to the number of events out of the
+number of complications in each complication category as appropriate.
+(b) Quality of complication reporting: Quality of reporting and grading complications was assessed according to the Martin Criteria and EAU ad hoc panel
+recommendations [10, 11]. These two criteria checklists were established to improve the quality of
+complication reporting in the context of surgical
+procedures. A complete list of these criteria is
+
+
+reported in the supplementary materials—Tables 1
+and 2. To assess changes in surgeon attitude following the introduction of the EAU guideline on
+complication reporting in 2012, we compared complication reporting before versus after 2012. Data for
+categorical variables are shown as percentages, and
+differences between groups were analyzed with
+Pearson’s Chi-squared test or Fisher’s exact test, as
+appropriate. All statistical analyses were performed
+using IBM SPSS Statistics 24.0.
+(c) Intervention meta-analysis/pooled analysis for
+O-ILND vs MIS-ILND. The MIS group combined
+robotic, laparoscopic, and video-endoscopic ILNDs.
+Statistical heterogeneity was tested using the Chi## 123
+
+966 World J Surg (2023) 47:962–974
+
+
+squared test. A p value `\` 0.10 was used to indicate
+heterogeneity. In case of a lack of heterogeneity,
+fixed-effect models were used for the pooled/metaanalytic analysis. Random-effect models were used in
+case of heterogeneity. The results were expressed as
+weighted mean differences and standard deviations
+(SDs) or continuous outcomes and as risk ratios (RRs)
+and 95% confidence intervals (CIs) for dichotomous
+variables as appropriate [20].
+(d) Inverse variance meta-analysis/pooled analysis: All
+cox-regression and logistic regression analyses were
+recorded and analyzed. Available multivariable RRs
+and their 95% CIs were included in the quantitative
+analysis [20]. The RRs and 95% CIs extracted from
+the multivariable analysis of the eligible studies were
+pooled to assess predictors of perioperative AEs.
+
+A cumulative meta-analysis of comparative studies was
+conducted using Review Manager� 5.3 (Cochrane-Collaboration, Oxford, UK).
+
+Risk of bias
+
+Two paired investigators (A.S.S. and A.L.R.) independently weighed the risk of bias for all the non-randomized
+studies according to the Cochrane Handbook for Systematic Reviews of Interventions.
+
+Results
+
+Evidence synthesis
+
+The electronic search identified 3.469 records. From these,
+1.236 studies were selected for detailed review. This yielded 296 publications reporting perioperative AEs associated with the performance of ILND that met the inclusion
+criteria for the pooled analysis. A total of 192 (64.8%)
+retrospective studies, 36 (12.1%) case reports, 48 (16.2%)
+prospective non-RCT studies, and 12 (4.1%) RCTs were
+included. A total of 51 (17.2%) publications were comparative studies, of which 16 (5.4%) compared O-ILND
+with MIS-ILND (Fig. 2).
+This systematic review and pooled analysis included a
+total of 14.421 patients from 348 cohorts of patients
+(Supplementary materials—Tables 3 and 4). Most patients
+had melanoma (46.8%), followed by vulvar (30.6%) and
+penile carcinomas (21.9%). Considering the 283 records
+(11.161 patients) that reported the percentage of patients
+experiencing perioperative AEs, 5.873 patients (52.6%)
+experienced C1 AEs and there were a total of 7060 AEs
+(mean of 1.2 AEs/patient).
+## 123
+
+
+Quality assessment of complication grading
+and reporting
+
+Globally, 87 (25%) studies reported at least 50% of the
+EAU criteria [11], with a median of 6 criteria reported
+
+[interquartile range 4–7.3]. Details are shown in Table 1.
+The most reported criteria were the inclusion of procedure-specific complications (n = 321; 92.2%), specific
+association of the complication with undergoing ILND
+(n = 315; 90.5%), and morbidity rate (n = 307; 86.2%).
+The least reported criteria were the involvement of the data
+collector in the treatment (n = 2; 0.6%), who collected the
+data (n = 5; 1.4%), inclusion of risk factor in the analysis
+(n = 28; 8%), and severity grade (n = 47; 13.5%) (Fig. 3a).
+When comparing the quality of complication reporting
+before and after the EAU panel recommendations, we
+found statistically significant improvements in 10 out of the
+19 categories: duration of follow-up (76.2 vs. 63.5%;
+p = 0.006), inclusion of outpatient information (88.4 vs.
+80.2%; p = 0.02), usage of a severity grade (41 vs. 6%;
+p = 0.0001), length of stay data (58.6 vs. 41.3%; p = 0.01),
+inclusion of risk factors in the analysis (11 vs. 4.8%;
+p = 0.04), description of data accrual methods (44.2 vs.
+25.7%; p = 0.0001), separate reporting of intra- and postoperative complications (29.8 vs. 13.2%; p = 0.001), presentation of complications in a table fashion by
+grade/complication (71.3 vs. 59.9%; p = 0.01), readmissions data (21 vs. 6%; p = 0.0001), and reoperation data
+(23.2 vs. 12.6%; p = 0.007). Figure 3b depicts the global
+quality assessment of the AEs reporting.
+
+Categorization for intraoperative adverse events
+
+The literature search identified 58 (19.5%) series reporting
+intraoperative adverse events (iAEs) as an outcome of
+interest, with a total of 2.360 patients. Of these patients, 68
+(2.9%) experienced at least one iAE and there were 78 total
+AEs (mean of 1.1 AEs/patient). The most common iAEs
+reported were open conversion for non-oncological reasons
+(50%), vascular injuries (17%), and peritoneal injuries
+(11.5%). A total of 39 cases had an open conversion. Open
+conversions were due to non-oncological reasons in all 7
+studies (high end-tidal CO2 (n = 3), bleeding (n = 3), and
+lack of advancement (n = 2)). No intraoperative deaths
+were reported. For more details regarding each intraoperative AE, see Table 2.
+
+Categorization for postoperative adverse events
+
+The literature screening led to the identification of 278
+series reporting the postoperative AE data of 10.898
+
+World J Surg (2023) 47:962–974 967
+
+Table 1 Quality assessment of complication grading and reporting before versus after the introduction of the EAU guideline on complication
+reporting in 2012
+
+Criteria B 2012 `[` 2012
+
+Not- % Reported % Total Not- % Reported % Total
+reported reported
+
+Method of accruing data defined: Prospective or retrospective 59 35 108 65 167 47 26 134 74 181
+accrual of data are indicated)
+
+Duration of follow-up indicated 61 37 106 63 167 43 24 138 76 181
+
+
+Outpatient information included: Study indicates that
+complications first identified following discharge are
+included in the analysis
+
+
+33 20 134 80 167 21 12 160 88 181
+
+
+Definitions of complications provided: Article defines at least 122 73 45 27 167 116 64 65 36 181
+one complication with specific inclusion criteria
+
+
+Mortality rate and causes of death listed: The number of
+patients who died in the postoperative period of study are
+recorded together with cause of death
+
+Morbidity rate and total complications indicated: The number
+of patients with any complication and the total number of
+complications are recorded
+
+
+109 65 58 35 167 113 62 68 38 181
+
+22 13 145 87 167 19 10 162 90 181
+
+
+Procedure-specific complications included 13 8 154 92 167 14 8 167 92 181
+
+Severity grade used (According to Clavien-Dindo) 161 96 6 4 167 140 77 41 23 181
+
+Length of stay data 98 59 69 41 167 75 41 106 59 181
+
+Risk factors included in analysis (ASA, CCI, ECOG 159 95 8 5 167 161 89 20 11 181
+
+How data were accrued (chart review, telephone interview, 124 74 43 26 167 101 56 80 44 181
+face-to-face interview, other)
+
+Who collected the data (medical doctor, nurse, data manager, 164 98 3 2 167 179 99 2 1 181
+other)
+
+Was he or she involved in the treatment? (yes or no) 165 99 2 1 167 181 100 0 0 181
+
+Separate reporting of intra- and postoperative complications 145 87 22 13 167 127 70 54 30 181
+
+Postoperative complications were presented in a table either by 67 40 100 60 167 52 29 129 71 181
+grade or by complication type
+
+Readmissions and causes were included 157 94 10 6 167 143 79 38 21 181
+
+Reoperations, types, and causes were included 146 87 21 13 167 139 77 42 23 181
+
+Percentage of patients lost to follow-up was included 136 81 31 19 167 148 82 33 18 181
+
+are the complicatons reported specifically for patients 19 11 148 89 167 14 8 167 92 181
+underwent ILND?
+
+
+patients. A total of 5.748 (52.7%) patients documented C1
+postoperative AEs, and there were a total of 7.090 AEs
+(mean of 1.2 AEs/patient). Lymphatic AEs were the most
+common, with a total of 4.055 events (38.8%), of which
+limb lymphedema (2.538 events; 62.5%) and lymphoceles
+(984 events; 24.2%) represented the majority of this
+
+category.
+There were 3.248 (31.1%) cutaneous AEs. Seromas
+(n = 1345; 41%), wound dehiscence (n = 1040; 32%), and
+skin flap necrosis (n = 412; 12.6%) were the most common
+reported events in this category. There were 2.428 (23.2%)
+infectious AEs. Cellulitis was most reported in this category (n = 2.114; 87%).
+
+
+Functional (n = 155; 1.4%) and vascular (n = 139;
+1.3%) AEs were less frequently reported. Inguinal paresthesia (n = 94; 60.6%) and deep vein thrombosis (n = 100;
+71.9%) were the most common event for each category,
+respectively (Table 3). Granular data on the postoperative
+AE reporting are shown in Fig. 4.
+
+Comparison between O-ILND vs. MIS-ILND
+
+Globally, a total of 12.290 (85.2%) patients underwent
+O-ILND. Considering the 205 cohorts of patients that
+reported perioperative AEs and the percentage of patients
+who experienced AEs, the cumulative number of patients
+## 123
+
+968 World J Surg (2023) 47:962–974
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who had C1 perioperative AEs was 5.270 (out of 9.819
+patients, 53.6%), reporting a total of 6.230 AEs.
+A total of 1.401 (9.7%) patients underwent MIS-ILND.
+Considering the 75 cohorts of patients that reported perioperative AEs, the cumulative number of patients who
+had C1 perioperative AEs was 600 (out of 1.337 patients,
+44.8%), reporting a total of 828 AEs.
+Sixteen (5.4%) studies compared O-ILND vs. MISILND in terms of perioperative AEs, reporting data of
+3.133 patients. Patients with MIS-ILND experienced fewer
+post-operative AEs (RR 0.43; 95% CI 0.27, 0.69;
+p = 0.0004), cutaneous AEs (RR 0.30; 95% CI 0.20, 0.44;
+p = `\` 0.00001), and infectious AEs (RR 0.38; 95% CI
+0.27, 0.54; p = 0.00001). MIS-ILND patients also
+## 123
+
+
+experienced fewer functional AEs (RR 0.20; 95% CI 0.03,
+1.42; p = 0.11) and lymphatic AEs (RR 0.89; 95% CI 0.75,
+1.05; p = 0.16) though not statistically significant. There
+were no differences in postoperative vascular AEs (RR
+0.65; 95% CI 0.09, 4.62; p = 0.67) (Fig. 5). Detail of each
+comparison is reported in supplementary materials—
+Figs. 1–6.
+
+Predictors for postoperative complications
+
+We performed a pooled inverse variance analysis of the
+series with multivariable analysis to identify predictive
+factors for AEs following ILND. Baseline characteristics
+predictive of AEs were high body mass index (BMI) (RR
+
+World J Surg (2023) 47:962–974 969
+
+Table 2 Intraoperative adverse events reported in the literature
+
+Intraoperative adverse events % n
+
+Open conversion/approach 50.0 39
+
+Any vascular lesion leading to bleeding (w/wo transfusion) 16.7 13
+
+Open peritoneum 11.5 9
+
+End-tidal CO 2 level `[` 50 mmHg (Hypercapnia) 10.3 8
+
+Trocar bleeding 2.6 2
+
+Nerve injury 1.3 1
+
+Rectal perforation 1.3 1
+
+Lesion of the urinary bladder 1.3 1
+
+Subcutaneous emphysema 1.3 1
+
+Hypercapnia and pneumoderm 1.3 1
+
+Death 0.0 0
+
+Other complication 0.0 2
+
+Table 3 Categorization for postoperative adverse events
+
+Definition n of events % Definition n of events %
+
+Lymphatic 4055 38.88 Limb Lymphedema 2538 62.59
+
+Lymphocele 984 24.27
+
+Lymphorrhea 82 2.02
+
+Lymphatic fistula 385 9.49
+
+Scrotal lymphedema 53 1.31
+
+Lymphangitis 13 0.32
+
+Cutaneous 3249 31.15 Wound dehiscence 1040 32.01
+
+Seroma 1345 41.40
+
+Skin flap necrosis 412 12.68
+
+Incisional skin edge necrosis 277 8.53
+
+Hematoma 89 2.74
+
+Cellulitis 79 2.43
+
+Deep incisional SSI 4 0.12
+
+Epidermolysis 3 0.09
+
+Infectious 2428 23.28 Cellullitis 2114 87.07
+
+Deep incisional SSI 27 1.11
+
+Lymphocele 1 0.04
+
+Sepsis 5 0.21
+
+Abscess 3 0.12
+
+Superficial incisional SSI 278 11.45
+
+Functional 155 1.49 Chronic inguinal pain 12 7.74
+
+Inguinal paresthesia 94 60.65
+
+Difficult ambulation 9 5.81
+
+Chronic lower limb pain 40 25.81
+
+Vascular 139 1.33 Deep Vein thombosis 100 71.94
+
+Arterial Thrombosis 0 0.00
+
+Phlebitis 39 28.06
+
+
+1.09; 95% CI 1.02, 1.16; p = 0.006), C1 comorbidities
+(RR 1.79; 95% CI 1.15, 2.80; p = 0.01), and diabetes (RR
+1.81; 95% CI 1.40, 2.36; p B 0.00001). Age, gender,
+number of LNs removed, saphenous vein sparing, and
+
+
+sartorius interposition were not statistically significant
+predictors of postoperative AEs (Supplementary material—
+Figs. 7–15).
+## 123
+
+970 World J Surg (2023) 47:962–974
+
+Fig. 4 Categorization of postoperative adverse events. Bar chart macrocategories; pie chart microcategories within the same macrocategory
+
+
+Discussion
+
+This systematic review confirmed that ILND is a highly
+morbid procedure impacted by both surgical and patient
+factors. Across studies, there are heterogeneity and a lack
+of consistency in the quality of the assessment, grading and
+reporting of perioperative AEs.
+Previous publications have shown that the quality of
+reporting perioperative AEs is inadequate [10, 11, 21–23].
+The reporting of AEs after ILND may vary because there is
+
+no standard method. This has led to different nomencla
+tures for the same complications, limiting the ability to
+compare studies and perform accurate analyses, further
+limiting the development of preventative and/or management strategies. Choosing a proper outcome reporting tool
+is of the utmost importance [13].
+Within the past decade, several tools for assessing,
+reporting, and grading perioperative AEs have been proposed [11, 24–27]. Previous studies showed that despite
+recent developments in AE reporting systems, they are not
+used widely in clinical practice [28]. A potential reason
+could be that not all journals have a standardized requirement for perioperative AEs reporting. An ongoing bibliometric analysis (data not published) showed that `\` 50% of
+journal author guidelines (out of 1.400 journals analyzed)
+require proper perioperative AE reporting [13, 15, 18, 28].
+## 123
+
+
+Our study indicated a sub-optimal usage of AE reporting
+tools, with only 58 studies considering iAEs as an outcome
+
+of interest.
+
+In this study, there was a slight improvement in the
+reporting of perioperative AEs over time. Martin et al. in
+2002 [10] introduced 10 criteria, and subsequently Mitropoulos et al. in 2012 [11] provided 14 criteria with the goal
+of improving perioperative AEs reporting. However, since
+the latter was developed by urologists, it is possible that
+those criteria were not widely applicable to the greater
+surgical community. We performed a sub-analysis looking
+only at the studies evaluating ILND for penile cancer
+performed by urologists and showed similar results compared to the reporting of other urologic–oncologic surgeries [13, 15, 18, 28], highlighting that current
+perioperative AEs classification systems are not enough
+
+and more work in standardization is needed.
+
+Our systematic review found that around 19.5% of
+studies reported iAEs as an outcome of interest, and none
+of these studies used published iAE reporting tools
+
+[11, 24–27]. The low rate of iAEs reporting may be due to
+a lack of consensus for how to report iAEs [21, 22, 28–32].
+This assumption is partially based on previous publications
+that found iAE grading tools are used 270 times less than
+postoperative adverse events, which consistently use the
+Clavien–Dindo classification system [31].
+
+World J Surg (2023) 47:962–974 971
+
+Fig. 5 a Summary forest plot of studies comparing O-ILND vs. MIS-ILND. b Inverse variance meta-analysis of predictors. RR: risk ratio; df:
+degree of freedom; CI: confidence interval. AEs: adverse events; Tot: total population
+
+
+Among the postoperative AEs, the most common lymphatic AE was limb lymphedema [defined as ‘‘increased
+limb circumference greater than 10% compared before the
+surgery and at postoperative day 30’’ [33]], reported in
+62.5% of the studies. The incidence of limb lymphedema
+varies across studies [34], depending on the definition and
+length of follow-up. For this reason, a standardized
+
+
+definition should be used across all studies. Furthermore,
+action should be taken to reduce the occurrence of lymphedema: lymph flow imaging techniques may identify
+lymphatic leaks intraoperatively [33, 35, 36] and early
+ambulation and the use of elastic stockings may minimize
+lower extremity lymphedema [37, 38].
+## 123
+
+972 World J Surg (2023) 47:962–974
+
+
+Seroma, defined as ‘‘a finding of tumor-like collection of
+serum in the tissues’’ [39], is included in 41% of the studies
+that reported cutaneous AEs as an outcome of interest. To
+prevent this complication, most studies propose using
+postoperative suction drain until the 24-h output becomes
+less than 50 mL [40, 41].
+Studies report wound infection-related AEs rates from
+0.6 to 43% [9, 42]. Based on the results of our metaanalysis, we can infer that strict diabetes control is crucial
+to avoiding this AEs. Inguinal paresthesia was noted in
+60.6% of the studies that included functional AEs as an
+
+outcome of interest. However, the incidence of these AEs
+following ILND is rarely mentioned in the series [43, 44].
+Vascular AEs were the least reported postoperative AEs
+‘‘likely’’ related to ILND. Deep vein thrombosis (DVT)
+(71.9%) was the most reported in this category. Patients
+undergoing ILND may be at high risk of developing DVT
+because of the nature of the surgery, underlying malignancy, and prolonged postoperative bed rest [44].
+It is well known that ILND is associated with high morbidity [5, 45]. However, the rate of AEs may vary accordingly to the surgical approach, the technique used, and
+patient characteristics. Patients undergoing MIS approaches
+tend to have fewer wound complications, shorter hospital
+stays, quicker returns to baseline functional status, and better
+cosmesis, and MIS-ILND is no exception [46].
+Comparisons between O-ILND and MIS-ILND are sparse
+in the literature. AEs following O-ILND occur 80–100% of
+the time and are predominantly cutaneous or lymphatic
+related. Studies have shown that MIS-ILND approaches are
+associated with a reduction in wound-related AEs, length of
+stay, postoperative pain, and overall morbidity without
+compromising oncological outcomes [8, 40, 47]. Our
+cumulative analysis showed the occurrence of any postoperative AE was lower in patients who underwent MIS-ILND.
+All categories of postoperative AEs trended toward more
+favorable MIS outcomes, though the only statistically significant differences were in cutaneous and infectious-related
+AEs. Despite a greater usage of MIS approaches for several
+surgical procedures [13, 15, 18, 48], the overall use of MIS
+for ILND remains limited [49]. This may be due to a steep
+learning curve and its low incidence in countries where
+robotic systems are not widely available.
+Importantly, several studies have reported multivariable
+analyses evaluating the predictors for any perioperative
+AEs related to ILND (9, 50–54). The most common
+reported predictors in the literature were age, BMI, diabetes, smoking status, C1 comorbidity, number of LNs
+removed, sparing of the greater saphenous vein, and sartorius muscle transposition. When comparing the RRs of
+these predictors, our inverse variance meta-analysis
+showed that BMI, diabetes, and patients with C1 comorbidity reached statistical significance.
+## 123
+
+
+Limitations of this study include a significant heterogeneity between studies in terms of the lack of details on
+the definition of different AEs or surgical approaches used.
+There is not a standard way of performing an ILND; this
+
+can introduce several confounders to our data. These
+
+findings should be interpreted with caution given the high
+heterogeneity in the methods/surgical techniques used, the
+selection biases in the decision of performing one approach
+versus another one (open vs. MIS), and the reporting of the
+complications in the individual papers with various sample
+sizes. Moreover, the patients included in our analysis had
+three different types of cancers. Despite similarities in the
+surgical approach, we do not know the impact of the differences in the biological aggressiveness of the cancers on
+patient outcomes. Nevertheless, the results of this metaanalysis should be seen as a picture of the literature that
+can serve as a roadmap for future comparisons and the
+development of standardization tools.
+
+Conclusion
+
+ILND performed in patients with melanoma, penile, and
+vulvar cancer is a very morbid procedure, with about 50%
+of patients experiencing at least one AE. Lymphatic,
+cutaneous, and infectious complications are the most
+reported AEs. While there has been an improvement, the
+quality of the AEs reporting is suboptimal. MIS-ILND is
+associated with fewer skin and infectious AEs. Patients and
+
+surgical factors have been found to be correlated with
+perioperative AEs. A new standardized and comprehensive
+classification system with common terminology is needed.
+
+Supplementary Information The online version contains supple[mentary material available at https://doi.org/10.1007/s00268-022-](https://doi.org/10.1007/s00268-022-06882-6)
+[06882-6.](https://doi.org/10.1007/s00268-022-06882-6)
+
+Funding Giovanni E. Cacciamani and Luis G. Medina certify that all
+conflicts of interest, including specific financial interests and relationships and affiliations relevant to the subject matter or materials
+discussed in the manuscript (e.g., employment/affiliation, grants or
+funding, consultancies, honoraria, stock ownership or options, expert
+testimony, royalties, or patents filed, received, or pending), are the
+following: none.
+
+Declarations
+
+Conflict of interest All authors declare no conflict of interest.
+
+References
+
+1. Siegel RL, Miller KD, Fuchs HE, Jemal A (2022) Cancer
+statistics, 2022. CA Cancer J Clin 72(1):7–33
+
+World J Surg (2023) 47:962–974 973
+
+
+2. Clark PE, Spiess PE, Agarwal N, Biagioli MC, Eisenberger MA,
+Greenberg RE et al (2013) Clinical practice guidelines in
+oncology. J Natl Compr Canc Netw 11(5):22
+3. Greer BE, Koh WJ (2016) New NCCN Guidelines for Vulvar
+Cancer. J Natl Compr Canc Netw 14(5S):656–658
+4. Swetter SM, Thompson JA, Albertini MR, Barker CA, Baumgartner J, Boland G et al (2021) NCCN Guidelines� insights:
+melanoma: cutaneous, Version 2.2021: featured updates to the
+NCCN guidelines. J Natl Compr Canc Netw 19(4):364–376
+5. Matin SF, Cormier JN, Ward JF, Pisters LL, Wood CG, Dinney
+CPN et al (2013) Phase 1 prospective evaluation of the oncological adequacy of robotic assisted video-endoscopic inguinal
+lymphadenectomy in patients with penile carcinoma: robotic
+assisted video-endoscopic inguinal lymphadenectomy. BJU Int
+111(7):1068–1074
+6. Catalona WJ (1988) Modified inguinal lymphadenectomy for
+carcinoma of the penis with preservation of saphenous veins:
+technique and preliminary results. J Urol 140(2):306–310
+7. Bishoff JT, Du K (2018) Endoscopic subcutaneous modified
+inguinal lymph node dissection for squamous cell carcinoma of
+the penis. In: Smith AD, Preminger GM, Kavoussi LR, Badlani
+GH, Rastinehad AR (eds) Smith’s textbook of endourology
+
+[Internet]. Chichester, UK: Wiley [cited 2022 Jul 11].
+[1060–1065. https://doi.org/10.1002/9781119245193.ch90](https://doi.org/10.1002/9781119245193.ch90)
+8. Sotelo R, Sa´nchez-Salas R, Carmona O, Garcia A, Mariano M,
+Neiva G et al (2007) Endoscopic lymphadenectomy for penile
+carcinoma. J Endourol 21(4):364–367
+9. Gopman JM, Djajadiningrat RS, Baumgarten AS, Espiritu PN,
+Horenblas S, Zhu Y et al (2015) Predicting postoperative complications of inguinal lymph node dissection for penile cancer in
+an international multicentre cohort. BJU Int 116(2):196–201
+10. Martin RCG, Brennan MF, Jaques DP (2002) Quality of complication reporting in the surgical literature. Ann Surg
+235(6):803–813
+11. Mitropoulos D, Artibani W, Graefen M, Remzi M, Roupreˆt M,
+Truss M (2012) Reporting and grading of complications after
+urologic surgical procedures: an ad hoc EAU guidelines panel
+assessment and recommendations. Eur Urol 61(2):341–349
+12. Zorzela L, Loke YK, Ioannidis JP, Golder S, Santaguida P,
+Altman DG et al (2016) PRISMA harms checklist: improving
+harms reporting in systematic reviews. BMJ 1:i157
+13. Cacciamani GE, Maas M, Nassiri N, Ortega D, Gill K, Dell’Oglio
+P et al (2021) Impact of pelvic lymph node dissection and its
+extent on perioperative morbidity in patients undergoing radical
+prostatectomy for prostate cancer: a comprehensive systematic
+review and meta-analysis. Eur Urol Oncol 4(2):134–149
+14. Moher D, Liberati A, Tetzlaff J, Altman DG (2009) Preferred
+reporting items for systematic reviews and meta-analyses: the
+PRISMA statement. Review 8:336–341
+
+15. Dell’Oglio P, Andras I, Ortega D, Galfano A, Artibani W,
+Autorino R et al (2021) Impact of the implementation of the EAU
+guidelines recommendation on reporting and grading of complications in patients undergoing robot-assisted radical cystectomy:
+a systematic review. Eur Urol 80(2):129–133
+16. Tellini R, Mari A, Muto G, Cacciamani GE, Ferro M, StanglKremser J et al (2021) Impact of smoking habit on perioperative
+morbidity in patients treated with radical cystectomy for
+urothelial bladder cancer: a systematic review and meta-analysis.
+Eur Urol Oncol 4(4):580–593
+17. Nassiri N, Maas M, Basin M, Cacciamani GE, Doumanian LR
+(2021) Urethral complications after gender reassignment surgery:
+a systematic review. Int J Impot Res 33(8):793–800
+18. Cacciamani GE, Tafuri A, Iwata A, Iwata T, Medina L, Gill K
+et al (2020) Quality assessment of intraoperative adverse event
+reporting during 29 227 robotic partial nephrectomies: a
+
+
+systematic review and cumulative analysis. Eur Urol Oncol
+3(6):780–783
+19. Cacciamani GE, Medina LG, Tafuri A, Gill T, Baccaglini W,
+Blasic V et al (2020) Impact of implementation of standardized
+criteria in the assessment of complication reporting after robotic
+partial nephrectomy: a systematic review. Eur Urol Focus
+6(3):513–517
+20. Cumpston M, Li T, Page MJ, Chandler J, Welch VA, Higgins JP
+et al (2019) Updated guidance for trusted systematic reviews: a
+new edition of the Cochrane Handbook for Systematic Reviews
+of Interventions. Cochrane Editorial Unit, editor. Cochrane
+Database Syst Rev [Internet]. 2019 Oct 3 [cited 2022 Jul 11];
+[https://doi.org/10.1002/14651858.ED000142](https://doi.org/10.1002/14651858.ED000142)
+21. Cacciamani GE, Sholklapper T, Dell’Oglio P, Rocco B, Annino
+F, Antonelli A et al (2022) The intraoperative complications
+assessment and reporting with universal standards (ICARUS)
+global surgical collaboration project: development of criteria for
+reporting adverse events during surgical procedures and evaluating their impact on the postoperative course. Eur Urol Focus
+8:1847–1858
+
+22. Cacciamani G, Sholklapper T, Sotelo R, Desai M, Gill I (2021) A
+protocol for the development of the intraoperative complications
+assessment and reporting with universal standards criteria: the
+ICARUS project. Int J Surg Protoc 25(1):160–164
+23. Clavien PA, Barkun J, de Oliveira ML, Vauthey JN, Dindo D,
+Schulick RD et al (2009) The Clavien-Dindo classification of
+surgical complications: five-year experience. Ann Surg
+250(2):187–196
+24. Kaafarani HMA, Mavros MN, Hwabejire J, Fagenholz P, Yeh
+DD, Demoya M et al (2014) Derivation and validation of a novel
+severity classification for intraoperative adverse events. J Am
+Coll Surg 218(6):1120–1128
+25. Biyani CS, Pecanka J, Roupreˆt M, Jensen JB, Mitropoulos D
+(2020) Intraoperative Adverse Incident Classification (EAUiaiC)
+by the European association of urology ad hoc complications
+guidelines panel. Eur Urol 77(5):601–610
+26. Dell-Kuster S, Gomes NV, Gawria L, Aghlmandi S, Aduse-Poku
+M, Bissett I et al (2020) Prospective validation of classification of
+intraoperative adverse events (ClassIntra): international, multicentre cohort study. BMJ 25:m2917
+27. On behalf of the EAES committees, Francis NK, Curtis NJ, Conti
+JA, Foster JD, Bonjer HJ et al (2018) EAES classification of
+intraoperative adverse events in laparoscopic surgery. Surg
+Endosc 32(9):3822–3829
+28. Cacciamani GE (2022) Intraoperative adverse events grading
+tools and their role in honest and accurate reporting of surgical
+[outcomes. Surgery. https://doi.org/10.1016/j.surg.2022.04.029](https://doi.org/10.1016/j.surg.2022.04.029)
+29. Soliman C, Mulholland CJ, Santaguida P, Sathianathen NJ,
+Lawrentschuk N, Giannarini G et al (2022) Protocol for CAMUS
+Delphi study: a consensus on comprehensive reporting and
+grading of complications after urological surgery. Eur Urol
+[Focus. https://doi.org/10.1016/j.euf.2022.01.016](https://doi.org/10.1016/j.euf.2022.01.016)
+30. ICARUS Classification System Working Group, Cacciamani GE,
+Sholklapper TN, Dell-Kuster S, Biyani CS, Francis N et al (2022)
+Assessing, grading, and reporting intraoperative adverse events
+during and after surgery. Br J Surg 109(4):301–302
+31. Enrico Cacciamani G, Sholklapper T, Dell-Kuster S, Biyani SC,
+Francis N, Kaafarani HM et al (2022) Standardizing the intraoperative adverse events assessment to create a positive culture of
+reporting errors in surgery and anesthesiology. Ann Surg
+276(2):e75–e76
+32. Artibani W (2018) what you measure depends on the tool you
+use: a short step from incorrect measurements to fake data. Eur
+Urol 74(1):8–9
+33. Document C. The diagnosis and treatment of peripheral lymphedema: 2020 consensus document of the international society
+## 123
+
+974 World J Surg (2023) 47:962–974
+
+
+of lymphology. Lymphology [Internet]. 2020 Jun 2 [cited 2022
+[Apr 6];53(1). Available from: https://journals.librarypublishing.](https://journals.librarypublishing.arizona.edu/lymph/article/id/4649/)
+[arizona.edu/lymph/article/id/4649/](https://journals.librarypublishing.arizona.edu/lymph/article/id/4649/)
+34. Cormier JN, Askew RL, Mungovan KS, Xing Y, Ross MI, Armer
+JM (2010) Lymphedema beyond breast cancer: a systematic
+review and meta-analysis of cancer-related secondary lymphedema. Cancer 116(22):5138–5149
+35. Yamamoto T, Yamamoto N, Doi K, Oshima A, Yoshimatsu H,
+Todokoro T et al (2011) Indocyanine green-enhanced lymphography for upper extremity lymphedema: a novel severity staging
+system using dermal backflow patterns. Plast Reconstr Surg
+128(4):941–947
+36. Yamamoto T, Matsuda N, Doi K, Oshima A, Yoshimatsu H,
+Todokoro T et al (2011) The earliest finding of indocyanine green
+lymphography in asymptomatic limbs of lower extremity lymphedema patients secondary to cancer treatment: the modified
+dermal backflow stage and concept of subclinical lymphedema.
+Plast Reconstr Surg 128(4):314e-e321
+37. Leone A, Diorio GJ, Pettaway C, Master V, Spiess PE (2017)
+Contemporary management of patients with penile cancer and
+lymph node metastasis. Nat Rev Urol 14(6):335–347
+38. Rabe E, Partsch H, Hafner J, Lattimer C, Mosti G, Neumann M
+et al (2018) Indications for medical compression stockings in
+venous and lymphatic disorders: an evidence-based consensus
+statement. Phlebol J Venous Dis 33(3):163–184
+39. US Department of Health and Human Services (2017) Common
+terminology criteria for adverse events. Version 5.0
+40. Tobias-Machado M, Tavares A, Molina WR Jr, Forseto PH Jr,
+Juliano RV, Wroclawski ER (2006) Video endoscopic inguinal
+lymphadenectomy (VEIL): minimally invasive resection of
+inguinal lymph nodes. Int Braz J Urol 32(3):316–321
+41. Loughlin KR (2006) Surgical atlas surgical management of penile
+carcinoma: the inguinal nodes. BJU Int 97(5):1125–1134
+42. Koifman L, Hampl D, Koifman N, Vides AJ, Ornellas AA (2013)
+Radical open inguinal lymphadenectomy for penile carcinoma:
+surgical technique, early complications and late outcomes. J Urol
+190(6):2086–2092
+43. Bevan-Thomas R, Slaton JW, Pettaway CA (2002) COntemporary morbidity from lymphadenectomy for penile squamous cell
+carcinoma: the M.D. Anderson cancer center experience. Comparative study 167(4):1638–42
+44. Spiess PE, Hernandez MS, Pettaway CA (2009) Contemporary
+inguinal lymph node dissection: minimizing complications.
+World J Urol 27(2):205–212
+45. Sood A, Rudzinski JK, Spiess PE, Pettaway CA (2022) The acute
+complications after surgery for penile carcinoma and strategies
+for their management: a systematic review of the literature.
+Semin Oncol Nurs 38(3):151285
+## 123
+
+
+46. Solar IN, Gipponi MA, Franco DSCRI, Re` FE, Sonia O, Bertog
+Lio S et al (2016) Videoscopic Inguinal-iliac-obturator lymphnode dissection: new videoscopic technique for regional lymphadenectomy in patients with Melanom. Anticancer Res
+36(12):6579–84
+47. Tobias-Machado M, Tavares A, Silva MNR, Molina WR Jr,
+Forseto PH, Juliano RV et al (2008) Can Video endoscopic
+inguinal lymphadenectomy achieve a lower morbidity than open
+lymph node dissection in penile cancer patients? J Endourol
+22(8):1687–1692
+48. Kumar V, Sethia KK (2017) Prospective study comparing videoendoscopic radical inguinal lymph node dissection (VEILND)
+with open radical ILND (OILND) for penile cancer over an
+8-year period. BJU Int 119(4):530–534
+49. Nabavizadeh R, Petrinec B, Necchi A, Tsaur I, Albersen M,
+Master V (2020) Utility of minimally invasive technology for
+inguinal lymph node dissection in penile cancer. J Clin Med
+9(8):2501
+50. Renner P, Torzewski M, Zeman F, Babilas P, Kroemer A, Schlitt
+HJ et al (2017) Increasing morbidity with extent of lymphadenectomy for primary malignant melanoma. Lymphat Res
+Biol 15(2):146–152
+51. Faut M, Heidema RM, Hoekstra HJ, van Ginkel RJ, Been SLB,
+Kruijff S et al (2017) Morbidity after inguinal lymph node dissections: it is time for a change. Ann Surg Oncol 24(2):330–339
+52. Stuiver MM, Djajadiningrat RS, Graafland NM, Vincent AD,
+Lucas C, Horenblas S (2013) Early wound complications after
+inguinal lymphadenectomy in penile cancer: a historical cohort
+study and risk-factor analysis. Eur Urol 64(3):486–492
+53. Sars C, Gillgren P, Schultz I, Lindqvist EK (2020) Risk factors
+for complications and long-term outcomes following completion
+lymph node dissection for cutaneous melanoma: a retrospective
+cohort study. J Plast Reconstr Aesthet Surg 73(8):1540–1546
+54. Wevers KP, Poos HPAM, van Ginkel RJ, van Etten B, Hoekstra
+HJ (2013) Early mobilization after ilio-inguinal lymph node
+dissection for melanoma does not increase the wound complication rate. Eur J Surg Oncol EJSO 39(2):185–190
+
+Publisher’s Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds
+exclusive rights to this article under a publishing agreement with the
+author(s) or other rightsholder(s); author self-archiving of the
+accepted manuscript version of this article is solely governed by the
+terms of such publishing agreement and applicable law.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

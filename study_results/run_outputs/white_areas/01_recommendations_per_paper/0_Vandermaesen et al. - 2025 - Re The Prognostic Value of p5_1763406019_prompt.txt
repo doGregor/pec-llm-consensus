@@ -1,0 +1,191 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    534 E U R O P E A N U R O L O G Y 8 8 ( 2 0 2 5 ) 5 2 8 – 5 3 5
+
+
+Associate Editor:
+
+George Thalmann
+
+Accepted 27 May 2025
+
+Re: The Prognostic Value of p53 and Ki-67 Expression
+Status in Penile Cancer: A Systematic Review and Metaanalysis
+
+Sand FL, Lindquist S, Aalborg GL, Kjaer SK
+
+Pathology 2025;57:276–84
+
+Experts’ summary:
+The meta-analysis by Sand et al investigated the prognostic
+relevance of p53 and Ki-67 immunohistochemistry (IHC) in
+penile squamous cell carcinoma (PSCC). Overall survival
+(OS) and cancer-specific survival (CSS) were analyzed using
+pooled hazard ratios (HRs) and restricted mean survival
+time (RMST). The authors included 20 studies, of which 15
+assessed survival according to p53 status and seven according to Ki-67 status. A p53 mutant pattern was associated
+with significantly worse OS (HR 2.42, 95% confidence interval (CI) 1.75–3.34) among 930 men. For CSS, assessed in 391
+men, the association was even stronger (HR 4.18, 95% CI
+1.87–9.35). The RMST results support this, with a mean
+OS reduction of more than 10 months in the p53-mutated
+group. By contrast, evidence regarding Ki-67 was limited,
+but high Ki-67 expression appeared to be linked to worse
+CSS (HR 1.96, 95% CI 1.15–3.32). No association was found
+between OS and Ki-67. These results position p53 as a
+potentially valuable biomarker in clinical decision-making
+and follow-up planning in PSCC.
+
+Experts’ comments:
+Although rare, PSCC remains a challenging malignancy,
+with considerable prognostic heterogeneity and no reliable
+biomarkers to guide treatment and follow-up. Previous
+studies have focused mainly on human papillomavirus
+(HPV) status and its surrogate marker p16 [1]. However,
+their prognostic value and therapeutic implications remain
+uncertain. By contrast, this meta-analysis highlights P53
+mutations as a more powerful prognostic factor than p16
+
+[1]. Recent molecular studies support the relevance of p53
+in PSCC: a single-cell RNA sequencing analysis showed a
+highly aggressive, immune-excluded tumor microenvironment in TP53-mutated PSCC [2]. The higher prevalence of
+TP53 mutations in HPV-independent PSCC may explain the
+poorer prognosis in comparison to HPV-associated tumors,
+possibly because of greater therapy resistance in advanced
+TP53-mutated cases.
+
+
+0302-2838/� 2025 European Association of Urology. Published by
+
+Elsevier B.V. All rights are reserved, including those for text and data
+
+mining, AI training, and similar technologies.
+
+[https://doi.org/10.1016/j.eururo.2025.05.029](https://doi.org/10.1016/j.eururo.2025.05.030)
+
+- Department of Surgery (Urology), UConn Health, 263 Farmington
+Avenue, Farmington, CT 06070, USA.
+
+Nonetheless, key challenges remain before p53 IHC can
+be clinically implemented, particularly regarding its interpretation. Recent evidence supports a more accurate pattern-based framework [3]. Hence, the results from this
+meta-analysis should be interpreted with caution, as null
+patterns and cytoplasmic overexpression of p53 on IHC
+were disregarded in several of the studies included. Standardized interpretation will be crucial to ensure reproducibility across studies and clinical settings. Another
+challenge is integration of p53 with p16 IHC in clinical practice and the definition of prognostic subgroups. One widely
+used classification, as applied in vulvar cancer, categorizes
+cases as HPV-associated, HPV-independent/p53-wildtype,
+and HPV-independent/p53-mutant tumors [4]. However,
+p53 mutations also occur in HPV-associated PSCC cases,
+which complicates subgroup definitions [5].
+Taken together, these findings underscore the growing
+potential of p53 as a clinically meaningful prognosticator
+in PSCC. However, widespread implementation will depend
+on further prospective validation and standardized IHC
+interpretation.
+
+Conflicts of interest: The authors have nothing to disclose.
+
+References
+
+[1] Mustasam A et al. The prognostic role of HPV or p16 [INK4a] status in
+penile squamous cell carcinoma: a meta-analysis. J Natl Compr
+Cancer Netw 2025;23:e247078. [https://doi.org/10.6004/](https://doi.org/10.6004/jnccn.2024.7078)
+[jnccn.2024.7078.](https://doi.org/10.6004/jnccn.2024.7078)
+
+[2] Elst L et al. Single-cell atlas of penile cancer reveals TP53 mutations
+as a driver of an aggressive phenotype, irrespective of human
+papillomavirus status, and provides clues for treatment
+[personalization. Eur Urol 2024;86:114–27. https://doi.org/10.1016/](https://doi.org/10.1016/j.eururo.2024.03.038)
+[j.eururo.2024.03.038.](https://doi.org/10.1016/j.eururo.2024.03.038)
+
+[[3] Trias I et al. P53 in penile squamous cell carcinoma: a pattern-based](http://refhub.elsevier.com/S0302-2838(25)00287-8/h0015)
+immunohistochemical [framework](http://refhub.elsevier.com/S0302-2838(25)00287-8/h0015) with molecular correlation.
+
+[Cancers 2023;15:2719.](http://refhub.elsevier.com/S0302-2838(25)00287-8/h0015)
+
+[[4] Trias I et al. p53 immunohistochemistry defines a subset of human](http://refhub.elsevier.com/S0302-2838(25)00287-8/h0020)
+[papillomavirus–independent penile squamous cell carcinomas with](http://refhub.elsevier.com/S0302-2838(25)00287-8/h0020)
+[adverse prognosis. Am J Surg Pathol 2024;48:1439–47.](http://refhub.elsevier.com/S0302-2838(25)00287-8/h0020)
+
+[[5] Necchi A et al. Genomic profiles and clinical outcomes of penile](http://refhub.elsevier.com/S0302-2838(25)00287-8/h0025)
+[squamous cell carcinoma with elevated tumor mutational burden.](http://refhub.elsevier.com/S0302-2838(25)00287-8/h0025)
+[JAMA Netw Open 2023;6:e2348002.](http://refhub.elsevier.com/S0302-2838(25)00287-8/h0025)
+
+Kaat Vandermaesen [a][,][b][,][c]
+
+Laura Elst [a][,][b][,][c]
+
+Xianjie Xiu [a][,][b][,][c]
+
+Maarten Albersen [b][,][c][,][*]
+
+E U R O P E A N U R O L O G Y 8 8 ( 2 0 2 5 ) 5 2 8 – 5 3 5 535
+
+
+a VIB-KU Leuven, Center for Cancer Biology, Laboratory of Translational
+Genetics, Leuven, Belgium
+b Department of Urology, University Hospitals Leuven, Leuven, Belgium
+c Department of Development and Regeneration, KU Leuven, Leuven, Belgium
+
+  - Corresponding author. Department of Urology, University Hospitals
+Leuven, Herestraat 49, 3000 Leuven, Belgium.
+[E-mail address: maarten.albersen@uzleuven.be<.](mailto:maarten.albersen@uzleuven.be)
+
+[Associate Editor:](mailto:maarten.albersen@uzleuven.be)
+
+[George Thalmann](mailto:maarten.albersen@uzleuven.be)
+
+
+[Accepted 27 May 2025](mailto:maarten.albersen@uzleuven.be)
+
+0302-2838/� [2025 European Association of Urology. Published by](mailto:maarten.albersen@uzleuven.be)
+
+[Elsevier B.V. All rights are reserved, including those for text and data](mailto:maarten.albersen@uzleuven.be)
+
+[mining, AI training, and similar technologies.](mailto:maarten.albersen@uzleuven.be)
+
+[https://doi.org/10.1016/j.eururo.2025.05.030](mailto:maarten.albersen@uzleuven.be)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

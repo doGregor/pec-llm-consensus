@@ -1,0 +1,123 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=1631 candidates_tokens_details=None prompt_token_count=43887 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=40017), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=3870)] thoughts_token_count=2719 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=48237 traffic_type=None
+
+
+**Extraction of Penile Cancer Treatment Recommendations**
+
+Alright, let's break down this guideline. My task is to distill explicit treatment recommendations into a usable format. I've gone through the document meticulously, focusing on sections dedicated to recommendations and management of specific disease stages. Here's a summary of the key findings, organized by the aspect of care:
+
+**Diagnosis & Staging**
+
+*   Clinical assessment of the primary tumour and inguinal nodes, along with imaging studies like MRI and US, are fundamental.
+*   CT is advised for all cases to rule out distant metastases.
+*   FNAC should be used for clinically impalpable inguinal nodes. Palpable inguinal nodes necessitate percutaneous FNAC.
+
+**Primary Tumour Management**
+
+*   **PeIN:** Circumcision is mandatory initially. Residual PeIN can be treated topically (5-FU or imiquimod) or with CO2 laser ablation. Wide local excision or glans resurfacing is considered if topical treatment fails.
+*   **Ta-1:** Circumcision for tumours on the foreskin. Wide local excision or advancement flap for small glans tumours is preferred. Glans resurfacing is recommended for PeIN or T1a lesions. Mohs micrographic surgery may be used for small, low-grade penile lesions. Brachytherapy is an option for pT1 lesions.
+*   **T2:** Glansectomy (with or without distal urethrectomy) is the surgical treatment of choice for T2 tumours on the glans penis. Partial or total penectomy is a valid alternative if adequate surgical margins cannot be ensured. Brachytherapy is also an option for low-volume T1-T2 tumours.
+*   **T3:** Partial or total penectomy combined with a perineal urethrostomy are the treatments of choice.
+*   **T4:** Total penectomy with perineal urethrostomy is the recommended option.
+
+**Regional Lymph Node Management**
+
+*   **cN0 (Low-risk):** Managed with clinical surveillance.
+*   **cN0 (Intermediate/High-risk):** Active treatment is recommended. DSLNB is the preferred approach. If DSLNB is unavailable, modified ILND can be performed.
+*   **cN1-2:** Radical inguinal lymphadenectomy is indicated if metastatic disease is confirmed.
+*   **cN3 (Bulky/Ulcerated Disease):** Neoadjuvant chemotherapy (ChT) followed by ipsilateral radical inguinal and pelvic lymphadenectomy in responders is the recommended strategy.
+*   **Pelvic LN Dissection:** Unilateral pelvic lymphadenectomy is indicated for patients with two or more ipsilateral inguinal metastases, metastasis diameter ≥30 mm, or extranodal extension.
+*   **Salvage ILND:** For recurrent inguinal disease without distant metastases, salvage inguinal lymphadenectomy with myocutaneous flap reconstruction is an option. Multimodal treatment with neoadjuvant or adjuvant ChT is advised in this situation.
+
+**Systemic Therapy (Locally Advanced & Metastatic)**
+
+*   **Neoadjuvant ChT:**  Considered for T4, inoperable primary, or fixed cN3 disease. A triplet regimen such as TIP or TPF should be discussed.
+*   **Adjuvant ChT:** Recommended for high-risk patients (pN2-pN3) after lymph node dissection. Four cycles of TIP or TPF should be considered.
+*   **Post-operative RT:** Recommended for pN3 disease (50 Gy in 2 Gy fractions), potentially with higher doses (up to 66 Gy) if clinically indicated. Adjuvant chemotherapy is also advised.
+*   **Responders to Neoadjuvant ChT:** Should undergo consolidation surgery.
+*   **Non-responders to Neoadjuvant ChT:** May consider further ChT, RT, or a clinical trial.
+
+**Recurrent Disease Management**
+
+*   **Recurrent (Local):** Penile-sparing surgery for non-invasive recurrence. Partial or total penectomy for invasive recurrence.
+*   **Recurrent (Regional):** Systemic ChT, external beam radiotherapy (EBRT), surgery, or a combination of these modalities.
+*   **Metastatic:** Systemic ChT is the primary approach (platinum-based combinations like cisplatin-5FU, carboplatin-paclitaxel, TIP, or TPF). Participation in a clinical trial is strongly recommended.
+*   **Metastatic (Second-line):** For non-responders to first-line ChT, consider second-line ChT, RT for local control, best supportive care, or enrollment in a clinical trial.
+*   **Palliative RT:** Used for sites requiring local control.
+
+**Follow-up Care**
+
+*   Close follow-up every 3-4 months for the initial two years following primary surgery is crucial to detect local recurrence.
+*
+
+
+**Extraction of Penile Cancer Treatment Recommendations**
+
+Alright, let's break down this guideline. My task is to distill explicit treatment recommendations into a usable format. I've gone through the document meticulously, focusing on sections dedicated to recommendations and management of specific disease stages. Here's a summary of the key findings, organized by the aspect of care:
+
+**Diagnosis & Staging**
+
+*   Clinical assessment of the primary tumour and inguinal nodes, along with imaging studies like MRI and US, are fundamental.
+*   CT is advised for all cases to rule out distant metastases.
+*   FNAC should be used for clinically impalpable inguinal nodes. Palpable inguinal nodes necessitate percutaneous FNAC.
+
+**Primary Tumour Management**
+
+*   **PeIN:** Circumcision is mandatory initially. Residual PeIN can be treated topically (5-FU or imiquimod) or with CO2 laser ablation. Wide local excision or glans resurfacing is considered if topical treatment fails.
+*   **Ta-1:** Circumcision for tumours on the foreskin. Wide local excision or advancement flap for small glans tumours is preferred. Glans resurfacing is recommended for PeIN or T1a lesions. Mohs micrographic surgery may be used for small, low-grade penile lesions. Brachytherapy is an option for pT1 lesions.
+*   **T2:** Glansectomy (with or without distal urethrectomy) is the surgical treatment of choice for T2 tumours on the glans penis. Partial or total penectomy is a valid alternative if adequate surgical margins cannot be ensured. Brachytherapy is also an option for low-volume T1-T2 tumours.
+*   **T3:** Partial or total penectomy combined with a perineal urethrostomy are the treatments of choice.
+*   **T4:** Total penectomy with perineal urethrostomy is the recommended option.
+
+**Regional Lymph Node Management**
+
+*   **cN0 (Low-risk):** Managed with clinical surveillance.
+*   **cN0 (Intermediate/High-risk):** Active treatment is recommended. DSLNB is the preferred approach. If DSLNB is unavailable, modified ILND can be performed.
+*   **cN1-2:** Radical inguinal lymphadenectomy is indicated if metastatic disease is confirmed.
+*   **cN3 (Bulky/Ulcerated Disease):** Neoadjuvant chemotherapy (ChT) followed by ipsilateral radical inguinal and pelvic lymphadenectomy in responders is the recommended strategy.
+*   **Pelvic LN Dissection:** Unilateral pelvic lymphadenectomy is indicated for patients with two or more ipsilateral inguinal metastases, metastasis diameter ≥30 mm, or extranodal extension.
+*   **Salvage ILND:** For recurrent inguinal disease without distant metastases, salvage inguinal lymphadenectomy with myocutaneous flap reconstruction is an option. Multimodal treatment with neoadjuvant or adjuvant ChT is advised in this situation.
+
+**Systemic Therapy (Locally Advanced & Metastatic)**
+
+*   **Neoadjuvant ChT:**  Considered for T4, inoperable primary, or fixed cN3 disease. A triplet regimen such as TIP or TPF should be discussed.
+*   **Adjuvant ChT:** Recommended for high-risk patients (pN2-pN3) after lymph node dissection. Four cycles of TIP or TPF should be considered.
+*   **Post-operative RT:** Recommended for pN3 disease (50 Gy in 2 Gy fractions), potentially with higher doses (up to 66 Gy) if clinically indicated. Adjuvant chemotherapy is also advised.
+*   **Responders to Neoadjuvant ChT:** Should undergo consolidation surgery.
+*   **Non-responders to Neoadjuvant ChT:** May consider further ChT, RT, or a clinical trial.
+
+**Recurrent Disease Management**
+
+*   **Recurrent (Local):** Penile-sparing surgery for non-invasive recurrence. Partial or total penectomy for invasive recurrence.
+*   **Recurrent (Regional):** Systemic ChT, external beam radiotherapy (EBRT), surgery, or a combination of these modalities.
+*   **Metastatic:** Systemic ChT is the primary approach (platinum-based combinations like cisplatin-5FU, carboplatin-paclitaxel, TIP, or TPF). Participation in a clinical trial is strongly recommended.
+*   **Metastatic (Second-line):** For non-responders to first-line ChT, consider second-line ChT, RT for local control, best supportive care, or enrollment in a clinical trial.
+*   **Palliative RT:** Used for sites requiring local control.
+
+**Follow-up Care**
+
+*   Close follow-up every 3-4 months for the initial two years following primary surgery is crucial to detect local recurrence.
+* Based on the ESMO-EURACAN Clinical Practice Guideline, the following table details the explicit treatment recommendations for penile cancer.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Diagnosis & Staging** | **Primary Tumour Assessment:** Clinical assessment should record size, morphology, and relationship to adjacent structures. In cases of uncertainty, MRI or penile ultrasound (US) combined with an intracavernosal injection of prostaglandin E1 can be useful. |
+| **Diagnosis & Staging** | **Distant Metastasis Assessment:** CT of the chest, abdomen, and pelvis is advised in all cases. For patients with high-risk disease, MRI or CT fusion PET can be used. |
+| **Primary Tumour Management** | **Penile Intraepithelial Neoplasia (PeIN):**<br>• **Initial Treatment:** Circumcision is recommended for any biopsy-proven PeIN located on the glans or prepuce.<br>• **Residual Disease:** Following circumcision, treat residual PeIN with topical agents (e.g., 5-FU, imiquimod) or CO2 laser ablation.<br>• **Treatment Failure:** If topical treatment fails, wide local excision or glans resurfacing should be considered. Response to topical therapy should be assessed clinically or with a repeat biopsy. |
+| **Primary Tumour Management** | **Ta-T1 Disease:**<br>• **Surgical Options:** Wide local excision of lesions on the glans or a glans resurfacing procedure is recommended, with reconstruction using a split-thickness skin graft (SSG) or penile shaft skin.<br>• **Specialised Surgery:** Mohs micrographic surgery may be performed for low-grade T1 lesions, but only if the appropriate clinical set-up, including a pathologist, is available.<br>• **Radiotherapy Alternative:** Brachytherapy is an alternative to surgery for pT1 disease; patients should be referred to specialist centres for multidisciplinary consideration. |
+| **Primary Tumour Management** | **T2-T4 Disease:**<br>• **T2 on Glans:** Glansectomy with or without distal urethrectomy and SSG reconstruction is recommended.<br>• **T3-T4 (Corpus Cavernosum Invasion):** Partial or total penectomy with perineal urethrostomy is recommended.<br>• **Radiotherapy Alternative (T1-T2):** In selected patients with low-volume T1-T2 disease, brachytherapy is an option in specialist centres. |
+| **Primary Tumour Management** | **Radiotherapy (RT) for Primary Disease:**<br>• **General:** Physicians in specialist centres may recommend LDR or HDR brachytherapy, especially if surgery is not an option.<br>• **External Beam RT (EBRT):** A typical course is 66-74 Gy in 2 Gy fractions, five times per week.<br>• **Brachytherapy (HDR):** For intact tumours, the most frequently proposed schedule is 42-45 Gy in 12-14 fractions. The usual dose can also be 35 Gy in nine fractions over 5 days.<br>• **Brachytherapy (LDR/PDR):** The usual dose is 60-65 Gy delivered continuously (LDR) or in hourly pulses (PDR) over 5 days. |
+| **Regional Lymph Node Management** | **cN0 (Non-palpable) Disease:**<br>• **Low-Risk (pTa/pTis and pT1G1):** Clinical surveillance of inguinal nodes is recommended.<br>• **Intermediate/High-Risk (pT1G2, pT1-4G3/G4 or lymphovascular invasion):** Dynamic sentinel lymph node biopsy (DSLNB) should be performed. If positive, proceed to radical inguinal lymphadenectomy. |
+| **Regional Lymph Node Management** | **cN1-2 (Palpable) Disease:** Radical inguinal lymphadenectomy is recommended to remove superficial and deep inguinal lymph nodes, with preservation of the long saphenous vein and fascia lata where possible. |
+| **Regional Lymph Node Management** | **cN3 (Bulky/Ulcerated) Disease:** Neoadjuvant chemotherapy (ChT) with triplet regimens (e.g., TIP or TPF) should be discussed for eligible patients with fixed nodes. Responders should undergo ipsilateral radical inguinal lymphadenectomy, with or without pelvic lymphadenectomy. |
+| **Regional Lymph Node Management** | **Pelvic Lymph Node Dissection (PLND):** Unilateral PLND is recommended for patients with two or more ipsilateral inguinal metastases, a metastasis with a diameter of ≥30 mm, or extranodal extension. |
+| **Regional Lymph Node Management** | **Salvage Inguinal Lymph Node Dissection (ILND):** Salvage ILND with myocutaneous flap reconstruction may be recommended for recurrent inguinal disease. It should be part of a multimodal treatment plan that includes neoadjuvant or adjuvant ChT. |
+| **Systemic Therapy** | **Locally Advanced Disease (Adjuvant ChT):** For patients with pN2 and pN3 disease following lymph node dissection (LND), adjuvant ChT should be considered. |
+| **Systemic Therapy** | **Locally Advanced Disease (Adjuvant RT):** For patients with pN3 disease, consider adjuvant RT with at least 50 Gy in 2 Gy fractions (or a biological equivalent dose in 1.8 Gy fractions) in combination with adjuvant ChT. Higher doses up to 66 Gy have also been recommended. |
+| **Systemic Therapy** | **Metastatic Disease (First-Line):** Treatment options include systemic ChT with platinum-based combination regimens (e.g., cisplatin-5FU, carboplatin-paclitaxel, TIP, or TPF), depending on patient comorbidities, fitness, and ECOG PS. Clinical trial enrolment is strongly recommended. |
+| **Systemic Therapy** | **Metastatic Disease (Subsequent Lines):** For patients with no response or disease progression, consider second-line systemic ChT, RT for local control, best supportive care, or a clinical trial. |
+| **Systemic Therapy** | **Metastatic Disease (Molecularly Selected):**<br>• Biomarker-selected clinical trials should be considered where available.<br>• In selected patients whose tumours have a high TMB, MSI-H, or dMMR, the use of anti-PD-L1 immunotherapy can be considered. |
+| **Recurrent Disease Management** | **Local Recurrence:**<br>• **Non-invasive:** Salvage penile-sparing options can be considered.<br>• **Invasive:** Invasion of the corpora cavernosa warrants partial or total penectomy. |
+| **Recurrent Disease Management** | **Regional Recurrence:** For recurrences in the inguinal and pelvic lymph nodes, consider systemic ChT, EBRT, surgery, or a combination thereof. |
+| **Follow-up Care** | **Frequency & Duration:** Close follow-up every 3-4 months is required for the first 2 years following primary surgery to detect local recurrence. |
+| **Follow-up Care** | **Procedures:** Follow-up should include clinical examination and imaging. Imaging may consist of US of the inguinal LNs for patients post-DSLNB or regular CT surveillance for patients post-radical inguinal lymphadenectomy for pN+ disease. |
+| **Follow-up Care** | **Supportive Care:** Regular follow-up should provide psychological support and address sexual and urinary dysfunction, as well as lymphoedema-related complications. |

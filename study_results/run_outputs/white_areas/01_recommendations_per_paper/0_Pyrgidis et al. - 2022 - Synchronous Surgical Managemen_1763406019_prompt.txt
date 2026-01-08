@@ -1,0 +1,1298 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    #### **Lieferschein **
+
+ZB MED - Informationszentrum Lebenswissenschaften
+
+ - Dokumentlieferung –
+
+Gleueler Str. 60
+
+D-50931 Koeln
+
+
+Tel.:
+
+Fax:
+
+Email:
+
+
+++49-221-999-892334
+
+++49-221-478-7451
+
+dokulieferung@zbmed.de
+
+
+**Empfänger**
+
+Klinik fuer Urologie
+
+Caritas-Krankenhaus St. Josef
+
+Landshuter Str. 65
+
+D-93053 Regensburg
+
+**Angaben zur Bestellung** **:**
+
+
+Bestelldatum:
+
+Bestellnummer:
+
+Name des Bestellers:
+Benutzerkennung: HSL17X00507
+
+Lieferdatum:
+Lieferpriorität: NORMAL
+Aktueller Lieferweg: Email
+E-Mail Adresse:
+
+Bemerkungen zur Auslieferung:
+
+
+
+
+
+**Angaben zum Dokument:**
+
+Signatur:
+Autor:
+
+Titel:
+
+Jahr: 2022
+Band / Jahrgang: 10 / 4
+Seiten: 782-790
+
+Aufsatzautor:
+
+Aufsatztitel:
+
+ISSN: 2050-0521
+
+ISBN:
+
+CODEN:
+
+Ihre Bemerkung zur Bestellung:
+
+
+
+[ONL] ND:2720478-9
+
+
+Sexual medicine reviews
+
+2022
+
+10 / 4
+
+782-790
+
+Pyrgidis, Nikolaos; Barham, David W.; Ha
+Synchronous Surgical Management of Erectile Dysfunction a
+
+2050-0521
+
+# **subito Urheberrechtshinweis **
+
+Die Bestellung und Nutzung der über subito gelieferten Aufsatzkopien
+unterliegen urheberrechtlichen Bestimmungen. Mit der Registrierung
+bei subito verpflichten Sie sich, diese einzuhalten.
+
+Kopien von subito sind grundsätzlich zum eigenen Gebrauch bestimmt
+und dürfen, außer, wenn sie durch eine Hilfsperson bestellt worden sind,
+nicht an Dritte weitergegeben werden. Für kommerzielle Nutzer der von subito gelieferten
+Kopien ist die gemeinsame Verwendung ausgelieferter Kopien innerhalb einer Firma oder
+eines Unternehmens allerdings ausdrücklich gestattet.
+
+Die Kopien sind mit einem Wasserzeichen versehen, welches einen
+Urheberrechtsvermerk enthält. Das von subito e.V. angebrachte Wasserzeichen darf nicht
+
+entfernt werden.
+
+Weiterverwendet werden können innerhalb Deutschlands durch deutsche Bibliotheken
+
+ausgelieferte Kopien unter Beachtung der urheberrechtlichen Schrankenregelungen. So
+können sie zum Beispiel unter Einhaltung der nach § 60a UrhG geltenden Bestimmungen
+für den Unterricht und die Lehre an Bildungseinrichtungen, etwa auch für
+Semesterapparate und in Schulen genutzt werden. Dies gilt nicht nur für analoge, sondern
+auch für digitale Plattformen für Unterrichts- und Lehrmedien. Unter Beachtung von § 45
+UrhG können analoge und digitale Kopien auch in Verfahren vor einem Gericht, einem
+Schiedsgericht oder einer Behörde verwendet werden.
+
+Für Kopienlieferungen mit dem Ziel außerhalb Deutschlands sind alle einschlägigen
+urheberrechtlichen Bestimmungen des Landes zu beachten, in dem der Nutzer seinen
+
+(Wohn-) Sitz hat.
+
+Im Zweifel wenden Sie sich bitte an die Rechtsabteilung Ihres Unternehmens oder an
+
+einen Rechtsanwalt.
+
+Deutsche Zentralbibliothek für Medizin (ZB MED)
+Informationszentrum Lebenswissenschaften
+
+Deutsche Zentralbibliothek für Medizin
+(ZB MED)
+Informationszentrum
+Lebenswissenschaften
+Gleueler Str. 60
+50931 Köln
++49 (0)221 478-7070 (Information)
+info@zbmed.de
+www.zbmed.de
+
+Herr/Frau
+Köln, 10.11.2025
+Caritas-Krankenhaus St. Josef Klinik fuer
+Urologie
+Landshuter Str. 65
+93053 Regensburg
+
+**SUBITO-Dokumentlieferung - Lieferschein (bitte Rechnung abwarten)**
+
+**Angaben zur Lieferung**
+
+Kundennummer: HSL17X00507
+
+Bestellnummer: SUBITO:VE25111000207
+
+Bestelldatum: 10.11.2025
+Lieferweg: FTP
+Lieferpriorität: Normal-Bestellung
+
+**Kundendaten**
+
+Name: Frau Cornelia Mohaupt
+E-Mail: cmohaupt@csj.de
+Ihr Aktenzeichen:
+
+**Angaben zum bestellten Dokument**
+
+Signatur: [ONL] ND:2720478-9
+Titel: Sexual medicine reviews
+
+Jahrgang/Heft: 10 / 4
+Erscheinungsjahr: 2022
+Seiten: 782-790
+
+Autor:
+
+Pyrgidis, Nikolaos; Barham, David W.; Ha
+Artikel: Synchronous Surgical Management of Erectile Dysfunction and Stress Urinary Incontinence: A
+Systemati
+
+|Die ZB MED weist Sie als Empfänger darauf hin, dass Sie nach geltendem Urheberrecht die von uns übersandten Vervielfältigungsstücke ausschliesslich zum privaten oder sonstigen eigenen Gebrauch verwenden dürfen und weder entgeltlich noch unentgeltlich in Papierform oder als elektronische Kopie verbreiten dürfen.|Col2|
+|---|---|
+|ZB MED||
+
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+## SEXUAL MEDICINE REVIEWS
+#### Synchronous Surgical Management of Erectile Dysfunction and Stress Urinary Incontinence: A Systematic Review and Meta-Analysis of Reoperation Rates
+
+
+REVIEWS
+
+
+Nikolaos Pyrgidis, MD, MSc, [1] David W. Barham, MD, [2] Muhammed Hammad, MD, [2] Ioannis Sokolakis, MD, MSc, PhD, [1]
+
+Georgios Hatzichristodoulou, MD, PhD, [1] Aaron C. Lentz, MD, [3] Jay Simhan, MD, [4] Faysal A. Yafi, MD, [2] and
+Martin S. Gross, MD [5]
+
+ABSTRACT
+
+Introduction: The efficacy, safety, and postoperative outcomes of synchronous surgery for concomitant erectile
+dysfunction (ED) and stress urinary incontinence (SUI) remain unclear.
+
+Objectives: We performed a systematic review and meta-analysis to evaluate the available synchronous surgical
+approaches for concomitant ED and SUI and to assess the reoperation rates compared to asynchronous surgery
+and surgery only for ED or SUI.
+Methods: We searched PubMed, Cochrane Library, and Embase databases until June 2022 for relevant studies.
+Based on data availability, we performed a meta-analysis of odds ratios (ORs) comparing reoperation rates after
+synchronous surgery in patients with concomitant ED and SUI versus asynchronous surgery, as well as surgery
+solely for ED or SUI (PROSPERO: CRD42022326941).
+
+Results: We included 18 studies in the systematic review (16,517 patients) and 5 in the meta-analysis. Comparing synchronous implantation of penile prosthesis and artificial urinary sphincter (AUS) versus asynchronous surgery, no statistically significant differences were observed in the reoperation rates [OR:0.98, 95% confidence
+```
+           −
+```
+interval (CI): 0.52 1.84, I [2] :0%). Comparing synchronous implantation of both penile prosthesis and AUS versus implantation of only a penile prosthesis or an AUS, combined surgery was associated with higher reoperation
+```
+                − −
+```
+rates (OR:2.02, 95%CI: 1.29 3.16, I [2] :36% and OR:1.7, 95%CI: 1.25 2.32, I [2] :0%, respectively). Synchronous surgery led to high satisfaction rates and significant improvement in ED and SUI. Evidence for the combination of penile prosthesis with a male sling or the ProACT device is low, but data suggests it may be safe and
+effective. The synchronous placement of a Mini-Jupette sling and penile prosthesis represents a promising treatment modality for the correction of ED and mild SUI and/or climacturia.
+
+Conclusions: Synchronous penile prosthesis and AUS implantation appears safe and effective in patients with
+severe ED and SUI. Further high-quality studies are mandatory to strengthen the current scarce evidence for synchronous surgery in patients with ED and SUI. Pyrgidis N, Barham DW, Hammad M, et al. Synchronous
+Surgical Management of Erectile Dysfunction and Stress Urinary Incontinence: A Systematic Review and
+```
+                             −
+```
+Meta-Analysis of Reoperation Rates. Sex Med Rev 2022;10:782 790.
+
+Copyright © 2022, International Society of Sexual Medicine. Published by Elsevier Inc. All rights reserved.
+
+Keywords: Erectile Dysfunction; Stress Urinary Incontinence; Penile Prosthesis; Systematic Review; Metaanalysis
+
+
+Received June 28, 2022. Accepted August 10, 2022.
+
+1 Department of Urology, ‘Martha-Maria’ Hospital Nuremberg, Nuremberg,
+Germany;
+
+2 Department of Urology, University of California, Irvine, Orange, CA, USA;
+
+3 Department of Urology, Duke University, Durham, NC, USA;
+
+4 Department of Urology, Fox Chase Cancer Center, Philadelphia, PA, USA;
+
+5 Department of Urology, Dartmouth-Hitchcock Medical Center, Lebanon,
+NH, USA
+
+Copyright © 2022, International Society of Sexual Medicine. Published by
+Elsevier Inc. All rights reserved.
+https://doi.org/10.1016/j.sxmr.2022.08.003
+
+
+INTRODUCTION
+
+Erectile dysfunction (ED) and stress urinary incontinence (SUI) are
+the most frequent complications after radical prostatectomy. [1] The risk
+of post prostatectomy ED and SUI may be up to 94% and 31%, respectively, while, in many cases, the 2 complications coexist. [2][,][3] Concomitant
+ED and SUI can occur not only after surgery, radiation, hormone deprivation, or chemotherapy for prostate cancer; but also due to bladder and
+colorectal malignancies, as well as due to neurological conditions. [4] ED
+may be initially managed with phosphodiesterase type 5 inhibitors,
+intracavernosal injections, and other treatment modalities, [5][,][6] whereas
+
+
+782 Sex Med Rev 2022;10:782 `−` 790
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Surgery for concomitant ED and SUI 783
+
+
+SUI may be managed with pelvic floor training, biofeedback, and other
+conservative approaches. [7] Nevertheless, when these treatments are not
+effective or desirable, patients may elect for surgical intervention.
+
+The surgical treatment for ED is centered on penile prosthesis
+implantation, whereas the surgical treatment for SUI is mainly driven
+by the severity of symptoms, the magnitude of bother, and a history of
+radiation therapy. Severe SUI is predominantly managed with the placement of an artificial urinary sphincter (AUS), [8] while mild or moderate
+SUI may also be managed with a male urethral sling or, in rare cases,
+with a noncircumferential compression device (ProACT). [9] More
+recently, the Mini-Jupette sling has been described as a technique for
+the management of patients ED and concomitant climacturia and/or
+mild SUI. [10]
+
+Accumulating evidence suggests that synchronous surgery for concomitant ED and SUI reduces costs and rehabilitation time, without
+compromising safety and efficacy compared to asynchronous, 2-stage
+surgery. [11] Alternatively, synchronous surgery may increase the shortand long-term complication rates compared to isolated surgery for ED
+or SUI. [12] We performed a systematic review and meta-analysis aiming
+to evaluate the available synchronous surgical approaches for concomitant ED and SUI and evaluate the reoperation rates compared to asynchronous surgery and surgery solely for ED or SUI.
+
+METHODS
+
+Search strategy
+This systematic review and meta-analysis was performed based
+on the Cochrane Handbook for Systematic Reviews of Interventions and the PRISMA statement. [13][,][14] The methodology was prespecified in a protocol registered at PROSPERO (ID:
+CRD42022326941). PubMed, Cochrane Library, and Embase
+databases were systematically searched until June 2022. A targeted
+hand-search of grey literature (conference abstracts published in
+major journals, clinical trial registries, and reference lists of all
+included studies) was also performed. The detailed search syntax
+and search string are available in Supplementary Material 1.
+
+Selection criteria, data extraction, and quality
+
+assessment
+
+We included prospective or retrospective comparative studies
+in patients undergoing any synchronous surgical approach due to
+concomitant ED and SUI. Single-arm studies published in any
+language evaluating different synchronous surgical approaches in
+patients with concomitant ED and SUI or climacturia were also
+considered eligible. On the contrary, we excluded studies that
+did not encompass patients that underwent synchronous surgery
+and assessed surgery only for ED or SUI. Furthermore, case
+reports and review articles were not eligible. When multiple
+records with overlapping populations were identified, the most
+recent study was only considered.
+
+Two authors (NP, DB) performed an independent screening
+of the title and abstract of all identified records based on our eli
+gibility criteria. The eligible full texts were subsequently evaluated and information on baseline values, perioperative outcomes,
+
+
+and follow-up data was retrieved for each included study. The
+Robins `−` I tool was used to evaluate the risk of bias in the
+included studies. [15] Any discrepancies throughout the whole process were resolved by consensus.
+
+Data synthesis and statistical analysis
+The primary outcome of this systematic review and metaanalysis was the reoperation rate after synchronous surgery for
+ED and SUI versus asynchronous surgery, as well as versus surgery solely for ED or SUI. Secondary outcomes included mean
+improvement in erectile function and daily pad use, subjective
+improvement of SUI and climacturia, as well as mean operative
+time. Based on data availability, we undertook an inverse variance random effects meta-analysis of odds ratios (ORs) comparing reoperation rates after synchronous surgery in patients with
+concomitant ED and SUI versus asynchronous surgery, as well as
+surgery solely for ED or SUI. Heterogeneity was assessed with
+the I [2] and its significance was determined with the Cochran `’` s Q
+test. [16] The corresponding 95% confidence intervals (CIs) were
+estimated for all meta-analytic effects. All analyses were performed with the R statistical software (version 3.6.3) and P-values lower than .05 were considered statistically significant.
+
+RESULTS
+
+Study results and quality assessment
+After the 3-step screening of title, abstract and full text, we
+included 18 observational studies (12 retrospective and 6 prospective) with 16,517 patients in the present systematic review. [17] `[−]` [34]
+
+The gradational selection process is presented in Supplementary
+Materials 2 and 3. Most studies were conducted in the USA and
+encompassed patients with prostatectomy-induced ED and SUI.
+The mean patient age was 69 `§` 4.1 years, the mean follow-up
+was 67 `§` 66 months, and the preoperative pad use was 2.6 `§` 1.3
+per day. The baseline characteristics of all included studies are presented in Table 1, while their perioperative and follow-up outcomes are available in Table 2. Based on the ROBINS-I tool, 3
+studies were considered at low risk of bias, 9 at moderate risk of
+bias, and 6 at high risk of bias (Supplementary Material 4).
+
+Artificial Urinary Sphincter and Penile Prosthesis
+A total of 10 studies included patients undergoing synchronous surgery with placement of a penile prosthesis and an AUS
+for concomitant ED and SUI. [17] `[−]` [26] Of them, 4 studies had no
+control arm, [17][,][19][,][21][,][24] three compared synchronous surgery versus only penile prosthesis or AUS placement, [18][,][20][,][26] one compared synchronous versus asynchronous surgery, [23] while the
+remaining 2 studies compared synchronous surgery versus asynchronous surgery, as well as versus penile prosthesis or AUS
+placement only. [22][,][25] In studies reporting relevant data, baseline
+characteristics, satisfaction rates, severity of postoperative complications, the number of patients attaining social continence ( `≤` 1
+pad per day), postoperative daily pad use, and ED improvement
+
+
+Sex Med Rev 2022;10:782 `−` 790
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Table 1. Baseline characteristics of the included studies
+
+Follow-up Time from
+Author SUI device ED device Comparisons (months) Participants (n) Age (years) RP (months) Diabetes Radiation therapy Vascular disease
+
+Bolat 2017 [17] AUS 8 IPP, 3 No control arm 61.3 `§` 20 PP + AUS: 11 58.3 `§` 4.3 28 `§` 11.9 3 7 7
+
+malleable
+
+
+Boysen 2019 [18] AUS IPP PP + AUS vs PP vs 63.3 `§` 41 PP + AUS: 62, PP: PP + AUS: 68.8 `§`
+AUS 644, AUS: 793 2.3, PP: 69 `§` 2.9,
+
+AUS: 70.2 `§` 3.5
+
+
+NA PP + AUS: `<` 11, PP: PP + AUS: `<` 11, PP: PP + AUS: `<` 11, PP:
+146, AUS: 185 34, AUS: 85 32, AUS: 35
+
+
+Kendirci 2006 [19] AUS IPP No control arm 17 `§` 6 PP + AUS: 22 64 `§` 6.3 NA 7 6 NA
+Mancini 2008 [20] AUS IPP PP + AUS vs PP vs 24 PP + AUS: 33, PP: PP + AUS: 67.8, PP: NA NA NA NA
+AUS 31, AUS: 31 66, AUS: 72.3
+
+
+MartinezSalamanca 2015 [21]
+
+
+AUS IPP No control arm 35 `§` 12 PP + AUS: 32 66 `§` 4 30.2 `§` 11 8 9 10
+
+
+
+
+
+
+
+Rolle 2012 [23] AUS 5 IPP, 10 PP + AUS vs 12 PP + AUS: 15, NA NA NA NA NA
+malleable Asynchronous Asynchronous
+PP + AUS PP + AUS: 10
+
+
+12 PP + AUS: 15,
+Asynchronous
+PP + AUS: 10
+
+
+NA NA NA NA NA
+
+
+Scott 1987 [24] AUS IPP No control arm NA PP + AUS: 72 NA NA NA NA NA
+Segal 2013 [25] AUS IPP or PP + AUS vs 25.2 PP + AUS: 55, PP + AUS & NA PP + AUS & PP + AUS &
+malleable Asynchronous Asynchronous Asynchronous Asynchronous Asynchronous
+PP + AUS vs PP PP + AUS: 22, PP: PP + AUS: 65.3, PP + AUS: 14, PP: PP + AUS: 13, PP:
+vs AUS 314, AUS: 257 PP: 59.9, AUS: 87, AUS: 42 34, AUS: 81
+
+
+25.2 PP + AUS: 55,
+Asynchronous
+PP + AUS: 22, PP:
+314, AUS: 257
+
+
+PP + AUS &
+
+Asynchronous
+PP + AUS: 65.3,
+PP: 59.9, AUS:
+
+67.5
+
+
+NA PP + AUS &
+
+Asynchronous
+PP + AUS: 14, PP:
+87, AUS: 42
+
+
+PP + AUS &
+
+Asynchronous
+PP + AUS: 13, PP:
+34, AUS: 81
+
+
+PP + AUS &
+
+Asynchronous
+PP + AUS: 11, PP:
+45, AUS: 49
+
+
+Sellers 2005 [26] AUS IPP PP + AUS vs PP vs 16.8 `§` 6.8 PP + AUS: 15, PP: NA NA NA NA NA
+AUS 92, AUS: 21
+
+Christine 2010 [27] AdVance male sling IPP No control arm 22 PP + Sling: 22 NA NA NA NA NA
+Gorbatiy 2010 [28] 40 InVance and 21 IPP PP + Sling vs PP vs 13.6 `§` 9.3 PP + Sling: 8, PP: PP + Sling: 64.8 NA NA NA NA
+AdVance male Sling 58, Sling: 53
+sling
+
+
+Khalil 2021 [29] AUS or Male sling IPP or PP + Sling vs 1 PP + Sling: 15, PP + Sling: 62.3 `§`
+malleable PP + AUS PP + AUS: 26 6.3, PP + AUS:
+
+64.8 `§` 6.6
+
+
+NA PP + Sling: 7, No PP + Sling: 15,
+PP + AUS: 3 PP + AUS: 26
+
+
+Rhee 2005 [30] Male sling 3 IPP, 1 No control arm 14.8 `§` 1.8 PP + Sling: 4 70.5 `§` 3.2 NA NA NA NA
+malleable
+
+Andrianne 2019 [31] Mini-Jupette IPP No control arm 32 `§` 9.8 Mini-Jupette: 15 65.9 `§` 6.3 32.1 `§` 9.8 NA NA NA
+Valenzuela 2019 [32] Modified Mini- IPP No control arm 5.9 `§` 3.7 Mini-Jupette: 36 67.7 `§` 6.6 68.5 `§` 58.6 6 6 3
+Jupette
+
+Yafi 2018 [33] Mini-Jupette IPP No control arm 5.1 `§` 6.9 Mini-Jupette: 38 65.3 `§` 7.7 63.6 `§` 57.7 NA 9 NA
+Yiou 2015 [34] ProACT IPP No control arm 22.7 `§` 20.9 PP + ProACT: 6, 66.8 `§` 4.3 35 `§` 17 NA NA NA
+Asynchronous
+PP + ProACT: 4
+
+
+Data presented as mean `§` standard deviation or absolute number.
+AUS = artificial urinary sphincter; ED = erectile dysfunction; IPP = inflatable penile prosthesis; NA = not available; PP = penile prosthesis; RP = radical prostatectomy; SUI = stress urinary incontinence.
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Table 2. Perioperative outcomes and follow-up information of the included studies
+
+Perioperative Postoperative daily Postoperative ED
+Author Satisfaction rate Reoperations (n) Reasons for reoperation complications Social continence (n) pad use improvement Operative time (min)
+
+Bolat 2017 [17] PP + AUS: 89% PP + AUS: 1 Infection: 1 Urinary infection: 1 NA PP + AUS: 1 `§` 0.5 IIEF-5: PP + AUS: PP + AUS: 163 `§` 11
+
+18.3 `§` 1.6
+
+
+Boysen 2019 [18] NA PP + AUS: 6, PP: 19, All reoperations due to Minor: PP + AUS: 13,
+AUS: 78 infection PP: 129, AUS: 166
+Major: PP + AUS: `<` 11,
+PP: 91, AUS: 104
+
+
+NA NA NA NA
+
+
+Kendirci 2006 [19] NA PP + AUS: 3 AUS urethral erosion: 2, No NA PP + AUS: 1 or fewer NA NA
+reservoir migration: 1
+
+
+Mancini 2008 [20] PP + AUS: 94%,
+PP: 77.4%,
+
+AUS: 94%
+
+
+PP + AUS: 10, PP: 2, PP + AUS: revision: 9,
+AUS: 5 removal: 1, PP: revision: 1,
+removal: 1, AUS: revision:
+4, removal: 1
+
+
+NA PP + AUS: 31, AUS: 29 PP + AUS: 1.3, AUS: 0.8 Mean rigidity
+
+score:
+
+PP + AUS: 4.4/
+
+5, PP: 4.1/5
+
+
+NA
+
+
+Martinez-Salamanca
+2015 [21]
+
+
+PP + AUS: 96.7% PP + AUS: 4 Urethral erosion: 2, reservoir
+migration: 1, corporal
+
+extrusion: 1
+
+
+
+
+Urinary infection: 1 PP + AUS: 30 PP + AUS: 0.25 `§` 0.25 IIEF-5: PP + AUS: PP + AUS: 60 `§` 10.5
+
+18.2 `§` 1.8
+
+
+Rolle 2012 [23] PP + AUS: 87%,
+Asynchronous
+
+PP + AUS: 86%
+
+
+PP + AUS: 1,
+Asynchronous
+
+PP + AUS: 0
+
+
+Rolle 2012 PP + AUS: 87%, PP + AUS: 1, PP + AUS: infection: 1 No PP + AUS: 15, NA NA PP + AUS: 140 `§` 25,
+Asynchronous Asynchronous Asynchronous Asynchronous
+
+PP + AUS: 86% PP + AUS: 0 PP + AUS: 10 PP + AUS: 105 `§`
+
+6.3
+
+Scott 1987 [24] NA PP + AUS: 45 NA NA PP + AUS: 51 NA NA NA
+Segal 2013 [25] NA PP + AUS: 19, PP + AUS: erosion: 5, NA NA NA NA PP + AUS: 218, PP:
+Asynchronous infection: 2, mechanical 146, AUS: 115
+PP + AUS: 8, PP: 84, failure: 12, Asynchronous
+AUS: 58 PP + AUS: erosion: 3,
+
+
+PP + AUS: infection: 1 No PP + AUS: 15,
+Asynchronous
+
+PP + AUS: 10
+
+
+PP + AUS: erosion: 5,
+infection: 2, mechanical
+failure: 12, Asynchronous
+PP + AUS: erosion: 3,
+infection: 1, mechanical
+failure: 4, PP: erosion: 19,
+infection: 20, mechanical
+failure: 45, AUS: erosion:
+19, infection: 10,
+
+mechanical failure: 29
+
+
+NA NA NA NA PP + AUS: 218, PP:
+146, AUS: 115
+
+
+Sellers 2005 [26] NA No reoperations No No NA NA NA PP + AUS: 113 `§` 33,
+PP: 78 `§` 24, AUS:
+
+72 `§` 22
+Christine 2010 [27] PP + Sling: 89% No reoperations No Urinary retention: 4 PP + Sling: 20 PP + Sling: 2 patients IIEF-5: PP + Sling: PP + Sling: 92 `§` 13.3
+required daily 18.6 `§` 0.9
+
+
+Gorbatiy 2010 [28] NA PP + Sling: 0, PP: 0, Sling: erosion: 1, infection: 1 PP + Sling: urinary NA PP + Sling: 1 `§` 0.5 IIEF-5: PP + Sling: PP + Sling: 177 `§` 17,
+Sling: 2 retention: 1, PP: 0, 22.2 `§` 0.6 PP: 98 `§` 24, Sling:
+Sling: 0 86 `§` 24
+
+Khalil 2021 [29] NA PP + Sling: 0, PP + AUS: infection: 1 PP + AUS: readmission: NA NA NA PP + Sling: 158 `§` 49,
+
+PP + AUS: 1 3 PP + AUS: 189 `§` 57
+
+
+Rhee 2005 [30] PP + Sling: 100% No reoperations No No PP + Sling: 4 PP + Sling: No use NA PP + Sling: 105 `§` 8.7
+Andrianne 2019 [31] Mini-Jupette: No reoperations No Urinary retention: 1, Mini-Jupette: 14 Mini-Jupette: 0.22 `§` IIEF-5: Mini- Mini-Jupette: 72 `§`
+93.3% dysuria: 2 0.42, climacturia Jupette: 13.6 `§` 19.8
+
+resolved in 5 1.1
+
+
+IIEF-5: Mini
+Jupette: 13.6 `§`
+
+1.1
+
+
+Mini-Jupette: 72 `§`
+
+19.8
+
+
+Valenzuela 2019 [32] NA Mini-Jupette: 1 Erosion: 1 Urinary retention: 2, NA Mini-Jupette: 0.4 `§`
+scrotal pain: 1 0.6, climacturia
+
+resolved in 28
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+
+NA NA
+
+
+(continued)
+
+786 Pyrgidis et al
+
+did not differ significantly among the applied surgical strategies
+(Table 1). Of note, in patients undergoing synchronous surgery,
+the operative time was increased by about 40 minutes compared
+to patients undergoing solely penile prosthesis or AUS placement. Overall, it seems that sufficient data exists to support that
+synchronous implantation of penile prosthesis and AUS leads to
+high levels of postoperative continence and erectile function.
+
+Regarding the reoperation rates, no statistically significant differences were observed after synchronous surgery for ED and
+SUI versus asynchronous surgery. [22][,][23][,][25] Ultimately, 54 reoperations in 209 patients (25.8%) were reported after synchronous
+penile prosthesis and AUS placement compared to 18 reoperations in 72 patients (25%) after asynchronous penile prosthesis
+```
+                                             −
+```
+and AUS placement (OR: 0.98, 95% CI: 0.52 1.84, I [2] : 0%,
+Figure 1). On the contrary, comparing synchronous surgery for
+ED and SUI versus surgery solely for ED or SUI, synchronous
+surgery was associated with higher reoperation rates. [18][,][20][,][22][,][25] In
+particular, 69 reoperations in 289 patients (23.9%) were
+reported after synchronous penile prosthesis and AUS placement
+compared to 1,890 reoperations in 12,341 patients (15.3%) after
+solely penile prosthesis placement (OR: 2.02, 95% CI: 1.29
+```
+                          −
+```
+3.16, I [2] : 36%, Figure 2) and 475 reoperations in 3,250
+patients (14.6%) after solely AUS placement (OR: 1.7, 95% CI:
+```
+                            −
+```
+1.25 2.32, I [2] : 0%, Figure 3).
+
+Male Sling and Penile Prosthesis
+A total of four studies included patients undergoing synchronous surgery with implantation of penile prosthesis and male
+sling for concomitant ED and SUI. [27] `[−]` [30] Of them, 2 studies had
+no control arm, [27][,][30] one compared penile prosthesis and male
+sling versus AUS implantation, [29] while the remaining study
+compared penile prosthesis and male sling placement versus
+penile prosthesis or male sling placement only. [28] Both studies
+with no control arm reported no reoperations or major perioperative complications and presented excellent postoperative functional outcomes. Thus, the authors suggested that well-selected
+patients with ED and mild to moderate SUI may undergo synchronous surgery safely and efficiently. Still, the small number of
+participants and the single-arm study design limited the extrapolation of their findings. [27][,][30]
+
+Comparing synchronous implantation of penile prosthesis
+and bulbourethral sling versus penile prosthesis or sling implantation only, Gorbatiy et al. reported similar reoperation rates and
+perioperative complications, as well as comparable postoperative
+functional outcomes. Even though the authors recruited only 8
+patients undergoing synchronous surgery, they concluded that
+this technique is safe, efficient, and cost-effective. [28] Khalil et al.
+in a retrospective study of the dataset from the National Surgical
+Quality Improvement Program advocated that penile prosthesis
+implantation combined with either male sling or AUS implantation provides similar perioperative complications. Importantly,
+no reoperations were reported. Still, the follow-up of this study
+
+Sex Med Rev 2022;10:782 `−` 790
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Surgery for concomitant ED and SUI 787
+
+Figure 1. Forest plot of studies exploring the reoperation rate after synchronous surgery with PP and AUS versus asynchronous surgery.
+AUS = artificial urinary sphincter; CI = confidence interval; IV = inverse variance; OR = odds ratio; PP = penile prosthesis; REM = random
+effects model.
+
+Figure 2. Forest plot of studies exploring the reoperation rate after synchronous surgery with penile prosthesis and AUS versus solely
+surgery with PP. AUS = artificial urethral sphincter; CI = confidence interval; IV = inverse variance; OR = odds ratio; REM = random effects
+model.
+
+Figure 3. Forest plot of studies exploring the reoperation rate after synchronous surgery with penile prosthesis and AUS versus solely
+surgery with AUS. AUS = artificial urethral sphincter; CI = confidence interval; IV = inverse variance; OR = odds ratio; REM = random effects
+model.
+
+
+was restricted to 30 days and no information on functional outcomes was available. [29]
+
+Mini-Jupette Technique
+A total of three studies included patients undergoing surgery
+with the Mini-Jupette technique for concomitant ED and minimal SUI and/or climacturia. [31] `[−]` [33] In a small case series, Robert
+Andrianne demonstrated that suturing a graft across the urethra
+over the medial aspect of each corporotomy during inflatable
+penile prosthesis implantation was a safe and effective treatment
+for prostatectomy-induced ED and climacturia and/or mild
+SUI. [31] Yafi et al. further validated these findings in a prospective,
+single-arm, multicenter and multinational study. [33] The authors
+similarly demonstrated that the Mini-Jupette technique is an
+
+
+easy and feasible procedure that can be performed during inflatable penile prosthesis implantation in patients with prostatectomy-induced climacturia and/or minimal SUI. Similarly,
+Valenzuela et al. developed a modified Mini-Jupette technique
+and suggested that placement of a monofilament polypropylene
+mesh sling across the bulbar urethra (proximal to the corporotomy) improves mild SUI or climacturia and treats ED, with little
+added morbidity. [32] Still, it should be highlighted that all studies
+on the Mini-Jupette technique did not include a control arm.
+
+ProACT
+
+Yiou et al. in a small series of ten patients evaluated synchronous placement of the ProACT, noncircumferential compression
+device during penile prosthesis implantation in patients suffering
+
+
+Sex Med Rev 2022;10:782 `−` 790
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+788 Pyrgidis et al
+
+
+from postprostatectomy ED and SUI. [34] In 6 cases, the ProACT
+device and the penile prosthesis were implanted during the same
+procedure, while, in the 4 other cases, the 2 devices were
+implanted asynchronously. The authors reported no reoperations, excellent satisfaction rates, and high levels of postoperative
+continence and erectile function, concluding that placement of
+the ProACT device both synchronously and asynchronously was
+safe and did not lead to mechanical problems related to the
+penile prosthesis. The evidence to support this technique is
+rather scarce, however, given that to date no further studies have
+been performed and that the authors included a small number of
+patients.
+
+DISCUSSION
+
+The present systematic review and meta-analysis demonstrates
+that synchronous surgery with penile prosthesis and AUS results
+in similar reoperation rates compared to asynchronous surgery.
+However, combined surgery with penile prosthesis and AUS is
+associated with a higher reoperation rate compared to single
+placement of a penile prosthesis or AUS. In terms of functional
+outcomes, the data suggest that the available surgical approaches
+offer similar satisfaction rates, as well as similar levels of postoperative continence and erectile function when applied after
+thoughtful workup and upon correct indications. Of note, the
+existing scarce evidence suggests that combination of penile prosthesis with a male sling or the ProACT device may be safe and
+effective in the hands of experienced prosthetic surgeons, but further high-quality studies are mandatory. Similarly, the Mini-Jupette is an emerging and promising technique to treat climacturia,
+as well as leakage in patients with minimal SUI. Preliminary single-arm studies have demonstrated safety but further studies are
+needed for validation as well as long term outcomes.
+
+Our findings demonstrate that it is reasonable to consider
+concomitant ED and SUI surgery. However, it should be recognized that our review found concomitant surgery to be associated
+with a higher reoperation rate. Synchronous surgery offers several
+advantages including reduced cost, quicker recovery of both ED
+and incontinence, and a single recovery period. [35] A young prostate cancer survivor who still works full-time may find these benefits substantial and be a good candidate for a combined surgery.
+However, there are several disadvantages of synchronous surgery
+including potentially more involved recovery, longer operative
+times, and a higher infection risk. [26] Additionally, operative teams
+may be unfamiliar with a dual AUS and penile prosthesis placement and this risk cannot be understated, especially for the lowvolume implanter. Ultimately, these are complex patients who
+will have unique goals of care and it is critical for surgeons to
+individualize treatment which may or may not include concomitant surgery for both ED and SUI. [35]
+
+Even though concomitant ED and SUI surgery is not widely
+accepted due to the aforementioned reasons, it should be
+highlighted that it is associated with important cost savings
+
+
+compared to asynchronous surgery for ED and SUI. In particular, Sellers et al. performed a cost analysis comparison and suggested that synchronous inflatable penile prosthesis and AUS
+placement costs about $25,000 compared to $32,000 after asynchronous inflatable penile prosthesis and AUS placement, [26]
+
+while Gorbatiy et al. stated that synchronous implantation of an
+inflatable penile prosthesis and a male sling saved about $9,000
+compared to asynchronous surgery. [28] Across different treatment
+modalities for refractory ED and SUI, it should be noted that
+inflatable penile prosthesis and AUS are considered the most
+cost-effective. [36][,][37] Still, the existing evidence is scarce and substantial research is mandatory to assess the cost-effectiveness of
+different concomitant ED and SUI treatment modalities across
+
+different patient populations, countries, and reimbursement systems. [38] A full cost analysis was beyond the scope of this article.
+
+The findings of the present study should be interpreted with
+respect to some limitations relevant to the methodological quality
+of most included studies. Additionally, there is significant heterogeneity in how these surgeries are performed. For instance, penile
+prosthesis can be placed through penoscrotal, infrapubic, subcoronal, and rarely a perineal incision; whereas, AUS is placed
+typically through a perineal or penoscrotal incision. Dual
+implantation can be carried out through a single or multiple incisions. AUS cuff sizing strategies vary among surgeons. Given
+these significant variations from operation to operation, comparing outcomes among different studies is challenging. Due to the
+paucity of comparative data, no strict recommendations on the
+matter can be made. Even though we performed a systematic
+review and meta-analysis focusing on functional outcomes, complications, and reoperation rates, the level of provided evidence
+remains low. Prospective studies were characterized by a small
+sample size, short follow-up, or lack of comparative arm, whereas
+retrospective studies, in most cases, did not adequately address
+the effect of surgical treatment on functional outcomes (improvement of ED and SUI). Moreover, well-designed, prospective,
+comparative studies are lacking. Based on the previous notion,
+the paucity of high-quality data did not permit us to undertake
+additional predefined analyses and comparisons among the different surgical strategies. Importantly, our findings may not
+reflect the real-world data on reoperation rates after surgery for
+ED and SUI, considering that most included studies in the
+meta-analysis had a retrospective design and were conducted by
+high-volume expert surgeons.
+
+CONCLUSION
+
+The present systematic review and meta-analysis demonstrate
+that synchronous penile prosthesis and AUS implantation seems
+to be equally safe and effective as asynchronous, 2-stage surgery
+in patients with severe ED and SUI. Placement of only a penile
+prosthesis or an AUS, however, results in lower reoperation rates.
+Nevertheless, the available evidence is limited. The literature
+regarding male sling, ProACT, and Mini-Jupette slings is
+
+Sex Med Rev 2022;10:782 `−` 790
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Surgery for concomitant ED and SUI 789
+
+
+growing but remains limited. Given the paucity of existing data,
+the present study, instead of providing robust recommendations,
+can predominantly serve as a valuable guide for the design and
+implementation of further well-designed, multicenter, high-volume comparative studies on the matter.
+
+ACKNOWLEDGMENTS
+
+None.
+
+Corresponding Author: Nikolaos Pyrgidis MD, MSc.
+Stadenstraße 58, Nuremberg, Germany. Tel: 0049 176 7041
+8090; Fax: 0049 911 959 1352; E-mail: nikospyrgidis@gmail.
+
+com
+
+Con `fl` ict of interest: NP, DB, IS, and GH have no disclosures. AL:
+Speaker, consultant, and preceptor for Boston Scientific and Coloplast. JS: Consultant for Boston Scientific and Coloplast. FY:
+Consultant for Coloplast, Cynosure, Antares Pharma, Clarus
+Pharmaceuticals, Acerus Pharma. MG: Consultant for Coloplast.
+
+Funding: This research did not receive any specific grant from
+funding agencies in the public, commercial, or not-for-profit
+
+sectors.
+
+STATEMENT OF AUTHORSHIP
+
+All authors participated in the drafting, writing, and editing of
+the manuscript.
+
+REFERENCES
+
+1. Stanford JL, Feng Z, Hamilton AS, et al. Urinary and sexual
+function after radical prostatectomy for clinically localized
+prostate cancer: The Prostate Cancer Outcomes Study.
+JAMA 2000;283:354 `–` 360. doi: 10.1001/jama.283.3.354.
+
+2. Ficarra V, Novara G, Ahlering TE, et al. Systematic review and
+meta-analysis of studies reporting potency rates after robotassisted radical prostatectomy. Eur Urol 2012;62:418 `–` 430.
+doi: 10.1016/j.eururo.2012.05.046.
+
+3. Ficarra V, Novara G, Rosen RC, et al. Systematic review and
+meta-analysis of studies reporting urinary continence recovery
+after robot-assisted radical prostatectomy. Eur Urol
+2012;62:405 `–` 417. doi: 10.1016/j.eururo.2012.05.045.
+
+4. Gacci M, Sakalis VI, Karavitakis M, et al. European Association
+of Urology Guidelines on Male Urinary Incontinence. Eur Urol
+2022;82:387 `–` 398. doi: 10.1016/j.eururo.2022.05.012.
+
+5. Pyrgidis N, Mykoniatis I, Haidich A-B, et al. The effect of
+Phosphodiesterase-type 5 inhibitors on erectile function: An
+overview of systematic reviews. Front Pharmacol
+2021;12:735708. doi: 10.3389/fphar.2021.735708.
+
+6. Salonia A, Bettocchi C, Boeri L, et al. European Association of
+Urology Guidelines on Sexual and Reproductive Health-2021
+Update: Male Sexual Dysfunction. Eur Urol 2021 S03022838(21)01813-3. doi: 10.1016/j.eururo.2021.06.007.
+
+
+7. Trofimenko V, Myers JB, Brant WO. Post-prostatectomy
+incontinence: How common and bothersome is it really? Sex
+Med Rev 2017;5:536 `–` 543. doi: 10.1016/j.sxmr.2017.05.
+001.
+
+8. Yafi FA, Powers MK, Zurawin J, et al. Contemporary review of
+artificial urinary sphincters for male stress urinary incontinence. Sex Med Rev 2016;4:157 `–` 166. doi: 10.1016/j.
+sxmr.2015.11.004.
+
+9. Bole R, Hebert KJ, Gottlich HC, et al. Narrative review of male
+urethral sling for post-prostatectomy stress incontinence: Sling
+type, patient selection, and clinical applications. Transl Androl
+Urol 2021;10:2682 `–` 2694. doi: 10.21037/tau-20-1459.
+
+10. Yafi FA, Brady J, Wilson SK. A new male sling for minimal to
+moderate incontinence and climacturia. Int J Impot Res
+2021;33:525 `–` 532. doi: 10.1038/s41443-020-0308-7.
+
+11. Mykoniatis I, Albersen M, Andrianne R, et al. Synchronous
+surgery for the combined treatment of post-radical prostatectomy erectile dysfunction and stress urinary incontinence: A
+lucrative evolution or an unnecessary complexity? Int J Impot
+Res 2021;33:6 `–` 15. doi: 10.1038/s41443-020-0253-5.
+
+12. Kumar R, Nehra A. Dual implantation of penile and sphincter
+implants in the post-prostatectomy patient. Curr Urol Rep
+2007;8:477 `–` 481. doi: 10.1007/s11934-007-0052-2.
+
+13. (editors). In: Higgins JPT, Thomas J, Chandler J, editors.
+Cochrane Handbook for Systematic Reviews of Interventions. 2nd edition Chichester UK: John Wiley & Sons;
+2019. n.d.
+
+14. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020
+statement: An updated guideline for reporting systematic
+reviews. BMJ 2021;372:n71. doi: 10.1136/bmj.n71.
+
+15. Sterne JA, Hern `�` an MA, Reeves BC, et al. ROBINS-I: A tool for
+assessing risk of bias in non-randomised studies of interventions. BMJ Online 2016;355. doi: 10.1136/bmj.i4919.
+
+16. Han JL, Gandhi S, Bockoven CG, et al. The landscape of systematic reviews in urology (1998 to 2015): An assessment of
+methodological quality. BJU Int 2017;119:638 `–` 649. doi:
+10.1111/bju.13653.
+
+17. Bolat D, Kozacioglu Z, Polat S, et al. Synchronous penoscrotal
+implantation of penile prosthesis and artificial urinary sphinc```
+                           –
+```
+ter after radical prostatectomy. Arch Esp Urol 2017;70:367
+372.
+
+18. Boysen WR, Cohen AJ, Kuchta K, et al. Combined placement
+of artificial urinary sphincter and inflatable penile prosthesis
+does not increase risk of perioperative complications or impact
+long-term device survival. Urology 2019;124:264 `–` 270. doi:
+10.1016/j.urology.2018.10.033.
+
+19. Kendirci M, Gupta S, Shaw K, et al. Synchronous prosthetic
+implantation through a transscrotal incision: An outcome
+analysis. J Urol 2006;175:2218 `–` 2222. doi: 10.1016/S00225347(06)00345-4.
+
+20. Mancini JG, Kizer WS, Jones LA, et al. Patient satisfaction
+after dual implantation of inflatable penile and artificial urinary
+sphincter prostheses. Urology 2008;71:893 `–` 896. doi:
+10.1016/j.urology.2007.10.018.
+
+
+Sex Med Rev 2022;10:782 `−` 790
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+790 Pyrgidis et al
+
+
+21. Martinez-Salamanca JI, Espinos EL, Moncada I, et al. Management of end-stage erectile dysfunction and stress urinary
+incontinence after radical prostatectomy by simultaneous dual
+implantation using a single trans-scrotal incision: Surgical
+technique and outcomes. Asian J Androl 2015;17:792 `–` 796.
+doi: 10.4103/1008-682X.143757.
+
+22. Patel N, Golan R, Halpern JA, et al. A contemporary analysis
+of dual inflatable penile prosthesis and artificial urinary sphincter outcomes. J Urol 2019;201:141 `–` 146. doi: 10.1016/j.
+juro.2018.07.046.
+
+23. Rolle L, Ceruti C, Sedigh O, et al. Surgical implantation of artificial urinary device and penile prosthesis through trans-scrotal
+incision for postprostatectomy urinary incontinence and erectile
+dysfunction: Synchronous or delayed procedure? Urology
+2012;80:1046 `–` 1050. doi: 10.1016/j.urology.2012.08.003.
+
+24. Scott F B, Fishman I J, Shotland Y. Experience with simultaneous implantation of inflatable penile prosthesis and artificial
+urinary sphincter in 72 patients. J Urol 1987;137:374A.
+
+25. Segal RL, Cabrini MR, Harris ED, et al. Combined inflatable
+penile prosthesis-artificial urinary sphincter implantation: No
+increased risk of adverse events compared to single or staged
+device implantation. J Urol 2013;190:2183 `–` 2188. doi:
+10.1016/j.juro.2013.06.084.
+
+26. Sellers CL, Morey AF, Jones LA. Cost and time benefits of
+dual implantation of inflatable penile and artificial urinary
+sphincter prosthetics by single incision. Urology 2005;65:
+852 `–` 853. doi: 10.1016/j.urology.2004.11.017.
+
+27. Christine B, Wilson S, Shamloul R, et al. Simultaneous placement of an inflatable penile prosthesis and advance male sling
+for erectile dysfunction and incontinence: Robust efficacy and
+safety data at 2 year follow-up. J Urol 2010;183:e490.
+
+28. Gorbatiy V, Westney OL, Romero C, et al. Outcomes of simultaneous placement of an inflatable penile prosthesis and a male urethral sling through a single perineal incision. J Sex Med
+2010;7:832 `–` 838. doi: 10.1111/j.1743-6109.2009.01506.x.
+
+29. Khalil MI, Bramwell AK, Bhandari NR, et al. Concurrent penile
+prosthesis and artificial urinary sphincter versus penile prosthesis and male sling: A National Multi-Institutional Analysis
+of National Surgical Quality Improvement Program Database
+Comparing Postoperative Morbidity. World J Mens Health
+2021;39:75 `–` 82. doi: 10.5534/wjmh.190172.
+
+30. Rhee EY. Technique for concomitant implantation of the
+```
+                           –
+```
+penile prosthesis with the male sling. J Urol 2005;173:925
+927. doi: 10.1097/01.ju.0000154023.93188.9c.
+
+
+31. Andrianne R. The “Mini-Jupette” sling at the time of inflatable
+penile prosthesis implantation: Adequate treatment for erectile dysfunction with mild incontinence and/or climacturia after
+radical prostatectomy. Progres En Urol J Assoc Francaise
+Urol Soc Francaise Urol 2019;29:456 `–` 463. doi: 10.1016/j.
+purol.2019.05.003.
+
+32. Valenzuela RJ, Ziegelmann MJ, Hillelsohn JH, et al. Preliminary outcomes of the male urethral “mini-sling”: A modified
+approach to the Andrianne Mini-Jupette procedure with penile
+prosthesis placement for climacturia and mild stress urinary
+incontinence. J Sex Med 2019;16:1310 `–` 1317. doi: 10.1016/j.
+jsxm.2019.04.009.
+
+33. Yafi FA, Andrianne R, Alzweri L, et al. Andrianne Mini-Jupette
+graft at the time of inflatable penile prosthesis placement for
+the management of post-prostatectomy Climacturia and minimal urinary incontinence. J Sex Med 2018;15:789 `–` 796. doi:
+10.1016/j.jsxm.2018.01.015.
+
+34. Yiou R, Binhas M. Combined implantation of a penile prosthesis and adjustable continence therapy ProACT in patients with
+erectile dysfunction and urinary incontinence after radical
+prostatectomy: Results of a prospective pilot study. J Sex
+Med 2015;12:2481 `–` 2484. doi: 10.1111/jsm.13059.
+
+35. Ajay D, Mendez MH, Wang R, et al. Treatment of urinary
+incontinence in patients with erectile dysfunction. Sex Med
+Rev 2021;9:593 `–` 604. doi: 10.1016/j.sxmr.2020.04.006.
+
+36. Moses RA, Anderson RE, Kim J, et al. Erectile dysfunction
+management after failed phosphodiesterase-5-inhibitor trial:
+A cost-effectiveness analysis. Transl Androl Urol 2019;8:
+387 `–` 394. doi: 10.21037/tau.2019.03.10.
+
+37. Shamout S, Nazha S, Dragomir A, et al. A cost-utility analysis
+of artificial urinary sphincter versus AdVance male sling in
+post prostatectomy stress urinary incontinence: A publicly
+funded health care perspective. Neurourol Urodyn 2018;37:
+2195 `–` 2203. doi: 10.1002/nau.23559.
+
+38. Rezaee ME, Ward CE, Brandes ER, et al. A review of economic
+evaluations of erectile dysfunction therapies. Sex Med Rev
+2020;8:497 `–` 503. doi: 10.1016/j.sxmr.2019.06.001.
+
+SUPPLEMENTARY MATERIALS
+
+Supplementary material associated with this article can be
+found in the online version at doi:10.1016/j.sxmr.2022.08.003.
+
+Sex Med Rev 2022;10:782 `−` 790
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+### Supplementary Material
+#### **Table of Contents **
+
+***Supplementary Material 1: PubMed search syntax and search string ................................... 2***
+
+***Supplementary Material 2: Flow diagram of study selection process .................................... 3***
+
+***Supplementary Material 3: References of all excluded studies with reasons for exclusion .. 4***
+
+***Supplementary Material 4: Risk of bias in included studies ................................................... 5***
+
+1
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+#### Supplementary Material 1: PubMed search syntax and search string **Search syntax**
+
+**ID** **Search**
+
+#1 Penile Prosthesis [All fields]
+
+#2 Penile Implant [All fields]
+
+#3 Penile Prosthesis [MeSH Terms]
+
+#4 OR #1-4
+
+#5 Sphincter [All fields]
+
+#6 Sling [All fields]
+
+#7 Mini-jupette [All fields]
+
+#8 Proact [All fields]
+
+#9 OR #5-8
+
+#10 #4 AND #9
+#### **Search string **
+
+("penile prosthesis"[MeSH Terms] OR ("penile"[All Fields] AND "prosthesis"[All Fields])
+OR "penile prosthesis"[All Fields] OR ("penile prosthesis"[MeSH Terms] OR ("penile"[All
+Fields] AND "prosthesis"[All Fields]) OR "penile prosthesis"[All Fields] OR ("penile"[All
+Fields] AND "implant"[All Fields]) OR "penile implant"[All Fields])) AND ("sphincter"[All
+Fields] OR "sphincter s"[All Fields] OR "sphincteral"[All Fields] OR "sphincteric"[All
+Fields] OR "sphincters"[All Fields] OR ("sling"[All Fields] OR "slings"[All Fields]) OR
+"mini-jupette"[All Fields] OR "proact"[All Fields])
+
+The search strategy was developed for PubMed and modified accordingly for the other
+databases.
+
+2
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+#### Supplementary Material 2: Flow diagram of study selection process
+
+
+
+
+
+
+
+
+
+
+
+Supplementary Material 2: Step-by-step selection process of the included studies.
+
+3
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+#### Supplementary Material 3: References of all excluded studies with reasons for exclusion
+
+Case reports
+
+[1] Christine BS. Concomitant treatment of erectile dysfunction and postprostatectomy
+stress urinary incontinence. J Sex Med 2011;8:2667–70; quiz 2671.
+https://doi.org/10.1111/j.1743-6109.2004.02476.x.
+
+[2] Cornu J-N, Chanu T, Beley S, Sèbe P, Peyrat L, Ciofu C, et al. [Initial experience
+combinating transobturator male sling and penile implant after radical prostatectomy].
+Prog en Urol J l’Association Fr d’urologie la Soc Fr d’urologie 2011;21:349–53.
+https://doi.org/10.1016/j.purol.2010.08.012.
+
+[3] Towe M, El-Khatib F, Osman M, Choi J, Yafi FA. The use of autologous fascia in the
+Mini-Jupette graft: two cases. Int J Impot Res 2020;32:140–1.
+https://doi.org/10.1038/s41443-019-0178-z.
+
+Overlapping study records
+
+[1] Westney O, Romero C, Wang R. Simultaneous placement of inflatable penile
+prosthesis and male sling through a single perineal incision. J Urol 2008;179:403.
+
+No outcomes of interest
+
+[1] Cheng N, Dalbec N, Qi D, Liu G, Shin D. Survival of penile prosthesis in
+simultaneous vs staged penile prosthesis and artificial urinary sphincter implantation. J
+Urol 2021;206. https://doi.org/10.1097/JU.0000000000002087.03.
+
+[2] Loh-Doyle JC, Ashrafi A, Nazemi A, Ghodoussipour S, Thompson E, Wayne K, et al.
+Dual Prosthetic Implantation After Radical Cystoprostatectomy and Neobladder:
+Outcomes of the Inflatable Penile Prosthesis and Artificial Urinary Sphincter in
+Bladder Cancer Survivors. Urology 2019;127:127–32.
+https://doi.org/10.1016/j.urology.2019.01.010.
+
+[3] Parulkar BG, Barrett DM. Combined implantation of artificial sphincter and penile
+prosthesis. J Urol 1989;142:732–5. https://doi.org/10.1016/s0022-5347(17)38870-5.
+
+[4] Westney OL, Wilson SK. Simultaneous penile prosthesis and artificial urinary
+sphincter via a transverse scrotal incision. J Urol 2004;171:387.
+
+[5] Zermann D-H, Kutzenberger J, Sauerwein D, Schubert J, Loeffler U. Penile Prosthetic
+Surgery in Neurologically Impaired Patients: Long-Term Followup. J Urol
+2006;175:1041–4.
+
+No synchronous surgical treatment for erectile dysfunction and stress urinary incontinence
+
+[1] Donatucci C, Buschemeyer W, Webster G. Penile prosthesis placement in men after
+transcorporal artificial urinary sphincter implantation: 1170. J Urol 2008;179:403.
+
+[2] Wilson SK, Delk JRII, Henry GD, Siegel AL. New surgical technique for sphincter
+urinary control system using upper transverse scrotal incision. J Urol 2003;169:261–4.
+https://doi.org/10.1097/01.ju.0000040661.45037.47.
+
+4
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+### Supplementary Material 4: Risk of bias in included studies
+
+Supplementary Material 4.1: Overall risk of bias assessment in included studies.
+
+5
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Supplementary Material 4.2: Study-by-study risk of bias in included studies.
+
+6
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

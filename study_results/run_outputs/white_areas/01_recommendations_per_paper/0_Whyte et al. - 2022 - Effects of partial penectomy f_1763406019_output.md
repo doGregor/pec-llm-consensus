@@ -1,0 +1,8 @@
+Based on the systematic review provided, the following treatment recommendations and considerations for penile cancer are identified:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment** | **For Advanced Penile Cancer:** Partial or radical penectomy are the current therapeutic options. The traditional surgical treatment is radical (total) penectomy with perineal urethrostomy. |
+| **Primary Treatment** | **Organ-Sparing Surgery:** Partial penectomy is recognized as an effective treatment option and is considered when a sufficient portion of the penile shaft can be preserved to enable functionality (e.g., direction of the urinary stream). |
+| **Primary Treatment (Surgical Technique)** | **Penile Length Preservation:** To maintain post-operative sexual function, surgical approaches that help spare penile length are encouraged where clinically appropriate. Techniques to facilitate this include:<br>  • **Reduced Surgical Margins:** Safe surgical margins may be reduced from a traditional 2 cm to 3–5 mm to allow for greater preservation of penile length.<br>  • **Intraoperative Assessment:** Utilizing intraoperative frozen sections during surgery to ascertain margin negativity can allow for maximal preservation of penile length. |
+| **Follow-up Care** | **Psychological Support:** Multidisciplinary follow-up with a psychologist trained in sexual therapy is recommended to aid in the recovery of post-operative sexual function. This is particularly beneficial for addressing raised anxiety levels and other psychological consequences of the surgery. |

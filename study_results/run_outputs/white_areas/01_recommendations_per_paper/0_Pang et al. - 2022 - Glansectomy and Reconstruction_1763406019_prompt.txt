@@ -1,0 +1,624 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [E U R O P E A N U R O L O G Y F O C U S 8 ( 2 0 2 2 ) 1 3 1 8 – 1 3 2 2](https://doi.org/10.1016/j.euf.2021.11.008)
+
+a v a i l a b l e a t w w w . s c i e n c e d i r e c t . c o m
+
+j o u r n a l h o m e p a g e : w w w . e u r o p e a n u r o l o g y . c o m / e u f o c u s
+
+Mini Review
+# Glansectomy and Reconstruction for Penile Cancer: A Systematic Review
+
+Karl H. Pang [a][,][b], Asif Muneer [c][,][d][,][e], Hussain M. Alnajjar [c][,] [*]
+
+a Academic Urology Unit, University of Sheffield, Sheffield, UK; b Section of Andrology, Pyrah Department of Urology, St James’ Hospital, The Leeds
+Teaching Hospitals NHS Trust, Leeds, UK; [c] Institute of Andrology, University College London Hospitals NHS Foundation Trust, London, UK; [d] UCL Male
+Genital Cancer Centre, Division of Surgery and Interventional Science, University College London, London, UK; [e] NIHR Biomedical Research Centre,
+University College London Hospital, London, UK
+
+
+Article info
+
+Article history:
+Accepted November 26, 2021
+Available online 10 December
+
+2021
+
+Associate Editor: Christian
+
+Gratzke
+
+Keywords:
+Penile cancer
+Penile-preserving surgery
+Glansectomy
+
+1. Introduction
+
+
+Abstract
+
+Penile cancer (PeCa) is a rare disease, with a global incidence of 36 068 new cases
+reported in the 2020 GLOBOCAN database. Narrower excision margins are now
+acceptable without compromising survival. Glansectomy is commonly performed for
+invasive PeCa confined to the glans penis. The majority of data on glansectomy are from
+small single-centre series. We provide a contemporary update on the outcomes of glansectomy via a systematic review of glansectomy for PeCa. Overall, 20 studies were
+included in the analysis. The local recurrence rate was 2.6–16.7%. The incidence of
+salvage penectomy for positive margins and/or recurrence was 1.2–8.3%. The diseasespecific survival rate was 89–96.6%. A split-thickness skin graft was commonly used
+to reconstruct a neoglans and the graft loss rate was 1.5–23.5%. The incidence of meatal
+stenosis was 2.8–14.3%. Good cosmetic outcomes and normal erections were reported in
+95–100% and 50–100% of cases, respectively. Glansectomy provides acceptable
+oncological control without significantly compromising functional outcomes.
+Patient summary: Penile cancer invading into the head of the penis can be surgically
+treated with a procedure called glansectomy that has good cancer control and cosmetic
+outcomes. In addition, penile length can be preserved, which allows men to urinate
+standing up and to achieve penetrative sexual intercourse.
+Crown Copyright � 2021 Published by Elsevier B.V. on behalf of European Association of
+Urology. All rights reserved.
+
+
+Penile cancer (PeCa) is a rare cancer, with approximately
+36 068 (0.2%) new cases reported in the 2020 GLOBOCAN
+database [1]. PeCa predominantly arises from the prepuce
+and the glans penis. Although oncological control focuses
+on clear resection margins, PeCa surgery also requires preservation of function to allow penetrative sexual intercourse
+
+
+and voiding standing up, as well as to prevent emasculation.
+Historically, an excision margin of 2 cm was required and
+lesions confined to the glans were often treated with a partial
+penectomy (PP). However, a margin within 5 mm is now
+acceptable, allowing penile-preserving surgery (PPS) to be
+performed to preserve function and achieve good cancer control [2,3]. The incidence of local recurrence (LR) is higher following PPS in comparison to PP and a strict follow-up
+
+
+
+                         - Corresponding author. Institute of Andrology, University College London Hospitals NHS Foundation
+Trust, London, UK
+
+[E-mail address: hussain.alnajjar@nhs.net (H.M. Alnajjar).](mailto:hussain.alnajjar@nhs.net)
+
+[https://doi.org/10.1016/j.euf.2021.11.008](https://doi.org/10.1016/j.euf.2021.11.008)
+2405-4569/Crown Copyright � 2021 Published by Elsevier B.V. on behalf of European Association of Urology. All rights reserved.
+
+E U R O P E A N U R O L O G Y F O C U S 8 ( 2 0 2 2 ) 1 3 1 8 – 1 3 2 2 1319
+
+
+protocol is necessary, so careful patient selection is required.
+Although the LR rate is higher, this does not seem to affect
+survival outcomes after PPS [4,5].
+Owing to the low incidence of PeCa, there are very few
+published series on glansectomy alone, and most series
+are from single centres with small numbers or are combined with other PPS approaches, such as laser ablation,
+wide local excision, and glans resurfacing. We aimed to provide a contemporary update on the oncological and functional outcomes following glansectomy for PeCa.
+
+2. Methods
+
+We used OVID to perform a search on MEDLINE/PubMed
+and EMBASE using the terms ‘‘glansectomy OR penilepreserving surgery’’ AND ‘‘penis OR glans’’ AND ‘‘cancer
+OR malignancy OR tumour OR neoplasia’’. Original articles
+reporting on cancer confined to the glans treated with
+glansectomy were included. Reviews, case reports, letters,
+editorials, congress abstracts, and articles not in English
+were excluded. A total of 211 articles were retrieved, and
+175 underwent abstract screening after removal of duplicates. Abstracts, full-text articles, and the reference lists of
+the articles included were independently screened for
+appropriateness by two reviewers (K.H.P. and H.M.A.).
+Data on study design, number of patients, complications,
+and recurrence and survival rates were extracted, and the
+lower and upper ranges for oncological outcomes were
+summarised.
+
+3. Results
+
+Overall, 26 full-text articles and six articles identified from
+reference lists were screened. In total, 20 were included in
+our analysis [3,6–24]. We identified 16 studies reporting
+on glansectomy alone [6–18,20,21,24,25] and ten studies
+reporting on PPS as a whole [2,3,5,19,22,23,26–29]. However, it was only possible to extract data for glansectomy
+alone from four of the PPS studies [3,19,22,23].
+
+3.1. Glansectomy technique
+
+PeCa invading the glans spongiosum is deemed suitable for
+glansectomy. Depending on the size and location of the
+tumour, the entire glans or part of the glans can be excised.
+Tumour extending into the distal corporal tips may also
+require a distal corporectomy. A neoglans can be reconstructed using a split-thickness skin graft (STSG) harvested
+from the thigh [21] followed by a tie-over dressing for graft
+application (TODGA technique), which allows immediate
+patient mobilisation and discharge home with a urethral
+catheter [30].
+
+3.2. Glansectomy outcomes
+
+We identified 16 studies on partial or total glansectomy
+(Table 1), which may also combine a distal corporectomy
+followed by reconstruction with a STSG. The LR and positive
+surgical margin (PSM) rates were 2.6–16.7% and 2.9–22.6%,
+respectively. The incidence of salvage penectomy for positive margins and/or recurrence was 1.2–8.3%. The overall
+survival (OS) rate was 78.6–91.9% and the disease-specific
+survival rate was 89–96.6%. The graft loss rate was
+
+
+1.5–23.5% and the meatal stenosis rate was 2.8–14.3%. The
+assessment of functional outcomes was heterogeneous,
+with some studies using validated questionnaires and some
+using locally designed nonvalidated tools. Good cosmetic
+outcomes were reported in 95–100% and normal erectile
+function in 50–100% of cases (Table 1).
+Roussel et al [17] recently reported results for a large
+multicentre series consisting of 897 glansectomies. At median follow-up of 35 months, the LR rate was 10.5% and the
+PSM rate was 12.6%. The 1-yr, 3-yr, and 5-yr recurrencefree survival rates were 93.6%, 89.1%, and 86.4%, respectively. High-grade disease and pT3 stage were predictors
+of LR on multivariable analysis [17].
+Tang et al [24] reported an LR rate of 7.6% at median
+follow-up of 42 mo for a large multicentre series of 410
+glansectomy patients. The 1-yr, 2-yr, and 5-yr recurrencefree survival rates were 98%, 94%, and 78%, respectively.
+Albersen et al [20] investigated factors predictive of LR
+following glansectomy using pathological data for 117
+men. On univariate analysis, carcinoma in situ, high-grade
+disease, perineural invasion, and PSM were predictive of LR.
+
+4. Discussion
+
+PPS is now the standard treatment to preserve penile length
+and function without compromising oncological outcomes
+
+[2,3]. Smaller resection margins are now accepted since
+studies showed that a 2-cm clear margin is no longer
+required for PeCa surgery [2,3]. Therefore, invasive lesions
+confined to the glans can be safely treated with glansectomy. Most single-centre studies on glansectomy are small
+series with fewer than 50 patients, although one series has
+reported on 172 men [21].
+The overall LR and PSM rates observed here were up to
+16.7% and 22.6%, respectively. Those with LR or PSM can
+be offered a salvage penectomy, and the amputation rate
+was up to 8.3%. PSM appears to be a predictor of LR and
+therefore frozen section analysis of proximal margins
+should be considered in some cases to avoid LR and penectomy. Formal staging with magnetic resonance imaging is
+important to distinguish between T2 (confined to spongiosum) and T3 (cavernosa involvement) disease in order to
+select the correct patients for glansectomy alone or with
+distal corporectomy. Following glansectomy, obtaining
+deep separate tunical biopsies from the corpora helps with
+accurate pathological assessment of surgical margins.
+Slight variations in glans reconstruction may explain the
+variable graft take rates and cosmetic outcomes observed in
+this study. In addition, the varied tumour stage and followup duration within the studies may influence bias. However, in general, glansectomy provides good oncological
+outcomes with preservation of function.
+There have been a few reported series on PPS as a whole
+in the past few years, and some were not included in the
+current analysis because separation of data was not possible. However, it is worth discussing the largest series in
+the literature by Kamel et al [28], which included 4155
+men who underwent PPS or amputation. A total of 1211
+men underwent PPS and 2944 underwent PP or total penectomy (TP). The 5-yr OS rates for PPS, PP, and TP were 88%,
+85%, and 79%, respectively. In a multivariable regression
+analysis, predictors of poor OS were advancing age, higher
+
+Table 1 – Outcomes of glansectomy for penile cancer
+
+Study Country Design Patients FU (mo) Histology, n Recurrence, Survival Complications, n (%) Questionnaire used and functional sPeX,
+(%) n (%) outcomes, n (%) n (%)
+
+
+Falcone 2021 [6] Italy RS 34 Median 12 (IQR 12–41) pT: NR LR: 4 (11.8) OS: 91.2% Grade 1: 4 (11.7)
+PSM: 1 (2.9) TTR: NR DSS: 91.2% Grade 2: 3 (8.8)
+Grade 3a: 3 (8.8)
+
+
+NR 1 (2.9)
+for PSM
+
+
+
+
+
+Subj. assessment 1 (8.3)
+Preserved EF and standing voiding: 12 (100)
+
+
+Beech 2020 [18] Canada RS 12 Median 14 (range 1–59) pT0: 2 (16.7)
+pTis: 2 (16.7)
+pT1a: 5 (41.7)
+pT1b: 1 (8.3)
+pT2: 2 (16.7)
+PSM: 2 (16.7)
+
+Perez 2020 [19] [a] MC RS PPS: 57 Median 48.2 (IQR 3–143) pTis: 2 (14.3)
+GlX: 14 pT1: 6 (42.9)
+pT2: 6 (42.9)
+PSM: 3 (21.4)
+
+Albersen 2018 [20] UK RS 117 Median 33.7 (range 1.9– CIS: 43 (36.8)
+151.9) pT1: 31 (26.5)
+pT2: 70 (59.8)
+pT3: 16 (13.7)
+PSM: 17 (14.5)
+
+
+LR: 2 (16.7) OS: NR 90-d grade >2: 0 (0)
+TTR: HR DSS: NR Graft loss: 0 (0)
+MSo: 1 (8.3)
+
+
+NR NR Graft loss: 0 (0) IIEF-5
+MSo: 2 (14.3) Median 19 (10.75–25)
+Sexually active: 14 (100)
+
+
+NR
+
+
+LR: 15 (12.8) OS: 78.6% Graft loss: 23 (23.5) NR NR
+TTR: NR DSS: 96.6% MSo: 4 (2.8)
+
+
+Parnham 2018 [21] UK RS 172 Median 41.4 (range 1.9– pT: NR LR: 16 (9.3) OS: 83% PGL: 29 (20)
+155) PSM: 17 (9.9) TTR: 8.7 mo DSS: 89% Near-complete graft loss: 5
+(3.4)
+MSo: 4 (2.8)
+
+
+NR NR
+
+
+Baumgarten 2018 [22]
+
+a
+
+
+MC RS PPS: 1188 Whole cohort:
+
+GlX: 362 median 43 (IQR 27.9–
+60.4)
+
+
+LR pT2: 18
+(7.5)
+
+TTR: NR
+
+
+pTa/Tis: 14
+(6.4)
+pT1: 108 (18.8)
+pT2: 240 (60.9)
+
+PPS PSM: 190
+
+(16)
+
+
+OS: NR NR NR NR
+
+DSS: NR
+
+
+Chipollini 2018 [23] [a] MC RS PPS: 205 Median 28.6 (IQR 22.7– pTis: 10 (100) LR: 1 (10) 5-yr OS:
+GlX: 10 46.3) TTR: NR 100%
+
+DSS: NR
+
+
+NR NR NR
+
+NR NR 5 (1.2)
+
+
+LR: 31 (7.6) 5-yr OS:
+
+TTR: NR 82%
+
+DSS: NR
+
+
+Tang 2017 [24] MC RS Total: 410
+GlX: 369
+
+GlX + DC: 41
+
+
+Median 42 (IQR 29–56) pTis/pTa: 14
+(3.4)
+pT1: 108 (26.3)
+pT2: 240 (58.5)
+pT3–4: 43
+(10.4)
+PSM: 124 (22.6)
+
+
+
+NR
+
+NR
+
+
+Scarberry 2015 [8] USA RS Total: 6
+GlX: 2
+
+GlX + DC: 4
+
+
+Mean 52 (range 25–84) NR NR NR NR IIEF-15 and PROM for urethral strictures
+Erection with normal rigidity: 50%
+Sexually active: 33%
+
+
+Sedigh 2015 [9] Italy RS 23 Mean 36 (range 20–50) pT1: 10 (43.5)
+pT2: 13 (56.5)
+PSM: 0 (0)
+
+
+LR: 0 (0) OS: NR MSo: 3 (13.0) IIEF-15 and SEP
+TTR: NA DSS: NR PO IIEF-EF, �3.3 points
+PO SEP-2, �27.3%; SEP-3, �39.2%
+
+
+Philippou 2012 [3] [a] UK RS PPS: 179 Whole cohort: NR for GlX LR: 11 (8.0) OS: NR Infection: 0.6%
+GlX: 137 Mean 42.8 (range 4–107) TTR: 26.1 mo DSS: NR Necrosis: 0.6%
+
+PGL: 1.8%
+
+MSo: 0 (0)
+
+
+Philippou 2012 [3] [a] UK RS PPS: 179 Whole cohort: NR for GlX LR: 11 (8.0) OS: NR Infection: 0.6% NR 22
+GlX: 137 Mean 42.8 (range 4–107) TTR: 26.1 mo DSS: NR Necrosis: 0.6% (12.3)
+PGL: 1.8% after
+
+MSo: 0 (0) PPS
+
+
+
+
+
+
+
+
+1 (4)
+
+
+O’Kane 2011 [11] UK RS 25 Mean 28 (range 10–66) pTis: 6 (24)
+pT1: 15 (60)
+pT2: 3 (12)
+pT3: 1 (4)
+
+PSM: NR
+
+
+LR: 1 (4) OS: NR Graft loss: 0 (0) Subj. assessment
+TTR: NR DSS: 92% MSo: 2 (8) Achieve erections: 81.8%
+Sexually active: 54.6%
+
+
+Palminteri 2011 [12] Italy RS 10 45 pT1: 8 (80) LR: 0 (0) OS: 100% NR Subj. assessment NR
+PSM: NR TTR:NA DSS: 100% Satisfied with aesthetic results: 10 (100)
+
+
+LR: 0 (0) OS: NR PGL: 2 (13.3) Subj. assessment
+TTR: NA DSS: 93.3% MSo: 1 (6.7) Preserved EF: 17 (100)
+Reduced glans sensitivity: 15 (100)
+
+
+Morelli 2009 [13] Italy PS Total: 15
+GlX + STSG: 14
+
+GlX + DC: 1
+
+
+Mean 36 (range 10–67) pTa: 2 (13.3)
+pT1: 7 (46.7)
+pT2: 4 (26.7)
+pT3: 2 (13.3)
+PSM: 0 (0)
+
+
+NA
+
+
+Gulino 2007 [14] Italy RS 8 Mean 13 (range 9–14) pT1: 8 (100) LR: 0 (0) OS: NR MSo: 0 (0) IIEF-15 NR
+PSM: 0 (0) TTR: NA DSS: NR PO IIEF-EF, +1 point
+
+
+OS: 91.9% PGL: 2 (2.8) NR NR
+DSS: 94.6% Meatal OG: 1 (1.4)
+
+
+Smith 2007 [15] UK PS 72 Mean 27 (range 4–68) pT1: 35 (48.6)
+pT2: 37 (51.4)
+PSM: 4 (5.6)
+
+
+LR: 3 (4.2)
+
+TTR: 4–28
+
+mo
+
+
+
+
+
+1322 E U R O P E A N U R O L O G Y F O C U S 8 ( 2 0 2 2 ) 1 3 1 8 – 1 3 2 2
+
+
+grade, positive lymph nodes, PSM, and higher Charlson
+comorbidity score. PPS did not predict poor OS [28].
+Comparative data for PPS versus PP suggest that survival
+outcomes following PPS are not inferior [4,5]. Therefore, PPS
+should be performed wherever possible and clinicians
+should ensure that patients will be able to self-examine
+and attend regular follow-up. As PeCa is a rare cancer, surgery should be performed in high-volume specialist centres
+by experienced surgeons.
+
+Conflicts of interest: The authors have nothing to disclose.
+
+References
+
+[[1] Sung H, Ferlay J, Siegel RL, et al. Global cancer statistics 2020:](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0005)
+[GLOBOCAN estimates of incidence and mortality worldwide for 36](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0005)
+[cancers in 185 countries. CA Cancer J Clin 2021;71:209–49.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0005)
+
+[[2] Minhas S, Kayes O, Hegarty P, Kumar P, Freeman A, Ralph D. What](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0010)
+[surgical resection margins are required to achieve oncological](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0010)
+control in men with [primary](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0010) penile cancer? BJU Int
+[2005;96:1040–3.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0010)
+
+[[3] Philippou P, Shabbir M, Malone P, et al. Conservative surgery for](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0015)
+[squamous cell carcinoma of the penis: resection margins and long-](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0015)
+[term oncological control. J Urol 2012;188:803–8.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0015)
+
+[[4] Leijte JAP, Hughes B, Graafland NM, et al. Two-center evaluation of](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0020)
+[dynamic sentinel node biopsy for squamous cell carcinoma of the](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0020)
+[penis. J Clin Oncol 2009;27:3325–9.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0020)
+
+[[5] Djajadiningrat RS, van Werkhoven E, Meinhardt W, et al. Penile](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0025)
+[sparing surgery for penile cancer—does it affect survival? J Urol](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0025)
+[2014;192:120–5.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0025)
+
+[[6] Falcone M, Oderda M, Calleris G, Peretti F, Gontero P. Surgical](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0030)
+outcomes of glansectomy [and](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0030) split thickness skin graft
+[reconstruction for localized penile cancer. Urology 2021;152:195.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0030)
+
+[[7] Håkansson U, Kirrander P, Uvelius B, Baseckas G, Torbrand C. Organ-](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0035)
+[sparing reconstructive surgery in penile cancer: initial experiences](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0035)
+[at two Swedish referral centres. Scand J Urol 2015;49:149–54.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0035)
+
+[[8] Scarberry K, Angermeier KW, Montague D, Campbell S, Wood HM.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0040)
+[Outcomes for organ-preserving surgery for penile cancer. Sex Med](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0040)
+[2015;3:62–6.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0040)
+
+[[9] Sedigh O, Falcone M, Ceruti C, et al. Sexual function after surgical](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0045)
+[treatment for penile cancer: which organ-sparing approach gives](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0045)
+[the best results? Can Urol Assoc J 2015;9:E423–7.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0045)
+
+[[10] Veeratterapillay R, Sahadevan K, Aluru P, Asterling S, Rao GS,](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0050)
+[Greene D. Organ-preserving surgery for penile cancer: description](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0050)
+[of techniques and surgical outcomes. BJU Int 2012;110:1792–5.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0050)
+
+[[11] O’Kane HF, Pahuja A, Ho KJ, Thwaini A, Nambirajan T, Keane P.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0055)
+[Outcome of glansectomy and skin grafting in the management of](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0055)
+[penile cancer. Adv Urol 2011;2011:240824.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0055)
+
+[[12] Palminteri E, Fusco F, Berdondini E, Salonia A. Aesthetic neo-glans](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0060)
+[reconstruction after penis-sparing surgery for benign, premalignant](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0060)
+[or malignant penile lesions. Arab J Urol 2011;9:115–20.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0060)
+
+
+
+[[13] Morelli G, Pagni R, Mariani C, et al. Glansectomy with split-](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0065)
+[thickness skin graft for the treatment of penile carcinoma. Int J](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0065)
+[Impot Res 2009;21:311–4.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0065)
+
+[14] Gulino G, Sasso F, Falabella R, Bassi PF. Distal urethral
+[reconstruction of the glans for penile carcinoma: results of a](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0070)
+[novel technique at 1-year of followup. J Urol 2007;178:941–4.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0070)
+
+[[15] Smith Y, Hadway P, Biedrzycki O, Perry MJA, Corbishley C, Watkin](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0075)
+[NA. Reconstructive surgery for invasive squamous carcinoma of the](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0075)
+[glans penis. Eur Urol 2007;52:1179–85.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0075)
+
+[[16] Pietrzak P, Corbishley C, Watkin N. Organ-sparing surgery for](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0080)
+invasive penile cancer: [early](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0080) follow-up data. BJU Int
+[2004;94:1253–7.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0080)
+
+[[17] Roussel E, Peeters E, Vanthoor J, et al. Predictors of local recurrence](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0085)
+[and its impact on survival after glansectomy for penile cancer: time](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0085)
+[to challenge the dogma? BJU Int 2021;127:606–13.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0085)
+
+[[18] Beech B, Chapman D, Rourke K. Clinical outcomes of glansectomy](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0090)
+[with split-thickness skin graft reconstruction for localized penile](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0090)
+[cancer. Can Urol Assoc J 2020;14:E482–6.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0090)
+
+[[19] Pérez J, Chavarriaga J, Ortiz A, et al. Oncological and functional](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0095)
+[outcomes after organ-sparing plastic reconstructive surgery for](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0095)
+[penile cancer. Urology 2020;142:161–165.e1.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0095)
+
+[[20] Albersen M, Parnham A, Joniau S, et al. Predictive factors for local](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0100)
+[recurrence after glansectomy and neoglans reconstruction for](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0100)
+[penile squamous cell carcinoma. Urol Oncol 2018;36:141–6.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0100)
+
+[[21] Parnham AS, Albersen M, Sahdev V, et al. Glansectomy and split-](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0105)
+[thickness skin graft for penile cancer. Eur Urol 2018;73:284–9.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0105)
+
+[[22] Baumgarten A, Chipollini J, Yan S, et al. Penile sparing surgery for](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0110)
+[penile cancer: a multicenter international retrospective cohort. J](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0110)
+[Urol 2018;199:1233–7.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0110)
+
+[[23] Chipollini J, Yan S, Ottenhof SR, et al. Surgical management of penile](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0115)
+[carcinoma in situ: results from an international collaborative study](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0115)
+[and review of the literature. BJU Int 2018;121:393–8.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0115)
+
+[[24] Tang DH, Yan S, Ottenhof SR, et al. Glansectomy as Primary](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0120)
+[management of penile squamous cell carcinoma: an international](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0120)
+[study collaboration. Urology 2017;109:140–4.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0120)
+
+[[25] Ferlay J, Colombet M, Soerjomataram I, et al. Estimating the global](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0125)
+[cancer incidence and mortality in 2018: GLOBOCAN sources and](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0125)
+[methods. Int J Cancer 2019;144:1941–53.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0125)
+
+[[26] Kokorovic A, Duplisea J, Qiao W, et al. Oncologic outcomes and](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0130)
+[subsequent treatment following organ sparing surgery for penile](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0130)
+[carcinoma: the University of Texas M.D. Anderson Cancer Center](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0130)
+[experience. Urol Oncol 2021;39(302):e19–27.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0130)
+
+[[27] Lindner AK, Schachtner G, Steiner E, et al. Organ-sparing surgery of](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0135)
+[penile cancer: higher rate of local recurrence yet no impact on](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0135)
+[overall survival. World J Urol 2020;38:417–24.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0135)
+
+[[28] Kamel MH, Tao J, Su J, et al. Survival outcomes of organ sparing](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0140)
+[surgery, partial penectomy, and total penectomy in pathological T1/](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0140)
+[T2 penile cancer: report from the National Cancer Data Base. Urol](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0140)
+[Oncol 2018;36(82):e7–e15.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0140)
+
+[[29] Feldman AS, McDougal WS. Long-term outcome of excisional organ](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0145)
+[sparing surgery for carcinoma of the penis. J Urol 2011;186:1303–7.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0145)
+
+[[30] Malone PR, Thomas JS, Blick C. A tie-over dressing for graft](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0150)
+[application in distal penectomy and glans resurfacing: the TODGA](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0150)
+[technique. BJU Int 2011;107:836–40.](http://refhub.elsevier.com/S2405-4569(21)00307-2/h0150)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

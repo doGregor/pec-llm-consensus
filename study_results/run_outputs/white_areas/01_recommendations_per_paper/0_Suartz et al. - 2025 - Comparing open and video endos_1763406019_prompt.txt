@@ -1,0 +1,895 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    BJU Int 2025; 135: 567–576 doi:10.1111/bju.16661
+## Review
+# Comparing open and video endoscopic lymphadenectomy for penile cancer: a systematic review and meta-analysis of prospective studies
+
+Caio Vin [�] ıcius Suartz [1,2], Richard Dobrucki de Lima [4], Luiza Rafih Abud [4], Pedro Henrique Souza Brito [4],
+Ketlyn Assunc�ao Galhardo [~] [4], Thalita Bento Talizin [4], Andre Lopes Salazar [�] [3], Fernando Korkes [5], Giuliano Guglielmetti [4],
+Stenio de C [^] assio Zequi [�] [6,7], Leopoldo Alves Ribeiro-Filho [4], Paul Toren [2] and Michele Lodde [2]
+
+1 Urology Department, Northern Ontario School of Medicine, Thunder Bay, Ontario, 2 CHU de Quebec-Universit� e Laval,�
+Quebec City, Quebec, Canada, [3] Division of Urology, Mario Penna Institute, Belo Horizonte, Minas Gerais, [4] Division of
+Urology, Institute of Cancer of Sao Paulo, University of S [~] ao Paulo, S [~] ao Paulo, [~] [5] Urologic Oncology, Division of Urology,
+ABC Medical School, Sao Paulo, [6] Antonio Prudente Foundation, and [7] Urology Division, A.C. Camargo Cancer Center,
+Sao Paulo, Brazil [~]
+
+
+
+Introduction
+
+Penile cancer typically metastasises in a sequential pattern
+through the lymphatic system, beginning with the superficial
+
+
+inguinal lymph nodes (LNs), deep inguinal LNs progressing
+to the pelvic LNs, and eventually reaching distant sites [1].
+Fewer than 5% of patients present with distant metastases,
+and such cases usually involve regional LNs. The presence
+
+
+� 2025 BJU International.
+
+Published by John Wiley & Sons Ltd. www.bjui.org wileyonlinelibrary.com
+
+Review
+
+and extent of LN metastases are crucial prognostic factors for
+penile cancer survival, with 5-year cancer-specific survival
+rates of ~95%, 80%, 65%, and 35% for patients with N0, N1,
+N2, and N3 disease, respectively [2,3].
+
+In patients with clinically LN-negative groins (cN0), where no
+suspicious palpable LNs are detected, evidence from a
+non-randomised controlled trial (RCT) indicates that early
+LN surgery significantly improves outcomes. Specifically, a
+3-year survival rate of 84% was observed in those undergoing
+early LN surgery, compared to 35% in those who received
+delayed surgery. The incidence of extranodal extension was
+20% in the early surgery group, compared to 95% in the
+delayed group [4]. Consequently, early detection of lymphatic
+spread is vital in the management of penile cancer. Given
+that the inguinal LNs are typically the first site of
+dissemination, initial staging efforts focus on identifying
+(micro)metastatic disease in these LNs, with imaging for
+distant metastases reserved for patients with clinically
+LN-positive disease [1].
+
+Open inguinal lymphadenectomy (OIL) is considered the
+‘gold standard’ for managing LN metastasis in penile cancer
+
+[5]. However, this procedure is associated with high
+morbidity, including skin necrosis and postoperative surgical
+wound infections. Additionally, the extent of IL can result in
+higher incidences of lymphocele, lymphorrhoea, lower limb
+and genital lymphoedema [6].
+
+In 2006, Tobias-Machado et al. [7] introduced video
+endoscopic Inguinal Lymphadenectomy (VEIL) to urological
+clinical practice to reduce morbidity while maintaining the
+oncological principles of the conventional technique [8]. Since
+its introduction, several retrospective studies have reported
+promising results. This study is the first meta-analysis using
+only prospective studies to elucidate better whether VEIL
+offers advantages in perioperative outcomes compared to OIL
+in patients with penile cancer.
+
+Methods
+
+Literature Search
+
+The study was conducted on June 2024, in compliance with
+the Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses (PRISMA) [9] statement (Data S1) and
+registered in the International Prospective Register of
+Systematic Reviews (PROSPERO) database (Centre for
+Reviews and Dissemination [CRD] identifier 42024543081). A
+research question was established based on the Patient –
+Intervention – Comparator – Outcome – Study design
+(PICOS) criteria, which is as follows: which IL for penis
+cancer (squamous cell carcinoma [SCC]) has fewer
+postoperative complications: a video endoscopic or open
+approach?
+
+568 � 2025 BJU International.
+
+
+The search strategy used Medical Subject Headings (MeSH)
+terms as a basis.
+
+We included only RCTs and prospective cohort studies.
+Meeting abstracts, reviews, case reports, letters to the editor,
+retrospective cohorts, and editorials were excluded.
+
+We searched the following databases up to June 2024:
+
+1. Cochrane Central Register of Controlled Trials
+(CENTRAL) 2020, Issue 3, in the Cochrane Library.
+2. Medical Literature Analysis and Retrieval System Online
+(MEDLINE) via Ovid (from 1946).
+3. Excerpta Medica dataBASE (EMBASE) via Ovid (from 1974).
+4. Literatura Latino-Americana e do Caribe em Ci^encias da
+
+Saude (LILACS database, from 1982).�
+5. Scopus, Elsevier’s citation tool (from 2004).
+6. Web of Science/Web of Knowledge (Clarivate and
+Thomson Reuters) (from 1900).
+7. Education Resources Information Center (ERIC; from
+1966); and the following trial registries:
+
+a. International Standard Randomised Controlled Trial
+[Number (ISRCTN) registry (http://www.isrctn.com).](http://www.isrctn.com)
+[b. ClinicalTrials.gov (http://www.clinicaltrials.gov).](http://clinicaltrials.gov)
+c. Australian New Zealand Clinical Trials Registry
+[(http://www.anzctr.org.au).](http://www.anzctr.org.au)
+d. The WHO International Clinical Trials Registry
+Platform (ICTRP) (https://trialsearch.who.int).
+[e. European Union (EU) Clinical Trials Register (http://](http://www.clinicaltrialsregister.eu)
+[www.clinicaltrialsregister.eu).](http://www.clinicaltrialsregister.eu)
+
+We also checked the bibliographies of the studies included for
+further references to relevant trials.
+
+Study Screening and Selection
+
+Two independent authors (C.V.S and R.D.L) screened all
+retrieved records. Discrepancies were resolved by discussion.
+The full text of the screened papers was evaluated if found to
+be relevant to the present review.
+
+The PICOS Framework
+
+The included studies met the following criteria: patients (P)
+with penile SCC underwent IL; the intervention (I) tested was
+VEIL; (C) the comparator was the OIL; the primary outcome
+(O) evaluated was perioperative complications, and were
+selected only (S) prospective studies.
+
+Data Extraction and Endpoints
+
+All variables were extracted into a Microsoft Excel (Microsoft,
+Redmond, WA, USA) spreadsheet for analysis and verified by
+another author (C.V.S. and R.D.L.). The mean and SD were
+documented for the continuous variables obtained from the
+
+included studies. For variables reported as median and
+
+interquartile range (IQR), the original data were converted to
+mean and SD [10].
+
+The recorded variables included the follow-up duration of the
+studies, demographics data, TNM stage, surgical technical
+data, perioperative complications details, and hospital stay.
+The postoperative complications were stratified by the
+Clavien–Dindo classification [11]. Minor complications were
+defined as Clavien–Dindo Grades I and II, while major
+complications were defined as Clavien–Dindo Grades III–V.
+Specific perioperative complications were recorded as
+dichotomous variables, including wound infection,
+lymphorrhoea, lymphoedema, lymph collection, haematoma,
+skin necrosis, deep venous thrombosis, and pulmonary
+embolism. Intraoperative and oncological outcomes were
+recorded as continuous variables, including operative time,
+number of LNs retrieved, number of positive LNs, period
+with drain, recurrence after surgery, and overall survival.
+
+Quality Assessment and Risk of Bias
+
+Prospective observational studies were appraised with the
+Newcastle–Ottawa Scale (NOS) [12]. In this scale, studies are
+scored on a 0–9 scale according to the quality of patient
+selection, comparability of groups, and adjudication of
+outcomes. Quality assessment of RCTs was performed using
+the Cochrane Collaboration tool for assessing the risk of bias
+in randomised trials (Risk of Bias 2 [ROB2]), in which
+studies are scored as ‘high’, ‘low’, or ‘unclear’ risk of bias in
+five domains: selection, performance, detection, attrition, and
+reporting biases [13]. Publication bias was investigated by
+funnel-plot analysis of point estimates according to study
+weights and by Egger’s regression test.
+
+Statistical Analysis
+
+This systematic review with meta-analysis followed the
+Cochrane Collaboration and the PRISMA statement
+guidelines [13]. Odds ratios with 95% CIs were used to
+compare treatment effects for categorical endpoints.
+Cochran’s Q test and I [2] statistics were used to assess for
+heterogeneity; P values inferior to 0.10, and I [2] >25% were
+considered significant for heterogeneity. We used a fixedeffect model for outcomes with low heterogeneity (I [2] <25%).
+Otherwise, a DerSimonian and Laird random-effects model
+was used. The meta-analyses were performed with Review
+Manager 5.4 (Cochrane Centre, The Cochrane Collaboration,
+Odense, Denmark).
+
+Results
+
+Literature Screening
+
+The literature search retrieved 381 papers. In all, 275
+duplicate studies were automatically excluded. After title
+
+
+VEIL vs Open Lymphadenectomy for Penile Cancer
+
+and abstract screening of the 106 unique references, 88
+records were excluded due to irrelevance to the study’s
+aim. The full texts of the remaining 18 studies were
+assessed for eligibility. Finally, four studies were selected
+and included. Fig. 1 shows the PRISMA flowchart of the
+literature search.
+
+Pooled Analysis of all Studies
+
+Four prospective studies, three RCTs and one
+non-randomised study, were included in this analysis. All
+studies compared VEIL with OIL, with the analysis unit being
+the limbs that underwent the procedures. A total of 95
+patients were included, and 174 limbs were operated on. The
+first RCT was published in 2007 and the most recent study
+was published in February 2024 [14–17].
+
+Tobias-Machado et al. [15] and Yadav et al. [16] reported
+performing IL 1 month after primary surgery for penile
+cancer [15,16]. The other two authors did not describe the
+timing of IL relative to the primary surgery [14,17].
+Regarding the average age of patients, the Tobias-Machado
+et al. [15] study included patients with a mean age of
+47 years, the Yadav et al. [16] patients had a mean age of
+52 years, the Falcone et al. [14] study reported a median
+
+–
+(IQR) age of 63 (57 69) years, and in the Kumar et al. [17]
+cohort the patients had a mean age of 69.5 years in the OIL
+group and 65.8 years in the VEIL group. The use of
+nomograms to indicate IL was not reported in any of the
+studies. In Table 1 [14–17], we have summarised the baseline
+characteristics of the selected articles.
+
+Quality Assessment
+
+In our quality assessment, the Falcone et al. [14] study
+clarified the methods of randomisation and allocation and did
+
+not present deviations from the intended intervention or
+missing outcome data. It also demonstrated robust outcome
+measurements without selective reporting of results. Among
+the four studies evaluated, this article represents the highest
+quality assessment. Tobias-Machado et al. [15] did not detail
+the randomisation method used, nor did they mention
+whether the patients and healthcare professionals knew the
+assigned groups. However, the pathologist evaluators ‘blinded’
+their assessments, reducing some bias. Similarly, Yadav et al.
+
+[16] did not specify the randomisation method or indicate
+whether the patients, healthcare professionals, and evaluators
+knew the assigned groups.
+
+Regarding the prospective cohort study by Kumar et al.
+
+[17], the study was assessed using the NOS, and it met all
+the criteria well without any limitations identified by the
+method. Fig. S1 shows the ROB2 and NOS quality
+assessment scales.
+
+� 2025 BJU International. 569
+
+Review
+
+Fig. 1 The PRISMA flowchart.
+
+Table 1 Baseline characteristics of included studies.
+
+
+
+
+
+
+
+
+
+
+
+
+Tumoral Staging
+
+The tumour staging exhibited notable variability across the
+cohorts, with T2 tumours being the most prevalent. Falcone
+et al. [14] reported 78.6% of cases as T2 stage, underscoring a
+significant concentration of intermediate-stage disease within
+this cohort. In contrast, the distribution of T2 cases varied
+across the other studies, indicating a diverse tumour profile
+among the patient populations. T3 tumours were less
+frequently observed, with Kumar et al. [17] documenting 10
+cases, followed by Falcone et al. [14] with six, and
+Tobias-Machado et al. [15] and Yadav et al. [16] each
+reporting three cases. T4 tumours, indicative of more
+
+570 � 2025 BJU International.
+
+
+advanced disease, were rare occurrences, with only two cases
+identified in the Kumar et al. [17] cohort and a single case in
+the Yadav et al. [16] study.
+
+The clinical LN status (cN) further demonstrated considerable
+heterogeneity among the studies. Most patients in the Falcone
+et al. [14] cohort were classified as cN0, comprising 75% of
+cases, and 25% of patients were categorised as cN1 or cN2,
+corresponding to single or multiple LN involvements,
+respectively. Notably, no instances of cN3 status—indicative
+of more extensive LN disease—were reported across the
+studies. Tumour grading also varied, with a predominance of
+Grade 2 tumours in the Falcone et al. [14] study (67.9%),
+
+Table 2 Tumour staging of patients involved in the studies.
+
+
+
+
+
+
+whereas the Kumar et al. [17] cohort showed a markedly
+higher incidence of Grade 3 tumours, reflecting a more
+aggressive tumour biology. The presence of angiolymphatic
+invasion was reported only in the study by Tobias-Machado
+et al. [15] (five patients); this information was not provided
+in the other studies. These findings underscore the significant
+variability in both the staging and grading of tumours,
+highlighting the diverse clinical presentations and disease
+progression pathways in penile cancer across the studied
+populations. The results are summarised in Table 2 [14–17].
+
+Surgery
+
+The OIL technique was similar across all studies, and all
+procedures were performed by surgeons experienced in the
+management of penile cancer. The surgical procedure
+included the following steps: a transversal inguinal incision of
+
+~
+7 cm in length was made 1 cm below the inguinal ligament;
+Camper’s fascia was incised; superficial LN stations between
+Camper’s fascia and the fascia lata were dissected; and deep
+LN packages were isolated and excised at the level of the
+fossa ovalis [14–17].
+
+The VEIL technique remained consistent across all studies,
+with the camera trocar placed at the apex of Scarpa’s triangle.
+For the manipulation trocars, Tobias-Machado et al. [15],
+Yadav et al. [16], and Kumar et al. [17] studies used one
+5-mm trocar and one 12-mm trocar, while Falcone et al. [14]
+used two 5-mm trocars. There was a trend towards
+decreasing insufflation pressure over time: the first study in
+2007 (Tobias-Machado et al. [15]) used a pressure of
+
+
+VEIL vs Open Lymphadenectomy for Penile Cancer
+
+15 mmHg; the studies published in 2017 (Kumar et al. [17])
+and 2018 (Yadav et al. [16]) used a pressure of 12 mmHg;
+and the most recent study published in 2024 (Falcone et al.
+
+[14]) used a pressure of 10 mmHg.
+
+Three studies compared the two techniques within the same
+patient, OIL on one side and VEIL on the other [14–16]. In
+these studies, comparisons were made with the same patient.
+Kumar et al. [17] applied the same technique for both sides,
+and comparisons were made across patients.
+
+For lymphovascular ligature, Kumar et al. [17] used titanium
+clips exclusively, Yadav et al. [16] used a harmonic scalpel,
+Falcone et al. [14] used selective metallic ligating clips and an
+automatic hybrid (ultrasound/bipolar) sealing system, and the
+Tobias-Machado et al. [15] study used both clips and a
+harmonic scalpel. The ligature of the great saphenous vein
+appeared to be avoided over time. In the first RCT published,
+Tobias-Machado et al. [15] made a ligature of the vein, while
+in the other studies, the vein was preserved in all cases or
+was ligated only when the bulky LN mass was strongly
+adherent to the vein [14–17].
+
+Perioperative Outcomes
+
+Operative time was reported in all evaluated studies, and no
+significant difference in operative time was observed between
+the two procedures (P = 0.25; mean difference [MD] 17.39,
+95% CI �18.71 to 53.49). Among the studies excluded from
+the meta-analysis, Kumar et al. [17] reported similar surgical
+time for VEIL (mean of 94 min) and OIL (97 min). In
+contrast, Yadav et al. [16] study indicated a significantly
+longer operative time for VEIL (mean of 162.83 min) than
+OIL (92.35 min) [13–16].
+
+Regarding the period with the drain, three studies provided
+data for meta-analysis, while one did not report the time
+until drain removal. The meta-analysis indicated that the
+drain period was significantly shorter for patients undergoing
+VEIL than those undergoing OIL (P = 0.001; MD �1.94, 95%
+CI �3.15 to �0.74).
+
+There was not a difference in hospital stay for patients who
+underwent OIL, and two articles provided data on hospital
+stay stratified by operative group [15,16]. The study of
+Falcone et al. [14] reported a mean (SD) hospital stay of
+6.67 (3.7) days for all patients. The forest plot shows
+significantly shorter hospital stays for patients who underwent
+VEIL (P < 0.01; MD �5.48, 95% CI �6.34 to �4.62), and the
+number of LNs retrieved in each procedure did not seem to
+be influenced by the surgical approach (P = 0.32; 95% CI
+�128.77 to 41.74), as shown in the Fig. 2.
+
+Postoperative pain was evaluated in three studies. In the
+study by Falcone et al. [14], a visual analogue scale score was
+
+–
+used, with an overall median (range) score of 2 (2 3) for the
+
+� 2025 BJU International. 571
+
+Review
+
+Fig. 2 Forest plot comparing VEIL and OIL: (A) Operative time; (B) Period with drain; (C) Hospital stay.
+
+
+–
+VEIL group and 3 ( 2 4) for the OIL group. Tobias-Machado
+et al. [15] study reported that nine patients experienced more
+pain in the limb that underwent the OIL procedure, while
+one reported no difference. Yadav et al. [16] described the
+pain in patients undergoing OIL as mild, with a mean
+duration of 4.6 days, whereas the VEIL group experienced
+mild pain, with a mean duration of 3.2 days [14–17].
+
+Postoperative Complications
+
+The VEIL group presented a significantly lower number of
+Clavien–Dindo Grade I and II complications, with minimal
+heterogeneity among the studies (P = 0.001; 95% CI
+0.12–0.60; I [2] = 0). Clavien–Dindo Grade III and IV
+complications were also fewer in the VEIL group (P = 0.005;
+95% CI 0.00–0.40; I [2] = 32%). Wound infections were less
+
+
+frequent in the VEIL group (P < 0.001; 95% CI 0.01–0.18;
+I [2] = 0), the incidence of postoperative lymphoedema was
+lower in the VEIL group (P = 0.05; 95% CI 0.09–0.99;
+I [2] = 27%), and the occurrence of skin necrosis was also
+reduced (P = 0.002; 95% CI 0.04–0.49; I [2] = 0). The only
+complication evaluated in the meta-analysis that did not show
+an association with the surgical approach was lymph
+collection (P = 0.89; 95% CI 0.45–2.48; I [2] = 0), shown in
+Fig. 3. No intraoperative complications were reported by the
+studies.
+
+Regarding thromboembolic events, Tobias-Machado et al.
+
+[15]. and Yadav et al. [16] reported that no pharmacological
+prophylaxis was used, and they recommended ambulation
+starting on the second postoperative day [13,16]. Neither of
+the two cohorts experienced thromboembolic events. Kumar
+
+
+Fig. 3 Forest plot comparing postoperative complications in VEIL and OIL: (A) Minor complications; (B) Major complications; (C) Wound infection; (D)
+
+Lymphoedema; (E) Lymph collection; (F) Skin necrosis.
+
+572 � 2025 BJU International.
+
+VEIL vs Open Lymphadenectomy for Penile Cancer
+
+� 2025 BJU International. 573
+
+Review
+
+et al. [17] described one episode of deep vein thrombosis and
+pulmonary embolism in each of the surgical groups but did
+not mention any perioperative prophylactic measures.
+
+Oncological Outcomes
+
+Tobias-Machado et al. [15] reported a mean follow-up of
+18.7 months, Yadav et al. [16] of 14 months, and Falcone
+et al. [14] of 15.6 months. Kumar et al. [17] reported a mean
+follow-up of 71 months for the OIL group and 16 months for
+the VEIL group. During the follow-up period,
+Tobias-Machado et al. [15] and Kumar et al. [17] did not
+observe any recurrences. Falcone et al. [14] reported two
+patients with recurrences who subsequently died, although the
+recurrences were not specified between the treatment groups
+
+[14–17]. Yadav et al. [16] also reported two cases with
+unspecified surgical approaches: one patient died 13 months
+postoperatively due to metastasis in the shoulder, and another
+died 1 year after surgery due to visceral metastasis.
+
+Discussion
+
+This meta-analysis compared VEIL and OIL in adult patients
+with penile cancer (SCC) and included four prospective
+studies (three RCTs) with a total of 95 patients and 174
+operated limbs. The analysis demonstrates that laparoscopic
+surgery is associated with fewer postoperative complications.
+To our knowledge, this is the first meta-analysis conducted
+exclusively with prospective studies, which is reflected in the
+low level of heterogeneity in the evaluated complications.
+
+Penile cancer is relatively rare in industrialised nations, with
+incidence rates of ~0.94 per 100 000 men in Europe and 0.5
+per 100 000 in the USA [18]. However, the prevalence is
+significantly higher in certain regions, such as South America,
+Southeast Asia, and parts of Africa, where penile cancer may
+represent 1–2% of all male malignancies [19,20]. Due to its
+rare manifestation, conducting RCTs presents a logistical
+challenge for oncology institutions. Consequently, to date,
+there are only three RCTs and six retrospective cohort studies
+in English that compare OIL with VEIL for penile cancer
+
+[14–19]. The two previous meta-analyses [21,22] combined
+both prospective and retrospective studies, resulting in high
+heterogeneity, requiring subgroup analyses to address the
+high heterogeneity among the studies. Additionally, the
+databases searched in these prior meta-analyses were more
+restricted compared to the present study.
+
+The surgical technique initially described by Tobias-Machado
+et al. [7] has remained consistent among all authors with
+minimal variations. However, the initially reported operative
+time for VEIL was 126 min compared to 92 min for OIL
+
+[8,17]. In recent studies, the operative times have been
+equalised, which can be attributed to the learning curve
+associated with laparoscopy [15,16].
+
+574 � 2025 BJU International.
+
+
+An interesting trend noted in this review is the reduction in
+insufflation pressure. Initially, Tobias-Machado et al. [15]
+used a pressure of 15 mmHg, which was reduced to
+12 mmHg in the studies by Kumar et al. [17] and Yadav
+et al. [16] and further reduced to 10 mmHg in the recent
+study of Falcone et al. [14]. To the best of our knowledge, no
+prospective study has compared different insufflation
+pressures in the IL. However, there is a trend towards using
+lower insufflation pressures in other procedures, such as
+radical prostatectomy, to improve tissue perfusion and reduce
+thromboembolic events. This rationale could be applied to IL,
+potentially improving tissue perfusion and reducing
+postoperative ischaemic injuries. Nevertheless, more studies
+are needed to understand the influence of insufflation
+pressure in this specific type of surgery [23,24].
+
+In previous studies, the drainage time was not significantly
+different between the groups [21,22]. However, despite the
+distinct protocols for drain removal, the absolute comparison
+between the groups and the similar study design in the
+present review allowed us to ascertain that the drainage time
+appears shorter when using VEIL compared to OIL. The
+shorter drainage time, lower intensity and duration of pain,
+and fewer complications may be related to this difference in
+hospital stay duration.
+
+The two previous systematic reviews described shorter
+hospital stays in patients undergoing VEIL, although the high
+heterogeneity index makes the results uncertain. The
+homogeneity in the trial designs in the present study resulted
+in similar findings with a low heterogeneity index [21,22].
+
+Postoperative pain was assessed using various instruments
+across studies, but the comparison indicates a reduction in
+the intensity and duration of pain in patients undergoing
+VEIL compared to those undergoing OIL. This reduction in
+pain may be attributed to the smaller incisions and less
+tissue traction associated with VEIL. This is the first
+meta-analysis to compare postoperative pain evaluations in
+IL, highlighting a significant gap in the literature. Future
+studies should employ standardised and validated pain
+assessment tools to improve the evaluation and make more
+robust comparisons.
+
+Wound infection, skin necrosis, and lymphoedema are the
+most common postoperative complications associated with IL
+
+[1,25,26]. The incidence of skin necrosis in the literature
+ranges from 16.7% to 36% in the OIL group and from 0% to
+11.8% in the VEIL group. In our study, we found a 25%
+incidence of skin necrosis in the OIL group compared to 4%
+in the VEIL group.
+
+Similarly, consistent with other systematic reviews [21,22],
+which included retrospective studies and those in languages
+other than English, we found no difference between techniques
+concerning the presence of lymph collection. Therefore, the
+
+primary advantage of VEIL appears to be in reducing the most
+frequent complications associated with OIL.
+
+The global proliferation of robotic platforms has increasingly
+led to adopting robotic assistance in various urological
+laparoscopic surgeries. This trend includes the conversion of
+VEIL to robot-assisted procedures, exemplified by the first
+robot-assisted IL (RAIL) described by Josephson et al. in 2009
+
+[27]. This innovation marked a significant advancement in
+the surgical management of penile cancer. Over the past
+decade, just retrospective studies comparing RAIL to
+traditional open techniques have demonstrated comparable
+oncological outcomes, with RAIL offering the added
+advantages of reduced morbidity and faster recovery times.
+Nonetheless, despite these promising early results, long-term
+and prospective studies are still required to fully validate the
+oncological efficacy and safety of RAIL [28,29].
+
+It is important to emphasise that adopting video laparoscopic
+techniques inherently involves overcoming a significant
+learning curve. Furthermore, integrating these methods into
+healthcare systems will require detailed cost-effectiveness
+evaluations in the future to ensure widespread access and
+equitable dissemination of the technique.
+
+Despite this study being the first meta-analysis utilizing only
+prospective studies, it has several limitations due to the rarity
+of the disease and the logistical difficulties in establishing a
+study protocol, the limited number of patients. The short
+follow-up period of the studies also presents a challenge in
+analysing oncological outcomes such as recurrence,
+disease-free survival, and overall survival. Finally, there may
+be language bias in this meta-analysis as only studies
+published in English were included.
+
+However, this study offers the most robust evidence currently
+available on the subject, drawing on three RCTs and a
+prospective observational study [30]. These findings
+significantly enhance our understanding of both laparoscopic
+and open approaches to IL for penile cancer, providing
+valuable data that can inform future clinical practice and
+guide ongoing research [31].
+
+Conclusion
+
+In the present meta-analysis of high-quality RCTs and
+prospective cohorts, VEIL had significantly fewer wound
+infections, skin necrosis, and lymphoedema. The shorter
+drainage time, lower intensity and duration of pain, and
+fewer postoperative complications seem to be related to a
+shorter hospital stay.
+
+The limited sample of 95 patients across four studies
+underscores the need for further randomised trials, but the
+present findings support the use of VEIL in managing LNs in
+penile cancer. These outcomes are promising and emphasise
+
+
+VEIL vs Open Lymphadenectomy for Penile Cancer
+
+the role of VEIL surgery for adult patients with penile cancer,
+particularly in the era of minimally invasive surgical techniques.
+
+Acknowledgements
+
+None.
+
+Disclosure of Interests
+
+All authors report no relationships that could be construed as
+a conflict of interest. All authors take responsibility for all
+aspects of the reliability and freedom from bias of the data
+presented and their discussed interpretation.
+
+Funding Statement
+
+None.
+
+References
+
+1 EAU Guidelines. Edition Presented at the EAU Annual Congress Paris.
+
+2024 978-94-92671-23-3
+
+2 Horenblas S, van Tinteren H, Delemarre JF, Boon TA, Moonen LM,
+Lustig V. Squamous cell carcinoma of the penis. IV. Prognostic factors of
+survival: analysis of tumor, nodes, and metastasis classification system. J
+Urol 1994; 151: 1239–43
+
+3 Srinivas V, Morse MJ, Herr HW, Sogani PC, Whitmore WF Jr. Penile
+cancer: relation of extent of nodal metastasis to survival. J Urol 1987; 137:
+
+880–2
+
+4 Kroon BK, Horenblas S, Meinhardt W, van der Poel HG, Bex A.
+Patients with penile carcinoma benefit from immediate resection of
+clinically occult lymph node metastases. J Urol 2005; 173: 816–9
+5 Ornellas AA, Seixas AL, Marota A, Wisnescky A, Campos F, de Moraes
+JR. Surgical treatment of invasive squamous cell carcinoma of the penis:
+retrospective analysis of 350 cases. J Urol 1994; 151: 1244–9
+6 Koifman L, Hampl D, Koifman N, Vides AJ, Ornellas AA. Radical open
+inguinal lymphadenectomy for penile carcinoma: surgical technique, early
+complications, and late outcomes. J Urol 2013; 190: 2086–92
+7 Tobias-Machado M, Tavares A, Molina WR Jr, Forseto PH Jr, Juliano
+RV, Wroclawski ER. Video endoscopic inguinal lymphadenectomy
+(VEIL): minimally invasive resection of inguinal lymph nodes. Int Braz J
+Urol 2006; 32: 316–21
+
+8 Tobias-Machado M, Tavares A, Molina WR Jr et al. Video endoscopic
+inguinal lymphadenectomy (VEIL): initial case report and comparison
+with open radical procedure. Arch Esp Urol 2006; 59: 849–52
+9 Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items
+for systematic reviews and meta-analyses: the PRISMA statement. BMJ
+2009; 339: b2535
+
+10 Hozo SP, Djulbegovic B, Hozo I. Estimating the mean and variance from
+the median, range, and the size of a sample. BMC Med Res Methodol
+2005; 5: 13
+
+11 Clavien PA, Barkun J, De Oliveira ML et al. The Clavien-Dindo
+classification of surgical complications: five-year experience. Ann Surg
+2009; 250: 187–96
+
+12 Wells GA, Shea B, O’Connell D et al. The Newcastle-Ottawa Scale
+(NOS) for assessing the quality of nonrandomized studies in
+[meta-analyses. Available at: http://www.ohri.ca/programs/clinical_](http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp)
+[epidemiology/oxford.asp. Accessed April 22, 2024.](http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp)
+13 Higgins JP, Altman DG, Gotzsche PC et al. The Cochrane
+Collaboration’s tool for assessing risk of bias in randomised trials. BMJ
+2011; 343: d5928
+
+� 2025 BJU International. 575
+
+Review
+
+14 Falcone M, Gul M€, Peretti F et al. Inguinal lymphadenectomy for penile
+cancer: an interim report from a trial comparing open versus
+videoendoscopic surgery using a within-patient design. Eur Urol Open Sci
+2024; 63: 31–7
+
+15 Tobias-Machado M, Tavares A, Ornellas AA, Molina WR Jr, Juliano
+RV, Wroclawski ER. Video endoscopic inguinal lymphadenectomy: a new
+minimally invasive procedure for radical management of inguinal nodes
+in patients with penile squamous cell carcinoma. J Urol 2007; 177: 953–8
+16 Yadav SS, Tomar V, Bhattar R, Jha AK, Priyadarshi S. Video endoscopic
+inguinal lymphadenectomy vs open inguinal lymphadenectomy for
+carcinoma penis: expanding role and comparison of outcomes. Urology
+2018; 113: 79–84
+
+17 Kumar V, Sethia KK. Prospective study comparing video-endoscopic
+radical inguinal lymph node dissection (VEILND) with open radical
+ILND (OILND) for penile cancer over an 8-year period. BJU Int 2017;
+
+119: 530–4
+
+18 Fu L, Tian T, Yao K et al. Global pattern and trends in penile cancer
+incidence: population-based study. JMIR Public Health Surveill 2022; 8:
+
+e34874
+
+19 Coelho RWP, Pinho JD, Moreno JS et al. Penile cancer in Maranh~ao,
+Northeast Brazil: the highest incidence globally? BMC Urol 2018; 18: 50
+20 Ye YL, Guo SJ, Li ZS et al. Radical videoscopic inguinal
+lymphadenectomies: a matched pair analysis. J Endourol 2018; 32: 955–60
+21 Hu J, Li H, Cui Y et al. Comparison of clinical feasibility and oncological
+outcomes between video endoscopic and open inguinal lymphadenectomy
+for penile cancer: a systematic review and meta-analysis. Medicine 2019;
+
+98: e15862
+
+22 Patel KN, Salunke A, Bakshi G, Jayaprakash D, Pandya SJ.
+Robotic-assisted video-endoscopic inguinal lymphadenectomy (RAVEIL)
+and video-endoscopic inguinal lymphadenectomy (VEIL) versus open
+inguinal lymph-node dissection (OILND) in carcinoma of penis:
+comparison of perioperative outcomes, complications and oncological
+outcomes. A systematic review and meta-analysis. Urol Oncol Semin Orig
+Investig 2022; 40: 112.e1–112.e22
+23 Manici M, Aykanat IC [_], Simsek D, Tarim K, Gurkan Y, Canda AE.
+Anesthesiological and surgical perspectives on using 8 mmHg versus
+12 mmHg pneumoperitoneum pressures during robotic radical
+prostatectomy: results of a prospective randomized study. Ulus Travma
+Acil Cerrahi Derg 2024; 30: 430–6
+24 Reijnders-Boerboom GTJA, Jacobs LMC, Helder LS et al. Recovery and
+immune function after low pressure pneumoperitoneum during
+robot-assisted radical prostatectomy: a randomised controlled trial. BJU
+Int 2024; 134: 416–25
+
+25 Tobias-Machado M, Ornellas AA, Hidaka AK et al. Long-term
+oncological and surgical outcomes after video endoscopic inguinal
+lymphadenectomy (VEIL) in patients with penile cancer. Int Braz J Urol
+2023; 49: 580–9
+
+576 � 2025 BJU International.
+
+
+26 Jacobellis U. Modified radical inguinal lymphadenectomy for carcinoma
+of the penis: technique and results. J Urol 2003; 169: 1349–52
+27 Josephson DY, Jacobsohn KM, Link BA, Wilson TG. Robotic-assisted
+endoscopic inguinal lymphadenectomy. Urology 2009; 73: 167–71
+28 Matin SF, Cormier JN, Ward JF, Pisters LL, Wood CG, Dinney CP.
+Phase 1 prospective evaluation of the oncological adequacy of
+robotic-assisted video-endoscopic inguinal lymphadenectomy in patients
+with penile carcinoma. BJU Int 2013; 111: 1068–74
+29 Ozambela M Jr, McCormick BZ, Rudzinski JK et al. Robotic or open
+superficial inguinal lymph node dissection as staging procedures for
+clinically node negative high risk penile cancer. Urol Oncol 2024; 42:
+
+120.e1–120.e9
+
+30 Howick J, Chalmers I, Glasziou P et al. Explanation of the 2011 Oxford
+Centre for Evidence-Based Medicine (OCEBM) Levels of Evidence
+(Background Document). Oxford, United Kingdom: Oxford Centre for
+Evidence-Based Medicine, 2013.
+
+31 Tang S, Pang KH, Alnajjar HM et al. Videoendoscopic inguinal
+lymphadenectomy versus radical open dissection (VELRAD) in patients
+with male genital cancer: a clinical trial update. Eur Urol Focus 2023; 9:
+
+614–6
+
+Correspondence: Caio Vin�ıcius Suartz, Urology Department,
+Northern Ontario School of Medicine, Thunder Bay, Ontario,
+Canada.
+
+[e-mail: caio.v_suartz@hotmail.com](mailto:caio.v_suartz@hotmail.com)
+
+Abbreviations: cN, clinical LN status; (O)(RA)(VE)IL, (open)
+(robot-assisted) (video endoscopic) inguinal
+lymphadenectomy; IQR, interquartile range; LN, lymph node;
+
+–
+MD, mean difference; NOS, Newcastle Ottawa Scale;
+PRISMA, Preferred Reporting Items for Systematic Reviews
+and Meta-Analyses; RCT, randomised control trial; ROB2,
+Risk of Bias 2; SCC, squamous cell carcinoma.
+
+Supporting Information
+
+Additional Supporting Information may be found in the
+online version of this article:
+
+Fig. S1 The ROB2 and NOS quality assessment scales.
+
+Data S1 The PRISMA 2020 checklist.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

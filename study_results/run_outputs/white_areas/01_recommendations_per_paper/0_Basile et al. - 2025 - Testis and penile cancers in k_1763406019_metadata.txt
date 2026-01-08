@@ -1,0 +1,42 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=200 candidates_tokens_details=None prompt_token_count=14868 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=12546), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=2322)] thoughts_token_count=1950 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=17018 traffic_type=None
+
+
+**Extraction of Penile Cancer Treatment Recommendations for Kidney Transplant Recipients**
+
+Okay, here's the breakdown of the penile cancer treatment recommendations for kidney transplant recipients as I understand them from this research paper. I've taken the key points and organized them into actionable advice.
+
+First, I need to emphasize the importance of context. This paper focuses on a very specific patient population, so the recommendations reflect the unique considerations of kidney transplant recipients. My goal is to extract the concrete advice provided regarding the appropriate course of treatment.
+
+Here are the key aspects of care and corresponding recommendations:
+
+*   **Screening:** The paper makes it quite clear: general screening for penile cancer in kidney transplant recipients is *not* recommended. This is due to the low expected incidence rate within this particular group of patients.
+*   **Primary Treatment (Localized Disease):** For cases where the cancer is localized, the guidance is straightforward: stick to the standard surgical approaches, similar to what you'd do for the general population. The surgical treatment of the primary tumor, such as wide local excision, partial penectomy, and glansectomy, should follow established guidelines and current best practices. We shouldn't deviate from these established standards.
+*   **Lymph Node Management:** The paper suggests that managing lymph nodes, specifically inguinal lymph node dissection in indicated cases, is not necessarily different for kidney transplant patients. The graft itself doesn't introduce unique risks in the context of inguinal nodal disease, meaning that standard oncological practices can be followed.
+*   **Treatment (Locally Advanced Disease):** This is where things get a bit more nuanced. When dealing with locally advanced penile cancer in these patients, graft health becomes a crucial factor. The paper strongly advocates for non-cytotoxic treatment options as a first line of attack. The potential risk of graft damage from treatments is a primary concern. The use of radiotherapy or cytotoxic treatments should only be considered on an individual basis, with minimizing the risk of graft injury being the guiding principle.
+
+I believe this is a complete and accurate summary of the explicit recommendations given the scope of this paper. I am confident that these are accurate, concise, and clinically relevant pieces of advice for a situation.
+
+
+
+**Extraction of Penile Cancer Treatment Recommendations for Kidney Transplant Recipients**
+
+Okay, here's the breakdown of the penile cancer treatment recommendations for kidney transplant recipients as I understand them from this research paper. I've taken the key points and organized them into actionable advice.
+
+First, I need to emphasize the importance of context. This paper focuses on a very specific patient population, so the recommendations reflect the unique considerations of kidney transplant recipients. My goal is to extract the concrete advice provided regarding the appropriate course of treatment.
+
+Here are the key aspects of care and corresponding recommendations:
+
+*   **Screening:** The paper makes it quite clear: general screening for penile cancer in kidney transplant recipients is *not* recommended. This is due to the low expected incidence rate within this particular group of patients.
+*   **Primary Treatment (Localized Disease):** For cases where the cancer is localized, the guidance is straightforward: stick to the standard surgical approaches, similar to what you'd do for the general population. The surgical treatment of the primary tumor, such as wide local excision, partial penectomy, and glansectomy, should follow established guidelines and current best practices. We shouldn't deviate from these established standards.
+*   **Lymph Node Management:** The paper suggests that managing lymph nodes, specifically inguinal lymph node dissection in indicated cases, is not necessarily different for kidney transplant patients. The graft itself doesn't introduce unique risks in the context of inguinal nodal disease, meaning that standard oncological practices can be followed.
+*   **Treatment (Locally Advanced Disease):** This is where things get a bit more nuanced. When dealing with locally advanced penile cancer in these patients, graft health becomes a crucial factor. The paper strongly advocates for non-cytotoxic treatment options as a first line of attack. The potential risk of graft damage from treatments is a primary concern. The use of radiotherapy or cytotoxic treatments should only be considered on an individual basis, with minimizing the risk of graft injury being the guiding principle.
+
+I believe this is a complete and accurate summary of the explicit recommendations given the scope of this paper. I am confident that these are accurate, concise, and clinically relevant pieces of advice for a situation.
+ Based on the systematic review provided, the following explicit treatment recommendations for penile cancer in kidney transplant recipients are identified:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Screening** | General screening protocols for penile cancer are not recommended in kidney transplant recipients. |
+| **Primary Treatment (Localized Disease)** | For localized penile cancer, the surgical treatment of the primary tumor should be consistent with the established guidelines for the general population. Deviation from current treatment guidelines is not recommended for these cases. |
+| **Lymph Node Management** | The management of inguinal nodal disease does not pose additional risks for transplanted patients with penile cancer, and therefore should be consistent with standard oncological guidelines. |
+| **Treatment (Locally Advanced Disease)** | For patients with locally advanced disease, treatment should be considered on an individualized basis with the primary goal of minimizing the risk of graft injury. Any non-cytotoxic treatment option should be preferred over radiotherapy and cytotoxic treatments. |

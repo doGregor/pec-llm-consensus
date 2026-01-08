@@ -1,0 +1,896 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22](https://doi.org/10.1016/j.urolonc.2021.11.010)
+
+Clinical-Penile cancer
+# Robotic-Assisted Video-Endoscopic Inguinal Lymphadenectomy (RAVEIL) and Video-Endoscopic Inguinal Lymphadenectomy (VEIL) versus Open Inguinal Lymph-Node Dissection (OILND) in carcinoma of penis: Comparison of perioperative outcomes, complications and oncological outcomes. A systematic review and meta-analysis
+## * Keval N. Patel, MS, DNB Urology [a][,], Abhijeet Salunke, DNB orthopedics [a], Ganesh Bakshi, Mch Urology [b], Dipin Jayaprakash, Resident Mch oncosurgery [a], Shashank J. Pandya, Mch Oncosurgery [a]
+
+a Department of Surgical Oncology, The Gujarat Cancer Research Institute, Ahmedabad, Gujarat, India
+b Department of Surgical Oncology, Homi Bhabha National Institute & Tata Memorial Hospital, Mumbai, Maharashtra, India
+
+Received 15 July 2021; received in revised form 12 October 2021; accepted 8 November 2021
+
+Abstract
+
+Objective: To perform a systematic review and meta-analysis evaluating the peri-operative outcomes, complications, and oncological
+outcomes of Robotic-Assisted Video-Endoscopic Inguinal Lymphadenectomy (RAVEIL)/Video-Endoscopic Inguinal Lymphadenectomy
+(VEIL) with Open Inguinal Lymph-Node Dissection (OILND) for management of inguinal lymph-nodes in carcinoma of the penis.
+Methods: A comprehensive literature search was performed in January 2021 using the PubMed, Embase, and Cochrane databases. Data
+from human studies comparing RAVEIL/VEIL vs. OILND in carcinoma of penis published in English was extracted and analyzed by two
+independent authors.
+Results: Two Randomised Controlled Trials and 6 cohort studies were included in the meta-analysis. RAVEIL/VEIL group exhibited
+increased operative time (Mean Difference [MD] = 15.28 [14.19; 16.38], P < 0.001), shorter hospital stay (MD = -1.06 [-1.14; -0.98],
+P < 0.001), and decreased duration of drainage (MD = -2.82 [-3.21; -2.43], P < 0.001), wound infection (Odds Ratio [OR] = 0.15 [0.08;
+0.27], P < 0.001), skin necrosis (OR = 0.12 [0.05; 0.28], P < 0.001), lymphedema (OR = 0.41 [0.24; 0.72], P = 0.002), and major complications (OR = 0.11 [0.05; 0.24], P < 0.001) as compared to OILND group. Recurrence rate and number of deaths were comparable in both the
+groups. RAVEIL/VEIL groups showed slightly larger lymph-node yield (MD = 0.44 [0.18; 0.70], P < 0.001) as compared to OILND group.
+Conclusion: RAVEIL/VEIL has lesser skin complications, lymphedema, and better lymph-node yield as compared to OILND. It is comparable in terms of lymphocele and recurrence. It has lesser hospital stay and duration of drainage but owing to heterogeneity, the results
+should be interpreted with caution. Further studies are required to determine long-term oncological outcomes like overall survival and
+disease-specific survival. � 2021 Elsevier Inc. All rights reserved.
+
+Keywords: Cancer of penis; RAVEIL; VEIL; OILND; Meta-analysis
+Abbreviations: RAVEIL, Robotic Assisted Video Endoscopic Inguinal Lymphadenectomy; VEIL, Video Endoscopic Inguinal Lymphadenectomy; OILND,
+Open Inguinal Lymph Node Dissection; MD, Mean Difference; SCC, Squamous Cell Carcinoma; dSLNB, dynamic Sentinal Lymph Node Biopsy; RoB2,
+Risk of Bias 2; ROBINS-I, Risk Of Bias In Non-randomised Studies in Intervention; OR, Odds Ratio; RCT, Randomised Controlled Trial
+
+
+This research did not receive any specific grant from funding agencies in
+the public, commercial, or not-for-profit sectors.
+*Corresponding author. Dr Keval N Patel Consultant Urooncologist,
+The Gujarat Cancer And Research Institute. Tel.: +91-9427052870;
+
+[https://doi.org/10.1016/j.urolonc.2021.11.010](https://doi.org/10.1016/j.urolonc.2021.11.010)
+1078-1439/� 2021 Elsevier Inc. All rights reserved.
+
+
+Fax +91-79-22685490
+
+[E-mail address: drkevalpatel@yahoo.com (K.N. Patel).](mailto:drkevalpatel@yahoo.com)
+
+K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22 112.e12
+
+
+1. Introduction
+
+Carcinoma of the penis is a rare malignancy. The most
+common histological type of carcinoma of the penis is
+Squamous Cell Carcinoma (SCC) [1]. The incidence of carcinoma of the penis in developed countries is 1/100,000.
+However, in developing countries like India, the incidence
+is high in a range of 2 to 4/10,000 [2]. The most common
+site of metastasis in the SCC penis is inguinal lymph nodes
+
+[3]. The presence of inguinal lymph node metastasis is considered a poor prognostic factor [4]. The 5-year survival
+rate of patients after preventive lymphadenectomy can
+reach 80% to 90%, while the 5-year survival rate is only
+30% to 40% for patients who undergo surgery after the
+occurrence of lymph node metastasis [5]. Therefore, it is
+very important to address inguinal lymph nodes in the comprehensive management of the SCC Penis.
+Open inguinal lymphadenectomy has traditionally been
+considered the gold standard for the management of inguinal lymph nodes in the SCC penis. It is, however; associated with high morbidity in the form of complications like
+skin necrosis, wound infection, lymphocele, and lymphedema [6]. Studies using SEER and The National Cancer
+database show low levels of inguinal lymph node dissection
+amongst penile cancer patients, almost certainly due to the
+morbidity and rarity of the cancer, and improved survival in
+those who undergo inguinal lymph node dissection [7]. Different ways have been adapted to minimize these morbidities. Firstly, attempts have been made to predict the
+occurrence of metastasis in inguinal lymph nodes based on
+
+−
+various scoring systems [8 12]. Based on it, the patients
+with no or lowest risk of lymph node metastasis can be predicted and inguinal lymphadenectomy is avoided in these
+subsets of patients. Secondly, the role of active surveillance
+and dynamic sentinel lymph node biopsy has been evaluated to predict inguinal lymph node metastasis [13]. However, there is always a risk of micro-metastasis which can
+be missed and lead to compromised oncological outcomes
+
+[14]. Thirdly, various technical modifications have been
+proposed to decrease complications like saphenous vein
+preservation and the use of a modified lymph-node dissection template [15,16]. Lastly, investigators have evaluated
+the use of minimally invasive techniques like Video Endoscopic Inguinal Lymphadenectomy (VEIL) and more
+recently, Robotic Assisted Video Endoscopic Inguinal
+Lymphadenectomy (RAVEIL).
+VEIL was first introduced in the clinical management of
+inguinal lymph nodes in carcinoma of the penis by Tobias
+et al. [17] in 2005 to minimize morbidity and fasten convalescence. RAVEIL was introduced by Josephson et al. [18]
+in 2009 to surpass the limitations of VEIL namely steep
+learning curve. There is not enough literature and subsequent clarity in guidelines regarding the benefit of minimally invasive inguinal lymphadenectomy as compared to
+open. Hence, we performed a systematic review and metaanalysis of available data from the published literature to
+
+
+compare the perioperative outcomes, complications, and
+oncological outcomes of VEIL and RAVEIL with conventional Open Inguinal Lymph-node Dissection (OILND).
+
+2. Methods
+
+The study protocol was performed according to the
+Preferred Reporting Items for Systematic Review and
+Meta-analysis (PRISMA) guidelines [19] after approval
+from the Institutional Review Board.
+
+2.1. Literature search
+
+A systematic search of the literature in PubMed,
+Embase, and Cochrane Central search Library was done in
+January 2021. Studies comparing Robotic or Video Endoscopic Inguinal Lymphadenectomy in SCC penis were
+searched by the following keywords: Carcinoma Penis,
+Lymph node, Video Endoscopic Inguinal Lymphadenectomy, Robotic Assisted Video Endoscopic Inguinal Lymphadenectomy, Open Inguinal lymphadenectomy, and
+outcomes. The search strategy applied in PubMed database
+was (“carcinoma”[MeSH Terms] Odds Ratio (OR)
+“carcinoma”[All Fields] OR “carcinomas”[All Fields] OR
+“carcinoma s”[All Fields]) AND (“penis”[MeSH Terms]
+OR “penis”[All Fields]) AND (“lymph nodes”[MeSH
+Terms] OR “lymph”[All Fields]) AND (“nodes”[All Fields]
+OR “lymph nodes”[All Fields] OR “lymph”[All Fields])
+AND (“node”[All Fields] OR “lymph node”[All Fields]).
+Abstracts of all the articles were reviewed and studies that
+
+met the inclusion criterion were further searched for refer
+ences manually.
+
+2.2. Inclusion and exclusion criteria
+
+Eligibility of the studies to be included in the meta-analysis was based on PICOS principle: - Population (carcinoma penis), Intervention (RAVEIL/VEIL), Comparison
+(OILND), and Outcome (perioperative, complications, and
+oncological outcomes), and Study design (Randomised
+Controlled Trial [RCT]/cohort studies). The inclusion criteria for the analysis were: (1) RCT/Cohort studies comparing
+RAVEIL/VEIL with OILND in carcinoma of the penis, (2)
+Studies comparing perioperative and oncological outcomes
+between RAVEIL/VEIL and OILND, (3) Studies having
+sufficient data which was defined as at least 8 out of 15
+parameters of perioperative outcomes, complications, and
+oncological outcomes, (4) Studies which were published in
+the English language, and (5) Human studies. The exclusion
+criteria for the analysis were: (1) Study types other than
+RCT and cohort studies namely case reports, case series,
+review, and letter to editor or editorials, (2) Data was not
+sufficient in the studies, (3) Studies published in nonEnglish literature, and (4) Studies performed on non-human
+subjects. The selection of the studies to be included in the
+
+112.e13 K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22
+
+
+analysis was done by two independent authors (KP and AS)
+with mutual agreement.
+
+2.3. Data extraction and outcome measures
+
+Data extraction for the analysis was done by two independent authors (KP and GB). Any disagreement between
+them was resolved through mutual discussion. Mean and
+Standard Deviation was recorded for the continuous varia
+bles from the included studies. In those studies which provided a median and inter-quartile range for continuous
+variables, we converted them to mean and standard deviation from the original data [20].
+The peri-operative outcomes recorded were operative
+time (minutes), blood loss (ml), hospital stay (days), and
+duration of drainage (days). Complications were recorded
+as dichotomous variables and included wound infection,
+skin necrosis, lymphocele, and lymphedema. Complications were graded as minor if Clavien-Dindo grade I and II
+complications were present and major if Clavien-Dindo
+grade III and IV complications were present [21]. The adequacy of dissection was recorded as the number of lymph
+nodes (continuous variable). The oncological outcomes
+analyzed were the number of deaths as a continuous variable, recurrence rates as a dichotomous variable, and over
+all survival as a continuous variable.
+
+2.4. Quality assessment and grade recommendations
+
+The quality of included RCTs was evaluated using the
+Cochrane risk of bias (RoB2) tool which included seven
+aspects: random sequence generation, allocation concealment, blinding of participants and personnel, blinding of
+outcome assessment, incomplete outcome data, selective
+reporting, and other bias [22]. Each item was assessed as
+having a low, unclear, or high risk of bias by two authors
+(KP and GB).
+The quality of non-randomized cohort studies was
+assessed using the Risk of Bias in Non-Randomised Studies
+− of Intervention (ROBINS-I) tool [23]. It included bias
+due to confounding, bias in the selection of participants,
+bias in classification of intervention, bias due to deviation
+from intended intervention, bias due to missing data, bias
+in the measurement of outcomes, and bias in the selection
+of the reported results. Each item was assessed as low,
+moderate, serious, and critical risk of bias by two authors
+(KP and GB).
+GRADE recommendations were performed on pooled
+outcomes of all the studies and a Summary of Findings
+table was created [24]. They were done separately for
+RCTs and cohort studies. The initial grade for RCT was
+high, whereas it was low for cohort study. The factors that
+contributed to downgrade were risk of bias, inconsistency,
+indirectness, imprecision, and publication bias. The factors
+that contributed to the upgrade were large effect, plausible
+cofounding, and dose-response gradient.
+
+
+2.5. Statistical analysis
+
+RAVEIL/VEIL was considered as experimental intervention and OILND was considered as a control interven
+tion. The results of continuous variables (Operative time,
+blood loss, hospital stay, duration of drainage, number of
+lymph nodes, and overall survival) were expressed as Mean
+Difference (MD) and 95% CI. The results of dichotomous
+variables (wound infection, skin necrosis, lymphocele,
+lymphedema, minor complications, major complications,
+and recurrence) were expressed as OR (Odds Ratio) and
+95% CI. Forest plots were drawn for each outcome to measure heterogeneity and determine the P-value for it. Statistical heterogeneity amongst the studies was measured using
+the I [2] test [25]. The I [2] value cut-offs which were used to
+define the heterogeneity were: I [2] < 25% - no heterogeneity,
+I [2] = 25%-50% - moderate heterogeneity, I [2] - 50% - significant heterogeneity. If significant heterogeneity was present,
+the random effect was used otherwise fixed effect was used.
+Subgroup analysis was further performed if the heterogeneity persisted after applying random effects. Further, sensitivity analysis of the outcomes was performed by using
+leave-out analysis in which each study was sequentially
+omitted from the analysis to record any change in the estimates and heterogeneity. Funnel plots were drawn to assess
+publication bias amongst the included studies. We performed the meta-analysis using the Review Manager (RevMan) software 5.4.1 (The Nordic Cochrane Centre, The
+Cochrane Collaboration, and Copenhagen).
+
+3. Results
+
+3.1. Study selection
+
+A total of 957 articles were searched through the databases. We excluded 307 articles based on the removal of
+
+duplicates. The title and abstract of the remaining articles
+were screened and we excluded 614 articles that were not
+
+relevant to the topic. The remaining 36 articles were
+retrieved and a full-text review was done. It resulted in the
+
+exclusion of 28 articles due to insufficient data, other types
+of cancer, and other types of articles. Finally, the remaining
+8 articles [26−33] were included in the analysis. The process of screening of articles from the selected records is
+depicted in Fig. 1.
+
+3.2. Characteristics of the included studies
+
+Table 1 demonstrates the characteristics of included
+
+studies. There were 2 Randomised Controlled Trials (RCT)
+in the included studies [26,29], whereas the rest of them i.e.
+6 studies were Cohort type [27,28,30−33]. Two studies
+
+[30,32] compared RAVEIL with OILND, 5 studies [26
+−29,31] compared VEIL with OILND, and 1 study [33]
+compared RAVEIL/VEIL with OILND. A total of 213
+patients underwent RAVEIL/VEIL and 283 patients
+
+K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22 112.e14
+
+Fig. 1. Figure showing process of selection of articles from the records.
+
+
+underwent OILND. RAVEIL/VEIL was performed on 283
+groins and OILND was performed on 398 groins. Apart
+from 1 study [26] which was published in 2007, the rest of
+all studies were published between 2016 and 2021. The
+majority of the studies were published from institutes of
+Asia (n = 6, 3 each from India and China) and, one each
+from UK and Brazil.
+
+Detailed information extracted from the included studies
+
+is summarized in Supplementary Table 1.
+The pooled results of the meta-analysis with their significance (P-value) and heterogeneity (I [2] ) are summarised in
+Table 2.
+
+3.3. Quality of the included studies
+
+The RoB2 tool which was used to assess the quality of
+RCTs found that both the RCTs were at very low risk of
+bias as shown in supplementary Fig. 1. ROBINS-I tool
+which was used to assess the quality of non-randomized
+cohort studies showed that 3 [27,30,33] out of 6 studies
+were at serious risk of bias in at least 1 domain, 2 studies
+
+[28,31] had a moderate risk of bias and 1 [32] had a critical
+
+risk of bias. The results of the ROBINS-I assessment tool in
+
+the study are summarised in supplementary Table 2. The
+
+
+funnel plots used to assess the publication bias are shown in
+supplementary Fig. 2.
+
+3.4. Peri-operative outcomes
+
+3.4.1. Operative time and intra-operative blood loss
+
+Six studies reported operative time in minutes. The
+pooled mean difference showed that RAVEIL/VEIL group
+required more operative time as compared to OILND group
+(MD = 15.28, 95% CI = 14.19; 16.38, P < 0.001) (Fig. 2A).
+Three studies reported blood loss (Fig. 2B). The pooled difference showed that RAVEIL/VEIL group showed less
+blood loss as compared to OILND group (MD = -0.90, 95%
+CI = -2.20; 0.40). However, the results were not significant
+(P = 0.15).
+
+3.4.2. Hospital stay and drainage days
+
+Five articles reported hospital stay in days (Fig. 2C).
+Meta-analysis showed that hospital stay was significantly
+less in RAVEIL/VEIL group as compared to OILND group
+(MD = -1.06, 95% CI = -1.14; -0.98, P < 0.001). Four studies reported drainage days (Fig. 2D). The pooled mean difference showed that drainage time was decreased in
+
+112.e15 K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22
+
+RAVEIL/VEIL group as compared OILND (MD = -2.82,
+95% CI = -3.21; -2.43, P < 0.001).
+
+3.4.3. Heterogeneity and subgroup analysis
+
+Significant statistical heterogeneity was detected
+amongst the studies that reported peri-operative outcomes.
+I [2] value for operative time, blood loss, and hospital stay
+was 93%, 98%, and 97% respectively and it was significant
+with P < 0.01. I [2] for drainage days was 70%, however, it
+was acceptable (P = 0.02). The heterogeneity was quantified
+using a random-effects model. Sub-group analysis was done
+between the RCT group and cohort group to explore
+methodical heterogeneity. It was found that heterogeneity
+persisted for operative time and hospital stay in both groups
+but it reduced significantly for drainage days in RCT group
+(MD = -1.78, 95% CI = -2.63; -0.94, P < 0.001, I [2] = 0%).
+Further sub-group analysis was done between RAVEIL and
+VEIL groups but heterogeneity persisted. Subgroup analysis was done between Asian and Non-Asian studies to
+
+explore ethnic heterogeneity. It was found that the heterogeneity persisted amongst Asian and non-Asian groups.
+Leave-out analysis of blood loss outcome suggested that
+after removing Singh et al. [30] the heterogeneity decreased
+to 78% and the results became significant (P < 0.001).
+Leave-out analysis of all other perioperative outcomes
+showed that the results were stable after removal of individ
+ual studies and the heterogeneity persisted.
+
+3.5. Complications
+
+3.5.1. Prolonged drainage and skin-related complications
+(wound infection and skin necrosis)
+
+Three studies reported prolonged drainage (Fig. 3A).
+Although RAVEIL/VEIL group showed decrease in incidence of prolonged drainage by 12%, it was not found
+to be significant (OR = 0.88, 95% CI = 0.45; 1.75,
+P = 0.73). Fixed effects model was used as heterogeneity
+was not found to be significant (I [2] = 6%). Wound infection and skin necrosis were reported by 7 and 6 studies
+respectively (Fig. 3B and C). Meta-analysis showed that
+RAVEIL/VEIL decreased wound infection by 85%
+(OR = 0.15, 95% CI = 0.08; 0.27, P < 0.001) and skin
+necrosis by 88% (OR = 0.12, 95% CI = 0.05; 0.28, P <
+0.001). Moderate heterogeneity was detected amongst
+the studies reporting wound infection (I [2] = 27%) which
+disappeared after introducing a subgroup of RCT in the
+analysis and no heterogeneity was found amongst studies reporting skin necrosis (I [2] = 0%) using the fixed
+effects model.
+
+3.5.2. Lymphedema and lymphocele
+
+Eight studies reported both lymphedema and lymphocele
+(Fig. 3D and E). Meta-analysis showed that RAVEIL/VEIL
+reduced the incidence of lymphedema by 59% (OR = 0.41,
+95% CI = 0.24; 0.72, P = 0.002) as compared to OILND.
+
+K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22 112.e16
+
+Table 2
+
+Table showing pooled results of the outcomes.
+
+Outcome or Subgroup Studies Participants Mean Difference Odds Ratio P I [2] (%) Effects model
+
+Operative time (min) 6 435 15.28 [14.19, 16.38] <0.001 93 Random
+Blood loss (ml) 3 264 -0.90 [-2.20, 0.40] 0.18 98 Random
+Hospital stay (d) 5 364 -1.06 [-1.14, -0.98] <0.001 97 Random
+Drainage days (d) 4 263 -2.82 [-3.21, -2.43] <0.001 70 Random
+Prolonged drainage 3 224 0.88 [0.45, 1.75] 0.73 6 Fixed
+Wound infection 7 670 0.15 [0.08, 0.27] <0.001 27 Fixed
+Skin necrosis 6 602 0.12 [0.05, 0.28] <0.001 0 Fixed
+Lymphedema 8 707 0.41 [0.24, 0.72] 0.002 13 Fixed
+Lymphocele 8 707 0.81 [0.54, 1.22] 0.32 0 Fixed
+Minor complications 6 650 0.68 [0.44, 1.04] 0.07 47 Fixed
+Major complications 7 687 0.11 [0.05, 0.24] <0.001 11 Fixed
+Number of lymph-nodes 8 496 0.44 [0.18, 0.70] <0.001 39 Fixed
+Recurrence 8 707 0.89 [0.44, 1.79] 0.74 0 Fixed
+Death 2 112 0.69 [0.25, 1.86] 0.46 0 Fixed
+Overall survival (yrs) 1 69 8 [1.82, 14.18] 0.01
+
+Fig. 2. Forest plot showing the comparison of perioperative outcome: A − operative time, B − blood loss, C − hospital stay, D − drainage days.
+
+112.e17 K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22
+
+Fig. 3. Forest plot showing the comparison of complications: A − prolonged drainage, B − wound infection, C − skin necrosis, D − lymphedema, E − Lymphocele, F − minor complications, G − major complications.
+
+K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22 112.e18
+
+
+The incidence of lymphocele was decreased by 19% but
+was not found to be significant (OR = 0.81, 95% CI = 0.54;
+1.22, P = 0.32). No heterogeneity was found amongst the
+studies reporting lymphedema (I [2] = 13%) and lymphocele
+(I [2] = 0%).
+
+3.5.3. Minor and major complications
+
+Six studies reported minor complications (Fig. 3F).
+The pooled OR showed that RAVEIL/VEIL decreased
+minor complications as compared to OILND (OR = 0.68,
+95% CI = 0.44; 1.04) but was not significant (P = 0.07).
+Moderate heterogeneity (I [2] = 47%) was found amongst
+the studies. Seven studies reported major complications
+(Fig. 3G). The pooled OR showed that RAVEIL/VEIL
+decreased major complications by 89% (OR = 0.11, 95%
+CI = 0.05; 0.24, P < 0.001). No heterogeneity was found
+amongst the studies reporting major complications
+(I [2] = 11%).
+
+
+3.6. Adequacy of dissection-number of lymph-nodes
+
+Eight studies reported both number of lymph-nodes and
+recurrence (Fig. 4A and B). The pooled MD for number of
+lymph-nodes showed that more lymph-nodes were dissected in OILND as compared to RAVEIL/VEIL
+(MD = 0.44, 95% CI = 0.18; 0.70, P < 0.001). Moderate
+heterogeneity was found (I [2] = 39%) using the fixed effects
+model. A sub-group analysis was done amongst RCTs and
+cohort studies and there was no heterogeneity (I [2] = 0%) in
+the RCT subgroup (MD = -0.29, 95% CI = -2.32; 1.73,
+P = 0.78) whereas heterogeneity (I [2] = 52%) increased in
+cohort studies.
+
+3.7. Oncological outcomes
+
+3.7.1. Recurrence
+
+Meta-analysis of the studies reporting recurrence showed
+no significant reduction in recurrence with RAVEIL/VEIL
+(OR = 0.89, 95% CI = 0.25; 1.86, P = 0.74). No heterogeneity was found (I [2] = 0%).
+
+
+Fig. 4. Forest plot showing the comparison of oncological outcomes: A − number of lymph nodes, B − recurrence, C − number of deaths.
+
+112.e19 K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22
+
+
+3.7.2. Number of deaths and overall survival
+
+Two studies reported the number of deaths (Fig. 4C).
+The pooled OR showed that RAVEIL/VEIL decreased the
+number of deaths (OR = 0.69, 95% CI = 0.25; 1.86, I [2] = 0%)
+but the results were not significant (P = 0.46). Only one
+study reported overall survival [33] and found that median
+survival was higher with VEIL (88 months, 95% CI = 55.8;
+120.91) as compared to OILND (80 months, 95%
+CI = 57.28; 107.25) but could not reach statistical significance (P = 0.84).
+
+3.8. Grade recommendations for pooled outcomes
+
+The grade recommendation for the pooled results of each
+outcome was performed separately for non-RCT and RCT
+as shown in supplementary Table 3. The certainty of evidence in the cohort group was found to be moderate for the
+pooled results of wound infection, skin necrosis, and major
+complications. It was found to be very low or low for the
+rest of the outcomes. In the RCT group, the certainty of the
+evidence was high for skin necrosis, moderate for the hospital stay, wound infection, minor, and major complications,
+and low for the rest of the outcomes.
+
+9. Discussion
+
+The results from the current meta-analysis demonstrated
+that the mean operative time required to perform RAVEIL/
+VEIL was 111.39 minutes as compared to 95.96 minutes
+for OILND. The mean difference between them was 15.28
+
+minutes. The longer operative time in RAVEIL/VEIL can
+be attributed to (1) Extra time is needed to create skin flaps,
+(2) Limited working space may lead to crowding of instruments and repeated fogging of the lens due to the use of harmonic scalpel which may cause increased operative time
+
+[29], (3) Most of the studies have presented their data
+wherein the surgeons were in their initial phase of the learning curve of VEIL/RAVEIL as compared to OILND. This
+was further emphasized by Yuvraja et al. [33], who have
+demonstrated in their study that with increased experience
+
+−
+of the surgeon (2009 2020) there is a significant reduction
+in the operative time required for RAVEIL/VEIL, and (4)
+The low incidence of carcinoma of the penis itself might be
+responsible for the learning curve. Wang et al. [28] reported
+higher operative time for OILND resulting in clinical heterogeneity. The reason may be due to the higher number of
+pelvic lymphadenectomy in the open arm as compared to
+the laparoscopic arm (33% vs. 10%).
+Our study also demonstrated that RAVEIL/VEIL
+required less duration of hospitalization as compared to
+OILND. The studies involving RAVEIL/VEIL had a mean
+duration of hospital stay ranging from 2.5 to 10.43 days
+whereas in studies involving OILND it was 4 to 12.5 days.
+The reason for this early convalescence can be attributed to
+incisions in the thigh and not the groin, which might lead to
+
+
+decreased pain and subsequent early ambulation. The clinical heterogeneity between the studies showing the duration
+of hospital stay might be attributed to differences in discharge protocols between the studies. The decrease in skinrelated complications might also have been responsible for
+early discharge. The mean duration of drainage was
+6.53 days in RAVEIL/VEIL, which was less than OILND
+(9.21 days). This can be attributed to higher magnification
+and subsequent better control of lymphatics and small blood
+vessels [24]. The clinical heterogeneity between the studies
+showing the duration of drainage might be attributed to different protocols for drain removal. Yadav et al. [29]
+removed the drain when the output was less than 20 ml per
+day where Kumar et al. [27], Wang et al. [28], and Singh
+et al. [30] removed the drain when output was less than 50.
+Prolonged drainage was defined as lymphorrhagia lasting
+for 2 to 3 weeks by Yuvraja et al. [33] while the other 2
+studies [26,31] that reported it did not provide the definition
+of prolonged drainage. This prevents us from drawing conclusions regarding advantage of RAVEIL/VEIL as compared to OILND in terms of decreasing prolonged drainage.
+Our analysis also demonstrated that there was a significant decrease in skin-related complications with RAVEIL/
+VEIL as compared to OILND. Skin necrosis was found in
+0% to 6.4% amongst studies of RAVEIL/VEIL whereas it
+was found in 4.03% to 30% amongst studies of OILND.
+Wound infection was found in 0% to 7.9% amongst studies
+of RAVEIL/VEIL whereas it was found in 1.61% to 68%
+
+amongst studies of OILND. This decline in skin complications in RAVEIL/VEIL can be attributed to smaller inci
+sions in the thigh as against that in the groin [26] and less
+traction [28] as compared to that in OILND. Our analysis
+demonstrated that there was less lymphedema in RAVEIL/
+VEIL as compared to OILND. It was seen in 0% to 15.78%
+amongst studies of RAVEIL/VEIL whereas in 5.64% to
+37% amongst studies of OILND. The reason might be
+decreased length of skin incisions and less traction [25] on
+skin flaps in RAVEIL/VEIL which may have preserved
+more skin lymphatic and vasculatures. No need for Sartorius transposition [26] in RAVEIL/VEIL because of small
+incisions in the thigh away from the site of dissection might
+also have led to decreased lymphedema. RAVEIL/VEIL
+showed decreased major Clavien-Dindo complications but
+not minor complications. Similar findings were observed by
+Singh et al. [29] in the multivariate analysis of their study.
+OILND and pathological lymph-node status appeared as
+only factors associated with major complications when confounded with other factors like Sartorius transposition,
+radiotherapy, and saphenous vein ligation.
+We found that there was more lymph-node yield in
+OILND as compared to RAVEIL/VEIL. The number of
+lymph-node dissected has been postulated as a surrogate for
+adequacy of lymph-node dissection but the definition of
+threshold of lymph-nodes is not uniform [34]. A lymphnode yield of 8 was found adequate by Johnson et al. [35]
+and Mao et al. [36] whereas yield of 15 was found adequate
+
+K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22 112.e20
+
+
+by N. Soodana-Prakash et al. [37] and Li et al. [38]. The
+mean lymph-node yield in present meta-analysis was 12.06
+for OILND whereas it was 11.62 for RAVEIL/VEIL which
+
+indicates the adequacy of lymph-node removal in both.
+Whilst this might be statistically significant, it is not clinically significant as it did not translate into a survival benefit.
+This shows that minimally invasive lymphadenectomy does
+not seem to be inferior to open technique in number of
+lymph-nodes removed. There was no difference in recurrence and number of deaths in both the groups which suggests that oncological outcomes were comparable between
+RAVEIL/VEIL and OILND. Only one study [33] showed
+survival results and found that there was no difference
+
+between the two modalities. The factors that showed a significant difference in survival in their study were pathological lymph-node status, grade of the tumor, T stage of the
+primary tumor, and type of surgery for the primary tumor.
+In univariate analysis, the type of surgery for lymph nodes
+(VEIL vs. OILND) did not show any statistical survival
+advantage along with age, smoking, BMI, or T-stage. Clinical node stage, pathological node stage, grade of the tumor,
+and type of surgery for primary showed survival advantage
+and were subjected to multivariate analysis. Only grade
+(P = 0.04) and pathological lymph-node status (P = 0.024)
+were significantly associated with survival on multivariate
+analysis.
+To date, we found only one meta-analysis comparing
+VEIL with OILND [39]. The authors included 10 studies
+with 307 patients. They concluded that VEIL was superior
+to OILND for perioperative and short-term oncological outcomes. However, the analysis had some pitfalls. Firstly,
+they had included articles published in the non-English language. Secondly, some included studies were not specific
+for carcinoma of the penis [40]. Thirdly, the method to
+assess the risk of bias was the same for RCT and cohort
+
+studies. The advantages of our analysis are that we used
+stringent inclusion and exclusion criteria (articles in English
+language only) because they were easily accessible. We
+have included articles pertaining only to carcinoma of the
+penis for the conclusions to become specific and applicable.
+We have used separate methods to assess the risk of bias
+for RCT and cohort studies as per PRISMA guidelines.
+Lastly, by appearing to reduce the morbidity of inguinal
+node dissection perhaps minimally invasive surgery will
+increase the use of inguinal lymph node dissection in penile
+cancer, particularly as a staging operation in cN0 disease.
+There is no consensus for an optimal number of cases of
+minimally invasive inguinal lymphadenectomy after which
+the surgeon may be considered proficient to perform the
+procedure (learning curve). Jakub et al. [41] proposed a
+minimum 6 cases of minimally invasive lymphadenectomy
+as a learning curve in cases of melanoma. However, for
+similar procedures (total extraperitoneal hernia repair) at
+least 40 to 60 cases have been proposed [42]. Therefore, the
+procedure should be performed in high volume centres with
+more centralised system.
+
+
+Nevertheless, the authors acknowledge that there are few
+limitations in this analysis. Firstly, there was small number
+of patients in the analysis due to the rarity of the disease
+and scanty literature, which may have resulted in unbalanced comparisons between some groups leading to glossing of true differences. Secondly, some outcome variables
+were not reported by all the included studies. Thirdly, the
+method of assessment of certain outcomes e.g. lymphedema
+and prolonged drainage were not defined in most of the
+studies which could have introduced heterogeneity and bias
+in the results. Additionally, the size of lymph-node >3 cm
+to be an exclusion criterion for RAVEIL/VEIL was used by
+2 cohort studies [31,32] and was not defined by others,
+making it a potential source of bias. Also, important missing information in all of our studies was the cost and ergonomics comparison between the two modalities, which can
+affect the treatment decision. Lastly, there was a significant
+heterogeneity amongst the studies used in the analysis of
+perioperative outcomes. This along with the lack of blinding makes it difficult to be certain that one technique is better than the other.
+
+The authors accept that the quality and strength of analysis depend on the quality of input data. Unfortunately, we
+found only 2 RCTs and 6 cohort studies that matched the
+inclusion criteria and this may have been a potential source
+of confounding, selection, and reporting bias. Again, both
+the RCTs are underpowered with a total of 39 patients in
+each arm. Although, Yadav et al. [29] adopted a fixed
+method of randomization by assigning the right groin to
+VEIL and left to OILND, the method of randomization was
+not specified by Tobias et al. [26]. There was no blinding as
+well. Given these drawbacks, we would like to emphasize
+the need for a prospective, randomized, double-blinded,
+multi-institutional clinical trial with an adequate number of
+patients and long-term follow-up data to further validate
+our conclusions. In addition, future studies should also
+explore the impact of certain factors on the selection of
+modality for lymph-node dissection, like template of
+lymph-node dissection (superficial vs. deep), adjuvant therapy (neoadjuvant chemotherapy or radiotherapy), ergonomics, and cost. The impact of these factors on perioperative
+outcomes, complications, and long-term oncological outcomes would also serve as an area of future investigation.
+Additionally, studies focussing on detailed lymphatic drainage of the lower limb and groin to prevent lymphocele and
+prolonged drainage should also help in decision making in
+the future.
+
+10. Conclusion
+
+RAVEIL/VEIL can decrease skin-related complications
+like skin necrosis and wound infection, major complications, and lymphatic complications like lymphedema as
+compared to OILND in carcinoma penis. It can decrease
+perioperative outcomes like hospital stay and duration of
+drainage but owing to heterogeneity, the results should be
+
+112.e21 K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22
+
+
+interpreted with caution. Blood loss, minor complications,
+and lymphocele are comparable in both groups. RAVEIL/
+VEIL is equally adequate in terms of the number of lymph
+nodes dissected as compared to OILND. However, recurrence rates, number of deaths, and OS are similar in both
+groups. Large, multi-centric, high-quality RCTs with longterm follow-up in the future are required to provide substantial evidence for verification of the results.
+
+Conflict of interest
+
+None.
+
+Supplementary materials
+
+Supplementary material associated with this article can
+[be found in the online version at https://doi.org/10.1016/j.](https://doi.org/10.1016/j.urolonc.2021.11.010)
+[urolonc.2021.11.010.](https://doi.org/10.1016/j.urolonc.2021.11.010)
+
+References
+
+[[1] Thuret R, Sun M, Abdollah F, et al. Tumor grade improves the prog-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0001)
+[nostic ability of American Joint Committee on Cancer stage in](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0001)
+[patients with penile carcinoma. J Urol 2011;185(2):501–7.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0001)
+
+[[2] Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0002)
+[Global cancer statistics 2018: GLOBOCAN estimates of incidence](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0002)
+
+[and mortality worldwide for 36 cancers in 185 countries. CA Cancer](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0002)
+[J Clin 2018;68(6):394–424.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0002)
+
+[[3] Culkin DJ, Beer TM. Advanced penile carcinoma. J Urol 2003;170(2](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0003)
+[I):359–65.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0003)
+
+[[4] Zhu Y, Ye D-W. Lymph node metastases and prognosis in penile](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0004)
+[cancer. Chin J Cancer Res 2012;24:90–6.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0004)
+
+[[5] Kroon BK, Horenblas S, Lont AP, et al. Patients with penile carci-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0005)
+[noma benefit from immediate resection of clinically occult lymph](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0005)
+[node metastases. J Urol 2005;173(3):816–9.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0005)
+
+[[6] Koifman L, Hampl D, Koifman N, et al. Radical open inguinal lym-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0006)
+[phadenectomy for penile carcinoma: surgical technique, early com-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0006)
+[plications, and late outcomes. J Urol 2013;190:2086–92.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0006)
+
+[[7] Johnson TV, Hsiao W, Delman KA, Jani AB, Brawley OW, Master](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0007)
+[VA. Extensive inguinal lymphadenectomy improves overall 5-year](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0007)
+[survival in penile cancer patients: results from the Surveillance, Epi-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0007)
+[demiology, and End Results program. Cancer 2010;116(12):2960–6.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0007)
+
+[[8] Patel Keval N, Bhirud Chirag, J Dipin, et al. A proposed Clino-radio-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0008)
+[pathological Risk Scoring System (CRiSS) for prediction and man-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0008)
+[agement of inguinal lymph-nodes metastasis in squamous cell carci-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0008)
+[noma of the penis. Surg Oncol 2021;36:147–52.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0008)
+
+[[9] Sali AP, Menon A, Prakash F, et al. Histopathological risk scoring](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0009)
+[system as a tool for predicting lymph nodal metastasis in penile squa-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0009)
+[mous cell carcinoma. Pathology 2019;51(7):696–704.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0009)
+
+[[10] Solsona E, Iborra I, Ricos JV, et al. Corpus cavernosum invasion and](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0010)
+[tumor grade in the prediction of lymph node condition in penile carci-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0010)
+[noma. Eur Urol 1992;22:115–8.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0010)
+
+[[12] Solsona E, Iborra I, Rubio J, et al. Prospective validation of the asso-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0011)
+[ciation of local tumor stage and grade as a predictive factor for occult](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0011)
+[lymph node micrometastasis in patients with penile carcinoma and](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0011)
+[clinically negative inguinal lymph nodes. J Urol 2001;165:1506–9.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0011)
+
+[[11] Hungerhuber E, Schlenker B, Karl A, et al. Risk stratification in](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0012)
+[penile carcinoma: 25-year experience with surgical inguinal lymph](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0012)
+[node staging. Urology 2006;68:621–5.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0012)
+
+[[13] Ramos JG, Jaramillo DC, Sandoval D, et al. Diagnostic precision of senti-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0013)
+[nel lymph node biopsy in penile cancer. Indian J Urol 2019;35(4):282–6.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0013)
+
+
+
+[[14] Kirrander P, Andren O, Windahl T. Dynamic sentinel node biopsy in](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0014)
+[penile cancer: initial experiences at a Swedish referral center. BJU](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0014)
+[Int 2013;111:E48–53.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0014)
+
+[[15] Jacobellis U. Modified radical inguinal lymphadenectomy for carci-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0015)
+[noma of the penis: technique and results. J Urol 2003;169:1349–52.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0015)
+
+[[16] Yuan JB, Chen MF, Qi L, et al. Preservation of the saphenous vein](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0016)
+[during Laparo-endoscopic single-site inguinal lymphadenectomy:](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0016)
+[comparison with the conventional laparoscopic technique. BJU Int](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0016)
+[2015;115:613–8.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0016)
+
+[[17] Tobias-Machado M, Tavares A, Molina WR Jr, Forseto PH Jr,](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0017)
+[Juliano RV, Wroclawski ER. Video endoscopic inguinal lymphade-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0017)
+[nectomy (VEIL): minimally invasive resection of inguinal lymph](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0017)
+[nodes. Int Braz J Urol 2006;32:316–21.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0017)
+
+[[18] Josephson DY, Jacobsohn KM, Link BA, et al. Robotic-assisted](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0018)
+[endoscopic inguinal lymphadenectomy. Urology 2009;73:167.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0018)
+
+[[19] Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0019)
+[systematic reviews and meta-analyses: the PRISMA statement. Int J](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0019)
+[Surg 2010;8:336–41.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0019)
+
+[[20] Higgins JP, White IR, Anzures-Cabrera J. Meta-analysis of skewed](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0020)
+[data: combining results reported on log-transformed or raw scales.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0020)
+[Stat Med 2008;27:6072–92.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0020)
+
+[[21] Dindo D, Demartines N, Clavien PA. Classification of surgical com-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0021)
+[plications a new proposal with evaluation in a cohort of 6336 patients](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0021)
+[and results of a survey. Ann Surg 2004;240:205.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0021)
+
+[22] Sterne JAC, Savovi�c J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ. 2019 Aug 28;366:l4898.
+
+[[23] Sterne JAC, Hern�an MA, Reeves BC, et al. ROBINS-I: a tool for](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0023)
+[assessing the risk of bias in non-randomized studies of interventions.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0023)
+[BMJ 2016;355:i4919.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0023)
+
+[24] Sch€unemann H, Brozek J, Guyatt G, Oxman A, editors. GRADE_
+handbook for grading the quality of evidence and strength of recom[mendations. Updated October 2013. Available from https://gdt.grade-](https://gdt.gradepro.org/app/handbook/handbook.html)
+[pro.org/app/handbook/handbook.html.](https://gdt.gradepro.org/app/handbook/handbook.html)
+
+[[25] Higgins JP, Thompson SG, Deeks JJ, et al. Measuring inconsistency](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0025)
+[in meta-analyses. BMJ 2003;327:557–60.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0025)
+
+[[26] Tobias-Machado M, Tavares A, Ornellas AA, et al. Video endoscopic](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0026)
+[inguinal lymphadenectomy: a new minimally invasive procedure for](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0026)
+[radical management of inguinal nodes in patients with penile squa-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0026)
+[mous cell carcinoma. J Urol 2007;177(3):953–8.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0026)
+
+[[27] Kumar V, Sethia KK. A prospective study comparing video-endo-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0027)
+[scopic radical inguinal lymph node dissection (VEILND) with open](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0027)
+[radical ILND (OILND) for penile cancer over 8 years. BJU Int](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0027)
+[2017;119:530–4.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0027)
+
+[[28] Wang S, Du P, Tang X, et al. Comparison of efficiency of video](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0028)
+[endoscopy and open inguinal lymph node dissection. Anticancer Res](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0028)
+[2017;37(8):4623–8.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0028)
+
+[[29] Yadav SS, Tomar V, Bhattar R, et al. Video endoscopic inguinal lym-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0029)
+[phadenectomy vs open inguinal lymphadenectomy for carcinoma penis:](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0029)
+[expanding role and comparison of outcomes. Urology 2017;113:79–84.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0029)
+
+[[30] Singh A, Jaipuria J, Goel A, et al. Comparing outcomes of robotic](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0030)
+[and open inguinal lymph node dissection in patients with carcinoma](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0030)
+[of the penis. J Urol 2018 Jun;199(6):1518–25.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0030)
+
+[[31] Ye YL, Guo SJ, Li ZS, et al. Radical videoscopic inguinal lymphade-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0031)
+[nectomies: a matched pair analysis. J Endourol 2018;32(10):955–60.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0031)
+
+[[32] Yu H, Lu Y, Xiao Y, et al. Robot-assisted laparoscopic antegrade ver-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0032)
+[sus open inguinal lymphadenectomy: a retrospective controlled](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0032)
+[study. BMC Urol 2019;19:135.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0032)
+
+[33] Thyavihally YB, Dev P, Waigankar SS, et al. Comparative study of
+perioperative and survival outcomes after video endoscopic inguinal
+lymphadenectomy (VEIL) and open inguinal lymph node dissection (OILND) in the management of inguinal lymph nodes in carcinoma of the
+[penis. J Robot Surg 2021. https://doi.org/10.1007/s11701-020-01189-x.](https://doi.org/10.1007/s11701-020-01189-x)
+
+[[34] Patel KN, Salunke A, Bhatt S, Sharma M, Jain A, Puj K, et al. Log](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0034)
+[ODDS (LODDS) of positive lymph nodes as a predictor of overall](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0034)
+[survival in squamous cell carcinoma of the penis. J Surg Oncol](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0034)
+[2021;123(8):1836–44.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0034)
+
+K.N. Patel et al. / Urologic Oncology: Seminars and Original Investigations 40 (2022) 112.e11−112.e22 112.e22
+
+
+
+[[35] Johnson TV, Hsiao W, Delman KA, et al. Extensive inguinal lympha-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0035)
+[denectomy improves overall 5 year survival in penile cancer patients.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0035)
+[Cancer 2010;116:2960–6.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0035)
+
+[[36] Mao W, Huang X, Kong M, Fan J, Geng J. More lymph node dissec-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0036)
+[tion improves survival in patients with newly diagnosed lymphnode-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0036)
+[positive penile cancer. Int Urol Nephrol 2019;51(4):641–54.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0036)
+
+[[37] Soodana-Prakash N, Koru-Sengul T, Miao F, Lopategui DM, Savio](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0037)
+[LF, Moore KJ, et al. Lymph node yield as a predictor of overall sur-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0037)
+[vival following inguinal lymphadenectomy for penile cancer. Urol](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0037)
+[Oncol 2018;36(10):471.e19–27.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0037)
+
+[[38] Li Z-S, Yao K, Chen P, et al. Disease-specific survival after radical](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0038)
+[lymphadenectomy for penile cancer: prediction by lymphnode count](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0038)
+[and density. Urol Oncol 2014;32:893–900.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0038)
+
+
+
+[[39] Hu J, Li H, Cui Y, et al. Comparison of clinical feasibility and onco-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0039)
+[logical outcomes between video endoscopic and open inguinal lym-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0039)
+[phadenectomy for penile cancer: a systematic review and meta-](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0039)
+[analysis. Medicine (Baltimore) 2019;98(22):e15862.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0039)
+
+[[40] Schwentner C, Todenh€ofer T, Seibold J, et al. Endoscopic inguinofemoral](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0040)
+lymphadenectomy − [extended follow-up. J Endourol 2013;27:497–503.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0040)
+
+[[41] Jakub JW, Terando AM, Sarnaik A, et al. Training high-volume](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0041)
+[melanoma surgeons to perform a novel minimally invasive inguinal](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0041)
+[lymphadenectomy: report of a prospective multi-institutional trial.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0041)
+[J Am Coll Surg 2016;222(3):253–60.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0041)
+
+[[42] Choi YY, Kim Z, Hur KY. Learning curve for laparoscopic](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0042)
+[totally extraperitoneal repair of inguinal hernia. Can J Surg](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0042)
+[2012;55(1):33–6.](http://refhub.elsevier.com/S1078-1439(21)00506-8/sbref0042)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

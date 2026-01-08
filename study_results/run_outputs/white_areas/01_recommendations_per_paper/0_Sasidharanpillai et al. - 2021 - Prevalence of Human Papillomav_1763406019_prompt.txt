@@ -1,0 +1,1571 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    *DOI: 10.31557/APJCP.2021.22.5.1351*
+*HPV DNA Prevalence in Male Specific Cancers*
+
+# REVIEW
+
+
+# **Prevalence of Human Papillomavirus (HPV) DNA among Men ** **with Oropharyngeal and Anogenital Cancers: A Systematic ** **Review and Meta-Analysis**
+## **Sabeena Sasidharanpillai [1], Nagaraja Ravishankar [2], Veena Kamath [3] *, Parvati V ** **Bhat [4], Puneet Bhatt [1], Govindakarnavar Arunkumar [1]**
+
+**Abstract**
+
+**Objective:** The term ‘‘Human Papillomavirus’’ or ‘‘HPV’’ has become synonymous with uterine cervical cancer
+leading to feminisation of all the preventive measures, especially immunisation. Taking into consideration the rising
+number of HPV associated cancers among men in many developed countries and the risk of transmission to women,
+male HPV infection is a serious concern. A systematic review and meta-analysis of literature was performed to determine
+the global prevalence of HPV among men with oropharyngeal and anogenital cancers. **Methods:** A systematic review
+and meta-analysis of literature was performed searching electronic databases for published articles in English between
+January 1984- April 2020 based on standard systematic review guidelines. The meta-analysis component was modified
+appropriately for the synthesis of prevalence study results. National Institutes of Health checklist for observational, cohort
+and cross-sectional studies was used to assess the quality of the studies selected after the abstract and content review.
+The meta-analysis was performed in STATA version 13.0 (College Station, Texas 77,845 USA) and the forest plots
+were constructed using metan package in STATA. **Results:** Through the electronic search of databases, 3486 original
+articles were screened for eligibility. Fifty-eight articles were systematically reviewed and 42 articles were qualified
+for meta-analysis including 4,250 men with oropharyngeal, penile and prostate cancers. The pooled prevalence of HPV
+DNA in oropharyngeal cancers was 45% (95%CI 24.0%-66.0%). Meanwhile the pooled prevalence rates of 48% (CI
+40.0%- 57.0%) and 19% (CI 10.0%-29.0%) were observed in penile and prostate cancers respectively. Even though,
+articles regarding HPV prevalence in anal cancers were systematically reviewed, none of the studies were qualified
+for meta-analysis. **Conclusion:** Higher pooled prevalence of HPV DNA was observed among men with oropharyngeal
+and penile cancers. Multicentric molecular studies investigating the prevalence of HPV in prostate cancers have to be
+planned in future.
+
+**Keywords:** Human Papillomavirus- oropharyngeal cancer- penile cancer- anal cancer- prostate cancer
+
+*Asian Pac J Cancer Prev,* **22 (5)**, 1351-1364
+
+
+**Introduction**
+
+Cancers account for one in six deaths worldwide
+
+and the number of cancer cases is much more than the
+
+total number of AIDS (Acquired Immunodeficiency
+Syndrome), tuberculosis and malaria (American Cancer
+Society, 2018). In 2018 lungs, colorectal, and prostate
+cancers contributed to 44.4% of all cancers in men
+
+(“Worldwide cancer data,” 2018). Chronic infection by
+certain viruses, bacteriae and parasites is the third leading
+cause of cancers after dietary factors and tobacco (Flora
+and Maestra, 2015). In 2018, 13% of new malignancies
+were associated with infection by Human Papillomavirus
+
+
+(HPV), Helicobacter pylori, Hepatitis B virus (HBV), and
+Hepatitis C virus (HCV) (de Martel et al., 2019).
+
+The HPV infection is the most common sexually
+transmitted viral infection and a causal association was
+
+reported in 4.5% of new cancers arising from the cervix,
+anogenital tract and oropharynx (de Martel et al., 2017).
+Persistent high-risk HPV infection leads to almost 12%
+of female cancers in developing countries and the causal
+association with cervical cancer was well established
+
+(“WHO | Human papillomavirus (HPV),” n.d.). The main
+determining factors for cervical dysplasia and invasive
+cervical cancer are early age at sexual debut, multiple
+sexual partners, young age at first delivery, multiparity
+
+
+*1* *Manipal Institute of Virology, Manipal Academy of Higher Education, Manipal, Karnataka, India.* *2* *Department of Biostatistics,*
+*Vallabhbhai Patel Chest Institute, University of Delhi, Delhi, India.* *[3]* *Department of Community Medicine, Centre for Vaccine*
+*Studies-In Charge, Kasturba Medical College, Manipal Academy of Higher Education (MAHE), Manipal, Karnataka, India.*
+*4* *Department of Obstetrics and Gynecology, Dr T M A Pai Hospital, Manipal Academy of Higher Education, Manipal, Karnataka,*
+*India.* **For Correspondence: veenak@manipal.edu*
+
+*Asian Pacific Journal of Cancer Prevention, Vol 22* **1351**
+
+*Sasidharanpillai Sabeena et al*
+
+and high risk sexual behaviour of male partner (Agarwal
+et al., 1993; Bosch et al., 1992; Chichareon et al., 1998.,
+Chalabiani et al).
+
+International Agency for Research on Cancer (IARC)
+has identified HPV-16 as one of the causal agents for
+oropharyngeal squamous cell cancer (OPSCC) in 2009
+(Bouvard et al., 2009). As per IARC monographs on the
+evaluation of carcinogenic risks to humans, HPV-16 was
+recognised as the risk factor for oropharyngeal cancers,
+mainly squamous cell cancers arising from tonsil and base
+of tongue. IARC does not support a strong and consistent
+association of oral cavity squamous cell cancers (OCSCC)
+and laryngeal cancers with HPV (IARC 100B) (“IARC
+Monographs on the Evaluation of Carcinogenic Risks to
+Humans – IARC,” n.d.).
+
+In the United States, men are five times more likely to
+be diagnosed with HPV-associated oropharyngeal cancers
+than women implying a distinct male gender predominance
+(Chaturvedi et al., 2011). The prevalence of male HPV
+infection is high among men having sex with men (MSM)
+and men positive for human immunodeficiency virus
+(HIV) (Blas et al., 2015; van Aar et al., 2013). In the
+developed countries, the overall incidence of head and
+neck squamous cell carcinoma (HNSCC) is declining
+with a concomitant rise of HPV associated oropharyngeal
+squamous cell carcinoma (OPSCC) (Chai et al., 2015).
+An increase in the annual incidence of HPV associated
+
+(OPSCC) among non-smokers and teetotalers, below
+the age of fifty years was observed in the US(Pytynia et
+al., 2014). By the year 2045, OPSCC is anticipated to
+become the third most common cancer among men (Xu
+et al., 2019). Several etiological factors account for penile
+carcinomas such as poor personal hygiene, phimosis,
+multiple sexual partners and HPV infections. Despite
+being rare in developed nations, penile cancer cases
+in some parts of Africa, South America, and Asia may
+contribute up to 10% of male genital cancers (Alemany
+et al., 2016). Anal cancer is reported frequently among
+males from less developed nations and females from
+well-developed countries (Martel et al., 2017). The
+prevalence of HPV DNA in anal cancers vary between
+85%-91% and HIV-positive men having sex with men are
+at greater risk (Plummer et al., 2016). The link between
+prostate cancer and HPV has not been established so far.
+
+A rise in HPV associated oropharyngeal cancers, as
+well as anogenital cancers among men from developed
+countries, indicate high-risk sexual activity and HPV
+exposure over many decades. This quantitative analysis
+will be helpful for policymakers and health service
+providers in generating evidence regarding HPV
+association among men with anogenital and oropharyngeal
+cancers facilitating the implementation of appropriate
+preventive measures. Validated HPV-DNA based
+screening strategies for early recognition of high-risk HPV
+infection and HPV vaccination can lead to a significant
+reduction in the number of HPV-related cancers.
+
+The main aim of this meta-analysis is to quantitatively
+assess the global prevalence of HPV DNA among
+men with oropharyngeal, penile, prostate and anal
+cancers. The meta-analysis also investigated whether
+the HPV-association in oropharyngeal and anogenital
+
+**1352** *Asian Pacific Journal of Cancer Prevention, Vol 22*
+
+
+cancers differed across various geographical areas and
+characteristics of study participants.
+
+**Materials and Methods**
+
+*Methodology*
+
+A systematic review and meta-analysis of literature
+was performed searching electronic databases for
+published articles in English between January 1984-April
+2020 based on standard systematic review guidelines
+prescribed by Cochrane collaboration (htps://www.
+cochrane.org) and Campbell Collaboration (htps://www.
+campbellcollaboration.org). The meta-analysis component
+was modified appropriately for the synthesis of prevalence
+study results. The present research work comply with the
+Preferred Reporting Items of Systematic reviews MetaAnalyses (PRISMA) statement (Moher et al., 2009).
+
+*Description of the condition*
+
+HPV DNA: Molecular detection of HPV implies
+prevalent infection, reinfection, auto-inoculation from
+the oral cavity, anogenital areas or intermittent viral
+shedding from a latent infection. Persistent infection by
+high-risk HPV types, is associated with oropharyngeal
+and anogenital malignancies in men and women(Clifford
+et al., 2003; Schiffman et al., 2016).
+
+HPV Prevalence among men with cancers: HPV
+Prevalence is the proportion of men having HPV
+DNA-associated histologically confirmed oropharyngeal
+and anogenital cancers at a given time. HPV exhibits
+epithelial tropism for distinct anatomical sites in both the
+sexes. The HPV prevalence data among men with certain
+cancers is vital while undertaking various preventive
+measures at the population level.
+
+*Study protocol*
+
+A comprehensive electronic search of PubMed/
+MEDLINE and SCOPUS was carried out using search
+terms such as Human Papillomavirus OR HPV AND men
+AND oropharyngeal cancer AND Head and neck cancers
+AND Penile cancer AND anal cancer AND Prostate cancer
+
+NOT women NOT cervical cancer NOT vulval cancer
+
+NOT vaginal cancer. Hospital-based studies in English,
+employing fresh or formalin-fixed paraffin-embedded
+(FFPE) tissue samples from histologically confirmed
+anogenital and oropharyngeal cancers for molecular
+detection of HPV were included in the present review. The
+published articles in English since 1984 regarding HPV
+association in male cancers were reviewed. Besides, a
+manual library search for articles in peer-reviewed journals
+was performed and references of retrieved articles were
+also appraised to increase the search sensitivity.
+
+*Inclusion process and criteria*
+
+Cross-sectional, cohort and case-control studies which
+screened oropharyngeal and anogenital tissue samples of
+men with histologically confirmed oropharyngeal and
+anogenital cancers for HPV DNA were included.
+
+*Exclusion criteria*
+
+Studies not reporting the estimated prevalence of HPV
+
+DNA by molecular assays and cancers not confirmed
+histologically were excluded. All the population-based
+studies enrolling asymptomatic individuals, estimated
+prevalence data from controls enrolled in case-control
+studies and pre-neoplastic lesions were excluded. Studies
+on HIV-positive men and MSM were not included.
+Duplicate publications of the same survey and articles
+published in languages other than English were excluded.
+
+*Data extraction*
+
+A validated proforma focusing on the first author, year
+of publication, region, the period during which samples
+were archived, sample size, HPV DNA positivity and
+HPV genotypes was used to extract the data.
+
+In the systematic review, the three-stage selection
+process was carried out for the final inclusion of the
+studies. One reviewer assessed titles from 3,846 records
+for the relevance for inclusion in the study. Studies
+applicable for the review were moved to the second stage
+and duplicates were excluded (n= 2,402). In the second
+stage, the abstract of the studies (n= 618) was obtained and
+two reviewers independently analyzed all the abstracts.
+All the non-relevant studies were rejected (n=465) and
+the remaining (n=153) studies were moved to the third
+stage. Full texts of studies (n=153) were retrieved which
+were again examined by two reviewers independently.
+Extracted data from full-text articles by the first reviewer
+was reviewed by a second reviewer independently. All the
+studies chosen by both the reviewers were involved and
+the third reviewer adjudged the selection process if there
+was any difference between the two reviewers. Authors
+were contacted electronically when there was incomplete
+or inadequate information. A total of 58 studies were
+systematically reviewed and 42 studies were qualified
+for meta-analysis. HPV DNA Prevalence data from males
+having oropharyngeal and genital cancers from crosssectional, case-control and cohort studies were included
+in the quantitative synthesis (meta-analysis). The study
+selection process is depicted in the PRISMA chart (Figure
+1). The last date of the search was 30 [th] April 2020.
+
+*Quality Assessment*
+
+National Institutes of Health checklist (National Heart,
+Lung and Blood Institute) for observational, cohort and
+cross-sectional studies was used to assess the quality
+of the studies selected after the abstract and content
+
+review(“Study Quality Assessment Tools | National Heart,
+Lung, and Blood Institute (NHLBI),” n.d.). Out of the
+fourteen questions, question numbers 1, 2, 3, 4, 5 and 11
+were applied to our study. The response to the remaining
+eight questions was marked as not applicable (NA). Each
+question was categorized as Yes, No, others-CD (can
+not determine), NA (not applicable), NR (not reported).
+The studies with six, four /five or less than four “Yes
+responses” were considered good, fair, and poor quality
+respectively.
+
+*Data analysis*
+
+Meta-analysis was performed in STATA version
+13.0 (College Station, Texas 77,845 USA). The forest
+plots were constructed using metan package in STATA.
+
+
+*DOI: 10.31557/APJCP.2021.22.5.1351*
+*HPV DNA Prevalence in Male Specific Cancers*
+
+A considerable amount of statistical heterogeneity
+(variability in the effect sizes) across the studies
+was anticipated as the included studies were mostly
+observational. Therefore, a random-effects model for
+meta-analysis was adapted rather than a fixed-effect
+model. The pooled prevalence with 95% CI was reported
+along with I [2] Statistic to quantify the heterogeneity
+between the studies.
+
+**Results**
+
+Through the electronic search of databases, 3,486
+original articles were screened for eligibility. Titles of
+1084 articles were reviewed and abstracts of 618 articles
+
+were retrieved. Full texts of 153 articles were analysed.
+Fifty-eight articles were systematically reviewed and 42
+articles were qualified for meta-analysis including 4,250
+men with oropharyngeal, penile and prostate cancers.
+
+*Oropharyngeal cancers*
+
+Most of the published literature regarding HPV
+associated head and neck cancers were narrative
+
+reviews, and epidemiologic studies spanning over two
+to three decades. We observed 91 articles concerning
+HPV DNA association in oropharyngeal cancer cases
+between 2001 and 2020. Abstracts of 86 articles were
+
+retrieved and full texts of 35 articles were analysed. The
+characteristics of each study included in the meta-analysis
+were shown in the Table 1. Ten articles including 843
+men with HPV associated oropharyngeal cancers were
+qualified for meta-analysis. These studies were from the
+United States, India, Bangladesh and Saudi (Table 1).
+One recent study from France was not included for the
+quantitative synthesis as the HPV DNA was detected by
+in situ hybridisation (ISH) which was much less sensitive
+than Polymerase Chain Reaction (PCR)(Mirghani et al.,
+2019). The association of HPV DNA in tissue samples
+from male oropharyngeal cases varied between 7.4%93.0% (Bhosale et al., 2016; Martin-Gomez et al., 2019).
+There was a vast discrepancy regarding the period during
+which samples were collected and the number of samples
+tested. One study from the US employed formalin-fixed
+paraffin-embedded tissue (FFPE) samples archived
+between 1987-1995(Strome et al., 2002). Meanwhile,
+three studies from India and two studies from the US
+
+reported high-risk HPV DNA prevalence instead of overall
+HPV DNA prevalence (Bhosale et al., 2016; D’Souza et
+al., 2007; Elango et al., 2011; Ramshankar et al., 2014;
+Smith et al., 2004). In India, a vast heterogeneity ranging
+between 7.4% in Mumbai to 48% from Karnataka was
+
+observed in the high-risk HPV DNA prevalence estimate
+in tissue samples of oropharyngeal cancer cases among
+men (Bhosale et al., 2016; Elango et al., 2011; Kulkarni
+et al., 2011). The pooled prevalence of HPV DNA in
+oropharyngeal cancers in the present meta-analysis (10
+studies, n=843 men) was 45% (95% CI 24.0%-66.0%)
+as in Figure 2. HPV-16 was the most prevalent genotype
+detected in all the qualified studies, and only three studies
+reported HPV genotypes other than HPV-16 (MartinGomez et al., 2019; Smith et al., 2004; Strome et al., 2002).
+The pooled prevalence of HPV-16 DNA in oropharyngeal
+
+*Asian Pacific Journal of Cancer Prevention, Vol 22* **1353**
+
+*Sasidharanpillai Sabeena et al*
+
+Table 1. Qualified Studies Reporting HPV DNA Detection in Oropharyngeal Cancer Tissue Samples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|Reference|Study area|Study design|Type of sample|Total (n)|Method|Overall HPV|HPV 16|Other HPV genotypes|Quality|
+|---|---|---|---|---|---|---|---|---|---|
+|(Martin-Gomez et al 2019)|Florida USA|Cohort (2014-2017)|Tissue|160|PCR|149 (93.1%)|143 (89.40%)|16,18,31,33,35,39,45,51,52,5 6,5,68,6,11,44, 53,66,70,74|Good|
+|(Alsbeih et al 2019)|Saudi|Cross-sectional (2002-2016)|tissue|28|PCR|6 (21.40%)|6 (21.40%)|-|Good|
+|(Shaikh et al 2017)|Bangladesh|Cross-sectional (2014-2016)|FFPE|35|PCR|13 (37%)|13 (37%)|-|Good|
+|(Bhosale et al 2016)|India|Cross-sectional (2014-2015)|FFPE|27|PCR|2 (7.40%)|2 (7.40%)|-|Good|
+|(Sannigrahi et al 2016)|India|Cross-sectional (2013-2014)|Frozen tissue|87|PCR|36 (41.4%)|36 (41.4%)|-|Good|
+|(Ramshankar et al 2014)|India|Cross-sectional (1995-2007)|FFPE|167|PCR|86 (51.50%)|86 (51.50%)|-|Good|
+|(Elango et al 2011)|India|Case-control study (2004-7)|tissue|60|PCR|29 (48.0)|29 (48.0)|-|Good|
+|(D’souza et al 2007)|USA|Case-control study (2000-2005)|tissue|100|PCR|72 (72%)|72 (72%)|-|Good|
+|(Smith EM et al 2004 )|USA|Cross-sectional (1994-97)|tissue|67|PCR|25 (37.30%)|23 (34.30%)|18,33|Good|
+|Strome et al (2002)|USA|Case control (1987-1995)|FFPE|52|PCR|24 (46.20%)|21 (40.40%)|12,59|Good|
+
+
+cancers was 45% (95% CI 26%-63%) as in Figure 3.
+Along with oncogenic HPV types, non-oncogenic types
+were detected in only two studies included for metaanalysis(Martin-Gomez et al., 2019; Strome et al., 2002).
+
+In the United States, the association of HPV in OPSCC
+ranged between 40% and 80% (Marur et al., 2010) with a
+225% increase in HPV-associated OPSCC since the 1980s
+
+
+and 50% fall in HPV-negative OPSCC (Chaturvedi et al.,
+2011). A similar epidemiologic pattern was observed in
+Australia and Europe also (Blomberg et al., 2011; Hong
+et al., 2010). Meanwhile, almost 90% of oropharyngeal
+squamous cell cancers are attributable to HPV in Sweden
+(Näsman et al., 2009). The higher estimate of HPV DNA
+prevalence in OPSCC varying between 38%-56% was
+
+
+Figure 1. PRISMA Chart Depicting the Study Selection for Systematic Review and Meta-Analysis. The flow diagram
+describing the number of studies identified, screened, full-text articles retrieved, and included in the systematic review
+and meta-analysis.
+
+**1354** *Asian Pacific Journal of Cancer Prevention, Vol 22*
+
+*DOI: 10.31557/APJCP.2021.22.5.1351*
+*HPV DNA Prevalence in Male Specific Cancers*
+
+Table 2 Characteristics of the Studies Regarding the Prevalence of HPV DNA in Histologically Confirmed Penile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|Table 2 Charac Cancer Cases|cteristics of t|the Studie|es Regarding th|he Preval|lence o|of HPV D|DNA in His|stologically Confirme|ed Penile|
+|---|---|---|---|---|---|---|---|---|---|
+|Reference|Region|Study design|Sample collection (years)|Type of sample|Total (n)|Method|HPV DNA Positivity|HPV genotypes|Quality|
+|Martinez-Bailon (2019)|Mexico|Cross- sectional|2002-13|FFPE|56|PCR|33 (58.90%)|16, 52,18, 45,31,11|Good|
+|Araujo et al (2018)|Brazil|Cohort|2003-2015|FFPE|183|PCR|56 (30.60%)|6,11,16,18|Good|
+|Fernandes- Nestosa et al (2017)|Paraguay|Cross- sectional|1998-2005|FFPE|26|PCR|10 (39.0%)|6,11,74|Good|
+|Mu Mu S et al (2016)|Myanmar|Cross- sectional|2008-2012|FFPE|30|PCR|8 (26.60%)|16,33,18|Good|
+|Alemany (2016)|Worldwide|Cross- sectional|1983-2011|FFPE|1010|PCR|334 (33.10%)|16,6,11,18,26,26,27,31,3 2,33,35,39,40,42,43,45,5 2,53,56,58,60,61,66,68,7 0,73,74,76,82|Good|
+|Damasdi (2016)|Hungary|Cross- sectional|2002-12|FFPE|35|PCR|17 (48.60%)|16,59,82|Good|
+|Djajadiningrat (2015)|Netherlands|cross- sectional|2001-09|FFPE|212|PCR|HR-HPV 53 (25.0%)|16,33,18,,45,31,52|Good|
+|Lohneis (2015)|Germany|Cross sectional|Not specified|FFPE|28|PCR|15 (54.0%)|16,6,11, 67, 33, 59, 18|Fair|
+|Steinestel (2015)|Germany|Cross- sectional|1995-2012|FFPE|58|PCR|18 (31%)|HPV16,6,45|Good|
+|Hernandez et al (2014)|US|Cross- sectional|1998-2005|FFPE|90|PCR|57 (63.0%)|16,18,33,45|Good|
+|Lebelo RL et al (2014)|South Africa|Cross- sectional|2004-2011|FFPE|61|PCR|55 (90.0%)|16,11,18,33,39,45,52,58|Good|
+|Do HTT et al 2013107|Vietnam|Cross- sectional|2005-2010|FFPE|120|PCR|27 (22.50%)|16|Good|
+|Fonseca 2013108|Brazil|Cross- sectional|2001-2008|FFPE|82|PCR|50 (60.90%)|11,6,16,18,33, 18, 68, 45, 51, 52, 58|Good|
+|Senba (2010)|Japan|Cross sectional|1972-2006|FFPE|16|PCR|12 (75.0%)|6,11,22|Good|
+|Scheiner (2008)|Brazil|Cross sectional|1995-2000|FFPE|80|PCR|35 (44.0%)|16,18,6,|Good|
+|Senba et al (2006)|Northern Thailand|Cross- sectional|2001-2005|FFPE|65|PCR|49 (75.4%)|18,6, 16|Good|
+|Bezerra (2001)|Brazil|Cross- sectional|1953-1993|FFPE|82|PCR|25 (30.50%)|16,18,6,11,45|Good|
+|Picconi (2000)|Argentina|Cross- sectional|2000|FFPE|38|PCR|27 (71.0%)|18,16,|Good|
+|Chan et al(1994)|Hong Kong|Cross- sectional|1974-1992|FFPE|41|PCR|14 (34.0%)|16,18|Good|
+|Cupp (1995)|USA|Case- control|1981-1993|FFPE|42|PCR|23 (55.0%)|16, 18|Good|
+|Iwasawa et al (1993)|Japan|Cross- sectional|1967-1990|FFPE|111|PCR|70 (63.0%)|16,18|Good|
+|Wiener et al (1992)|USA|Cross- sectional|1970-1989|FFPE|53|PCR|13 (24.50%)|16,18|Good|
+|Sarkar (1992)|Michigan USA|Cross- sectional|1992|FFPE|12|PCR|9 (75.0%)|6,11,16,18|Good|
+
+
+reported from North America, Japan, Australia, Northern
+Europe, Western Europe and Eastern Europe. Meanwhile,
+17% prevalence was observed in Southern Europe and
+13% in the rest of the world (Gillison et al., 2014). The
+studies from Asian countries also reported HPV DNA
+prevalence in the range of 30%-50% in OPSCC (Deng et
+al., 2012; Mizumachi et al., 2013; Park et al., 2012) which
+is more prevalent among middle-aged, non-smoking white
+men with multiple sexual partners (Smith et al., 2004).
+National cancer registry data from South Korea, located in
+
+
+East Asia having a distinct cultural and ethnic background
+also reported a rise in HPV associated oropharyngeal
+cancers in the last two decades (Shin et al., 2013).
+
+*Penile cancers*
+
+Between 1989 and 2017 a total of 347 articles were
+
+published including reviews and meta-analyses. For the
+systematic review, 76 original articles were included.
+Twenty-three articles comprising 2,531 penile cancer
+cases were qualified for meta-analysis. The prevalence
+
+*Asian Pacific Journal of Cancer Prevention, Vol 22* **1355**
+
+*Sasidharanpillai Sabeena et al*
+
+Figure 2. The Forest Plot of Pooled HPV DNA Prevalence among Men with Histologically Confirmed Oropharyngeal
+Cancers. Squares specify the effect sizes of individual studies and extended lines denote 95% confidence intervals
+(CI). Sizes of square imply the weight of studies based on sample size using a random effects analysis. The diamond
+data indicates pooled prevalence. CI, confidence interval
+
+
+of HPV DNA ranged between 25%-90% in penile
+cancers (Table 2). Studies from the USA, Japan, Brazil,
+
+
+Argentina, Germany, Hungary, Mexico, Myanmar,
+Paraguay, Thailand and Vietnam were qualified for the
+
+
+Figure 3. The Forest Plot of Pooled HPV-16 DNA Prevalence among Men with Histologically Confirmed Oropharyngeal
+Cancers. Squares specify the effect sizes of individual studies and extended lines denote 95% confidence intervals
+(CI). Sizes of square imply the weight of studies based on sample size using a random effects analysis. The diamond
+data indicates pooled prevalence. CI, confidence interval
+
+**1356** *Asian Pacific Journal of Cancer Prevention, Vol 22*
+
+*DOI: 10.31557/APJCP.2021.22.5.1351*
+*HPV DNA Prevalence in Male Specific Cancers*
+
+Table 3. Characteristics of the Studies Regarding HPV DNA Association in Prostate Cancer Cases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|References|Study area|Study design|Number (n)|Type of sample|Method|Prostate cancer|HPV genotypes|Quality|
+|---|---|---|---|---|---|---|---|---|
+|Sarkar et al (1993)|Michigan USA|Cross-sectional (1991)|23|FFPE|Southern Hybridization|3 (13.00%)|16|Good|
+|Tu et al (1994)|Baltimore USA|Cross-sectional (1992-93)|43|FFPE|Southern Hybridization|1 (2.30%)|16|Good|
+|Silvestre (2009)|Brazil|Cross-sectional (2006-08)|65|Fresh tissue|PCR|2 (3.10%)|16,84|Good|
+|Martinez-Fierro (2010)|Mexico|Case-control (2006-07)|55|Fresh tissue|PCR|11 (20.0%)|52,58,66,81|Good|
+|Singh et al 2015)|India|Case control|95|Fresh Tissue|PCR|39 (41.10%)|16,18|Fair|
+|Atashafrooz et al (2016)|Iran|Cross-sectional (2009-2015)|100|FFPE|PCR|20 (20.00%)|6,11,16,18|good|
+|Rodriguez et al (2016)|Mexico|Cross-sectional (2014-2015)|62|FFPE|PCR|6 (9.60%)|18, 51, 52,66|Good|
+|Glenn et al (2017)|Australia|Cohort study (2001-2014)|52|FFPE sample|PCR|28 (53.80%)|1,618,457,647,115|Good|
+|Medel-Flores61 (2018)|Mexico|Case-control (2006-2014)|189|FFPE sample|PCR|37 (19.60%)|16, 18, 52,58,11|Fair|
+
+
+meta-analysis. As shown in Table 2, except the study
+by Lohneis et al, all the studies were categorized as of
+good quality (Lohneis et al., 2015). The number of tissue
+samples included in the meta-analysis varied between
+12 and 1,010. All the studies subjected archived FFPE
+to PCR. The time interval between the sample collection
+and the molecular testing stretched between one to thirteen
+years. The study from Brazil reported the HPV prevalence
+rate using tissue samples collected in forty years starting
+from 1955 (Bezerra et al., 2001) and another study in Japan
+
+
+used tissues procured from penile cancer cases between
+1967 and 1990 (Iwasawa et al., 1993). Chan et al., (1994)
+estimated the HPV prevalence data using FFPE tissue
+samples archived during the time period 1974-1992. The
+largest study by Alemany et al included tissue samples
+of invasive penile cancer cases diagnosed over eighteen
+years from 25 countries (Alemany et al., 2016). The pooled
+HPV DNA prevalence in penile cancer cases (270 articles,
+n=2531 men) was 48% (CI 40.0%-57.0%) as shown in
+Figure .4. All the qualified studies reported multiple HPV
+
+
+Figure 4. The Forest Plot of Pooled HPV DNA Prevalence in Histologically Confirmed Penile Cancers. Squares
+specify the effect sizes of individual studies and extended lines denote 95% confidence intervals (CI). Sizes of square
+imply the weight of studies based on sample size using a random effects analysis. The diamond data indicates pooled
+prevalence. CI, confidence interval
+
+*Asian Pacific Journal of Cancer Prevention, Vol 22* **1357**
+
+*Sasidharanpillai Sabeena et al*
+
+Figure 5. The Forest Plot of Pooled HPV Prevalence in Histologically Confirmed Prostate Cancer Cases. Squares
+specify the effect sizes of individual studies and extended lines denote 95% confidence intervals (CI). Sizes of square
+imply the weight of studies based on sample size using a random effects analysis. The diamond data indicates pooled
+prevalence. CI, confidence interval
+
+
+genotypes.
+
+A higher prevalence rate of penile cancer case was
+reported from low-income countries in Asia, Africa
+and South America contributing up to 10% of cancers
+in males (de Martel et al., 2012; Miralles-Guri et al.,
+2009). Even though penile cancer is less common in
+developed countries, a significant rise of incidence in
+the last fifty years with a constant survival rate was
+reported from Germany (Schoffer et al., 2019). In the
+US, HPV prevalence in penile cancers was observed to
+be increasing since 1998. There is a great disparity in the
+geographical distribution of penile cancer with the lowest
+incidence being reported in Israel (Christodoulidou et al.,
+2015). The highest number of cases were reported from
+certain regions in Brazil with age-standardised incidence
+rate of 2.9-6.15/100,000 (Coelho et al., 2018; Favorito
+et al., 2008). Penile cancers are mainly squamous cell
+carcinomas, out of which 49%, 17%, 8%, 6% and 4%
+are keratinising, mixed warty-basaloid, verrucous, warty
+and basaloid types respectively. Meanwhile, non-HPV
+related cancers include other subtypes such as verrucous
+and papillary squamous cell carcinomas. The highest
+pooled HPV prevalence of 84.0% (95% CI 71.0 %-93.0%)
+was reported in the basaloid squamous cell carcinoma,
+followed by warty-basaloid squamous cell tumors having
+a pooled HPV DNA prevalence of 75.7% (70.1%-81.0%)
+(Olesen et al., 2019).
+
+*Prostate cancers*
+
+About 270 articles were published between 1990 and
+2019 regarding HPV DNA association in prostate cancers.
+
+**1358** *Asian Pacific Journal of Cancer Prevention, Vol 22*
+
+
+Full texts of seventy-six articles were retrieved and nine
+studies carried out among 876 prostate cancer cases were
+included for quantitative synthesis. Prostate cancer is the
+most common cancer and the second leading cause of
+cancer deaths among men in the United States (“Prostate
+Cancer - Statistics,” 2012).
+
+The first study by Dodd et al reported a higher HPV
+association in 14 benign prostatic hyperplasia cases
+and four prostate cancers suggesting prostate gland, a
+reservoir of HPV in 1990 (McNicol and Dodd, 1990).
+High-risk HPV infection was detected in prostate cancer
+cases from North America, Asia-Pacific region, Europe,
+South America, New Zealand and Australia (Bae, 2015).
+The high-risk types commonly detected in prostate
+cancer were HPV-16,-18,-31,-33 and -58 (Glenn et al.,
+2017). The studies from Canada and Japan supported a
+causal association of HPV in prostatic adenocarcinoma
+(Anwar et al., 1992; McNicol and Dodd, 1990). Recent
+studies from Greece, North India, Australia and Mexico
+also reinforced these findings (Glenn et al., 2017; MedelFlores et al., 2018; Michopoulou et al., 2014; Singh et al.,
+2015). Malaysia reported HPV DNA association in more
+than 50% of prostate cancer cases diagnosed at advanced
+stages (Baade et al., 2013). A higher incidence rate was
+also reported among Asians living in the United Studies
+than their counterparts in the native countries (Baade et
+al., 2013).
+
+The studies from the US, Mexico, Brazil, Australia,
+India and Iran were included for meta-analysis. A recent
+study from Mexico with no clear definition of the study
+population and an Indian study in which there was no
+
+mention of the exact time during which the samples
+were procured were classified as fair (Medel-Flores et
+al., 2018; Singh et al., 2015). Two earlier studies from
+the US reporting low prevalence rates used southern
+Hybridisation for HPV DNA detection which was much
+less sensitive than Polymerase Chain Reaction (PCR)
+(Sarkar et al., 1993; Tu et al., 1994). The HPV prevalence
+estimate varied between 2.3%-41.1% in tissue samples
+as in Table 3.
+
+In Asia, a significant number of men with prostate
+cancer are diagnosed at advanced stages of cancer (Taitt,
+2018). The incidence varies vastly between countries with
+the lowest rate of 9.1/100,000 in Iran to the highest rate
+of 22.9/100,000 in Philippines (Hassanipour et al., 2018).
+Based on population-based cancer registries, prostate
+cancer was the fifth most common type of cancer among
+Indian men with 33,000 incident and 112,000 prevalent
+cases respectively in the year 2016 (Dhillon et al.,
+2018). Globally, recent molecular studies have reported
+significant HPV DNA association in tissue samples of
+prostate cancer cases. The overall pooled prevalence
+of HPV DNA in prostate cancers (9 studies, 876 men)
+was 19% (CI 10.0%-29.0%) as in Fig. 5. In the present
+meta-analysis except in two studies, the most common
+genotype was HPV-16 (Martinez-Fierro et al., 2010;
+Rodriguez et al., 2016).
+
+*Anal cancers*
+
+There were 376 articles regarding HPV DNA
+prevalence in men with anal cancers published between
+1984 and 2020 January. This included 61 narrative reviews,
+ten systematic reviews and five meta-analyses. Out of the
+376 articles, 297 studies had included HIV-positive men
+having sex with men.
+
+Anal cancer is rare globally with a worldwide
+incidence of 1 per 100,000 cases and every year 27,000
+new cases are reported (de Martel et al., 2017). Almost
+90% of anal squamous cell cancers are attributed to HPV
+infection (Plummer et al., 2016). However, a recent
+study reported a rise in advanced anal squamous cell
+cancers with a higher mortality rate in the United States
+since 2001 (Deshmukh et al., 2019). Only one crosssectional study enrolled immunocompetent men as well
+as HIV-positive men with anal cancers (Liu et al., 2019).
+There were no publications of HPV DNA prevalence
+among immunocompetent men with anal cancers globally.
+There are cross-sectional studies on HPV prevalence in the
+community including HIV positive men and negative men
+from different parts of the world. The meta-analyses have
+been published regarding HPV DNA positivity among
+HIV-positive men or MSM with anal cancers. None of the
+studies was qualified for quantitative synthesis.
+
+Almost all the published studies regarding HPV
+associated male anal cancers were performed among
+MSM or men living with HIV from Europe and America
+(Abramowitz et al., 2011; Scholefield et al., 1991;
+Silverberg et al., 2012; Steinau et al., 2013). A high
+incidence rate of anal cancers was reported among
+French men on antiretroviral therapy since 1996 (Piketty
+et al., 2008). Multicentric study enrolling cohorts from
+different parts of North America reported higher anal
+
+
+*DOI: 10.31557/APJCP.2021.22.5.1351*
+*HPV DNA Prevalence in Male Specific Cancers*
+
+cancer rates among HIV positive men having sex with
+men when compared to HIV positive women (Silverberg
+et al., 2012). A recent international study reported HPV
+DNA prevalence of 95.4% in invasive anal squamous cell
+cancers with a predominance in warty basaloid types in
+tissue samples from 24 countries (Alemany et al., 2015).
+There was no statistically significant gender disparity
+in anal cancer prevalence rates even up to 10 years of
+diagnosis.
+
+**Discussion**
+
+The present study observed vast variation in the HPV
+DNA prevalence estimates among men with oropharyngeal
+or anogenital cancers which was mainly attributed to the
+variation in the geographical areas. Earlier studies carried
+out in the 1990s used less sensitive molecular assays such
+as southern hybridization or in situ hybridization. All the
+studies combined for quantitative synthesis concerning
+HPV DNA association in penile cancer cases employed
+FFPE for HPV DNA testing. Meanwhile, the studies
+included in the quantitative synthesis of oropharyngeal
+and prostate cancers used fresh frozen tissues or FFPE
+for molecular analysis. The meta-analysis by Mehanna et
+al observed no significant differences in the prevalence
+estimates when fresh frozen samples or FFPE tissue
+samples were used (Mehanna et al., 2013). A Systematic
+Review of the worldwide prevalence of HPV DNA
+reported that one-third oropharyngeal and one-fourth oral
+squamous cell carcinomas have an association with this
+oncogenic virus (Kreimer et al., 2005). Almost 90% of
+the HPV associated oropharyngeal tumours are positive
+for HPV-16 (Jiang et al., 2015). The prevalence of HPV
+DNA in oropharyngeal cancers was stated to be rising
+significantly, especially in North America and Europe
+(Stein et al., 2015). The pooled prevalence estimates varied
+from 25% in oropharyngeal cancer cases in Europe to more
+than 50% in the US and Canada (Abogunrin et al., 2014;
+Haeggblom et al., 2017). Our estimate was in agreement
+with a recent meta-analysis of studies published between
+2004 and 2014 which reported a pooled prevalence of
+42.6%(Götz et al., 2019). Even though HPV molecular
+tests in tissue biopsy samples are being used for staging
+of oropharyngeal cancers, Centres for Disease Control
+and Prevention (CDC) do not recommend routine HPV
+testing of men for screening purpose of throat, anal and
+penile cancers.
+
+Stratified analysis of oncogenic and non-oncogenic
+HPV prevalence was not performed in the meta-analysis
+as majority of the studies reported only oncogenic types.
+As shown in Table 1, only two qualified studies reported
+non-oncogenic HPV types along with oncogenic types in
+oropharyngeal cancer tissues. Even though, HPV-16 was
+the most frequent genotype, a number of qualified studies
+of HPV DNA prevalence in penile as well as prostate
+cancers had detected multiple genotypes including a few
+low-risk HPV types. Despite the search being restricted
+to studies published in English, very few studies were
+excluded for that reason.
+
+Norwegian cancer registry-based study spanning
+more than sixty years reported a consistent and moderate
+
+*Asian Pacific Journal of Cancer Prevention, Vol 22* **1359**
+
+*Sasidharanpillai Sabeena et al*
+
+increase in the incidence of penile cancers(Hansen et al.,
+2018). One systematic review reported HPV association
+of 47%-48% in penile cancers(Backes et al., 2009). The
+present meta-analysis was in accordance with two recent
+meta-analyses reporting a pooled HPV DNA prevalence of
+51% in penile cancers(Olesen et al., 2019; Yu et al., 2019).
+For the past twenty years, a rise in prostate cancers has
+been reported in many developing countries mainly due
+to rapid urbanisation, changing lifestyles and migration
+from rural to urban areas. Molecular Studies in the last
+
+two decades have suggested a causal association between
+prostate cancer and HPV. We observed comparatively less
+number of meta-analyses evaluating the etiologic role of
+HPV in prostate cancers. One meta-analysis observed a
+possible pathogenic association between HPV infection
+and the development of prostate cancer(Moghoofei et
+al., n.d.). The pooled analysis of prevalence data by Lin
+et al based on both serological tests and molecular tests
+observed no significant association between HPV infection
+and prostate cancer(Lin et al., 2011). Meanwhile, recent
+meta-analyses from Asia reported a statistically significant
+association of HPV DNA with prostate cancers (Bae, 2015;
+Yin et al., 2017). Serologic assays are not recommended
+for detection of HPV infection as antibody response to
+this oncogenic virus is minimal and standardised WHO
+HPV assays based on VLP (Virus Like Particles) are not
+commercially available.
+
+Human Papillomavirus infection in men (HIM) study
+initiated at different centres in Brazil, the United States
+and Mexico at the beginning of the twenty-first century
+witnessed an overall HPV DNA prevalence of 50.5% in the
+oropharynx and anogenital areas (Giuliano et al., 2008).
+Unlike oropharyngeal cancers, there was no increased
+occurrence of HPV-attributable anogenital cancers among
+middle-aged men who are non-drinkers and non-smokers.
+Almost all HPV-associated male oropharyngeal cancer
+tissue samples are positive for either HPV-16 or HPV18 (de Martel et al., 2019). The US FDA has approved
+quadrivalent HPV vaccine for prevention of anal cancers
+among men as well as women aged 9-26 years in 2010
+(ecancer, n.d.). However, there are no data regarding
+HPV association in anal cancers from many developing
+countries including India as per Human Papillomavirus
+related Diseases report-India published in 17th June 2019
+(https:// hpvcentre.net/ statistics/ reports/ IND. pdf). In
+developing countries anal cancers are often under-reported
+and advanced cancers are often misdiagnosed as rectal
+
+cancers.
+
+Quality of evidence: This is a comprehensive
+systematic review of HPV DNA prevalence
+among men with oropharyngeal, penile, anal and
+prostate cancers. The present meta-analysis
+incorporated high-quality peer-reviewed studies published
+in indexed journals. As the I [2] ≥ 50%, enormous
+heterogeneity was perceived between studies. The
+considerable discrepancy was noted in the time period
+during which cases were recruited. Another major
+disparity was in the various molecular assays employed
+for HPV DNA detection as well as genotyping. Most of
+the HPV type-specific molecular tests detect the two most
+common oncogenic types, HPV-16 and HPV-18. The
+
+**1360** *Asian Pacific Journal of Cancer Prevention, Vol 22*
+
+
+detection of co-infection with multiple HPV types in tissue
+samples also varies depending on the molecular tests used.
+
+However, there were not many dissimilarities in the
+type of samples tested, molecular assays, and quality of
+the studies.
+
+In conclusion, there exists significant association of
+HPV with oropharyngeal and genital cancers occurring
+among men. The present systematic review and metaanalysis calls for policymakers to roll-out gender neutral
+HPV immunisation globally and to develop HPV DNA
+based validated screening strategies for oropharyngeal
+and anogenital cancers in men.
+
+**Author Contribution Statement**
+
+SS and VK and conceptualised the study and
+developed the research protocol; SS, NR, PVB, PB and
+G A identified articles for full-text review, extracted data
+from studies, and matched inclusion criteria. N R did
+the statistical analyses. SS drafted the study. All authors
+critically revised the paper, approved the final study, and
+VK agreed to be accountable for all aspects of the work in
+ensuring that questions related to the integrity of any part
+of the work are appropriately investigated and resolved.
+
+**Acknowledgements**
+
+We thank Manipal Academy of Higher Education
+(MAHE) for the support and empowerment.
+
+*Ethics approval and consent to participate*
+
+The systematic review and meta-analysis used
+published data in indexed journals. As such, ethical
+approval to conduct the analysis was not sought.
+
+*Consent to publish*
+
+Ethical consent to publish was not applicable. This was
+a secondary data analysis which requires no approval. No
+data with personal identifier was used.
+
+*Data availability*
+
+Data are available from Dr. Veena Kamath (veenak@
+manipal.edu) at reasonable request.
+
+*Competing interests*
+
+The authors have no relevant affiliations or financial
+involvement with any commercial organization or entity
+with a financial interest or financial conflict with the
+subject matter or materials discussed in the manuscript.
+This includes employment, consultancies, honoraria, stock
+ownership or options, expert testimony, grants or patents
+received or pending, or royalties.
+
+**References**
+
+Abogunrin S, Di Tanna GL, Keeping S, Carroll S, Iheanacho
+
+I (2014). Prevalence of human papillomavirus in head and
+neck cancers in European populations: a meta-analysis.
+*BMC Cancer*, **14**, 968.
+Abramowitz L, Jacquard A-C, Jaroud F (2011). Human
+
+papillomavirus genotype distribution in anal cancer in
+
+France: the EDiTH V study. *Int J Cancer*, **129**, 433–9.
+Agarwal SS, Sehgal A, Sardana S Kumar A, Luthra UK (1993).
+
+Role of male behavior in cervical carcinogenesis among
+women with one lifetime sexual partner. *Cancer*, **72**, 1666–9.
+Alemany L, Cubilla A, Halec G, et al (2015). HPV VVAP study
+
+group (2016). Role of human papillomavirus in penile
+carcinomas worldwide. *Eur Urol*, **69**, 953–61.
+Alemany L, Saunier M, Alvarado I et al (2015). HPV DNA
+
+prevalence and type distribution in anal carcinomas
+worldwide. *Int J Cancer*, **136**, 98–107.
+Alsbeih G, Al-Harbi N, Bin Judia S, et al (2019). Prevalence of
+
+Human Papillomavirus (HPV) infection and the association
+with survival in Saudi patients with head and neck squamous
+cell carcinoma. *Cancers*, **11**, 820.
+American Cancer Society (2018). Global Cancer Facts & Figures
+
+4th Edition.
+
+Anwar K, Nakakuki K, Shiraishi T,et al (1992). Presence of ras
+
+oncogene mutations and human papillomavirus DNA in
+human prostate carcinomas. *Cancer Res*, **52**, 5991–6.
+Araújo LA de, Paula AAPD, Paula HDSC, et al (2018). Human
+
+papillomavirus (HPV) genotype distribution in penile
+carcinoma: Association with clinic pathological factors.
+*PLoS One*, **13**, e0199557.
+Atashafrooz F, Rokhbakhsh-Zamin F (2016). Frequency and
+
+type distribution of human papilloma virus in patients with
+prostate cancer, Kerman, Southeast of Iran. *Asian Pac J*
+*Cancer Prev*, **17**, 3953-8.
+Baade PD, Youlden DR, Cramb SM, Dunn J, Gardiner RA(2013).
+
+Epidemiology of prostate cancer in the Asia-Pacific region.
+*Prostate Int*, **1**, 47–58.
+Backes DM, Kurman RJ, Pimenta JM, Smith JS (2009).
+
+Systematic review of human papillomavirus prevalence in
+invasive penile cancer. *Cancer Causes Control*, **20**, 449–57.
+Bae J-M (2015). Human papillomavirus 16 infection as a
+
+potential risk factor for prostate cancer: an adaptive metaanalysis. *Epidemiol Health*, **37**, e2015005.
+Bezerra AL, Lopes A, Santiago GH, et al (2001). Human
+
+papillomavirus as a prognostic factor in carcinoma of the
+penis: analysis of 82 patients treated with amputation and
+bilateral lymphadenectomy. *Cancer*, **91**, 2315–21.
+Bhosale PG, Pandey M, Desai RS, et al (2016). Low prevalence
+
+of transcriptionally active human papilloma virus in Indian
+patients with HNSCC and leukoplakia. *Oral Surg Oral Med*
+*Oral Pathol Oral Radiol*, **122**, 609-18.e7.
+Blas MM, Brown B, Menacho L, et al (2015). HPV prevalence
+
+in multiple anatomical sites among men who have sex with
+men in Peru. *PLoS One*, **10**, e0139524.
+Blomberg M, Nielsen A, Munk C, Kjaer SK (2011). Trends in
+
+head and neck cancer incidence in Denmark, 1978-2007:
+focus on human papillomavirus associated sites. *Int J*
+*Cancer*, **129**, 733–41.
+Bosch FX, Muñoz N, Sanjosé S de, et al (1992). Risk factors
+
+for cervical cancer in Colombia and Spain. *Int J Cancer*,
+**52**, 750–8.
+Bouvard V, Baan R, Straif K, et al (2009). WHO International
+
+Agency for Research on Cancer Monograph Working Group.
+A review of human carcinogens--Part B: biological agents.
+*Lancet Oncol*, **10**, 321–2.
+Chai RC, Lambie D, Verma M, Punyadeera C (2015). Current
+
+trends in the etiology and diagnosis of HPV-related head
+and neck cancers. *Cancer Med*, **4**, 596–607.
+Chalabiani S, Nazari MK, Shabani M, et al (2017). Retrospective
+
+analysis of prevalence of high-risk and low-risk human
+papillomavirus (HPV) genotypes in Iranian women during
+2013-2016. *Asian Pac J Cancer Biol*, **2**, 85–90.
+Chan KW, Lam KY, Chan AC, Lau P, Srivastava G (1994)
+
+Prevalence of human papillomavirus types 16 and 18 in
+
+
+*DOI: 10.31557/APJCP.2021.22.5.1351*
+*HPV DNA Prevalence in Male Specific Cancers*
+
+penile carcinoma: a study of 41 cases using PCR. *J Clin*
+*Pathol*, **47**, 823–6.
+Chaturvedi AK, Engels EA, Pfeiffer RM, et al (2011). Human
+
+papillomavirus and rising oropharyngeal cancer incidence
+in the United States. *J Clin Oncol*, **29**, 4294–4301.
+Chichareon S, Herrero R, Muñoz N, et al(1998). Risk factors
+
+for cervical cancer in Thailand: a Case-Control Study. *J Nat*
+*Cancer Instit*, **90**, 50–7.
+Christodoulidou M, Sahdev V, Houssein S, Muneer A (2015).
+
+Epidemiology of penile cancer. *Curr Probl Cancer*, **39**,
+126–36.
+
+Clifford GM, Smith JS, Aguado T, Franceschi S (2003).
+
+Comparison of HPV type distribution in high-grade cervical
+lesions and cervical cancer: a meta-analysis. *Br J Cancer*,
+**89**, 101–5.
+Coelho RWP, Pinho JD, Moreno JS, et al (2018). Penile cancer in
+
+Maranhão, Northeast Brazil: the highest incidence globally?.
+*BMC Urol*, **18**, 50.
+Cupp MR, Malek RS, Goellner JR, Smith TF, Espy MJ (1995).
+
+The detection of human papillomavirus deoxyribonucleic
+acid in intraepithelial, in situ, verrucous and invasive
+carcinoma of the penis. *J Urol*, **154**, 1024–9.
+Damásdi M, Jakab F, Kovács K, et al (2015). Prevalence and
+
+type diversity of human papillomaviruses in penile cancer
+in Hungary. *Eur Urol Suppl*, **14**, e1229.
+de Martel C, Ferlay J, Franceschi S, et al (2012). Global burden
+
+of cancers attributable to infections in 2008: a review and
+
+synthetic analysis. *Lancet Oncol*, **13**, 607–15.
+de Martel C, Georges D, Bray F, Ferlay J, Clifford GM (2019).
+
+Global burden of cancer attributable to infections in 2018: a
+
+worldwide incidence analysis. *Lancet Global Health*, https://
+doi.org/10.1016/S2214-109X(19)30488-7
+de Martel C, Plummer M, Vignat J, Franceschi S (2017).
+
+Worldwide burden of cancer attributable to HPV by site,
+country and HPV type. *Int J Cancer*, **141**, 664–70.
+Deng Z, Hasegawa M, Yamashita Y, et al (2012). Prognostic
+
+value of human papillomavirus and squamous cell carcinoma
+antigen in head and neck squamous cell carcinoma. *Cancer*
+*Sci*, **103**, 2127–34.
+Deshmukh AA, Suk R, Shiels, MS, et al (2019). Recent trends
+
+in squamous cell carcinoma of the anus incidence and
+mortality in the United States, 2001-2015. *J Natl Cancer*
+*Inst*, **112**, 829-38.
+Dhillon PK, Mathur P, Nandakumar A, et al (2018). The burden
+
+of cancers and their variations across the states of India: the
+
+Global Burden of Disease Study 1990–2016. *Lancet Oncol*,
+**19**, 1289–1306.
+Djajadiningrat RS, Jordanova ES, Kroon BK, et al (2015).
+
+Human papillomavirus prevalence in invasive penile cancer
+and association with clinical outcome. *J Urol*, **193**, 526–31.
+Do HTT, Koriyama C, Khan NA, et al (2013). The etiologic
+
+role of human papillomavirus in penile cancers: a study in
+Vietnam. *Br J Cancer*, **108**, 229–33.
+D’Souza G, Kreimer AR, Viscidi R, et al (2007). Case–Control
+
+Study of Human Papillomavirus and Oropharyngeal Cancer.
+*N Engl J Med*, **356**, 1944–56.
+Ecancer, n.d. FDA committee recommends Gardasil for anal
+
+cancer prevention - ecancer [WWW Document]. URL http://
+ecancer.org/en/news/1379-fda-committee-recommendsgardasil-for-anal-cancer-prevention (accessed 1.29.21).
+Elango KJ, Suresh A, Erode EM, et al (2011). Role of human
+
+papilloma virus in oral tongue squamous cell carcinoma.
+*Asian Pac J Cancer Prev*, **12**, 889–96.
+Favorito LA, Nardi AC, Ronalsa M, et al (2008). Epidemiologic
+
+study on penile cancer in Brazil. *Int Braz J Urol*, **34**, 587–91;
+discussion 591-3. .
+
+Fernández-Nestosa MJ, Guimerà N, Sanchez DF, et al (2017).
+
+*Asian Pacific Journal of Cancer Prevention, Vol 22* **1361**
+
+*Sasidharanpillai Sabeena et al*
+
+Human Papillomavirus (HPV) genotypes in condylomas,
+intraepithelial neoplasia, and invasive carcinoma of the penis
+using laser capture microdissection (LCM)-PCR: A Study of
+191 Lesions in 43 Patients. *Am J Surg Pathol*, **41**, 820–32.
+Flora SD, Maestra SL (2015). Epidemiology of cancers of
+
+infectious origin and prevention strategies. *J Prev Med*
+*Hygiene*, **56**, E15.
+Fonseca AG, da Soares FA, Burbano RR, Silvestre RV, Pinto
+
+LOAD (2013). Human Papilloma Virus: Prevalence,
+distribution and predictive value to lymphatic metastasis in
+penile carcinoma. *Int Braz J Urol*, **39**, 542–50.
+Gillison ML, Castellsagué X, Chaturvedi A, et al (2014). Eurogin
+
+Roadmap: comparative epidemiology of HPV infection and
+associated cancers of the head and neck and cervix. *Int J*
+
+*Cancer*, **134**, 497–507.
+Giuliano AR, Lazcano-Ponce E, Villa LL, et al (2008). The
+
+human papillomavirus infection in men study: Human
+Papillomavirus Prevalence and Type Distribution among
+Men Residing in Brazil, Mexico, and the United States.
+*Cancer Epidemiol Biomarkers Prev*, **17**, 2036–43.
+Glenn WK, Ngan CC, Amos TG, et al (2017). High risk human
+
+papilloma viruses (HPVs) are present in benign prostate
+tissues before development of HPV associated prostate
+cancer. *Infect Agent Cancer*, **12**, 2-10.
+Götz C, Bischof C, Wolff K-D, Kolk A (2019). Detection of HPV
+
+infection in head and neck cancers: Promise and pitfalls in
+the last ten years - a meta-analysis. *Mol Clin Oncol*, **10**,
+17–28.
+
+Haeggblom L, Ramqvist T, Tommasino M, Dalianis T,
+
+Näsman A (2017). Time to change perspectives on HPV
+in oropharyngeal cancer. A systematic review of HPV
+prevalence per oropharyngeal sub-site the last 3 years.
+*Papillomavirus Res*, **4**, 1–11.
+Hansen BT, Orumaa M, Lie AK, Brennhovd B, Nygård M
+
+(2018). Trends in incidence, mortality and survival of
+penile squamous cell carcinoma in Norway 1956-2015. *Int*
+*J Cancer*, **142**, 1586–93.
+Hassanipour S, Fathalipour M, Salehiniya H (2018). The
+
+incidence of prostate cancer in Iran: a systematic review and
+meta-analysis. *Prostate International*, **6**, 41–5.
+Hernandez BY, Goodman MT, Unger ER, et al (2014), HPV
+
+Typing of Cancer Workgroup (2014). Human papillomavirus
+genotype prevalence in invasive penile cancers from a
+registry-based United States population. *Front Oncol*, **4**, 9.
+Hong AM, Grulich AE, Jones D, et al (2010). Squamous cell
+
+carcinoma of the oropharynx in Australian males induced by
+human papillomavirus vaccine targets. Vaccine 28, 3269–72.
+https://doi.org/10.1016/j.vaccine.2010.02.098
+IARC Monographs on the Evaluation of Carcinogenic Risks
+
+to Humans – IARC, n.d. URL https://monographs.iarc.fr/
+iarc-monographs-on-the-evaluation-of-carcinogenic-risksto-humans-20/ (accessed 10.17.18).
+Iwasawa A, Kumamoto Y, Fujinaga K (1993). Detection of
+
+human papillomavirus deoxyribonucleic acid in penile
+carcinoma by polymerase chain reaction and in situ
+hybridization. *J Urol*, **149**, 59–63.
+Jiang R, Ekshyyan O, Moore-Medlin T, et al (2015). Association
+
+between human papilloma virus/Epstein-Barr virus
+coinfection and oral carcinogenesis. *J Oral Pathol Med*,
+**44**, 28–36.
+Kreimer AR, Clifford GM, Boyle P, Franceschi S (2005).
+
+Human papillomavirus types in head and neck squamous
+cell carcinomas worldwide: A Systematic Review. *Cancer*
+*Epidemiol Biomarkers Prev*, **14**, 467–75.
+Kulkarni Suyamindra S, Kulkarni Sujayendra S, Vastrad PP, et
+
+al (2011). Prevalence and distribution of high risk human
+papillomavirus (HPV) Types 16 and 18 in Carcinoma of
+
+**1362** *Asian Pacific Journal of Cancer Prevention, Vol 22*
+
+
+cervix, saliva of patients with oral squamous cell carcinoma
+and in the general population in Karnataka, India. *Asian Pac*
+*J Cancer Prev*, **12**, 645–8.
+Lebelo RL, Boulet G, Nkosi CM, et al (2014). Diversity of
+
+HPV types in cancerous and pre-cancerous penile lesions of
+South African men: implications for future HPV vaccination
+strategies. *J Med Virol*, **86**, 257–65.
+Lin Y, Mao Q, Zheng X, et al (2011). Human papillomavirus 16
+
+or 18 infection and prostate cancer risk: a meta-analysis. *Ir*
+*J Med Sci*, **180**, 497–503.
+Liu X, Lin H, Chen X, et al (2019). Prevalence and genotypes
+
+of anal human papillomavirus infection among HIV-positive
+vs. HIV-negative men in Taizhou, China. *Epidemiol Infect*,
+**147**, e117.
+Lohneis P, Boral S, Kaufmann AM, et al (2015). Human
+
+papilloma virus status of penile squamous cell carcinoma
+is associated with differences in tumour-infiltrating T
+lymphocytes. *Virchows Arch*, **466**, 323–31.
+Martel C de, Plummer M, Vignat J, Franceschi S (2017).
+
+Worldwide burden of cancer attributable to HPV by site,
+country and HPV type. *Int J Cancer*, **141**, 664-70.
+Martínez-Bailón C, Mantilla-Morales A, Méndez-Matías G, et
+
+al (2019). Human papillomavirus genotypes and P16INK4A
+expression in squamous penile carcinoma in Mexican
+patients. *BMC Infect Dis*, **19**, 1068.
+Martinez-Fierro ML, Leach RJ, Gomez-Guerra LS, et al
+
+(2010). Identification of viral infections in the prostate and
+evaluation of their association with cancer. *BMC Cancer*,
+**10**, 326.
+Martin-Gomez L, Giuliano AR, Fulp WJ, et al (2019). Human
+
+papillomavirus genotype detection in oral gargle samples
+among men with newly diagnosed oropharyngeal squamous
+cell carcinoma. *JAMA Otolaryngol Head Neck Surg*, **145**,
+460–6.
+
+Marur S, D’Souza G, Westra WH, Forastiere AA (2010).
+
+HPV-associated head and neck cancer: a virus-related cancer
+
+epidemic. *Lancet Oncol*, **11**, 781–9.
+McNicol PJ, Dodd JG (1990). Detection of papillomavirus DNA
+
+in human prostatic tissue by Southern blot analysis. *Can J*
+*Microbiol*, **36**, 359–62.
+Medel-Flores O, Valenzuela-Rodríguez VA, Ocadiz-Delgado R,
+
+et al (2018). Association between HPV infection and prostate
+cancer in a Mexican population. *Genet Mol Biol*, **41**, 781–9.
+Mehanna H, Beech T, Nicholson T, et al (2013). Prevalence
+
+of human papillomavirus in oropharyngeal and
+nonoropharyngeal head and neck cancer--systematic review
+and meta-analysis of trends by time and region. *Head Neck*,
+**35**, 747–55.
+Michopoulou V, Derdas SP, Symvoulakis E, et al (2014).
+
+Detection of human papillomavirus (HPV) DNA prevalence
+and p53 codon 72 (Arg72Pro) polymorphism in prostate
+cancer in a Greek group of patients. *Tumour Biol*, **35**,
+12765–73.
+
+Miralles-Guri C, Bruni L, Cubilla AL, et al (2009). Human
+
+papillomavirus prevalence and type distribution in penile
+carcinoma. *J Clin Pathol*, **62**, 870–8.
+Mirghani H, Bellera C, Delaye J, et al (2019). Prevalence and
+
+characteristics of HPV-driven oropharyngeal cancer in
+France. *Cancer Epidemiol*, **61**, 89–94.
+Mizumachi T, Kano S, Sakashita T, et al (2013). Improved survival
+
+of Japanese patients with human papillomavirus-positive
+oropharyngeal squamous cell carcinoma. *Int J Clin Oncol*,
+**18**, 824–28.
+Moghoofei M, Keshavarz M, Ghorbani S, et al (2019).
+
+Association between human papillomavirus infection
+and prostate cancer: A global systematic review and
+meta-analysis. *Asia Pac J Clin Oncol*, **15**, e59-e67.
+
+Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group
+
+(2009). Preferred Reporting Items for Systematic Reviews
+and Meta-Analyses: The PRISMA Statement. *PLoS Med*,
+**6**, e1000097.
+Mu Mu S, Hlaing MT, Khin SA, et al (2016). Determination
+
+of oncogenic human papillomavirus (HPV) genotypes in
+anogenital cancers in Myanmar. *Acta Med Okayama*, **70**,
+103–10.
+
+Näsman A, Attner P, Hammarstedt L, et al 2009). Incidence of
+
+human papillomavirus (HPV) positive tonsillar carcinoma
+in Stockholm, Sweden: an epidemic of viral-induced
+carcinoma?. *Int J Cancer*, **125**, 362–6.
+Olesen TB, Sand FL, Rasmussen CL, et al (2019). Prevalence of
+
+human papillomavirus DNA and p16INK4a in penile cancer
+and penile intraepithelial neoplasia: a systematic review and
+meta-analysis. *Lancet Oncol*, **20**, 145–58.
+Park WS, Ryu J, Cho KH, et al (2012). Human papillomavirus
+
+in oropharyngeal squamous cell carcinomas in Korea: use
+of G1 cycle markers as new prognosticators. *Head Neck*,
+**34**, 1408–17.
+Picconi MA, Eiján AM, Distéfano AL, et al (2000). Human
+
+papillomavirus (HPV) DNA in penile carcinomas in
+Argentina: analysis of primary tumors and lymph nodes. *J*
+*Med Virol*, **61**, 65–9.
+Piketty C, Selinger-Leneman H, Grabar S, et al (2008). Marked
+
+increase in the incidence of invasive anal cancer among
+HIV-infected patients despite treatment with combination
+antiretroviral therapy. *AIDS*, **22**, 1203–11.
+Plummer M, de Martel C, Vignat J, et al (2016). Global burden
+
+of cancers attributable to infections in 2012: a synthetic
+analysis. *Lancet Glob Health*, **4**, e609-16.
+Prostate Cancer - Statistics [WWW Document]. (2012).
+
+Cancer.Net. URL https://www.cancer.net/cancer-types/
+prostate-cancer/statistics (accessed 6.25.19).
+Pytynia KB, Dahlstrom KR, Sturgis EM (2014). Epidemiology
+
+of HPV-associated oropharyngeal cancer. *Oral Oncol*, **50**,
+380–6.
+
+Ramshankar V, Soundara VT, Shyamsundar V, Ramani P,
+
+Krishnamurthy A (2014). Risk stratification of early
+stage oral tongue cancers based on HPV status and p16
+immunoexpression. *Asian Pac J Cancer Prev*, **15**, 8351-9.
+Rodriguez MID, Morales CVI, Tovar ARA, et al (2016). Human
+
+Papilloma Virus Detection by INNOLiPA HPV in Prostate
+Tissue from Men of Northeast Mexico. *Asian Pac J Cancer*
+
+*Prev*, **17**, 4863–5.
+Sannigrahi MK, Singh V, Sharma R, et al (2016). Detection of
+
+active human papilloma virus-16 in head and neck cancers
+of Asian North Indian patients. *Oral Dis*, **22**, 62–8.
+Sarkar FH, Miles BJ, Plieth DH, Crissman JD (1992). Detection
+
+of human papillomavirus in squamous neoplasm of the penis.
+*J Urol*, **147**, 389–92.
+Sarkar FH, Sakr WA, Li YW, Sreepathi P, Crissman JD (1993).
+
+Detection of human papillomavirus (HPV) DNA in human
+prostatic tissues by polymerase chain reaction (PCR).
+*Prostate*, **22**, 171–80.
+Scheiner MA, Campos MM, Ornellas AA, et al (2008). Human
+
+papillomavirus and penile cancers in Rio de Janeiro, Brazil:
+HPV typing and clinical features. *Int Braz J Urol*, **34**,
+467–74; discussion 475-6.
+Schiffman M, Doorbar J, Wentzensen N, et al (2016).
+
+Carcinogenic human papillomavirus infection. *Nat Rev Dis*
+*Primers*, **2**, 1–20.
+Schoffer O, Neumann A, Stabenow R, et al (2019) Penile cancer
+
+  - Incidence, mortality, and survival in Saxony, Germany.
+*Urol Oncol*, **37**, 295.e1-295.e8.
+Scholefield JH, Kerr IB, Shepherd NA, et al (1991). Human
+
+papillomavirus type 16 DNA in anal cancers from six
+
+
+*DOI: 10.31557/APJCP.2021.22.5.1351*
+*HPV DNA Prevalence in Male Specific Cancers*
+
+different countries. *Gut*, **32**, 674–6.
+Senba M, Kumatori A, Fujita S, et al (2006). The prevalence
+
+of human papillomavirus genotypes in penile cancers from
+northern Thailand. *J Med Virol*, **78**, 1341–6.
+Senba M, Mori N, Wada A, et al (2010). Human papillomavirus
+
+genotypes in penile cancers from Japanese patients and HPVinduced NF-κB activation. *Oncol Lett*, **1**, 267–72.
+Shaikh MH, Khan AI, Sadat A, et al (2017). Prevalence and
+
+types of high-risk human papillomaviruses in head and
+neck cancers from Bangladesh. *BMC Cancer*, **17**, https://
+doi.org/10.1186/s12885-017-3789-0
+Shin A, Jung Y-S, Jung K-W, et al (2013). Trends of human
+
+papillomavirus-related head and neck cancers in Korea:
+National cancer registry data. *Laryngoscope*, **123**, E30–E7.
+Silverberg MJ, Lau B, Justice AC, et al (2012). Risk of anal
+
+cancer in HIV-infected and HIV-uninfected individuals in
+
+North America. *Clin Infect Dis*, **54**, 1026–34.
+Silvestre RVD, Leal MF, Demachki S, et al (2009). Low
+
+frequency of human papillomavirus detection in prostate
+tissue from individuals from Northern Brazil. *Mem Inst*
+
+*Oswaldo Cruz*, **104**, 665–7.
+Singh N, Hussain S, Kakkar N, et al (2015). Implication of high
+
+risk Human papillomavirus HR-HPV infection in prostate
+cancer in Indian population- A pioneering case-control
+analysis. *Sci Rep*, **5**, https://doi.org/10.1038/srep07822.
+Smith EM, Ritchie JM, Summersgill KF, et al (2004). Age, sexual
+
+behavior and human papillomavirus infection in oral cavity
+and oropharyngeal cancers. *Int J Cancer*, **108**, 766–72.
+Stein AP, Saha S, Kraninger JL, et al (2015). Prevalence
+
+of Human Papillomavirus in Oropharyngeal Cancer: A
+Systematic Review. *Cancer J*, **21**, 138–46.
+Steinau M, Unger ER, Hernandez BY, et al (2013). Human
+
+papillomavirus prevalence in invasive anal cancers in the
+United States before vaccine introduction. *J Low Genit Tract*
+
+*Dis*, **17**, 397–403.
+Steinestel J, Al Ghazal A, Arndt A, et al (2015). The role of
+
+histologic subtype, p16(INK4a) expression, and presence
+of human papillomavirus DNA in penile squamous cell
+carcinoma. *BMC Cancer*, **15**, 220.
+Strome SE, Savva A, Brissett AE, et al (2002). Squamous cell
+
+carcinoma of the tonsils: a molecular analysis of HPV
+associations. *Clin Cancer Res*, **8**, 1093–1100.
+Study Quality Assessment Tools | National Heart, Lung, and
+
+Blood Institute (NHLBI) [WWW Document], n.d. URL
+https://www.nhlbi.nih.gov/health-topics/study-qualityassessment-tools (accessed 3.13.20).
+Taitt HE (2018). Global trends and prostate cancer: A Review of
+
+Incidence, Detection, and Mortality as Influenced by Race,
+Ethnicity, and Geographic Location. *Am J Mens Health*,
+**12**, 1807–23.
+Tu H, Jacobs SC, Mergner WJ, Kyprianou N (1994). Rare
+
+incidence of human papillomavirus types 16 and 18 in
+primary and metastatic human prostate cancer. *Urology*,
+**44**, 726–31.
+van Aar F, Mooij SH, van der Sande MAB, et al (2013). Anal
+
+and penile high-risk human papillomavirus prevalence in
+HIV-negative and HIV-infected MSM. *AIDS*, **27**, 2921–31.
+WHO | Human papillomavirus (HPV) [WWW Document], n.d.
+
+URL https://www.who.int/immunization/diseases/hpv/en/
+(accessed 6.26.19).
+Wiener JS, Effert PJ, Humphrey PA, et al (1992). Prevalence
+
+of human papillomavirus types 16 and 18 in squamous-cell
+carcinoma of the penis: a retrospective analysis of primary
+and metastatic lesions by differential polymerase chain
+reaction. *Int J Cancer*, **50**, 694–701.
+Worldwide cancer data [WWW Document] (2018). World Cancer
+
+Research Fund. URL https://www.wcrf.org/dietandcancer/
+
+*Asian Pacific Journal of Cancer Prevention, Vol 22* **1363**
+
+*Sasidharanpillai Sabeena et al*
+
+cancer-trends/worldwide-cancer-data (accessed 12.2.19).
+Xu L, Dahlstrom KR, Lairson DR, Sturgis EM (2019). Projected
+
+oropharyngeal carcinoma incidence among middle-aged US
+men. *Head Neck*, **41**, 3226–34.
+Yin B, Liu W, Yu P, et al (2017). Association between human
+
+papillomavirus and prostate cancer: A meta-analysis. *Oncol*
+*Lett*, **14**, 1855–65.
+Yu Y-B, Wang Y-H, Yang X-C, et al (2019). The relationship
+
+between human papillomavirus and penile cancer over the
+past decade: a systematic review and meta-analysis. *Asian*
+*J Androl*, **21**, 375–80.
+
+This work is licensed under a Creative Commons Attribution
+Non Commercial 4.0 International License.
+
+**1364** *Asian Pacific Journal of Cancer Prevention, Vol 22*
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

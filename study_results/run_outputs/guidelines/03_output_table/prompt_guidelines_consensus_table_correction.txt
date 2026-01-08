@@ -1,0 +1,27 @@
+# Task
+You are given the following components:
+* Guideline - a comprehensive clinical guideline on penile cancer treatment.
+* Treatment Recommendation - a proposed approach or method for treating penile cancer.
+* Extracted Stance - a previously determined stance that classifies the guideline's position toward the recommendation. This stance is one of the following: Recommended, Different Recommendation, or Not Addressed. As well as a concise justification.
+* Correction Suggestions – an evaluative assessment of the guideline's position on the recommended treatment.
+
+Based on the suggestions on correction, formulate a corrected version of the guideline's stance on the recommended treatment.
+
+# Treatment Recommendation:
+RECOMMENDATION_TEXT
+
+
+# Extracted Stance
+GUIDELINE_SNIPPET_TEXT
+
+
+# Guideline (context):
+GUIDELINE_TEXT
+
+
+# Correction Suggestions
+SUGGESTION_TEXT
+
+
+# Formatting Instructions:
+Provide an updated classification code that can be one out of [R (Recommended); DR (Different Recommendation); NA (Not Addressed)] and an updated summary that justifies that classification referencing key elements from both the recommendation and the guideline.

@@ -1,0 +1,691 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ***International Journal of Dermatology***
+
+**REVIEW ARTICLE** **[OPEN ACCESS](https://doi.org/10.1111/ijd.17689)**
+# **Mohs Micrographic Surgery Versus Wide Local Excision in ** **the Treatment of Anogenital Squamous Cell Carcinoma: ** **A Systematic Review**
+
+Sujitha Yadlapati [1] | Priscilla M. Rosa-Nieves [2] | Kyle C. Lauck [3] | Stanislav N. Tolkachjov [[3,4,5,6]](mailto:)
+
+1 HCA Corpus Christi Medical Center- ­ Bay Area Dermatology Residency Program, McAllen, Texas, USA | 2 Centro Medico Episcopal San Lucas, Ponce,
+Puerto Rico | [3] Division of Dermatology, Baylor University Medical Center, Dallas, Texas, USA | [4] Epiphany Dermatology, Fort Worth, Texas, USA | [5] Texas
+A&M School of Medicine, Bryan, Texas, USA | [6] Department of Dermatology, University of Texas Southwestern Medical School, Dallas, Texas, USA
+
+**Correspondence:** [Stanislav N. Tolkachjov (stan.tolkachjov@gmail.com)](mailto:stan.tolkachjov@gmail.com)
+
+**Received:** 9 December 2024 | **Revised:** 25 January 2025 | **Accepted:** 31 January 2025
+
+**Funding:** The authors received no specific funding for this work.
+
+**Keywords:** anogenital squamous cell carcinoma | Mohs micrographic surgery | penile squamous cell carcinoma | verrucous carcinoma | vulvar squamous
+
+cell carcinoma | wide local excision
+
+
+**1   |   Introduction**
+
+Primary cutaneous squamous cell carcinoma (SCC) of the
+anogenital region is a locally aggressive malignancy that requires careful consideration of surgical margins for removal.
+The incidence of anogenital SCC in the United States varies
+by location, with vulvar SCC being the most common at an
+estimated 2–3 cases per 100,000 and penile SCC affecting approximately 2000 men each year [1]. In the anogenital region,
+
+
+SCC can present across a spectrum, ranging from squamous
+cell carcinoma in situ (SCCIS), invasive SCC, and the distinct
+histologic variant, verrucous carcinoma (VC) [2]. Anogenital
+SCC predominantly affects individuals over 50 years of age,
+with a slight female preponderance, primarily attributed to
+a higher incidence of vulvar SCC [2]. Genital SCC can present clinically as erythematous plaques, warty and exophytic
+lesions, or flat ulcerated tumors [3]. Key risk factors include
+human papillomavirus infection, immunosuppression,
+
+
+[This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium, provided the original](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+
+© 2025 The Author(s). *International Journal of Dermatology* published by Wiley Periodicals LLC on behalf of the International Society of Dermatology.
+
+1042 *International Journal of Dermatology,* 2025; 64:1042–1048
+[https://doi.org/10.1111/ijd.17689](https://doi.org/10.1111/ijd.17689)
+
+smoking, and lichen sclerosis, particularly for vulvar lesions.
+Other contributing factors have been identified, such as lack
+of circumcision, poor genital hygiene, ultraviolet radiation
+exposure, sexually transmitted infections, and advanced
+age [2, 4, 5]. Due to its location and variable clinical presentation, genital SCC can easily be misdiagnosed, delaying diagnosis and treatment. Although anogenital SCC is a locally
+aggressive tumor, regional and distant metastases have been
+reported [6]. The National Comprehensive Cancer Network
+(NCCN) guidelines recommend wide local excision (WLE) as
+the preferred approach for early- ­stage vulvar SCC and radical
+vulvectomy for larger or more advanced tumors [7]. For early- ­
+stage penile SCC, options include WLE, Mohs micrographic
+surgery (MMS), glansectomy, or partial penectomy, with
+more advanced cases needing a total penectomy [8]. Topical
+chemotherapy and radiation are recommended for the treatment of perianal SCC [9]. Although WLE is more frequently
+utilized for SCC of the vulva and penis, it is associated with
+local recurrence rates ranging from 18.7% to 46.2% for vulvar
+SCC, 26% to 32% for penile SCC, and 19% to 75% for VC [8, 10].
+Recurrence rates for MMS in the genital area have been reported to range from as low as 0.8% to 10.5%, with higher rates
+observed in certain high- ­risk cases or studies with limited follow- ­up [11, 12] Because MMS allows for 100% histologic margin evaluation while preserving healthy tissue, it might offer
+a treatment advantage over WLE [13]. This study systematically reviews surgical modalities for treating anogenital SCC,
+specifically MMS and WLE, including vulvectomy. We aim
+to outline treatment recommendations based on recurrence
+
+rates in cases treated with both surgical methods.
+
+**2   |   Materials and Methods**
+
+**2.1   |   Search Strategy**
+
+This review was designed and executed according to the
+Preferred Reporting Items for Systematic Reviews and Meta- ­
+Analyses (PRISMA) guidelines. An extensive literature search
+was conducted using databases MEDLINE (via PubMed),
+Scopus, Embase, and Cochrane. We identified eligible articles
+from database inception to September 1, 2024, and included
+articles from January 1, 1939, to March 4, 2024. The search
+terms were expanded to ensure inclusivity and to capture relevant studies potentially missed in the initial search. The final
+search strategy included combinations of keywords across
+several categories. Anatomical terms included “anogenital,”
+“genital,” “vulvar,” “penile,” “scrotal,” “perianal,” and “labia”.
+Tumor types were limited to “Invasive squamous cell carcinoma”, “squamous cell carcinoma in situ,” and “verrucous
+carcinoma” Treatment modalities included “Mohs surgery,”
+“Mohs micrographic surgery,” “wide local excision,” “vulvectomy” and “local excision.” Outcome- ­related terms included
+“recurrence,” “local recurrence,” “regional metastasis,” “distant metastasis,” “patient- ­reported outcomes,” and “margin
+assessment.” Boolean operators (AND, OR) were used to
+combine these terms for a comprehensive search systematically. Only articles written in English were included. There
+were no limitations on article type. After the selection process, reference lists of relevant articles were reviewed to identify additional studies. The review protocol is registered with
+
+
+[PROSPERO (CRD42024606921), https:// ​www. ​crd. ​york. ​ac. ​uk/ ​](https://www.crd.york.ac.uk/prospero/)
+
+.
+[prosp ​ero/ ​](https://www.crd.york.ac.uk/prospero/)
+
+**2.2   |   Study Eligibility, Selection Criteria,**
+**and Screening**
+
+After eliminating duplicates, two authors independently reviewed the titles and abstracts of each article to identify those
+that satisfied the inclusion criteria. Disagreements were resolved
+through discussion with a third author. All studies reporting
+one or more cases of anogenital SCC treated with MMS or WLE
+(including vulvectomy) were included. The following studies
+were excluded: those reporting any type of primary treatment
+modality other than MMS or WLE, studies that failed to assess
+recurrence, studies including pediatric population, patients presenting first with metastatic disease before surgery, cases where
+adjuvant or neoadjuvant therapy was used in addition to surgery, and cases where tumor was not completely resected or resected with a positive margin. In addition, articles from National
+Databases and other systematic reviews were excluded to avoid
+data duplication.
+
+**2.3   |   Data Extraction and Statistical Analysis**
+
+The following variables were gathered as available: age, sex,
+tumor location (vulvar, scrotal, penile or perianal), method
+of tumor excision (WLE or MMS), size of the tumor, subtype of SCC (SCCIS, conventional SCC, VC), American Joint
+Committee on Cancer (AJCC) staging, number of layers required to achieve tumor- ­free margins for MMS cases, margin
+size for WLE cases, average follow- ­up time, and recurrence
+rate (local, regional, or distant). Local recurrence refers to the
+reappearance of the tumor at the site of the surgical scar following treatment with MMS or WLE. Regional recurrence is
+defined as metastases confined to regional lymph nodes following the primary treatment with MMS or WLE. Metastases
+to distant organs or non- ­regional lymph nodes characterize
+distant recurrence. Statistical analysis was performed using
+IBM SPSS version 25 (IBM, Armonk, NY).
+
+**3   |   Results**
+
+**3.1   |   Systematic Search Results**
+
+A total of 70 articles were included (Figure 1). The total number
+of patients was 1271, and the majority were treated with WLE
+( *n* = 911, 71.7%) [14–60]. Patients with MMS [3, 4, 10–13, 45, 61–
+77] made up 28.3% of the study sample ( *n* = 360, 28.3%). Most of
+the articles were retrospective cohort studies (54.3%), followed
+by case reports (35.7%) and case series (10%). A summary of the
+studies is included in Table S1.
+
+**3.2   |   Tumor and Patient Characteristics**
+
+The mean age of the cohort was 57 years. Gender distribution
+was approximately 1:1, with a slight preponderance in males
+(51.1%). Caucasians were the most commonly affected racial
+
+1043
+
+**FIGURE 1** |    Study selection flow diagram.
+
+group overall. Among females, the majority of tumors were
+located on the vulva ( *n* = 508, 86.1%). For males, the penis was
+the most commonly affected site ( *n* = 503, 81.6%), followed by
+the perianal region ( *n* = 9.4%) and the scrotum ( *n* = 55, 8.9%).
+The average tumor size of the entire cohort was 3.2 cm, and the
+average time to diagnosis was 26 months. The majority of the
+patients had invasive SCC (50.5%), followed by SCCIS/Bowen's
+(45.6%) and VC (3.9%). AJCC staging was only available in 8.6%
+of articles.
+
+**3.3   |   Wide Local Excision**
+
+A total of 911 patients were treated with WLE, including vulvectomy. Anatomical location was reported in all patients, with
+49.0% of SCCs occurring in the vulvar region and 37.3% involving the penis. The average tumor size was 4.18 cm, and the average time to diagnosis was 24.6 months. The local recurrence rate
+was 17.7% ( *n* = 161/911), the regional recurrence rate was 5.1%
+(18/350), and the distant recurrence rate was 6.0% (14/235). The
+mean follow- ­up time was 39 months.
+
+**3.4   |   Mohs Micrographic Surgery**
+
+A total of 360 patients were treated with MMS. Anatomical
+location was reported in all patients, with the most common
+area being the penis (72.2%), followed by the vulva (17.7%). The
+average tumor size was 2.4 cm, a lower mean size compared
+to patients who underwent WLE with statistical significance
+( *p* = 0.021), and the average time to diagnosis was 32 months.
+
+
+Mean number of stages needed to achieve tumor clearance was
+2.7. The average follow- ­up time was 30 months. The local, regional, and distant recurrences were 5.0% (18/360), 3.8% (9/237),
+and 4.3% (10/233), respectively. Patients treated with WLE were
+more likely to have a local recurrence than patients treated with
+MMS (OR: 4.075, 95% CI: 2.5–6.9, *p* < 0.0001). However, no differences were noted regarding regional recurrence (OR: 1.373,
+95% CI: 0.6–3.2, *p* = 0.444) and distant recurrence (OR: 1.405,
+95% CI: 0.6–3.3, *p* = 0.420).
+
+**3.5   |   WLE Versus MMS for Vulvar Squamous Cell**
+**Carcinoma**
+
+A subgroup analysis was conducted for vulvar tumors treated
+with WLE versus MMS, involving a total of 508 patients. Four
+hundred and forty- ­four patients were treated with WLE and
+sixty- ­four with MMS. The mean age for the WLE group was
+61 years, and 59 years for the MMS group. Tumor size was similar to the WLE and MMS group, averaging 2.8 cm. Local recurrence was observed in 16.7% (74/444) of cases in the WLE group
+versus 4.6% (3/65) in the MMS group, which was statistically
+significant (OR: 4.126, 95% CI: 1.4–13.0, *p* = 0.011). Regional recurrence was reported in 4.9% (14/285) of WLE cases and 4.5%
+(2/44) of MMS cases (OR: 1.081, 95% CI: 0.2–4.9, *p* = 0.29), and
+distant metastases occurred in 5.6% (11/198) of WLE cases and
+2.4% (1/41) of MMS cases (OR: 2.347, 95% CI: 0.3–18.7, *p* = 0.79).
+These findings suggest that MMS is associated with a lower
+local recurrence rate compared to WLE, while there were no
+significant differences in regional or distant recurrence rates
+between the two groups.
+
+
+1044 *International Journal of Dermatology,* 2025
+
+**3.6   |   WLE Versus MMS for Penile Squamous Cell**
+**Carcinoma**
+
+A subgroup analysis was conducted for penile tumors treated
+with WLE versus MMS, involving a total of 503 patients; 243
+cases were treated with WLE and 260 with MMS. The mean age
+for the WLE group was 61 years compared to 53 years for the
+MMS group. Local recurrence was observed in 16.8% (41/243)
+of cases in the WLE group versus 5.4% (14/260) in the MMS
+group, which was statistically significant (OR: 3.54, 95% CI:
+1.9–6.7, *p* = 0.0001). Regional recurrence was reported in 3.5%
+(1/29) of WLE cases and 4% (7/175) of MMS cases (OR: 0.86, 95%
+CI: 0.1–7.2, *p* = 0.65), and distant metastases occurred in 4.7%
+(9/192) of MMS cases and were not reported in WLE cases that
+were included in our study. MMS is associated with a lower local
+recurrence rate compared to WLE, while there were no significant differences in regional recurrence rates between the two
+
+groups.
+
+**4   |   Discussion**
+
+This study evaluates two common surgical approaches for
+treating anogenital SCC. Although WLE is a widely employed
+treatment for various skin cancers, its use in the anogenital
+area can adversely impact the quality of life due to the potential
+for extensive tissue removal, scarring, and sexual dysfunction
+
+[5, 15]. WLE is commonly paired with vulvectomy, particularly for larger tumors or multifocal vulvar SCC, with recommended 0.8–1 cm margins to reduce recurrence [4]. Similarly,
+a 1 cm margin is often suggested for penile SCC [12, 14]. MMS
+is more suitable for this location due to its complete assessment
+of deep and peripheral margins and tissue- ­sparing capabilities
+
+[4]. Although MMS is a well- ­established approach for the management of cutaneous SCCs, the literature on its use in the anogenital region remains limited, with promising results reported
+mainly for treating penile SCCs [4]. While our study included
+a larger sample of 911 cases for WLE, the available literature
+on MMS for anogenital SCC was limited, comprising only 360
+cases. Limited MMS cases make it challenging to compare the
+efficacy of these two surgical approaches reliably. In our analysis, a higher proportion of patients who underwent WLE experienced local recurrence; however, no statistically significant
+difference was found between regional, distant recurrences
+compared to those treated with MMS; additionally, the WLE
+group, on average, presented with larger tumors. The average
+number of stages needed to achieve negative histologic margins
+in the MMS group was 2.7. The need for two or more stages to
+achieve negative margins may be a result of smaller margins at
+each stage due to unique anatomical considerations in the anogenital region.
+
+Most tumors in our analysis were not staged. Among studies
+that reported staging, the most prevalent stage, according to the
+AJCC staging system for cutaneous SCC, was Stage II, T2 N0.
+Due to their hidden nature, anogenital SCCs are more likely to
+present at later stages. VC is a subtype of SCC characterized by
+low metastatic potential but is locally aggressive. There were 41
+cases of VC included in our analysis, of which 31 were treated
+with WLE and 10 with MMS. Comparative analysis demonstrated similar local recurrence rates between the two groups.
+
+
+However, the small sample size makes it difficult to draw reliable comparisons. No evidence of regional or distant metastases
+was noted in either group. Recurrence rates ranging from 16%
+for MMS to 19–75% for WLE have been reported for verrucous
+carcinoma in previous literature [13].
+
+A subgroup analysis was conducted for vulvar and penile SCCs,
+as these comprised the majority of anogenital SCCs. There
+were 508 cases of vulvar SCC, 444 of which were treated with
+
+WLE and 64 with MMS. Patients treated with WLE were more
+
+likely to experience local recurrence, which was statistically
+significant. The difference was not statistically significant despite slightly increasing regional and distant recurrences in the
+WLE group. In a subgroup analysis of penile tumors, 503 patients were included; 243 patients were treated with WLE and
+260 with MMS. A statistically significant difference was found
+between the WLE and MMS groups for the local recurrence rate,
+but no difference was found for the regional recurrence rate.
+
+Our study found a statistically significant difference in local recurrence rates between the two approaches; however, no statistical difference was observed in regional and distant recurrence
+rates. MMS offers a key advantage in providing 100% histologic
+margin assessment, in contrast to the 1% with WLE [11, 13].
+Complete margin evaluation allows MMS to integrate reconstruction as part of the same surgery, reducing the need for multiple procedures. This benefit is particularly crucial in complex
+cases requiring extensive flaps or intricate reconstruction to
+maintain function in the anogenital region. MMS can decrease
+scarring, especially in the vulvar and penile areas [4, 12].
+
+Study limitations include variability among studies included,
+differences in follow- ­up durations, and tumor characteristics
+between the two groups. Additionally, several factors may affect overall survival in anogenital SCC, including age, primary
+tumor size, and comorbidities; our study did not examine survival outcomes. MMS's complete margin control, lower recurrence rates, and tissue- ­sparing nature result in better functional
+and cosmetic outcomes, enhancing the patient's quality of life
+
+[4–6]. While continued research is needed to elucidate the
+benefits of MMS in this context, the existing evidence strongly
+supports its consideration as a primary treatment option. Both
+Boettler et al. and Machan et al. demonstrate the superiority of
+MMS in VC and penile SCC, and their margin assessment and
+tissue preservation principles apply to other anogenital malignancies [4, 11]. The findings of this study reinforce the AAD/
+ACMS/ASDSA/ASMS 2012 appropriate use criteria for treating
+anogenital SCC with MMS [78].
+
+**5   |   Conclusion**
+
+The role of MMS in managing anogenital SCC is becoming increasingly recognized. Our study demonstrates that MMS may
+lead to a lower local recurrence rate when compared to WLE.
+Therefore, it should be considered a viable option that can achieve
+superior outcomes with more precise tissue loss and possibly improved quality of life. Among the limitations of this study are varying follow- ­up lengths, heterogeneity among the included studies,
+and differences between the two cohorts on tumor characteristics. Additionally, our analysis did not address disease- ­specific
+
+1045
+
+survival, underscoring the need for long- ­term follow- ­ups and additional research. Despite these limitations, our findings reinforce
+the growing consensus that MMS is an appropriate treatment option for anogenital SCC, aligning with earlier studies demonstrating favorable outcomes in similar patient populations [11, 77].
+While our review includes articles from multiple databases, more
+studies examining MMS for treating anogenital SCC are needed to
+strengthen the available comparative data.
+
+**Conflicts of Interest**
+
+Dr. Tolkachjov is a speaker/investigator for CASTLE Biosciences,
+Kerecis, and Boehringer Ingelheim, which is unrelated to this study.
+The other authors have no conflicts of interest to disclose.
+
+**References**
+
+1. M. H. Oonk, H. Hollema, and A. G. van der Zee, “Sentinel Node Biopsy in Vulvar Cancer: Implications for Staging,” *Best Practice & Re-*
+*search. Clinical Obstetrics & Gynaecology* 29, no. 6 (2015): 812–821.
+
+2. S. K. Tyring, “Vulvar Squamous Cell Carcinoma: Guidelines for Early
+Diagnosis and Treatment,” *American Journal of Obstetrics and Gynecol-*
+*ogy* 189, no. 3 (2003): S17–S23.
+
+3. M. D. Brown, C. B. Zachary, R. C. Grekin, and N. A. Swanson, “Penile
+Tumors: Their Management by Mohs Micrographic Surgery,” *Journal of*
+*Dermatologic Surgery and Oncology* 13, no. 11 (1987): 1163–1167.
+
+4. M. Machan, D. Brodland, and J. Zitelli, “Penile Squamous Cell Carcinoma: Penis- ­Preserving Treatment With Mohs Micrographic Surgery,”
+*Dermatologic Surgery* 42, no. 8 (2016): 936–944.
+
+5. J. J. Spekreijse, B. M. M. Streng, R. F. M. Vermeulen, F. O. Voss, H.
+Vermaat, and M. van Beurden, “The Risk of Developing Squamous Cell
+Carcinoma in Patients With Anogenital Lichen Sclerosis: A Systematic
+Review,” *Gynecologic Oncology* 157, no. 3 (2020): 671–677.
+
+6. Z. Kutlubay, B. Engin, T. Zara, and Y. Tüzün, “Anogenital Malignancies and Premalignancies: Facts and Controversies,” *Clinics in Derma-*
+*tology* 31, no. 4 (2013): 362–373.
+
+7. NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines),
+“Vulvar Cancer,” 2024.
+
+8. NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines),
+“Penile Cancer. Version 1.2024,” 2024.
+
+9. NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines),
+“Anal Cancer. Version.1.2024,” 2024.
+
+10. N. J. Golda and R. G. Wheeland, “Vulvar Squamous Cell Carcinoma
+Treated Using the Mohs Technique: Case and Assessment of Treatment
+Strategies,” *Dermatologic Surgery* 35, no. 8 (2009): 1294–1297.
+
+11. T. M. Lukowiak, A. M. Perz, L. Aizman, et al., “Mohs Micrographic
+Surgery for Male Genital Tumors: Local Recurrence Rates and Patient- ­
+Reported Outcomes,” *Journal of the American Academy of Dermatology*
+84, no. 4 (2021): 1030–1036.
+
+12. A. W. Shindel, M. W. Mann, R. Y. Lev, et al., “Mohs Micrographic
+Surgery for Penile Cancer: Management and Long- ­Term Follow Up,”
+*Journal of Urology* 178, no. 5 (2007): 1980–1985.
+
+13. F. E. Mohs, S. N. Snow, E. M. Messing, and M. E. Kuglitsch, “Microscopically Controlled Surgery in the Treatment of Carcinoma of the
+Penis,” *Journal of Urology* 133, no. 6 (1985): 961–966.
+
+14. P. M. Vickers, R. J. Jackmun, and J. R. McDonald, “Anal Carcinoma
+In Situ: Report of Three Cases,” *Southern Surgeon* 8 (1939): 503–507.
+
+15. S. M. Groenen, P. J. Timmers, and C. W. Burger, “Recurrence Rate
+in Vulvar Carcinoma in Relation to Pathological Margin Distance,” *In-*
+*ternational Journal of Gynecological Cancer* 20, no. 5 (2010): 869–873.
+
+
+16. M. C. Igbokwe, T. A. Badmus, A. A. Salako, et al., “Scrotal Squamous Cell Carcinoma and Associated Blindness: A Case Report and
+Literature Review,” *Journal of the West African College of Surgeons* 8,
+no. 3 (2018): 106–113.
+
+17. J. M. Woolderink, G. H. de Bock, J. A. de Hullu, M. J. Davy, A. G. J.
+van der Zee, and M. J. E. Mourits, “Patterns and Frequency of Recurrences of Squamous Cell Carcinoma of the Vulva,” *Gynecologic Oncol-*
+*ogy* 103, no. 1 (2006): 293–299.
+
+18. S. Gilbey, D. H. Moore, K. Y. Look, and G. P. Sutton, “Vulvar Keratoacanthoma,” *Obstetrics and Gynecology* 89 (1997): 848–850.
+
+19. H. D. Wolcott and D. G. Gallup, “Wide Local Excision in the Treatment of Vulvar Carcinoma In Situ: A Reappraisal,” *American Journal of*
+*Obstetrics and Gynecology* 150, no. 6 (1984): 695–698.
+
+20. V. Visweswaran, H. Jayamohanan, A. Rajanbabu, and K. Pavithran,
+“Vulvar Carcinoma in Fanconi Anaemia: A Case Report With Review
+of Literature,” *Gynecologic Oncology Reports* 37 (2021): 100841.
+
+21. T. F. Su, H. S. Lee, H. W. Gao, S. Nieh, and C. K. Lin, “Squamous Cell
+Carcinoma Arising From Massive Localized Lymphedema of Scrotum
+Mimicking Scrotal Smooth Muscle Hamartoma of Dartos: A Case Report,” *American Journal of Dermatopathology* 37, no. 7 (2015): 551–554.
+
+22. R. J. Strauss and V. W. Fazio, “Bowen's Disease of the Anal and Perianal Area. A Report and Analysis of Twelve Cases,” *American Journal*
+*of Surgery* 137, no. 2 (1979): 231–234.
+
+23. J. M. Sarmiento, B. G. Wolff, L. J. Burgart, F. A. Frizelle, and D. M.
+Ilstrup, “Perianal Bowen's Disease: Associated Tumors, Human Papillomavirus, Surgery, and Other Controversies,” *Diseases of the Colon and*
+*Rectum* 40 (1997): 912–918.
+
+24. I. Salazar- ­Báez, J. E. Salazar- ­Campos, A. López- ­Arias, et al.,
+“Manejo Quirúrgico Inicial del Carcinoma Epidermoide Vulvar. [Initial
+Surgical Management of Squamous Carcinoma of the Vulva],” *Gaceta*
+*Médica de México* 152 (2016): 297–303.
+
+25. L. D. Roman, M. F. Mitchell, T. W. Burke, and E. G. Silva, “Unsuspected Invasive Squamous Cell Carcinoma of the Vulva in Young
+Women,” *Gynecologic Oncology* 41, no. 2 (1991): 182–185.
+
+26. R. Ramos, H. Salinas, and L. Tucker, “Conservative Approach to the
+Treatment of Bowen's Disease of the Anus,” *Diseases of the Colon and*
+*Rectum* 26, no. 11 (1983): 712–715.
+
+27. B. T. Parys and J. L. Hutton, “Fifteen- ­Year Experience of Carcinoma
+of the Scrotum,” *British Journal of Urology* 68, no. 4 (1991): 414–417.
+
+28. A. Omry, R. Zarg El Ayoun, H. Behi, A. Changuel, K. Tlili, and M.
+B. Khalifa, “Surgical Perspective on Perianal Bowen's Disease: A Rare
+Case Report,” *International Journal of Surgery Case Reports* 117 (2024):
+
+109459.
+
+29. J. Mishra, A. Panida, and A. K. Padhy, “Squamous Cell Carcinoma
+of the Vulva: A Case Report,” *Clinical Cancer Investigation Journal* 9,
+no. 5 (2020): 210–221.
+
+30. W. S. McDougal, “Phallic Preserving Surgery in Patients With Invasive Squamous Cell Carcinoma of the Penis,” *Journal of Urology* 174, no.
+6 (2005): 2218–2220.
+
+31. D. J. T. McArdle, J. P. McArdle, F. Lee, et al., “Rare Inverted Verrucous Carcinoma (Carcinoma Cuniculatum) of the Sacrogluteal Region:
+Case Report and Literature Review,” *International Journal of Surgical*
+*Pathology* 25, no. 5 (2017): 438–442.
+
+32. J. A. Margenthaler, D. W. Dietz, M. G. Mutch, E. H. Birnbaum, I. J.
+Kodner, and J. W. Fleshman, “Outcomes, Risk of Other Malignancies,
+and Need for Formal Mapping Procedures in Patients With Perianal
+Bowen's Disease,” *Diseases of the Colon and Rectum* 47, no. 10 (2004):
+
+1655–1661.
+
+33. P. Marchesa, V. W. Fazio, S. Oliart, J. R. Goldblum, and I. C. Lavery,
+“Perianal Bowen's Disease: A Clinicopathologic Study of 47 Patients,”
+*Diseases of the Colon and Rectum* 40, no. 11 (1997): 1286–1293.
+
+
+1046 *International Journal of Dermatology,* 2025
+
+34. W. E. Longo, G. H. Ballantyne, W. L. Gerald, and I. M. Modlin,
+“Squamous Cell Carcinoma in Situ in Condyloma Acuminatum,” *Dis-*
+*eases of the Colon and Rectum* 29, no. 8 (1986): 503–506.
+
+35. J. J. Kohorst, K. K. Shah, C. L. Hallemeier, C. L. Baum, and M. D. P.
+Davis, “Squamous Cell Carcinoma in Perineal, Perianal, and Gluteal
+Hidradenitis Suppurativa: Experience in 12 Patients,” *Dermatologic*
+*Surgery* 45, no. 4 (2019): 519–526.
+
+36. J. L. Kelley, 3rd, T. W. Burke, C. Tornos, et al., “Minimally Invasive
+Vulvar Carcinoma: An Indication for Conservative Surgical Therapy,”
+*Gynecologic Oncology* 44, no. 3 (1992): 240–244.
+
+37. S. Fundarò, A. Spallanzani, E. Ricchi, et al., “Squamous- ­Cell Carcinoma Developing Within Anal Lichen Planus: Report of a Case,” *Dis-*
+*eases of the Colon and Rectum* 41, no. 1 (1998): 111–114.
+
+38. C. Eliachevsky, E. Templeton, and A. K. Nanda, “Perianal Squamous Cell Carcinoma: A Case Report,” *International Journal of Surgery*
+*Case Reports* 81 (2021): 105739.
+
+39. D. E. Beck, V. W. Fazio, D. G. Jagelman, and I. C. Lavery, “Perianal Bowen's Disease,” *Diseases of the Colon and Rectum* 31, no. 6 (1988): 419–422.
+
+40. P. E. Andrews, G. M. Farrow, and J. E. Oesterling, “Squamous Cell
+Carcinoma of the Scrotum: Long- ­Term Follow Up of 14 Patients,” *Jour-*
+*nal of Urology* 146, no. 5 (1991): 1299–1304.
+
+41. D. Grimm, K. Prieske, S. Mathey, et al., “Superficially Invasive Stage
+IA Vulvar Squamous Cell Carcinoma- ­Therapy and Prognosis,” *Interna-*
+*tional Journal of Gynecological Cancer* 29, no. 3 (2019): 466–473.
+
+42. S. R. Brown, P. Skinner, J. Tidy, J. H. Smith, F. Sharp, and K. B. Hosie,
+“Outcome After Surgical Resection for High- ­Grade Anal Intraepithelial
+Neoplasia (Bowen's Disease),” *British Journal of Surgery* 86, no. 8 (1999):
+
+1063–1066.
+
+43. E. S. Andersen and I. M. Sorensen, “Verrucous Carcinoma of the
+Female Genital Tract: Report of a Case and Review of the Literature,”
+*Gynecologic Oncology* 30, no. 3 (1988): 427–434.
+
+44. N. K. Bissada, H. H. Yakout, W. E. Fahmy, et al., “Multi- ­Institutional
+Long- ­Term Experience With Conservative Surgery for Invasive Penile
+Carcinoma,” *Journal of Urology* 169, no. 2 (2003): 500–502.
+
+45. P. Weber, H. Rabinovitz, and L. Garland, “Verrucous Carcinoma in
+Penile Lichen Sclerosus et Atrophicus,” *Journal of Dermatologic Surgery*
+*and Oncology* 13 (1987): 529–532.
+
+46. J. A. Scoma and E. I. Levy, “Bowen's Disease of the Anus: Report of
+Two Cases,” *Diseases of the Colon and Rectum* 18, no. 2 (1975): 137–140.
+
+47. R. W. Jones and M. R. McLean, “Carcinoma In Situ of the Vulva: A
+Review of 31 Treated and Five Untreated Cases,” *Obstetrics and Gyne-*
+*cology* 68, no. 4 (1986): 499–503.
+
+48. K. H. Huen, P. Nourparvar, J. J. Decaro, M. D. Walsh, M. M. Issa, and
+C. W. Ritenour, “Scrotal Abscess as Initial Presentation of Squamous
+Cell Carcinoma,” *Case Reports in Urology* 2013 (2013): 807346.
+
+49. G. Liu, Q. Li, X. Shang, et al., “Verrucous Carcinoma of the Vulva:
+A 20 Year Retrospective Study and Literature Review,” *Journal of Lower*
+*Genital Tract Disease* 20, no. 1 (2016): 114–118.
+
+50. H. Japaze, T. van Dinh, and J. D. Woodruff, “Verrucous Carcinoma
+of the Vulva: Study of 24 Cases,” *Obstetrics and Gynecology* 60, no. 4
+(1982): 462–466.
+
+51. L. Grodsky, “Bowen's Disease of the Anal Region: Squamous Cell
+Carcinoma In Situ; Report of Three Cases,” *American Journal of Sur-*
+*gery* 88, no. 5 (1954): 710–714.
+
+52. I. Boutas, C. Sofoudis, E. Kalampokas, C. Anastasopoulos, T. Kalampokas, and N. Salakos, “Verrucous Carcinoma of the Vulva: A Case
+Report,” *Case Reports in Obstetrics and Gynecology* 2013 (2013): 932712.
+
+53. J. Chipollini, S. Yan, S. R. Ottenhof, et al., “Surgical Management of Penile Carcinoma In Situ: Results From an International Collaborative Study
+and Review of the Literature,” *BJU International* 121, no. 3 (2018): 393–398.
+
+
+54. M. Lucky, K. V. Murthy, B. Rogers, et al., “The Treatment of Penile
+Carcinoma In Situ (CIS) Within a UK Supra- ­Regional Network,” *BJU*
+*International* 115, no. 4 (2015): 595–598.
+
+55. P. Pietrzak, C. Corbishley, and N. Watkin, “Organ- ­Sparing Surgery
+for Invasive Penile Cancer: Early Follow- ­Up Data,” *BJU International*
+94, no. 9 (2004): 1253–1257.
+
+56. P. Philippou, M. Shabbir, P. Malone, et al., “Conservative Surgery for
+Squamous Cell Carcinoma of the Penis: Resection Margins and Long- ­
+Term Oncological Control,” *Journal of Urology* 188, no. 3 (2012): 803–808.
+
+57. R. M. Rhatigan and R. C. Nuss, “Keratoacanthoma of the Vulva,”
+*Gynecologic Oncology* 21, no. 1 (1985): 118–123.
+
+58. S. H. Quan, “Anal and para- ­anal tumors,” *Surgical Clinics of North*
+*America* 58, no. 16 (1978): 591–603.
+
+59. C. Iavazzo, S. Fotiou, N. Salakos, K. Bakalianou, and A. Kondi- ­
+Pafiti, “HPV- ­Related Verrucous Carcinoma of the Vulva. A Case Report
+and Literature Review,” *European Journal of Gynaecological Oncology*
+32, no. 6 (2011): 680–681.
+
+60. T. Demkow, “The Treatment of Penile Carcinoma: Experience in 64
+Cases,” *International Urology and Nephrology* 31 (1999): 525–531.
+
+61. R. J. Siegle, J. T. Headington, and N. A. Swanson, “Early Invasive
+Carcinoma of the Vulva Treated With the Mohs Technique of Microscopically Controlled Surgery,” *American Journal of Obstetrics and Gy-*
+*necology* 147, no. 4 (1983): 459–461.
+
+62. E. Marchionne, C. Perez, A. Hui, A. Khachemoune, University of
+Nevada, USA, and State University of New York, USA, “Penile Squamous Cell Carcinoma: A Review of the Literature and Case Report
+Treated With Mohs Micrographic Surgery,” *Anais Brasileiros de Derma-*
+*tologia* 92, no. 1 (2017): 95–99.
+
+63. A. E. Nadimi and A. Hendi, “Penile Squamous Cell Carcinoma With
+Urethral Extension Treated With Mohs Micrographic Surgery,” *Cutis*
+101 (2018): E15–E18.
+
+64. V. K. Shukla and L. E. Hughes, “A Case of Squamous Cell Carcinoma Complicating Hidradenitis Suppurativa,” *European Journal of*
+*Surgical Oncology* 21, no. 1 (1995): 106–109.
+
+65. D. L. Moritz and W. S. Lynch, “Extensive Bowen's Disease of the
+Penile Shaft Treated With Fresh Tissue Mohs Micrographic Surgery in
+Two Separate Operations,” *Journal of Dermatologic Surgery and Oncol-*
+*ogy* 17, no. 4 (1991): 374–378.
+
+66. S. Leal- ­Khouri and G. J. Hruza, “Squamous Cell Carcinoma Developing Within Lichen Planus of the Penis. Treatment With Mohs Micrographic Surgery,” *Journal of Dermatologic Surgery and Oncology* 20, no.
+40 (1994): 272–276.
+
+67. A. M. Erlendsson, B. N. Wilson, P. Bellia, W. Phillips, L. Leddy, and
+A. M. Rossi, “Mohs Micrographic Surgery for Penile Carcinoma With
+Urethral Invasion: A Multidisciplinary Approach,” *Journal of the Amer-*
+*ican Academy of Dermatology* 83, no. 6 (2020): 1803–1805.
+
+68. C. Dudley, L. H. Kircik, R. Bullen, S. Snow, A. Landeck, and D. Buchler, “Vulvar Squamous Cell Carcinoma Metastatic to the Skin,” *Der-*
+*matologic Surgery* 24 (1998): 889–892.
+
+69. B. Casado- ­Verrier, R. Feltes- ­Ochoa, C. Gómez- ­Fernández, M. Feito- ­
+Rodríguez, M. Beato- ­Merino, and M. L. Alonso- ­Pacheco, “Mohs Micrographic Surgery for Verrucous Carcinoma of the Anogenital Area:
+Report of Two Cases,” *International Journal of Dermatology* 51, no. 6
+(2012): 722–725.
+
+70. A. Boaz and A. Joseph, “Letter: Mohs Micrographic Surgery for the
+Treatment of Vulvar Bowen's Disease,” *Dermatologic Surgery* 33, no. 3
+(2007): 388–389.
+
+71. A. M. Spiker, A. C. Hankinson, M. G. Petrick, and V. J. Marks, “Single Institution Review of Mohs Surgery for Vulvar Neoplasms,” *Derma-*
+*tologic Surgery* 45, no. 12 (2019): 1698–1700.
+
+1047
+
+72. I. Muro Vidaurre, I. Hernáez Manrique, J. P. Sanz Jaka, J. A. Rekarte
+Barriola, and A. Lluch Costa, “Verrucous Carcinoma of the Penis: Local
+Excision With the Mohs Micrographic Technique,” *Archivos Españoles*
+*de Urología* 49, no. 9 (1996): 959–964.
+
+73. C. Dudley, L. H. Kircik, R. Bullen, S. Snow, A. Landeck, and D. Buchler, “Mohs Microsurgery for Localized Penile Carcinoma: 10 Year
+Retrospective Review of Local Recurrence Rates and Surgical Complications,” *Urologic Oncology* 40, no. 7 (2022): 457.
+
+74. P. A. Nash, R. Bihrle, P. E. Gleason, M. C. Adams, and C. W. Hanke,
+“Mohs' Micrographic Surgery and Distal Urethrectomy With Immediate Urethral Reconstruction for Glanular Carcinoma In Situ With Significant Urethral Extension,” *Urology* 47, no. 1 (1996): 108–110.
+
+75. G. R. Mikhail, “Squamous- ­Cell Carcinoma of the Penis,” *Journal of*
+*Dermatologic Surgery* 2 (1976): 406–408.
+
+76. D. Roberson, R. Chelluri, A. J. Skokan, et al., “Outcomes of Mohs
+Microgrpahic Resection for Cutaneous Malignancy Involving the Scrotum,” *Urologic Oncology* 39, no. 16 (2021): 501.
+
+77. S. T. Nugent, L. K. Raj, N. A. Latif, et al., “A Retrospective Case Series of Mohs Micrographic Surgery and Interdisciplinary Management
+of Female Genital Skin Cancers: Local Recurrence Rates and Patient- ­
+Reported Outcomes,” *Journal of the American Academy of Dermatology*
+89, no. 2 (2023): 301–308.
+
+78. Ad Hoc Task Force, S. M. Connolly, D. R. Baker, et al., “AAD/ACMS/
+ASDSA/ASMS 2012 Appropriate Use Criteria for Mohs Micrographic
+Surgery: A Report of the American Academy of Dermatology, American College of Mohs Surgery, American Society for Dermatologic SurgeryAssociation, and the American Society for Mohs Surgery,” *Journal*
+*of the American Academy of Dermatology* 67, no. 4 (2012): 531–550.
+
+**Supporting Information**
+
+Additional supporting information can be found online in the
+Supporting Information section.
+
+1048 *International Journal of Dermatology,* 2025
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

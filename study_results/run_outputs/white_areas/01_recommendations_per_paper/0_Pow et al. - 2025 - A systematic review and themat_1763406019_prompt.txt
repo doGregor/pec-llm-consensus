@@ -1,0 +1,1872 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ## **Human Vaccines & Immunotherapeutics**
+
+**ISSN: 2164-5515 (Print) 2164-554X (Online) Journal homepage:** **[www.tandfonline.com/journals/khvi20](https://www.tandfonline.com/journals/khvi20?src=pdf)**
+# **A systematic review and thematic synthesis** **exploring how gay, bisexual and other men who** **have sex with men (GBMSM) experience HPV and** **HPV vaccination**
+
+**Janette Pow, Lewis Clarke, Sheona McHale & Carol Gray-Brunton**
+
+**To cite this article:** Janette Pow, Lewis Clarke, Sheona McHale & Carol Gray-Brunton (2025)
+A systematic review and thematic synthesis exploring how gay, bisexual and other men
+who have sex with men (GBMSM) experience HPV and HPV vaccination, Human Vaccines &
+Immunotherapeutics, 21:1, 2490440, DOI: [10.1080/21645515.2025.2490440](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/21645515.2025.2490440)
+
+**To link to this article:** [https://doi.org/10.1080/21645515.2025.2490440](https://doi.org/10.1080/21645515.2025.2490440)
+
+
+© 2025 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+
+
+[View supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/21645515.2025.2490440)
+
+
+Published online: 15 Apr 2025. [Submit your article to this journal](https://www.tandfonline.com/action/authorSubmission?journalCode=khvi20&show=instructions&src=pdf)
+
+Article views: 2472 [View related articles](https://www.tandfonline.com/doi/mlt/10.1080/21645515.2025.2490440?src=pdf)
+
+[View Crossmark data](http://crossmark.crossref.org/dialog/?doi=10.1080/21645515.2025.2490440&domain=pdf&date_stamp=15%20Apr%202025) [Citing articles: 2 View citing articles](https://www.tandfonline.com/doi/citedby/10.1080/21645515.2025.2490440?src=pdf)
+
+Full Terms & Conditions of access and use can be found at
+[https://www.tandfonline.com/action/journalInformation?journalCode=khvi20](https://www.tandfonline.com/action/journalInformation?journalCode=khvi20)
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS
+
+2025, VOL. 21, NO. 1, 2490440
+https://doi.org/10.1080/21645515.2025.2490440
+
+REVIEW
+### **A systematic review and thematic synthesis exploring how gay, bisexual and other ** **men who have sex with men (GBMSM) experience HPV and HPV vaccination**
+
+Janette Pow, Lewis Clarke, Sheona McHale, and Carol Gray-Brunton
+
+School of Health and Social Care, Edinburgh Napier University, Edinburgh, UK
+
+
+**ABSTRACT**
+There are suboptimal levels of HPV vaccine uptake among gay, bisexual and men who have sex with men
+(GBMSM), despite the prevalence and incidence rates of HPV infection among GBMSM being higher than
+heterosexual males. This systematic review provides a thematic synthesis of qualitative research which
+examined the perceptions and experiences of GBMSM to HPV vaccine acceptability and explored the
+barriers and facilitators to participating in HPV vaccination. This review offers new insights about GBMSM
+understandings of HPV and how they are shaped by a complex relationship between limited knowledge
+and information of HPV, feminization of HPV with the focus on cervical cancer and women, and the sociopolitical governmentality of health services in meeting their health needs. Public health communication
+is required that focuses on the risks of HPV for anal, penile and oropharyngeal cancers and is culturally
+congruent to tailor and work with GBMSM more effectively for HPV vaccination. Healthcare providers
+need training around sexual health stigma and should proactively offer the HPV vaccination outside
+sexual health clinics for this vulnerable group.
+
+
+**ARTICLE HISTORY**
+
+Received 28 November 2024
+
+Revised 31 March 2025
+Accepted 4 April 2025
+
+**KEYWORDS**
+Gay; bisexual and other men
+who have sex with men
+(GBMSM); human
+papillomavirus and HPV
+vaccination; GBMSM
+perceptions and views of
+their experience;
+communication; qualitative;
+systematic review and
+thematic synthesis
+
+
+**Introduction/background**
+
+Human papillomavirus (HPV) is the most common viral
+sexually transmitted infection (STI) globally. [1 ] HPV is a virus
+transmitted through sexual contact and there are over 200
+different types. Some types (referred to as high-risk types)
+can cause cancers of the anus, penis, mouth and throat, vagina
+and vulva. [2 ] However, (low-risk types) can cause genital warts,
+one of the most common sexually transmitted disease which
+can have debilitating social, sexual and psychological effects
+for affected individuals. [2 ] Within the Gay, Bisexual and Men
+who have sex with Men population (GBMSM), HPV can cause
+anogenital warts and anogenital and oropharyngeal cancers. [3 ]
+
+The estimated prevalence of anal HPV infection among MSM
+in the USA is greater than 80%, while the incidence of HPV
+related anal cancer among GBMSM is approximately 20 times
+greater than among heterosexual men. [3 ] Whilst the prevalence
+and incidence rates of HPV infection among GBMSM are
+higher than their heterosexual male counterparts, this is
+coupled with consistent evidence suggesting low awareness
+and knowledge of HPV among this population. [4]
+
+Several countries began extending HPV vaccination to sexual
+minority men including the United Kingdom (UK). The pro-­
+gramme was initiated in the UK following advice from the UK
+Joint Committee on Vaccination and Immunisation, which
+recognized that GBMSM received little benefit from the national
+female only HPV vaccination programme while also being at
+excess risk of HPV associated disease. [2 ] In Scotland the MSM
+HPV vaccination programme was introduced in July 2017 for
+MSM aged up to and including 45 years of age. [2][,][5]
+
+
+Evidence shows that HPV vaccination helps protect people
+from HPV-related cancers, yet whilst effective, safe, and
+recommended by WHO, HPV vaccination coverage remains
+low across high- and low- and middle-income countries and
+eligible populations. [6 ] In the Americas only 33% of eligible
+males received their last dose of HPV whilst in the European
+Union only 20% of eligible males received their last dose of
+HPV. [6 ] Numerous factors have been identified such as lack of
+healthcare provider recommendations, concerns about safety,
+concerns about side effects, and general lack of awareness and
+knowledge about HPV vaccination. [7][,][8 ] Dubé et al. [9 ] reported
+factors impeding HPV vaccination including past vaccine
+experiences, perceived importance of vaccination, risk percep-­
+tion and trust, subjective norm and religiosity. [8][,][9]
+
+Whilst HPV vaccination provides another benefit to the health
+of GBMSM, their experiences and perceptions of the HPV vac-­
+cine should be explored in varying settings. Nadarzynski’s [10 ] sys-­
+tematic review on MSM and HPV vaccination confirms
+a prevailing lack of knowledge, competence and understanding
+about HPV and HPV vaccination. We recognize the value of
+systematic reviews with quantitative research studies using metaanalysis to investigate areas such as acceptability, completion rates
+and vaccine uptake rates for GBMSM. [11 ] However, we aimed to
+focus on a qualitative systematic review of the available evidence
+on GBMSM experiences of HPV vaccination programmes utiliz-­
+ing primary qualitative studies. [10][,][11 ] quantitative systematic
+reviews on MSM and HPV vaccination highlighted a lack of
+knowledge, competence and understanding about HPV and the
+vaccine. [12 ] undertook a mixed-methods systematic review
+
+
+**CONTACT** Janette Pow j.pow@napier.ac.uk School of Health and Social Care, Edinburgh Napier University, Sighthill Campus Room 3. B.15, Edinburgh EH11
+4BN, UK.
+
+[Supplemental data for this article can be accessed online at https://doi.org/10.1080/21645515.2025.2490440](https://doi.org/10.1080/21645515.2025.2490440)
+
+© 2025 The Author(s). Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (http://creativecommons.org/licenses/by-nc/4.0/), which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the
+posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+2 J. POW ET AL.
+
+amongst a wider population of LGBQT in the US and indicated
+cost, vaccine and safety concerns. There are limited systematic
+reviews focusing purely on qualitative evidence indicating a gap in
+research. There is limited evidence focusing on GBMSM experi-­
+ences of HPV vaccine post-implementation. Qualitative systema-­
+tic reviews are increasingly recognised and established reviews
+that offer unique insights into synthesising qualitative research
+about participants experiences and perceptions, while respecting
+context and following systematic processes to ensure transpar-­
+ency to address quality and credibility. [13][,][14 ] Previous qualitative
+systematic reviews have shed new insights into varied topics such
+as understanding young people’s experiences of cancer to affect
+treatment change [15 ] or how previous experiences of physical
+activity influence engagement with cardiac rehabilitation. [16 ]
+
+Given the limited evidence of GBMSM experiences and percep-­
+tions of the HPV vaccine post implementation and understanding
+barriers toward vaccination, a qualitative systematic review was
+deemed appropriate to address this aim.
+
+By synthesizing qualitative studies, this review sought to estab-­
+lish a greater understanding of the deep layers of meaning,
+acceptance and understanding relating to HPV and HPV vacci-­
+nation among GBMSM allowing a heightened conceptualization
+of the experiences, views, beliefs and priorities for healthcare
+relating to the HPV-GBMSM vaccination programme. [17][,][18]
+
+It is important to understand GBMSM’s experience and
+perceptions of HPV and HPV vaccination so that potential
+barriers can be ameliorated, and facilitators bolstered by
+healthcare professionals so that effective communications stra-­
+tegies may be put in place to reach minority groups, therefore
+increasing vaccine uptake.
+
+Therefore, the review question was:
+
+What are gay, bisexual, and other men who have sex with men
+(GBMSM)’s experiences and perceptions of Human
+Papillomavirus (HPV) and HPV vaccination?
+
+There were two specific objectives:
+
+**Objectives**
+
+ - To describe GBMSM perceptions and experiences sur-­
+
+rounding HPV vaccine acceptability and
+
+ - To explore the barriers and facilitators to participating in
+
+HPV vaccination
+
+**Table 1.** Inclusion and exclusion criteria for selecting studies using PEOT.
+
+
+**Method**
+
+The method for this systematic review was reported in
+accordance with the preferred Reporting Items for sys-­
+tematic reviews and Meta-Analyses (PRISMA checklist [19 ]
+
+2016).
+
+**Protocol and registration**
+
+The systematic review protocol is registered with PROPSPERO
+(CRD42018090393).
+
+**Eligibility criteria**
+
+Only articles that reported qualitative primary data were
+included. The sample of included studies focused on
+GBMSM regarding sexual identity (non-heterosexual) as well
+as sexual practices. Studies that explored HPV-related percep-­
+tions among men which were not identified by authors as
+GBMSM, or sexual minorities were excluded (Table 1). No
+comparisons with heterosexual populations were made as it
+was outside the scope of this review. Studies which focused on
+perceptions of HPV-related cancers (such as anal cancer and
+anal cancer screening) but not HPV vaccination were also
+excluded. These criteria were established to ensure data
+
+included in the review were sufficient and appropriate to
+draw valuable conclusions relating to the HPV vaccination of
+GBMSM.
+
+**Information sources**
+
+Having established the key words from the PEOT and the
+methods of combining them (i.e., Boolean logic), the research-­
+ers undertook the systematic search strategy and applied it to
+the following databases:
+
+(1) Applied Social Index and Abstract (ASSIA),
+(2) SCOPUS,
+(3) PsycINFO
+(4) Cumulative Index to Nursing & Allied Health
+
+Literature (CINAHL),
+(5) PubMed/Medline
+(6) Embase
+
+
+Inclusion Criteria Exclusion Criteria
+
+Population Population
+
+
+
+- Articles must identify the population as sexual minority (GBMSM) or as practis-­
+
+
+
+- Articles which do not identify the sexual identities or practice of self
+
+ing non-heterosexual intercourse identifying male samples
+
+Exposure Exposure
+
+
+ing non-heterosexual intercourse
+
+
+Exposure
+
+
+
+ - Human Papillomavirus, Human Papillomavirus vaccination  - HPV-related cancers without reference to vaccination
+
+Outcome Outcome
+
+
+
+- Human Papillomavirus, Human Papillomavirus vaccination
+
+
+Outcome
+
+
+
+ - Explicit reference to and/or perceptions and experiences of HPV and HPV
+
+vaccination
+
+Type
+
+ - Empirical qualitative studies and mixed methods studies (inclusive of qualita-­
+
+
+
+ - Quantitative studies
+
+Type
+
+ - Quantitative studies, non-empirical studies (i.e. editorials), non-peer
+
+
+tive findings that can be extracted
+
+
+tive findings that can be extracted reviewed literature (i.e. theses)
+
+Language Language
+
+
+Language
+
+
+
+- English Language studies
+
+
+
+- Non-English language studies
+
+**Search strategy and study selection**
+
+An initial search was conducted in February 2018 with an
+updated search conducted in March 2019. A further updated
+search was conducted in 2024 – with dates ranging from
+March 2019 until May 2024. There was no year parameters
+set for the first search (Feb 2018) to ensure that all relevant
+literature was captured including evidence prior to when HPV
+vaccination was licensed and implemented in different con-­
+texts. The search was updated three times to ensure that all
+available literature was captured and updated the original
+doctoral study. Due to time constraints, grey literature, con-­
+ference abstracts, and thesis dissertations were excluded from
+this review. These databases represented the disciplines of
+medicine, nursing, and social sciences. An expert librarian
+was consulted in the implementation of the search strategy
+and supported the updated search in April/May 2024.
+
+To ensure a systematic and robust searching process, the
+following steps were conducted:
+
+ - Medical Subject Headings (MeSH) terms (or like thereof)
+
+for each database which categorized the content of the
+PEOT were identified and searched. The indexing on
+each database varies, for example qualitative research
+on Medline is indexed “qualitative research” while on
+CINAHL the subject heading “Qualitative studies” is
+used.
+
+ - Free-text terms that might identify qualitative research
+
+was also used across each database. Commonly used
+qualitative research methodology terms informed by pre-­
+vious systematic reviews exploring HPV and HPV vacci-­
+nation were used in information retrieval.
+
+ - Broad-based were also used in free text. These include
+
+terms such as “qualitative,” “findings,” and “interview”
+and synonyms thereof.
+
+Terms used across all three search approaches were purpo-­
+sively chosen to maximize the precision and recall of the search
+strategy aimed at retrieving qualitative studies. Search strate-­
+gies included terms associated with quantitative rather than
+qualitative research, such as “questionnaire” and “attitude” as
+it was necessary to include these terms as qualitative research
+may have been indexed as such despite qualitative researchers
+not choosing to use such terms to describe their work. Given
+the expected paucity of literature to address the review ques-­
+tion, no date restrictions were applied (first search only).
+
+Search results were uploaded to EndNote X9 (and later
+X10), de-duplicated, and imported into the data managing
+software nVivo10 (then later to NVivo 12) to conduct relevant
+screening, data extraction, and quality assessment. Following
+the removal of duplicates, the title and abstract of all remaining
+papers were screened independently by two reviewers (LC and
+SM). Conflicts were resolved by discussion. 9 papers were
+selected for full review. Following full-text review by LC, and
+SM (and later JP), 1 article was removed. Following a further
+search in April/May 2024–4 further articles (which were
+
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 3
+
+reviewed by LC and JP) were included in the review. The
+search strategies and search strings for the electronic databases
+is presented in Appendix A.
+
+**Data extraction**
+
+Once screening was completed independently by two
+reviewers (LC and SM) the final number of included studies
+was determined, to obtain “meaningful information from each
+study” [17] ), a data extraction template describing included stu-­
+dies was performed using a standardized tool garnering infor-­
+mation on: population and sampling methods, theoretical
+perspective, data collection, data analysis and study
+findings. [20 ] This allowed the ‘contextual’ details (e.g., popula-­
+tion studied and their characteristics) to be recorded. These
+details were pivotal to be able to interpret the findings from the
+data. [21]
+
+The second approach of data extraction for the included
+studies was the extraction of their ‘results’ or ‘findings’ from
+the individual primary qualitative studies. These ‘results’ or
+‘findings’ included quotes from the participants, author inter-­
+pretations, and themes. The narrative format or tables used to
+reflect these were extracted. These were inputted into NVivo 9
+(and later NVivo 12) allowing the management of the large
+narratives of text to be organized and analyzed. Data extraction
+was conducted by LC and reviewed by JP. The same process for
+searching and data extraction was used for the updated
+searches and data extraction in 2019 and 2024 again conducted
+by LC and reviewed by JP.
+
+**Quality appraisal**
+
+Intrinsic to the credibility of the review is the quality of
+included studies and the dependability of their reported find-­
+ings. What quality and reliability are in the context of quality
+assessment in a qualitative evidence synthesis, however, is
+widely – and vociferously – contested. [22 ] Notwithstanding
+divergent positions on whether an assessment of methodolo-­
+gical limitation should be undertaken, a pragmatic and utili-­
+tarian stance toward the contribution of qualitative research
+was taken, proffering that if findings from individual qualita-­
+tive primary studies are to contribute to understanding of
+a particular phenomenon, then the resulting synthesis must
+hold true to how the findings of primary studies are reported
+by the original researchers.
+
+Despite the differing applications of quality assessment in
+the myriad of approaches to synthesizing qualitative evidence –
+such as the exclusion of some evidence due to lack of quality in
+a meta-ethnographic approach compared to the lack of exclu-­
+sion on such grounds in critical interpretation syntheses – it is
+generally agreed that some form of quality assessment is
+required to identify flaws within primary studies that might
+distort a review’s findings.
+
+To facilitate quality assessment of included studies in the
+current review and qualitative synthesis, the use of the Critical
+Appraisal Skills Programme (CASP) checklist for qualitative
+research [23 ] was deemed appropriate. The decision to use the
+
+4 J. POW ET AL.
+
+CASP tool was chosen because it is one of the most used check-­
+list/criteria-based tools for quality appraisal in health and socialcare related qualitative evidence syntheses. [24][,][25]
+
+The CASP toolkit contains 10 checklist questions answered
+with a yes, no or can’t tell to assess the strengths and limita-­
+tions of a qualitative research methodology. Although no for-­
+mal scoring system is included in the CASP toolkit, the
+following was used; item not met = 0 (no), item partially
+met = 1 (unsure), and item fully met = 2 (yes). The use of this
+system supported a critical reflection of the included studies
+(Appendix B). While two reviewers (LC and JP) applied the
+CASP toolkit to included studies, given that sufficient quality
+was not a determining factor any discrepancies in the applica-­
+tion of the toolkit was discussed and reviewed until consensus
+was reached. Using the CASP rating scores, the quality of
+articles was classified as high, moderate, or low.
+
+**Data synthesis**
+
+Within qualitative evidence synthesis, there are two types
+of review: descriptive and interpretative synthesis [26 ] which
+involves the production of new knowledge by synthesizing
+data from qualitative studies relevant to the review.
+Thematic Synthesis [14 ] is interpretative and characterized
+by three stages. This approach combines the reciprocal
+translation indicative of meta-ethnography without com-­
+promising the principles developed in systematic reviews.
+
+This method of analysis allows the identification of key
+concepts across included studies, even though the con-­
+cepts may not be described using the same language,
+explanations or associated theories to be pooled and ana-­
+lyzed to go beyond the content of the primary qualitative
+studies in silo. [14]
+
+Thus, we followed the robust approach to undertake data
+synthesis using the recognized thematic synthesis approach
+which follows discrete stages including line-by-line-coding,
+and the generation of descriptive and then analytical
+themes. [14 ] (See Table 2, Process of thematic synthesis.)
+
+First, included studies were uploaded as full-text PDF files
+into NVivo project (QSR International, Australia). Each study
+was read repeatedly to ensure all text relating to HPV vaccina-­
+tion among GBMSM were identified and integrated. As out-­
+lined by Thomas and Harden, [14 ] data included for thematic
+analysis pertained to the results or findings sections of primary
+studies as well as evidence tables, quotes, and participant
+demographics. If text included in the abstract and discussion
+related to new concepts, this was also collected for coding.
+
+Line-by-line coding is conducted to conceptualize the data
+and inductively identify concepts. [27 ] Codes/descriptive themes
+were devised and assigned to the text within the published
+article’s ‘findings’ or ‘results’ section(s). Codes were reviewed
+and their parameters shaped/reshaped by LC. These were
+
+**Table 2.** Process of thematic synthesis.
+
+
+compared and organized into overarching themes and reread considering the aims of the review. [14]
+
+Findings sections of included sections was then themati-­
+cally analyzed line-by-line by LC and later reviewed by the
+review team JP, SM and CGB in detail. This process cap-­
+tured both “first order” (participants’ interpretations of
+their experiences) and “second order” (authors’ interpreta-­
+tions of participants’ experience) concepts. [28 ] An inductive
+approach was used for coding, without pre-formulated
+assumptions of how codes should be defined and structured
+to maintain the trustworthiness of the findings from the
+review. By investigating the similarities and differences of
+codes between studies, concepts were translated across stu-­
+dies to identify specific barriers and facilitators to HPV
+vaccination, which were grouped and organized under
+a set of descriptive themes. The descriptive themes identi-­
+fied what issues were relevant to GBMSM’s lived experi-­
+ences regarding HPV vaccination. To generate analytical
+themes, the studies and descriptive themes were reviewed
+in relation to the research question and the barriers and
+facilitators inferred by the descriptive themes. [14][,][29 ] (See
+Table 3 for Higher Order Synthesised Findings for the
+Qualitative Review.)
+
+The inclusion of 12 studies was deemed sufficient for
+a qualitative systematic review which aims to explore experi-­
+ences and perceptions of the topic of GBMSM and the HPV
+vaccine in-depth from the original primary qualitative studies.
+The quality of the qualitative systematic review rests on the
+efforts to follow systematic procedures, define the research
+questions using PICO/PEOT, define and explain search
+terms and efforts to transparency of the review method. [13 ]
+
+The original 12 primary studies were therefore included in
+the review representing a total sample size of 350 participants.
+The authors of the review did not have access to the full scope
+of qualitative data generated from interviews and other quali-­
+tative methods as this would be problematic for ethics and
+data-sharing reasons. However, the full 12 primary articles
+were reviewed. In keeping with other published qualitative
+systematic reviews, we reviewed and synthesized these articles
+and reported a new synthesis and is comparable to other
+qualitative systematic reviews using thematic synthesis and
+numbers of included studies. [15][,][16]
+
+**Ethics**
+
+Although ethical approval not specifically required for
+a systematic review (using secondary data), ethical approval
+was granted by Edinburgh Napier School of Health and Social
+Care Ethics Committee for the larger PhD Study. [30 ] Approval
+Number 18,006. The authors also checked that ethical princi-­
+ples had been adhered to in all the articles included in the
+review.
+
+
+Stage 1 Line-by-line coding of text in the results and discussion sections according to meaning and content
+Stage 2 Identifying ‘descriptive themes’ by looking for similarities and differences between codes and beginning to group them together into a hierarchy
+Stage 3 Generating ‘analytical themes’ which involves going beyond the content of the studies to generate new interpretative constructs or explanations.
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 5
+
+
+**Table 3.** Higher order synthesized findings for the qualitative systematic review.
+
+Psychological, social and contextual
+
+
+Psychological, social and contextual Barriers to
+
+
+Analytical Theme Descriptive Theme
+
+
+Facilitators to HPV vaccination
+
+
+Analytical Theme Descriptive Theme Facilitators to HPV vaccination HPV Vaccination
+
+1. The limited perceived relevancy of 1. Lack of information on - Understanding the role of HPV in 
+
+
+- Non-compliance to vaccination unknown to
+
+GBMSM
+
+- Gendered beliefs and association of HPV to
+
+
+1. Lack of information on
+
+
+
+- Understanding the role of HPV in
+
+
+causing genital warts and cancer
+increases acceptability
+
+
+HPV among GBMSM
+
+
+HPV and HPV vaccination
+
+
+2. Feminization of HPV - Growing emergence of role of HPV
+
+
+in anal cancers increasing women results in limited relevance for
+attenuation GBMSM
+
+3. Informational needs - GBMSM have high degree of recep-­ - Effects of feminization in GBMSM commu-­
+
+
+in anal cancers increasing
+attenuation
+
+
+
+- Effects of feminization in GBMSM commu-­
+
+
+tivity and salience to health issues nity: History of HPV vaccination being
+impacting them and their associated with cervical cancer/exclusively
+community women
+
+4. Cascading HPV - Novel technologies and communi-­ - Current clinical encounters are not
+
+
+tivity and salience to health issues
+impacting them and their
+community
+
+
+
+- Novel technologies and communi-­
+
+
+
+- Current clinical encounters are not
+
+
+Information cation to reach GBMSM and high-­ cascading the risks to GBMSM for anal,
+
+light relevancy penile and oropharyngeal cancers
+
+2. The role and influence of 1. Healthcare Providers and - LGBTQ+ focused organizations pre-­ - Stigma in some health contexts (perceived
+
+
+Information
+
+
+cation to reach GBMSM and high-­
+light relevancy
+
+
+1. Healthcare Providers and
+
+
+
+- LGBTQ+ focused organizations pre-­
+
+
+
+- Stigma in some health contexts (perceived
+
+
+sociocultural context and care
+experiences on HPV-GBMSM
+vaccination
+
+**Results**
+
+
+Practices as a determinant sent congruent service for GBMSM and experiences) limits eligibility for vacci-­
+of HPV vaccination nation provision
+
+2. Healthcare provider - Healthcare provider central to cue - Lack of offering the HPV vaccine from pro-­
+
+
+Practices as a determinant
+
+of HPV vaccination
+
+
+sent congruent service for GBMSM
+
+
+
+- Lack of offering the HPV vaccine from pro-­
+
+vider construed causally for limited uptake,
+e.g., general health services
+
+- Uncomfortable disclosing reduced eligibil-­
+
+ity to receive the vaccine
+
+
+recommendation as
+
+a determinant of HPV
+
+vaccination
+
+3. The role of disclosure as
+
+a determinant of HPV
+
+vaccination
+
+
+
+- Healthcare provider central to cue
+
+to action for HPV vaccine, e.g.,
+specialist sexual health clinics
+
+- Gender neutral vaccination places
+
+less burden on GBMSM individual
+
+to disclose
+
+
+***Study inclusion and characteristics***
+
+The search terms utilized can be seen in Appendix A. The
+PRISMA figure can be seen in Appendix C and Details on
+characteristics of included studies and original qualitative stu-­
+dies themes can be seen in Appendix D.
+
+The total twelve included studies published reporting on
+eleven studies [31 ] and [32 ] included the same data). Seven of the
+studies included were carried out in the USA [3][,][33–37 ] and [38 ] the
+remaining include one from Canada, [39 ] one from Peru, [31 ] two
+from the United Kingdom [40 ] and Nadarzynski et al. [41 ] and one
+from Pakistan. [1]
+
+In total, 350 participant’s (age range 16 years to 68 years)
+GBMSM participated across the primary qualitative studies.
+The range of publication year ranged from 2013 to 2023.
+However, as participant ages ranged from 16 years to 68 years
+and due to differing calculations of participants ages, no grand
+mean of participant age were calculated. Studies reported
+GBMSM *N* = 1 study included 10 transgender women and *N*
+= 1 study included 3 ‘queer’ participants. The studies were
+homogenous in their focus, with the majority focusing on
+attitudes, perceptions, perceived risks and experiences of
+HPV and HPV vaccination and the barriers and some facil-­
+itators to vaccination as documented in data extracted from
+the studies supplement (Appendix D). All the studies included
+in the synthesis clearly stated the aims of the study and estab-­
+lished that the qualitative method of analysis was appropriate
+(12/12).
+
+***Findings***
+
+The findings from the twelve studies in the review have been
+synthesized into two analytical themes, which, in turn, repre-­
+sent a synthesis and interpretive analysis of seven descriptive
+themes. The coding process for this review began with studies
+
+
+that were both ‘thick’ and relevant to build an initial coding
+framework. Findings from other studies were then added into
+this initial coding framework and the framework itself was
+then further developed as new – and necessary – codes were
+identified.
+
+By synthesizing qualitative studies using thematic synthesis
+this review established a greater inductive understanding of the
+deep layers of meaning, acceptance and understanding relating
+to HPV and HPV vaccination among GBMSM allowing heigh-­
+tened conceptualization of the experiences, views and beliefs
+across studies which used a variety of theoretical approaches.
+
+Creating a conceptual framework for the synthesis of these
+analytical themes involves visually representing the intercon-­
+nections between the themes and sub-themes (Figure 1). This
+framework illustrates how the perceived relevance of HPV
+among Gay, Bisexual, and Other Men Who Have Sex with
+Men (GBMSM) intersects with their healthcare experiences
+and sociocultural context, ultimately influencing their deci-­
+sions regarding HPV vaccination uptake.
+
+The conceptual framework shows at the top the population
+of interest – GBMSM and highlights the two main analytical
+themes identified: 1) Limited perceived relevancy of HPV
+among GBMSM and 2) Role and influence of sociocultural
+context and care experiences on vaccination. The next layer
+shows the descriptive themes emerging from the main analy-­
+tical themes, which identified potential psychological, social
+and cultural barriers or facilitators toward vaccination, from
+analytical theme 1) lack of information on HPV and
+Vaccination indicated here as a foundational building block
+indicating the limited knowledge of HPV in the GBMSM
+community. Feminisation of HPV shown as an influence on
+the perceived relevance of HPV i.e., HPV is often framed as
+a female issue, which may reduce the perceived relevance
+among GBMSM. Information Needs, highlights the gap or
+need in the HPV related communication and education.
+Cascading HPV Information represents how HPV-related
+
+6 J. POW ET AL.
+
+
+
+
+
+
+
+
+
+|GBMSM Limited perceived Role and influence relevancy of HPV of sociocultural context and care experience Healthcare Healthcare Role of Lack of Feminisation Information Cascading providers and provider Disclosure information of HPV needs HPV practices Recommendation on HPV and Information vaccination|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||Healthcare providers and practices||Healthcare provider Recommendation||Role of Disclosure|
+|Lack of information on HPV and vaccination||Feminisation of HPV||Information needs||Cascading HPV Information||||||
+
+
+**Figure 1.** An inductive conceptual framework summarising how GBMSM experience HPV and the HPV vaccine indicating core concepts for theoretical development
+and key psychological, social and cultural barriers and facilitators towards vaccine acceptance.
+
+
+information is disseminated (or not) within the GBMSM com-­
+munity and influences perceptions of relevancy.
+
+Under analytical theme 2) Healthcare Providers and
+Practices is a key determinant of vaccination uptake, showing
+how practices (e.g., whether HPV vaccination is offered) influ-­
+ence GBMSM vaccination behavior and decision making.
+Healthcare provider recommendation is central to influencing
+vaccination decisions, with a focus on how a healthcare pro-­
+viders recommendation (or lack thereof) acts as a motivator or
+barrier. Role of Disclosure illustrates how the disclosure of
+
+sexual orientation or HIV status affects access to care and the
+likelihood of receiving an HPV vaccination.
+
+The analytical themes were shaped to directly elucidate the
+objectives of the review in terms of exploring experiences to
+HPV and HPV vaccination and barriers and facilitators of this.
+The following sections present the analytical themes following
+a discussion of their constituent descriptive themes. We use
+illustrated data extracts reported from the original primary
+studies to highlight the higher – order synthesis here.
+
+***Analytical theme 1: The limited perceived relevancy of***
+***HPV among GBMSM***
+
+In this theme, the lack of relevancy of HPV to the health of
+GBMSM is highlighted. In part, these related to the feminiza-­
+tion of HPV, connected to the perceived association of HPV
+and cervical cancer which provided an independence of the
+virus to the awareness of GBMSM. In discussing HPV, the
+virus and its causation in cancer was grounded in emotional
+responses such as shock and surprise. These also facilitated the
+participants’ desire to know more about HPV, in turn,
+enabling them to alter their (low) perceived relevance of HPV.
+
+***Descriptive theme 1: Lack of information on HPV and HPV***
+***vaccination***
+Across all studies, GBMSM reported having limited knowledge
+about HPV and its relation to their health. A recurrent obser-­
+vation related to GBMSM’s thoughts about the low perceived
+
+
+relevance of HPV, and consequently, the relevance of HPV
+vaccination. Here, GBMSM reported that
+
+I’ve never thought about gay men being especially at risk for
+HPV [33 ] p. 6214”)
+
+HIV Is one of the most talked about sexually transmitted diseases
+in our (MSM) community, considering it as the most common
+STI, but then knowing that HPV is the most actual common STI
+maybe I should prevent myself from getting it [1 ] p. 5).
+
+***Descriptive theme 2: Feminisation of HPV***
+On discussing constructions about perceived susceptibility to
+HPV, a recurrent assessment reported was that HPV infection
+was a phenomenon that impacted cisgender woman or females
+only. This lack of understanding of HPV and its impact on
+GBMSM health contributed to a lack of active pursuit of the
+vaccine during access to sexual health services. In particular,
+the lack of attenuation to HPV and the vaccine being framed as
+a causal factor in the lack of uptake:
+
+MSM are not prepared to receive the vaccine because they are not
+aware of the issue, and some will not do it of their own accord. In
+other words, they either don’t know about it or they ignore it [31 ]
+
+p.5.).
+
+With women, cancer is more severe, there are more cases of cancer
+caused by the (HPV) virus. And for men there are certain types of
+HPV that do not cause cancer [3 ] p.3).
+
+There is a lot of attention about sexually transmitted diseases that
+are more common: gonorrhoea, chlamydia, syphilis . . . I don’t
+know if this [HPV] is actually one of the diseases that is thought
+of in the same way in our world [3 ] p.3).
+
+I didn’t know it affected guys at all” & “I’ve always assumed it was
+geared toward women more than men [34 ] p. 353).
+
+I don’t really know anything. I think the effects are worse in
+females than males. [38 ] p. 5).
+
+While some studies did report an emergence of HPV being
+related to the health of men, the connection between HPV
+being related to cervical cancer was pervasive. One route of this
+attribution of HPV being a female-only issue is drawn from the
+
+information materials participants referred to in their aware-­
+ness of HPV. Here, someparticipants discussed adverts and
+campaigns framing HPV (and the vaccine) as oriented to
+cervical cancer:
+
+‘I know that it’s more dangerous for girls. It can cause genital
+warts, and it can also increase their chances of cervical cancer?’
+(Nadarzynski et al. 2017, p. 349)
+
+All I know is it’s [HPV is] a thing that you can get. Like it’s not high
+on my radar of STDs [sexually transmitted diseases] or anything
+else. “I have not had relationships with someone with a uterus and
+from what I understand, it [HPV] is more of a risk when you have
+relationships with a person with a uterus.” [3 ] (p4)
+
+The framing of HPV as exclusively causing cervical cancer was
+further apparent in the lack of knowledge of HPV’s role in anal
+and penile cancer. Where studies discussed knowledge of
+HPV-related sequalae, GBMSM often reported not having
+considered other HPV-related cancers. It is unsurprising,
+then, that Grace et al’s [39 ] study whose data collection period
+was November 2016 – July 2017 reported an emerging knowl-­
+edge of HPV’s association to anal cancer in men.
+
+***Descriptive theme 3: Informational needs***
+Given the lack of knowledge about HPV, and its relationship to
+a perceived lack of agency to seeking out the vaccine, partici-­
+pants reported the need for information as an important role
+in decision making, and better response to the vaccine:
+
+I had no idea that it caused all of those cancers. I think if that was
+made public knowledge [people would get vaccinated]; [33 ] (p.6213)
+
+and
+
+*‘* knowing the facts is the most important part because once you
+know then you realize this shouldn’t be disregarded and there’s
+a vaccine you should probably get [33 ] (p. 6213).
+
+Attempts to publicize HPV must be implemented by conducting
+such seminars to promote informed, healthy choices. Needless to
+say, this lack of awareness is responsible for the widespread,
+unchecked transmission from one individual to another. [1 ] (p.6)
+
+Indeed, GBMSM in discussing informational needs provided
+clear scope for the type of information they wanted to receive.
+Some participants reported wanting to know more informa-­
+tion on how the vaccine affects older participants, those who
+are sexually active, and the mechanisms of transmission that
+spread HPV. [37]
+
+Thus, providing guidance on the individualized impact of
+HPV and the impact of HPV for GBMSM as a collective group
+were discussed to help participants understand the role of
+HPV in the health of GBMSM.
+
+While there were concerns about the receipt of the HPV
+vaccine, for example side effects, the belief was present that any
+negative side effects experienced would be offset by preventing
+HPV infection. [31][,][34][,][39 ] Further to this, it was expressed that
+a better understanding of these would encourage uptake. [40]
+
+***Descriptive theme 4: Cascading HPV information***
+The ways in which information regarding HPV could be pre-­
+sented to GBMSM was discussed by participants which
+included awareness campaigns and advertisements on the
+internet, radio, television, social media and LGBTQ+ focused
+
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 7
+
+organizations. [33][,][40 ] Technology was further expanded upon by
+participants as the ubiquity of technology and the perceived
+universality of technological literacy served to make booking
+appointments and accessing the vaccine (without directly
+engaging with a healthcare provider in the process) easier:
+
+[Regarding an app] I think that would be really helpful in keeping
+track of what you’ve had done, because right now I have no idea,
+and I have to fill out this sheet with all my vaccinations and I have
+no idea how to get that information. [33 ] (p. 6213)
+
+A barrier identified mostly from the studies conducted in the
+USA and one in Pakistan was the uncertainty around insur-­
+ance coverage and costs to being vaccinated. [1][,][3][,][38 ] The uncer-­
+tainty around insurance coverage and out of pocket costs to
+obtain vaccination was a real concern for several of the parti-­
+cipants in these studies.
+
+I was told by a healthcare provider to go get vaccinated [against
+HPV]. . . they kept just telling me about how expensive it is. . . that
+was a real big turn off. . . it was just like ‘ah well, I know it’s
+important, but, I can’t afford this right now from how they’re
+framing it to me’ so, I just never really looked into it, even though
+I now have health insurance. [3 ] (p.5)
+
+The only barrier would be if I didn’t have any insurance or ability
+to pay for it.’ – 23 years old, vaccinated. [38 ] (p.6)
+
+The one who has money will get them, but what about ones who
+can’t afford, people like us what should we do?. [1 ] (P.6)
+
+**Analytical theme 2: The role and influence of**
+**sociocultural context and care experiences on**
+**HPV-GBMSM vaccination**
+
+Across all studies, a tension emerged between the subjectivity
+of culturally sensitive healthcare and the medicalization of the
+institutions that served as the context for HPV vaccination for
+eligible GBMSM. The GBMSM across these primary qualita-­
+tive studies manifested culturally orientated health related
+values and how these values are enacted in response to various
+healthcare systems. The diminishment of perceived and actua-­
+lized stigma relative to the individual GBMSM and in relation
+to the healthcare provider and healthcare service was con-­
+strued as a precursor to the opportunity to be given the HPV
+vaccine. Studies indicated that GBMSM in trying to navigate
+their relevant healthcare systems were faced with the stigma-­
+tization of being a sexual minority and in response an appraisal
+system of the service and healthcare providers were measured
+against the potential anticipated or experienced discrimina-­
+tion. This analytical theme is comprised of the following sub
+(descriptive) themes: 1) Healthcare providers and practices as
+a determinant of HPV vaccination, 2) Healthcare provider
+recommendation as a determinant of HPV vaccination
+and, 3) The role of disclosure as a determinant of HPV vacci-­
+nation. These will be discussed in turn.
+
+***Descriptive theme 1: Healthcare providers and practices***
+***as a determinant of HPV vaccination***
+
+All studies in the synthesis discussed the role of the healthcare
+provider and the centrality of these in the provision of the
+HPV vaccine. A tension was evident in participants’
+
+8 J. POW ET AL.
+
+engagement with healthcare providers where healthcare pro-­
+viders were perceived as manifestations of the degree of cultu-­
+rally congruent services which the GBMSM participants could
+feel at ease to engage with. Indeed, in Fontenot et al’s [33 ] study,
+one participant outlined that:
+
+Increasing competency, honestly, of like healthcare provider
+who . . . don’t work with queer populations or are not queer
+identified themselves” is necessary as it “the doctor’s job to make
+sure that [you’re] comfortable and speaking to them about
+whatever. [33 ] (p. 6211)
+
+Or not being socially accepted
+
+The biggest issue is that we are not socially accepted, [we] cannot
+openly discuss our issues with health- care providers (HCPs) due
+to our social exclusion. [Our] social exclusion precludes disclosing
+health issues to HCPs. [1 ] (p. 6)
+
+Here the attenuation to the identity of the GBMSM participant
+is pivotal in their appraisal of providers and systems which
+may pose a risk of enacted discrimination in the clinical
+encounter. This appraisal of the healthcare provider as reflec-­
+tive of inclusive healthcare provision has also been seen as
+a determinant in the discussion of any issues related to the
+heightened risks GBMSM may present. This was enacted in
+Nadarzynski’s study in which a participant would:
+
+[look for] Just body language. I guess a reluctance [from the
+healthcare provider] to make a conversation or just being almost
+cold in that they’re just getting information without taking into
+account that this could be some sort of sensitive issue. Especially if
+sexuality is involved. (Nadarzynski et al. 2017. P. 353)
+
+Participants also appraised the ‘setting’ as an important com-­
+ponent for preventative care citing institutions such as specia-­
+lized sexual health services and family physicians. These
+settings presented a clear focus on the potential for further
+culturally congruent services as well as hazards. This was
+evident where some GBMSM ‘described feeling more comfor-­
+table seeking care at *‘‘gay friendly” health centers”* [33 ] p. 6211)
+where GBMSM may ‘feel more comfortable being offered the
+vaccine by someone they trust from a community LGBTQ+ or
+local sexual health centre’ [40 ] p. 6).
+
+***Descriptive theme 2: Healthcare provider***
+***recommendation as a determinant of HPV vaccination***
+
+A tension also emerged from the role of decision-making
+healthcare providers possessed in the acceptance of the HPV
+vaccine among GBMSM participants. Across all studies per-­
+ceived knowledge of HPV vaccination was low (described
+above). But the acceptance of the HPV vaccine was intrinsi-­
+cally linked to the healthcare system and providers recom-­
+mendation. A reliance on the healthcare provider telling the
+GBMSM patient about the HPV vaccine was construed as
+a necessity given low perceived risk and knowledge [40 ]
+
+Nadarzynski et al. 2017). In the study by Gerend et al. [34 ]
+
+among vaccinated participants, the primary social factor that
+motivated them to get vaccinated was a recommendation
+from a healthcare provider. Nearly all vaccinated partici-­
+pants mentioned the central role of the provider in their
+decision to receive the HPV vaccine. Koskan et al. [36 ]
+
+
+demonstrate that some GBMSM’s receptivity of the HPV
+vaccine was predicated on the presentation of the vaccine
+and trust in the provider:
+
+If my doctor brings it to my attention that I need to get a vaccine
+for something, I will take it. I know it’s in my best interest. [36]
+
+It was the doctor’s recommendation. I honestly wouldn’t have
+thought about it had he not recommended it. [34 ] (p. 353).
+
+Indeed, GBMSM were willing to receive the HPV vaccination
+as the role of the healthcare provider was seen as an ‘active
+decision maker’ [35 ] p.66) in the management of their health
+where trust continues to be wrapped in the acceptance of the
+vaccine as the healthcare provider may be the ‘ *only opinion*
+*that mattered’* [37 ] p. 57). Several authors found when presented
+with a discussion on asking for the HPV vaccine or being
+offered the HPV vaccine, GBMSM would more readily accept
+the HPV vaccine than have the ability to direct the clinical
+encounter and ask for the HPV vaccine:
+
+I think I’d be more likely to accept it if it were offered than I would
+actively request it. I think because if it was, if it was recommended
+to you it would be coming from a trusted source. [37 ] (p.57)
+
+The saliency of the healthcare provider in the recommendation
+is also observed when the HPV vaccine is not offered to
+GBMSM. In Grace et al. [39 ] pg. 7) study, authors commented
+that ‘some participants reported that their physicians had
+never brought up either HPV or the HPV vaccine to them.’
+Relatedly, the (potential to have a discussion with healthcare
+providers about HPV and the HPV vaccine is important and so
+too is how the vaccine is discussed. Some participants reported
+limited communication with healthcare providers as a barrier
+to making or remembering the decision to have the HPV
+vaccine. [39]
+
+***Descriptive theme 3: The role of disclosure as***
+***a determinant of HPV***
+
+***Vaccination***
+Across all studies, the tension of disclosing the GBMSM iden-­
+tity as a requirement of receiving the HPV vaccine was
+observed. Compounded by appraisals of the healthcare system
+(discussed above), the interplay of disclosing of their sexual
+orientation, identity, or behavior(s) further complicated
+receiving the HPV vaccine. For example, within Wheldon et -­
+al’s [37 ] study:
+
+I would just feel weird talking to someone about that [HPV
+vaccine], I would not know their views on LGBT people. So,
+I feel like there may be some bias in the information they could
+give me. Even though it’s unprofessional. [37 ] (p58)
+
+[I told my doctor] I’m a gay man so if there’s any special risk
+factors from anything that you can let me know. It freaked him out,
+he left, he was never available again to meet with me. [3 ] (p. 5)
+
+Rampant homophobia makes the testing and screening for STIs
+difficult in our society, raised eyebrows and endless questions from
+the health care providers enables telling lies as this is the easy way
+out!. . . moreover, doctors don’t understand unique needs of our
+community, there is a need to educate doctors and increase their
+competency to deal with LGBTQ health needs” and ‘‘I think it’s
+
+kind of the doctor’s job to make sure that you’re comfortable and
+speaking to them about whatever [1 ] (p.6)
+
+GBSM preferred, ‘sensitive services’ which were more aligned
+to their needs. For example, in choosing a specialized service,
+Fontenot [33 ] reports:
+
+[Related to why go to a gay friendly health center] they know about
+the issues in my community. They understand my body, my needs,
+and I don’t feel like there’s judgement. [33 ] (p. 6214)
+
+In many studies, GBMSM stressed the importance of privacy
+and confidentiality when accessing relevant healthcare set-­
+tings. There was high anxiety reported among participants
+about the consequences of partners, friends, and family finding
+out about their engagement with sexual health services (and
+consequently the HPV vaccine). Some GBMSM feared that
+their general practitioner (GP) would report their attendance
+to family members. Indeed, Kesten [40 ] reports:
+
+Telling your family GP you’re gay before you’ve told your family
+would be a big no I think because the GP might go back and tell
+your parents and then out you [40 ] (p. 6)
+
+The requirement of having to disclose in the context of
+GBMSM being eligible for the vaccine (in relation to gender
+neutral vaccination) is also discussed. A tension existed within
+this in relation to the vaccine being prophylactic which there-­
+fore complicated asking younger GBMSM to disclose their
+sexuality [40 ] p. 6).
+
+**Discussion**
+
+This thematic synthesis of the views and experiences of
+GBMSM relating to HPV and HPV vaccination has identified
+some findings that resonated with previous quantitative sys-­
+tematic reviews. [11][,][42 ] However, the review yielded new insights
+and understandings which will be discussed below (see also
+Table 3 Higher Order Synthesised Findings of the Qualitative
+Systematic Review).
+
+Findings of this review are discussed in two domains: (i)
+factors affecting HPV vaccination relating to GBMSM, and (ii)
+factors affecting HPV vaccination relating to the provision of
+the vaccine targeting GBMSM.
+
+**Factors affecting HPV vaccination relating to GBMSM**
+
+The first analytical theme considered GBMSM’s understand-­
+ings and perceptions of HPV and HPV vaccination. This
+analytical theme and its descriptive theme components
+demonstrated that GBMSM understanding of HPV and of
+HPV vaccination is shaped by a constellation of limited knowl-­
+edge and perceived susceptibility which are then, in turn,
+reflective of the influence of social processes and relationships
+which act as a both a barrier and facilitator of HPV vaccina-­
+tion. The finding that GBMSM have limited understanding of
+HPV is supported in several studies in the literature surround-­
+ing vaccination attitudes in this sample. [43][,][44 ] This was also true
+of some GBMSM who had already been vaccinated; they still
+demonstrated low knowledge of HPV.
+
+Previous research has indicated low knowledge and under-­
+standing of the HPV vaccine amongst young men more
+
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 9
+
+generally in a range of contexts supporting the findings here
+amongst GBMSM [45 ] submitted) and amongst GBMSM
+specifically. [10]
+
+A novel theme from the analysis of this review is the extent
+to which a gendered understanding of HPV plays a role in the
+perceptions and understanding of HPV and HPV vaccination
+for the GBMSM population. The notion that HPV infection
+and its association with cervical cancer was consistently
+reported as a dimension of the perceived low relevance of
+HPV for the GBMSM population. This echoes some previous
+research for the feminization of HPV leading to poor under-­
+standing and protection from HPV related illness in men/
+GBMSM in a ‘heteronormative worldview.” [46 ] Our novel find-­
+ings highlight the effects of the focus on cervical cancer messa-­
+ging which means that other significant cancers affecting the
+GBMSM population is obscured including anal, penile and
+oropharyngeal cancers. Whilst other research has also reported
+on the feminization of the HPV vaccine for other GBMSMS
+(e.g., [46 ] or men generally (e.g., Gray Brunton et al. submitted),
+our finding of the effects of the feminization is stark, indicating
+that future messaging should address the risk for anal and
+other cancers in the GBMSM population to ensure that
+GBMSM do not miss out on HPV vaccine provision.
+
+**Factors affecting HPV vaccination relating to targeted**
+
+**programmes**
+
+The healthcare provider-patient interaction was central as it
+was noted that GBMSM were unlikely to seek out and ask for
+the vaccine themselves. The tension, therefore, between being
+offered the vaccine and the GBMSM making the healthcare
+provider aware of their eligibility – through their GBMSM
+status – is therefore essential in the provision of the vaccine
+and this is a unique finding from this review.
+
+This finding of sexuality disclosure and the role of the
+healthcare setting is important when contributing to the dis-­
+cussion surrounding the social role healthcare providers and
+their healthcare settings play in the provision of the vaccine
+and how its acceptance can be perceived. The appraisal of
+healthcare settings and provider’s ability to meet the health
+needs is important when viewed through the prism of discri-­
+mination GBMSM may anticipate or have experienced. These
+underlying dynamics and their impact on health service
+engagement/uptake need to first be recognized and then
+addressed through meaningful attenuation driving engage-­
+ment from GBMSM.
+
+The issue of health-seeking behaviors and trust within those
+health systems and their providers has been demonstrated to be
+an area of tension for GBMSM in the literature previously. [11][,][47 ]
+
+Regarding HPV vaccination within this group, the second ana-­
+lytical theme demonstrated that trust and culture congruency
+are manifestations of trust of the provider and the health system
+providing the vaccine. These, in turn, drive vaccine acceptance
+and the perception of trust in the provider and their recom-­
+mendation (or not) of the vaccine has been made clear in
+previous research [48–50 ] A common finding in this review was
+the important role that healthcare providers play in driving
+HPV vaccine acceptability. Our unique findings shed light on
+the significance of sexual health disclosure and the role that
+
+10 J. POW ET AL.
+
+stigma may play in sexual health versus nonsexual health set-­
+tings where professionals might not be as sensitive to GBMSM
+and risks for HPV within ‘heteronormative’ culture.
+
+**Strengths and limitations of this review**
+
+This review sought to specifically synthesize qualitative
+research on HPV and HPV vaccination among GBMSM rather
+than quantitative or experimental studies. This specific focus –
+upon qualitative evidence – has illuminated new and novel
+issues that are uniquely relevant to GBMSM and must be
+considered when providing the HPV vaccine for this popula-­
+tion. For example, the understanding of HPV being construed
+as a female-only issue is indicative of the socio-cultural com-­
+position of the countries which originally provided the vaccine
+for women only. Thus, the reverberations of the female- only
+vaccination programme have had the unintended consequence
+of creating a cultural norm among GBMSM that HPV infec-­
+tion does not impact them, ultimately constructing ignorance
+of this in relation to their health. The messaging related to
+HPV and the focus on cervical cancer means that other sig-­
+nificant cancers affecting the GBMSM population is obscured
+including anal, penile and oropharyngeal cancers. These find-­
+ings cannot be elucidated adequately in previous crosssectional surveys/quantitative research attenuating to HPV
+vaccine acceptability.
+
+The rigor of the current review utilizing qualitative evi-­
+dence was established through the systematic approach imple-­
+mented during the literature search for the evidence.
+A strength, then, was tailoring each search strategy to the
+relevant database. This allowed the likelihood of identifying
+all relevant studies to answer the research question and served
+to reduce bias in the identification of studies. By integrating an
+appraisal tool for the evidence, the data was read and re-read
+by team members (LC, SM, and JP) ensuring the credibility of
+included studies. All studies were in English and were set
+mostly in high-income countries. Therefore, identification of
+country-specific issues may limit the applicability of results to
+other low- and high-income settings.
+
+In our qualitative systematic review, we consider the cul-­
+tural context of the included studies which reported on eleven
+studies. Most of the included studies came from a North
+
+American cultural context ( *n* = 8), like previous quantitative
+systematic reviews [10][,][11 ] with two from the United Kingdom
+and two from very different cultural contexts including Peru
+and Pakistan where disclosure of GBMSM status may be par-­
+ticularly problematic. It is important to consider the cultural
+context in the interpretation of our synthesized findings.
+Future research should explore other cultural contexts beyond
+the North American context to explore the utility and transfer-­
+ability of the findings there. We also note the diverse qualita-­
+tive research approaches which were reported in the included
+qualitative studies which included thematic analysis, content
+analysis, framework analysis and grounded theory approaches.
+Our thematic synthesis approach was suitable to consider the
+original reported themes/findings within the higher order
+reported findings. Four studies referred to a theoretical frame-­
+work in their qualitative studies which included the Theory of
+Planned Behaviour, [1][,][35 ] the Integrative Model of Behavioural
+
+
+Prediction, [37 ] and the Information, Motivation and
+Behavioural Skills Module. [34]
+
+**Practical/policy implications**
+
+The findings of this review demonstrate the dynamic interplay
+between low perceived susceptibility of HPV and the impact
+this plays in the assessment of HPV’s relevance to the health of
+GBMSM. Similarly, the tension manifested when exploring the
+relationship between GBMSM and the healthcare settings in
+which the HPV vaccine would be provided. Targeted public
+health education and awareness campaigns are needed that
+highlight GBMSM’s increased risk of HPV and their potential
+for severe disease outcomes. This may help bridge vaccine
+knowledge gaps, increase awareness of vaccine recommenda-­
+tions, and drive vaccine uptake.
+
+These drivers must therefore be recognized and addressed
+to thoroughly gauge local understandings, concepts/miscon-­
+ceptions and nuances related to HPV and HPV vaccination.
+An HPV-GBMSM vaccination programme must thoroughly
+understand the socio-political dynamics within the culture
+context of GBMSM and its relationship to the context of the
+HPV vaccination implementation setting as this may create
+barriers for HPV vaccine uptake as well as perpetuate confu-­
+sion and stigma. There is a need for further training for
+healthcare providers with regard to LGBTQ sexual health
+needs and vaccination recommendations – this may then
+encourage disclosure and cultural competence and reduce
+stigma and socio-cultural barriers. Healthcare providers need
+to be more proactive in recommending the vaccine in various
+settings given that GBMSM would not actively seek the vaccine
+but would take it if recommended by a health professional.
+
+We recommend that GBMSM and other sexual minority
+groups should be core partners in future research around coproducing resources and communication information so that
+awareness and importance of the specific cancer-risks are
+conveyed to minority groups. Current communication efforts
+are ineffective.
+
+In relation to global problems with regard to cost and insur-­
+ance coverage, clear messaging with regard to vaccine insurance
+coverage is required and initiatives that make HPV and other
+sexual health vaccination for the GBMSM population free of
+charge may help address the cost-related barriers to
+immunization.
+
+**Conclusion**
+
+As countries continue to expand the populations which can
+receive the HPV vaccine it is important to understand the
+socio-cultural and psychosocial processes relevant to each
+extended population in the provision of the HPV vaccine.
+How GBMSM understand HPV and HPV vaccination is cru-­
+cial to the short- and long-term successes of any targeted HPV
+vaccination programme.
+
+New findings from this review found that GBMSM under-­
+standings of HPV are shaped by a complex relationship between
+limited knowledge and information of HPV, a resonate construc-­
+tion of its association with cervical cancer and women, and the
+socio-political governmentality of health services in meeting their
+
+health needs. It also notes that in all the original studies, when
+hearing about HPV and risks associated with HPV the GBMSM
+population were keen to have the vaccination. Overall, this review
+holds central the notion that HPV vaccination – and subsequent
+research – should not be implemented through a universal
+approach regarding education, sensitization, and behavioral inter-­
+ventions promoting uptake. Key messages and recommendations
+from this review indicated that GBMSM were willing to be
+vaccinated once they were informed of the risks associated with
+HPV. Evidence shows that men’s health directly benefits form the
+HPV vaccine as a cancer prevention vaccine in anal, penile and
+oral cancers and that this message is being missed or obscured
+from current HPV health information, it is important this mes-­
+sage is communicated widely in health promotion literature to
+reach men in general and more specifically minority groups such
+as GBMSM who are at higher risk. Healthcare providers should
+be proactive in offering this outside sexual health clinics to avoid
+and reduce stigmatization of minority groups such as GBMSM
+and LGBTQ so that they are able to disclose and discuss their
+sexual health in a safe environment without being judged.
+Targeted public health education and awareness campaigns are
+needed for GBMSM and other minority groups communicating
+the risks associated with HPV for these groups to increase knowl-­
+edge and awareness and to move away from the gendered and
+‘heteronormative worldview.’ A knowledge exchange event held
+in 2024 conducted by the authors showed that renewed public
+health communication is required that focuses on the direct and
+indirect benefits of HPV vaccination for boys/young men and
+other minority groups including GBMSM that move away from
+the ‘girl vaccine’ legacy (Gray Brunton et al. submitted).
+
+**Acknowledgments**
+
+We acknowledge the support of Professor Brian Williams in undertaking
+this systematic review. Professor Brian Williams was a supervisor for
+Lewis Clarke’s PhD of which this earlier systematic review was part of
+the final submitted thesis. We also acknowledge the support of subject
+librarian Maria King and colleague Sheena Moffat for rerunning and
+ensuring an updated search of databases.
+
+**Disclosure statement**
+
+No potential conflict of interest was reported by the author(s).
+
+**Funding**
+
+The review was undertaken as part of a PhD study. The PhD studentship
+was funded by Edinburgh Napier University. This was Lewis Clarke’s
+PhD.
+
+**Notes on contributor**
+
+***Janette Pow*** is a Lecturer/Researcher within the School of Health and
+Social Care at Edinburgh Napier University (ENU). Dr Pow is
+a Programme Leader for the Master of Public Health Programme
+(MPH) at ENU and her main research interests lie in public health and
+children, young people’s health and wellbeing and health improvement
+evaluation and assessment.
+
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 11
+
+**ORCID**
+
+Janette Pow http://orcid.org/0000-0001-8646-3601
+
+**Author contributions statement**
+
+All authors LC, JP, SM and CGB were involved in the conception, design,
+analysis and interpretation of the systematic review. JP and LC were
+responsible for drafting the paper and CGB was responsible for revising
+and commenting on the draft. All authors LC, JP, SM and CGB were
+responsible for final approval of the final version of the article prior to
+submission.
+
+**References**
+
+1. Ejaz M, Ekström AM, Ahmed A, Haroon A, Ali D, Ali TS,
+
+Salazar M. Human Papillomavirus associated prevention: knowl-­
+edge, attitudes, and perceived risks among men who have sex with
+men and transgender women in Pakistan: a qualitative study. BMC
+[Public Health. 2022;22(1):378. doi: 10.1186/s12889-022-12775-z .](https://doi.org/10.1186/s12889-022-12775-z)
+2. Public Health Scotland. HPV Immunisation Overview; 2022.
+
+[https://publichealthscotland.scot/our-areas-of-work/immunisa](https://publichealthscotland.scot/our-areas-of-work/immunisation-vaccine-and-preventable-disease/immunisations-by-vaccine/hpv-immunisations/hpv-immunisation/overview/)
+[tion-vaccine-and-preventable-disease/immunisations-by-vaccine](https://publichealthscotland.scot/our-areas-of-work/immunisation-vaccine-and-preventable-disease/immunisations-by-vaccine/hpv-immunisations/hpv-immunisation/overview/)
+[/hpv-immunisations/hpv-immunisation/overview/ .](https://publichealthscotland.scot/our-areas-of-work/immunisation-vaccine-and-preventable-disease/immunisations-by-vaccine/hpv-immunisations/hpv-immunisation/overview/)
+3. Naidu J, Polonijo AN. Barriers and facilitators to HPV and menin-­
+
+gococcal vaccination among men who have sex with men:
+a qualitative study. BMC Public Health. 2023;23(1):933. doi: [10.](https://doi.org/10.1186/s12889-023-15847-w)
+[1186/s12889-023-15847-w .](https://doi.org/10.1186/s12889-023-15847-w)
+4. Nadarzynski Smith H, Pollard D, Richardson A, Llewellyn C,
+
+Llewellyn C. Perceptions of HPV and attitudes towards HPV
+vaccination amongst men whohave sex with men: a qualitative
+analysis. Br J Health Psychol. 2019;22(2):345–361. doi: [10.1111/](https://doi.org/10.1111/bjhp.12233)
+[bjhp.12233 .](https://doi.org/10.1111/bjhp.12233)
+5. Public Health Scotland. HV vaccine for men who have sex with
+
+[men (MSM). 2022. https://publichealthscotland.scot/our-areas-of-](https://publichealthscotland.scot/our-areas-of-work/immunisation-vaccine-and-preventable-disease/immunisations-by-vaccine/hpv-immunisations/hpv-immunisation/eligible-groups/hpv-vaccine-for-men-who-have-sex-with-men-msm/)
+[work/immunisation-vaccine-and-preventable-disease/immunisa](https://publichealthscotland.scot/our-areas-of-work/immunisation-vaccine-and-preventable-disease/immunisations-by-vaccine/hpv-immunisations/hpv-immunisation/eligible-groups/hpv-vaccine-for-men-who-have-sex-with-men-msm/)
+[tions-by-vaccine/hpv-immunisations/hpv-immunisation/eligible-](https://publichealthscotland.scot/our-areas-of-work/immunisation-vaccine-and-preventable-disease/immunisations-by-vaccine/hpv-immunisations/hpv-immunisation/eligible-groups/hpv-vaccine-for-men-who-have-sex-with-men-msm/)
+[groups/hpv-vaccine-for-men-who-have-sex-with-men-msm/ .](https://publichealthscotland.scot/our-areas-of-work/immunisation-vaccine-and-preventable-disease/immunisations-by-vaccine/hpv-immunisations/hpv-immunisation/eligible-groups/hpv-vaccine-for-men-who-have-sex-with-men-msm/)
+6. World Health Organisation (WHO). Human papilloma vaccina-­
+
+tion coverage. 2024. [https://immunizationdata.who.int/global/](https://immunizationdata.who.int/global/wiise-detail-page/human-papillomavirus-(hpv)-vaccinationcoverage?GROUP=WHO_REGIONS%26ANTIGEN=PRHPVC_M%26YEAR=%26CODE=)
+[wiise-detail-page/human-papillomavirus-(hpv)-](https://immunizationdata.who.int/global/wiise-detail-page/human-papillomavirus-(hpv)-vaccinationcoverage?GROUP=WHO_REGIONS%26ANTIGEN=PRHPVC_M%26YEAR=%26CODE=)
+[vaccinationcoverage?GROUP=WHO_REGIONS&ANTIGEN=](https://immunizationdata.who.int/global/wiise-detail-page/human-papillomavirus-(hpv)-vaccinationcoverage?GROUP=WHO_REGIONS%26ANTIGEN=PRHPVC_M%26YEAR=%26CODE=)
+[PRHPVC_M&YEAR=&CODE= .](https://immunizationdata.who.int/global/wiise-detail-page/human-papillomavirus-(hpv)-vaccinationcoverage?GROUP=WHO_REGIONS%26ANTIGEN=PRHPVC_M%26YEAR=%26CODE=)
+7. Brandt HM, Pierce JY, Crary A. Increasing HPV vaccination
+
+through policy for public health benefit. Hum Vaccines &
+Immunotherapeutics. 2016;12(6):1623–1625. doi: [10.1080/](https://doi.org/10.1080/21645515.2015.1122145)
+[21645515.2015.1122145 .](https://doi.org/10.1080/21645515.2015.1122145)
+8. Sweileh W. Bibliometric analysis of global scientific literature on
+
+vaccine hesitancy in peer-reviewed journals (1990–2019). BMC
+[Public Health. 2020;20(1):1252. doi: 10.1186/s12889-020-09368-z .](https://doi.org/10.1186/s12889-020-09368-z)
+9. Dubé E, Laberge C, Guay M, Bramadat P, Roy R, Bettinger J.
+
+Vaccine hesitancy: an overview. Hum Vaccines &
+Immunotherapeutics. 2013;9(8):1763–1773. doi: [10.4161/hv.](https://doi.org/10.4161/hv.24657)
+[24657 .](https://doi.org/10.4161/hv.24657)
+10. Nadarzynski T, Smith H, Richardson D, Jones CJ, Llewellyn CD.
+
+Human papillomavirus and vaccine-related perceptions among
+men who have sex with men: a systematic review. Sex Trans
+[Infect. 2014;90(7):515–523. doi: 10.1136/sextrans-2013-051357 .](https://doi.org/10.1136/sextrans-2013-051357)
+11. Nadarzyynski T, Frost M, Miller D, Wheldon C, Weirnik W, B M,
+
+Zou H, Richardson D, Marlow L, A V, et al. Vaccine acceptability,
+uptake and completion amongst men who have sex with men:
+a systematic review, meta-analysis and theoretical framework.
+[Vaccine. 2021;39(27):3565–3581. doi: 10.1016/j.vaccine.2021.05.013 .](https://doi.org/10.1016/j.vaccine.2021.05.013)
+12. Hao Z, Guo Y, Bowling J, Ledenyi M. Facilitators and barriers of
+
+HPV vaccine acceptance, initiation, and completion among
+LGBTQ community in the U.S.: a systematic review. Int J Sex
+[Health. 2021;34(2):291–307. doi: 10.1080/19317611.2021.1989535 .](https://doi.org/10.1080/19317611.2021.1989535)
+13. Butler A, Hall H, Copnell B. A guide to writing a qualitative
+
+systematic review protocol to enhance evidence-based practice in
+
+12 J. POW ET AL.
+
+nursing and health care. Worldviews Ev Based Nurs. 2016;13
+[(3):241–249. doi: 10.1111/wvn.12134 .](https://doi.org/10.1111/wvn.12134)
+14. Thomas J, Harden A. Methods for the thematic synthesis of qua-­
+
+litative research in systematic reviews. BMC Med Res Methodol.
+[2008;8(1):45–45. doi: 10.1186/1471-2288-8-45 .](https://doi.org/10.1186/1471-2288-8-45)
+15. McInally WM, Gray-Brunton C, Chouliara Z, Kyle RG.
+
+Experiences of living with cancer of adolescents and young adults
+and their families: a narrative review and synthesis. Enfermería
+Clin (Early Access). 2021;S1130-8621(21):00034–00036. doi: [10.](https://doi.org/10.1016/j.enfcli.2020.12.044)
+[1016/j.enfcli.2020.12.044 .](https://doi.org/10.1016/j.enfcli.2020.12.044)
+16. McHale S, Astin F, Neubeck L, Dawkes S, Hanson CL.
+
+A systematic review and thematic synthesis exploring how
+a previous experience of physical activity influences engagement
+with cardiac rehabilitation. Eur J Cardiovasc Nurs. 2020;19
+[(1):31–43. doi: 10.1177/1474515119882549 .](https://doi.org/10.1177/1474515119882549)
+17. Booth A. Searching for qualitative research for inclusion in sys-­
+
+tematic reviews: a structured methodological review. Systematic
+[Rev. 2016;5(1):74–74. doi: 10.1186/s13643-016-0249-x .](https://doi.org/10.1186/s13643-016-0249-x)
+18. Flemming K, Booth A, Garside R, Tunçalp Ö, Noyes J. Qualitative
+
+evidence synthesis for complex interventions and guideline devel-­
+opment: clarification of the purpose, designs and relevant
+methods. BMJ Global Health. 2019;4(Suppl 1):e000882–e000882.
+[doi: 10.1136/bmjgh-2018-000882 .](https://doi.org/10.1136/bmjgh-2018-000882)
+19. Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group.
+
+Preferred reporting items for systematic reviews and
+meta-analyses: the PRISMA statement. PLOS Medicine. 2009;6
+(7):e1000097. doi: [10.1371/journal.pmed.1000097. Epub 2009](https://doi.org/10.1371/journal.pmed.1000097)
+Jul 21. PMID: 19621072; PMCID: PMC2707599.
+20. Noyes J, Booth A, Flemming K, Garside R, Harden A, Lewin S,
+
+Pantoja T, Hannes K, Cargo M, Thomas J. Cochrane qualitative and
+implementation methods group guidance series—paper 3: methods
+for assessing methodological limitations, data extraction and synth-­
+esis, and confidence in synthesized qualitative findings. J Clin
+[Epidemiol. 2018;97:49–58. doi: 10.1016/j.jclinepi.2017.06.020 .](https://doi.org/10.1016/j.jclinepi.2017.06.020)
+21. Ellis P. Evidence-based practice in nursing (4th edition. ed.).
+
+Learning matters. Ellis, C. Adams, T.E. & Bochner, A.P. (2011).
+Autoethnography: an overview. Forum: Qual Social Res. 2019;12
+(1):Article 10. https ://doi -org.napier.idm.oclc.org/10 .17169/fqs12.1.1589.
+22. Hannes K, Lockwood C. Synthesizing qualitative research choos-­
+
+ing the right approach. Chichester (West Sussex): John Wiley &
+Sons; 2012.
+23. Critical Appraisal Skills Programme UK. CASP qualitative studies
+
+checklist. 2024. [https://casp-uk.net/casp-tools-checklists/qualita](https://casp-uk.net/casp-tools-checklists/qualitative-studies-checklist/)
+[tive-studies-checklist/ .](https://casp-uk.net/casp-tools-checklists/qualitative-studies-checklist/)
+24. Hannes K, Macaitis K. A move to more systematic and transparent
+
+approaches in qualitative evidence synthesis: update on a review of
+published papers. Qualitative Res. 2012;12(4):402–442. doi: [10.](https://doi.org/10.1177/1468794111432992)
+[1177/1468794111432992 .](https://doi.org/10.1177/1468794111432992)
+25. Dalton J, Booth A, Noyes J, Sowden AJ. Potential value of sys-­
+
+tematic reviews of qualitative evidence in informing user-centred
+health and social care: findings from a descriptive overview. J Clin
+[Epidemiol. 2017;88:37–46. doi: 10.1016/j.jclinepi.2017.04.020 .](https://doi.org/10.1016/j.jclinepi.2017.04.020)
+26. Mays N, Pope C, Popay J. Systematically reviewing qualitative and
+
+quantitative evidence to inform management and policymaking in
+the health field. J Health Serv Res Policy. 2005;10(1_suppl):6–20.
+[doi: 10.1258/1355819054308576 .](https://doi.org/10.1258/1355819054308576)
+27. Tong A, Palmer S, Craig JC, Strippoli GFM. A guide to reading and
+
+using systematic reviews of qualitative research. Nephrol Dialysis
+[Transplant. 2016;31(6):897–903. doi: 10.1093/ndt/gfu354 .](https://doi.org/10.1093/ndt/gfu354)
+28. Britten N, Campbell R, Pop C, Donovan J, Morgan M, Roisin P.
+
+Using meta ethnography to synthesise qualitative research:
+a worked example. J Health Serv Res Policy. 2002;7(4):209–215.
+[doi: 10.1258/135581902320432732 .](https://doi.org/10.1258/135581902320432732)
+29. Barnett-Page E, Thomas J. Methods for the synthesis of qualitative
+
+research: a critical review. BMC Med Res Methodol. 2009;9
+[(1):59–59. doi: 10.1186/1471-2288-9-59 .](https://doi.org/10.1186/1471-2288-9-59)
+30. Clarke L. Locating human papillomavirus (HPV) vaccination in the
+
+sexual health of gay, bisexual, and other men who have sex with men
+(GBMSM) in Scotland: a constructivist grounded theory study
+
+
+
+[thesis]. 2023. [https://napier-repository.worktribe.com/output/](https://napier-repository.worktribe.com/output/3175113/locating-human-papillomavirus-hpv-vaccination-in-the-sexual-health-of-gay-bisexual-and-other-men-who-have-sex-with-men-gbmsm-in-scotland-a-constructivist-grounded-theory-study)
+[3175113/locating-human-papillomavirus-hpv-vaccination-in-the-](https://napier-repository.worktribe.com/output/3175113/locating-human-papillomavirus-hpv-vaccination-in-the-sexual-health-of-gay-bisexual-and-other-men-who-have-sex-with-men-gbmsm-in-scotland-a-constructivist-grounded-theory-study)
+[sexual-health-of-gay-bisexual-and-other-men-who-have-sex-with-](https://napier-repository.worktribe.com/output/3175113/locating-human-papillomavirus-hpv-vaccination-in-the-sexual-health-of-gay-bisexual-and-other-men-who-have-sex-with-men-gbmsm-in-scotland-a-constructivist-grounded-theory-study)
+[men-gbmsm-in-scotland-a-constructivist-grounded-theory-study .](https://napier-repository.worktribe.com/output/3175113/locating-human-papillomavirus-hpv-vaccination-in-the-sexual-health-of-gay-bisexual-and-other-men-who-have-sex-with-men-gbmsm-in-scotland-a-constructivist-grounded-theory-study)
+31. Galea JT, Monsour E, Nurena CR, Blas MM, Brown B,
+
+Graham SM. HPV vaccine knowledge and acceptability among
+Peruvian men who have sex with men and transgender women:
+a pilot, qualitative study. (Report). PLOS ONE. 2017;12(2):
+[e0172964. doi: 10.1371/journal.pone.0172964 .](https://doi.org/10.1371/journal.pone.0172964)
+32. Nurena C, Brown B, Galea J, Sanchez H, Blas M, Graham SM.
+
+HPV and Genital warts among Peruvian men who have sex with
+men and transgender people: knowledge, attitudes and treatment
+experiences. PLOS ONE. 2013;8(3):e58684. doi: [10.1371/journal.](https://doi.org/10.1371/journal.pone.0058684)
+[pone.0058684 .](https://doi.org/10.1371/journal.pone.0058684)
+33. Fontenot HB, Fantasia HC, Zimet GD. Increasing HPV vaccina-­
+
+tion and eliminating barriers: recommendations from young men
+who have sex with men. J Adolesc Health. 2017;60(2):S124–S125.
+[doi: 10.1016/j.jadohealth.2016.10.424 .](https://doi.org/10.1016/j.jadohealth.2016.10.424)
+34. Gerend MA, Madkins K, Phillips G, Mustanski B. Predictors of
+
+human papillomavirus vaccination among young men who have
+[sex with men. Sex Transm Dis. 2016;43(3):185–191. doi: 10.1097/](https://doi.org/10.1097/OLQ.0000000000000408)
+[OLQ.0000000000000408 .](https://doi.org/10.1097/OLQ.0000000000000408)
+35. Gutierrez B, Leung A, Jones K, Smith P, Silverman R, Frank I,
+
+Leader A. Acceptability of the human papillomavirus vaccine
+among urban adolescent males. Am J Mens Health. 2013;7
+[(1):27–36. doi: 10.1177/1557988312456697 .](https://doi.org/10.1177/1557988312456697)
+36. Koskan AM, Fernández-Pineda M. Human papillomavirus vac-­
+
+cine awareness among HIV-Positive gay and bisexual men:
+a qualitative study. LGBT Health. 2018;5(2):145–149. doi: [10.](https://doi.org/10.1089/lgbt.2017.0109)
+[1089/lgbt.2017.0109 .](https://doi.org/10.1089/lgbt.2017.0109)
+37. Wheldon CW, Daley EM, Buhi ER, Baldwin JA, Nyitray AG,
+
+Giuliano AR. HPV vaccine decision-making among young men
+[who have sex with men. Health Educ J. 2017;76(1):52–65. doi: 10.](https://doi.org/10.1177/0017896916647988)
+
+[1177/0017896916647988 .](https://doi.org/10.1177/0017896916647988)
+38. Sullivan-Blum ZC, Brophy M, Didde R, Nagireddy R, Swagerty H,
+
+Weir S, Sykes KJ, Dietz C, Alt M, Ramaswamy M, et al. PrEP
+patient attitudes, beliefs and perceived barriers surrounding HPV
+vaccination: a qualitative study of semi structured interviews with
+PrEP patients in primary care clinics in Kansas and Missouri. BMJ
+Open. 2022;12(4):e058510. doi: [10.1136/bmjopen-2021-058510.](https://doi.org/10.1136/bmjopen-2021-058510)
+PMID: 35379639; PMCID: PMC8981353.
+39. Grace D, Gaspar M, Paquette R, Rosenes R, Burchell AN,
+
+Grennan T, Salit IE, Naanyu V. HIV-positive gay men’s knowledge
+and perceptions of human Papillomavirus (HPV) and HPV vacci-­
+nation: a qualitative study. PLOS ONE. 2018;13(11):e0207953–
+[e0207953. doi: 10.1371/journal.pone.0207953 .](https://doi.org/10.1371/journal.pone.0207953)
+40. Kesten JM, Flannagan C, Ruane-McAteer E, Merriel SWD,
+
+Nadarzynski T, Shapiro G, Rosberger Z, Prue G. Mixed-methods
+study in England and Northern Ireland to understand young men
+who have sex with men’s knowledge and attitudes towards human
+papillomavirus vaccination. BMJ Open. 2019;9(5):e025070–
+[e025070. doi: 10.1136/bmjopen-2018-025070 .](https://doi.org/10.1136/bmjopen-2018-025070)
+41. Nadarzynski T, Smith H, Richardson D, Pollard A, Llewellyn C.
+
+Perceptions of HPV and attitudes towards HPV vaccination
+amongst men who have sex with men: a qualitative analysis. Br J
+[Health Phychol. 2017;22:345–361. doi: 10.1111/bjhp.12233 .](https://doi.org/10.1111/bjhp.12233)
+42. Wang D, Wu J, Du J, Ong H, Tang B, Dozier M, Weller D,
+
+Campbell C. Acceptability of and barriers to human papilloma-­
+virus vaccination in China: a systemic review of the Chinese and
+[English scientific literature. Eur J Cancer Care. 2022;31(3). doi: 10.](https://doi.org/10.1111/ecc.13566)
+[1111/ecc.13566 .](https://doi.org/10.1111/ecc.13566)
+43. Gillis JL, Grennan T, Grewal R, Ogilvie G, Gaspar M, Grace D,
+
+Lofters A, Raboud JM, Saarela O, MacPherson P, et al. Influence of
+previous experience with and beliefs regarding anal cancer screen-­
+ing on willingness to be screened among men living with HIV.
+BMC Public Health. 2022;22(1):2444. doi: [10.1186/s12889-022-](https://doi.org/10.1186/s12889-022-14471-4)
+
+[14471-4 .](https://doi.org/10.1186/s12889-022-14471-4)
+44. Nandwani MC. Men’s knowledge of the human papillomavirus
+
+vaccine. Nurse Pract. 2010;35(11):32–39. doi: [10.1097/01.NPR.](https://doi.org/10.1097/01.NPR.0000388900.49604.e1)
+
+[0000388900.49604.e1. PMID: 20975448.](https://doi.org/10.1097/01.NPR.0000388900.49604.e1)
+
+45. Gray B, Farver, I, Jäger, M, Lenneis, A, Parve, K, Patarcic, D,
+
+Petrova, D, Hogg, R, Kennedy, C, Garcia-Retamero, R, et al.
+Young men’s communication needs for the human papillomavirus
+(HPV) vaccine: a cross – cultural, qualitative analysis in Scotland,
+Spain and the United States. Sub Int J Behavioural Med. 2024.
+46. Daley EM, Vamos CA, Zimet GD, Rosberger Z, Thompson EL,
+
+Merrell L. The feminization of HPV: reversing gender biases in US
+human papillomavirus vaccine policy. Am J Public Health.
+[2016;106(6):983–984. doi: 10.2105/AJPH.2016.303122 .](https://doi.org/10.2105/AJPH.2016.303122)
+47. Aleshire ME, Ashford K, Fallin-Bennett A, Hatcher J. Primary care
+
+providers’ attitudes related to LGBTQ people: a narrative literature
+review. Health Promot Pract. 2019;20(2):173–187. doi: [10.1177/](https://doi.org/10.1177/1524839918778835)
+[1524839918778835 . Epub 2018 Jun 27. PMID: 29947564.](https://doi.org/10.1177/1524839918778835)
+
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 13
+
+48. Hao Z, Guo Y, Bowling J, Ledenyi M. Facilitators and barriers of
+
+HPV vaccine acceptance, initiation and completion among
+LGBTQ community in the US: a systematic review. Int J Sex
+[Health. 2021;34(2):291–307. doi: 10.1080/19317611.2021.1989535 .](https://doi.org/10.1080/19317611.2021.1989535)
+49. Reiter PL, McRee A-L, Katz ML, Paskett ED. Human papilloma-­
+
+virus vaccination among young adult gay and bisexual men in the
+United States. Am J Public Health. 2015;105(1):96–102. doi: [10.](https://doi.org/10.2105/AJPH.2014.302095)
+[2105/AJPH.2014.302095 .](https://doi.org/10.2105/AJPH.2014.302095)
+50. Stupiansky NW, Liau A, Rosenberger J, Rosenthal SL, Tu W, Xiao S,
+
+Fontenot H, Zimet GD. Young men’sDdisclosure of same sex beha-­
+viors to healthcare providers and the impact on Health: results from
+a US national sample of young men who have sex with men. AIDS
+[Patient Care STDS. 2017;31(8):342–347. doi: 10.1089/apc.2017.0011.](https://doi.org/10.1089/apc.2017.0011)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

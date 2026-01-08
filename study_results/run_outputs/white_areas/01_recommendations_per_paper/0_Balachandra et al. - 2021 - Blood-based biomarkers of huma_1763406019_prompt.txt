@@ -1,0 +1,1182 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Original Article
+# Blood-Based Biomarkers of Human Papillomavirus–Associated Cancers: A Systematic Review and Meta-Analysis
+
+Sanjana Balachandra, BSA ; Samuel B. Kusin, BA; Rebecca Lee, MD [1] ; James-Michael Blackwell, MPH [2] ;
+Jasmin A. Tiro, PhD [2,3] ; Lindsay G. Cowell, PhD [2,4] ; Cheng-Ming Chiang, PhD [3,5,6] ; Shwu-Yuan Wu, PhD [3,5] ;
+Sanskriti Varma, MD [7] ; Erika L. Rivera, MD [8] ; Helen G. Mayo, MLS [9] ; Lianghao Ding, PhD [10] ; Baran D. Sumer, MD [1] ;
+Jayanthi S. Lea, MD [11] ; Aditya Bagrodia, MD 12 ; Linda M. Farkas, MD 13 ; Richard Wang, MD 14 ; Carole Fakhry, MD,
+MPH 15 ; Kristina R. Dahlstrom, PhD 16 ; Erich M. Sturgis, MD, MPH 16 [; and Andrew T. Day, MD, MPH](mailto:﻿) 1,3
+
+INTRODUCTION
+
+Human papillomavirus (HPV)–associated cancers impose a substantial burden on society. HPV causes more than 30,000
+oropharyngeal, cervical, and other anogenital cancers in the United States each year. [1] HPV-associated oropharyngeal
+cancer (OPC) has risen rapidly in incidence and has recently overtaken cervical cancer, and its incidence is expected to
+continue to increase over the next few decades. [2,3] The treatment of HPV-associated cancers is associated with substantial
+morbidity, and more than 8000 patients die of the disease annually. [4] These cancers are also expensive: the cost of cancer
+care totals approximately $1 billion, and population-level cancer prevention costs an estimated $8 billion annually. [5]
+
+Ongoing primary and secondary preventive interventions targeting HPV-associated cancers effectively protect particular populations [6] but fail to address all individuals vulnerable to HPV-related cancers. For example, prophylactic HPV
+vaccination is recommended only for females and males aged 9 to 26 years and is optional for adults aged 27 to 45 years.
+
+**Corresponding Author:** Andrew T. Day, MD, MPH, Department of Otolaryngology–Head and Neck Surgery, UT Southwestern Medical Center, 2001 Inwood Rd, Dallas,
+[TX 75390-9035 (andrew.day@utsouthwestern.edu).](mailto:andrew.day@utsouthwestern.edu)
+
+1 Department of Otolaryngology–Head and Neck Surgery, UT Southwestern Medical Center, Dallas, Texas; 2 Department of Population and Data Sciences, UT Southwestern
+Medical Center, Dallas, Texas; [3] Simmons Comprehensive Cancer Center, UT Southwestern Medical Center, Dallas, Texas; [4] Department of Immunology, UT Southwestern
+Medical Center, Dallas, Texas; [5] Department of Biochemistry, UT Southwestern Medical Center, Dallas, Texas; [6] Department of Pharmacology, UT Southwestern
+Medical Center, Dallas, Texas; [7] Department of Internal Medicine, NewYork-Presbyterian Hospital–Columbia Campus, New York, New York; [8] Department of General
+Surgery, Vanderbilt University Medical Center, Nashville, Tennessee; [9] Digital Library and Learning Center, UT Southwestern Medical Center, Dallas, Texas; [10] Department
+of Radiation Oncology, UT Southwestern Medical Center, Dallas, Texas; [11] Department of Obstetrics and Gynecology, UT Southwestern Medical Center, Dallas, Texas;
+12 Department of Urology, UT Southwestern Medical Center, Dallas, Texas; 13 Department of Surgery, UT Southwestern Medical Center, Dallas, Texas; 14 Department of
+Dermatology, UT Southwestern Medical Center, Dallas, Texas; [15] Department of Otolaryngology–Head and Neck Surgery, Johns Hopkins University School of Medicine,
+Baltimore, Maryland; [16] Department of Head and Neck Surgery, The University of Texas MD Anderson Cancer Center, Houston, Texas
+
+The authors thank Katie Lobner, MLIS at Johns Hopkins University, Welch Medical Library for developing the preliminary literature search strategy.
+
+Additional supporting information may be found in the online version of this article.
+
+**DOI:** 10.1002/cncr.33221, **Received:** April 15, 2020; **Revised:** June 6, 2020; **Accepted:** June 14, 2020, **Published online** December 3, 2020 in Wiley Online Library
+­(wileyonlinelibrary.com)
+
+850 Cancer March 15, 2021
+
+Blood-Based HPV-Associated Cancer Screening/Balachandra et al
+
+
+Furthermore, full series uptake is only 51% in US adolescents. [7] The most commonly used vaccine, Gardasil 9, promotes immunogenicity toward the most common high-risk
+HPV types but does not protect against 4 rarer oncogenic
+HPV types. [8] Moreover, the benefits of vaccination may not
+be realized for decades. The median age of presentation
+with HPV+ OPC is 58 years, so it may take 30 years until
+the most at-risk age group will have been vaccinated.
+Secondary HPV-associated cervical cancer prevention, or screening, is the standard of care for women
+aged 21 to 65 years. However, screening for other HPVassociated cancers is not available in the United States. [9]
+
+Current cervical cancer screening guidelines recommend
+3 different screening modalities for women aged 21 to 65
+years: cervical cytology (Papanicolaou [Pap] test), primary
+screening for high-risk HPV types, or both the Pap test
+and HPV screening (cotesting). [9,10] With the widespread
+adoption of the Pap test in the 1960s in the United States,
+the age-adjusted cervical cancer incidence and mortality decreased more than 50% from 1975 to 2008. [11]
+Screening is cost-effective in developing and developed
+countries. [12-14] The efficacy and impact of cervical cancer
+screening should inspire efforts to develop secondary preventive interventions for other HPV-associated cancers.
+
+Because of the significant economic and public
+health burden of HPV-associated cancers, which is driven
+primarily by HPV+ OPCs, there is a significant need for
+novel secondary preventive interventions. Blood-based
+biomarkers represent an ideal potential modality for the
+early detection or surveillance of HPV-associated cancers
+at all sites. Preliminary research has highlighted the potential application of HPV-16 antibodies and circulating
+HPV DNA. [15,16] To date, HPV-16–based biomarkers
+have garnered the most attention because HPV-16 causes
+nearly 80% of all anal cancers and approximately half of
+all oropharyngeal and cervical cancers worldwide. [17-19]
+However, several other blood-based biomarkers, including
+cytokine levels, vitamins and cofactors, and various gene
+polymorphisms, have been explored.
+The objective of this systematic review and meta-analysis was to identify and characterize the potential
+validity of candidate blood-based biomarkers of HPVassociated cancers by pooling and analyzing cohort and
+case-control study data.
+
+MATERIALS AND METHODS
+
+*Overview*
+
+The study protocol did not involve identifiable human
+subjects, was classified as exempt human subjects research,
+
+
+and did not require oversight from the Institutional Review
+Board. With search concepts including *human papilloma-*
+*virus*, *cancer*, *biomarkers*, and *blood*, formal comprehensive
+search strategies were developed with the assistance of medical librarians (H.G.M. and K.L.). MEDLINE, EMBASE,
+Web of Science, Scopus, and Cochrane Central were
+searched from their inception through October 26, 2018,
+with the search terms documented in the supporting information. In all, 5687 articles were identified and exported to
+EndNote 8; 2179 duplicates were removed, and 3631 candidate titles and abstracts were independently reviewed by 2
+authors (S.B. and S.K.). Disputes were arbitrated by a third
+author (A.T.D.). Forty-three additional articles were identified on bibliographic review. Of the 3674 articles, 702 underwent a full-text review, and 137 were included (Fig. 1).
+
+*Inclusion Criteria*
+
+Eligible manuscripts included cohort and case-control
+studies involving at least 5 patients with text available in
+the English language. Cases were defined as patients with
+primary, invasive cancers involving the oropharynx, cervix, anus, vulva, vagina, or penis with blood samples collected before treatment. Controls were defined as patients
+without cancer or precancer.
+
+*Exclusion Criteria*
+
+Studies not evaluating a blood-based biomarker or studies
+without human subjects were excluded. Articles without appropriate cases were excluded; they included studies without
+invasive cancer cases (ie, patients with cervical intraepithelial
+neoplasia [CIN] or carcinoma in situ only), studies aggregating cancers and precancers (ie, studies not differentiating
+invasive cancer cases from dysplasia, CIN, or carcinoma in
+situ), and non–subsite-specific studies that did not sufficiently differentiate between HPV+ and HPV– disease (ie,
+head and neck mucosal squamous cell carcinoma patients
+with involvement of the oropharynx or another site [oral
+cavity, larynx, or hypopharynx]). Articles without appropriate controls were excluded; they included case-case studies,
+case-only studies (ie, absence of a control group), and studies
+aggregating controls with dysplasia or precancer (ie, inclusion of CIN patients with controls). Genotype and human
+leukocyte antigen (HLA) studies were also excluded. In addition, because of the high volume of HPV antibody studies in the cervical cancer literature, blood-based antibody
+studies involving this site with fewer than 500 patients (cases
+plus controls) were excluded. Conversely, all eligible bloodbased antibody studies involving other anatomic sites were
+included. Studies that did not present data in a numerical
+form, did not specify units, did not specify the antibody type
+
+
+Cancer March 15, 2021 851
+
+Ori g inal Article
+
+
+
+|ZĞĐŽƌĚƐŝĚĞŶƟĮĞĚƚŚƌŽƵŐŚ ĚĂƚĂďĂƐĞƐĞĂƌĐŚŝŶŐ ;ŶсϱϲϴϳͿ|Col2|
+|---|---|
+|||
+
+|ĚĚŝƟŽŶĂůƌĞĐŽƌĚƐŝĚĞŶƟĮĞĚ ƚŚƌŽƵŐŚŽƚŚĞƌƐŽƵƌĐĞƐ ;ŶсϰϯͿ|Col2|
+|---|---|
+|||
+
+
+
+
+
+
+
+
+**Figure 1.** Preferred Reporting Items for Systematic Reviews and Meta-Analyses diagram. CTL, cytotoxic T-lymphocyte; HLA indicates
+human leukocyte antigen; HPV, human papillomavirus; OPC, oropharyngeal cancer.
+
+
+(eg, HPV-16 instead of HPV-16 E6), did not present data for
+both cases and controls, or evaluated only the association of
+a blood-based biomarker with another factor (eg, smoking)
+were also excluded. Antibody studies evaluating only seropositivity against L antigens were excluded because of their high
+prevalence in controls, the potential confounding association
+with vaccination, and a lack of correlation with neoplasia. [20]
+Two articles were unable to be obtained after an extensive
+online search and assistance from the research librarian. [21,22]
+
+*Study Categorization*
+Study data were presented according to anatomic site (ie,
+oropharyngeal, cervical, anal, penile, vulvar, and vaginal
+sites) and biomarker type (antibody, circulating DNA,
+
+
+and others). HPV was deemed a cause of OPC in 2007
+and now accounts for 70% of OPCs. [23] Given this recent
+development, many OPC studies did not stratify tumors
+according to the HPV or p16 status, a sensitive and
+specific surrogate marker for HPV. [24] Therefore, OPC
+studies that did specify the HPV or p16 status were analyzed separately. Studies of other anogenital sites did not
+regularly stratify tumors according to the HPV status.
+Antibody studies examining immunoglobulin G antibodies were categorized according to site, and the 2 antibodies with the strongest correlation with cancer are
+presented in the tables. For antibody studies in which
+various optical densities were tested, the optical density that showed the greatest odds ratio was chosen for
+
+
+852 Cancer March 15, 2021
+
+Blood-Based HPV-Associated Cancer Screening/Balachandra et al
+
+**Figure 2.** Performance characteristics of HPV-16 E6 antibodies in patients with p16- or HPV-unspecified and specified cancer versus
+cancer-free controls. Patients with p16+ or HPV+ cancers had greater odds of exhibiting HPV-16 E6 antibodies compared to patients
+with p16- or HPV-unspecified cancers. CI indicates confidence interval; HPV, human papillomavirus.
+
+
+analysis. Exceptions to this methodology were as follows:
+some studies evaluated only 1 antibody; if studies did
+not present odds ratio data and presented only sensitivity
+and specificity, then all the antibodies were presented;
+and if studies described the same odds ratios for multiple
+antibodies, then all those antibodies were listed.
+
+*Risk of Bias Analysis*
+We applied the Tool to Assess Risk of Bias in CaseControl Studies to assess the risk of bias in the included
+studies. [25,26] Studies were characterized as having a low,
+moderate (higher), or high risk of bias according to 5 domains (Supporting Tables 1 and 2). An overall risk of bias
+score was assigned to each study according to the highest
+risk of bias designation in any domain. All studies identified are reported in Supporting Table 3.
+
+RESULTS
+
+*Overview*
+
+We identified 137 eligible studies. Among all evaluated
+blood-based biomarker candidates for HPV-associated
+
+cancers, HPV-16 E antibodies and circulating HPV DNA
+exhibited the strongest biomarker performance characteristics. [27-40] (Figs. 2-5). Although select microRNA expression profiles exhibited modest associations with cervical
+cancers in comparison with controls, significant findings
+were not conserved across studies [41-43] (Table 1). Finally,
+among the multitudinous invalid blood-based biomarker
+candidates identified in this review (Supporting Table 4),
+interferon-γ (IFN-γ), serum folate, insulin-like growth factor binding protein 3 (IGFBP-3), and insulin-like growth
+factor 1 (IGF-1) are highlighted in Figure 6 because
+pooled studies trended toward exhibiting a correlation
+with HPV-associated cancers compared to controls. [44-55]
+
+
+*HPV-16 E Antibody Associations With*
+*Oropharyngeal and Anogenital Cancer*
+
+HPV antibodies were the most common blood-based
+
+biomarkers for HPV-associated cancers assessed in this
+
+review. Many studies evaluated multiple antibodies
+for 1 or more HPV genotypes. To crudely determine
+which blood-based antibody biomarkers to select for
+presentation in the review, the 2 type-specific antibodies with the strongest association with cancer cases were
+identified in each study, ranked and then tallied across
+all studies. HPV-16 E6 antibodies exhibited the most
+
+significant association with cancer cases in 19 studies,
+followed by HPV-16 E7 antibodies, which exhibited
+the strongest association with cancer cases in 13 studies
+(Supporting Table 5).
+Analyses in Figure 2 demonstrate that HPV-16 E6
+seropositivity is significantly associated with oropharyngeal and cervical cancers at the time of diagnosis in
+comparison with controls, regardless of tumor HPV or
+p16 status. Among pooled populations of known p16+
+or HPV+ cancer cases and controls, HPV-16 E6 seropositivity exhibited very strong associations with OPC
+(crude odds ratio [cOR], 133.10; 95% confidence interval [CI], 59.40-298.21; sensitivity, 56.3%; 95% CI,
+44.4%-68.1%; specificity, 99.0%; 95% CI, 98.2%99.7%) [27,32,56] and cervical cancer (cOR, 81.61; 95%
+CI, 29.24-227.78; sensitivity, 50.3%; 95% CI, 43.1%57.4%; specificity, 98.8%; 95% CI, 97.6%-100.0%). [57]
+
+The findings in Figure 3 corroborate Figure 2 and
+establish that HPV-16 E6–seropositive individuals are
+significantly more likely to develop an HPV-associated
+cancer than seronegative individuals. In pooled analyses
+of nested case-control studies within cancer epidemiology cohorts, HPV-16 E6 seropositivity identified before
+
+
+Cancer March 15, 2021 853
+
+Ori g inal Article
+
+**Figure 3.** Performance characteristics ofHPV-16 E6 antibodies in serum collected up to 13.7years before diagnosis in HPV-unspecified
+patients versus cancer-free controls. E6 antibodies showed the strongest associations with anal and oropharyngeal cancers. CI
+indicates confidence interval; HPV, human papillomavirus.
+
+**Figure 4.** Performance characteristics of HPV-16 E antibodies in patients with HPV-unspecified oropharyngeal cancer versus
+cancer-free controls. HPV-16 E antibody cotesting showed nonsignificantly improved performance characteristics compared to
+HPV-16 E6 or E7 antibodies alone. The 2016 study by Anantharaman et al [34] was not included in the pooled analysis because the
+study population overlapped with Anantharaman et al’s 2013 study. [29] CI indicates confidence interval; HPV, human papillomavirus. [127]
+
+
+a cancer diagnosis predicted the development of all HPVassociated cancer types. [58-60]
+
+Analyses in Figures 2 and 3 also highlight the variability in the strength of HPV-16 E6 antibody associations with cancer across anatomic sites. Notably, in
+
+
+pooled analyses of both HPV- or p16-unspecified and
+specified case-control studies (Fig. 2), HPV-16 E6 seropositivity exhibited nonsignificantly stronger associations with OPC (cOR in unspecified OPC, 25.41; 95%
+CI, 8.71-74.06) [27-33] in comparison with cervical cancer
+
+
+854 Cancer March 15, 2021
+
+Blood-Based HPV-Associated Cancer Screening/Balachandra et al
+
+**Figure 5.** Performance characteristics of circulating HPV-16 and HPV-18 DNA in patients with cervical cancer versus cancer-free
+controls. Circulating HPV-16 DNA showed nonsignificantly greater validity compared to HPV-18 DNA. CI indicates confidence
+interval; HPV, human papillomavirus.
+
+
+(cOR, 12.05; 95% CI, 3.23-44.97). [57,61-64] According to
+pooled analyses in Figure 3, HPV-16 E6 antibodies exhibited particularly strong associations with anal cancers
+and OPCs and relatively modest associations with cervical, penile, and vulvovaginal cancers. Data in Supporting
+Figure 2 further confirm these findings: HPV-16 E7 seropositivity modestly predicts for development of OPC
+and anal cancer but not penile or cervical cancer. [58-60]
+Finally, HPV E antibody studies evaluating associations with noncervical anogenital case-control studies
+were sparse, and significant findings were not conserved
+across studies (Supporting Fig. 6). [65-67]
+
+Pooled analyses of OPC and anogenital cancer
+case-control studies in Figures 2 and 3 demonstrate that
+blood-based HPV-16 E6 antibody biomarkers generally
+exhibit nonsignificantly superior performance characteristics for HPV-associated cancers in comparison with
+HPV-16 E7 antibodies. Overall, across all anatomic sites,
+prediagnostic serum HPV-16 E7 antibodies had weaker
+associations with cancer in comparison with HPV-16
+E6 antibodies (Fig. 3 and Supporting Figs. 1 and 3). As
+described in Figure 4, HPV-16 E6 seropositivity (cOR,
+25.41; 95% CI, 8.71-74.06) exhibited nonsignificantly
+stronger associations with OPC in comparison with E7
+seropositivity (cOR, 16.49; 95% CI, 5.25-51.75). [27-33]
+However, in p16+ or HPV+ OPCs (Supporting Fig.
+2), HPV-16 E7 seropositivity (cOR, 165.12; 95% CI,
+70.26-388.04) was nonsignificantly stronger compared
+to HPV-16 E6 seropositivity (cOR, 133.10; 95% CI,
+
+
+59.40-298.21). [27-33] Supporting Figure 4 demonstrates
+that HPV-16 E6 antibodies exhibited modest but stron
+ger associations with cervical cancer (cOR, 12.05; 95%
+CI, 3.23-44.97) [57,61-64] in comparison with HPV-16 E7
+antibodies (cOR, 4.975; 95% CI, 2.02-12.28). [57,61-64,68]
+
+Concurrent testing of different HPV-16 E antibodies nonsignificantly augmented the performance
+characteristics of singular HPV-16 E antibodies (Fig. 4).
+Pooled data from 3 studies demonstrated that a com
+bination of HPV-16 E6 and/or E7 antibodies exhibited the strongest associations with unspecified OPC
+(cOR, 452.8; 95% CI, 40.93-5010.29; sensitivity,
+77.0%; 95% CI, 64.1%-89.9%; specificity, 99.0%;
+95% CI, 97.8%-100%). [27,28,32] In a single-institution
+study conducted by Anderson et al in 2015, [32] a combination of NE2, CE2, E6, and/or E7 showed stronger
+associations with p16+ or HPV+ OPC (cOR, 685.65;
+95% CI, 155.41-3024.98; Supporting Fig. 3) than
+p16- or HPV-unspecified OPC (cOR, 132.96; 95% CI,
+59.15-298.87).
+Supporting Figure 5 describes studies evaluating
+antibodies to more than 1 HPV type (ie, HPV-16 and
+HPV-18) in patients with cervical cancer and controls.
+In contrast to OPCs, antibody cotesting in cervical cancer exhibited weak performance characteristics. [62,63,68]
+
+*Circulating HPV DNA in Cervical Cancer*
+A pooled analysis of 6 studies (Fig. 5) showed that the
+association of circulating HPV-16 DNA with cervical
+
+
+Cancer March 15, 2021 855
+
+Ori g inal Article
+
+
+cancer was modest but significant (cOR, 15.7; 95%
+CI, 3.4-72.6). [35-40] In this population, the performance
+characteristics of circulating HPV-18 DNA were weaker
+than those of HPV-16 DNA. [36-40] In the only HPV+
+OPC case-control study on the topic (n = 50), circulating HPV-16/18 DNA was found to be 65% sensitive
+and 100% specific. [69]
+
+*MicroRNA in Cervical Cancer*
+
+Table 1 describes the expression profiles of several microRNAs in 3 cervical cancer patient case-control studies. [41-43] miR-20a, miR-205, miR-1246, miR-2392,
+miR-3147, and miR-3162-5p were all significantly
+overexpressed, and miRNA-218 was significantly underexpressed in patients with cancer in comparison with
+controls. However, significant microRNA expression
+profiles were not conserved across any of the 3 studies.
+
+*Other Candidate Blood-Based Biomarkers in*
+
+*Oropharyngeal and Anogenital Cancer*
+Figure 6 highlights the overall weak performance characteristics of other candidate blood-based biomarkers for
+
+HPV-associated cancers. Eight studies demonstrated no
+significant difference in the blood-based levels of IGF-1,
+IGFBP-3, folate, or IFN-γ in patients with cervical cancer
+in comparison with controls. [44-47,52-55]
+
+Supporting Table 4 describes all other studies with
+potential biomarker candidates identified in this review.
+These other biomarker candidates were categorized as vitamins, immunologic markers, apoptotic markers, tumor
+markers, tumor suppressors and oncogenes, sex hormones, growth factors, cell-signaling molecules, matrix
+metalloproteinases and inhibitors, products of oxidative
+stress, enzymes, macro- and micromolecules, molecular
+markers and chromosomal aberrations, or miscellaneous
+
+markers.
+
+DISCUSSION
+
+This meta-analysis demonstrates that among all identified blood-based biomarkers to date, HPV-16 E
+antibodies and circulating HPV DNA exhibited the
+strongest associations with HPV-associated cancers.
+Blood-based HPV-16 E antibody biomarkers exhibited
+robust associations with oropharyngeal and anal cancers
+and weaker associations with cervical, vulvovaginal, and
+penile cancers. Notably, the strength of the associations
+was significant across all 3 OPC study populations: prediagnostic serum specimens from cancer epidemiology
+cohorts, and p16+/HPV+ or p16/HPV-unspecified
+cases from serum collected at the time of diagnosis.
+
+856 Cancer March 15, 2021
+
+Blood-Based HPV-Associated Cancer Screening/Balachandra et al
+
+**Figure 6.** Performance characteristics of other candidate blood-based biomarkers in patients with cervical cancer versus cancer-free
+controls. None of the biomarkers listed here showed significant associations for cervical cancer. Four studies were not included in
+the pooled analyses because of overlapping patient populations [48] or heterogenous data-reporting methods (eg, reporting medians
+or geometric means). [49-51] CI indicates confidence interval; IFN-γ, interferon-γ; IGF-1, insulin-like growth factor 1; IGFBP-3, insulin-like
+growth factor binding protein 3; SD, standard deviation.
+
+
+HPV-16 E antibody cotesting (eg E6 and/or E7 antibodies) exhibited nonsignificantly improved validity in
+comparison with independently assessed E antibodies
+across p16- or HPV-specific OPC and unspecified OPC
+tumor types. Circulating HPV-16 and HPV-18 DNA
+also exhibited significant associations with OPC and
+cervical cancers. Blood-based microRNA expression
+profiles exhibited associations with cervical cancers, but
+significant findings were not conserved across studies.
+Pooled analyses of other candidate biomarkers did not
+reveal significant correlations with HPV-associated cancers; notably, however, blood-based genetic biomarkers
+(ie, HLA or single-nucleotide polymorphisms [SNPs])
+were not evaluated in this review.
+
+Both HPV-16 E antibodies and circulating HPVDNA exhibited comparably strong associations with
+HPV-associated cancers. Therefore, validation studies
+assessing the performance characteristics of these 2 biomarker types, in isolation and via concurrent testing,
+are warranted. Because of variation in type–specific,
+high-risk HPV DNA prevalence according to anatomic
+site and world region, both classes of biomarkers should
+be adapted to target multiple high-risk HPV genotypes.
+Finally, we argue that these biomarkers should serve
+
+
+as references in the assessment of novel blood-based
+
+biomarkers.
+
+Prediagnostic HPV-16 E6 antibodies showed significant associations with cancer across all anatomic sub
+sites. A recent nested OPC case-control analysis of pooled
+cancer epidemiology cohorts (n = 743 cases, n = 5814
+controls) provides the most up-to-date analysis of the kinetics of seroconversion among patients with incident
+OPC. [70] The prevalence of HPV-16 E6 seropositivity was
+inversely associated with the lead time. Serum HPV-16
+E6 antibodies were present in: 38.9% of individuals less
+than 10 years prior to their OPC diagnosis; 23.7% of individuals 10 to 20 years before to their diagnosis, 13.5%
+of individuals 20 to 30 years prior to their diagnosis, and
+0% of individuals more than 30 years before their OPC
+diagnosis. The identification of a detectable HPV-16 E
+antibody immune response decades before the development of OPC indicates that a subclinical disease state ex
+ists. Collectively, these findings highlight the promise of
+HPV-16 E6 antibodies in screening for HPV-associated
+cancers and for HPV+ OPC in particular.
+Although HPV-16 E6 or E7 antibodies proved to
+be valid blood-based biomarkers for all HPV-associated
+
+cancers, the strength of the association varied significantly
+
+
+Cancer March 15, 2021 857
+
+Ori g inal Article
+
+according to the anatomic site. HPV-16 E antibody biomarker validity is superior at oropharyngeal and anal sites
+in comparison with cervical, vulvovaginal, and penile
+sites; however, we identified only 5 noncervical anogenital cancer studies, highlighting the overall dearth of data
+on blood-based biomarkers for these cancers. Therefore,
+in light of available evidence and the lower incidence of
+anal cancer, HPV-16 E antibodies may serve as a better
+biomarker for OPC, the most common HPV-associated
+cancer, in comparison with other HPV-associated cancers.
+The heterogeneity in biomarker validity across anatomic sites is multifactorial. First, some investigators have
+argued that infection or cancer arising in the oropharynx
+may be more immunogenic than infection or cancer arising at other anatomic sites, such as the cervix. The oropharynx is largely lined by the palatine and lingual tonsils
+(lymphoid organs contributing to humoral and cell-mediated immunity), whereas cervical immunity is mediated
+by the mucosa. [71-73] However, this explanation does not
+account for the superior validity of the biomarker for
+cancers arising at the mucosally-lined anus. Ultimately,
+an improved understanding of differences in immune
+response in at-risk mucosal anatomic sites may advance
+secondary prevention of HPV-associated cancers.
+Second, differences in biomarker validity across anatomic sites may be attributed to differences in etiology.
+For instance, approximately 75% of head and neck cancers overall are caused by alcohol and tobacco, with the
+other 25% attributable to HPV. [3,74,75] In contrast, alcohol
+and tobacco are less significant risk factors for anogenital
+cancers in comparison with HPV. [76,77]
+
+Third, the prevalence of HPV type–specific,
+site-specific cancers also varies according to geographic
+location. [17] Although high-risk HPV DNA is present in
+82% of invasive cervical cancers and 79% of anal cancers worldwide, [17-19] in the United States, relatively higher
+proportions of these cancers are attributable to high-risk
+HPV: 91% of cervical cancers and 91% of anal cancers. [75] The worldwide prevalence of HPV-16–associated OPC varies even more greatly and is: 59.3% in the
+United States (95% CI, 53.1%-65.5%), 31.1% in Europe
+(95% CI, 22.7%-39.5%), and 4.1% in Brazil (95% CI,
+1.1%-7.1%). [78] In our meta-analysis, we found that the
+majority of OPC studies included populations from the
+United States and Europe, and the majority of cervical
+cancer studies included populations from Europe or Asia
+(particularly India). These data highlight the need to
+develop biomarkers accounting for the heterogeneity of
+etiologies. Within individual cancer subsites, HPV-16 E6
+antibodies generally trended toward stronger correlations
+
+
+with HPV-associated cancers in comparison with E7
+antibodies. Notably, our pooled analyses demonstrated
+no significant differences in validity between the 2 antibody types. Nonetheless, these findings generally corroborate reports that HPV-16 E7 antibodies are present
+in a higher proportion of cancer-free control patients
+(2%-11%) in comparison with HPV-16 E6 antibodies
+(0.4%-0.7%). [29,31,59,70,79,80]
+
+Importantly, antibody cotesting (eg, E6 and/or E7)
+exhibited relatively improved validity (E6 and/or E7) or
+significantly improved validity (a predefined E antibody
+panel) in comparison with independently assessed E antibodies (eg, E6) in pooled OPC case-control studies.
+In their recent pooled HPV+ OPC case-control study
+(n = 306), D’Souza et al [81] reported mixed results from
+cotesting with multiple HPV-16 antibodies. HPV-16 E6
+and E7 antibody testing improved specificity (100%)
+but decreased sensitivity (69%); HPV-16 E6 and/or E7
+testing improved sensitivity (94%) and decreased specificity (93%); and HPV-16 E1, E2, E6, and/or E7 testing
+maximized sensitivity (96%) but further compromised
+specificity (91%). In contrast, antibody testing of multiple HPV strains and antibodies in cervical cancers was
+not shown to have as significant validity. In the absence
+of expert consensus, additional validation studies comparing HPV-16 E antibody combinations will be needed
+to identify the strongest antibody combination for
+screening. [16,32,70,81]
+
+In this meta-analysis, circulating HPV DNA exhibited validity in cervical cancer case-control studies comparable to that of HPV-16 E antibodies. In a review of
+HPV+ OPC case-only or case-case studies (HPV+ OPCs
+vs HPV– OPCs), pretreatment circulating HPV DNA
+detected by conventional real-time and/or quantitative
+techniques also exhibited high sensitivities ranging from
+61% to 95%. [82] Advances in technology such as digital
+droplet polymerase chain reaction (ddPCR) may further
+augment the validity of circulating HPV DNA. Using
+ddPCR targeting select high-risk DNA strains, Chera et
+al [83] and Wang et al [84] reported 88% and 86% sensitivity
+among patients with known p16+ or HPV+ head and
+neck cancer, respectively. Circulating HPV-16 DNA detected by ddPCR is also valid at other subsites: among patients with advanced anal carcinoma, the biomarker was
+91% sensitive. [85]
+
+Circulating HPV DNA has shown potential efficacy
+in posttreatment cancer surveillance. The detection rate
+of HPV DNA in cervical cancers is greater in later stage
+cancers in comparison with carcinoma in situ, emphasizing that circulating HPV DNA appears to dynamically
+
+
+858 Cancer March 15, 2021
+
+Blood-Based HPV-Associated Cancer Screening/Balachandra et al
+
+
+reflect the real-time tumor status of newly diagnosed
+patients with HPV-associated carcinomas. [69,86] There is
+limited evidence that HPV-16 E6 seropositivity is useful
+in the surveillance of patients with HPV-associated cancer. In one study, patients with HPV+ OPC recurrence
+had higher E6 and E7 antibody levels than those who did
+not experience recurrence ( *P* = .02 and *P* = .002, respectively). [87] These elevated antibody levels after treatment
+might reflect evidence of response to the active tumor. [87]
+Further studies are needed to evaluate the role of circu
+lating HPV DNA and potentially HPV E antibodies in
+HPV-associated cancer surveillance.
+
+Pooled cervical cancer case-control study data suggest that the continued search for a blood-based microRNA expression signature for HPV-associated cancers
+may be warranted. MicroRNAs are a class of noncoding
+short-nucleotide RNAs that regulate posttranscriptional
+gene expression. Among the 2500 microRNA sequences
+identified to date, some microRNA signature associations
+with other cancers and cancer-specific, prognostic, microRNA-based risk classifiers have been established. [88-101]
+
+Further, investigators evaluating HPV+ tumor tissue
+have reported discovery of unique microRNA expression
+signatures. [102-105] Our meta-analysis features 8 unique
+blood-based microRNAs which were correlated with cer
+vical cancer, although, none were conserved across the 3
+studies. However, because of the vast number of microRNAs and lack of specificity for HPV+ cancers, identifying
+a valid expression profile for HPV-associated cancers may
+prove challenging. Limited stability also constrain their
+promise: microRNA testing requires more intensive and
+rapid specimen collection, processing, and storage protocols. [41,106,107] More highly powered case-control studies
+evaluating not only microRNA expression profiles specific to HPV-associated cancers but also effective and effi
+cient sample analysis techniques are needed to strengthen
+its utility as a biomarker.
+Although several studies evaluated blood-based
+folate, IGF-1, IGFBP-3, and IFN-γ levels as candidate
+biomarkers for HPV-associated cancers, none were valid
+according to our meta-analysis. There are multiple pathophysiologic bases for the consideration and evaluation of
+these potential biomarkers. Folate is a cofactor in several
+metabolic reactions, including mitosis and DNA synthesis, and prior studies have shown conflicting results with
+respect to folate levels and cancer risk. [108-111] IGF-1 influences cell cycle progression and apoptosis, and IGFBP-3
+binds to IGF-1 and thus prevents its degradation and increases its activity. Although lower levels of IGF-1 have
+been associated with cervical cancer, higher levels of IGF
+
+
+have been associated with cancers at other sites, such as
+lung and colorectal cancers. [44] IFN-γ is a cytokine contributing to host antiviral responses and antitumor activity by augmenting natural killer cell activity and tumor
+cell antigenicity, but it has also been shown to paradoxically promote tumor growth and prevent tumor immunogenicity. [112] The overall poor validity of these biomarker
+candidates is likely mostly due to the lack of HPVassociated cancer specificity (unlike HPV E antibodies
+and circulating HPV DNA). For example, although folate
+levels in erythrocytes are more stable, serum folate levels
+fluctuate with diet and assay type. [108] Similarly, IGF-1 and
+IGFBP-3 levels vary by age, sex, and nutritional status,
+and cytokine levels fluctuate with the immune state. [112,113]
+
+Because of the known complex associations with
+HPV-associated cancers and the already broad scope of
+this review, we determined a priori to exclude bloodbased genetic markers from the analysis. However, because of the number of studies evaluating this topic,
+a cursory discussion of the subject is warranted. To
+our knowledge, the most commonly evaluated genetic markers for HPV-associated cancers are HLA
+B*08, p53 SNPs, and tumor necrosis factor α (TNF-α)
+SNPs. HLA-B*08 is a class II antigen with a high rate
+of occurrence in European populations and with a potential role in autoimmunity. [114] Although 1 study reported that Indian patients with the HLA-B*08 antigen
+exhibited 10 times greater odds of cervical cancer
+( *P* = .002) in comparison with their respective counterparts, 3 other studies did not report a significant association. [115-117] SNPs are the substitution of a single base
+pair for another and play a key role in the evaluation of
+disease susceptibility, drug efficacy, and adverse drug reactions. [118] Some investigators have analyzed the TNF-α
+G>A rs1800629 SNP. [119-121] According to Duarte et
+al, [119] the TNF-α GA genotype showed a modest but
+statistically significant difference in genotype distribution (16.4% in controls vs 25.6% in patients with cervical cancer; n = 439; *P* = .012). Other investigators
+have analyzed the p53 G>C rs1042522 SNP, and a few
+have found that the Arg/Arg genotype had a statistically
+higher frequency in cases versus controls; this could sbe
+due to the fact that the arginine residue at amino acid
+72 may be more susceptible to degradation by HPV E6
+protein in comparison with the proline residue. [122-124]
+Finally, genetic studies have been inherently limited by
+heterogeneous assessment (ie, allele vs genotype vs phenotype frequency), inconsistent use of nomenclature
+across HLA studies (World Health Organization classification vs International Cell Exchange classification),
+
+
+Cancer March 15, 2021 859
+
+Ori g inal Article
+
+and a lack of a standardized reference group when odds
+ratios are being calculated (ie, some p53 studies have
+used the Arg/Arg genotype as the references, and others have used Pro/Pro). In addition, certain genotypes
+are more prevalent in certain racial/ethnic groups,
+and this also decreases the generalizability of genetic
+biomarkers. [114-117]
+
+Although robust screening strategies are established
+for cervical cancer, other anogenital cancers and OPCs lack
+effective preventative screening programs. According to the
+analytic framework for evaluating a potential clinical preventive screening service described by the US Preventive
+Service Task Force, an effective screening modality must
+1) reduce morbidity and mortality, 2) accurately detect
+the intended condition, and 3) do no harm. In addition,
+diseases that are being screened must 1) have a target,
+high-risk population; 2) have treatments for early or intermediate outcomes identified through screening; 3) have
+treatments that improve overall disease outcomes if the disease is identified early through screening; 4) have strong
+associations between intermediate outcomes and reduced
+
+morbidity and mortality; and 5) have treatments that do
+not cause significantly more harm than the disease itself. [125]
+
+A blood-based biomarker is an attractive option
+for a screening modality because of the widespread use
+of blood-based laboratory tests in medicine and overall
+low risk of harm. In our meta-analysis, we have highlighted the potential utility of HPV-16 E antibodies and
+circulating HPV DNA for the screening and surveillance of HPV-associated cancers. However, the potential
+use of these biomarkers in secondary prevention presents significant challenges. Although these biomarkers
+have strong associations with HPV-associated cancers, a
+highly specific biomarker is needed to limit false-positive results and reduce harm. Although the incidence of
+HPV+ OPC is rising, HPV-associated cancers have a relatively low population-level incidence overall. Therefore,
+the identification of a target higher risk population and
+improved biomarker specificity will be needed before
+the implementation of a screening program is possible.
+Furthermore, these blood-based biomarkers lack utility
+in that they fail to localize disease: subsequent clinical
+and/or radiologic examination of all oropharyngeal and
+anogenital sites in biomarker-positive individuals will
+be necessary. Although we have identified promising
+screening biomarker candidates, substantial progress will
+be needed to ensure compliance with all US Preventive
+Service Task Force screening intervention criteria.
+To our knowledge, this is the most robust evaluation of blood-based biomarkers for HPV-associated
+
+
+cancers in the literature. As highlighted previously, we
+appropriately accounted for differences in biomarker
+validity across anatomic sites by stratifying our analysis
+accordingly. However, we were unable to further substratify data according to geographic location because
+of the limited number of eligible studies. In addition,
+because of the low incidence of anal, penile, vaginal,
+and vulvar cancers, fewer studies evaluated blood-based
+biomarkers at those sites, and this limited our analysis
+to the evaluation of primarily OPC and cervical cancer biomarker candidates. Because few studies strat
+ified biomarker associations with cancer according to
+tumor stage, we were unable to evaluate this potential
+correlation. We used rigorous inclusion criteria: hence,
+60 otherwise eligible studies were excluded because of
+inadequate data (ie, the data were not presented numerically, the data were insufficiently described [eg, the
+study included controls in the experimental design but
+did not present control data in the results], or the study
+did not analyze a single blood-based biomarker alone
+
+[eg, both HPV and *Chlamydia trachomatis* seropositivity]). Finally, because of the dynamic nature of the field,
+several important and even landmark studies were published after the date of our literature search and were,
+therefore, not included in the data analyses. [70,81,126]
+
+In conclusion, among the biomarkers assessed in this
+review, HPV E antibodies and circulating HPV DNA are
+the most well-established and valid blood-based biomark
+ers for HPV-associated cancers. The lower validity of HPV16 E antibodies in HPV-unspecified cervical, vulvovaginal,
+and penile cancers calls attention to the need for biomarkers that account for the diversity of oncogenic HPV types.
+Multiple HPV E antibody combinations showed strong
+associations for OPC; however, comparative validation
+studies are needed to identify the precise combination with
+the greatest association with cancer. Studies to further characterize a blood-based microRNA expression signature for
+HPV-associated cancers are warranted. In the absence of
+
+novel findings, other previously assessed blood-based biomarker candidates exhibit little promise in screening for or
+surveilling HPV-associated cancers.
+
+FUNDING SUPPORT
+This study was funded in part by a Simmons Comprehensive Cancer
+Center Biomarker Research Core Pilot Award. Andrew T. Day also reports a Simmons Comprehensive Cancer Center Translational Research
+Pilot Grant and a Eugene P. Frenkel, MD, Endowed Scholarship in
+Clinical Medicine during the conduct of the study. Jasmin A. Tiro reports grant 1UM1CA221940-01 from the National Cancer Institute
+during the conduct of the study. The University of Texas MD Anderson
+Cancer Center is supported by the National Institutes of Health (grant
+P30 CA016672).
+
+
+860 Cancer March 15, 2021
+
+Blood-Based HPV-Associated Cancer Screening/Balachandra et al
+
+
+CONFLICT OF INTEREST DISCLOSURES
+Jasmin A. Tiro reports grants from the National Cancer Institute. ChengMing Chiang reports research support from the National Institutes of
+Health (grant 1R01CA251698-01), the Cancer Prevention and Research
+Institute of Texas (grants RP180349 and RP 190077), and the Welch
+Foundation (grant I-1805). Baran D. Sumer is a cofounder of, consultant to, and coinventor of patents for OncoNano Medicine, Inc (stocks,
+stock options, and consulting fees); he also reports royalties from patents
+(UTSD.P2560US.P1, serial no. 61/620,774, UTSD.P3107US.P1, and
+UTSD.P2822US.P1) and consulting fees from Intuitive, Sanofi Genzyme,
+Regeneron, and Cancer Expert Now. Kristina R. Dahlstrom reports support
+from the Stiefel Oropharyngeal Research Fund and a Roche Diagnostics
+Research Award. Erich M. Sturgis reports a Roche Diagnostics Research
+Award. The other authors made no disclosures.
+
+AUTHOR CONTRIBUTIONS
+**Sanjana Balachandra:** Data curation, investigation, methodology, visualization, writing–original draft, and writing–review and editing. **Samuel**
+**B. Kusin:** Data curation, investigation, methodology, visualization, writing–original draft, and writing–review and editing. **Rebecca Lee:** Data
+curation and writing–review and editing. **James-Michael Blackwell:**
+Formal analysis, software, visualization, and writing–review and editing. **Jasmin A. Tiro:** Writing–review and editing. **Lindsay G. Cowell:**
+Writing–review and editing. **Cheng-Ming Chiang:** Writing–review and
+editing. **Shwu-Yuan Wu:** Writing–review and editing. **Sanskriti Varma:**
+Writing–review and editing. **Helen G. Mayo:** Methodology and writing–review and editing. **Lianghao Ding:** Formal analysis. **Baran D.**
+**Sumer:** Writing–review and editing. **Jayanthi S. Lea:** Writing–review
+and editing. **Aditya Bagrodia:** Writing–review and editing. **Linda M.**
+**Farkas:** Writing–review and editing. **Richard Wang:** Writing–review
+and editing. **Carole Fakhry:** Writing–review and editing. **Kristina R.**
+**Dahlstrom:** Writing–review and editing. **Erich M. Sturgis:** Writing–review and editing. **Erika L. Rivera:** Writing–review and editing. **Andrew**
+**T. Day:** Conceptualization, data curation, investigation, methodology,
+project administration, visualization, supervision, visualization, writing–
+original draft, and writing–review and editing.
+
+REFERENCES
+1. Viens LJ, Henley SJ, Watson M, et al. Human papillomavirus–associated cancers—United States, 2008-2012. *MMWR Morb Mortal Wkly*
+*Rep* . 2016;65:661-666.
+2. Gillison ML, Chaturvedi AK, Anderson WF, Fakhry C. Epidemiology
+of human papillomavirus–positive head and neck squamous cell carcinoma. *J Clin Oncol* . 2015;33:3235-3242.
+3. Chaturvedi AK, Engels EA, Pfeiffer RM, et al. Human papillomavirus
+and rising oropharyngeal cancer incidence in the United States. *J Clin*
+*Oncol* . 2011;29:4294-4301.
+4. American Cancer Society. Cancer Facts & Figures 2018. American
+Cancer Society; 2018.
+5. Chesson HW, Ekwueme DU, Saraiya M, Watson M, Lowy DR,
+Markowitz LE. Estimates of the annual direct medical costs of the
+prevention and treatment of disease associated with human papillomavirus in the United States. *Vaccine* . 2012;30:6016-6019.
+6. Drolet M, Benard E, Perez N, Brisson M. Population-level impact and
+herd effects following the introduction of human papillomavirus vaccination programmes: updated systematic review and meta-analysis.
+*Lancet* . 2019;394:497-509.
+7. Walker TY, Elam-Evans LD, Yankey D, et al. National, regional, state,
+and selected local area vaccination coverage among adolescents aged
+13-17 years—United States, 2018. *MMWR Morb Mortal Wkly Rep* .
+2019;68:718-723.
+8. Huh WK, Joura EA, Giuliano AR, et al. Final efficacy, immunogenicity, and safety analyses of a nine-valent human papillomavirus vaccine
+in women aged 16-26 years: a randomised, double-blind trial. *Lancet* .
+2017;390:2143-2159.
+9. Curry SJ, Krist AH, Owens DK, et al. Screening for cervical cancer:
+US Preventive Services Task Force recommendation statement. *JAMA* .
+2018;320:674-686.
+
+
+10. Melnikow J, Henderson JT, Burda BU, Senger CA, Durbin S,
+Weyrich MS. Screening for cervical cancer with high-risk human
+papillomavirus testing: updated evidence report and systematic review for the US Preventive Services Task Force. *JAMA* .
+2018;320:687-705.
+11. Vesco KK, Whitlock EP, Eder M, Burda BU, Senger CA, Lutz K.
+Risk factors and other epidemiologic considerations for cervical cancer screening: a narrative review for the U.S. Preventive Services Task
+Force. *Ann Intern Med* . 2011;155:698-705.
+12. Kim JJ, Burger EA, Regan C, Sy S. Screening for cervical cancer in
+primary care: a decision analysis for the US Preventive Services Task
+Force. *JAMA* . 2018;320:706-714.
+13. Kitchener HC, Canfell K, Gilham C, et al. The clinical effectiveness
+and cost-effectiveness of primary human papillomavirus cervical
+screening in England: extended follow-up of the ARTISTIC randomised trial cohort through three screening rounds. *Health Technol*
+*Assess* . 2014;18:1-196.
+14. Goldie SJ, Gaffikin L, Goldhaber-Fiebert JD, et al. Cost-effectiveness
+of cervical-cancer screening in five developing countries. *N Engl J*
+*Med* . 2005;353:2158-2168.
+15. Arias YR, Carrillo EF, Aristizabal FA. Human papillomavirus
+(HPV) detected in restored plasma DNA from women diagnosed
+with pre-invasive lesions and invasive cervical cancer. *Colomb Med* .
+2010;41:148-154.
+16. Dahlstrom KR, Anderson KS, Field MS, et al. Diagnostic accuracy of
+serum antibodies to human papillomavirus type 16 early antigens in
+the detection of human papillomavirus–related oropharyngeal cancer.
+*Cancer* . 2017;123:4886-4894.
+17. Hoots BE, Palefsky JM, Pimenta JM, Smith JS. Human papillomavirus type distribution in anal cancer and anal intraepithelial lesions. *Int*
+*J Cancer* . 2009;124:2375-2383.
+18. de Sanjose S, Quint WG, Alemany L, et al. Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective
+cross-sectional worldwide study. *Lancet Oncol* . 2010;11:1048-1056.
+19. Ndiaye C, Mena M, Alemany L, et al. HPV DNA, E6/E7 mRNA,
+and p16INK4a detection in head and neck cancers: a systematic review and meta-analysis. *Lancet Oncol* . 2014;15:1319-1331.
+20. Dillner J. The serological response to papillomaviruses. *Semin Cancer*
+*Biol* . 1999;9:423-430.
+21. Duenas A, Lizano M, Carrillo AL, Wojcik J, Trejo C. DNA of human
+papillomavirus detected by PCR in plasma of cervical cancer patients:
+a potential marker of residual disease. *Clin Chem* . 2001;47:361-370.
+22. Gissman L. Detection of antibodies to human papillomavirus 16 and
+18 proteins in human sera. *Cervix Lower Female Genit Tract* . 1992;10.
+23. Centers for Disease Control and Prevention. HPV and oropharyngeal
+[cancer. Accessed October 23, 2019. https://www.cdc.gov/cance ​r/hpv/](https://www.cdc.gov/cancer/hpv/basic_info/hpv_oropharyngeal.htm)
+[basic_info/hpv_oroph ​aryng ​eal.htm](https://www.cdc.gov/cancer/hpv/basic_info/hpv_oropharyngeal.htm)
+24. Lewis JS Jr, Beadle B, Bishop JA, et al. Human papillomavirus testing
+in head and neck carcinomas: guideline from the College of American
+Pathologists. *Arch Pathol Lab Med* . 2018;142:559-597.
+25. Evidence Partners. Tool to assess risk of bias in case control studies.
+[Accessed February 27, 2020. https://www.evide ​ncepa ​rtners.com/](https://www.evidencepartners.com/resources/methodological-resources/)
+[resou ​rces/metho ​dolog ​ical-resou ​rces/](https://www.evidencepartners.com/resources/methodological-resources/)
+26. McGuinness LA.robvis: an R package and web application for visu[alising risk-of-bias assessments. https://github.com/mcgui ​nlu/robvis.](https://github.com/mcguinlu/robvis)
+Accessed March 9, 2019.
+27. Smith EM, Ritchie JM, Pawlita M, et al. Human papillomavirus seropositivity and risks of head and neck cancer. *Int J Cancer* .
+2006;120:825-832.
+28. Herrero R, Castellsague X, Pawlita M, et al. Human papillomavirus
+and oral cancer: the International Agency for Research on Cancer
+multicenter study. *J Natl Cancer Inst* . 2003;95:1772-1783.
+29. Anantharaman D, Gheit T, Waterboer T, et al. Human papillomavirus
+infections and upper aero-digestive tract cancers: the ARCAGE study.
+*J Natl Cancer Inst* . 2013;105:536-545.
+30. Michaud DS, Langevin SM, Eliot M, et al. High-risk HPV types and
+head and neck cancer. *Int J Cancer* . 2014;135:1653-1661.
+31. Ribeiro KB, Levi JE, Pawlita M, et al. Low human papillomavirus prevalence in head and neck cancer: results from two large
+case-control studies in high-incidence regions. *Int J Epidemiol* .
+2011;40:489-502.
+
+
+Cancer March 15, 2021 861
+
+Ori g inal Article
+
+32. Anderson KS, Dahlstrom KR, Cheng JN, et al. HPV16 antibodies as
+risk factors for oropharyngeal cancer and their association with tumor
+HPV and smoking status. *Oral Oncol* . 2015;51:662-667.
+33. Tachezy R, Klozar J, Rubenstein L, et al. Demographic and risk factors
+in patients with head and neck tumors. *J Med Virol* . 2009;81:878-887.
+34. Anantharaman D, Muller DC, Lagiou P, et al. Combined effects
+of smoking and HPV16 in oropharyngeal cancer. *Int J Epidemiol* .
+2016;45:752-761.
+35. Shimada T, Yamaguchi N, Nishida N, et al. Human papillomavirus
+DNA in plasma of patients with HPV16 DNA–positive uterine cervical cancer. *Jpn J Clin Oncol* . 2010;40:420-424.
+36. Kang ZG, Stevanovic S, Hinrichs CS, Cao L. Circulating cell-free
+DNA for metastatic cervical cancer detection, genotyping, and monitoring. *Clin Cancer Res* . 2017;23:6856-6862.
+37. Wei YC, Chou YS, Chu TY. Detection and typing of minimal
+human papillomavirus DNA in plasma. *Int J Gynaecol Obstet* .
+2007;96:112-116.
+38. Yang HJ, Liu VWS, Tsang PCK, et al. Quantification of human papillomavirus DNA in the plasma of patients with cervical cancer. *Int J*
+*Gynecol Cancer* . 2004;14:903-910.
+39. Dong SM, Pai SI, Rha SH, et al. Detection and quantitation of
+human papillomavirus DNA in the plasma of patients with cervical
+carcinoma. *Cancer Epidemiol Biomarkers Prev* . 2002;11:3-6.
+40. Gnanamony M, Peedicayil A, Subhashini J, et al. Detection and quantitation of HPV 16 and 18 in plasma of Indian women with cervical
+cancer. *Gynecol Oncol* . 2010;116:447-451.
+41. Chen J, Yao D, Li Y, et al. Serum microRNA expression levels can
+predict lymph node metastasis in patients with early-stage cervical
+squamous cell carcinoma. *Int J Mol Med* . 2013;32:557-567.
+42. Ma Q, Wan G, Wang S, Yang W, Zhang J, Yao X. Serum microRNA-205 as a novel biomarker for cervical cancer patients. *Cancer*
+*Cell Int* . 2014;14:81.
+43. Yu J, Wang Y, Dong R, Huang X, Ding S, Qiu H. Circulating microRNA-218 was reduced in cervical cancer and correlated with
+tumor invasion. *J Cancer Res Clin Oncol* . 2012;138:671-674.
+44. Sharma M, Satyam A, Abhishek A, Khan R, Rajappa M, Sharma
+A. Molecular and circulatory expression of insulin growth factors in
+Indian females with advanced cervical cancer. *Asian Pac J Cancer Prev* .
+2012;13:6475-6479.
+45. Serrano ML, Romero A, Cendales R, Sanchez-Gomez M, Bravo MM.
+Serum levels of insulin-like growth factor-I and -II and insulin-like
+growth factor binding protein 3 in women with squamous intraepithelial lesions and cervical cancer. *Biomedica* . 2006;26:258-268.
+46. Kwasniewski W, Gozdzicka-Jozefiak A, Kotarska M, et al. Analysis of
+cytosineadenine repeats in P1 promoter region of IGF1 gene in peripheral blood cells and cervical tissue samples of females with cervical
+intraepithelial lesions and squamous cervical cancer. *Mol Med Rep* .
+2014;11:766-774.
+47. Lee SW, Lee SY, Lee SR, Ju W, Kim SC. Plasma levels of insulin-like
+growth factor-1 and insulin-like growth factor binding protein-3 in
+women with cervical neoplasia. *J Gynecol Oncol* . 2010;21:174-180.
+48. Sharma A, Rajappa M, Saxena A, Sharma M. Cytokine profile in
+Indian women with cervical intraepithelial neoplasia and cancer cervix. *Int J Gynecol Cancer* . 2007;17:879-885.
+49. Jozefiak A, Pacholska-Bogalska J, Myga-Nowak M, et al. Serum and
+tissue levels of insulin-like growth factor-I in women with dysplasia
+and HPV-positive cervical cancer. *Mol Med Rep* . 2008;1:231-237.
+50. Tong SY, Kim MK, Lee JK, et al. Common polymorphisms in methylenetetrahydrofolate reductase gene are associated with risks of cervical
+intraepithelial neoplasia and cervical cancer in women with low serum
+51. Weinstein SJ, Ziegler RG, Frongillo EA Jr, et al. Low serum and folate and vitamin B 12 . *Cancer Causes Control* . 2011;22:63-72.
+red blood cell folate are moderately, but nonsignificantly associated
+with increased risk of invasive cervical cancer in U.S. women. *J Nutr* .
+2001;131:2040-2048.
+52. Bai LX, Wang JT, Ding L, et al. Folate deficiency and FHIT hypermethylation and HPV 16 infection promote cervical cancerization.
+*Asian Pac J Cancer Prev* . 2014;15:9313-9317.
+53. Pathak S, Bajpai D, Banerjee A, et al. Serum one-carbon metabolites
+and risk of cervical cancer. *Nutr Cancer* . 2014;66:818-824.
+
+
+54. Lages ELE, Belo AV, Andrade SP, et al. Analysis of systemic inflammatory response in the carcinogenic process of uterine cervical neoplasia.
+*Biomed Pharmacother* . 2011;65:496-499.
+55. Sharma A, Rajappa M, Satyam A, Sharma M. Cytokines (TH1 and
+TH2) in patients with advanced cervical cancer undergoing neoadjuvant chemoradiation: correlation with treatment response. *Int J*
+*Gynecol Cancer* . 2009;19:1269-1275.
+56. Anderson KS, Gerber JE, D’Souza G, et al. Biologic predictors of serologic responses to HPV in oropharyngeal cancer: the HOTSPOT
+study. *Oral Oncol* . 2015;51:751-758.
+57. Combes JD, Pawlita M, Waterboer T, et al. Antibodies against highrisk human papillomavirus proteins as markers for invasive cervical
+cancer. *Int J Cancer* . 2014;135:2453-2461.
+58. Anderson KS, Wallstrom G, Langseth H, et al. Pre-diagnostic dynamic HPV16 IgG seropositivity and risk of oropharyngeal cancer.
+*Oral Oncol* . 2017;73:132-137.
+59. Kreimer AR, Johansson M, Waterboer T, et al. Evaluation of human
+papillomavirus antibodies and risk of subsequent head and neck cancer. *J Clin Oncol* . 2013;31:2708-2715.
+60. Kreimer AR, Johansson M, Yanik EL, et al. Kinetics of the human
+papillomavirus type 16 E6 antibody response prior to oropharyngeal
+cancer. *J Natl Cancer Inst* . 2017;109:djx005.
+61. Baay MF, Duk JM, Groenier KH, et al. Relation between HPV-16
+serology and clinico-pathological data in cervical carcinoma patients: prognostic value of anti-E6 and/or anti-E7 antibodies. *Cancer*
+*Immunol Immunother* . 1997;44:211-215.
+62. Castellsague X, Pawlita M, Roura E, et al. Prospective seroepidemiologic study on the role of human papillomavirus and other infections in cervical carcinogenesis: evidence from the EPIC cohort. *Int J*
+*Cancer* . 2014;135:440-452.
+63. Lehtinen M, Pawlita M, Zumbach K, et al. Evaluation of antibody response
+to human papillomavirus early proteins in women in whom cervical cancer
+developed 1 to 20 years later. *Am J Obstet Gynecol* . 2003;188:49-55.
+64. Meschede W, Zumbach K, Braspenning J, et al. Antibodies against
+early proteins of human papillomaviruses as diagnostic markers for
+invasive cervical cancer. *J Clin Microbiol* . 1998;36:475-480.
+65. Heino P, Goldman S, Lagerstedt U, Dillner J. Molecular and serological studies of human papillomavirus among patients with anal epidermoid carcinoma. *Int J Cancer* . 1993;53:377-381.
+66. Heideman DAM, Waterboer T, Pawlita M, et al. Human papillomavirus-16 is the predominant type etiologically involved in penile squamous cell carcinoma. *J Clin Oncol* . 2007;25:4550-4556.
+67. Sun Y, Hildesheim A, Brinton LA, et al. Human papillomavirus–specific
+serologic response in vulvar neoplasia. *Gynecol Oncol* . 1996;63:200-203.
+68. Jha PK, Beral V, Peto J, et al. Antibodies to human papillomavirus
+and to other genital infectious agents and invasive cervical cancer risk.
+*Lancet* . 1993;341:1116-1118.
+69. Cao H, Banh A, Kwok S, et al. Quantitation of human papillomavirus DNA in plasma of oropharyngeal carcinoma patients. *Int J Radiat*
+*Oncol Biol Phys* . 2012;82:e351-358.
+70. Kreimer AR, Ferreiro-Iglesias A, Nygard M, et al. Timing of
+HPV16-E6 antibody seroconversion before OPSCC: findings from
+the HPVC3 consortium. *Ann Oncol* . 2019;30:1335-1343.
+71. Nave H, Gebert A, Pabst R. Morphology and immunology of the
+human palatine tonsil. *Anat Embryol (Berl)* . 2001;204:367-373.
+72. Yamashita K, Ichimiya S, Kamekura R, et al. Studies of tonsils
+in basic and clinical perspectives: from the past to the future. *Adv*
+*Otorhinolaryngol* . 2016;77:119-124.
+73. Kobayashi A, Darragh T, Herndier B, et al. Lymphoid follicles are
+generated in high-grade cervical dysplasia and have differing characteristics depending on HIV status. *Am J Pathol* . 2002;160:151-164.
+74. Blot WJ, McLaughlin JK, Winn DM, et al. Smoking and drinking in
+relation to oral and pharyngeal cancer. *Cancer Res* . 1988;48:3282-3287.
+75. Senkomago V, Henley SJ, Thomas CC, Mix JM, Markowitz
+LE, Saraiya M. Human papillomavirus–attributable cancers—
+United States, 2012-2016. *MMWR Morb Mortal Wkly Rep* .
+2019;68:724-728.
+76. American Cancer Society. Risk factors for penile cancer. Accessed June
+[5, 2020. https://www.cancer.org/cance ​r/penil ​e-cance ​r/cause ​s-risks ​-](https://www.cancer.org/cancer/penile-cancer/causes-risks-prevention/risk-factors.html)
+[preve ​ntion/ ​risk-facto ​rs.html](https://www.cancer.org/cancer/penile-cancer/causes-risks-prevention/risk-factors.html)
+
+
+862 Cancer March 15, 2021
+
+Blood-Based HPV-Associated Cancer Screening/Balachandra et al
+
+
+77. American Cancer Society. Risk factors for anal cancer. Accessed June
+5, 2020. [https://www.cancer.org/cance ​r/anal-cance ​r/cause ​s-risks ​-](https://www.cancer.org/cancer/anal-cancer/causes-risks-prevention/risk-factors.html#references)
+[preve ​ntion/ ​risk-facto ​rs.html#refer ​ences](https://www.cancer.org/cancer/anal-cancer/causes-risks-prevention/risk-factors.html#references)
+78. Anantharaman D, Abedi-Ardekani B, Beachler DC, et al. Geographic
+heterogeneity in the prevalence of human papillomavirus in head and
+neck cancer. *Int J Cancer* . 2017;140:1968-1975.
+79. Sitas F, Egger S, Urban MI, et al. InterSCOPE study: associations between esophageal squamous cell carcinoma and human papillomavirus serological markers. *J Natl Cancer Inst* . 2012;104:147-158.
+80. Lang Kuhs KA, Anantharaman D, Waterboer T, et al. Human papillomavirus 16 E6 antibodies in individuals without diagnosed cancer: a
+pooled analysis. *Cancer Epidemiol Biomarkers Prev* . 2015;24:683-689.
+81. D’Souza G, Clemens G, Troy T, et al. Evaluating the utility and prevalence of oral rinse and serologic HPV biomarkers for HPV-related
+oropharyngeal cancer. *Cancer Prev Res (Phila)* . 2019;12:689-700.
+82. Jensen KK, Gronhoj C, Jensen DH, von Buchwald C. Circulating
+human papillomavirus DNA as a surveillance tool in head and neck
+squamous cell carcinoma: a systematic review and meta-analysis. *Clin*
+*Otolaryngol* . 2018;43:1242-1249.
+83. Chera BS, Kumar S, Shen C, et al. Plasma circulating tumor HPV
+DNA for the surveillance of cancer recurrence in HPV-associated oropharyngeal cancer. *Int J Radiat Oncol Biol Phys* . 2018;102:1605-1606.
+84. Wang Y, Springer S, Mulvey CL, et al. Detection of somatic mutations
+and HPV in the saliva and plasma of patients with head and neck
+squamous cell carcinomas. *Sci Transl Med* . 2015;7:293ra104.
+85. Bernard-Tessier A, Jeannot E, Guenat D, et al. Clinical validity of HPV circulating tumor DNA in advanced anal carcinoma:
+an ancillary study to the Epitopes-HPV02 trial. *Clin Cancer Res* .
+2019;25:2109-2115.
+86. Chera BS, Kumar S, Shen C, et al. Plasma circulating tumor HPV
+DNA for the surveillance of cancer recurrence in HPV-associated oropharyngeal cancer. *J Clin Oncol* . 2020;38:1050-1058.
+87. Spector ME, Sacco AG, Bellile E, et al. E6 and E7 antibody levels
+are potential biomarkers of recurrence in patients with advanced-stage
+human papillomavirus–positive oropharyngeal squamous cell carcinoma. *Clin Cancer Res* . 2017;23:2723-2729.
+88. Boeri M, Verri C, Conte D, et al. MicroRNA signatures in tissues and
+plasma predict development and prognosis of computed tomography
+detected lung cancer. *Proc Natl Acad Sci U S A* . 2011;108:3713-3718.
+89. Fu SW, Lee W, Coffey C, et al. miRNAs as potential biomarkers in
+early breast cancer detection following mammography. *Cell Biosci* .
+2016;6:6.
+90. Hou X, Wen J, Ren Z, Zhang G. Non-coding RNAs: new biomarkers and therapeutic targets for esophageal cancer. *Oncotarget* .
+2017;8:43571-43578.
+91. Lin XJ, Chong Y, Guo ZW, et al. A serum microRNA classifier for
+early detection of hepatocellular carcinoma: a multicentre, retrospective, longitudinal biomarker identification study with a nested
+case-control study. *Lancet Oncol* . 2015;16:804-815.
+92. Liu AM, Yao TJ, Wang W, et al. Circulating miR-15b and miR-130b
+in serum as potential markers for detecting hepatocellular carcinoma:
+a retrospective cohort study. *BMJ Open* . 2012;2:e000825.
+93. Liu Q, Yu Z, Yuan S, et al. Circulating exosomal microRNAs as
+prognostic biomarkers for non–small-cell lung cancer. *Oncotarget* .
+2017;8:13048-13058.
+94. Peng Q, Zhang X, Min M, Zou L, Shen P, Zhu Y. The clinical role
+of microRNA-21 as a promising biomarker in the diagnosis and
+prognosis of colorectal cancer: a systematic review and meta-analysis.
+*Oncotarget* . 2017;8:44893-44909.
+95. Schultz NA, Dehlendorff C, Jensen BV, et al. MicroRNA biomarkers in whole blood for detection of pancreatic cancer. *JAMA* .
+2014;311:392-404.
+96. Souza MF, Kuasne H, Barros-Filho MC, et al. Circulating mRNAs
+and miRNAs as candidate markers for the diagnosis and prognosis of
+prostate cancer. *PLoS One* . 2017;12:e0184094.
+97. Sozzi G, Boeri M, Rossi M, et al. Clinical utility of a plasma-based
+miRNA signature classifier within computed tomography lung
+cancer screening: a correlative MILD trial study. *J Clin Oncol* .
+2014;32:768-773.
+98. Toiyama Y, Takahashi M, Hur K, et al. Serum miR-21 as a diagnostic and prognostic biomarker in colorectal cancer. *J Natl Cancer Inst* .
+2013;105:849-859.
+
+
+99. Lim EL, Trinh DL, Ries RE, et al. MicroRNA expression–based
+model indicates event-free survival in pediatric acute myeloid leukemia. *J Clin Oncol* . 2017;35:3964-3977.
+100. Bagnoli M, Canevari S, Califano D, et al. Development and validation
+of a microRNA-based signature (MiROvaR) to predict early relapse or
+progression of epithelial ovarian cancer: a cohort study. *Lancet Oncol* .
+2016;17:1137-1146.
+101. Heinemann FG, Tolkach Y, Deng M, et al. Serum miR-122-5p and
+miR-206 expression: non-invasive prognostic biomarkers for renal cell
+carcinoma. *Clin Epigenetics* . 2018;10:11.
+102. Ko YH, Won HS, Sun DS, et al. Human papillomavirus–stratified
+analysis of the prognostic role of miR-21 in oral cavity and oropharyngeal squamous cell carcinoma. *Pathol Int* . 2014;64:499-507.
+103. Miller DL, Davis JW, Taylor KH, et al. Identification of a human
+papillomavirus–associated oncogenic miRNA panel in human oropharyngeal squamous cell carcinoma validated by bioinformatics analysis of The Cancer Genome Atlas. *Am J Pathol* . 2015;185:679-692.
+104. Mirghani H, Ugolin N, Ory C, et al. Comparative analysis of micro-RNAs in human papillomavirus–positive versus –negative oropharyngeal cancers. *Head Neck* . 2016;38:1634-1642.
+105. Salazar C, Calvopina D, Punyadeera C. miRNAs in human papilloma
+virus associated oral and oropharyngeal squamous cell carcinomas.
+*Expert Rev Mol Diagn* . 2014;14:1033-1040.
+106. Sourvinou IS, Markou A, Lianidou ES. Quantification of circulating
+miRNAs in plasma: effect of preanalytical and analytical parameters
+on their isolation and stability. *J Mol Diagn* . 2013;15:827-834.
+107. Glinge C, Clauss S, Boddum K, et al. Stability of circulating bloodbased microRNAs—pre-analytic methodological considerations.
+*PLoS One* . 2017;12:e0167969.
+108. Theisen-Toupal J, Horowitz GL, Breu AC. Utility, charge, and cost of
+inpatient and emergency department serum folate testing. *J Hosp Med* .
+2013;8:91-95.
+109. Kim DH, Smith-Warner SA, Spiegelman D, et al. Pooled analyses
+of 13 prospective cohort studies on folate intake and colon cancer.
+*Cancer Causes Control* . 2010;21:1919-1930.
+110. Stolzenberg-Solomon RZ, Chang SC, Leitzmann MF, et al. Folate
+intake, alcohol use, and postmenopausal breast cancer risk in the
+Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial. *Am J*
+*Clin Nutr* . 2006;83:895-904.
+111. Ebbing M, Bonaa KH, Nygard O, et al. Cancer incidence and
+mortality after treatment with folic acid and vitamin B 12 . *JAMA* .
+2009;302:2119-2126.
+112. Mojic M, Takeda K, Hayakawa Y. The dark side of IFN-γ: its role in
+promoting cancer immunoevasion. *Int J Mol Sci* . 2017;19:89.
+113. Le Roith D. Insulin-like growth factors. *N Engl J Med* .
+1997;336:633-640.
+114. Gokhale P, Mania-Pramanik J, Sonawani A, et al. Cervical cancer
+in Indian women reveals contrasting association among common
+sub-family of HLA class I alleles. *Immunogenetics* . 2014;66:683-691.
+115. Glew SS, Duggankeen M, Ghosh AK, et al. Lack of association of
+HLA polymorphisms with human papillomavirus–related cervical-cancer. *Hum Immunol* . 1993;37:157-164.
+116. Hernandez-Hernandez DM, Cerda-Flores RM, Juarez-Cedillo T, et
+al. Human leukocyte antigens I and II haplotypes associated with
+human papillomavirus 16–positive invasive cervical cancer in Mexican
+women. *Int J Gynecol Cancer* . 2009;19:1099-1106.
+117. Zehbe I, Mytilineos J, Wikstrom I, Henriksen R, Edler L, Tommasino
+M. Association between human papillomavirus 16 E6 variants and
+human leukocyte antigen class I polymorphism in cervical cancer of
+Swedish women. *Hum Immunol* . 2003;64:538-542.
+118. SNPedia. Single nucleotide polymorphism. Accessed September
+[6, 2019. https://www.snped ​ia.com/index.php/Single_Nucle ​otide_](https://www.snpedia.com/index.php/Single_Nucleotide_Polymorphism)
+[Polym ​orphism](https://www.snpedia.com/index.php/Single_Nucleotide_Polymorphism)
+119. Duarte I, Santos A, Sousa H, et al. G-308A TNF-α polymorphism is
+associated with an increased risk of invasive cervical cancer. *Biochem*
+*Biophys Res Commun* . 2005;334:588-592.
+120. Li LP, Liu J, Liu CJ, Lu XH. The correlation between TNF-α-308
+gene polymorphism and susceptibility to cervical cancer. *Oncol Lett* .
+2018;15:7163-7167.
+121. Wang N, Yin D, Zhang S, et al. TNF-alpha rs1800629 polymorphism
+is not associated with HPV infection or cervical cancer in the Chinese
+population. *PLoS One* . 2012;7:e45246.
+
+
+Cancer March 15, 2021 863
+
+Ori g inal Article
+
+122. Thomas M, Kalita A, Labrecque S, Pim D, Banks L, Matlashewski G.
+Two polymorphic variants of wild-type p53 differ biochemically and
+biologically. *Mol Cell Biol* . 1999;19:1092-1100.
+123. Saranath D, Khan Z, Tandle AT, et al. HPV16/18 prevalence in cervical lesions/cancers and p53 genotypes in cervical cancer patients from
+India. *Gynecol Oncol* . 2002;86:157-162.
+124. Arbel-Alon S, Menczer J, Feldman N, Glezerman M, Yeremin L,
+Friedman E. Codon 72 polymorphism of p53 in Israeli Jewish cervical cancer patients and healthy women. *Int J Gynecol Cancer* .
+2002;12:741-744.
+
+
+125. US Preventive Services Task Force. Procedure manual. Accessed June
+[5, 2020. https://www.uspre ​venti ​veser ​vices ​taskf ​orce.org/uspst ​f/proce ​](https://www.uspreventiveservicestaskforce.org/uspstf/procedure-manual)
+[dure-manual](https://www.uspreventiveservicestaskforce.org/uspstf/procedure-manual)
+126. Veyer D, Wack M, Mandavit M, et al. HPV circulating tumoral DNA
+quantification by droplet-based digital PCR: a promising predictive
+and prognostic biomarker for HPV-associated oropharyngeal cancers.
+*Int J Cancer* . 2020;147:1222-1227.
+127. D’Souza G, Kreimer AR, Viscidi R, et al. Case-control study of
+human papillomavirus and oropharyngeal cancer. *N Engl J Med* .
+[2007;356:1944-1956. https://doi.org/10.1056/NEJMo ​a065497](https://doi.org/10.1056/NEJMoa065497)
+
+
+864 Cancer March 15, 2021
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

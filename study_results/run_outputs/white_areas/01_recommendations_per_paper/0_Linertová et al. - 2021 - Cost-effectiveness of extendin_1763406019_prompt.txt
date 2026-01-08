@@ -1,0 +1,778 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    **Review**
+
+- - Additional supplemental
+material is published online
+only. To view, please visit
+[the journal online (http:// ​dx. ​](http://dx.doi.org/10.1136/jech-2020-216305)
+[doi. ​org/ ​10. ​1136/ ​jech- ​2020- ​](http://dx.doi.org/10.1136/jech-2020-216305)
+[216305).](http://dx.doi.org/10.1136/jech-2020-216305)
+
+1 FIISC, Fundación Canaria
+de Investigación Sanitaria
+de Canarias, Santa Cruz de
+Tenerife, Spain
+2 REDISSEC, Madrid, Spain
+3 Kronikgune, Baracaldo, Spain
+4 Biodonostia Health Research
+Institute, Donostia- ­San
+Sebastian, Spain
+5 Agencia de Evaluación de
+Tecnologías Sanitarias (AETS),
+Instituto de Salud Carlos III,
+Madrid, Spain
+
+**Correspondence to**
+Renata Linertová, FIISC,
+Fundación Canaria de
+Investigación Sanitaria, Las
+Palmas de Gran Canaria, Spain;
+​renata. ​linertova@ ​sescs. ​es
+
+Received 22 December 2020
+Accepted 10 June 2021
+Published Online First
+
+23 June 2021
+
+© Author(s) (or their
+employer(s)) 2021. No
+commercial re- ­use. See rights
+and permissions. Published
+by BMJ.
+
+**To cite:** Linertová R,
+Guirado- ­Fuentes C,
+~~Mar~~ ~~Medina~~ ~~J~~, ~~et~~ ~~al~~ . ~~J~~
+Epidemiol Community Health
+2021; **75** :910–916.
+
+
+**ABSTRACT**
+**Background** Human papillomavirus (HPV) infection
+can have severe consequences both in women and
+men. Preadolescent girls are vaccinated against HPV
+worldwide but a gender- ­neutral vaccination is being
+adopted only little by little. This systematic review offers
+an overview of cost- ­effectiveness of the gender- ­neutral
+HPV vaccination.
+**Methods** Economic evaluations of gender- ­neutral
+HPV vaccination with a two- ­dose schedule compared
+with girls- ­only strategy were systematically searched in
+Medline, Embase and WOS up to June 2020. Incremental
+cost- ­effectiveness ratios and key parameters were
+analysed.
+**Results** Nine studies met the inclusion criteria. Four
+studies concluded in favour of the gender- ­neutral
+programme, another four found it cost- ­effective only in
+alternative scenarios. The most influential parameters
+are the discount rate of benefits (same as for costs vs
+reduced), vaccine price (listed vs publicly negotiated) and
+included health problems (inclusion of oropharyngeal
+and penile cancers). Sponsorship was not decisive for the
+final result, but there were differences between industry- ­
+funded and independent studies in some cost categories.
+**Conclusions** The evidence of the cost- ­effectiveness
+of extending HPV vaccination to boys is scarce and
+ambiguous. Before the adoption of such a strategy,
+countries should carry out context- ­specific cost- ­
+effectiveness analyses, but the decision should also
+take into account other criteria, such as gender- ­related
+equality.
+
+**INTRODUCTION**
+Although the highest burden of human papillomavirus (HPV) continues to predominate in women, a
+substantial burden is now recognised in men. In this
+population, HPV is responsible for a proportion of
+anal, oropharyngeal and penile cancers, as well as
+anogenital warts. [1] Consequently, women and men
+can suffer from HPV infection, which makes the
+question of whether to rely on the herd effect of
+the female immunisation, which does not protect
+men who have sex with men (MSM) population,
+or to offer the same protection to males a case of
+urgency. [2]
+
+Currently, there are three vaccines authorised
+by the European Commission for the prevention
+of various diseases related to HPV: the bivalent
+(2- ­valent), tetravalent (4- ­valent) and nonavalent
+(9- ­valent) vaccines. These vaccines offer protection
+
+# Cost- ­effectiveness of extending the HPV vaccination to boys: a systematic review
+## Renata Linertová  ‍ ‍, [1,2] Carmen Guirado- ­Fuentes, [1,2] Javier Mar Medina  ‍ ‍, [2,3,4] Iñaki Imaz- ­Iglesia  ‍ ‍, [2,5] Leticia Rodríguez- ­Rodríguez, [1] Montserrat Carmona- ­Rodríguez [2,5]
+
+
+against specific pathogenic HPV genotypes that
+are included in each vaccine. All three vaccines are
+licensed for the prevention of cervical cancer, as
+well as precancerous lesions of the cervix, vulva,
+vagina and anus (HPV- ­related diseases 16/18).
+Only the 4- ­valent and 9- ­valent vaccines are indicated to prevent genital warts as well. At present,
+WHO recommendations indicate that two doses of
+HPV vaccine are enough when given to preadolescents under 15 years of age, while the three- ­dose
+schedule, previously used in preadolescents, is now
+recommended for those above 15 years of age and
+for immunocompromised individuals. [3]
+
+By 2018, all European Union (EU) countries had
+introduced HPV vaccination in girls. [3] Moreover,
+by 2020, 45% of the EU countries offer a gender- ­
+neutral HPV immunisation, that is, vaccination of
+both girls and boys (updated in June 2020). [4] Outside
+the EU, gender- ­neutral vaccination against HPV is
+offered in the USA, Canada, Australia, Israel, New
+Zealand, Argentina and Switzerland. However,
+the cost- ­effectiveness of the extension of the HPV
+immunisation to boys has been evaluated in only a
+few countries. [5] When there is no country- ­specific
+cost- ­effectiveness analysis for the decision- ­making,
+the countries have to base their HPV immunisation
+politics on criteria other than the cost- ­effectiveness.
+Some countries even decided to extend the vaccination programme to boys in spite of unfavourable
+cost- ­effectiveness analysis (eg, Ireland or Canada), [6 7]
+given that the economic aspect is not the only criterion to be taken into account. The issue of justice,
+gender equality and non- ­discrimination seems to be
+especially urgent. [8–10]
+
+We systematically reviewed the evidence on cost- ­
+effectiveness of the extension of a two- ­dose HPV
+vaccination to boys in countries where only- ­girls
+HPV vaccination had been established.
+
+**METHODS**
+A review protocol was established at the beginning of the study, and the authors can provide it
+
+on request.
+
+**Selection criteria**
+Comprehensive economic evaluations that compared
+a gender- ­neutral HPV vaccination programme with
+a girls- ­only vaccination programme. The population comprised girls and boys from 9 to 13 years
+of age, who received two doses of one of the three
+available vaccines (2- ­valent, 4- ­valent or 9- ­valent).
+
+
+910 Linertová R, et al. J Epidemiol Community Health 2021; **75** :910–916. doi:10.1136/jech-2020-216305
+
+**Search and selection**
+The search was performed in three electronic databases, Medline,
+Embase and WOS, in April 2019 and was updated in June 2020,
+using economic evaluations filters, without any further restric[tions. The search strategy can be found in the online supple-](https://dx.doi.org/10.1136/jech-2020-216305)
+[mental table S1. The bibliographic references obtained in each](https://dx.doi.org/10.1136/jech-2020-216305)
+database were imported into a file of the Reference Manager
+Edition V.10 (Thomson Scientific, USA), for the elimination of
+duplicated references. It was subsequently exported to a Microsoft Excel 2013 sheet (Microsoft) where the study selection was
+carried out by two reviewers and disagreements were solved by
+a third reviewer.
+
+**Data extraction and methodological quality assessment**
+Selected articles were exhaustively read in full text by two
+reviewers. Relevant data of included studies were extracted by
+a reviewer and checked by another one. Methodological quality
+was assessed by the Consensus on Health Economic Criteria
+(CHEC) list. [11]
+
+**Analysis**
+Costs and health results of each alternative and the incremental
+cost- ­effectiveness ratios (ICER) were considered. Key parameter
+values were analysed according to the sponsorship. For comparison purposes, selected analysed costs were converted to EUR
+2017 in Spain using the web- ­based tool Campbell and Cochrane
+Economics Methods Group—EPPI- ­Centre Cost Converter
+v.1.6, [12] which takes into account gross domestic product (GDP)
+deflator index and conversion rates based on purchasing power
+parities for GDP.
+
+
+**RESULTS**
+
+**Search results**
+The search until 4 April 2019 identified 847 references, and after
+the elimination of duplicates 482 references were screened by
+two reviewers. Eight references met the inclusion criteria, [6 7 13–18]
+reporting on seven economic evaluations. The update search
+on 8 June 2020 added 120 new references, 67 without duplicates, of which two economic evaluations met the criteria. [19 20]
+Therefore, a total of nine economic evaluations were analysed
+(figure 1).
+
+
+**Review**
+
+**Characteristics of the studies**
+Four studies were funded by the manufacturer of one of the evaluated vaccines. [13–15 20] Three studies funded by MSD, manufacturer of the 4- ­valent and 9- ­valent vaccines, adapted a dynamic
+transmission model for Spain, Italy and Germany. [13–15] Another
+study was funded by GSK, manufacturer of the 2- ­valent vaccine,
+and developed a static Markov model for Netherlands. [20] The
+rest of the studies were not directly sponsored by industry,
+although two studies declared a conflict of interest of one or
+more authors. [7 18] These non- ­industry- ­funded analyses were
+performed for Ireland, Canada, Sweden, UK and Netherlands
+(table 1).
+All studies, except one, [18] carried out a cost- ­utility analysis
+with quality- ­adjusted life years (QALY) as an effect outcome.
+Five studies used a dynamic transmission model, [7 13–15 19] while
+the others opted for some kind of modified static model. Despite
+the different modelling methods, all the models simulated the
+transmission of the infection in the population counting on the
+herd effect. Most of the studies adapted an existing model that
+had been developed for HPV vaccination in another context
+(different strategies, or country). Thus, the epidemiological
+model developed in the USA by Elbasha *et al* [21] was adapted for
+Spain, Italy and Germany, [13–15] while another model from the
+USA developed by Chesson *et al* [22] was adapted for Ireland and
+Sweden by their health technology assessment agencies. [6 16 17]
+
+Vaccination coverage in girls and in boys varied greatly between
+studies, depending on the vaccine situation in each country and
+historical uptake in girls. The uptake in boys was assumed by
+the authors and some studies assumed the same coverage in boys
+and girls. [7 14 15 17 19] However, a lower uptake in boys seems more
+realistic, taking into account the experience of countries where
+gender- ­neutral vaccination has been introduced. [3]
+
+
+**Search results** As expected, all studies modelled cervical intraepithelial
+The search until 4 April 2019 identified 847 references, and after neoplasia and cervical cancer. Although HPV vaccines are not
+the elimination of duplicates 482 references were screened by currently licensed for head and neck cancer prevention, five
+two reviewers. Eight references met the inclusion criteria, [6 7 13–18] studies included this health problem in their base case. [7 17–20]
+reporting on seven economic evaluations. The update search Four studies only included this condition in a scenario analysis,
+on 8 June 2020 added 120 new references, 67 without dupli- which improved the ICER of the gender- ­neutral strategy in all
+cates, of which two economic evaluations met the criteria. [19 20] cases. [6 13–15] Genital warts were not included in only two models
+Therefore, a total of nine economic evaluations were analysed because of the use of 2- ­valent vaccine that does not protect from
+(figure 1). this health problem. [18 20] The Swedish model only analysed the
+
+inclusion of genital warts in its sensitivity analysis [16 17] (table 2).
+The discount rate for benefits has been shown to be decisive in
+
+all models. Most of the models used the recommended discount
+rate in their country, the same as for costs (3%–5% according
+to each country). Lower values of benefits discount (0%–1.5%)
+were then used in sensitivity analysis, which always significantly
+improved the ICER of gender- ­neutral strategy (table 3). Only the
+study of Simons *et al* [20] used a reduced discount rate for benefits
+in the base case, which most probably favours the gender- ­neutral
+option.
+Differences in some cost categories were observed between
+industry- ­funded and non- ­industry- ­funded studies (all costs were
+converted to EUR 2017 in Spain) (figure 2). Treatment costs
+of genital warts were much higher in industry- ­funded studies:
+€468–€1122 per case in industry- ­funded studies versus €114–
+€274 per case in non- ­industry- ­funded studies. The high incidence
+of this health problem could influence the final cost- ­effectiveness
+ratios, possibly favouring the gender- ­neutral strategy. Regarding
+the cost of vaccination, in industry- ­funded studies, the complete
+schedule cost with 4- ­valent or 9- ­valent vaccine ranged from
+€209 to €279, while in non- ­industry- ­funded studies it was only
+**Figure 1** Flow chart of study selection. between €69 and €128. The higher cost of the vaccination is
+
+Linertová R, et al. J Epidemiol Community Health 2021; **75** :910–916. doi:10.1136/jech-2020-216305 911
+
+**Review**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clearly not favouring a gender- ­neutral strategy. No clear differences in other cost categories were observed.
+
+**Cost-effectiveness results**
+The results of the included studies are ambiguous and not always
+easily interpretable. The three MSD- ­funded studies claimed that
+a gender- ­neutral strategy would be cost- ­effective (or marginally
+cost- ­effective) in Spain, Germany and Italy, when comparing
+the gender- ­neutral 9- ­valent vaccine with girls- ­only 4- ­valent
+vaccine. [13–15] However, looking at the cost- ­effectiveness frontier,
+the gender- ­neutral 9- ­valent strategy should have been compared
+with girls- ­only 9- ­valent strategy, which was the next most
+
+
+effective option. In this scenario, the gender- ­neutral strategy
+would only be cost- ­effective in Italy (ICER €16 495/QALY
+according to our own calculations).
+The results showed a great sensitivity of the ICERs to the
+values of key parameters such as the price of the vaccine (listed
+vs tender), discount rate of benefits (same as for costs vs reduced)
+or included health problems (inclusion of oropharyngeal and
+penile cancers). When these values were modified, in many cases
+the ICER fell below the threshold of cost- ­effectiveness (willingness to pay), that is, the gender- ­neutral strategy became cost- ­
+effective (table 3).
+
+
+
+912 Linertová R, et al. J Epidemiol Community Health 2021; **75** :910–916. doi:10.1136/jech-2020-216305
+
+**Review**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Quality assessment**
+All the included studies met the basic criteria of methodological quality. The most important flaws were due to not reporting
+physical units for costs, or not including certain key parameters
+in sensitivity analysis. Five studies used a dynamic transmission
+model, whose general limitation is the inability to perform probabilistic sensitivity analysis and relative opacity compared with
+static models. On the other hand, if applied well, they can better
+simulate the complex social behaviour of the whole population. [23]
+
+Almost all the models were published in peer- ­reviewed journals, except the Irish ETS report. [6] Journals often place limits on
+the length and format and although appendices with additional
+information are allowed, the format does not promote transparency in the presentation of data. Given the inherent complexity
+of any infectious disease model, the brevity of the information
+does not allow to decide whether it meets all the requirements.
+In addition, many studies adapt previously published models
+that are referenced rather than offering an exhaustive description of their structure. Another source of bias is the conflict of
+interest which was present in six studies out of nine. [7 13–15 18 20]
+Full evaluation with the CHEC list instrument can be found in
+[the online supplemental table S2.](https://dx.doi.org/10.1136/jech-2020-216305)
+
+**DISCUSSION**
+This systematic review offers an overlook of the cost- ­
+effectiveness of the gender- ­neutral HPV vaccination in countries with established girls- ­only HPV vaccination, and it presents
+
+
+heterogeneous results. In spite of this, all the analysed countries,
+except Spain, have reached the decision to fund the gender- ­
+neutral HPV programme. Looking at the results of the analysis
+in each country, the ICER was only clearly below the threshold
+in Italy, Netherlands and Sweden. [14 17 18 20] On the contrary, the
+ICERs estimated for Germany, Spain, Ireland, UK and Canada
+surpassed the threshold in their base cases. [6 7 13 15 19]
+
+Beyond the efficiency criteria, other dimensions such as
+equity and reducing inequalities related to the feminisation of
+HPV have been reported as key drivers in this decision, hence
+explaining this inconsistency. [24 25] The cost- ­effectiveness component is a relevant criterion in healthcare decision- ­making, but
+not the only one. [26] For example, in the palliative care, the
+National Institute for Health and Care Excellence accepts from
+2009 interventions whose ICER is above the standard threshold
+because of the value that society gives to the time at the end
+of life. [27] To solve these dilemmas, multicriteria decision analysis
+has been proposed since it allows accepting ethical dimension
+by incorporating social values such as the reduction of inequalities. [26] Regarding the HPV vaccine- ­related equity, the conception
+that by protecting the female population, the male population
+would be protected by extension, has proven false and led to
+inequity issues, making several male populations more vulnerable. [8] The initial view of herd immunity by extension is based
+on a heteronormative view, and girls- ­only HPV vaccination
+does achieve sufficient protection for all men and excludes some
+high- ­risk groups like MSM. [25] In addition, the systematic review
+
+
+Linertová R, et al. J Epidemiol Community Health 2021; **75** :910–916. doi:10.1136/jech-2020-216305 913
+
+**Review**
+
+**Figure 2** Costs of (A) genital warts treatment and (B) complete
+vaccination schedule (two doses with administration). GW, genital
+warts; 2- ­valent, bivalent vaccine; 4- ­valent, tetravalent vaccine; 9- ­valent,
+nonavalent vaccine.
+
+ascertained the differences among studies in funding institutions,
+parameters, assumptions and model approaches to explain the
+diverse ICER estimated in the reviewed articles.
+From the methodological point of view, it has been argued
+that the evidence for some of the parameters related to the
+consequences in men of HPV infection, such as the relationship
+between HPV and anal, penile and oropharyngeal cancers, was
+low. [28] It is true that current evidence of the efficacy of the HPV
+vaccine in men is limited to the prevention of persistent HPV
+infections, genital warts and precursor lesions of anal cancer
+(anal intraepithelial neoplasia) with the 4- ­valent vaccine. [5] No
+significant estimate of the efficacy of the vaccine to prevent
+penile intraepithelial lesions and anal, penile and oropharyngeal cancers has been documented. [28] However, oropharyngeal
+cancer is the second most common HPV- ­related cancer in the
+USA, and it is estimated that it will soon exceed HPV- ­related
+cervical cancers. [29] It seems biologically plausible that reducing
+HPV exposure would reduce the incidence of associated head
+and neck cancers.
+As expected, when a study included effectiveness against penile
+and oropharyngeal cancers, the cost- ­effectiveness of gender- ­
+neutral vaccination improved. In the Spanish study, the ICER
+lowered to below the threshold when the model incorporated
+the effect of gender- ­neutral vaccine on head and neck cancers. [13]
+Although assuming this effectiveness is a non- ­evidence- ­based
+assumption today, all of the reviewed models included anal
+cancer in their base case and most of them penile and head
+
+
+and neck cancers. This does not correspond to the conservative
+approach recommended for evaluations of health technologies,
+although it is probable that protection against these cancers in
+men will ultimately be demonstrated.
+It has been shown that with higher coverage in girls, the
+gender- ­neutral strategy becomes less cost- ­effective due to herd
+immunity. [6 13 19] Thus, for example, in the Health Information
+and Quality Authority (HIQA) model, [6] with a coverage of
+90% in both sexes, the gender- ­neutral vaccination is not cost- ­
+effective. If the coverage among boys drops to 50%, keeping
+girls’ coverage at 90%, the ICER hardly changes; however,
+if girls’ coverage drops to 50%, the ICER of gender- ­neutral
+strategy falls below the cost- ­effectiveness threshold. Furthermore, the model adapted by the manufacturer for Spain assumed
+high coverage in girls (77.8%) and somewhat lower coverage
+in boys (55%) and showed that an increase of 20% of the two
+coverage rates worsens the cost- ­effectiveness ratio of the gender- ­
+neutral vaccine. [13] However, the relationship between the ICER
+of gender- ­neutral vaccination and the coverage rate in girls is
+not straightforward, as a gender- ­neutral programme can be cost- ­
+effective even in countries with a high coverage among girls. [14 17]
+On the other hand, the drop in some countries in the uptake in
+girls prompted the implementation of campaigns aimed at its
+recovery. [30] However, the cost of these campaigns has not been
+taken into account in the economic evaluations reviewed. Apart
+from the coverage rates, the scenario for the HPV immunisation
+decision- ­making has changed in recent years with the inclusion
+of other HPV- ­related diseases and the decrease in vaccine prices
+and number of doses. A gender- ­neutral strategy would help
+build confidence in the vaccine’s efficacy and would improve
+the perception that cervical cancer and other cancers are severe
+diseases. [29]
+
+Other studies [31] have demonstrated that industry- ­funded
+studies report more favourable base- ­case cost- ­effectiveness
+values, increasing the probability for a positive recommendation on a health technology. Our review found some differences
+in cost parameters between industry- ­funded and non- ­industry- ­
+funded studies, namely treatment costs of genital warts, and
+vaccine prices. Although genital warts do not represent a
+severe health problem nor do they have serious consequences
+in health- ­related quality of life, their relatively high incidence,
+and therefore many prevented cases in vaccinated men, can have
+an important influence on the total costs of compared strategies. Industry- ­funded studies used higher costs of genital warts
+treatment, which could have resulted in a more favourable ICER
+for gender- ­neutral vaccination. However, differences in vaccine
+prices according to sponsorship had the opposite effect.
+In any economic evaluation of an immunisation programme,
+the price per dose usually has a strong influence on its cost- ­
+effectiveness. Tender prices negotiated by the health authorities have dropped from €100 to €30 in the last 10 years for
+the 2- ­valent and 4- ­valent vaccines. [10] This means that the negotiated prices can be up to four times lower than those officially listed. In studies included in this review, the price per
+two doses plus administration, adjusted to EUR 2017, varies
+between €69 and €279, and significantly lower prices were
+used in the non- ­industry- ­funded studies, which applied tender
+prices with large discounts, while industry- ­funded studies
+only use listed prices and no sensitivity analysis is normally
+conducted for the vaccine price. [13 15] A clear example of the
+influence of this parameter is the Swedish study, [17] in which
+the ICER was estimated at €40 000/QALY with the listed price
+of the vaccine (€174 per dose), but when the tender price was
+used with an 85% discount, gender- ­neutral vaccination was a
+
+
+914 Linertová R, et al. J Epidemiol Community Health 2021; **75** :910–916. doi:10.1136/jech-2020-216305
+
+dominant option over only- ­girls vaccination (more effective
+and less expensive).
+In public health, the size of the cohort receiving the intervention is normally large, while the benefits of reduced morbidity
+and mortality are relatively small. [32] It is also important to
+mention that most of the costs are incurred at the beginning of
+the evaluated period, therefore the discount does not influence
+them, while the benefits of the immunisation occur many years
+later and are therefore greatly affected by the discount rate. [23] In
+the UK, the Joint Committee on Vaccination and Immunization
+(JCVI) initially spoke out (in June 2016) against the extension of
+the HPV vaccine to boys, based on a model with a discount rate
+for benefits of 3.5%. [19 33] In July 2018, the JCVI reviewed the
+decision and accepted a 1.5% discount, in accordance with the
+UK Economic Assessment Guidelines for Public Health Interventions with Long- ­Term Health Benefits. [34] This modification
+placed more weight on the clinical benefits and consecutively
+improved the cost- ­effectiveness of the gender- ­neutral vaccination, which was finally recommended by the JCVI. [35] However,
+this modification in the universally accepted rules was criticised
+by some authors as unethical and favouring a politically popular
+but not efficient decision. [36] Most of the analysed models used
+the recommended discount rate in their country (3%–5%) and
+in their sensitivity analyses they decreased the value (0%–1.5%),
+showing significant improvements in the ICER in all cases.
+All analysed models assumed that the duration of the vaccine’s
+effect is lifelong. To date, studies of vaccine efficacy have not
+suggested a decrease in protection over time. [6 28] However, the
+longest follow- ­up of available clinical trials is 10 years, and in
+theory efficacy could decrease after that time. An analysis of
+the potential impact of decreased efficacy after 10 years by the
+HIQA agency [6] suggests that it would have a limited impact on
+the cost- ­effectiveness of gender- ­neutral vaccination. In any case,
+even with decreasing efficacy, the protection period coincides
+with the maximum risk period for contracting HPV infection.
+
+~~**What**~~ ~~**is**~~ ~~**already**~~ ~~**known**~~ ~~**on**~~ ~~**this**~~ ~~**subject**~~
+
+ - - Preadolescent girls are vaccinated against human
+papillomavirus (HPV) worldwide, but boys’ immunisation
+~~is~~ ~~being~~ ~~introduced~~ ~~gradually~~, ~~and~~ ~~these~~ ~~decisions~~ ~~are~~
+not always based on a country- ­specific cost- ­effectiveness
+analysis.
+
+~~**What**~~ ~~**this**~~ ~~**study**~~ ~~**adds**~~
+
+ - - Nine economic evaluations of extending the HPV
+immunisation to preadolescent boys were identified. Their
+results are ambiguous, and depend to a great extent on key
+parameters, such as discount rate of benefits, vaccine prices
+and health problems included in the analyses.
+
+ - - The price of HPV vaccines has been reduced in tender- ­based
+settings and the vaccination is expected to prove its effcacy i
+against certain cancers that affect males, which could further
+improve the cost- ­effectiveness of the gender- ­neutral strategy.
+
+ - - Cost- ­effectiveness criteria of gender- ­neutral HPV vaccination
+should be taken into account before its inclusion in the
+national healthcare systems, but other aspects, such as
+justice, gender equality and non- ­discrimination, have to be
+considered.
+
+
+**Review**
+
+Our search was limited to studies with a two- ­dose schedule
+of HPV immunisation; therefore, studies that evaluated a three- ­
+dose schedule were excluded. The two- ­dose schedule has been
+shown to be as effective as the three- ­dose one, [37] and therefore it has been adopted worldwide. Consequently, economic
+evaluations using a three- ­dose schedule are not relevant for
+today’s decision- ­making. Another limitation is inherent to the
+complexity of evaluated models. In this review, we tried to
+compare the values of those parameters that are considered
+key for the cost- ­effectiveness of a gender- ­neutral programme.
+However, the results depend to a great extent on the model
+structure, which cannot be evaluated and compared with other
+models without a deep knowledge of the modelling technique
+and access to the full code.
+In conclusion, the evidence of the cost- ­effectiveness of
+extending HPV vaccination to boys with the two- ­dose vaccine
+schedule is still limited and the conclusions of existing models
+are not unambiguous. However, cost- ­effectiveness cannot be the
+only criteria for the decision makers and the inclusion of boys
+in HPV vaccination implies reducing gender- ­related inequities. [25]
+As the European Centre for Disease Prevention notes, if the goal
+of the immunisation programme is to prevent all HPV- ­related
+diseases, and not just cervical cancer, then gender- ­neutral vaccination should be an option to consider. [3]
+
+**Contributors** The study was originally planned by RL and CGF. Search strategy
+was designed by LRR and RL, and executed by LRR. The systematic review was
+conducted by all authors. Quality of included studies was assessed by CGF, JMM
+and RL. Reporting was done by RL, CGF, JMM, III and MCR and the manuscript
+was reviewed and approved by all authors. RL is responsible for the overall
+content.
+
+**Funding** This work was supported by the Ministry of Health of Spain.
+
+**Competing interests** None declared.
+
+**Patient consent for publication** Not required.
+
+**Provenance and peer review** Not commissioned; externally peer reviewed.
+
+**Supplemental material** This content has been supplied by the author(s).
+It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not
+have been peer- ­reviewed. Any opinions or recommendations discussed are
+solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all
+liability and responsibility arising from any reliance placed on the content.
+Where the content includes any translated material, BMJ does not warrant the
+accuracy and reliability of the translations (including but not limited to local
+regulations, clinical guidelines, terminology, drug names and drug dosages), and
+is not responsible for any error and/or omissions arising from translation and
+adaptation or otherwise.
+
+**ORCID iDs**
+[Renata Linertová http:// ​orcid. ​org/ ​0000- ​0002- ​0138- ​9252](http://orcid.org/0000-0002-0138-9252)
+[Javier Mar Medina http:// ​orcid. ​org/ ​0000- ​0002- ​9455- ​4869](http://orcid.org/0000-0002-9455-4869)
+[Iñaki Imaz- ­Iglesia http:// ​orcid. ​org/ ​0000- ​0002- ​7864- ​4194](http://orcid.org/0000-0002-7864-4194)
+
+**REFERENCES**
+1 de Sanjosé S, Serrano B, Tous S, et al. Burden of Human Papillomavirus (HPV)- ­related
+[cancers attributable to HPVs 6/11/16/18/31/33/45/52 and 58. JNCI Cancer Spectr](http://dx.doi.org/10.1093/jncics/pky045)
+2018;2:pky045.
+2 Diaz M, de Sanjosé S, Bosch FX, et al. Present challenges in cervical cancer
+[prevention: answers from cost- ­effectiveness analyses. Rep Pract Oncol Radiother](http://dx.doi.org/10.1016/j.rpor.2018.04.006)
+2018;23:484–94.
+3 European Centre for Disease Prevention and Control. Guidance on HPV vaccination
+
+i in EU countries: focus on boys, people living with HIV and 9- ­valent HPV vaccine
+
+introduction 2019.
+[4 ECDC. Vaccine scheduler. Available: https:// ​vaccine- ​schedule. ​ecdc. ​europa. ​eu/ ​](https://vaccine-schedule.ecdc.europa.eu/Scheduler/ByDisease?SelectedDiseaseId=38&SelectedCountryIdByDisease=-1)
+
+[Scheduler/ ​ByDisease? ​SelectedDiseaseId= ​38& ​Sele ​cted ​Coun ​tryI ​dByD ​isease=-1](https://vaccine-schedule.ecdc.europa.eu/Scheduler/ByDisease?SelectedDiseaseId=38&SelectedCountryIdByDisease=-1)
+
+[Accessed 22 Jul 2020].
+5 Harder T, Wichmann O, Klug SJ, et al. Efficacy, effectiveness and safety of vaccination
+[against human papillomavirus in males: a systematic review. BMC Med 2018;16:110.](http://dx.doi.org/10.1186/s12916-018-1098-3)
+6 Health Information and Quality Authority (HIQA), HIQA. Health information and
+quality authority health technology assessment (HTa) of extending the National
+immunisation schedule to include HPV vaccination of boys 2018.
+
+
+i
+
+Linertová R, et al. J Epidemiol Community Health 2021; **75** :910–916. doi:10.1136/jech-2020-216305 915
+
+**Review**
+
+7 Laprise J- ­F, Drolet M, Boily M- ­C, et al. Comparing the cost- ­effectiveness of two- and
+three- ­dose schedules of human papillomavirus vaccination: a transmission- ­dynamic
+[modelling study. Vaccine 2014;32:5845–53.](http://dx.doi.org/10.1016/j.vaccine.2014.07.099)
+8 Shani K, Khairandish A, Brennan DJ. Health equity implications of excluding boys and
+vulnerable young men from Ontario’s HPV immunization program. Univ Toronto Med J
+[2016;93:35–8 https://www. ​utmj. ​org/ ​index. ​php/ ​UTMJ/ ​article/ ​view/ ​349](https://www.utmj.org/index.php/UTMJ/article/view/349)
+9 Law VG, Gustafson DL. Challenging ’girls only’ publicly funded human papillomavirus
+[vaccination programmes. Nurs Inq 2017;24. doi:10.1111/nin.12140. [Epub ahead of](http://dx.doi.org/10.1111/nin.12140)
+print: 20 05 2016].
+10 Qendri V, Bogaards JA, Berkhof J. Pricing of HPV vaccines in European tender- ­based
+[settings. Eur J Health Econ 2019;20:271–80.](http://dx.doi.org/10.1007/s10198-018-0996-9)
+11 Evers S, Goossens M, de Vet H, et al. Criteria list for assessment of methodological
+[quality of economic evaluations: consensus on health economic criteria. Int J Technol](http://dx.doi.org/10.1017/S0266462305050324)
+[Assess Health Care 2005;21:240–5.](http://dx.doi.org/10.1017/S0266462305050324)
+[12 CCEMG. EPPI- ­Centre cost converter v.1.4. Available: https:// ​eppi. ​ioe. ​ac. ​uk/ ​](https://eppi.ioe.ac.uk/costconversion/default.aspx)
+
+[costconversion/ ​default. ​aspx [Accessed 22 Jul 2020].](https://eppi.ioe.ac.uk/costconversion/default.aspx)
+13 De La Fuente J, Hernandez Aguado JJ, San Martín M, et al. Estimating the
+epidemiological impact and cost- ­effectiveness profile of a nonavalent HPV vaccine in
+[Spain. Hum Vaccin Immunother 2019;15:1949–61.](http://dx.doi.org/10.1080/21645515.2018.1560770)
+14 Mennini FS, Bonanni P, Bianic F, et al. Cost- ­Effectiveness analysis of the nine- ­valent
+[HPV vaccine in Italy. Cost Eff Resour Alloc 2017;15:11.](http://dx.doi.org/10.1186/s12962-017-0073-8)
+15 Largeron N, Petry KU, Jacob J, et al. An estimate of the public health impact and cost- ­
+
+[effectiveness of universal vaccination with a 9- ­valent HPV vaccine in Germany. Expert](http://dx.doi.org/10.1080/14737167.2016.1208087)
+[Rev Pharmacoecon Outcomes Res 2017;17:85–98.](http://dx.doi.org/10.1080/14737167.2016.1208087)
+16 Wolff E. Health economic evaluation of universal HPV vaccination within the Swedish
+national vaccination programme for children, 2017.
+17 Wolff E, Elfström KM, Haugen Cange H, et al. Cost- ­Effectiveness of sex- ­neutral HPV- ­
+
+[vaccination in Sweden, accounting for herd- ­immunity and sexual behaviour. Vaccine](http://dx.doi.org/10.1016/j.vaccine.2018.07.018)
+2018;36:5160–5.
+18 Qendri V, Bogaards JA, Berkhof J. Health and economic impact of a Tender- ­Based, Sex- ­
+
+[Neutral human papillomavirus 16/18 vaccination program in the Netherlands. J Infect](http://dx.doi.org/10.1093/infdis/jix272)
+[Dis 2017;216:210–9.](http://dx.doi.org/10.1093/infdis/jix272)
+19 Datta S, Pink J, Medley GF, et al. Assessing the cost- ­effectiveness of HPV vaccination
+[strategies for adolescent girls and boys in the UK. BMC Infect Dis 2019;19:552.](http://dx.doi.org/10.1186/s12879-019-4108-y)
+20 Simons JJM, Vida N, Westra TA, et al. Cost- ­Effectiveness analysis of a gender- ­
+
+[neutral human papillomavirus vaccination program in the Netherlands. Vaccine](http://dx.doi.org/10.1016/j.vaccine.2020.05.031)
+2020;38:4687–94.
+[21 Elbasha EH, Dasbach EJ, Insinga RP. A multi- ­type HPV transmission model. Bull Math](http://dx.doi.org/10.1007/s11538-008-9338-x)
+[Biol 2008;70:2126–76.](http://dx.doi.org/10.1007/s11538-008-9338-x)
+22 Chesson HW, Ekwueme DU, Saraiya M, et al. The cost- ­effectiveness of male HPV
+[vaccination in the United States. Vaccine 2011;29:8443–50.](http://dx.doi.org/10.1016/j.vaccine.2011.07.096)
+
+
+23 World Health Organization. WHO guide for standardization of economic evaluations
+of immunization programmes. II edn, 2019.
+24 Malmqvist E, Helgesson G, Lehtinen J, et al. The ethics of implementing human
+[papillomavirus vaccination in developed countries. Med Health Care Philos](http://dx.doi.org/10.1007/s11019-010-9285-9)
+2011;14:19–27.
+25 Daley EM, Vamos CA, Thompson EL, et al. The feminization of HPV: how science,
+politics, economics and gender norms shaped U.S. HPV vaccine implementation.
+[Papillomavirus Res 2017;3:142–8.](http://dx.doi.org/10.1016/j.pvr.2017.04.004)
+26 Rutstein SE, Price JT, Rosenberg NE, et al. Hidden costs: the ethics of cost- ­
+
+[effectiveness analyses for health interventions in resource- ­limited settings. Glob Public](http://dx.doi.org/10.1080/17441692.2016.1178319)
+[Health 2017;12:1269–81.](http://dx.doi.org/10.1080/17441692.2016.1178319)
+27 Bovenberg J, Penton H, Buyukkaramikli N. 10 years of end- ­of- ­life criteria in the United
+[Kingdom. Value Health 2021;24:691–8.](http://dx.doi.org/10.1016/j.jval.2020.11.015)
+28 European Centre for Disease Prevention and Control. Public consultation on draft
+guidance for introduction of HPV vaccines in EU countries: focus on 9- ­valent HPV
+vaccine and vaccination of boys and people living with HIV 2019.
+29 Chaturvedi AK, Engels EA, Pfeiffer RM, et al. Human papillomavirus and
+[rising oropharyngeal cancer incidence in the United States. J Clin Oncol](http://dx.doi.org/10.1200/JCO.2011.36.4596)
+2011;29:4294–301.
+30 Hansen
+31 Bilcke J, Verelst F, Beutels P. Sponsorship bias in base- ­case values and uncertainty
+bounds of health economic evaluations? A systematic review of herpes zoster
+[vaccination. Med Decis Making 2018;38:730–45.](http://dx.doi.org/10.1177/0272989X18776636)
+32 Weatherly H, Drummond M, Claxton K, et al. Methods for assessing the cost- ­
+
+effectiveness of public health interventions: key challenges and recommendations.
+[Health Policy 2009;93:85–92.](http://dx.doi.org/10.1016/j.healthpol.2009.07.012)
+33 Joint Commitee on Vaccination and Immunisation. JCVI interim statement on
+[extending HPV vaccination to adolescent boys, 2017. Available: https:// ​assets. ​](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/630125/Extending_HPV_Vaccination.pdf)
+[publishing. ​service. ​gov. ​uk/ ​government/ ​uploads/ ​system/ ​uploads/ ​attachment_ ​data/ ​file/ ​](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/630125/Extending_HPV_Vaccination.pdf)
+[630125/ ​Extending_ ​HPV_ ​Vaccination. ​pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/630125/Extending_HPV_Vaccination.pdf)
+34 National Institute for Health and Care Excellence. Incorporating economic evaluation
+|Developing NICE guidelines: the manual. NICE, 2014.
+[35 JCVI recommends extending HPV vaccination to boys. Drug Ther Bull 2019;57:85.](http://dx.doi.org/10.1136/dtb.2019.000029)
+36 O’Mahony JF, Paulden M, et al. The Joint Committee on Vaccination and
+Immunisation’s Advice on Extending Human Papillomavirus Vaccination to Boys:
+Were Cost- ­Effectiveness Analysis Guidelines Bent to Achieve a Politically Acceptable
+[Decision? Value in Health 2019;22:1227–30.](http://dx.doi.org/10.1016/j.jval.2019.07.010)
+37 Bergman H, Buckley BS, Villanueva G, et al. Comparison of different human
+papillomavirus (HPV) vaccine types and dose schedules for prevention of HPV- ­
+[related disease in females and males. Cochrane Database Syst Rev 2019;2019.](http://dx.doi.org/10.1002/14651858.CD013479)
+doi:10.1002/14651858.CD013479. [Epub ahead of print: 22 11 2019].
+
+
+916 Linertová R, et al. J Epidemiol Community Health 2021; **75** :910–916. doi:10.1136/jech-2020-216305
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

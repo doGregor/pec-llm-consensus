@@ -1,0 +1,547 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [Urologic Oncology: Seminars and Original Investigations 39 (2021) 85−92](https://doi.org/10.1016/j.urolonc.2020.11.037)
+
+Clinical-Bladder cancer
+# BCG infection (BCGitis) following intravesical instillation for bladder cancer and time interval between treatment and presentation: A systematic review
+## Paolo Cabas, M.D. [a][,] *, Michele Rizzo, M.D. [a], Mauro Giuffr�e, M.D. [b][,][c], Roberta Maria Antonello, M.D. [d], Carlo Trombetta, M.D. [a], Roberto Luzzati, M.D. [e], Giovanni Liguori, M.D. [a], Stefano Di Bella, M.D. [e]
+
+a Department of Urology, University of Trieste, Cattinara Hospital, Trieste, Italy
+b Department of Medical, Surgical and Health Sciences, Liver Clinical Unit, University of Trieste, Cattinara Hospital, Trieste, Italy
+c Italian Liver Foundation, Basovizza, Trieste
+d University of Trieste, Trieste, Italy
+e Clinical Department of Medical, Surgical and Health Sciences, University of Trieste, Trieste, Italy
+
+Received 25 August 2020; received in revised form 23 October 2020; accepted 22 November 2020
+
+Abstract
+
+Objective: Intravesical Bacillus Calmette-Gu�erin (BCG) is an effective treatment in non−−muscle-invasive bladder cancer, however,
+extravesical BCG infection may occur in remote organs as a potentially serious complication. Researchers aimed to assess whether a different timing of BCG infection after intravesical administration of BCG could be identified and estimated for each single involved organ.
+Methods: We performed a systematic literature review over systemic and genitourinary BCG infection case reports, including 271 published
+case reports for a total of 307 patients. Demographic data, clinical features, and timing of BCG infection development were collected and
+analyzed for each patient. Results: BCG infection developed with a different timing from last instillation, depending on the involved organ.
+Among the genitourinary complications, penile lesions occurred as early as 1 (1;3) weeks, while orchiepididymitis occurred as late as 56
+(6.25;156) weeks. At the same time, granulomatous hepatitis and lungs involvement such as miliary pulmonary BCG infection occurred earlier, with a median time of 1 (1;4) and 1 (1;6) weeks respectively, whereas vascular, osteoarticular, and muscular complications developed
+with a median timing from last instillation of 52 (20;104), 68 (14;156), and 93 (29;156) weeks, respectively. The analysis detected a cluster
+between lungs, liver, and bone marrow complications on one side and muscular and osteoarticular or vascular complications on the other
+side was also observed. Conclusions: BCG infection after intravesical BCG for bladder cancer may develop even several months or years
+after the last instillation, depending on the involved organs. When BCG infection interests one or more organ, 2 main associative patterns
+are common: one involving lungs, liver, and bone marrow, with earlier occurrence but lower rates of microbiological diagnosis achievement, and one involving muscular and osteoarticular or vascular districts, with later occurrence but higher rates of microbiological evidence.
+� 2020 Elsevier Inc. All rights reserved.
+Keywords: BCGitis; Bladder cancer; Intravesical administration; Infection
+
+
+1. Introduction
+
+
+1. Introduction and/or progression in patients diagnosed with high-risk non
+
+−−
+muscle-invasive bladder cancer (NMIBC). It can also
+
+Intravesical instillation of Bacillus Calmette-Gu�erin be employed in patients with intermediate risk NMIBC [1].
+(BCG) is the recommended treatment after transurethral It has been estimated that approximately 2.9% of BCGresection of bladder tumor in order to prevent recurrence treated patients discontinue immunotherapy due to a genito
+urinary or systemic BCG-related infection [2], however
+*Corresponding author. Tel.: +39-040-3994887 while symptomatic bladder BCG infection is frequent, the
+[E-mail address: paolo.cabas@asuits.sanita.fvg.it (P. Cabas).](mailto:paolo.cabas@asuits.sanita.fvg.it)
+
+
+Intravesical instillation of Bacillus Calmette-Gu�erin
+
+(BCG) is the recommended treatment after transurethral
+resection of bladder tumor in order to prevent recurrence
+
+
+[https://doi.org/10.1016/j.urolonc.2020.11.037](https://doi.org/10.1016/j.urolonc.2020.11.037)
+1078-1439/� 2020 Elsevier Inc. All rights reserved.
+
+86 P. Cabas et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 85−92
+
+
+involvement of other organs is very uncommon [3]. In these
+particular cases, a definite diagnosis could be delayed due
+to a multitude of factors, especially considering the current
+lack of data regarding the time passed between intravesical
+treatment and the onset of infective complications [2−4].
+Larsen et al. [5] reported 66 BCGitis in a series of 6,753
+patients with a median time of 169.5 days between the last
+BCG instillation and BCGitis clinical presentation, without
+differentiation between the various involved organs. Gonzales et al. [6] had first noticed that infectious complications
+after intravesical BCG occurred with different timing, and
+introduced the concept of early and late infectious complications of intravesical BCG. The purpose of the current
+study was to determine whether a different timing of BCGinfective complications after intravesical treatment for
+NMIBC could be identified and estimated for each involved
+organ. However, since these complications are so rare,
+authors decided to perform their investigations through a
+systematic review of published BCG infection case reports
+involving both genitourinary and systemic complications.
+
+2. Materials and methods
+
+The authors performed a systematic review of literature
+in order to identify single or multiple, English-language
+case reports which could describe timing of BCG infection
+development after last intravesical instillation from single
+patients, with no publication year limits. After case reports
+identification, the authors collected data regarding oncological, pathological, diagnostic, and therapeutic features, with
+particular emphasis on timing of BCG infection onset from
+last intravesical instillation.
+
+Before performing the literature research, the leading
+research team composed by an Academic Infectious Disease Specialist, an Academic Urologist, an Academic Statistician and a Urology Resident independently identified
+and tested different queries in order to optimize pertinence
+and sensitivity of the literature search results. Review protocol has been recorded on June 4, 2020 on PROSPERO
+with ID 190337, and is currently being assessed. Systematic
+review was conducted according to PRISMA guidelines.
+Since authors included in the research results both genitourinary and systemic complications, 2 different queries
+were identified: “(miliary OR infection OR infective OR
+dissemination OR disseminated OR tuberculosis) AND
+(BCG OR BCGitis OR Calmette-Gu�erin OR Calmette Guerin) AND (cancer OR bladder OR urothelial OR vesical OR
+instillation OR endovesical OR intravesical)” for systemic
+BCG infection and “(prostate OR prostatic OR prostatitis)
+OR (orchis OR epididymis OR testis OR orchitis OR orchiepididymitis OR testicle OR testicular) OR (penile OR
+penis OR glans OR balanitis OR scrotum OR scrotal OR
+balanoposthitis) OR (kidney OR nephritis OR pyelonephritis OR pyelitis OR renal) AND (BCG OR bcgitis OR Calmette-Guerin OR Calmette Guerin)” for genitourinary BCG
+infection. On June 4, 2020 a PubMed search was performed
+
+
+with the first OR the second query. A complimentary search
+was performed on June 8, 2020 by checking the references
+of the previously identified case reports, since the majority
+of the authors had reported references of previous case
+reports of the same organ BCG infection. A final update
+was made the day before submission.
+The database included the following items: (1) biographical data; (2) tumor features, including pathological staging
+and grading; (3) number of instillations performed and time
+from last instillations (TLI) to first symptom development;
+(4) involved organ/s; (5) type of imaging performed; (6)
+type of microbiological, histological, and/or clinical diagnosis achievement; (7) surgical and/or medical treatment,
+including duration of antimycobacterial therapy; (8)
+patient’s outcome.
+Data are displayed as mean (standard deviation) or
+median (quartile 1;quartile 3), given the distribution results
+of Shapiro-Wilk’s test. The nature of the current study predisposes to the problem of missing at random data, whose
+main consequence is the substantial loss of statistical
+power. In particular the overall rate of missing data ranged
+from 10% to 84.3% [7]. Therefore, authors decided to display data in a descriptive fashion and not to perform statistical analysis to detect any intergroup differences. However,
+under the assumption that TLI and the number of instillations were missing at random, authors used univariate multiple imputation to create several (number of
+imputation = 5) complete versions of time from last instillation and the number of instillations by replacing their missing values with plausible data values [8]. In particular,
+multiple imputations were performed using fully conditional specification, and the 2 variables of interest were
+imputed via linear regression modeling [9]. In addition,
+authors measured the strength of association between the
+concomitant occurrence of systemic complications using
+Cramer’s V, whose coefficient can be interpreted as follows: >0.25, very strong association; >0.15, strong association; >0.10, moderate association; >0.05, weak association;
+<0.05, no or very weak association [10]. For all analyses,
+two-sided statistical significance was defined as P< 0.05.
+Data were analyzed using SPSS (statistical package for
+social science) version 25.0 (IBM SPSS Statistics for MAC
+OS. Armonk, NY: IBM Corp.).
+
+3. Results
+
+MEDLINE search was performed on June 4, giving
+2,513 results. A total of 2,066 of the resulting articles had a
+full abstract. Of these, 1,769 were English language and
+351 were case reports. After removal of duplicates (n = 2),
+130 were excluded because they were not pertinent, being
+case reports of BCG infection after BCG vaccination
+(n = 18), not-infectious intravesical BCG complications
+(n = 45), discussing nonclinical features of BCG infection
+(n = 24), being focused on bladder cancer rather than BCG
+infection (n = 23), discussing BCG infection from other
+
+P. Cabas et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 85−92 87
+
+Fig. 1. PRISMA flowchart of selected case reports.
+
+
+source (n = 8) or other topic at all (n = 12). Thus, 219 case
+reports of 243 patients with BCG infection following intravesical instillation for NMIBC were selected from the
+
+MEDLINE search. Further 52 case reports of 64 patients
+were identified from the complimentary search, giving a
+total amount of 271 case reports of 307 patients (Fig. 1).
+No further case reports were identified during the last
+update. References of included case reports are reported in
+Appendix 1.
+Three-hundred and three patients (98.7%) were male and
+4 (1.3%) were female. Among the 307 patients, 95 patients
+presented BCG-related genitourinary complications,
+whereas 323 developed BCG-related systemic complications. In 221 cases (72.0%) a single organ infection was
+reported. Two organs were involved in 62 cases (20.2%), 3
+or more organs in 24 cases (7.8%). On average each patient
+underwent 8 (§5.3) instillations. As shown in Table 1, genitourinary and systemic BCG infection developed with a
+
+
+different TLI, depending on the involved organ. Among
+genitourinary organs, penile lesions were reported after a
+median time of 1 (1;3) week from last instillations, BCG
+prostatitis or prostatic abscess after a median time of 3 (1;6)
+weeks, kidney granulomatous lesions after a median of 8
+(1;20) weeks and epididymo-orchitis after a median of 56
+
+−
+(6.25 125) weeks. At the same time, granulomatous hepatitis and lungs involvement such as miliary pulmonary
+BCG infection occurred earlier, with a median time of 1
+(1;4) and 1 (1;6) weeks respectively, whereas vascular
+involvement such as endoprosthesis graft infection or
+mycotic aneurysm, osteoarticular involvement such as prosthesis infection or spondylodiscitis and muscular involvement such as psoas abscesses had a later occurrence, of 52
+(20;104), 68 (14;156), and 93 (29;156) weeks respectively.
+A microbiological diagnosis was achieved, either
+through microscopic examination (acid-fast stain), sample
+culture or PCR, in 55.6% of patients, while no
+
+88 P. Cabas et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 85−92
+
+Table 1.
+
+Features of patients from the case reports included in the systematic review and main outcomes
+
+Patient characteristics Overall population Time from last instillation Treatment and outcomes
+(n = 307)
+
+
+Observed Imputed Medical therapy
+(weeks, IQR) (weeks, IQR) duration
+(weeks, IQR)
+
+Gender, Male 303 (98.7%)
+Number of organs
+involved per single
+patient
+One 221 (72%)
+Two 62 (20.2%)
+Three or more 24 (7.8%)
+Genitourinary BCG 3 (1;22) 5 (1;42)
+infection
+
+
+Need for
+
+surgery
+(n, %)
+
+
+Full recovery Death due to
+(n, %) BCG complications
+(n, %)
+
+
+Testis 24 56 (7;125) 60 (7.5;133) 6 (4;6.75) 18 (75%) 17 (70.8%) 0 (0%)
+Penis 22 1 (1;3) 2 (1;3) 6 (2.8;9.2) 7 (31.8%) 21 (95.4%) 0 (0%)
+Kidney 21 2 (1;12) 4 (1;12) 8 (6;10) 5 (23.8%) 16 (76.2%) 0 (0%)
+Prostate 20 4 (1;6) 7 (3;8) 9 (6;11.5) 5 (25%) 17 (85%) 0 (0%)
+Systemic BCG infection 4 (1;59) 8 (1;72)
+Lungs 73 1 (1;6) 2 (1;6) 8 (5;11) 5 (6.8%) 51 (69.9%) 3 (4.1%)
+Liver 56 1 (1;4) 2 (1;6) 8 (5;11) 5 (8.9%) 47 (83.9%) 2 (3.6%)
+Bone marrow 24 4 (1;31) 8 (1;37.5) 9 (6;12) 3 (12.5%) 18 (75%) 0 (0%)
+Vascular 65 52 (20;104) 52 (20;105) 9 (6;12) 54 (83%) 24 (36.9%) 10 (15.4%)
+Osteoarticular 41 68 (14;156) 75 (20;156) 12 (9;15) 35 (85.4%) 31 (75.6%) 0 (0%)
+Muscular 21 93 (29;156) 93 (32;156) 11 (8;14) 19 (90.5%) 14 (66.7%) 1 (4.8%)
+OVERALL 6 (1;52) 8 (1;64)
+
+
+mycobacteria could be found in 44.4% of patients. However, a positive microbiological positive data raised from
+28.6% of penile lesions to 100% of muscular district infectious involvements (Fig. 4). Granulomas were found on histological examination in 64.1% of patients, rising from
+22.2% of osteoarticular district involvement to 91.3% of
+
+bone marrow involvement. However, this data is missing in
+31.1% of patients.
+Median antimycobacterial therapy duration ranged from
+6 (2.8;9.2) weeks for penile and 6 (4;6.75) weeks for testicular infections to 12 (9;15) weeks for the osteoarticular district infections (Table 1). Surgical interventions were
+required with different rates according to organ
+
+
+involvement, ranging from 6.85% for patients with lung
+complications to 90.55% for patients with muscular complications. Of notice, some patients died from infectious complications due to BGC instillation: 3 (4.1%) of those with
+lung complications, 2 (3.6%) with hepatic complications,
+10 (15.4%) with vascular complications, and 1 (4.8%) with
+muscular complications.
+As reported in Table 2, in terms of associations between
+concomitant occurrences of systemic complications, it was
+observed a very strong association between lungs and liver
+complications (Cramer’s V coefficient 0.301, P < 0.001),
+bone marrow and liver complications (0.334, P < 0.001). A
+strong association was also observed between lungs and
+
+
+Table 2
+
+Strength of association between concomitant systemic complications according to Cramer’s V coefficient
+
+Lungs Liver Bone marrow Osteoarticular Vascular Muscular
+
+Lungs / 0.301 0.173 �0.260 �0.175 �0.160
+P < 0.001 P = 0.003 P < 0.001 P = 0.003 P = 0.006
+
+Liver 0.301 / 0.334 �0.161 �0.163 �0.134
+
+P < 0.001 P < 0.001 P = 0.005 P = 0.005 P = 0.022
+
+Bone marrow 0.173 0.334 / �0.115 �0.124 NS
+
+P = 0.003 P < 0.001 P = 0.048 P = 0.033
+
+Osteoarticular �0.260 �0.161 �0.115 / NS 0.247
+
+P < 0.001 P = 0.005 P = 0.048 P < 0.001
+
+Vascular �0.175 �0.163 �0.124 NS / 0.185
+
+P = 0.003 P = 0.005 P = 0.033 P = 0.002
+
+Muscular �0.160 �0.134 NS 0.247 0.185 /
+
+P = 0.006 P = 0.022 P < 0.001 P = 0.002
+
+P. Cabas et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 85−92 89
+
+
+bone marrow complications (0.173, P = 0.003), osteoarticular and muscular complications (0.247, P < 0.001), and vascular and muscular complications (0.185, P = 0.002).
+
+4. Discussion
+
+Results of this systematic review support the following
+statements. As shown in Fig. 2, penile lesions, lung BCG
+infection and granulomatous hepatitis tend to be early complications of BCG instillation, being more likely to occur
+after a short TLI. On the contrary, testicular, vascular, muscular, and osteoarticular complications tend to be late complications. Finally prostatic abscesses, bone marrow
+fibrosis, and kidney granulomas showed an intermediate
+trend. Our results are in line with the hypothesis firstly
+advanced by Gonzales et al. [6], who identified liver and
+lungs as early sites of infection (“early presentation disease”) and testicles as a later site of infection (“late presentation disease”). Clinicians should be aware that, while
+some BCG infectious complications after intravesical instillation for NMIBC occur earlier and are easier to detect,
+others may occur even several months after the last instillation. In addition, a history compatible with intravesical
+BCG instillation should always be investigated due to the
+possible requirement of an antituberculosis treatment in
+parallel to the surgical treatment of such complications.
+Also, an early diagnosis could avoid the need of surgery in
+
+
+some cases [11]. In detail, vascular surgeons should be
+aware that BCG mycotic aneurysms or pseudoaneurysms
+and endoprosthesis graft infections may occur up to some
+years after the last BCG instillation, and similarly should be
+orthopedics surgeons with BCG prosthetic joint infections
+and urologist with drug resistant epididymo-orchitis, sometimes requiring orchiectomy for turning into an abscess or
+because a cancer is suspected (Fig. 3).
+The lack of positive microbiological data should not discourage clinicians to consider BCG infection as a differential diagnosis, since microbiological evidence was present
+in only 55.6% of patients, depending on the involved
+organs. However, in late-occurring infectious complications, when BCG infection is suspected, microbiological
+data might be obtained in up to 83.6% of patients with vascular involvement and 91.7% of patients with osteoarticular
+involvement (Fig. 4), therefore in these cases it should be
+mandatory for mycobacteria research in surgical samples.
+At the same time, it is more difficult to achieve a microbiological diagnosis in lungs (35.2%) or liver (31.5%) complications, but being these early complications it is also easier
+for the clinician to identify a clinical link with intravesical
+BCG administration. However, in patients where a microbiological diagnosis could not be obtained, histology showing
+granulomas was crucial for a definitive diagnosis [12,13].
+In 28% of included case reports, more than one organ
+was involved in the same patient at the same time (Table 1).
+
+
+Fig. 2. Most frequently reported BCG complications and time from last instillation.
+
+90 P. Cabas et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 85−92
+
+Fig. 3. Representation of genitourinary and systemic complications according to imputed time from last instillation.
+
+Fig. 4. Rates of microbiological detection of BCG according to involved organ.
+
+P. Cabas et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 85−92 91
+
+
+Cramer’s analysis showed an association between lungs,
+liver, and bone marrow complications on one side and
+between vascular, muscular, and osteoarticular districts,
+meaning that there are 2 main clusters of systemic BCG
+infectious complications: one involving lungs, liver, and
+bone marrow, with an earlier occurrence but a lower rate of
+microbiological detecting, and one involving vascular, muscular and osteoarticular districts, with a later occurrence but
+a higher rate of microbiological detection (Table 2).
+Interestingly, only 4 patients (1.3%) were female.
+According to European epidemiological data, the age-standardized incidence rate (per 100,000 person/years) is 19.1
+for men and 4.0 for women [14]. Therefore, higher incidence of BCG infection in females should have been
+
+expected. This observation sustains the hypothesis that
+BCG infection could be related to a traumatic preprocedure
+urethral catheterization [1], which anatomically may impact
+men more frequently [15].
+In terms of treatment options and outcomes, neither trials
+assessing optimal therapy for BCG infection, nor an established consensus exist. Mycobacterium bovis is intrinsically
+resistant to pyrazinamide, therefore, it seems reasonable to
+treat infected patients with 2 months of isoniazid plus
+rifampin plus ethambutol, followed by 7 months of isoniazid plus rifampin [11,16]. In terms of BCG-instillation
+related death, attributable mortality was estimated to be
+10% in systemic BCG infections and 3% in genitourinary
+BCG infection [16]. In our systematic review the higher
+mortality rate was observed with vascular complications
+(15.4%), while no mortality was reported among genitourinary complications.
+The main limitation of this study regards the not insignificant issue related to the data source (i.e., case reports).
+This led to a considerable number of MAR data (e.g.,
+31.1% of missing data regarding the presence or absence of
+granulomas on biopsy). However, BCG infection following
+BCG intravesical administration is a very uncommon complication, and it is virtually impossible to collect data on a
+single or multi-institutional series as proved by the low incidence rates of the Danish nationwide series. In addition, it is
+not possible to exclude that the time of presentation of complications may have influenced the effective number of
+reported cases. However, the aim of this research is to
+make physicians consider possible cases of organ BCG
+infection, when their patients underwent BCG intravesical
+treatment, and that TLI may help in differential diagnosis.
+Also, the authors chose to not perform a statistical analysis
+on prevalence and relative incidence of the single organ
+involved, since these data could be subject to a publication
+bias: for example, we only found 8 case reports of bladder
+BCG infection, probably a most common infectious complication of intravesical BCG [4]. A further limitation of
+the study is the possibility of a selection bias, meaning that
+some eligible case reports could result excluded from the
+database due to limitations of the query. Therefore, authors
+decided to perform a complimentary search after the first
+
+
+selection to reduce this bias. Finally, it should be considered
+that different timing of symptoms onset could be attributed
+to the time needed for the development of abscess and granulomas in the various organs.
+
+5. Conclusions
+
+Infectious BCG complications after intravesical BCG
+administration for NMIBC develop with different timing
+according to the site of infection: lungs, liver, and penile
+complications occur earlier; whereas, testicular, muscular,
+vascular, and osteoarticular district complications occur
+later; kidney, bone marrow and prostate complications
+show an intermediate trend. Also, more than one organ
+may be interested in systemic BCG infection with 2 main
+clusters: one involving lungs, liver, and bone marrow,
+with earlier occurrence but lower rate of microbiological
+diagnosis achievement, and one involving muscular and
+osteoarticular or vascular district, with later occurrence but
+higher rate of microbiological diagnosis achievement.
+Clinicians should be aware of these patterns, and clinical
+suspicion of BCG infection should be kept in mind even if
+several months or years have passed since the last BCG
+instillation.
+
+Supplementary materials
+
+Supplementary material associated with this article can
+[be found in the online version at https://doi.org/10.1016/j.](https://doi.org/10.1016/j.urolonc.2020.11.037)
+[urolonc.2020.11.037.](https://doi.org/10.1016/j.urolonc.2020.11.037)
+
+References
+
+[1] EAU Guidelines. Edn. presented at the EAU Annual Congress
+Copenhagen 2019. ISBN 978-94-92671-04-2.
+
+[[2] Nummi A, J€arvinen R, Sairanen J, et al. A retrospective study on tol-](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0002)
+[erability and complications of bacillus Calmette-Gu�erin (BCG) instil-](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0002)
+
+[lations for non-muscle-invasive bladder cancer. Scand J Urol](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0002)
+
+[2019;53(2-3):116–22.](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0002)
+
+[[3] Liu Y, Lu J, Huang Y, Ma L. Clinical spectrum of complications](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0003)
+[induced by intravesical immunotherapy of bacillus Calmette-Gu�erin](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0003)
+[for bladder cancer. J Oncol 2019;2019:6230409.](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0003)
+
+[4] Abu-Nader R, Terrell CL. Mycobacterium bovis vertebral osteomyelitis as a complication of intravesical BCG use. Mayo Clin Proc
+[2002;77:393�397. https://doi.org/10.4065/77.4.393.](https://doi.org/10.4065/77.4.393)
+
+[5] Larsen ES, Nordholm AC, Lillebaek T, Holden IK, Johansen IS. The
+epidemiology of bacille Calmette-Gu�erin infections after bladder
+instillation from 2002 through 2017: a nationwide retrospective
+[cohort study. BJU Int 2019;124:910�916. https://doi.org/10.1111/](https://doi.org/10.1111/bju.14793)
+[bju.14793.](https://doi.org/10.1111/bju.14793)
+
+[6] Gonzalez OY, Musher DM, Brar I, et al. Spectrum of bacille Calmette-Gu�erin (BCG) infection after intravesical BCG immunotherapy.
+[Clin Infect Dis 2003;36:140�148. https://doi.org/10.1086/344908.](https://doi.org/10.1086/344908)
+
+[7] Graham JW. Missing data analysis: making it work in the real world.
+Annu Rev Psychol 2009;60:549�576. [https://doi.org/10.1146/](https://doi.org/10.1146/annurev.psych.58.110405.085530)
+[annurev.psych.58.110405.085530.](https://doi.org/10.1146/annurev.psych.58.110405.085530)
+
+[[8] Sterne JAC, White IR, Carlin JB, et al. Multiple imputation for miss-](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0008)
+[ing data in epidemiological and clinical research: potential and pit-](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0008)
+[falls. BMJ 2009;338:b2393.](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0008)
+
+92 P. Cabas et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 85−92
+
+
+
+[9] van Buuren S. Multiple imputation of discrete and continuous data by
+fully conditional specification. Stat Methods Med Res 2007;16:
+[219�242. https://doi.org/10.1177/0962280206074463.](https://doi.org/10.1177/0962280206074463)
+
+[10] Akoglu H. User’s guide to correlation coefficients. Turk J Emerg
+Med 2018;18:91�93.. [https://doi.org/10.1016/j.tjem.2018.08.001:](https://doi.org/10.1016/j.tjem.2018.08.001)
+Published 2018 Aug 7.
+
+[11] Van Scoy RE, Wilkowske CJ. Antimycobacterial therapy. Mayo Clin
+[Proceed 1999;74:1038–48. https://doi.org/10.4065/74.10.1038.](https://doi.org/10.4065/74.10.1038)
+
+[12] Vaisban E, Melamed-Snapir Y, Braester A, Tanasijtchouk T,
+Cohen H, Nassar F. Bone marrow fibrosis and caseating
+granulomas associated with intravesicular BCG treatment. Eur
+[J Intern Med 2005;16:301–3. https://doi.org/10.1016/j.ejim.2004.](https://doi.org/10.1016/j.ejim.2004.11.015)
+[11.015.](https://doi.org/10.1016/j.ejim.2004.11.015)
+
+
+
+[13] Onal IK, Ersoy O, Aydınlı M, Yonem O, Harmancı O, Sokmensuer C,
+et al. Hepatic granuloma in Turkish adults: a report of 13 cases. Eur J
+[Intern Med 2008;19:527–30. https://doi.org/10.1016/j.ejim.2008.01.012.](https://doi.org/10.1016/j.ejim.2008.01.012)
+
+[14] Richters A, Aben KKH, Kiemeney LALM. The global burden of uri[nary bladder cancer: an update. World J Urol 2019 https://doi.org/](https://doi.org/10.1007/s00345-019-02984-4)
+[10.1007/s00345-019-02984-4.](https://doi.org/10.1007/s00345-019-02984-4)
+
+[15] Di Bella S, Cabas P, Antonello RM, Rizzo M. Interferon: the invisible link between COVID-19 and BCGitis female protection? [published online ahead of print, 2020 Jul 22]. Scand J Immunol 2020:
+[e12939. https://doi.org/10.1111/sji.12939.](https://doi.org/10.1111/sji.12939)
+
+[[16] As�ın N, P�erez-Jacoiste MA, et al. Bacillus Calmette-Gu�erin (BCG)](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0016)
+[infection following intravesical BCG administration as adjunctive](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0016)
+[therapy for bladder cancer”. Medicine 2014;93:236–54.](http://refhub.elsevier.com/S1078-1439(20)30624-4/sbref0016)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

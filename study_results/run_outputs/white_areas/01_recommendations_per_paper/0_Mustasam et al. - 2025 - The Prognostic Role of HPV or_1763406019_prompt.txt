@@ -1,0 +1,1543 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ORIGINAL RESEARCH
+# The Prognostic Role of HPV or p16 [INK4a] Status in Penile Squamous Cell Carcinoma: A Meta-Analysis
+
+Arfa Mustasam, MD [1] [,] [*] ; Kevin Parza, DO [2] [,] [*] ; Filip Ionescu, MD [1] ; Keerthi Gullapalli, MD [1] ; Mahati Paravathaneni, MD [1] ;
+Youngchul Kim, PhD [3] ; Reagan E. Sandstrom, BS [4] ; Majd Al Assaad, MD [5] ; G. Daniel Grass, MD [6] ; Peter Johnstone, MD [6] ;
+Steven Eschrich, PhD [3] ; Houssein Safa, MD [7] ; Juskaran Chadha, DO [1] ; Gabriel Roman Souza, MD [1] ; Jerel David, MD [1] ;
+Adele Semaan, PhD [8] ; Niki M. Zacharias, MD [9] ; Curtis Pettaway, MD [9] ; Anna R. Giuliano, PhD [10] ; Philippe E. Spiess, MD [1] ;
+and Jad Chahoud, MD, MPH [1]
+
+Abstract
+
+Background: HPV infection is implicated in approximately half of global penile squamous cell carcinoma (PSCC) cases. Previous studies on
+HPV DNA and p16 [INK4a] status in PSCC have yielded inconclusive prognostic findings. This meta-analysis aims to elucidate the prognostic
+role of HPV in PSCC by pooling data on disease-free survival (DFS), disease-specific survival (DSS), and overall survival (OS). Methods: We
+systematically searched Medline and Embase up to January 2023 for relevant human studies. Data from eligible publications reporting
+HPV DNA or p16 [INK4a] status, along with and DFS, DSS, or OS outcomes, were extracted. A random-effects meta-analysis model was
+used to synthesize data, with study weights based on size and significance. The study protocol was registered with PROSPERO
+(CRD42019131355). Results: Out of 544 studies screened, 34 publications were included, comprising a pooled sample size of 3,944 patients. p16 [INK4a] -positive status was associated with improved OS (hazard ratio [HR], 0.54; 95% CI, 0.39–0.75; I [2] 531%), DFS (HR, 0.52;
+95% CI, 0.29–0.94; I [2] 520%), and DSS (HR, 0.34; 95% CI, 0.23–0.50; I [2] 518%). HPV DNA positivity was significantly associated with
+improved DFS (HR, 0.63; 95% CI, 0.46–0.87; I [2] 513%) and DSS (HR, 0.46; 95% CI, 0.29–0.75; I [2] 547%) but not OS (HR, 0.92; 95% CI,
+0.74–1.11; I [2] 50%). Conclusions: This meta-analysis, comprising the largest number of patients with PSCC to date, shows a notable correlation between p16 [INK4a] immunohistochemistry positivity and survival outcomes. These findings support the understanding that penile cancer cases not associated with HPV tend to behave more aggressively. We support p16 [INK4a] immunohistochemistry testing as part of the
+initial diagnostic evaluation of patients with PSCC.
+
+J Natl Compr Canc Netw 2025;23(2):e247078
+[doi:10.6004/jnccn.2024.7078](https://doi.org/10.6004/jnccn.2024.7078)
+
+
+Background
+Penile squamous cell carcinoma (PSCC) is a rare but aggressive
+malignancy associated with HPV infection, affecting men worldwide. [1,2] By 2023, PSCC is estimated to affect .2,000 men in the
+United States and .50,000 globally, with survival rates showing
+limited improvement over the past 3 decades. [1,3]
+
+High-risk HPV DNA infection accounts for more than half
+of PSCC cases, which exhibit distinct molecular and clinical
+features. [2,4,5] Although HPV DNA–mediated oropharyngeal cancer
+(OPC) has demonstrated prognostic advantages and has been
+incorporated into WHO staging and therapy deintensification
+protocols, [6] the prognostic significance of HPV DNA infection in
+PSCC remains uncertain. [7][–][10]
+
+The limited sample sizes in previous prospective cohort
+studies, methodological variations in assessing HPV DNA status,
+and the absence of large-scale meta-analyses contribute to the
+current gaps in knowledge. However, leveraging p16 [INK4a] detection via immunohistochemistry (IHC) as a cost-effective surro
+—
+gate marker for HPV a method that has been a gold standard
+in recent decades—allows for broader studies and longitudinal
+population analyses of HPV infections. This is because the
+HPV E6 and E7 oncoproteins cause degradation of the tumor
+
+
+suppressor protein pRb, which releases p16 production from
+its negative feedback control, resulting in elevated levels of
+p16 [INK4a] . Thus, p16 overexpression becomes a reliable marker
+for identifying HPV-associated lesions. [11] Previous research has
+validated the acceptable sensitivity comparability between HPV
+DNA and p16 [INK4a] IHC biopsies in OPC and other HPV-associated
+squamous cell carcinomas. [12] Understanding the role of HPV
+DNA and p16 [INK4a] in PSCC offers the potential to refine disease
+risk stratification and craft tailored treatment approaches for this
+rare HPV-associated cancer. [13][–][15] However, despite the recognized prognostic value of HPV DNA presence and p16 [INK4a] protein overexpression in OPC, studies exploring these markers in
+PSCC have yielded conflicting results. [2,16,17]
+
+The only prior meta-analysis, conducted by Sand et al, [16]
+
+pooled results from 20 studies evaluating clinical outcomes in
+PSCC. Their findings revealing conflicting results, precluding definitive clinical conclusions. Although they reported improved
+disease-specific survival (DSS) in patients with PSCC positive for
+HPV DNA or exhibiting high p16 [INK4a] expression, [16] no significant
+associations were observed with disease-free survival (DFS) and
+
+[Supplementary material is published online at https://doi.org/10.6004/jnccn.2024.7078](https://doi.org/10.6004/jnccn.2024.7078)
+
+
+1 Department of Genitourinary Oncology, Moffitt Cancer Center, Tampa, FL; 2 Department of Hematology Oncology, University of Florida College of MedicineJacksonville, Jacksonville, FL; [3] Department of Biostatistics and Bioinformatics, Moffitt Cancer Center, Tampa, FL; [4] University of South Florida Morsani College of
+Medicine, Tampa, FL; [5] Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY; [6] Department of Radiation Oncology,
+Moffitt Cancer Center, Tampa, FL; [7] Department of Hematology Oncology, Baylor College of Medicine, Houston, TX; [8] Participant Research, Interventions, and
+Measurements Core, Mof 10 Center for Immunization and Infection Research in Cancer (CIIRC), Moffitt Cancer Center, Tampa, FL; [9] Department of Urology, The University of Texas MD Anderson Cancer Center, Houston, TX; andfitt Cancer Center, Tampa, FL.
+
+- A. Mustasam and K. Parza contributed equally to this work.
+
+[JNCCN.org](http://www.jnccn.org) | Volume 23 Issue 2 | February 2025 1
+
+ORIGINAL RESEARCH Mustasam et al
+
+
+overall survival (OS). Since its publication in 2018, there has been
+a substantial increase in observational studies documenting the
+impact of HPV DNA and p16 [INK4a] status on PSCC outcomes. This
+meta-analysis aims to comprehensively analyze the current literature to better define the prognostic role of HPV DNA and
+p16 [INK4a] testing in PSCC clinical outcomes.
+
+Methods
+Search Strategy and Selection Criteria
+We performed a systematic literature search in PubMed and
+Embase, covering articles published between March 1992 and
+January 2023. The database search was filtered for articles written
+in English. For both searches, we included the following terms:
+“Prognosis” OR ”Prevalence” AND “HPV” OR “Human Papillomavirus” OR ”Human Papillomaviruses” OR “Papillomaviridae”
+OR “human papillomavirus” OR ”Cyclin-Dependent Kinase
+Inhibitor p16” OR “Cyclin-Dependent Kinase Inhibitor p16” OR
+“p16 [INK4a] ” OR “Cyclin-Dependent Kinase Inhibitor-2A” OR
+“p16 [INK4a] Protein” OR “CDKN2A Protein” OR “CDKN2 Protein”
+AND “Penile Neoplasms” OR “Penile Neoplasms” OR “Penis
+Neoplasms” OR “Penis Neoplasm” OR “Penile Neoplasm” OR
+“Penis Cancer” OR “PSCC” OR “Penile Carcinoma” OR “Penis
+
+Carcinoma” OR ”Penis Tumor" OR “PSCCs.”
+
+The search was independently conducted by authors A.
+Mustasam and K. Parza and verified by J. Chahoud. In cases of
+disagreement, a joint dialog was initiated until consensus was
+reached. A fourth author, R. Sandstrom, resolved any unresolved
+conflicts. In both searches, we verified all supplementary information using reference lists to ensure completeness.
+The study was organized following the Preferred Reporting
+Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, and the protocol is registered on the PROSPERO platform
+for meta-analysis (CRD42019131355). [18] Eligibility was restricted
+to studies with human participants only, examining the prognostic association between HPV DNA or p16 [INK4a] and clinical outcomes in PSCC. Studies were excluded if their outcome of interest
+
+was the development of other squamous cell carcinomas. To be
+eligible for inclusion, studies needed a cohort size of at least 20 patients. Abstracts, letters to the editor, case reports, review articles,
+case-control studies with,20 cases and,20 controls, and cohort
+studies with,20 patients were excluded; studies including,20
+patients were excluded due to insufficient statistical power. Additionally, studies were excluded if they did not report the associated
+risk for at least HPV or p16 [INK4a] with progression-free survival,
+DFS, OS, or DSS. No restrictions were placed on the methods used
+for HPV detection or p16 [INK4a] IHC detection.
+A. Mustasam and K. Parza independently reviewed the titles
+and abstracts from the previously searched databases. Based on
+the prespecified selection criteria, both authors identified eligible studies independently. Disagreements were resolved through
+discussion, with a prior agreement that any unresolved conflicts
+would be decided by a third author (J. Chahoud). A. Mustasam
+and K. Parza used data collection forms to extract the required
+data from the eligible studies. Subsequently, both authors checked
+for duplicate studies by comparing authors’ names, publication
+dates, and population sizes. When multiple studies from the same
+authors covered the same population, only the most recent publication with the most complete data was selected. Both authors
+remained unblinded to the studies’ authors’ names, population
+sizes, journals of publication, and locations.
+
+
+Data Extraction
+
+Our primary focus was to examine the correlation between HPV
+or p16 [INK4a] and survival outcomes (OS, DSS, DFS) in PSCC cases.
+This involved gathering study-specific hazard ratios (HRs) adjusted
+for potential confounding factors. Studies reporting recurrencefree survival were categorized under DFS due to their alignment
+with its definition. Data collection involved study specifics: first
+author’s name, publication year, country, year of sample collection, age at diagnosis (mean, median, range), follow-up duration,
+tissue type, cancer histology, tumor stage/grade, lymph node status, treatment modalities, HPV and p16 testing methods, definition of p16 positivity (overexpression), evaluators for p16 staining,
+sample sizes, and counts of positive/negative cases for HPV and
+p16 [INK4] [(Supplementary Table S1, available online in the supple-](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+mentary materials). For consistency and accuracy, A. Mustasam
+and K. Parza independently reviewed titles, abstracts, and full-text
+articles to extract data. A third author (J. Chahoud) verified this
+process, resolving discrepancies through discussion. Duplicate
+studies from the same authors on the same population were
+streamlined to the most recent publication with the most comprehensive data. Efforts were made to obtain missing data through
+emailing the corresponding authors of the studies. Reminders
+were sent after 2 weeks for nonresponses. Data that remained
+unobtained were marked as unavailable.
+
+Statistical Analysis
+Two reviewers (A. Mustasam and K. Parza) independently assess
+the quality of each study using the Newcastle-Ottawa Scale
+[(NOS) (Supplementary Table S2). Due to the rarity of the disease,](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+we approximated relative risk (RR) using HRs, using Cox regression to estimate HRs. Our meta-analysis focused on eligible studies reporting covariate-adjusted HRs concerning the relationship
+between HPV DNA and p16 [INK4a] IHC with PSCC survival outcomes. We extracted covariate-adjusted HRs and their corresponding standard errors from these studies. In cases where
+adjusted HR data were unavailable, we used the Kaplan-Meier
+(KM) reconstruction technique to estimate survival outcomes. [19]
+
+Using a random-effects meta-analysis model, we combined the
+HRs. Heterogeneity among study-specific HRs was assessed using
+both Cochran’s Q test and the I [2] statistic. To address publication
+bias, we used funnel plots, Egger’s regression test, [20] and the trimand-fill method for correction. [21] Sensitivity analyses were crucial;
+thus, we performed a leave-one-out analysis to evaluate the influence of individual studies on our conclusions, calculating pooled
+estimates by omitting one study at a time. All statistical analyses
+were conducted using the R meta and metafor packages. [22]
+
+Results
+
+Search Results
+
+Figure 1 presents the PRISMA flow diagram, outlining how the
+meta-analysis reviewed the literature process and included a total of 34 studies [23][–][56] involving 3,994 men. A search of the Medline
+and Embase databases yielded 544 articles. After removing 118
+duplicates, 426 articles remained. Of these, 345 were excluded
+for not meeting inclusion criteria. We then thoroughly reviewed
+the full text of the remaining 81 articles and their reference lists,
+identifying 1 additional relevant publication. Following this review, we excluded an additional 48 studies: 27 for not meeting
+inclusion criteria, 3 due to data overlap with another study (we
+included the 1 with the most comprehensive data and the largest
+
+
+2 [© JNCCN—Journal of the National Comprehensive Cancer Network](http://www.jnccn.org) | Volume 23 Issue 2 | February 2025
+
+Role of HPV in Penile Cancer ORIGINAL RESEARCH
+
+|Studies identified through database searches (N=544)|Col2|
+|---|---|
+|||
+
+|Studies remaining after duplicates removed (n=426)|Col2|
+|---|---|
+|||
+
+
+
+
+
+
+|Studies assessed for eligibility (n=82)|Col2|
+|---|---|
+|||
+|||
+
+
+
+Figure 1. Study selection.
+
+population for HR in the meta-analysis), and 18 for not providing
+the clinical outcome associated with HPV DNA or p16 [INK4a], even
+after corresponding with the authors.
+
+Study Characteristics
+Our comprehensive meta-analysis included 33 cohort studies
+[and 1 cross-sectional study (Supplementary Table S1), spanning](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+publications from 1992 to 2023. These studies encompass data
+from 13 countries across 4 continents. In total, 3,994 male adults
+from various age groups were included, with a mean age of
+62.3 years. Throughout our investigation, we encountered research that reported the median age with the IQR or range, rather
+than the mean and standard deviation. To estimate the mean
+age, we applied the methodology introduced by Wan et al [57] in
+2014, which provides equations for estimating the sample mean
+and standard deviation based on parameters such as sample
+size, median, and either the IQR or range. [57] Using these equations, we estimated the mean age of patients in the studies and
+calculated the overall mean for our sample size. For p16 [INK4a], our
+analysisincluded19studies(n51,542),ofwhich5, 8,and11reported
+on DFS, DSS, and OS, respectively. We also included 29 studies
+(n53,646) that employed HPV DNA testing, with 9, 10, and 11
+reporting on DFS, DSS, and OS, respectively.
+
+
+Among men with PSCC, 3,646 underwent HPV DNA testing,
+with 1452 testing positive, resulting in a prevalence of 39.8%
+
+–
+(95% CI, 38.2% 41.4%). Moreover, p16 [INK4a] expression by IHC
+was evaluated in 1,542 men, of whom 674 tested positive, yielding a prevalence of 43.7% (95% CI, 41.2%–46.2%). All included
+studies primarily assessed survival outcomes in patients with
+PSCC, focusing on DFS, DSS, or OS in relation to HPV DNA or
+p16 [INK4a] status, which were determined using various methods.
+
+HPV DNA and P16 [INK4a] Detection Methods
+
+In our analysis, 29 studies reported HPV DNA status. Among
+these, 18 utilized the PCR method for HPV DNA detection, [23][–][28,32,33,35][–][37,40][–][43,49][–][51] 6 employed in situ hybridization
+(ISH). [31,34,39,44,53,55] and 4 did not specify the method used. [46,47,52,54]
+
+Additionally, 1 study used a Quantus fluorometer to detect HPV
+DNA nucleic acid [56] [(Supplementary Table S1).](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+The 29 studies in our analysis used IHC staining to assess
+samples for p16 [INK4a] -positive status. Two different methodologies were used to grade p16 [INK4a] on IHC. A quantitative measurement approach was employed in 6 studies [28,39,45,49,53,55]
+
+used, where the cutoff for p16 [INK4a] positivity ranged from
+.10% to .75% of cells exhibiting positive staining. Conversely,
+12 studies [26,29,34,36][–][38,40,43,47,48,51,56] used subjective criteria to define
+
+
+[JNCCN.org](http://www.jnccn.org) | Volume 23 Issue 2 | February 2025 3
+
+ORIGINAL RESEARCH Mustasam et al
+
+
+**Author**
+
+Bethune et al, [30] 2012
+Gunia et al, [29] 2012
+Bezerra et al, [34] 2015
+Steinestel et al, [37] 2015
+Zargar-Shoshtari et al, [39] 2016
+Chu et al, [51] 2020
+Mohanty et al, [53] 2021
+Chahoud et al, [55] 2022
+
+**Random effects model**
+
+
+**(0.23−0.50) 100.0%**
+
+
+**log[HR]** **SE** **HR**
+
+
+**HR** **(95% CI)** **Weight**
+
+
+20.3%
+
+9.6%
+
+6.5%
+
+13.4%
+
+11.7%
+
+10.0%
+
+17.5%
+
+11.1%
+
+
+−0.6349
+
+−1.3863
+
+−0.6162
+
+−0.6733
+
+−1.0217
+
+−0.5798
+
+−1.8708
+
+−1.6094
+
+
+0.3634
+
+0.5814
+
+0.7266
+
+0.4776
+
+0.5197
+
+0.5706
+
+0.4023
+
+0.5356
+
+
+0.53
+
+0.25
+
+0.54
+
+0.51
+
+0.36
+
+0.56
+
+0.15
+
+0.20
+
+**0.34**
+
+0.1 0.5 1.0 2.0 10.0
+
+
+(0.26−1.08)
+(0.08−0.78)
+(0.13−2.24)
+(0.20−1.30)
+(0.13−1.00)
+(0.18−1.71)
+(0.07−0.34)
+(0.07−0.57)
+
+
+Heterogeneity; *l* [2] =18% (0%−61%), τ [2] =0.0540; *P* =.29
+
+Figure 2. Pooled effect size for disease-specific survival in patients with p16 [INK4a] -positive penile squamous cell carcinoma.
+Abbreviation: HR, hazard ratio.
+
+
+p16 [INK4a] positivity, using descriptions such as strong and diffuse
+staining, vital staining of proliferative cells, continuous and complete cytoplasmic staining, intense confluent staining, or focal scattering of staining in the cytoplasm and nucleus of cells. Bethune
+et al [30] adopted a mixed methodology, using a qualitative cutoff of
+.30% staining with nuclear and cytoplasmic staining, moderate
+sample staining with at least 30% of cells staining, or strong cytoplasmic and nuclear staining to define p16 [INK4a] positivity. One
+study [50] did not specify the criteria used for determining p16 [INK4a]
+
+[positivity (Supplementary Table S1).](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+
+Study Quality Assessment
+We conducted a quality assessment using the NOS, a tool specifically designed for nonrandomized studies and endorsed by the
+Cochrane Collaboration. We applied the appropriate version of
+NOS, tailored for either case-control studies or cohort studies,
+considering subject selection, study comparability, and outcome
+or exposure assessment. NOS scores ranged from 5 to 9, with 9
+being the highest possible score. The median score was 7 (IQR,
+7–8.25). A summary of the study evaluations using the NOS is
+[provided in Supplementary Table S2.](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+
+Association of p16 [INK4a] Status With Outcomes
+Disease-Specific Survival
+In 8 studies [29,30,34,37,39,51,53,55] encompassing 795 patients, individuals who tested positive for p16 [INK4a] demonstrated significantly prolonged DSS (HR, 0.34; 95% CI, 0.23–0.50; I [2] 518%)
+
+
+(Figure 2). To ensure the robustness of our findings, we conducted a leave-one-out meta-analysis, which consistently
+confirmed the significance of the results across all scenarios
+[(Supplementary Figures S1 and S2), even when excluding](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+one study at a time. Moreover, the Egger regression test yielded
+a P value of .83, indicating a lack of significant evidence for
+funnel plot asymmetry and suggesting that there was not
+enough evidence to support the presence of publication bias.
+[(Supplementary Figures S1 and S2).](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+
+Overall Survival
+A total of 11 studies [26,28,30,34,45,49,50,53][–][56] provided data on OS in
+relation to p16 [INK4a] expression, encompassing 688 men diagnosed with PSCC (244 [35%] tested positive for p16 [INK4a] and 333
+
+[48%] tested negative). In 3 of these studies, [28,49,54] we used the
+KM reconstruction method to estimate HRs. A random-effects
+
+meta-analysis revealed that patients who tested positive for
+p16 [INK4a] had significantly improved OS (HR, 0.54; 95% CI,
+0.39–0.75; I [2] 531%) (Figure 3). Our leave-one-out meta-analysis
+confirmed that the results remained significant across all scenar[ios (Supplementary Figures S3 and S4). The Egger regression test](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+yielded a P value of .059, indicating a lack of significant evidence
+for funnel plot asymmetry and suggesting that there was not
+enough evidence to support the presence of publication bias
+[(Supplementary Figures S3 and S4). Furthermore, even after](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+conducting a sensitivity analysis that excluded studies using the
+KM reconstruction method, the results remained statistically
+
+
+**Author** **log[HR]** **SE** **HR** **HR** **(95% CI)** **Weight**
+
+
+Guerrero et al, [26] 2008
+Bethune et al, [30] 2012
+Ferrándiz-Pulido et al, [28] 2013
+Bezerra et al, [34] 2015
+De Bacco et al, [45] 2020
+Martins et al, [49] 2020
+Muresu et al, [50] 2020
+Mohanty et al, [53] 2021
+Müller et al, [56] 2022
+Browne et al, [54] 2022
+Chahoud et al, [55] 2022
+
+
+3.7%
+
+16.4%
+
+4.2%
+
+7.3%
+
+7.0%
+
+6.9%
+
+3.7%
+
+19.5%
+
+7.0%
+
+8.4%
+
+16.0%
+
+
+0.56
+
+0.55
+
+0.28
+
+1.53
+
+1.52
+
+0.71
+
+1.00
+
+0.32
+
+0.63
+
+0.46
+
+0.36
+
+
+−0.5798
+
+−0.5978
+
+−1.2730
+
+0.4253
+
+0.4187
+
+−0.3471
+
+0.0000
+
+−1.1394
+
+−0.4652
+
+−0.7744
+
+−1.0217
+
+
+0.8304
+
+0.2925
+
+0.7747
+
+0.5506
+
+0.5673
+
+0.5727
+
+0.8212
+
+0.2398
+
+0.5662
+
+0.5033
+
+0.2999
+
+
+(0.11−2.85)
+(0.31−0.98)
+(0.06−1.28)
+(0.52−4.50)
+(0.50−4.62)
+(0.23−2.17)
+(0.20−5.00)
+(0.20−0.51)
+(0.21−1.91)
+(0.17−1.24)
+(0.20−0.65)
+
+
+**Random effects model** **0.54** **(0.39−0.75)** **100.0%**
+
+0.1 0.5 1.0 2.0 10.0
+
+Heterogeneity; *l* [2] =31% (0%−66%), τ [2] =0.0889; *P* =.15
+
+Figure 3. Pooled effect size for overall survival in patients with p16 [INK4a] -positive penile squamous cell carcinoma.
+Abbreviation: HR, hazard ratio.
+
+4 [© JNCCN—Journal of the National Comprehensive Cancer Network](http://www.jnccn.org) | Volume 23 Issue 2 | February 2025
+
+Role of HPV in Penile Cancer ORIGINAL RESEARCH
+
+**Author** **log[HR]** **SE** **HR** **HR** **(95% CI)** **Weight**
+
+
+Guerrero et al, [26] 2008
+Tang et al, [38] 2015
+Ashley et al, [47] 2021
+Pereira-Lourenço et al, [48] 2020
+Browne et al, [54] 2022
+
+
+21.0%
+
+6.5%
+
+33.8%
+
+11.8%
+
+27.0%
+
+
+−0.0943
+
+−2.7181
+
+−0.8916
+
+−0.5978
+
+−0.3007
+
+
+0.5835
+
+1.1448
+
+0.4200
+
+0.8212
+
+0.4942
+
+
+0.91
+
+0.07
+
+0.41
+
+0.55
+
+0.74
+
+
+(0.29−2.86)
+(0.01−0.62)
+(0.18−0.93)
+(0.11−2.75)
+(0.28−1.95)
+
+
+**Random effects model** **0.52** **(0.29−0.94)** **100.0%**
+
+0.01 0.1 1.0 10.0 100.0
+
+Heterogeneity; *l* [2] =20% (0%−66%), τ [2] =0.0919; *P* =.29
+
+Figure 4. Pooled effect size for disease-free survival in patients with p16 [INK4a] -positive penile squamous cell carcinoma.
+Abbreviation: HR, hazard ratio.
+
+
+significant (HR, 0.50; 95% CI, 0.34–0.74; I [2] [536%) (Supplementary](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+[Figures S3 and S4).](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+During the publication bias analysis, the funnel plot
+highlighted an outlier study, [53] and Egger’s test suggested borderline significance for potential publication bias (P 5.059).
+After removing the outlier study and imputing 2 additional
+studies in the trim-and-fill analysis, the revised pooled HR was
+
+–
+0.46 (95% CI, 0.34 0.62). This adjusted HR continued to demonstrate a significant association between p16 expression and
+[OS (Supplementary Figure S5).](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+
+Disease-Free Survival
+A total of 5 studies [26,38,47,48,54] provided data on DFS in relation to
+p16 [INK4a] status, encompassing 396 patients with PSCC. In 3 of
+these studies, [31,47,54] we used the KM reconstruction method.
+A random-effects meta-analysis demonstrated a significantly
+beneficial effect of p16 [INK4a] status on DFS (HR, 0.52; 95% CI,
+0.29–0.94; I [2] 520%) (Figure 4). Our leave-one-out meta-analysis
+confirmed that the results remained significant across all scenarios, except when we excluded the study by Ashley et al [47]
+
+[(Supplementary Figures S6 and S7). The Egger regression test](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+yielded a P value of .04, indicating a lack of significant evidence
+for funnel plot asymmetry and suggesting that there was not
+enough evidence to support the presence of publication bias
+[(Supplementary Figures S6 and S7). In a sensitivity analysis](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+excluding studies analyzed using the KM reconstruction
+method, [47] the results became nonsignificant (HR, 0.29; 95% CI,
+0.02–3.76; I [2] 576%). This outcome is likely due to the small
+sample sizes in the 2 studies by Guerrero et al [26] (n524) and
+Tang et al [38] (n5119).
+
+
+Association of HPV DNA Status With Outcomes
+
+Disease-Specific Survival
+A total of 10 studies [23][–][25,28,34,35,37,44,51,55] were included in the
+
+meta-analysis of DSS, encompassing 1,100 men assessed for DSS
+based on HPV DNA–positive status. We contacted the authors of
+4 studies [23,24,34,37] for additional information. The KM reconstruction method was used in 2 studies. [44,55] Our pooled hazard ratios
+
+–
+consistently favored patients who were HPV DNA positive PSCC
+over those who were HPV DNA–negative (HR, 0.46; 95% CI,
+0.29–0.75; I [2] 547%) (Figure 5). Leave-one-out meta-analysis confirmed the sustained significance of the results across all scenar[ios (Supplementary Figures S8 and S9). Egger regression test](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+results yielded a P value of .84, indicating a lack of significant
+evidence for funnel plot asymmetry and suggesting that there
+was not enough evidence to support the presence of publica[tion bias (Supplementary Figures S8 and S9). Even after ex-](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+cluding studies that used the KM reconstruction method, [44,55]
+
+the results remained statistically significant (HR, 0.43; 95% CI,
+0.24–0.78; I [2] 556%).
+
+Overall Survival
+A total of 11 studies [23,24,26,28,33,45,49,50,52,55,56] were included in this
+
+analysis, encompassing 1,414 men evaluated for OS. We attempted to contact the authors of one study [45] for additional information but were unable to obtain the detailed data. The KM
+reconstruction method was used in 3 studies. [28,49,54] No statistically
+significant difference in hazard for death was observed between
+
+–
+patients who were HPV DNA positive and those who were HPV
+DNA–negative (HR, 0.91; 95% CI, 0.74–1.11; I [2] 50%) (Figure 6).
+Leave-one-out meta-analysis confirmed the sustained
+
+
+**Author** **log[HR]** **SE** **HR** **HR** **(95% CI)** **Weight**
+
+
+Wiener et al, [23] 1992
+Bezerra et al, [24] 2001
+Lont et al, [25] 2006
+Ferrándiz-Pulido et al, [28] 2013
+Bezerra et al, [34] 2015
+Steinestel et al, [37] 2015
+Djajadiningrat et al, [35] 2015
+Takamoto et al, [44] 2018
+Chu et al, [51] 2020
+Chahoud et al, [55] 2022
+
+
+10.0%
+
+13.6%
+
+9.1%
+
+5.2%
+
+6.5%
+
+4.8%
+
+15.9%
+
+4.4%
+
+15.1%
+
+15.6%
+
+
+0.3148
+
+−0.0408
+
+−1.5606
+
+−1.3471
+
+0.0488
+
+−1.9661
+
+−1.6094
+
+−0.2989
+
+−0.9676
+
+−0.5168
+
+
+0.5912
+
+0.4341
+
+0.6392
+
+0.9550
+
+0.8212
+
+0.9928
+
+0.3537
+
+1.0539
+
+0.3812
+
+0.3626
+
+
+1.37
+
+0.96
+
+0.21
+
+0.26
+
+1.05
+
+0.14
+
+0.20
+
+0.74
+
+0.38
+
+0.60
+
+
+**Random effects model** **0.46** **(0.29−0.75)** **100.0%**
+
+
+**0.46**
+
+
+(0.43−4.36)
+(0.41−2.25)
+(0.06−0.74)
+(0.04−1.69)
+(0.21−5.25)
+(0.02−0.98)
+(0.10−0.40)
+(0.09−5.85)
+(0.18−0.80)
+(0.29−1.21)
+
+**(0.29−0.75)**
+
+
+0.1 0.5 1.0 2.0 10.0
+
+Heterogeneity; *l* [2] =47% (0%−75%), τ [2] =0.2536; *P* =.05
+
+Figure 5. Pooled effect size for disease-specific survival in patients with HPV DNA–positive penile squamous cell carcinoma.
+Abbreviation: HR, hazard ratio.
+
+[JNCCN.org](http://www.jnccn.org) | Volume 23 Issue 2 | February 2025 5
+
+ORIGINAL RESEARCH Mustasam et al
+
+**Author** **log[HR]** **SE** **HR** **HR** **(95% CI)** **Weight**
+
+
+Wiener et al, [23] 1992
+Bezerra et al, [24] 2001
+Guerrero et al, [26] 2008
+Ferrándiz-Pulido et al, [28] 2013
+Hernandez et al, [33] 2014
+De Bacco et al, [45] 2020
+Martins et al, [49] 2020
+Muresu et al, [50] 2020
+Chipollini et al, [52] 2021
+Müller et al, [56] 2022
+Chahoud et al, [55] 2022
+
+
+3.7%
+
+3.8%
+
+0.9%
+
+1.9%
+
+7.3%
+
+3.5%
+
+5.2%
+
+1.3%
+
+53.1%
+
+3.5%
+
+15.8%
+
+
+0.1398
+
+0.5653
+
+1.4748
+
+−1.2730
+
+−0.1508
+
+0.4187
+
+0.0783
+
+−0.5108
+
+−0.1165
+
+−0.4992
+
+−0.1789
+
+
+0.5517
+
+0.5406
+
+1.0960
+
+0.7747
+
+0.3906
+
+0.5673
+
+0.4651
+
+0.9142
+
+0.1449
+
+0.5639
+
+0.2655
+
+
+1.15
+
+1.76
+
+4.37
+
+0.28
+
+0.86
+
+1.52
+
+0.92
+
+0.60
+
+0.89
+
+0.61
+
+0.84
+
+
+(0.39−3.39)
+(0.61−5.08)
+(0.51−37.45)
+(0.06−1.28)
+(0.40−1.85)
+(0.50−4.62)
+(0.37−2.30)
+(0.10−3.60)
+(0.67−1.18)
+(0.20−1.83)
+(0.50−1.41)
+
+
+**Random effects model** **0.91** **(0.74−1.11)** **100.0%**
+
+0.1 0.5 1.0 2.0 10.0
+
+Heterogeneity; *l* [2] =0% (0%−60%), τ [2] =0; *P* =.66
+
+–
+Figure 6. Pooled effect size for overall survival in patients with HPV DNA positive penile squamous cell carcinoma.
+Abbreviation: HR, hazard ratio.
+
+
+[significance of the results across all scenarios (Supplementary](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+[Figures S10 and S11). Egger regression test results yielded a P value](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+of .65, indicating a lack of significant evidence for funnel plot asymmetry and suggesting that there was not enough evidence to sup[port the presence of publication bias (Supplementary Figures S10](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+[and S11). The results remained insignificant even after excluding](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+studies analyzed using the KM reconstruction method (HR, 0.95;
+95% CI, 0.75–1.20; I [2] [50%) (Supplementary Figures S10 and S11).](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+
+Disease-Free Survival
+In our analysis of DFS, we included 9 studies, [26,27,31,32,40][–][43,51] and
+contacted the authors of 3 of the studies [27,32,43] for additional
+data. The KM reconstruction method was applied in one study. [42]
+
+For another study, [41] the HR and its standard error were estimated
+using Cox proportional hazard regression analysis of the original
+individualized data. In total, we analyzed data from 1,015 men to
+assess DFS based on HPV DNA–positive status. A random effects
+meta-analysis result showed that patients who tested positive for
+HPV DNA had significantly better DFS (HR, 0.63; 95% CI,
+0.46–0.87; I [2] 513%) compared with those who tested negative
+(Figure 7). Leave-one-out meta-analysis confirmed the sustained
+[significance of the results across all scenarios (Supplementary](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+[Figures S12 and S13). Egger regression test results yielded a P value](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+of .35, indicating a lack of significant evidence for funnel plot
+asymmetry and suggesting that there was not enough evidence to
+[support the presence of publication bias (Supplementary Figures](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+
+
+[S12 and S13). Even after excluding the one study that used the](https://jnccn.org/supplemental/journals/jnccn/23/2/article-e247078.xml/jnccn240274SupplementaryData1.pdf)
+KM reconstruction method, [42] the results remained statistically significant (HR, 0.67; 95% CI, 0.50–0.90; I [2] 50%). [42]
+
+Discussion
+
+To our knowledge, this study represents the most extensive
+meta-analysis examining the correlation between HPV DNA and
+p16 [INK4a] in PSCC, encompassing 34 studies and 3,994 patients.
+Notably, it is the first to explore the association between p16 [INK4a] /
+HPV DNA status and disease recurrence in PSCC. Building on the
+analysis of Sand et al, [16] we included 14 additional studies, encompassing a more contemporary and diverse cohort of patients with
+PSCC and resulting in a larger sample size.
+Our updated meta-analysis encompassed studies from diverse regions: 13 from Europe, 8 from the United States, 8 from
+Brazil, 4 from Asia, and 1 from Canada. It is important to note
+that Cox regression was used to estimate HRs for our analysis.
+The findings reveal that HPV DNA presence correlates with a
+54% reduction in the hazard of mortality from PSCC and a 37%
+reduction in the hazard of disease recurrence. Additionally, our
+analysis underscores that p16 [INK4a] positivity significantly correlates
+with reductions in disease-specific mortality (66%), overall mortality (46%), and disease recurrence (48%). Testing for publication
+bias showed no significant evidence of its presence in our data.
+Given the favorable prognosis for HPV-related PSCC, particularly the reduced risk of recurrence and mortality, more
+
+
+**Author** **log[HR]** **SE** **HR** **HR** **(95% CI)** **Weight**
+
+
+Guerrero et al, [26] 2008
+Scheiner et al, [27] 2008
+Di Lorenzo et al, [31] 2013
+da Fonseca et al, [32] 2013
+Afonso et al, [40] 2016
+de Araújo et al, [41] 2018
+Martins et al, [43] 2018
+Ottenhof et al, [42] 2018
+Chu et al, [51] 2020
+
+
+6.6%
+
+15.2%
+
+2.3%
+
+22.4%
+
+14.5%
+
+13.2%
+
+6.4%
+
+4.6%
+
+14.8%
+
+
+(0.31−3.36)
+(0.33−1.44)
+(0.10−6.40)
+(0.49−1.54)
+(0.38−1.72)
+(0.37−1.81)
+(0.09−1.00)
+(0.05−0.87)
+(0.16−0.71)
+
+
+1.02
+
+0.69
+
+0.80
+
+0.87
+
+0.81
+
+0.81
+
+0.30
+
+0.21
+
+0.33
+
+
+0.0198
+
+−0.3711
+
+−0.2231
+
+−0.1393
+
+−0.2162
+
+−0.2065
+
+−1.2040
+
+−1.5750
+
+−1.0966
+
+
+0.6077
+
+0.3763
+
+1.0610
+
+0.2929
+
+0.3874
+
+0.4088
+
+0.6143
+
+0.7352
+
+0.3819
+
+
+**Random effects model** **0.63**
+
+0.1 0.5 1.0 2.0 10.0
+
+Heterogeneity; *l* [2] =13% (0%−55%), τ [2] =0.0318; *P* =.32
+
+
+**(0.46−0.87) 100.0%**
+
+
+–
+Figure 7. Pooled effect size for disease-free survival in patients with HPV DNA positive penile squamous cell carcinoma.
+Abbreviation: HR, hazard ratio.
+
+6 [© JNCCN—Journal of the National Comprehensive Cancer Network](http://www.jnccn.org) | Volume 23 Issue 2 | February 2025
+
+Role of HPV in Penile Cancer ORIGINAL RESEARCH
+
+
+conservative surgical approaches, such as organ-preserving
+techniques, may be considered, especially in patients with
+lower disease burden and in appropriately selected patients.
+Evidence from studies on penile-conserving surgery supports
+this approach, showing no significant impact of local recurrence on long-term survival. [58,59]
+
+This meta-analysis specifically focused on DFS, a critical
+factor in comprehensive clinical understanding. Our findings
+not only align closely with prior research but also provide robust
+evidence confirming the substantial prognostic significance of
+HPV-related markers. These findings extend beyond diseasespecific mortality, considering risks associated with disease recurrence and overall mortality.
+For example, Sand et al [16] previously reported a favorable
+impact of p16 [INK4a] positivity on DSS (pooled HR, 0.45; 95% CI,
+0.30–0.69) but found no effect on OS (pooled HR, 0.88; 95% CI,
+0.49–1.59). [16] However, our analysis indicates significant positive
+influence of p16 [INK4a] on all endpoints, including DFS (HR, 0.52;
+95% CI, 0.29–0.94; I [2] 520%) and OS (HR, 0.54; 95% CI, 0.39–0.75;
+I [2] 531%). This stronger effect may be attributed to the larger
+p16 [INK4a] sample size in our study (n51,542) compared with the
+116 cases in the prior study.
+Similarly, HPV DNA status showed a positive correlation
+with improved DFS and DSS, with most studies revealing consistent results. However, the few cases with discrepancies
+between these markers may indicate the possibility of poorer
+outcomes. This is consistent with earlier research on HPVrelated OPC, [13] where such discrepancies were associated with
+adverse results.
+
+The findings are consistent with known differences in the carcinogenic pathways leading to HPV-positive and HPV-negative
+PSCC. Our previous work has established a biologic and molecular
+rationale supporting our epidemiologic observations that HPV
+DNA positivity and p16 [INK4a] expression are associated with improved cancer-specific survival rates and reduced disease recurrence. Moreover, our research, along with others, has identified
+distinct molecular profiles specific to HPV DNA involvement in
+PSCC, differentiating it from non–HPV-associated PSCC carcinogenesis. [4,5] Notably, TP53 mutation occurs exclusively in HPV
+DNA–negative PSCC cases, contributing to poorer clinical out
+–
+comes compared with HPV DNA associated cases. Additionally,
+9p21 loss, particularly involving CDKN2A, is more frequent in
+HPV-negative cases and is linked to a “cold” immune microenvironment, characterized by reduced tumor-infiltrating leukocytes. This immunosuppressive environment leads to lower
+response rates to immune checkpoint therapy, further worsening
+prognosis. [60] These differences in molecular pathways and genetic
+alterations significantly contribute to clinical disparities observed
+between HPV-positive and HPV-negative PSCC, highlighting
+distinct prognostic factors.
+
+Quality of the Evidence
+This meta-analysis is the most comprehensive investigation
+on this subject to date. Although most of the studies in our
+analysis were cohort-based, they exhibited a high level of quality, as indicated by NOS scores ranging from 5 to 9. Notably,
+we addressed a significant limitation of previous research—
+interstudy heterogeneity.
+Our approach to mitigating this issue involved several key
+steps. First, statistical tests revealed no significant heterogeneity
+
+
+or publication bias among the studies included in our various
+subgroup analyses. Second, to accommodate the diversity of
+HPV DNA detection methods employed, we conducted a subgroup analysis specifically focusing on studies using HPV DNA
+and those using the p16 [INK4a] IHC surrogate marker. Third, we individually assessed the associations of HPV DNA and p16 [INK4a]
+
+with PSCC DFS, OS, and DSS. This type-specific meta-analysis
+represents a substantial enhancement in the quality of evidence
+presented in this study.
+
+Study Limitations
+We acknowledge several limitations in our analysis. First, the retrospective nature of the study and the presence of heterogeneous treatment regimens are notable limitations. Second, in
+3 of the included studies, HRs were calculated based on
+data extracted from KM curves. [28,49,54]
+
+Additionally, for one study by Bezerra et al, [34] we needed to
+contact the authors to obtain HRs that were not initially reported in
+their peer-reviewed publication. Although these situations may introduce some inaccuracies in our estimates, they nonetheless constitute the best available data to support the prognostic significance
+of HPV DNA and p16 [INK4a] in this rare cancer. Furthermore, our
+findings align with those observed in biologically similar, more
+common cancers associated with HPV DNA, such as OPC.
+Also, the subjectivity in assessing p16 [INK4a] overexpression
+across studies reflects the variability in assessment methods,
+making it challenging to synchronize data for a unified analysis.
+Finally, it is important to note that the included studies did not
+report on specific HPV DNA types, which was not considered in
+our HPV DNA–specific analysis.
+
+Research and Clinical Implications
+The alignment between our epidemiologic finding in PSCC and
+those observed in OPC, coupled with the molecular plausibility
+of high-risk HPV DNA influencing the biology and, consequently,
+clinical outcomes in PSCC, provides compelling evidence for the
+adoption of p16 [INK4a] IHC testing as a marker for HPV DNA viral
+infection. This approach may offer additional insights in the
+prognosis assessment of patients with PSCC.
+The data presented align with the inclusion of p16 [INK4a] IHC
+testing in the initial diagnostic evaluation of patients with PSCC.
+Such recommendations could be considered by both the NCCN
+Clinical Practice Guidelines in Oncology (NCCN Guidelines)
+for Penile Cancer [61] and the European Association of UrologyAmerican Society of Clinical Oncology Collaborative Guidelines on Penile Cancer. [62]
+
+Conclusions
+
+As we continue to strive for advancements in cancer care to en
+hance survival and quality of life for patients, the correlation with
+survival observed in HPV DNA–associated PSCC suggests a direction for future research endeavors. These efforts should be pursued
+with care, focusing on strategies for optimizing therapeutic ap
+–
+proaches for HPV DNA associated PSCC, ultimately leading to enhanced quality of life for patients with PSCC.
+
+Acknowledgments
+We would like to thank the R.S. Evans Foundation for their generous
+donation in support of penile cancer research at Moffitt Cancer Center.
+
+
+[JNCCN.org](http://www.jnccn.org) | Volume 23 Issue 2 | February 2025 7
+
+ORIGINAL RESEARCH Mustasam et al
+
+
+Submitted June 21, 2024; final revision received October 4, 2024; accepted for
+publication October 9, 2024. Published online January 3, 2025.
+
+Author contributions: Conceptualization: Semaan, Chahoud. Study design:
+Chahoud. Literature search: Mustasam, Parza, Sandstrom, Chahoud. Risk of
+bias assessment: Mustasam, Parza, Sandstrom, Chahoud. Data extraction:
+Mustasam, Parza, Sandstrom. Data verification: Mustasam, Parza, Sandstrom,
+Kim, Chahoud. Formal analysis: Mustasam, Parza, Kim. Investigation:
+Mustasam, Parza, Ionescu, Gullapalli, Paravathaneni, Kim, Sandstrom, Grass,
+Johnstone, Eschrich, Safa, Chadha, Roman Souza, David, Semaan,
+
+—
+Zacharias, Pettaway, Giuliano, Spiess, Chahoud. Writing original draft:
+Ionescu, Mustasam, Parza, Sandstrom, Al Assaad, Semaan, Spiess, Chahoud.
+
+—
+Writing review & editing: Mustasam, Parza, Ionescu, Gullapalli,
+Paravathaneni, Kim, Sandstrom, Grass, Johnstone, Eschrich, Safa, Chadha,
+Roman Souza, David, Semaan, Zacharias, Pettaway, Giuliano, Spiess, Chahoud.
+Data availability statement: All data collected, including the search strategy,
+the review protocol, and data extraction sheets, are available immediately
+after publication and are either published as supplementary material or can be
+[accessed through the corresponding author. Protocol link: https://www.crd.](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=131355)
+[york.ac.uk/prospero/display_record.php?RecordID5131355](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=131355)
+
+References
+
+1. Siegel RL, Miller KD, Wagle NS, Jemal A. Cancer statistics, 2023. CA Cancer J Clin 2023;73:17–48.
+2. Olesen TB, Sand FL, Rasmussen CL, et al. Prevalence of human papillomavirus DNA and p16(INK4a) in penile cancer and penile intraepithelial
+neoplasia: a systematic review and meta-analysis. Lancet Oncol 2019;20:
+145–158.
+
+3. Thomas A, Necchi A, Muneer A, et al. Penile cancer. Nat Rev Dis Primers
+2021;7:11.
+
+4. Chahoud J, Gleber-Netto FO, McCormick BZ, et al. Whole-exome sequencing in penile squamous cell carcinoma uncovers novel prognostic
+categorization and drug targets similar to head and neck squamous cell
+carcinoma. Clin Cancer Res 2021;27:2560–2570.
+
+5. Aydin AM, Chahoud J, Adashek JJ, et al. Understanding genomics and
+the immune environment of penile cancer to improve therapy. Nat Rev
+Urol 2020;17:555–570.
+6. Ang KK, Harris J, Wheeler R, et al. Human papillomavirus and survival of
+patients with oropharyngeal cancer. N Engl J Med 2010;363:24–35.
+7. Lechner M, Liu J, Masterson L, Fenton TR. HPV-associated oropharyngeal
+cancer: epidemiology, molecular biology and clinical management. Nat
+Rev Clin Oncol 2022;19:306–327.
+8. O’Sullivan B, Huang SH, Su J, et al. Development and validation of a
+staging system for HPV-related oropharyngeal cancer by the International
+Collaboration on Oropharyngeal Cancer Network for Staging (ICON-S):
+a multicentre cohort study. Lancet Oncol 2016;17:440–451.
+
+9. Chahoud J, Zacharias NM, Pham R, et al. Prognostic significance of
+p16 and its relationship with human papillomavirus status in patients
+with penile squamous cell carcinoma: results of 5 years follow-up.
+Cancers 2022;14:6024.
+
+10. Parza K, Mustasam A, Ionescu F, et al. The prognostic role of human papillomavirus and p16 status in penile squamous cell carcinoma–a systematic review. Cancers (Basel) 2023;15:3713.
+11. Gonzalez SL, Stremlau M, He X, et al. Degradation of the retinoblastoma
+tumor suppressor by the human papillomavirus type 16 E7 oncoprotein is
+important for functional inactivation and is separable from proteasomal
+degradation of E7. J Virol 2001;75:7583–7591.
+12. Simoens C, Gheit T, Ridder R, et al. Accuracy of high-risk HPV DNA PCR,
+p16 [(INK4a)] immunohistochemistry or the combination of both to diagnose
+HPV-driven oropharyngeal cancer. BMC Infect Dis 2022;22:676.
+13. Mehanna H, Taberna M, von Buchwald C, et al. Prognostic implications
+of p16 and HPV discordance in oropharyngeal cancer (HNCIG-EPIC-OPC):
+a multicentre, multinational, individual patient data analysis. Lancet Oncol
+2023;24:239–251.
+14. Rasmussen JH, Grønhøj C, Håkansson K, et al. Risk profiling based on
+p16 and HPV DNA more accurately predicts location of disease relapse in
+patients with oropharyngeal squamous cell carcinoma. Ann Oncol 2019;
+30:629–636.
+
+15. Li Z, Liu P, Wang Z, et al. Prevalence of human papillomavirus DNA and
+p16 [(INK4a)] positivity in vulvar cancer and vulvar intraepithelial neoplasia: a
+systematic review and meta-analysis. Lancet Oncol 2023;24:403–414.
+16. Sand FL, Rasmussen CL, Frederiksen MH, et al. Prognostic significance
+of HPV and p16 status in men diagnosed with penile cancer: a systematic review and meta-analysis. Cancer Epidemiol Biomarkers Prev
+2018;27:1123–1132.
+
+
+Disclosures: Dr. Chahoud has disclosed receiving grant/research
+funding from Allogene, Astellas, Bristol Myers Squibb, Eisai, Eli Lilly,
+Exelixis, Genentech, Merck, and Pfizer; and serving as a scientific advisor
+for Merck, Pfizer, Exelixis, Aveo, Eisai, and Mycaregorythm. Dr. Giuliano
+has disclosed receiving grant/research support from and serving as a
+scientific advisor for Merck. The remaining authors have disclosed that
+they have not received any financial consideration from any person or
+organization to support the preparation, analysis, results, or discussion of
+this article.
+Supplementary material: Supplementary material associated with this
+[article is available online at https://doi.org/10.6004/jnccn.2024.7078. The](https://doi.org/10.6004/jnccn.2024.7078)
+supplementary material has been supplied by the author(s) and appears in
+its originally submitted form. It has not been edited or vetted by JNCCN.
+All contents and opinions are solely those of the author. Any comments or
+questions related to the supplementary materials should be directed to the
+corresponding author.
+Correspondence: Jad Chahoud, MD, MPH, Department of Genitourinary
+Oncology, Moffitt Cancer Center, 12902 Magnolia Drive, Tampa, FL 33612.
+[Email: Jad.Chahoud@moffitt.org](mailto:Jad.Chahoud@moffitt.org)
+
+17. Ndiaye C, Mena M, Alemany L, et al. HPV DNA, E6/E7 mRNA, and
+p16INK4a detection in head and neck cancers: a systematic review and
+meta-analysis. Lancet Oncol 2014;15:1319–1331.
+18. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ
+2021;372:n71.
+19. Liu N, Zhou Y, Lee JJ. IPDfromKM: reconstruct individual patient data
+from published Kaplan-Meier survival curves. BMC Med Res Methodol
+2021;21:111.
+
+20. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis
+detected by a simple, graphical test. BMJ 1997;315:629–634.
+21. Duval S, Tweedie R. Trim and fill: a simple funnel-plot-based method of
+testing and adjusting for publication bias in meta-analysis. Biometrics
+2000;56:455–463.
+
+22. Viechtbauer W, Cheung MWL. Outlier and influence diagnostics for metaanalysis. Res Synth Methods 2010;1:112–125.
+23. Wiener JS, Effert PJ, Humphrey PA, et al. Prevalence of human papillomavirus types 16 and 18 in squamous-cell carcinoma of the penis: a retrospective analysis of primary and metastatic lesions by differential
+polymerase chain reaction. Int J Cancer 1992;50:694–701.
+24. Bezerra ALR, Lopes A, Santiago GH, et al. Human papillomavirus as a
+prognostic factor in carcinoma of the penis: analysis of 82 patients
+treated with amputation and bilateral lymphadenectomy. Cancer
+2001;91:2315–2321.
+25. Lont AP, Kroon BK, Horenblas S, et al. Presence of high-risk human papillomavirus DNA in penile carcinoma predicts favorable outcome in survival. Int J Cancer 2006;119:1078–1081.
+26. Guerrero D, Guarch R, Ojer A, et al. Hypermethylation of the thrombospondin-1 gene is associated with poor prognosis in penile squamous
+cell carcinoma. BJU Int 2008;102:747–755.
+
+27. Scheiner MA, Campos MM, Ornellas AA, et al. Human papillomavirus
+and penile cancers in Rio de Janeiro, Brazil: HPV typing and clinical features. Int Braz J Urol 2008;34:467–474.
+
+28. Ferrandiz-Pulido C, Masferrer E, de Torres I, et al. Identi� fication and
+genotyping of human papillomavirus in a Spanish cohort of penile
+squamous cell carcinomas: Correlation with pathologic subtypes,
+p16(INK4a) expression, and prognosis. J Am Acad Dermatol 2013;68:
+73–82.
+
+29. Gunia S, Erbersdobler A, Hakenberg OW, et al. p16(INK4a) is a marker of
+good prognosis for primary invasive penile squamous cell carcinoma: a
+multi-institutional study. J Urol 2012;187:899–907.
+30. Bethune G, Campbell J, Rocker A, et al. Clinical and pathologic factors of
+prognostic significance in penile squamous cell carcinoma in a North
+American population. Urology 2012;79:1092–1097.
+31. Di Lorenzo G, Perdona S, Buonerba C, et al. Cytosolic phosphorylated�
+EGFR is predictive of recurrence in early stage penile cancer patients: a
+retropective study. J Transl Med 2013;11:161–167.
+32. da Fonseca AG, Soares FA, Burbano RR, et al. Human papilloma virus:
+prevalence, distribution and predictive value to lymphatic metastasis in
+penile carcinoma. Int Braz J Urol 2013;39:542–550.
+33. Hernandez BY, Goodman MT, Unger ER, et al. Human papillomavirus
+genotype prevalence in invasive penile cancers from a registry-based
+United States population. Front Oncol 2014;4:9.
+
+
+8 [© JNCCN—Journal of the National Comprehensive Cancer Network](http://www.jnccn.org) | Volume 23 Issue 2 | February 2025
+
+Role of HPV in Penile Cancer ORIGINAL RESEARCH
+
+
+34. Bezerra SM, Chaux A, Ball MW, et al. Human papillomavirus infection and
+immunohistochemical p16(INK4a) expression as predictors of outcome in
+penile squamous cell carcinomas. Hum Pathol 2015;46:532–540.
+35. Djajadiningrat RS, Jordanova ES, Kroon BK, et al. Human papillomavirus
+prevalence in invasive penile cancer and association with clinical outcome. J Urol 2015;193:526–531.
+36. McDaniel AS, Hovelson DH, Cani AK, et al. Genomic profiling of penile
+squamous cell carcinoma reveals new opportunities for targeted therapy.
+Cancer Res 2015;75:5219–5227.
+37. Steinestel J, Al Ghazal A, Arndt A, et al. The role of histologic subtype,
+p16(INK4a) expression, and presence of human papillomavirus DNA in
+penile squamous cell carcinoma. BMC Cancer 2015;15:220.
+38. Tang DH, Clark PE, Giannico G, et al. Lack of P16ink4a over expression in
+penile squamous cell carcinoma is associated with recurrence after lymph
+node dissection. J Urol 2015;193:519–525.
+39. Zargar-Shoshtari K, Spiess PE, Berglund AE, et al. Clinical significance of
+p53 and p16(ink4a) status in a contemporary North American penile carcinoma cohort. Clin Genitourin Cancer 2016;14:346–351.
+40. Afonso LA, Carestiato FN, Ornellas AA, et al. Human papillomavirus,
+Epstein-Barr virus, and methylation status of p16 [ink4a] in penile cancer.
+J Med Virol 2017;89:1837–1843.
+
+41. de Araujo LA, De Paula AAP, de Paula HDSC, et al. Human papillomavi-�
+rus (HPV) genotype distribution in penile carcinoma: association with clinic
+pathological factors. PLoS One 2018;13:e0199557.
+42. Ottenhof SR, Djajadiningrat RS, Thygesen HH, et al. The prognostic value
+of immune factors in the tumor microenvironment of penile squamous
+cell carcinoma. Front Immunol 2018;9:1253.
+
+43. Martins VDA, Pinho JD, Teixeira Junior AAL, et al. P16INK4a expression�
+in patients with penile cancer. PLoS One 2018;13:e0205350.
+44. Takamoto D, Kawahara T, Kasuga J, et al. The analysis of human papillomavirus DNA in penile cancer tissue by in situ hybridization. Oncol Lett
+2018;15:8102–8106.
+
+45. De Bacco MW, Carvalhal GF, MacGregor B, et al. PD-L1 and p16 expression in penile squamous cell carcinoma from an endemic region. Clin
+Genitourin Cancer 2020;18:e254–259.
+
+46. Wang B, Gu W, Wan F, et al. Prognosis of the 8th TNM staging system
+for penile cancer and refinement of prognostication by incorporating high
+risk human papillomavirus status. J Urol 2020;203:562–569.
+47. Ashley S, Shanks JH, Oliveira P, et al. Human Papilloma Virus (HPV) status
+may impact treatment outcomes in patients with pre-cancerous penile lesions (an eUROGEN Study). Int J Impot Res 2021;33:620–626.
+48. Pereira-Lourenc¸o M, Vieira E Brito D, Eliseu M, et al. Prognostic value of
+p16INK4a overexpression in penile cancer. Arch Ital Urol Androl 2020;92:11–16.
+
+
+49. Martins VDCA, Cunha IW, Figliuolo G, et al. Presence of HPV with overexpression of p16INK4a protein and EBV infection in penile cancer—a series
+of cases from Brazil Amazon. PLoS One 2020;15:e0232474.
+
+50. Muresu N, Sotgiu G, Saderi L, et al. Italian observational study on HPV infection, E6, and p16 expression in men with penile cancer. Virol J 2020;
+17:161.
+
+51. Chu C, Chen K, Tan X, et al. Prevalence of human papillomavirus and implication on survival in Chinese penile cancer. Virchows Arch 2020;477:
+667–675.
+
+52. Chipollini J, Pollock G, Hsu CH, et al. National trends and survival outcomes of penile squamous cell carcinoma based on human papillomavirus status. Cancer Med 2021;10:7466–7474.
+53. Mohanty SK, Mishra SK, Bhardwaj N, et al. p53 and p16 [ink4a] as predictive
+and prognostic biomarkers for nodal metastasis and survival in a contemporary cohort of penile squamous cell carcinoma. Clin Genitourin Cancer
+2021;19:510–520.
+54. Browne E, Power Foley M, O’Kelly J, et al. The relationship of human
+papillomavirus positivity with tumor characteristics in an Irish penile cancer
+population. Can Urol Assoc J 2022;16:435–438.
+55. Chahoud J, Pham R, Sonpavde G. Innovative systemic therapies for penile cancer. Curr Opin Urol 2022;32:8–16.
+56. Muller T, Demes M, Lehn A, et al. The peri- and intratumoral immune cell€
+infiltrate and PD-L1 status in invasive squamous cell carcinomas of the penis. Clin Transl Oncol 2022;24:331–341.
+
+57. Wan X, Wang W, Liu J, Tong T. Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile
+range. BMC Med Res Methodol 2014;14:135.
+58. Philippou P, Shabbir M, Malone P, et al. Conservative surgery for squamous cell carcinoma of the penis: resection margins and long-term oncological control. J Urol 2012;188:803–808.
+59. Hernandez BY, Barnholtz-Sloan J, German RR, et al. Burden of invasive
+squamous cell carcinoma of the penis in the United States, 1998–2003.
+Cancer 2008;113(Suppl 10):2883–2891.
+60. Han G, Yang G, Hao D, et al. 9p21 loss confers a cold tumor immune
+microenvironment and primary resistance to immune checkpoint therapy. Nat Commun 2021;12:5606.
+61. Flaig TW, Spiess PE, Abern M, et al. NCCN Clinical Practice Guidelines in
+Oncology for Penile Cancer. Version 1.2025. To view the most recent
+[version, visit https://www.nccn.org](https://www.nccn.org)
+62. Brouwer OR, Albersen M, Parnham A, et al. European Association
+of Urology-American Society of Clinical Oncology collaborative
+guideline on penile cancer: 2023 update. Eur Urol 2023;83:
+548–560.
+
+
+[JNCCN.org](http://www.jnccn.org) | Volume 23 Issue 2 | February 2025 9
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,48 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=307 candidates_tokens_details=None prompt_token_count=51927 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=42381), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=9546)] thoughts_token_count=2957 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=55191 traffic_type=None
+
+
+**My Assessment and Extraction of Penile Cancer Treatment Recommendations**
+
+Alright, here's how I'm going to approach extracting those treatment recommendations from this paper. First, I need to make it clear that the focus is *strictly* on recommendations for managing the primary tumor, as that's the paper's scope. We're not getting into lymph node management or systemic therapy here – the paper doesn't cover those, so I can't.
+
+Now, I'll be meticulously working through the paper, focusing on these key areas: the abstract, the conclusions, and especially the "Implications for Clinical Practice" section. I'm on the lookout for phrases like "should be considered," "should be offered," "is effective for," and anything that directly advises a course of action. I'm going to be a stickler for accuracy and will try to use the author's own words whenever possible, or paraphrase precisely.
+
+Here's the breakdown of what I've found so far:
+
+1.  **General Approach to Primary Tumor Treatment:** The paper strongly suggests that penile-sparing surgery *should be offered whenever possible* for invasive penile cancer. The goal is to preserve as much functional penile length as possible, minimize disfigurement, and maintain a good quality of life. The paper notes that this principle applies to primary lesions. (Source: Introduction, Implications for Clinical Practice, Conclusions).
+
+2.  **Standard Surgical Approach (Amputation):** Partial or total penectomy is considered the standard oncologic treatment, and the choice depends on the size and extent of the lesion. (Source: Introduction).
+
+3.  **Treatment for Limited Disease:** For smaller lesions or in T1 patients, laser therapy and Moh's micrographic surgery could be used. These methods are considered effective for this patient group. (Source: Patient Summary, Implications for Clinical Practice).
+
+4.  **Radiation Therapy Comparison:** Where radiotherapy is indicated, brachytherapy results in better 5-year recurrence-free rates compared to External Beam Radiotherapy (EBRT). In addition, outcomes using brachytherapy are comparable to those seen with penile-sparing surgery. (Source: Implications for Clinical Practice).
+
+I want to be sure to stress here that these recommendations are based on the paper's comparative review of existing literature, and the authors make no new recommendations. The authors state that penile sparing surgery "should be offered whenever possible" despite some conflicting data in nonrandomized studies. I am focused only on their final conclusions. The paper does not make recommendations on diagnostic methods, follow-up, or systemic therapy, as the research is focused only on the local management of the primary tumor. I'll make sure the user understands this.
+
+
+
+**My Assessment and Extraction of Penile Cancer Treatment Recommendations**
+
+Alright, here's how I'm going to approach extracting those treatment recommendations from this paper. First, I need to make it clear that the focus is *strictly* on recommendations for managing the primary tumor, as that's the paper's scope. We're not getting into lymph node management or systemic therapy here – the paper doesn't cover those, so I can't.
+
+Now, I'll be meticulously working through the paper, focusing on these key areas: the abstract, the conclusions, and especially the "Implications for Clinical Practice" section. I'm on the lookout for phrases like "should be considered," "should be offered," "is effective for," and anything that directly advises a course of action. I'm going to be a stickler for accuracy and will try to use the author's own words whenever possible, or paraphrase precisely.
+
+Here's the breakdown of what I've found so far:
+
+1.  **General Approach to Primary Tumor Treatment:** The paper strongly suggests that penile-sparing surgery *should be offered whenever possible* for invasive penile cancer. The goal is to preserve as much functional penile length as possible, minimize disfigurement, and maintain a good quality of life. The paper notes that this principle applies to primary lesions. (Source: Introduction, Implications for Clinical Practice, Conclusions).
+
+2.  **Standard Surgical Approach (Amputation):** Partial or total penectomy is considered the standard oncologic treatment, and the choice depends on the size and extent of the lesion. (Source: Introduction).
+
+3.  **Treatment for Limited Disease:** For smaller lesions or in T1 patients, laser therapy and Moh's micrographic surgery could be used. These methods are considered effective for this patient group. (Source: Patient Summary, Implications for Clinical Practice).
+
+4.  **Radiation Therapy Comparison:** Where radiotherapy is indicated, brachytherapy results in better 5-year recurrence-free rates compared to External Beam Radiotherapy (EBRT). In addition, outcomes using brachytherapy are comparable to those seen with penile-sparing surgery. (Source: Implications for Clinical Practice).
+
+I want to be sure to stress here that these recommendations are based on the paper's comparative review of existing literature, and the authors make no new recommendations. The authors state that penile sparing surgery "should be offered whenever possible" despite some conflicting data in nonrandomized studies. I am focused only on their final conclusions. The paper does not make recommendations on diagnostic methods, follow-up, or systemic therapy, as the research is focused only on the local management of the primary tumor. I'll make sure the user understands this.
+ Based on the systematic review "What Is the Most Effective Management of the Primary Tumor in Men with Invasive Penile Cancer," the following explicit treatment recommendations are provided. The scope of the paper is limited to the management of the primary tumor in invasive penile cancer.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Tumor Treatment (General Principle)** | Penile-sparing surgery (PSS) should be offered whenever possible for primary penile lesions. The aim is to preserve functional penile length, avoid disfigurement, and maintain quality of life (QoL). The benefits of PSS must be weighed against the potential risk of residual disease and positive surgical margins, which are correlated with an increased risk of local recurrence. |
+| **Primary Tumor Treatment (Standard Surgical Approach)** | Partial or total penectomy is considered the standard oncologic treatment for invasive penile cancer. The decision for the extent of amputation is based on the size and extent of the primary lesion. |
+| **Primary Tumor Treatment (Specific Modalities for Limited Disease)** | For smaller lesions, specifically in men with T1 stage cancer, Laser treatment and Moh’s micrographic surgery are effective treatment options that could be used. |
+| **Primary Tumor Treatment (Radiation Therapy)** | When radiotherapy is considered, brachytherapy results in better 5-year recurrence-free rates compared to External Beam Radiotherapy (EBRT). The outcomes of brachytherapy are comparable to those of penile-sparing surgery. |

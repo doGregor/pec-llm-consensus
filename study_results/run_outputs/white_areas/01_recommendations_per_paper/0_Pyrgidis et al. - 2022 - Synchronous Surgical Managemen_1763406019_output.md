@@ -1,0 +1,5 @@
+Based on the document provided, it is not possible to fulfill the request. The paper supplied is a systematic review and meta-analysis titled **"Synchronous Surgical Management of Erectile Dysfunction and Stress Urinary Incontinence: A Systematic Review and Meta-Analysis of Reoperation Rates"**.
+
+This document focuses on the treatment of erectile dysfunction (ED) and stress urinary incontinence (SUI), which are often complications following treatments for conditions like prostate cancer. It does not contain any information or recommendations regarding the diagnosis, staging, or treatment of **penile cancer**.
+
+Therefore, the specific information requested—such as recommendations based on T-stages (PeIN, Ta, Tis, T1, etc.), tumor grade, lymph node management, or specific penile cancer treatments like glansectomy—is not present in the text.

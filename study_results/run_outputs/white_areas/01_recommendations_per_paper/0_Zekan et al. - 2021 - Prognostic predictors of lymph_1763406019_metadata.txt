@@ -1,0 +1,30 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=457 candidates_tokens_details=None prompt_token_count=18341 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=14729), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=3612)] thoughts_token_count=2436 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=21234 traffic_type=None
+
+
+**Here's how I approached this task:**
+
+I needed to extract precise treatment recommendations from this systematic review on penile cancer, even though it primarily focused on predictive factors. My plan involved a systematic search for keywords related to treatment and guidelines, focusing on the "Introduction," "Discussion," and "Conclusion" sections. I looked specifically for sentences that prescribed an action for a defined patient group.
+
+I meticulously deconstructed each recommendation, noting the aspect of care (e.g., lymph node management, staging), the specific clinical indications (T-stage, risk level, node status), the precise treatment modality, and any relevant clinical clarifications. This required careful reading and cross-referencing between sections, especially since direct treatment recommendations were often derived from external guidelines like NCCN and EAU. I documented each step, including page numbers and sources. I also made sure to omit general statements and to only include those recommendations for well-defined scenarios and not general principles.
+
+As an expert, the task was straightforward. I knew the common recommendations and expected to mostly find them cited as part of the guidelines reviewed.
+
+
+
+**Here's how I approached this task:**
+
+I needed to extract precise treatment recommendations from this systematic review on penile cancer, even though it primarily focused on predictive factors. My plan involved a systematic search for keywords related to treatment and guidelines, focusing on the "Introduction," "Discussion," and "Conclusion" sections. I looked specifically for sentences that prescribed an action for a defined patient group.
+
+I meticulously deconstructed each recommendation, noting the aspect of care (e.g., lymph node management, staging), the specific clinical indications (T-stage, risk level, node status), the precise treatment modality, and any relevant clinical clarifications. This required careful reading and cross-referencing between sections, especially since direct treatment recommendations were often derived from external guidelines like NCCN and EAU. I documented each step, including page numbers and sources. I also made sure to omit general statements and to only include those recommendations for well-defined scenarios and not general principles.
+
+As an expert, the task was straightforward. I knew the common recommendations and expected to mostly find them cited as part of the guidelines reviewed.
+ Based on the systematic review provided, the following explicit treatment recommendations, primarily cited from NCCN and EAU guidelines, are identified:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Lymph Node Management** | **For patients with low-risk (cTis, cTa, cT1a) penile cancer and non-palpable inguinal lymph nodes:**<br>• The recommended management is **surveillance**. |
+| **Lymph Node Management** | **For patients with intermediate or high-risk (cT1b, cT2 or higher) penile cancer and non-palpable inguinal lymph nodes:**<br>• Recommended management includes **chest/abdomen/pelvic imaging** followed by either **inguinal lymph node dissection (ILND)** or **dynamic sentinel lymph node biopsy (DSLNB)**. |
+| **Lymph Node Management** | **For patients with palpable inguinal lymph nodes and a high-risk primary lesion (defined as T1, high-grade, lymphovascular invasion, perineural invasion, or >50% poorly differentiated):**<br>• The recommendation is to proceed directly to **inguinal lymph node dissection (ILND)**. |
+| **Lymph Node Management / Diagnosis** | **For patients with palpable inguinal lymph nodes and low-risk disease:**<br>• **Percutaneous biopsy** is the suggested diagnostic step. |
+| **Diagnosis / Staging** | **For patients being evaluated for metastases or when physical examination is limited:**<br>• **Cross-sectional imaging (CT and MRI)** is recommended as helpful for detecting metastases in the pelvis/retroperitoneum and in patients whose body habitus limits physical examination. |
+| **Diagnosis / Staging** | **For patients with a high clinical suspicion of inguinal lymph node metastasis (ILNM):**<br>• A comprehensive **workup** at the time of initial biopsy is suggested to inform the decision for ILND. This includes:<br>  • Blood and tumor markers (e.g., CRP, NLR, PD-L1, p53, SCC-Ag, SOD2, and ID1).<br>  • Advanced imaging. |

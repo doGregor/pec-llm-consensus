@@ -1,0 +1,96 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=2574 candidates_tokens_details=None prompt_token_count=77781 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=62301), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=15480)] thoughts_token_count=4839 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=85194 traffic_type=None
+
+
+**Comprehensive Penile Cancer Treatment Recommendations Extraction**
+
+Alright, let's break down this NCCN Guideline for Penile Cancer. I've dissected the entire document, focusing on extracting the core treatment recommendations. I've meticulously tracked the "Aspect of Care," clinical indications (T-stage, N-stage, grade, size, location, risk factors), treatment modalities, and any crucial clarifications (like follow-up frequency or pre-treatment steps). My goal is a crystal-clear, structured representation of the guideline's key recommendations. Here's a summary of the extracted data:
+
+*   **Primary Treatment (Penile Lesions)**: For PeIN or Ta, topical therapies (like Imiquimod or 5-FU), wide local excision, laser therapy, complete glansectomy (in select cases), or Mohs surgery (in select cases) are recommended.  For pT1a, options include wide local excision, partial penectomy, glansectomy, Mohs, laser, or RT (category 2B). pT1b cases recommend wide local excision, partial or total penectomy, RT, or chemo/RT. For T2 or greater, partial or total penectomy, RT, or chemo/RT are the treatments.
+
+*   **Lymph Node Management (Non-Palpable)**: For low-risk cases (PeIN, Ta, T1a), surveillance is the standard. Intermediate/High-risk cases (T1b, T2+) generally require bilateral ILND or DSNB (with physician experience), and if DSNB is positive, ILND is required. Prophylactic EBRT is an option for non-surgical candidates.
+
+*   **Lymph Node Management (Palpable, Non-Bulky)**: Unilateral, mobile lymph nodes <4 cm with low-risk primaries get percutaneous biopsy, followed by excisional biopsy or surveillance if negative. If the biopsy is positive or the primary is high-risk, bilateral ILND is preferred, or neoadjuvant TIP can be considered followed by ILND. pN1 after ILND warrants surveillance, while pN2-3 requires PLND ± (adjuvant RT or chemotherapy, or chemo/RT) or chemo/RT or chemotherapy.
+
+*   **Lymph Node Management (Palpable, Bulky)**: Unilateral, mobile lymph nodes ≥4 cm get biopsy, and negative biopsy cases need excisional biopsy and surveillance. Positive biopsy cases benefit from neoadjuvant TIP followed by ILND (preferred), with PLND an option. ILND with PLND is also preferred in those ineligible for neoadjuvant chemo. Options also include RT or chemo/RT. Post neoadjuvant chemo ILND: 0-1 positive nodes with viable disease warrant surveillance. If ≥2 positive nodes or extranodal extension, consider adjuvant chemo and/or RT. Fixed or bilateral nodes, positive biopsy, and if no neoadjuvant chemo eligibility warrant ILND and PLND (preferred) or RT or chemo/RT.
+
+*   **Enlarged Pelvic Lymph Nodes**: Percutaneous biopsy should be done if feasible. If negative, manage based on inguinal node status. If positive: if surgical candidate: neoadjuvant TIP, then cross-sectional imaging, with consolidation surgery if stable/response; if non-resectable manage as metastatic. If non-surgical: Chemo/RT.
+
+*   **Post-Treatment Surveillance**: Follow-up frequency varies based on initial treatment and nodal status, ranging from every 3 months to annually. Imaging (US, CT, MRI) can be considered when clinically indicated.
+
+*   **Recurrent Disease Management**: Penile recurrences are treated according to stage. Inguinal recurrences after prior treatment might require percutaneous biopsy. Treatment depends on whether prior ILND or RT was performed.
+
+*   **Metastatic Disease**: Systemic chemotherapy is the standard, with TIP the preferred first-line option. Consider molecular testing. Responses might warrant consolidation surgery. For no response, further systemic therapy, RT, clinical trials, or supportive care are options.
+
+*   **Organ-Sparing Principles**: PeIN or Ta treatments include Imiquimod or 5-FU topical therapy or laser/WLE/Glansectomy/Mohs. High-grade tumors generally warrant penectomy.
+
+*   **Surgical Principles**: High-risk, clinically node-negative cases require standard, modified ILND or DSNB (physician-dependent). Post-ILND, multiple positive nodes or extranodal extension may warrant PLND.
+
+*   **Radiotherapy Principles**: Radiotherapy is considered for various stages, often following circumcision, with or without chemotherapy. Adjuvant and palliative RT are also outlined.
+
+*   **Systemic Therapy Principles**: Neoadjuvant TIP is preferred for bulky inguinal nodes. Adjuvant TIP is an option for high-risk post-ILND/PLND cases
+
+
+**Comprehensive Penile Cancer Treatment Recommendations Extraction**
+
+Alright, let's break down this NCCN Guideline for Penile Cancer. I've dissected the entire document, focusing on extracting the core treatment recommendations. I've meticulously tracked the "Aspect of Care," clinical indications (T-stage, N-stage, grade, size, location, risk factors), treatment modalities, and any crucial clarifications (like follow-up frequency or pre-treatment steps). My goal is a crystal-clear, structured representation of the guideline's key recommendations. Here's a summary of the extracted data:
+
+*   **Primary Treatment (Penile Lesions)**: For PeIN or Ta, topical therapies (like Imiquimod or 5-FU), wide local excision, laser therapy, complete glansectomy (in select cases), or Mohs surgery (in select cases) are recommended.  For pT1a, options include wide local excision, partial penectomy, glansectomy, Mohs, laser, or RT (category 2B). pT1b cases recommend wide local excision, partial or total penectomy, RT, or chemo/RT. For T2 or greater, partial or total penectomy, RT, or chemo/RT are the treatments.
+
+*   **Lymph Node Management (Non-Palpable)**: For low-risk cases (PeIN, Ta, T1a), surveillance is the standard. Intermediate/High-risk cases (T1b, T2+) generally require bilateral ILND or DSNB (with physician experience), and if DSNB is positive, ILND is required. Prophylactic EBRT is an option for non-surgical candidates.
+
+*   **Lymph Node Management (Palpable, Non-Bulky)**: Unilateral, mobile lymph nodes <4 cm with low-risk primaries get percutaneous biopsy, followed by excisional biopsy or surveillance if negative. If the biopsy is positive or the primary is high-risk, bilateral ILND is preferred, or neoadjuvant TIP can be considered followed by ILND. pN1 after ILND warrants surveillance, while pN2-3 requires PLND ± (adjuvant RT or chemotherapy, or chemo/RT) or chemo/RT or chemotherapy.
+
+*   **Lymph Node Management (Palpable, Bulky)**: Unilateral, mobile lymph nodes ≥4 cm get biopsy, and negative biopsy cases need excisional biopsy and surveillance. Positive biopsy cases benefit from neoadjuvant TIP followed by ILND (preferred), with PLND an option. ILND with PLND is also preferred in those ineligible for neoadjuvant chemo. Options also include RT or chemo/RT. Post neoadjuvant chemo ILND: 0-1 positive nodes with viable disease warrant surveillance. If ≥2 positive nodes or extranodal extension, consider adjuvant chemo and/or RT. Fixed or bilateral nodes, positive biopsy, and if no neoadjuvant chemo eligibility warrant ILND and PLND (preferred) or RT or chemo/RT.
+
+*   **Enlarged Pelvic Lymph Nodes**: Percutaneous biopsy should be done if feasible. If negative, manage based on inguinal node status. If positive: if surgical candidate: neoadjuvant TIP, then cross-sectional imaging, with consolidation surgery if stable/response; if non-resectable manage as metastatic. If non-surgical: Chemo/RT.
+
+*   **Post-Treatment Surveillance**: Follow-up frequency varies based on initial treatment and nodal status, ranging from every 3 months to annually. Imaging (US, CT, MRI) can be considered when clinically indicated.
+
+*   **Recurrent Disease Management**: Penile recurrences are treated according to stage. Inguinal recurrences after prior treatment might require percutaneous biopsy. Treatment depends on whether prior ILND or RT was performed.
+
+*   **Metastatic Disease**: Systemic chemotherapy is the standard, with TIP the preferred first-line option. Consider molecular testing. Responses might warrant consolidation surgery. For no response, further systemic therapy, RT, clinical trials, or supportive care are options.
+
+*   **Organ-Sparing Principles**: PeIN or Ta treatments include Imiquimod or 5-FU topical therapy or laser/WLE/Glansectomy/Mohs. High-grade tumors generally warrant penectomy.
+
+*   **Surgical Principles**: High-risk, clinically node-negative cases require standard, modified ILND or DSNB (physician-dependent). Post-ILND, multiple positive nodes or extranodal extension may warrant PLND.
+
+*   **Radiotherapy Principles**: Radiotherapy is considered for various stages, often following circumcision, with or without chemotherapy. Adjuvant and palliative RT are also outlined.
+
+*   **Systemic Therapy Principles**: Neoadjuvant TIP is preferred for bulky inguinal nodes. Adjuvant TIP is an option for high-risk post-ILND/PLND cases Based on the NCCN Clinical Practice Guidelines for Penile Cancer, Version 2.2025, the following explicit treatment recommendations are provided:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment** | **For Penile Intraepithelial Neoplasia (PeIN) or Ta Disease:**<br>• Treatment options include: Topical therapy, Wide local excision, Laser therapy (category 2B), Complete glansectomy (category 2B), or Mohs surgery in select cases (category 2B). |
+| **Primary Treatment** | **For Pathologic Stage pT1a:**<br>• Treatment options include: Wide local excision, Partial penectomy, Glansectomy in select cases, Mohs surgery in select cases (category 2B), Laser therapy (category 2B), or Radiation Therapy (RT) (category 2B). |
+| **Primary Treatment** | **For Pathologic Stage pT1b:**<br>• Treatment options include: Wide local excision, Partial penectomy, Total penectomy, RT (category 2B), or Chemo/RT (category 3). |
+| **Primary Treatment** | **For T2 or Greater:**<br>• Treatment options include: Partial penectomy, Total penectomy, RT (category 2B), or Chemo/RT (category 3). |
+| **Primary Treatment (Topical)** | **For PeIN or Ta disease:**<br>• **Imiquimod 5% cream:** Apply at night three times per week for 4–16 weeks.<br>• **5-FU cream 5%:** Apply twice daily for 2–6 weeks. |
+| **Primary Treatment (Surgical)** | **For high-grade primary tumors:** Partial penectomy is standard, provided a functional stump with negative margins can be achieved. If not possible, a total penectomy should be performed.<br>• **For tumors with invasion into the corpora cavernosum:** Partial or total penectomy is necessary.<br>• **Intraoperative frozen sections** are recommended to determine negative margins. |
+| **Primary Treatment (Surgical - Organ-Sparing)** | **For Wide Local Excision (Stage PeIN, Ta, T1):** Complete excision with wide negative margin is needed. If margins are positive, re-resection may be considered.<br>• **For tumors of the shaft:** May be treated with wide local excision with or without circumcision.<br>• **For tumors of the distal prepuce:** Circumcision alone may be reasonable. |
+| **Primary Treatment (Surgical - Organ-Sparing)** | **For Glansectomy (Stage PeIN, Ta, T1 on glans/prepuce):**<br>• For PeIN or Ta disease, a complete glansectomy is a category 2B recommendation.<br>• For T1 G1-2 disease, glansectomy is not recommended unless required to ensure complete tumor eradication with negative margins. |
+| **Primary Treatment (Surgical - Organ-Sparing)** | **For Mohs Micrographic Surgery (Category 2B):** An alternative to wide local excision in select cases. It may be preferable for a small superficial lesion on the proximal shaft to avoid total penectomy. |
+| **Primary Treatment (Radiotherapy)** | **For T1–2, N0 tumors <4 cm:** After circumcision, options include: Brachytherapy alone (category 2B, performed with interstitial implant), EBRT (total dose 65–70 Gy), or EBRT with concurrent chemotherapy (category 3). |
+| **Primary Treatment (Radiotherapy)** | **For T1–2, N0 tumors ≥4 cm:** After circumcision, options include: EBRT with concurrent chemotherapy (total dose 65–70 Gy) or Brachytherapy alone (category 2B) in select cases with careful post-treatment surveillance. |
+| **Primary Treatment (Radiotherapy)** | **For T3–4 or N+ (surgically unresectable):** After circumcision, EBRT with concurrent chemotherapy (total dose 60-70 Gy) to the whole penile shaft, pelvic lymph nodes, and bilateral inguinal lymph nodes. |
+| **Lymph Node Management (Non-Palpable Nodes)** | **For Low-Risk Primary Lesion (PeIN, Ta, T1a):** Surveillance of the inguinal lymph nodes is recommended. |
+| **Lymph Node Management (Non-Palpable Nodes)** | **For Intermediate/High-Risk Primary Lesion (T1b, or any T2 or greater):**<br>• **Treatment:** Bilateral inguinal lymph node dissection (ILND) or Bilateral dynamic sentinel node biopsy (DSNB).<br>• **Additional Clarifications:** DSNB is recommended only if the treating physician has experience. If DSNB is positive, ILND is recommended. Prophylactic EBRT (category 2B) to inguinal nodes can be considered for patients who are not surgical candidates or decline surgery. |
+| **Lymph Node Management (Palpable, Non-Bulky Nodes)** | **For Unilateral Mobile Lymph Node(s) <4 cm:**<br>• **Low-Risk Primary:** Percutaneous lymph node biopsy. If negative, options are excisional biopsy or surveillance.<br>• **High-Risk Primary or Positive Biopsy:** Bilateral ILND is recommended. Alternatively, consider neoadjuvant TIP chemotherapy followed by ILND. |
+| **Lymph Node Management (Palpable, Bulky Nodes)** | **For Unilateral Mobile Lymph Nodes ≥4 cm:**<br>• After a positive percutaneous biopsy, the preferred treatment is Neoadjuvant TIP chemotherapy followed by ILND (consider PLND).<br>• For patients not eligible for TIP, ILND (preferred, consider PLND) is an option. |
+| **Lymph Node Management (Palpable, Bulky Nodes)** | **For Unilateral Fixed or Bilateral (Fixed or Mobile) Lymph Nodes:**<br>• After a positive percutaneous biopsy, neoadjuvant TIP chemotherapy is recommended.<br>• **If response to chemo:** ILND (preferred) and PLND (preferred).<br>• **If no response:** Proceed to management for metastatic/progressive disease.<br>• **If not eligible for neoadjuvant chemo:** ILND (preferred) and PLND (preferred) or RT or Chemo/RT. |
+| **Lymph Node Management (Enlarged Pelvic Nodes)** | **If percutaneous biopsy is positive and patient is a surgical candidate:** Neoadjuvant TIP chemotherapy. If there is a stable or clinical response, consolidation surgery (bilateral superficial and deep ILND and unilateral/bilateral PLND) is recommended.<br>• **If percutaneous biopsy is positive and patient is a non-surgical candidate:** Chemo/RT. |
+| **Lymph Node Management (Surgical Principles)** | **Pelvic Lymph Node Dissection (PLND):**<br>• Should be considered for patients with ≥2 positive inguinal nodes on the ipsilateral ILND site or with extranodal extension.<br>• A bilateral PLND should be considered for patients with ≥4 total positive inguinal nodes. |
+| **Adjuvant Therapy (Post-Lymphadenectomy)** | **For pN2-3 disease:** Consider Pelvic lymph node dissection (PLND) ± adjuvant RT/chemotherapy (Cat 2B), OR Chemo/RT (Cat 2B), OR Chemotherapy (Cat 2B). |
+| **Adjuvant Therapy (Post-Lymphadenectomy)** | **After neoadjuvant chemo and ILND with ≥2 positive nodes or extranodal extension:** Adjuvant chemotherapy (if not already given) and/or adjuvant RT (if pelvic nodes are positive) or Chemo/RT (category 2B). |
+| **Adjuvant Therapy (Post-Lymphadenectomy)** | **For high-risk features (pelvic node metastases, extranodal extension, bilateral inguinal nodes, ≥4 cm tumor in nodes):** If not given preoperatively, 4 courses of TIP chemotherapy is reasonable. Adjuvant EBRT or Chemo/RT can also be considered. |
+| **Adjuvant Therapy (Radiotherapy)** | **For positive margins after penectomy:** Postsurgical EBRT (45–60 Gy). If gross disease remains, treat as T3-4/N+.<br>• **For positive inguinal/pelvic lymph nodes:** Recommended for palpable bulky nodes. Consider for pN2-3 disease (Cat 2B) or local recurrence. Involves EBRT to nodes (45–50.4 Gy) with a boost to gross disease (65–70 Gy). |
+| **Systemic Therapy (Metastatic/Recurrent)** | **First-Line Therapy:**<br>• **Preferred:** TIP (paclitaxel, ifosfamide, cisplatin).<br>• **Other Recommended:** 5-FU + cisplatin; 5-FU + cisplatin + pembrolizumab followed by pembrolizumab maintenance; 5-FU + carboplatin + pembrolizumab followed by pembrolizumab maintenance.<br>• **Not Recommended:** Bleomycin-containing regimens. |
+| **Systemic Therapy (Metastatic/Recurrent)** | **Subsequent-Line Therapy:**<br>• **Preferred:** Clinical trial. OR Pembrolizumab for unresectable/metastatic MSI-H/dMMR or TMB-H (≥10 mut/Mb) tumors that have progressed after prior treatment.<br>• **Useful in Certain Circumstances:** Paclitaxel or Cetuximab.<br>• **Other:** Any tumor-agnostic therapies based on NGS results. |
+| **Management of Recurrence** | **For recurrence of penile lesion after initial penile-sparing treatment:** Treat according to the new recurrence stage (per primary treatment guidelines). |
+| **Management of Recurrence** | **For local recurrence in inguinal region with no prior RT/lymphadenectomy:**<br>• **Single, mobile, <4 cm node:** Percutaneous biopsy. If positive, perform ILND.<br>• **Fixed node, ≥4 cm node, or cN2/N3 disease:** Manage as palpable bulky primary disease. |
+| **Management of Metastatic Disease** | **After initial systemic chemotherapy:**<br>• **If complete/partial response or stable disease:** Consolidation surgery (bilateral superficial and deep ILND and unilateral/bilateral PLND).<br>• **If no response/disease progression:** Consider subsequent-line systemic therapy, RT for local control, clinical trial, or best supportive care. |
+| **Palliative Care** | **For palliative intent:** Consider a palliative RT dose of 30 Gy in 10 fractions. |
+| **Follow-up Care (Surveillance)** | **After Topical/Local Therapy:** Clinical exam every 3 mo (Years 1-2), every 6 mo (Years 3-5), every 12 mo (Years 5-10). |
+| **Follow-up Care (Surveillance)** | **After Partial/Radical Penectomy:** Clinical exam every 6 mo (Years 1-2), every 12 mo (Years 3-10). |
+| **Follow-up Care (Surveillance)** | **After Node Treatment (pN0, N1):** Clinical exam, CT abdomen/pelvis, and chest radiograph every 6 mo (Years 1-2), then every 12 mo (Years 3-4). |
+| **Follow-up Care (Surveillance)** | **After Node Treatment (pN2, N3):** Clinical exam and CT of chest/abdomen/pelvis every 3 mo (Year 1), then every 6 mo (Years 2-4). |
+| **Follow-up Care (Surveillance)** | **Imaging for abnormal findings:** If a clinical exam is abnormal, or for patients with obesity or prior inguinal surgery, consider ultrasound, CT, or MRI of the inguinal region. |

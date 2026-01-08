@@ -1,0 +1,593 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    World Journal of Urology (2023) 41:2319–2326
+https://doi.org/10.1007/s00345-023-04485-x
+
+
+# **Performance of indocyanine green in sentinel lymph node mapping ** **and lymph node metastasis in penile cancer: systematic review, ** **meta‑analysis, and single‑center experience**
+
+**Rui Zhang** **[1]** **· Yaqin Zhang** **[2]** **· Sihan Dong** **[1]** **· Kai Pang** **[3]** **· Xiaofeng Yang** **[4]** **· Xunbin Wei** **[1,5]**
+
+Received: 10 March 2023 / Accepted: 7 June 2023 / Published online: 7 July 2023
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2023
+
+**Abstract**
+**Purpose** The aim of this study was to investigate the overall sensitivity and specificity of indocyanine green (ICG)-nearinfrared (NIR) fluorescence imaging in the detection of sentinel lymph node metastasis (SLNM) in penile cancer.
+**Methods**
+We searched PubMed, Embase, Web of Science, Scopus, and the Cochrane Library databases to identify manuscripts where ICG was intravenously administered prior to or during penile cancer surgery, with no restriction on language
+or publication status. The results extracted are presented as forest plots.
+**Results**
+Seven studies were included in the analysis. The median sensitivity and specificity of ICG-NIR imaging for SLNM
+detection were 100 and 4%, respectively; the pooled sensitivity was 100.0% (95% confidence interval [CI] 97.0–100.0) and
+specificity was 2.0% (95% CI 1.0–3.0). There was no significant difference in the diagnostic results between different injection sites and doses in each experimental group.
+**Conclusion**
+To our knowledge, this meta-analysis is the first to summarize the diagnostic performance of ICG-NIR imaging
+for SLNM detection in penile cancer. ICG is sensitive in the imaging of SLN tissue, which can consequently improve the
+accuracy of lymph node detection. However, the specificity is very low.
+
+**Keywords** Penile cancer · Indocyanine green · Sentinel lymph node · Sensitivity · Specificity
+
+
+**Introduction**
+
+The presence and degree of lymph node metastasis (LNM) in
+patients with penile cancer have an important impact on their
+survival and prognosis [1]. Recent studies have shown that
+inguinal lymphadenectomy is associated with unnecessary
+
+- Xunbin Wei
+xwei@bjmu.edu.cn
+
+1 Institute of Medical Technology, Peking University Health
+Science Center, Beijing 100080, China
+
+2 First Clinical Medical College, Nanjing Medical University,
+Nanjing 210000, China
+
+3 Instrument Science and Opto-‑Electronics Engineering,
+Beijing Information Science and Technology University,
+Beijing 100192, China
+
+4 Department of Urology, First Hospital of Shanxi Medical
+University, Taiyuan 030001, China
+
+5 Key Laboratory of Carcinogenesis and Translational
+Research (Ministry of Education/Beijing), Peking University
+Cancer Hospital and Institute, Beijing, China
+
+
+treatment in about 80% of patients [2]. Moreover, inguinal
+lymph node dissection (ILND) may cause postoperative
+tumor recurrence or lymphocele, lymphatic leakage, skin
+necrosis around the incision, and other complications, thus
+increasing pain in patients as well as the cost of hospitalization [3].
+In 1977, Cabanas first proposed the concept of sentinel lymph nodes (SLNs) in penile cancer [4]. Studies have
+reported the high accuracy of SLN biopsy in determining whether a tumor has LNM. SLN biopsy is a preferred
+method of lymph node staging in melanoma [5] and breast
+cancer [6]. Therefore, as an alternative to inguinal lymphadenectomy, SLN biopsy has been included in the guidelines
+of the European Association of Urology for the treatment
+of penile cancer [7]. This method plays a crucial role in
+determining whether to perform ILND. Indocyanine green
+(ICG) has been used in SLN imaging for various types of
+tumors, such as breast cancer, prostate cancer, and bladder
+cancer, because of its low cost, simple operation, and few
+side effects [8–10]. ICG is also becoming more frequently
+used in SLN localization and biopsy of penile cancer.
+## Vol.:(0123456789) 1 3
+
+2320 World Journal of Urology (2023) 41:2319–2326
+
+
+In this paper, we summarized the existing evidence and
+
+data on ICG for SLN localization and LNM detection in
+
+penile cancer. We report our experience of using ICG in
+patients with penile cancer.
+
+**Methods**
+
+**Protocol and registration**
+
+Before performing this analysis, the protocol was registered in the international prospective register of systematic
+reviews (PROSPERO), with the number CRD42022375235.
+
+**Search strategy**
+
+A systematic search was performed of the PubMed, Embase,
+Web of Science, Scopus, and the Cochrane Library databases, with no language or publication status restriction.
+The search strategy included the following keywords:
+‘‘Penile Neoplasms OR Penile Cancer OR Penile carcinoma
+OR penile malignancy OR Penis cancer OR penis malignancy OR penis carcinoma’’ and ‘‘lymph node OR LN OR
+lymphatic OR sentinel node’’ and “indocyanine green OR
+ICG.” The following medical subject headings (MeSH)
+were also used: indocyanine green, lymph nodes, and penile
+neoplasms. Duplicate studies were first removed, and the
+included studies were systematically screened based on the
+title and abstract, followed by a full-text screening.
+Additionally, we searched the relevant studies included in
+the references. The last search was performed on November
+13, 2022.
+
+**Study selection**
+
+The main index was the detection of positive SLNs in penile
+cancer using ICG-NIR fluorescence imaging.
+The inclusion criteria involved studies that contained the
+
+following: (1) patients who had resectable penile neoplasms;
+(2) patients who underwent surgery, with ICG being used to
+locate the SLN; (3) patients who underwent postoperative
+pathological examination; and (4) sample sizes of more than
+five patients.
+The exclusion criteria were as follows: (1) case reports,
+meta-analyses, animal studies, abstracts, and reviews; (2)
+
+unavailable data and lack of sufficient detail disclosure
+
+regarding the pathological outcome of lymph nodes.
+
+**Data extraction and quality assessment**
+
+Two authors independently screened the articles according
+to the inclusion and exclusion criteria; any disagreements
+between the two authors were resolved by a third author.
+## 1 3
+
+
+Quality Assessment of Diagnostic Accuracy Studies (QUADAS)-2 was used to evaluate the quality of the included
+studies. The results were presented using Review Manager
+version 5.4. (The Cochrane Collaboration, 2020).
+We extracted the following data from the included articles: first author’s name, year of publication, study design,
+number of patients, mean age, surgical technique, NIR imaging equipment used for SLNM, total number of lymph nodes
+collected, total number of fluorescent lymph nodes, positive SLNs, and average number of SLNs obtained for each
+patient. For each study, the rates of true positive (TP), true
+negative (TN), false positive (PF), and false negative (FN)
+
+were calculated.
+
+**Statistical analysis**
+
+First, we used Meta-Disc version 1.4 (Clinical Biostatistics
+Unit, Ramón y Cajal Hospital, Madrid, Spain) to perform
+Spearman correlation analysis to assess the heterogene
+*P*
+ity caused by the threshold effect. - 0.05 indicated that
+there was no heterogeneity caused by the threshold effects,
+whereas *P*
+< 0.05 indicated the existence of heterogeneity
+caused by threshold effects. Next, pooled analysis of sensitivity and specificity rates was performed. The statistical
+heterogeneity among the studies was evaluated using inconsistency ( *I* [2] ) statistics. In the absence of significant heterogeneity ( *I* [2] < 50% or *P* - 0.05), we used a fixed-effects model
+for data pooling; in the presence of significant heterogeneity,
+we used a random-effects model. According to the results,
+we adopted a fixed-effects model or random-effects model
+for meta-analysis of the heterogeneity by pooling the combined detection rates, summarizing the sensitivity, specificity, positive likelihood ratio (PLR), negative likelihood ratio
+(NLR), diagnostic odds ratio (DOR), and summary receiver
+operating characteristic curve (SROC). The area under the
+SROC curve (AUC) was calculated; the AUC represents the
+ability of ICG-NIR fluorescence to discriminate between
+metastatic and non-metastatic tumors. A higher AUC value
+indicates a higher diagnostic accuracy of the test.
+
+**Tracing SLNs of human penile cancer**
+
+We obtained the informed consent of patients with penile
+carcinoma. We included four patients who underwent ICGNIR fluorescence-guided SLN dissection for penile cancer
+in the First Hospital of Shanxi Medical University between
+June 2021 and June 2022. The equipment used in the study
+was a color light and NIR fluorescence separated–merged
+imager (Science Technology Development Co., Ltd., China).
+We injected 1 mg of ICG (Dandong Yichuang Co., Ltd.,
+China) subcutaneously around the penile tumor. Then,
+
+World Journal of Urology (2023) 41:2319–2326 2321
+
+
+15 min after injection, we performed NIR fluorescence
+imaging in the inguinal region of each patient. According to
+fluorescence guidance, we determined the optimal location
+for skin incision and then separated, ligated, and excised the
+fluorescently marked tissues. We confirmed that there was
+no residual fluorescence or green false spots in all cases and
+achieved an ­R 0 resection. We then completed the surgery.
+Finally, we imaged the tissues in vitro and performed a histopathological examination.
+
+**Results**
+
+**Study selection and study characteristics**
+
+According to the search strategy, a total of 56 articles were
+included after removing duplicate articles. We evaluated
+the title, abstract, and full text of the articles. Finally,
+
+**Fig. 1** PRISMA flow diagram
+for study selection
+
+
+seven articles were retained in the study [11–17]. Figure 1
+depicts the PRISMA review flow diagram. Supplementary Fig. 1 shows the results of quality evaluation using
+QUADAS-2. The risk of bias and applicability problems
+of the included articles was relatively small, but bias may
+be introduced owing to patient selection.
+
+**Patient characteristics and SLN biopsy detection**
+
+The study population comprised 648 patients (all male)
+with a mean age of 66.3 years. Among these patients, an
+average of 3.4 lymph nodes were detected per patient. All
+excised tissue was examined pathologically. Characteris
+tics of the studies are shown in Table 1.
+## 1 3
+
+2322 World Journal of Urology (2023) 41:2319–2326
+
+
+**Technical details of NIR fluorescence imaging**
+**and ICG injection**
+
+The studies used ICG in different concentrations and
+
+different doses. In addition, the injection sites were also
+different (around the tumor/foreskin or the base of the
+penis). The injection was given from the start of the surgery to 1 day before surgery. The NIR fluorescence imaging equipment used also differed. A summary is provided
+in Supplementary Table 1.
+
+**Overall sensitivity, specificity, and accuracy**
+**of ICG‑NIR fluorescence**
+
+First, we calculated FP, FN, TP, and TN values separately
+for each study. The threshold effect was analyzed in MetaDisc. The sensitivity logarithm related to the (1–specificity) logarithm of the Spearman coefficient was equal to
+0.631 ( *P*
+= 0.129, indicating no significance). The results
+suggested that there was no threshold effect in this study.
+As shown in the Meta-Disc analysis (Fig. 2a–e), the
+median sensitivity for ICG fluorescence in the detection
+of malignant SLNs was 100.0% (95% confidence interval
+
+[CI] 100.0–100.0) (Fig. 2a). The median specificity was
+4% (95% CI 0.0–40.0) (Fig. 2b), the median PLR was 1.00
+(95% CI 0.96–1.60) (Fig. 2c), and the median NLR was
+1.56 (95% CI 0.12–3.72) (Fig. 2d). Regarding the DOR
+( *I* [2] *P* 2e), the area under the com= 0.0%, = 0.60) (Fig.
+bined subject working SROC was 0.72 ( *Q* value = 0.67),
+and the standard error was 0.164 (Supplementary Fig. 2).
+
+**ICG imaging for SLN in penile cancer**
+
+All four patients underwent open ILND (characteristics are
+shown in Supplementary Table 2), and fluorescent tissues
+in the groin were identified in each patient (Fig. 3). Among
+them, pathological examination showed lymph node tissue
+with tumor metastasis in one patient and without tumor
+metastasis in the remaining three patients. ICG helped
+
+**Table1** Characteristics of the studies included
+
+
+identify lymph node tissue (accuracy rate: 100%), but it had
+a low positive predictive value (25%) and a high false positive rate (100%) for lymph nodes with tumor metastasis.
+
+**Discussion**
+
+In 1958, ICG was approved by the US Food and Drug
+Administration for clinical application, including in liver
+function measurement, retinal angiography, and cardiac
+function measurement. In recent years, ICG has been used
+in coronary artery bypass surgery, intestinal anastomosis,
+and skin flap reconstruction [18–20]. When ICG is injected
+intravenously, it first binds to plasma proteins, allowing them
+to remain in the blood vessels. In plasma, the wavelength
+of its emission spectrum is 830 nm, which avoids the influence of its own fluorescence and can penetrate 10–15 mm of
+tissue. ICG is metabolized by the liver into bile and almost
+completely metabolized after 8 min. When injected intravenously, ICG binds to protein and usually reaches the nearest
+draining lymph node within 15 min [21, 22]. The ability of
+ICG-NIR fluorescence to detect metastatic lymph nodes in
+various types of malignancies has been extensively studied
+in several trials. However, it is important to note that the
+sensitivity of ICG-NIR fluorescence varies depending on the
+site of the primary malignant tumor. The sensitivity of ICG
+fluorescence is 50–100% for endometrial cancer and cervical cancer, 50–100% for gastric cancer, 75% for esophageal
+cancer, and 95–100% for breast cancer; the overall detection
+rate thereof is 88.6–100% [23–25]. Current evidence on the
+role of ICG in SLN imaging of penile cancer is limited to
+case series or relatively small, single-center cohort studies.
+This review included seven studies. Despite including all
+existing studies in this field, the total number of patients in
+these seven studies was only 638. According to the results of
+the analysis, we found that the application of ICG can help
+physicians identify the SLN tissue of penile cancer intraoperatively, with sensitivity up to 100%; however, it has low
+specificity for detecting tumor metastasis in SLN, with a
+maximum of 40% and a total of only 2%. Combining the
+
+
+Author Year Study type NO Mean age at Mean number of No. patients with lymph Reference test
+surgery lymph nodes node metastasis
+
+Yuan 2022 Prospectively 10 59 2.9 2 Pathology
+
+Markus zewski 2015 Prospectively 14 59.3 2.5 3 Pathology
+
+Hora 2021 N/A 24 N/A 8.5 9 Pathology
+
+Brouwer 2014 Prospectively 65 67 3.3 7 Pathology
+
+Ogilo 2020 Retrospective 400 69 3.3 70 Pathology
+
+Torbrand 2022 Prospectively 130 71 2.8 20 Pathology
+
+KleinJan 2016 Prospectively 5 66.2 3 1 Pathology
+## 1 3
+
+World Journal of Urology (2023) 41:2319–2326 2323
+
+**Fig. 2** Forest plots of ICG-NIR fluorescence imaging in SLN mapping and LNM in penile cancer
+
+
+PLR and NLR, ICG has a low diagnosis rate for SLN positivity and it is easy to obtain false negative results.
+The authors of the included studies used different injection doses, injection sites, imaging equipment, and imaging
+time, but these factors did not affect the imaging of ICG. No
+significant heterogeneity was observed among the groups
+except for specificity, which may be owing to the following
+reasons. First, the concentration of ICG required for NIR
+fluorescence imaging is low, and local injection did not
+result in systemic distribution of ICG. Therefore, there was
+no significant difference in the results with local injection.
+However, in the study by Hora et al., the total amount of
+ICG injected in one patient was 1.25 mg, so the lymph nodes
+were not visible. On the contrary, in the study by Torbrand
+et al.[12], using smaller doses and concentrations was still
+successful, which may be a source of heterogeneity for specificity. Second, the lymph of the penis flowed back from the
+head of the penis to the root and drained to both sides at the
+pubic symphysis site; therefore, no significant difference was
+found in the localization of bilateral inguinal lymph nodes
+at different injection sites in the included studies. Third, the
+location of the bilateral inguinal lymph nodes was relatively
+shallow, which did not require a high sensitivity and detection depth of imaging equipment. Moreover, the addition
+
+
+of pseudo-color to NIR imaging equipment could greatly
+improve detection with the human eye. Fourth, ICG was
+introduced into the nearest lymph node within about 15 min
+and remained in the lymph tissue for a long time, making it
+detectable within a long imaging window.
+Because ICG is used for lymph node localization and
+imaging through lymph node drainage, different tumor
+stages may lead to different degrees of lymphatic vessel
+obstruction, leading to different detection results. However,
+this aspect was not researched in the existing studies or this
+paper. Thus, further studies are needed to investigate the
+efficacy of ICG in patients with different tumor stages.
+Currently, blue dye and radioactive colloid are also used
+in the clinical imaging of SLNs in penile cancer. Ogilo compared ICG imaging with [99m] T radioactive imaging and blue
+dye imaging in terms of SLN metastasis detection in penile
+cancer. Compared with blue dye, ICG had a 39% and 16%
+higher detection rate of SLNs and positive lymph nodes,
+respectively. Compared with the gamma probe, ICG had a 2%
+lower detection rate (96% vs. 98%) and an equal detection rate
+(both 100%). Further studies with larger samples are needed.
+In addition, some studies did not count patients’ postoperative recurrence rate, which is important, because determining whether a tumor has LNM also depends on postoperative
+## 1 3
+
+2324 World Journal of Urology (2023) 41:2319–2326
+
+**Fig. 3** ICG intraoperative imaging SLNs in penile carcinoma. **a** series: skin is intact; **b** series: skin incision in seeking lymph node; **c** series:
+lymph nodes in vitro
+
+
+follow-up observation. Another limitation of our meta-analysis was the loss of this part of the postoperative recurrence
+data, leading to a low false negative rate in the final results.
+
+**Conclusion**
+
+Here, we investigated the use of ICG for SLN localization and imaging in penile cancer. The main finding was
+that ICG had a good recognition effect of SLNs in penile
+cancer, which could provide location information of lymph
+nodes to guide physicians in better performing lymph
+node excision. However, our findings also showed that
+the specificity and accuracy of judging whether there was
+tumor metastasis were very low. Another limitation of this
+study was that accuracy of the data was influenced by the
+injected dose. As a result, high-quality studies involving
+more patients are necessary before ICG imaging can be
+recommended as a standard test in daily clinical practice.
+## 1 3
+
+
+Further research is also needed to explore how different
+tumor stages affect the efficacy of ICG imaging and to
+compare it with other methods such as blue dye and radioactive colloid. This paper contributed to the existing literature by providing a systematic review and meta-analysis of
+ICG imaging in penile cancer and highlighting its potential
+benefits and challenges.
+
+**Supplementary Information** The online version contains supplemen[tary material available at https:// ​doi. ​org/ ​10. ​1007/ ​s00345- ​023- ​04485-x.](https://doi.org/10.1007/s00345-023-04485-x)
+
+**Author contributions** RZ: project development, data collection, manuscript writing. YZ: project development, data collection, data analysis.
+SD: data collection, data analysis. KP: project development, manuscript
+writing. XY: data collection. XW: manuscript writing.
+
+**Funding** This work was supported by the Special Fund for Research on
+National Major Research Instruments of China (Grant No. 62027824)
+and the Central Guidance on Local Science and Technology Development Fund of Shanxi Province (No. YDZJSX2021C010).
+
+World Journal of Urology (2023) 41:2319–2326 2325
+
+
+**Data Availability** Date related to this article can be obtained from the
+corresponding author on request.
+
+**Declarations**
+
+**Conflict of interest** The authors declare that they have no conflicts of
+interest.
+
+**Research involving human participants and/or animals** Research
+involving human participants.
+
+**Informed consent** Informed consent was obtained from the patients.
+
+**References**
+
+1. Shuguang W, Wenbiao R, Bichen X, Yi F, Yongjun J (2018) Prognostic factors in patients with penile cancer after surgical manage[ment. World J Urol. https:// ​doi. ​org/ ​10. ​1007/ ​s00345- ​017- ​2167-5](https://doi.org/10.1007/s00345-017-2167-5)
+2. Kroon BK, Lont AP, Olmos R, Nieweg OE, Horenblas S (2005)
+Morbidity of dynamic sentinel node biopsy in penile carcinoma. J
+[Urol 173(3):813–815. https:// ​doi. ​org/ ​10. ​1097/ ​01. ​ju. ​00001 ​56733. ​](https://doi.org/10.1097/01.ju.0000156733.99684.9c)
+[99684. ​9c](https://doi.org/10.1097/01.ju.0000156733.99684.9c)
+3. Gilmore DM, Khullar OV, Gioux S, Stockdale A, Frangioni JV,
+Colson YL, Russell SE (2013) Effective low-dose escalation of
+indocyanine green for near-infrared fluorescent sentinel lymph
+node mapping in melanoma. Ann Surg Oncol 20(7):2357–2363.
+[https:// ​doi. ​org/ ​10. ​1245/ ​s10434- ​013- ​2905-x](https://doi.org/10.1245/s10434-013-2905-x)
+4. Cabanas RMJC (1977) An approach for the treatment of penile
+[carcinoma. Cancer 39(2):456–466. https:// ​doi. ​org/ ​10. ​1002/ ​1097- ​](https://doi.org/10.1002/1097-0142(197702)39:2%3c456::aid-cncr2820390214%3e3.0.co;2-i)
+[0142(197702) ​39:2% ​3c456:: ​aid- ​cncr2 ​82039 ​0214% ​3e3.0. ​co;2-i](https://doi.org/10.1002/1097-0142(197702)39:2%3c456::aid-cncr2820390214%3e3.0.co;2-i)
+5. Warycha MA, Zakrzewski J, Ni Q, Shapiro RL, Berman RS, Pavlick AC, Polsky D, Mazumdar M, Osman I (2009) Meta-analysis
+of sentinel lymph node positivity in thin melanoma (< or = 1
+[mm). Cancer 115(4):869–879. https:// ​doi. ​org/ ​10. ​1002/ ​cncr. ​24044](https://doi.org/10.1002/cncr.24044)
+6. Miltenburg DM, Miller C, Karamlou TB, Brunicardi FC (1999)
+Meta-analysis of sentinel lymph node biopsy in breast cancer. J
+[Surg Res. https:// ​doi. ​org/ ​10. ​1006/ ​jsre. ​1999. ​5629](https://doi.org/10.1006/jsre.1999.5629)
+7. Hakenberg OW, Minhas S, Necchi A, Protzel C, Watkin N, R.
+Robinson (2022) EAU guidelines on penile cancer. Eur Assoc
+[Urol. https:// ​uroweb. ​org/ ​guide ​lines/ ​penile- ​cancer](https://uroweb.org/guidelines/penile-cancer)
+8. Nikitenko R, Romak O, Kvasha A, Koichev E, Vorotyntseva K
+(2022) Navigation surgery for intraoperative sentinel lymph node
+detection using icg in breast cancer patients. Georgian Med News
+333:57–60
+9. Xie D, Gu D, Lei M, Cai C, Zhong W, Qi D, Wu W, Zeng G, Liu
+Y (2023) The application of indocyanine green in guiding pros[tate cancer treatment. Asian J Urol 10(1):1–8. https:// ​doi. ​org/ ​10. ​](https://doi.org/10.1016/j.ajur.2021.07.004)
+[1016/j. ​ajur. ​2021. ​07. ​004](https://doi.org/10.1016/j.ajur.2021.07.004)
+10. Ramírez BM, Calatrava-Fons A, Gómez-Ferrer Á, Collado-Serra
+A, Domínguez-Escrig JL, Bertolo R, Rubio-Briones J (2019) ICG
+lymphography and fluorescence in pelvic lymphadenectomy for
+bladder and prostate cancer. Arch Esp Urol 72(8):831–841
+11. Yuan P, Yao K, Zhou Z, Liu J, Li C, Hou W, Tang Y, Hu S,
+Wang L (2022) “Light green up”: indocyanine green fluorescence
+imaging-guided robotic bilateral inguinal lymphadenectomy by
+the hypogastric subcutaneous approach for penile cancer. Eur Urol
+[Open Sci 45:1–7. https:// ​doi. ​org/ ​10. ​1016/j. ​euros. ​2022. ​08. ​020](https://doi.org/10.1016/j.euros.2022.08.020)
+12. Torbrand C, Warnolf Å, Glombik D, Davidsson S, Carlsson J,
+Baseckas G, Håkansson U, Trägårdh E, Geijer H, Liedberg F et al
+(2022) Sentinel node identification with hybrid tracer-guided and
+conventional dynamic sentinel node biopsy in penile cancer: a
+prospective study in 130 patients from the two national referral
+
+
+[centres in Sweden. Eur Urol Oncol. https:// ​doi. ​org/ ​10. ​1016/j. ​euo. ​](https://doi.org/10.1016/j.euo.2022.09.004)
+[2022. ​09. ​004](https://doi.org/10.1016/j.euo.2022.09.004)
+13. Markuszewski M, Polom W, Cytawa W, Czapiewski P, Lass P,
+Matuszewski M (2015) Comparison of real-time fluorescent indocyanine green and (99m)Tc-nanocolloid radiotracer navigation
+in sentinel lymph node biopsy of penile cancer. Clin Genitourin
+[Cancer 13(6):574–580. https:// ​doi. ​org/ ​10. ​1016/j. ​clgc. ​2015. ​06. ​005](https://doi.org/10.1016/j.clgc.2015.06.005)
+14. Kleinjan GH, Van Den Berg NS, Van Oosterom MN, Wendler
+T, Miwa M, Bex A, Hendricksen K, Horenblas S, Van Leeuwen
+FWB (2016) Toward (hybrid) navigation of a fluorescence camera
+[in an open surgery setting. J Nucl Med 57(10):1650–1653. https:// ​](https://doi.org/10.2967/jnumed.115.171645)
+[doi. ​org/ ​10. ​2967/ ​jnumed. ​115. ​171645](https://doi.org/10.2967/jnumed.115.171645)
+15. Hora M, Travnicek I, Nykodymova S, Ferda J, Kacerovska D,
+Michalova K, Hes O, Minhas S (2021) VEILND (video endoscopic inguinal lymph node dissection) with florescence indocyanine green (ICG): a novel technique to identify the sentinel lymph
+node in men with >= pT1G2 and cN0 penile cancer. Contrast
+[Media Mol Imaging. https:// ​doi. ​org/ ​10. ​1155/ ​2021/ ​55757 ​30](https://doi.org/10.1155/2021/5575730)
+16. Dell’Oglio P, de Vries HM, Mazzone E, KleinJan GH, Donswijk
+ML, van der Poel HG, Horenblas S, van Leeuwen FWB, Brouwer OR (2020) Hybrid indocyanine green-(99m)Tc-nanocolloid
+for single-photon emission computed tomography and combined
+radio- and fluorescence-guided sentinel node biopsy in penile cancer: results of 740 inguinal basins assessed at a single institution.
+[Eur Urol 78(6):865–872. https:// ​doi. ​org/ ​10. ​1016/j. ​eururo. ​2020. ​](https://doi.org/10.1016/j.eururo.2020.09.007)
+[09. ​007](https://doi.org/10.1016/j.eururo.2020.09.007)
+17. Brouwer OR, Van Den Berg NS, Mathéron HM, Van Der Poel
+HG, Van Rhijn BW, Bex A, Van Tinteren H, Valdés Olmos RA,
+Van Leeuwen FWB, Horenblas S (2014) A hybrid radioactive and
+fluorescent tracer for sentinel node biopsy in penile carcinoma as
+a potential replacement for blue dye. Eur Urol 65(3):600–609.
+[https:// ​doi. ​org/ ​10. ​1016/j. ​eururo. ​2013. ​11. ​014](https://doi.org/10.1016/j.eururo.2013.11.014)
+18. Cassinotti E, Boni L, Baldari L (2023) Application of indocyanine green (ICG)-guided surgery in clinical practice: lesson to
+learn from other organs-an overview on clinical applications and
+[future perspectives. Updates Surg 75(2):357–365. https:// ​doi. ​org/ ​](https://doi.org/10.1007/s13304-022-01361-y)
+[10. ​1007/ ​s13304- ​022- ​01361-y](https://doi.org/10.1007/s13304-022-01361-y)
+19. Van Den Hoven P, Van Den Berg SD, Van Der Valk JP, Van Der
+Krogt H, Van Doorn LP, Van De Bogt KEA, Van Schaik J, Schepers A, Vahrmeijer AL, Hamming JF et al (2022) Assessment of
+tissue viability following amputation surgery using near-infrared
+fluorescence imaging with indocyanine green. Ann Vasc Surg
+[78:281–287. https:// ​doi. ​org/ ​10. ​1016/j. ​avsg. ​2021. ​04. ​030](https://doi.org/10.1016/j.avsg.2021.04.030)
+20. Yamamoto M, Nishimori H, Handa T, Fukutomi T, Kihara K,
+Tashiro M, Sato T, Orihashi K (2017) Quantitative assessment
+technique of HyperEye medical system angiography for coronary
+[artery bypass grafting. Surg Today 47(2):210–217. https:// ​doi. ​org/ ​](https://doi.org/10.1007/s00595-016-1369-6)
+[10. ​1007/ ​s00595- ​016- ​1369-6](https://doi.org/10.1007/s00595-016-1369-6)
+21. Landsman ML, Kwant G, Mook GA, Zijlstra WG (1976) Lightabsorbing properties, stability, and spectral stabilization of indo[cyanine green. J Appl Physiol 40(4):575–583. https:// ​doi. ​org/ ​10. ​](https://doi.org/10.1152/jappl.1976.40.4.575)
+[1152/ ​jappl. ​1976. ​40.4. ​575](https://doi.org/10.1152/jappl.1976.40.4.575)
+22. De Grand AM, Lomnes SJ, Lee D, Pietrzykowski M, Ohnishi S,
+Morgan TG, Gogbashian A, Laurence RG, Frangioni JVJ (2006)
+Tissue-like phantoms for near-infrared fluorescence imaging
+system assessment and the training of surgeons. J Biomed Opt
+[11(1):014007. https:// ​doi. ​org/ ​10. ​1117/1. ​21705 ​79](https://doi.org/10.1117/1.2170579)
+23. Rocha A, Domínguez AM, Lécuru F, Bourdel N (2016) Indocyanine green and infrared fluorescence in detection of sentinel
+lymph nodes in endometrial and cervical cancer staging - a systematic review. Eur J Obstetr Gynecol Reprod Biol 206:213–219.
+[https:// ​doi. ​org/ ​10. ​1016/j. ​ejogrb. ​2016. ​09. ​027](https://doi.org/10.1016/j.ejogrb.2016.09.027)
+24. Xiong L, Gazyakan E, Yang W, Engel H, Hünerbein M, Kneser
+U, Hirche C (2014) Indocyanine green fluorescence-guided sentinel node biopsy: a meta-analysis on detection rate and diagnostic
+## 1 3
+
+2326 World Journal of Urology (2023) 41:2319–2326
+
+
+[performance. Eur J Surg Oncol 40(7):843–849. https:// ​doi. ​org/ ​10. ​](https://doi.org/10.1016/j.ejso.2014.02.228)
+[1016/j. ​ejso. ​2014. ​02. ​228](https://doi.org/10.1016/j.ejso.2014.02.228)
+25. Pan SD, Zhu LL, Chen M, Xia P, Zhou Q (2016) Weight-based
+dosing in medication use: what should we know? Patient Prefer
+[Adher 10:549–560. https:// ​doi. ​org/ ​10. ​2147/ ​ppa. ​S1031 ​56](https://doi.org/10.2147/ppa.S103156)
+
+**Publisher's Note** Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+## 1 3
+
+
+Springer Nature or its licensor (e.g. a society or other partner) holds
+exclusive rights to this article under a publishing agreement with the
+author(s) or other rightsholder(s); author self-archiving of the accepted
+manuscript version of this article is solely governed by the terms of
+such publishing agreement and applicable law.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

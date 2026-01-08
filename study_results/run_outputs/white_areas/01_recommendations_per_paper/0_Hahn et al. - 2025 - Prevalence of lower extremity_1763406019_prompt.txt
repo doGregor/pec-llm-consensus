@@ -1,0 +1,613 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    JPRAS Open 43 (2025) 187–199
+
+Contents lists available at [ScienceDirect](http://www.ScienceDirect.com)
+# JPRAS Open
+
+journal homepage: [www.elsevier.com/locate/jpra](http://www.elsevier.com/locate/jpra)
+
+Review Article
+## Prevalence of lower extremity edema following inguinal lymphadenectomy: A systematic review and meta-analysis
+
+Brett A. Hahn [a][,][∗], Milan C. Richir [b], Arjen J. Witkamp [b], Tim de
+Jong [c], David D. Krijgh [a]
+
+a *Department* *of* *Plastic* *and* *Reconstructive* *Surgery* ***,*** *University* *Medical* *Center* *Utrecht* ***,*** *Utrecht* ***,*** *The*
+*Netherlands*
+b *Department* *of* *Oncologic* *Surgery* ***,*** *University* *Medical* *Center* *Utrecht* ***,*** *Utrecht* ***,*** *The* *Netherlands*
+c *Department* *of* *Plastic* *and* *Reconstructive* *Surgery* ***,*** *Radboud* *University* *Medical* *Center* ***,*** *Nijmegen* ***,*** *The*
+*Netherlands*
+
+
+a r t i c l e i n f o
+
+*Article* *history:*
+Received 28 August 2024
+Accepted 10 November 2024
+Available online 17 November 2024
+
+*Keywords:*
+Lower extremity lymphedema
+Inguinal
+Lymph node dissection
+Lymphadenectomy
+Edema
+
+Prevalence
+
+
+a b s t r a c t
+
+*Background:* Lower extremity lymphedema (LEL) can develop because of inguinal lymph node dissection in the treatment of gynecologic, genitourinary, and dermatological malignancies. To optimize patient counseling and patient selection for microsurgical interventions aimed at preventing or treating LEL, its prevalence and
+associated patient characteristics must be accurately documented.
+This systematic review and meta-analysis provides a comprehensive overview of literature on the reported prevalence of LEL in patients undergoing inguinal lymphadenectomy.
+*Methods:* From Embase, PubMed, and Web of Science databases, 23
+studies were identified that met the inclusion criteria. This review
+was conducted in accordance with the preferred reporting items
+for systematic reviews and meta-analyses guidelines. Risk of bias
+was assessed using the Risk of Bias in Non-randomized Studies-of
+Exposure tool.
+*Results:* Random-effects meta-analyses of proportions estimated a
+24% (95% confidence interval [CI]: 17-31) pooled prevalence of LEL
+
+
+*Abbreviations:* LEL, Lower extremity lymphedema; PRISMA, Preferred Reporting Items for Systematic Reviews and MetaAnalyses; ROBINS-E, Risk of Bias in Non-randomized Studies-of Exposure; LVA, lymphaticovenous anastomosis; VLNT, vascularized lymph node transfer; BMI, body mass index.
+
+∗ Corresponding author.
+
+*E-mail* *address:* [b.a.hahn@umcutrecht.nl](mailto:b.a.hahn@umcutrecht.nl) (B.A. Hahn).
+
+[https://doi.org/10.1016/j.jpra.2024.11.001](https://doi.org/10.1016/j.jpra.2024.11.001)
+2352-5878/© 2024 The Author(s). Published by Elsevier Ltd on behalf of British Association of Plastic, Reconstructive and
+Aesthetic Surgeons. This is an open access article under the CC BY license [(http://creativecommons.org/licenses/by/4.0/)](http://creativecommons.org/licenses/by/4.0/)
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+with a high degree of heterogeneity between the studies ( *I* *[2]* =96%,
+*p* *<* 0.01). Subgroup analysis revealed significant differences in LEL
+prevalence based on the indications for inguinal lymphadenectomy.
+The pooled LEL prevalence was 25.75% (95% CI: 0.00-96.16) for
+patients who underwent lymphadenectomy for melanoma, 12.22%
+(95% CI: 1.03-23.40) for penile cancer, 30.96% (95% CI: 21.08-40.84)
+for vulvar cancer, and 13.62% (95% CI: 0.00-51.02) for miscellaneous
+indications.
+
+*Conclusion:* The findings from this study emphasize the importance of considering malignancy etiology when assessing the risk
+of LEL following inguinal lymphadenectomy. This knowledge could
+aid physicians in informing patients about the risk of LEL, while
+also facilitating proper patient selection for microsurgical interventions.
+
+© 2024 The Author(s). Published by Elsevier Ltd on behalf of
+British Association of Plastic, Reconstructive and Aesthetic
+Surgeons.
+This is an open access article under the CC BY license
+[(http://creativecommons.org/licenses/by/4.0/)](http://creativecommons.org/licenses/by/4.0/)
+
+**Introduction**
+
+Lower extremity lymphedema (LEL) is a common condition that develops following inguinal lymph
+node dissection, as part of the treatment for gynecologic, genitourinary, and dermatological malignancies. [1] The accumulation of interstitial fluid from impaired lymphatic drainage often leads to functional
+disability, pain, and discomfort. [2][,][3] Limitations in the normal range of motion, psychological distress,
+and social isolation in patients with LEL can significantly impact their quality of life. [4][,][5]
+
+Although diagnosis of secondary lymphedema in the lower extremity is typically made through
+clinical presentation, several measurement techniques and staging definitions have led to a wide range
+of reported prevalence rates. [6] Furthermore, methods for measuring the degree of lymphedema, such
+as circumference measurements of the lower extremity or water displacement, are heterogeneous in
+consistency and only accurate when properly performed. [7] Improved patient counseling and thorough
+follow-up assessment following lymphadenectomy depend on the physicians’ understanding of which
+patients are at the greatest risk for LEL. Without clear insight into the prevalence of LEL and associated patient characteristics, a physicians’ ability to tailor care and guide decision-making for diverse
+populations remains limited.
+Although the initial management of LEL consists of a combination of physical and compression
+therapies, the high costs and time-consuming trajectory associated with this approach may weaken
+patient compliance. [8–10] Furthermore, conservative therapy does not address the underlying cause of
+LEL. Emerging microsurgical interventions using lymphaticovenous anastomosis (LVA) or vascularized
+lymph node transfer (VLNT) show promising results in minimizing the degree of edema development. [11][,][12] LVA facilitates the bypass of obstructed lymphatic vessels through anastomoses to nearby
+venules, whereas VLNT has the potential to restore physiologic lymphatic fluid drainage function of
+the affected lower extremity.
+However, the efficacy of reconstructive procedures at optimizing the physical benefits and reducing the risk of potential complications depends on early detection and diagnosis of lymphedema. [13][,][14]
+
+Capturing the true prevalence of LEL is crucial to understand its impact on health care and which
+patient groups face the greatest risk of developing this condition following inguinal lymphadenectomy. Proper selection of patients who could benefit from microsurgical interventions could also be
+improved if the physicians are better guided by the true prevalence of LEL and accurately documented
+associated characteristics. Through a systematic review and meta-analysis, this study aimed to provide
+
+188
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+a comprehensive overview of published literature on the prevalence of LEL in patients who undergo
+inguinal lymphadenectomy.
+
+**Methods**
+
+*Literature* *search*
+
+A systematic literature review of electronically available publications was performed on April 19,
+2023. This review was conducted in accordance with the preferred reporting items for systematic
+reviews and meta-analyses (PRISMA) guidelines [15], and was registered in the international prospective register of systematic reviews (PROSPERO) under the registration number: CRD42023462628. [16]
+
+No amendments were made to the registered protocol during the course of this study. Two reviewers (B.H. and D.K.) searched three online databases (Embase, PubMed, and Web of Science) using a
+search string developed with the help of a librarian (Supplemental File 1). All studies returned from
+the search were independently reviewed and included if the prevalence of lower extremity edema in
+patients who underwent an inguinal lymphadenectomy was reported. Studies investigating secondary
+outcomes of lymphadenectomies other than inguinal were excluded, as were those that reported lymphedema in the upper extremity. Duplicates, conference abstracts, systematic reviews, meta-analyses,
+case reports, nonclinical studies, non-English studies, and studies with sample sizes less than 40 operated groins were further excluded. A re-run of the original search was conducted prior to submission
+for publication to ensure that all studies meeting the aforementioned inclusion criteria were included
+for analysis.
+
+*Data* *extraction*
+
+The following variables were extracted from the included articles into a standardized spreadsheet:
+title, authors, year of publication, country of origin, study design, sample size, age, body mass index
+(BMI), sex distribution, lymphadenectomy indication, malignancy stage, (neo)adjuvant therapy, surgical intervention and technique, laterality of lymph node dissection, number of lymph nodes resected,
+lower extremity lymphedema prevalence, lymphedema definition, data collection and edema measurement methods, follow-up period, and surgical complications. Two reviewers (B.H. and D.K.) independently extracted the data from articles, figures, and tables. Accuracy of entered data, as well as
+any uncertainties or disagreements were resolved by a third reviewer.
+
+*Quality* *assessment*
+
+The Risk Of Bias In Non-randomized Studies-of Exposure (ROBINS-E) tool was used to assess the
+quality of the included studies. [17] Each of the seven domains of bias included in the ROBINS-E tool
+were addressed using a series of signaling questions that aimed to gather important information on
+the quality of the study. The risk of bias, predicted direction of bias, and whether the risk of bias
+sufficiently threatened conclusions about whether the exposure to inguinal lymphadenectomy had
+a considerable effect on lower extremity edema as an outcome were considered before an overall
+judgment was made for each article. Studies were classified as having either low, some concerns,
+high, or very high risk of bias. Risk of bias was visualized using the Risk-of-bias VISualization (robvis)
+tool. [18]
+
+*Statistical* *analysis*
+
+Random-effects meta-analyses of proportions were performed on all included studies to quantify the prevalence of lower extremity edema following inguinal lymphadenectomy. Forest plots were
+generated to visualize the heterogeneity between studies. Subgroup analyses were performed using
+random-effects models to investigate the potential sources of effect size variation between the studies.
+Studies were pooled into subgroups according to the lymphadenectomy indication, age of participants,
+
+189
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+**Figure** **1.** Preferred reporting items for systematic reviews and meta-analyses (PRISMA) flow diagram of systematic database
+search.
+
+saphenous vein-sparing surgical technique, lymph node yield, adjuvant radiotherapy exposure, followup period, data collection method, unit of LEL reporting, and study risk of bias. A *Q* -test was used to
+determine if LEL prevalence differed significantly between the various subgroups. All statistical analyses were performed using the meta package [19] in R Statistical Software (v4.3.1; R Core Team 2023). [20] A
+two-sided *p* -value *<* 0.05 was considered significant. The dataset and script used to perform analyses
+are available at: [https://osf.io/nd742/?view_only=ac06c0451d9944fd85fb7fe707dd590c.](https://osf.io/nd742/?view_only=ac06c0451d9944fd85fb7fe707dd590c)
+
+**Results**
+
+*Study* *characteristics*
+
+After the removal of duplicates, a total of 853 original articles were identified in PubMed, Embase,
+and Web of Science databases. Following the initial title/abstract screening, 92 articles underwent fulltext review, and 23 articles that met all inclusion and exclusion criteria were included. [21–43] The search
+string and review methodology are described in the PRISMA flow diagram in Figure 1.
+All included studies were published between 2000 and 2023, and a total number of 2,376 patients
+with ages ranging from 23 to 94 years were included in this review (Table 1). Three prospective,
+1 cross-sectional, and 19 retrospective studies were included across 13 different countries. Patients
+underwent inguinal lymphadenectomy for vulvar cancer in 13 studies, penile cancer in 5 studies,
+melanoma in 2 studies, and for multiple indications in 3 studies. The number of lymph nodes resected
+during lymphadenectomy varied greatly between studies, while 7 studies did not report nodal yield
+
+190
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+**Table** **1**
+
+Overview of included studies.
+
+191
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+**Table** **2**
+
+Subgroup analyses. Studies pooled according to the indications for lymphadenectomy, age, surgical technique, nodal yield, exposure to adjuvant radiotherapy, follow-up period, data collection method, unit in which LEL was reported, and study risk of
+bias.
+
+Variable Subgroup N studies LEL prevalence 95% CI *I* *[2]* *p* *subgroup*
+
+Indication *Melanoma* 2 25.75% 0.00-96.16 47.40% 0.0115 [a]
+
+*Penile* *cancer* 5 12.22% 1.03-23.40 95.80%
+
+*Vulvar* *cancer* 13 30.96% 21.08-40.84 94.40%
+
+*Miscellaneous* 3 13.62% 0.00-51.02 94.20%
+
+Age *<65* *years* 16 20.56% 13.20-27.92 94.80% 0.0506
+*>65* *years* 6 34.53% 14.09-54.97 96.40%
+*Not* *reported* 1 13.98% 6.93-21.03 —
+Surgical technique *Saphenous-sparing* 5 14.19% 2.30-2.60 85.00% 0.0551
+*Saphenous-resecting* 22 24.32% 17.90-30.75 94.80%
+Nodal yield *<10* *nodes* 7 21.78% 9.65-33.90 92.90% 0.7026
+*10* *nodes* 2 25.32% 0.00-100.0 91.80%
+
+*>10* *nodes* 7 19.69% 4.64-34.75 95.90%
+
+*Not* *reported* 7 30.54% 12.32-48.76 97.20%
+Adjuvant radiotherapy *Yes* 10 27.27% 15.37-39.17 96.30% 0.3957
+
+*No* 13 21.46% 11.90-31.01 95.90%
+
+Follow-up *<12* *months* 3 20.05% 0.00-67.22 95.50% 0.4964
+*12* *months* 1 32.08% 19.51-44.64 —
+
+*>12* *months* 19 24.26% 16.36-32.15 96.30%
+
+Data collection *Clinical* 2 19.03% 0.00-100.0 98.10% 0.9491
+
+*Medical* *records* 19 24.71% 17.32-32.09 94.90%
+
+*Questionnaire* 2 23.22% 0.00-100.0 97.30%
+
+LEL units *Groins* 13 18.95% 8.96-28.93 96.30% 0.0568
+
+*Patients* 10 30.81% 21.28-40.33 91.30%
+
+Risk of bias *Very* *high* 3 17.59% 9.83-25.35 0.00% 0.0512
+*High* 2 46.55% 0.00-100.0 95.40%
+
+*Some* *concerns* 13 18.94% 9.66-28.22 94.10%
+
+*Low* 5 30.72% 14.32-47.13 91.90%
+
+a *p* *<* 0.05.
+LEL, lower extremity lymphedema.
+
+at all. Five studies carried out inguinal lymphadenectomy using the saphenous vein sparing surgical
+technique. Patients underwent adjuvant radiotherapy in 10 studies. Most studies reported outcomes
+with a follow-up period *>* 12 months (n=19). Quality assessment of each study using the ROBINS-E
+tool identified 3, 2, 13, and 5 studies as very high risk, high risk, some concerns, and low risk of bias,
+respectively (Figure 2).
+
+*Prevalence* *of* *lower* *extremity* *lymphedema*
+
+All studies reported LEL prevalence in the total number of patients who underwent inguinal lymphadenectomy, or the total number of operated groins. The definition of and methods by which
+LEL was measured or determined differed greatly between the studies. The LEL prevalence reported
+ranged from 3% to 62% (Figure 3). The pooled prevalence in this meta-analysis was 24% (95% CI: 17-31)
+with a high degree of heterogeneity among the studies *(I* *[2]* =96%, *p* *<* 0.01).
+Subgroup analysis revealed significant differences in LEL prevalence based on the indication for
+inguinal lymphadenectomy (Table 2). The pooled LEL prevalence was 25.75% (95% confidence interval [CI]: 0.00-96.16) for studies in which patients underwent lymphadenectomy for melanoma, 12.22%
+(95% CI: 1.03-23.40) for penile cancer, 30.96% (95% CI: 21.08-40.84) for vulvar cancer, and 13.62% (95%
+CI: 0.00-51.02) for miscellaneous indications. No statistically significant differences were found between the subgroups pooled by age, surgical technique, lymph node yield, adjuvant radiotherapy,
+follow-up period, data collection method, unit of LEL reporting, or study risk of bias. Although the
+*p* -values of the *Q* -test between age ( *p* =0.0506), surgical technique ( *p* =0.0551), LEL units ( *p* =0.0568),
+and risk of bias subgroups ( *p* =0.0512) were larger than the conventional significance threshold ( *p* *<*
+0.05), results still indicate a difference on a trend level.
+
+192
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+**Figure** **2.** Risk of bias assessment. Overall judgment made on the basis of seven domains (D1-7) in the Risk of Bias in Nonrandomized Studies-of Exposure (ROBINS-E) tool. Visualization generated using the Risk-of-bias VISualization (robvis) tool.
+
+193
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+**Figure** **3.** Forest plot of lower extremity lymphedema prevalence.
+
+**Discussion**
+
+This systematic review aimed to provide a comprehensive overview of the published literature on
+LEL prevalence in patients who underwent inguinal lymphadenectomy. Meta-analyses were designed
+to further elucidate the factors associated with LEL to better characterize patients at greatest risk for
+developing the condition following surgery. The pooled prevalence of LEL was estimated to be 24%
+(95% CI: 17-31). Patients who underwent inguinal lymphadenectomy in the treatment for vulvar cancer had higher LEL prevalence (30.96%) than those treated for melanoma (25.75%) or penile cancer
+(12.22%). Although there was a high degree of heterogeneity among the studies, no statistically significant differences were found in LEL prevalence between subgroups pooled by age, lymph node yield,
+adjuvant radiotherapy exposure, follow-up period, data collection method, unit of LEL reporting, or
+study risk of bias.
+
+*Risk* *factors* *for* *lymphedema*
+
+The current subgroup analysis showed statistically significant differences in LEL prevalence between patients with various indications for lymphadenectomy based on malignancy etiology. Previous
+literature has reported similar lymphedema prevalence rates that varied by the type of malignancy
+independent of treatment. [44][,][45] The risk of developing LEL and potential impact on the quality of life
+may be important to discuss with patients undergoing lymphadenectomy, especially those with gynecologic malignancies, such as vulvar cancer. Among the 60 patients who underwent lymphadenectomy
+for vulvar cancer in Farrell et al., [28] prevalence of LEL was 43.33%, which was considered present if the
+patients reported “moderate” or “severe” swelling by means of a questionnaire. Contrarily, Koifman
+et al. [33] reported LEL prevalence in 4.12% of patients who underwent lymphadenectomy for penile cancer using questionnaires at follow-up. Data collected on lymphedema from medical records, as done
+
+194
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+by Hinten et al. [32] and Mattson et al., [34] reported LEL prevalence in 48.75% and 42.37% of patients who
+underwent lymphadenectomy for vulvar cancer, respectively.
+Though not statistically significant, clinical differences were observed between LEL prevalence according to the patients’ age. A greater proportion of patients older than 65 years with lymphedema
+suggests that they may benefit from microsurgical interventions to minimize the potential impact
+of secondary lymphedema. Among patients with a median age of 74 years, LEL prevalence following lymphadenectomy was reported by Rahm et al. [37] at 37.50%. Similarly, Rodríguez-Trujillo et al. [38]
+
+reported LEL prevalence of 33.33% in their patient population with a median age of 71.3 years. However, Hinten et al. [32] reported younger age as an independent risk factor for developing LEL. This could
+be explained by the greater change in postoperative movement restrictions experienced by younger
+women compared to their older counterparts who already had a degree of immobility attributed to
+other conditions, such as cardiovascular disease.
+Surgical variations of inguinal lymphadenectomy, such as saphenous vein-sparing, have been suggested to reduce the postoperational morbidity associated with LEL. Although resection of the saphenous vein has been documented to disrupt collateral lymphatic and vascular channels, the technique
+remains in practice to achieve optimal oncologic survival outcomes. [48] Although subgroup analysis revealed no statistically significant difference in LEL between the saphenous-sparing and saphenousresecting surgical techniques, the lower pooled prevalence among patients with preserved saphenous
+vein compared to those with resected saphenous vein (14.19% vs. 24.32%) could be clinically relevant. Although the follow-up times were comparable between the five studies that employed the
+saphenous-sparing technique, the heterogeneity between lymphadenectomy indication calls into question the generalizability of these findings. Several studies [29][,][42][,][43] reported statistically significant lower
+prevalence of LEL in patients who underwent lymph node dissection with the saphenous-sparing technique for penile and vulvar cancer. However, Baur et al. [21] could not confirm significant differences in
+LEL attributed to the sparing of the saphenous vein for patients treated for melanoma. The prospective
+study conducted by Rageh et al. [36] only implemented the saphenous-sparing technique, and therefore
+did not have a group to compare LEL prevalence in patients with resected saphenous vein. Though
+not a primary outcome of this review, patient survival rates were not found in any of the five studies to be closely related to whether the saphenous vein was spared. Furthermore, none of the five
+studies reported significant differences in local or distant tumor recurrence rates among the patients
+according to the surgical technique they were subjected to. More direct comparative data on patients
+undergoing lymphadenectomy for a diverse range of indications are needed to investigate the longterm outcomes of saphenous-sparing surgery on LEL prevalence in relation to oncologic outcomes.
+Previous studies identified patients who received radiotherapy following lymphadenectomy as being at a greater risk of developing LEL than those who do not. [46] Although subgroup analysis demonstrated no statistically significant difference in LEL prevalence among the studies in which the patients
+were exposed to adjuvant radiotherapy, the pooled prevalence was higher. At an individual study level,
+Cirik et al. [26] reported higher but not statistically significant higher LEL prevalence among patients
+who received adjuvant radiotherapy. Early postoperative infections following lymphadenectomy have
+also been shown to increase the risk of lymphedema. [47] Subgroup analysis was not possible as all studies did not report the postoperative complication rates separately for those who did or did not develop
+LEL. Among all patients who developed LEL, Gitas et al. reported that ≥50% experienced early postoperative complications, such as lymphocele or wound dehiscence. Whereas Soliman et al. [40] found that
+patients with early LEL often had wound cellulitis in the same groin, such postoperative complications
+did not correlate with the development of long-term LEL. Although obesity is a well-documented independent risk factor for lymphedema, [47] most studies in this review did not report BMI of the patient
+population. Among the studies that did, Cirik et al. [26] found greater LEL prevalence among those with
+BMIs *>* 30 kg/m [2] . The impact of obesity on LEL rates following inguinal lymphadenectomy, however,
+remains to be thoroughly studied in the literature.
+
+*Describing* *lymphedema*
+
+Although this review was not designed to analyze the diagnostic methods of lymphedema, the
+heterogeneous ways in which LEL was described across the studies cannot be ignored. The onset of
+
+195
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+lymphedema following lymphadenectomy is typically characterized by slow progressive swelling of
+the lower extremity, whereby patients may experience aching pain, heaviness, or tightness. [49] Chronic
+lymphedema was assumed by Baur et al. [21] when the patients showed typical signs during physical
+examination or presented with complaints, such as swollen legs. Swelling may be referred to as “soft”
+or “pitting,” in which excess interstitial fluid is displaced in response to applying local pressure. [47]
+
+Minor edema was considered by Bevan-Thomas et al. [25] as mild to moderate pitting, whereas major
+edema interfered with the patients’ ambulation.
+Circumferential measurements and volume estimations of the lower extremities are among the
+primary methods used to describe LEL severity. Lymphedema is considered by the American Physical
+Therapy Association as “mild” if the maximum difference between the affected and contralateral limb
+is *<* 3 cm, “moderate” if the difference is between 3-5 cm, and “severe” *>* 5 cm. [50] According to the
+International Society of Lymphology (ISL), LEL is considered mild if the volume differences between
+limbs are *<* 20%, moderate between 20-40%, and severe if *>* 40%. [51] LEL was defined by Rageh et al. [36]
+
+as a difference of ≥7% in all circumferential measurements taken of the lower extremity. Although
+Rodríguez-Trujillo et al. [38] considered that LEL was present when the limb circumference or volume
+increased one year after lymphadenectomy, no methods were described on how the measurements
+were taken. Standardizing definitions and measurement methods for LEL severity could aid physicians’
+decisions on how best to manage lymphedema.
+
+*Management* *of* *lower* *extremity* *lymphedema*
+
+Although LEL can be successfully managed with conservative treatment measures, it cannot be
+cured. Management typically consists of a combination of therapeutic options aimed at improving
+patient comfort and function by reducing the limb volume. [8–10] Compression therapy with various
+bandages and compression garments, as well as physical therapy with lymphatic drainage and decongestive therapy are best administered in clinics with therapists trained in lymphedema treatment.
+Some studies in this review considered lymphedema in patients who were referred to such clinics by
+their physician. [23][,][29] Other studies reported lymphedema in patients who required elastic bandages,
+compression stockings, or pneumatic compression therapy. [32][,][37]
+
+A growing body of evidence supports the efficacy of microsurgical intervention in the treatment
+of secondary lymphedema. Despite the need for more long-term research, postoperative outcomes
+between LVA and VLNT appear to be similarly positive for reduction in limb volume and patientreported gains in function. [52–54] Preliminary reports of prophylactic microsurgical interventions suggest that LVA could also be an effective strategy aimed at preventing secondary lymphedema following lymphadenectomy. [55] Further investigation is needed to elucidate in which patients LVA or VLNT
+could be a feasible prophylactic option with the greatest benefit. No studies in this literature review
+reported any prophylactic or therapeutic microsurgical interventions for LEL in patients who underwent inguinal lymphadenectomy.
+
+*Strengths* *and* *limitations*
+
+Although the retrospective nature of several studies analyzed in this review allowed for the inclusion of large sample sizes across several years, it also proved to be a significant limitation. The quality and completeness of data retrieved from the medical records were heterogeneous. Some studies
+did not report the BMI of the participants [22,][23][,][25][,][28][,][31][,][33–36][,][38–40][,][42][,][43], which could have further elucidated the impact of obesity on LEL following lymphadenectomy. Furthermore, data retrieved from
+medical records did not always disclose how lymphedema was defined or measured. Studies that did
+describe how lymphedema was considered were not consistent in the definitions and measurements
+employed. This was reflected in the number of studies that either reported LEL prevalence among
+patients [21][,][24][,][26][,][28][,][30][–][32][,][34][,][37][,][38] or per operated groin [22][,][23][,][25][,][27][,][29][,][33][,][35][,][36][,][39–43] . Although the *p* -value of
+the *Q-* test between these groups was not statistically significant, results still indicated a difference on
+a trend level. Similar results were observed for subgroup analysis of studies according to their risk of
+bias. Studies with high risk of bias [21][,][29][,][40] were evaluated as such using the ROBINS-E tool when the
+
+196
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+complete data on LEL were not available for all participants who underwent inguinal lymphadenectomy. As the missing data could have considerably influenced the difference in the estimated effect
+of exposure on the outcome, the overall risk of bias in these studies was very high. To produce the
+most accurate estimation of LEL following inguinal lymphadenectomy, common units of measurement
+across studies and sufficient follow-up of all study participants are needed.
+
+**Conclusion**
+
+The prevalence of LEL in patients who undergo inguinal lymphadenectomy is estimated to be 24%.
+A higher prevalence was identified in patients for whom inguinal lymphadenectomy was indicated
+as a treatment for vulvar cancer. Patients over the age of 65 years may also be at a greater risk
+for developing LEL following inguinal lymphadenectomy. Awareness among physicians of the prevalence of LEL and characteristics of those most at risk could improve patient counseling and strengthen
+how thoroughly follow-up assessments are conducted. This information can help patient selection for
+preventive and therapeutic microsurgical interventions by identifying those at the greatest risk for
+developing LEL.
+
+**Funding**
+
+None.
+
+**Ethical** **approval**
+
+Not required.
+
+**Conflict** **of** **interest**
+
+No authors of this study report disclosure of any commercial or personal interest in the subject of
+study or of the source of any financial or material support that could bias this work.
+
+**Supplementary** **materials**
+
+Supplementary material associated with this article can be found, in the online version, at doi:
+10.1016/j.jpra.2024.11.001.
+
+**References**
+
+1. Swan MC, Furniss D, Cassell OCS. Surgical management of metastatic inguinal lymphadenopathy. *BMJ* .
+2004;329(7477):1272–1276. [doi:10.1136/bmj.329.7477.1272.](https://doi.org/10.1136/bmj.329.7477.1272)
+2. Warren AG, Brorson H, Borud LJ, Lymphedema Slavin SA. *Ann* *Plast* *Surg* . 2007;59(4):464–472. doi:10.1097/01.sap.
+0000257149.42922.7e.
+3. Grada AA, Lymphedema Phillips TJ. *J* *Am* *Acad* *Dermatol* . 2017;77(6):1009–1020. [doi:10.1016/j.jaad.2017.03.022.](https://doi.org/10.1016/j.jaad.2017.03.022)
+4. Kim SI, Lim MC, Lee JS, et al. Impact of lower limb lymphedema on quality of life in gynecologic cancer survivors after
+pelvic lymph node dissection. *Eur* *J* *Obstet* *Gynecol* *Reprod* *Biol* . 2015;192:31–36. [doi:10.1016/j.ejogrb.2015.06.011.](https://doi.org/10.1016/j.ejogrb.2015.06.011)
+5. Neuberger M, Schmidt L, Wessels F, et al. Onset and burden of lower limb lymphedema after radical prostatectomy: a
+cross-sectional study. *Support* *Care* *Cancer* . 2022;30(2):1303–1313. [doi:10.1007/s00520-021-06520-2.](https://doi.org/10.1007/s00520-021-06520-2)
+6. Wong M, Eaton PK, Zanichelli C, Moore C, Hegarty C, MacDonald N. The prevalence of undiagnosed postoperative lower limb
+lymphedema among gynecological oncology patients. *Eur* *J* *Surg* *Oncol* . 2022;48(5):1167–1172. [doi:10.1016/j.ejso.2021.12.464.](https://doi.org/10.1016/j.ejso.2021.12.464)
+7. Executive CommitteeThe diagnosis and treatment of peripheral lymphedema: 2016 Consensus document of the international society of lymphology. *Lymphology* . 2016;49(4):170–184.
+8. Kerchner K, Fleischer A, Yosipovitch G. Lower extremity lymphedema update: pathophysiology, diagnosis, and treatment
+guidelines. *J* *Am* *Acad* *Dermatol* . 2008;59(2):324–331. [doi:10.1016/j.jaad.2008.04.013.](https://doi.org/10.1016/j.jaad.2008.04.013)
+9. Liao SF, Li SH, Huang HY. The efficacy of complex decongestive physiotherapy (CDP) and predictive factors of response
+to CDP in lower limb lymphedema (LLL) after pelvic cancer treatment. *Gynecol* *Oncol* . 2012;125(3):712–715. doi:10.1016/j.
+ygyno.2012.03.017.
+10. Masui A, Harada T, Noda Y, Soeda R, Kida H, Tsuji T. Retrospective study on the trajectories of lower limb volume after
+outpatient-based complex decongestive therapy in post-operative gynecological cancer patients with lymphedema. *Support*
+*Care* *Cancer* . 2023;31(6):318. [doi:10.1007/s00520-023-07783-7.](https://doi.org/10.1007/s00520-023-07783-7)
+11. Carl HM, Walia G, Bello R, et al. Systematic review of the surgical treatment of extremity lymphedema. *J* *Reconstr* *Microsurg* .
+2017;33(6):412–425. [doi:10.1055/s-0037-1599100.](https://doi.org/10.1055/s-0037-1599100)
+
+197
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+12. Ciudad P, Escandón JM, Bustos VP, Manrique OJ, Kaciulyte J. Primary prevention of cancer-related lymphedema using
+preventive lymphatic surgery: Systematic review and [meta-analysis.](https://doi.org/10.1055/s-0041-1740085) *Indian* *J* *Plast* *Surg* . 2022;55(1):18–25. doi:10.1055/
+s-0041-1740085.
+13. Carter J, Huang HQ, Armer J, et al. GOG 244 - The Lymphedema and Gynecologic cancer (LeG) study: The impact of
+lower-extremity lymphedema on quality of life, psychological adjustment, physical disability, and function. *Gynecol* *Oncol* .
+2021;160(1):244–251. [doi:10.1016/j.ygyno.2020.10.023.](https://doi.org/10.1016/j.ygyno.2020.10.023)
+14. de Sire A, Losco L, Lippi L, et al. Surgical treatment and rehabilitation strategies for upper and lower extremity lymphedema:
+A comprehensive review. *Medicina* *(B* *Aires)* . 2022;58(7):954. [doi:10.3390/medicina58070954.](https://doi.org/10.3390/medicina58070954)
+15. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ* . 2021:372.
+16. Hahn B, Richir M, Witkamp A, de Jong T, Krijgh D. Prevalence of lower extremity edema following inguinal lymphadenectomy: A systematic review and meta-analysis. PROSPERO. 2023. https://www.crd.york.ac.uk/prospero/display_record.php?
+ID=CRD42023462628.
+17. Higgins J, Morgan R, Rooney A, et al. Risk of bias in non-randomized studies - of exposure (ROBINS-E). 2023. Accessed June
+21, 2023. [https://www.riskofbias.info/welcome/robins-e-tool.](https://www.riskofbias.info/welcome/robins-e-tool)
+18. McGuinness LA, Higgins JPT. Risk-of-bias VISualization (robvis): An R package and Shiny web app for visualizing risk-of-bias
+assessments. *Res* *Synth* *Methods* . 2021;12(1):55–61. [doi:10.1002/jrsm.1411.](https://doi.org/10.1002/jrsm.1411)
+19. Balduzzi S, Rücker G, Schwarzer G. How to perform a meta-analysis with R: a practical tutorial. *Evidence* *Based* *Mental*
+*Health* . 2019;22(4):153–160. [doi:10.1136/ebmental-2019-300117.](https://doi.org/10.1136/ebmental-2019-300117)
+20. R Core Team. R: A Language and environment for statistical computing. 2023. [https://www.r-project.org/.](https://www.r-project.org/)
+
+21. Baur J, Mathe K, Gesierich A, et al. Morbidity and oncologic outcome after saphenous vein-sparing inguinal lymphadenectomy in melanoma patients. *World* *J* *Surg* *Oncol* . 2017;15(1):99. [doi:10.1186/s12957-017-1164-x.](https://doi.org/10.1186/s12957-017-1164-x)
+22. Bell JG, Lea JS, Reid GC. Complete groin lymphadenectomy with preservation of the fascia lata in the treatment of vulvar
+carcinoma. *Gynecol* *Oncol* . 2000;77(2):314–318. [doi:10.1006/gyno.2000.5790.](https://doi.org/10.1006/gyno.2000.5790)
+23. Berger J, Scott E, Sukumvanich P, et al. The effect of groin treatment modality and sequence on clinically significant chronic lymphedema in patients with vulvar carcinoma. *Int* *J* *Gynecol* *Cancer* . 2015;25(1):119–124. doi:10.1097/IGC.
+0000000000000311.
+24. Bertheuil N, Sulpice L, Levi Sandri GB, Lavoué V, Watier E, Meunier B. Inguinal lymphadenectomy for stage III melanoma: A
+comparative study of two surgical approaches at the onset of lymphoedema. *Eur* *J* *Surg* *Oncol* . 2015;41(2):215–219. doi:10.
+1016/j.ejso.2014.10.062.
+25. Bevan-Thomas R, Slaton JW, Pettaway CA. Contemporary morbidity from lymphadenectomy for penile squamous cell carcinoma: the M.D. Anderson Cancer Center Experience. *J* *Urol* . 2002;167(4):1638–1642.
+26. Cirik DA, Karalok A, Ureyen I, et al. Early and late complications after inguinofemoral lymphadenectomy for vulvar cancer.
+*Asian* *Pac* *J* *Cancer* *Prev* . 2015;16(13):5175–5179. [doi:10.7314/APJCP.2015.16.13.5175.](https://doi.org/10.7314/APJCP.2015.16.13.5175)
+27. Elbalka SS, Taha A, Srinivas C, et al. Short-Term surgical outcomes of standard and lateral video endoscopic inguinal lymphadenectomy: A multinational retrospective study. *J* *[Laparoendosc](https://doi.org/10.1089/lap.2019.0733)* *Adv* *Surg* *Tech* *A* . 2020;30(4):373–377. doi:10.1089/lap.
+2019.0733.
+28. Farrell R, Gebski V, Hacker NF. Quality of life after complete lymphadenectomy for vulvar cancer: Do women prefer sentinel
+lymph node biopsy? *Int* *J* *Gynecol* *Cancer* . 2014;24(4):813–819. [doi:10.1097/IGC.0000000000000101.](https://doi.org/10.1097/IGC.0000000000000101)
+29. Fankhauser CD, Lee EWC, Issa A, et al. Saphenous-sparing ascending video endoscopic inguinal lymph node dissection using
+a leg approach: Surgical technique and perioperative and [pathological](https://doi.org/10.1016/j.euros.2021.10.004) outcomes. *Eur* *Urol* *Open* *Sci* . 2022;35:9–13. doi:10.
+1016/j.euros.2021.10.004.
+30. Gitas G, Proppe L, Baum S, et al. A risk factor analysis of complications after surgery for vulvar cancer. *Arch* *Gynecol* *Obstet* .
+2021;304(2):511–519. [doi:10.1007/s00404-020-05949-w.](https://doi.org/10.1007/s00404-020-05949-w)
+31. Gould N, Kamelle S, Tillmanns T, et al. Predictors of complications after inguinal lymphadenectomy. *Gynecol* *Oncol* .
+2001;82(2):329–332. [doi:10.1006/gyno.2001.6266.](https://doi.org/10.1006/gyno.2001.6266)
+32. Hinten F, van den Einden LCG, Hendriks JCM, et al. Risk factors for short- and long-term complications after groin surgery
+in vulvar cancer. *Br* *J* *Cancer* . 2011;105(9):1279–1287. [doi:10.1038/bjc.2011.407.](https://doi.org/10.1038/bjc.2011.407)
+33. Koifman L, Hampl D, Koifman N, Vides AJ, Ornellas AA. Radical open inguinal lymphadenectomy for penile carcinoma:
+surgical technique, early complications and late outcomes. *J* *Urol* . 2013;190(6):2086–2092. [doi:10.1016/j.juro.2013.06.016.](https://doi.org/10.1016/j.juro.2013.06.016)
+34. Mattson J, Emerson J, Underwood A, et al. Superficial versus deep inguinal nodal dissection for vulvar cancer staging. *Gy-*
+*necol* *Oncol* . 2022;166(3):465–470. [doi:10.1016/j.ygyno.2022.06.024.](https://doi.org/10.1016/j.ygyno.2022.06.024)
+35. Nayak SP, Pokharkar H, Gurawalia J, Dev K, Chanduri S, Vijayakumar M. Efficacy and safety of lateral approach-video endoscopic inguinal lymphadenectomy (L-VEIL) over open inguinal block dissection: a retrospective study. *Indian* *J* *Surg* *Oncol* .
+2019;10(3):555–562. [doi:10.1007/s13193-019-00951-4.](https://doi.org/10.1007/s13193-019-00951-4)
+36. Rageh TM, Elsisi AA, Abugreda H. Saphenous vein-preservation technique: the no more complications after inguinal lymphnode dissection. *Egypt* *J* *Surg* . 2021;40(4):1321–1327. [doi:10.4103/ejs.ejs_225_21.](https://doi.org/10.4103/ejs.ejs_225_21)
+37. Rahm C, Adok C, Dahm-Kähler P, Bohlin KS. Complications and risk factors in vulvar cancer surgery - A population-based
+study. *Eur* *J* *Surg* *Oncol* . 2022;48(6):1400–1406. [doi:10.1016/j.ejso.2022.02.006.](https://doi.org/10.1016/j.ejso.2022.02.006)
+38. Rodríguez-Trujillo A, Fusté P, Paredes P, et al. Long-term oncological outcomes of patients with negative sentinel
+lymph node in vulvar cancer. Comparative study with conventional lymphadenectomy. *Acta* *Obstet* *Gynecol* *Scand* .
+2018;97(12):1427–1437. [doi:10.1111/aogs.13431.](https://doi.org/10.1111/aogs.13431)
+39. Schifano N, Fallara G, Rezvani S, et al. Outcomes following radical inguinal lymphadenectomy for penile cancer using a
+fascial-sparing surgical technique. *World* *J* *Urol* . 2023;41(6):1581–1588. [doi:10.1007/s00345-023-04396-x.](https://doi.org/10.1007/s00345-023-04396-x)
+40. Soliman AA, Heubner M, Kimmig R, Wimberger P. Morbidity of inguinofemoral lymphadenectomy in vulval cancer. *Sci*
+*World* *J* . 2012;2012:341253. [doi:10.1100/2012/341253.](https://doi.org/10.1100/2012/341253)
+41. Yao K, jun Zou Z, shang Li Z, et al. Fascia lata preservation during inguinal lymphadenectomy for penile cancer: rationale
+and outcome. *Urology* . 2013;82(3):642–647. [doi:10.1016/j.urology.2013.05.021.](https://doi.org/10.1016/j.urology.2013.05.021)
+42. Zhang SH, Sood AK, Sorosky JI, Anderson B, Buller RE. Preservation of the saphenous vein during inguinal lymphadenectomy
+decreases morbidity in patients with carcinoma of the vulva. *Cancer* . 2000;89(7):1520–1525.
+
+198
+
+*B.A. Hahn, M.C. Richir, A.J. Witkamp et al.* *JPRAS Open 43 (2025) 187–199*
+
+43. Zhang X, Sheng X, Niu J, et al. Sparing of saphenous vein during inguinal lymphadenectomy for vulval malignancies. *Gynecol*
+*Oncol* . 2007;105(3):722–726. [doi:10.1016/j.ygyno.2007.02.011.](https://doi.org/10.1016/j.ygyno.2007.02.011)
+44. Cormier JN, Askew RL, Mungovan KS, Xing Y, Ross MI, Armer JM. Lymphedema beyond breast cancer: A systematic review
+and meta-analysis of cancer-related secondary lymphedema. *Cancer* . 2010;116(22):5138–5149. [doi:10.1002/cncr.25458.](https://doi.org/10.1002/cncr.25458)
+45. Boccardo F, Michelini S, Zilli A, Campisi C. Epidemiology of lymphedema. *Phlebolymphology* . 1999(26):24–28. https://www.
+embase.com/search/results?subaction=viewrecord&id=L32002014&from=export.
+46. Bakar Y, Tu˘gral A. Lower extremity lymphedema management after gynecologic cancer surgery: A review of current management strategies. *Ann* *Vasc* *Surg* . 2017;44:442–450. [doi:10.1016/j.avsg.2017.03.197.](https://doi.org/10.1016/j.avsg.2017.03.197)
+47. Nitti M, Hespe GE, Cuzzone D, Ghanta S, Mehrara BJ. Definition, incidence and pathophysiology of lymphedema. In:
+Cheng MH, Chang DW, Patel KM, eds. *Principles* *and* *practice* *of* *lymphedema* *surgery* Edinburgh: Elsevier; 2016:40–50.
+[doi:10.1016/B978-0-323-29897-1.00006-1.](https://doi.org/10.1016/B978-0-323-29897-1.00006-1)
+48. Catalona WJ. Modified inguinal lymphadenectomy for carcinoma of the penis with preservation of saphenous veins: technique and preliminary results. *J* *Urol* . 1988;140(2):306–310. [doi:10.1016/s0022-5347(17)41589-8.](https://doi.org/10.1016/s0022-5347(17)41589-8)
+49. Szuba A, Shin WS, Strauss HW, Rockson S. The third circulation: Radionuclide lymphoscintigraphy in the evaluation of
+lymphedema. *J* *Nucl* *Med* . 2003;44(1):43–57.
+50. American Physical Therapy AssociationGuide to physical therapist practice. Second Edition. American Physical Therapy Association. *Phys* *Ther* . 2001;81(1):9–746.
+51. Executive Committee of the International Society of Lymphology. The diagnosis and treatment of peripheral lymphedema:
+2020 Consensus Document of the International Society of Lymphology. *Lymphology* . 2020;53(1):3–19.
+52. Verhey EM, Kandi LA, Lee YS, et al. Outcomes of lymphovenous anastomosis for lower extremity lymphedema: A systematic
+review. *Plast* *Reconstr* *Surg* *Glob* *Open* . 2022;10(10):e4529. [doi:10.1097/GOX.0000000000004529.](https://doi.org/10.1097/GOX.0000000000004529)
+53. Chung JH, Hwang YJ, Park SH, Yoon ES. Preliminary outcomes of combined surgical approach for lower extremity lymphedema: supraclavicular lymph node transfer and lymphaticovenular anastomosis. *J* *Plast* *Surg* *Hand* *Surg* . 2022;56(5):261–
+269. [doi:10.1080/2000656X.2021.1964980.](https://doi.org/10.1080/2000656X.2021.1964980)
+54. Schaverien M V, Asaad M, Selber JC, et al. Outcomes of vascularized lymph node transplantation for treatment of lymphedema. *J* *Am* *Coll* *Surg* . 2021;232(6):982–994. [doi:10.1016/j.jamcollsurg.2021.03.002.](https://doi.org/10.1016/j.jamcollsurg.2021.03.002)
+55. Wan R, Hussain A, Kuruoglu D, Houdek MT, Moran SL. Prophylactic lymphaticovenous anastomosis (LVA) for preventing lymphedema after sarcoma resection in the lower limb: A report of three cases and literature review. *Microsurgery* .
+2023;43(3):273–280. [doi:10.1002/micr.30975.](https://doi.org/10.1002/micr.30975)
+
+199
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,811 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    #### **Lieferschein **
+
+Universitaetsbibliothek Augsburg - Dokumentlieferdienst Subito
+
+ - Dokumentlieferung –
+
+Universitaetsstr. 22
+
+D-86159 Augsburg
+
+
+Tel.:
+
+Fax:
+
+Email:
+
+
+++49-821-598-5386
+
+++49-821-598-145459
+
+subito@bibliothek.uni-augsburg.de
+
+
+**Empfänger**
+
+Klinik fuer Urologie
+
+Caritas-Krankenhaus St. Josef
+
+Landshuter Str. 65
+
+D-93053 Regensburg
+
+**Angaben zur Bestellung** **:**
+
+
+Bestelldatum:
+
+Bestellnummer:
+
+Name des Bestellers:
+Benutzerkennung: HSL17X00507
+
+Lieferdatum:
+Lieferpriorität: NORMAL
+Aktueller Lieferweg: Email
+E-Mail Adresse:
+
+Bemerkungen zur Auslieferung:
+
+
+
+
+
+0
+
+
+**Angaben zum Dokument:**
+
+Signatur:
+Autor:
+
+Titel:
+
+Jahr: 2022
+Band / Jahrgang: 49 / 5
+Seiten: 368-376
+
+Aufsatzautor:
+
+Aufsatztitel:
+
+ISSN: 1537-4521
+
+ISBN:
+
+CODEN:
+
+Ihre Bemerkung zur Bestellung:
+
+
+
+[ONL] ND:2055170-8
+
+
+Sexually transmitted diseases
+
+2022
+
+49 / 5
+
+368-376
+
+Catalfamo, Collin J.; Brown, Heidi E.; D
+
+Evaluating the Strength of Association of Human Papilloma
+
+1537-4521
+
+### **subito Urheberrechtshinweis **
+
+Die Bestellung und Nutzung der über subito gelieferten Aufsatzkopien
+unterliegen urheberrechtlichen Bestimmungen. Mit der Registrierung
+bei subito verpflichten Sie sich, diese einzuhalten.
+
+Kopien von subito sind grundsätzlich zum eigenen Gebrauch bestimmt
+und dürfen, außer, wenn sie durch eine Hilfsperson bestellt worden sind,
+nicht an Dritte weitergegeben werden. Für kommerzielle Nutzer der von subito gelieferten
+Kopien ist die gemeinsame Verwendung ausgelieferter Kopien innerhalb einer Firma oder
+eines Unternehmens allerdings ausdrücklich gestattet.
+
+Die Kopien sind mit einem Wasserzeichen versehen, welches einen
+Urheberrechtsvermerk enthält. Das von subito e.V. angebrachte Wasserzeichen darf nicht
+
+entfernt werden.
+
+Weiterverwendet werden können innerhalb Deutschlands durch deutsche Bibliotheken
+
+ausgelieferte Kopien unter Beachtung der urheberrechtlichen Schrankenregelungen. So
+können sie zum Beispiel unter Einhaltung der nach § 60a UrhG geltenden Bestimmungen
+für den Unterricht und die Lehre an Bildungseinrichtungen, etwa auch für
+Semesterapparate und in Schulen genutzt werden. Dies gilt nicht nur für analoge, sondern
+auch für digitale Plattformen für Unterrichts- und Lehrmedien. Unter Beachtung von § 45
+UrhG können analoge und digitale Kopien auch in Verfahren vor einem Gericht, einem
+Schiedsgericht oder einer Behörde verwendet werden.
+
+Für Kopienlieferungen mit dem Ziel außerhalb Deutschlands sind alle einschlägigen
+urheberrechtlichen Bestimmungen des Landes zu beachten, in dem der Nutzer seinen
+
+(Wohn-) Sitz hat.
+
+Im Zweifel wenden Sie sich bitte an die Rechtsabteilung Ihres Unternehmens oder an
+
+einen Rechtsanwalt.
+
+#### O RIGINAL S TUDY
+## Evaluating the Strength of Association of Human Papillomavirus Infection With Penile Carcinoma: A Meta-Analysis
+
+Collin J. Catalfamo, MPH, Heidi E. Brown, PhD, and Leslie K. Dennis, PhD
+
+
+Background: Human papillomavirus (HPV) is a common sexually transmitted infection that is strongly associated with cervical cancer. A link to penile
+cancers has been suggested by case series. We sought to assess the strength of
+the association between HPV infection and penile cancer by meta-analysis.
+Methods: A literature search to identify population-based studies evaluating the risk of HPV infection with penile cancer was conducted via PubMed
+and Google Scholar databases through December 2020. Studies were included in the pooled analyses if they presented relative risk (RR) estimates
+comparing penile cancer cases with noncases by HPVexposure status. They
+were stratified by (1) type of HPV, (2) test used to determine past HPV infection, and (3) the penile cancer type. Pooled analyses were conducted for
+stratum with at least 2 independent studies using fixed-effects and
+random-effects models.
+
+Results: Fourteen articles representing 9 study populations fit the inclusion
+criteria and were included in the pooled analysis. Based on these studies, the
+
+–
+pooled RRs are 2.9 (95% confidence interval [CI], 1.7 5.0; n = 4 studies) for
+
+–
+invasive penile cancer and seropositivity to HPV16 L1, 4.5 (95% CI, 1.3
+15.5; n = 2) for seropositivity to HPV18, and 8.7 for anogenital warts (95%
+
+–
+CI, 5.1 14.8; n = 5). For the 3 studies reporting invasive and in situ penile
+cancer, the risk was 7.6 for anogenital warts.
+Conclusions: The pooled RRs indicate up to a 4.5-fold increased risk between seropositivity for HPV infection and invasive penile cancer. This is
+much lower than associations seen between HPVand cervical cancer.
+# W orldwide, infectious agents are estimated to currently con-tribute to an estimated 15% of new cancer cases. [1] Of the
+
+2,200,000 new cancer cases attributable to infectious agents in
+2012, Helicobacter pylori, human papillomavirus (HPV), and
+hepatitis B and C were responsible for 91.9%. [1] An infectious
+cause has implications for how these cancers may be treated and
+prevented. [2] Because of the potential for novel treatment and
+
+From the Department of Epidemiology and Biostatistics, Mel and Enid
+Zuckerman College of Public Health, University of Arizona, Tucson, AZ
+Conflict of Interest and Sources of Funding: None declared.
+This research did not have funding support. The authors have no competing/
+conflicts of interest to declare in regard to the completion of this review
+and meta-analysis.
+Review Protocol: A protocol for this review and meta-analysis protocol was
+not prepared or registered.
+Data Availability: All of the studies included in the pooled analyses are publicly
+available. Other materials used in the completion of this review and metaanalysis can be made available upon request.
+Correspondence: Collin J. Catalfamo, MPH, Roy P. Drachman Hall, 1295
+N. Martin Avenue, Bldg. 202A, PO Box 245211, Tucson, AZ 85724.
+E-mail: catalfamoc@email.arizona.edu.
+Received for publication June 23, 2021, and accepted January 16, 2022.
+Supplemental digital content is available for this article. Direct URL
+citations appear in the printed text, and links to the digital files are
+provided in the HTML text of this article on the journal’s Web site
+(http://www.stdjournal.com).
+DOI: 10.1097/OLQ.0000000000001606
+Copyright © 2022 American Sexually Transmitted Diseases Association.
+All rights reserved.
+
+
+prevention regimes and because infectious agents have a large
+attributable fraction to new cancer cases, each infectious
+agent and the proposed cancers they are linked to should be
+thoroughly investigated.
+Human papillomavirus, a well-known contributor to infectious causes of cancer in the United States, is a common sexually
+transmitted infection, affecting 42.5% of US adults. [3] The probability of acquiring an HPV infection for men in the US before readily
+available HPV vaccination was estimated to be 89.1%; however,
+with many HPV infections being asymptomatic, most infections
+among men are undetected. [4] Human papillomavirus infection
+manifestations range from low-risk HPV infections causing no
+symptoms, which may clear without treatment, to high-risk HPV
+infections strongly linked to the development of cervical cancers. [5]
+
+Human papillomavirus was recognized as an important cause of
+cervical cancer by the World Health Organization in 1996. [6] Since
+then, HPV has been associated with anogenital warts and multiple
+anogenital cancers in both men and women. [7] Among these associations, little is known about HPVand penile cancer.
+Worldwide, there are an estimated 22,000 cases of penile
+cancer per year with a higher incidence in lower-income countries. [8] Incidence can reach as high as 3.3 to 4.2 per 100,000 males
+in Brazil and Paraguay, respectively. [8] It is a rare genital malignancy
+in the United States, with an incidence rate of 0.4 to 0.9 per 100,000
+males between 2011 and 2015. [9,10] Links between HPVand the development of penile carcinoma have been suggested with infection
+prevalence, the proportion of people in a given population who have
+had the infection during a given period of time, ranging from 47%
+to 55% of penile carcinoma cases. [11] However, these estimates have
+been based on case-series of HPV and penile cancer without comparison to HPV prevalence in individuals without cancer. Estimates
+of HPV prevalence among penile cancer cases have limited use
+when assessing the etiology of penile cancer without estimates of
+HPV prevalence among comparable, otherwise healthy individuals
+without penile cancer. To adequately estimate the association between HPV and penile cancer, analytic studies are needed, such as
+case-control and cohort studies. [12]
+
+The aim of this review and meta-analysis is to examine the
+strength and consistency of the observed associations of HPV infection and the development of penile cancer. We conducted
+pooled analyses of relative risk (RR) estimates from published analytic studies. The analyses are stratified by method of detection
+(self-report, medical chart audit, or serologic response), HPV
+strain, and type of cancer (invasive, in situ, or both) based on available published or calculated RRs. Pooled estimates are presented
+and evaluated against the methods chosen by each study.
+
+METHODS
+
+Literature Search
+
+A literature search was conducted using PubMed and Google
+Scholar databases of available published articles through December
+
+
+368 Sexually Transmitted Diseases  - Volume 49, Number 5, May 2022
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 by the American Sexually Transmitted Diseases Association. Unauthorized reproduction of this article is prohibited.
+
+2020. The search terms included ((human papillomavirus) OR
+(HPV)) OR (genital wart) AND ((penile carcinoma) OR (anogenital
+cancer)) “human papillomavirus” or “HPV”, and “penile carcinoma” or “anogenital cancer”. Titles and abstracts of the articles
+were independently reviewed by 2 reviewers to determine the
+potential eligibility. Potentially eligible publications were reviewed in their entirety also independently by 2 reviewers for
+inclusion in the pooled analyses. References of included articles
+were also used to identify additional articles to be reviewed and
+other relevant literature.
+
+Study Selection and Data Extraction
+For a study to be eligible for the analysis, it needed to be a
+case-control or cohort study design, measure HPVas an exposure
+of interest (even if not the primary exposure of interest), report
+HPVexposure in both cases and controls, and be available in English. Publications that included information on HPV prevalence
+in cases but did not include control subjects were excluded.
+Two independent reviewers abstracted data from eligible articles using a standardized abstraction form constructed during the
+initial stages of the literature search. Abstracted information included the primary author's name and year published, type of
+study design used, type of controls sampled in case-control studies, location and year the study was conducted, dates of diagnosis
+for all cases sampled, and age ranges of cases and controls. In addition, methods used to measure HPV exposure, when samples
+were taken to measure HPV exposure, number of cases and controls to construct 2 � 2 tables by disease-exposure status, reported
+RR estimates when available (risk ratios and odds ratios in casecontrol studies) and the corresponding 95% confidence intervals,
+along with matching criteria used for selecting controls (if relevant), and other factors that each study controlled for in their final
+models were abstracted. Once all the articles to be considered for
+the pooled analysis had been evaluated, data were reviewed by another researcher to verify the information collected. In the event of
+a disagreement between researchers, a discussion between the entire research team occurred until a consensus was reached.
+
+Articles were examined for the use of the same or a similar
+subset of subjects, based on overlap in the dates and locations of
+the study samples. The degree of overlap was determined by the
+team, and the article with more comprehensive data (more subjects, most appropriately adjusted RR estimate) was selected to
+represent the study for the pooled analysis. Because we were
+looking at HPVinfections, we did not feel it was appropriate to adjust for number of sexual partners because it is viewed as the
+mechanism through which HPV infection is obtained. Several articles had significant overlap. Articles published by Daling et al. [31s]
+
+and Maden et al. [32s] had a large degree of overlap in both the location of subjects (Washington, DC, and British Columba, Canada)
+
+–
+and diagnosis dates (1979 1990). In addition, they overlapped
+with 2 other articles, Daling et al. [33s] and Carter et al. [34s] both conducted from 1979 to 1998 in Washington, DC. Daling et al. [33s] was
+included in the pooled analysis because it had the widest range of
+diagnosis dates. An additional 2 articles reported on Danish subjects with overlapping diagnosis dates from 1993 to 1998 [35s] and
+1978 to 2008. [36s] Blomberg et al. [36s] were included in the pooled
+analysis of RR because of its wider range of diagnosis dates; however, it did not have data for the pooled analysis of prevalence of
+HPV so Madsen et al. [35s] were used for the prevalence estimates instead. We also found 2 studies from the Netherlands. One, covering 1989 to 1999, was unclear if they reported only invasive cancer
+and seemed to use healthy controls and stomach cancer controls that
+included both males and females. [37s] Thus, we pooled the Netherlands
+study [38s] with recruitment from 1969 to 2000 that reported both
+
+
+Association of HPV Infection With Penile Carcinoma
+
+HPV16 and HPV18 with male controls. There seemed to be some
+overlap in study location and time between studies conducted by
+Heideman et al. [38s] and Kreimer et al. [39s] However, we determined
+the overlap between these 2 study samples to be minimal, as
+Kreimer et al. [39s] included 9 countries including the Netherlands
+and reported fewer cases than Heideman et al. [38s] A study from
+Uganda [40s] was also unclear if they reported only invasive cancer,
+but the corresponding author confirmed it was invasive (personal
+communication).
+Because of the low number of studies identified for each
+stratum, a risk of bias assessment was not conducted.
+
+Pooled Analyses
+Data were stratified by type of HPV, how HPV exposure
+was measured, and in situ or invasive cancer. Although multiple
+other strains were reported among published studies, only HPV16,
+HPV18, and warts (undetermined type) were reported by more than
+1 study. Analyses required at least 2 studies with relevant data to
+pool. Variances were calculated from the 95% confidence intervals
+of the adjusted models of each study. These variances were equal to
+the sum of the inverse of the 4 cells in the 2 � 2 tables abstracted
+from the articles. Because of the limited number of studies available,
+data on all combinations of type of HPV, tests used to measure HPV
+exposure, and type of cancer were not available.
+Both fixed-effects models and random-effects models were
+initially used to estimate the pooled RR. [13,14] Both models are
+based on the ln(RR) weighted by the inverse variance summed
+across studies in Microsoft Excel. The fixed-effects model of our
+pooled analyses operates under the assumption that the differences
+between the RR can be explained solely by chance assuming all articles have been found. [13] The random-effects model is more conservative, assuming that differences between the RR estimates observed can be explained by sampling variability and actual differences between study populations. [14] Thus, we present only the
+random effects. We calculated Cochran Q and I [2] statistic to assess
+heterogeneity among pooled studies. For strata with less than 3
+studies, we do not report these statistics because these tests would
+be inappropriate.
+A meta-analysis of prevalence rates was also conducted for
+each level of data available. The studies conducted by Blomberg
+et al., [36s] Nordenvall et al., [41s] and Cho et al., [42s] did not report prevalence data, so they were excluded from the pooled analysis of
+prevalence. However, the study conducted by Madsen et al. [35s] that
+also examined a population from Denmark did report prevalence
+data, so it was included in the pooled analysis of prevalence in place
+of the study conducted by Blomberg et al. [36s] Prevalence rates were
+pooled according to random-effects models using the inversevariance method for weights ð∑ i p i =Var pð Þ i Þ=ð ∑ i 1=Var pð Þ i Þ .
+Double arcsine transformations were used when calculating the variance of each study's reported prevalence rates to correct for the inflation of weights when prevalence rates are less than 0.5. [15] All pooled
+analyses were carried out using Microsoft Excel and MetaXL. [16]
+
+Ethics Approval
+The institutional review board of The University of Arizona
+determined that ethics approval was not needed for the completion
+of this study.
+
+RESULTS
+
+Figure 1 describes the search strategy and identification of
+articles for inclusion in the meta-analysis. Overall, 2609 articles
+were identified via our search strategy, of which only 14 met the
+full inclusion criteria. Table 1 describes the 14 articles representing
+the 9 independent studies included in the meta-analysis for both
+
+
+Sexually Transmitted Diseases   - Volume 49, Number 5, May 2022 369
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 by the American Sexually Transmitted Diseases Association. Unauthorized reproduction of this article is prohibited.
+
+Catalfamo et al.
+
+Figure 1. Search strategy, identification, and review of articles for inclusion in pooled analyses of HPV infection and penile cancer.
+
+
+the pooled analysis of RR and pooled analysis of prevalence. [31s][–][44s]
+
+Where overlap of the articles and studies exists, Table 1 indicates
+which articles were included in the pooled analysis. Six of the 9 independent studies were population-based case-control studies, with
+the remaining 3 studies conducted by Blomberg et al., [36s] Nordenvall
+et al., [41s] and Cho et al. [42s] being cohort studies. Two studies report on
+US populations, 1 study reports on a Chinese population, 1 study reports on a Taiwanese population, and another study reports on a
+population in Uganda, with the remaining 3 studies using European
+populations. All 9 studies in the pooled analysis of RR reported an
+increased RR of penile cancer with past HPV infection. Studies that
+used anogenital warts (based on self-report or medical chart audit)
+as a determinant of past HPV infection in cases and controls reported higher RR compared with studies that collected sera and tissue to measure HPV exposure. None of the studies identified that
+collected sera and/or tissue to measure HPVexposure collected tissue samples from both cases and healthy controls. However, these
+studies did measure serologic response to various HPV virus-like
+particles (VLPs) in both groups. Therefore, the strata for tests of
+HPV exposure used for pooled analyses were serologic response
+to VLPs from either structural (L1) or unspecified genome reading
+frames, or to purified viral proteins from structural (L1) or replication (E6 and E7) genome reading frames. [45s]
+
+Table 2 and Figure 2 show the individual and pooled RR estimates for each of the groups. Because 2 or more studies with
+
+
+published risks were not reported for all combinations of type of
+HPV, tests of HPV exposure, and type of cancer, we could only
+pool data for invasive penile cancer and HPV 16 (pooled RR,
+2.9; using L1) and HPV18 (pooled RR, 4.5; using any L1 or E6/
+E7) and warts (undetermined type) with risk of in situ or invasive
+cancer. Anogenital warts infection (assessed via medical chart audit record/participant self-report or by physical examination) with
+invasive cancer had a RR of 8.7, but smaller for carcinoma in situ
+(CIS; RR, 4.6). Among the HPV16 and invasive cancer and the
+anogenital warts and combined CIS and invasive cancer strata,
+there was a low degree of heterogeneity present. Moderate heterogeneity was observed among the studies pooled for the
+anogenital warts and invasive cancer stratum. Heterogeneity
+was not evaluated for the HPV18 stratum because there were
+only 2 studies.
+Estimated prevalence rates of HPV from the studies included
+in the pooled analyses of prevalence are presented in Table 3. All the
+studies included reported higher prevalence rates of HPV infection
+among patients with penile cancer compared with controls, as expected based on the reported increased RR. The pooled prevalence
+estimate for HPV16 was 25.0% among patients with invasive cancer compared with 7.8% among men without cancer. Similarly,
+pooled prevalence rates of 15.6% and 22.8% were found for
+HPV18 and anogenital warts infections, respectively, among
+men with cancer compared with rates of only 2.6% and 5.3%
+
+
+370 Sexually Transmitted Diseases  - Volume 49, Number 5, May 2022
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 by the American Sexually Transmitted Diseases Association. Unauthorized reproduction of this article is prohibited.
+
+Association of HPV Infection With Penile Carcinoma
+
+Sexually Transmitted Diseases   - Volume 49, Number 5, May 2022 371
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 by the American Sexually Transmitted Diseases Association. Unauthorized reproduction of this article is prohibited.
+
+Catalfamo et al.
+
+372 Sexually Transmitted Diseases  - Volume 49, Number 5, May 2022
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 by the American Sexually Transmitted Diseases Association. Unauthorized reproduction of this article is prohibited.
+
+TABLE 2. Pooled Relative Risk Estimates of HPV Infection With
+Penile Carcinoma Among 7 Independent Study Populations, by
+Subgroup Based on a Random-Effects Model
+
+RR 95% CI
+
+HPV16 with invasive cancer* 2.9 1.7–5.0
+Newton et al. [40s] 6.4 1.7–24.3
+Daling et al. [33s] 2.3 1.2–4.6
+Heideman et al. [38s] 9.8 1.4–69
+Kreimer et al. [39s] 1.8 0.4–7.0
+P = 0.29, I [2] = 19.9%
+HPV18 with invasive cancer 4.5 1.3–15.5
+Heideman et al. [38s] 5.3 1.3–21.0
+Kreimer et al. [39s] 2.5 0.2–42.5
+Reported Anogenital Warts with invasive 8.7 5.1–14.8
+
+cancer
+
+Brinton et al. [44s] 15.7 2.0–123
+Tseng et al. [43s] 3.7 0.8–11
+Daling et al. [33s] 5.4 2.5–11.9
+Nordenvall et al. [41s] 21.9 7.1–51.2
+Cho et al. [42s] 14.9 0.3–29.4
+P = 0.04, I [2] = 59.6%
+Reported anogenital warts with CIS 4.6 0.8–25.2
+Tseng et al. [43s] 1.7 0.4–7.2
+Daling et al. [33s] 9.8 5.1–18.7
+Reported anogenital warts with CIS or invasive 7.6 5.0–11.5
+
+cancer
+
+Tseng et al. [43s] 4.5 0.9–25.0
+Daling et al. [33s] 7.6 4.3–13.5
+Blomberg et al. [36s] 8.2 4.1–14.6
+P = 0.80, I [2] = 0%
+
+*Determined via serology to type-specific HPV L1 VLP.
+CI indicates confidence interval; CIS, carcinoma in situ; I [2], I [2] heterogeneity statistic; P, Cochran Q P value; RR, relative risk estimates (odds ratio
+in case-control studies).
+
+among men without cancer (Table 3). Pooled prevalence estimates
+among penile cancer patients differed by approximately 4% to 5%
+between invasive cancer and CIS for studies using anogenital
+warts infections.
+
+
+Association of HPV Infection With Penile Carcinoma
+
+DISCUSSION
+
+Only 9 independent studies examining the association between penile cancer and HPV were available for pooling likely because of the rarity of penile cancer. The pooled RR estimates with
+HPV and invasive penile cancer ranged from 2.9 to 8.7, much
+lower than the RR estimates for cervical cancer of ≥79. [32s] Past infection with HPV18 was only reported in 2 studies of invasive penile cancer that used serologic testing to purified HPV18 L1 proteins for HPV18, whereas past infection with HPV16 was reported
+in 4 studies of invasive penile cancer that used serologic testing to
+purified HPV16 L1 proteins or HPV16 L1 VLPs. Among the studies of penile CIS and invasive penile cancer, 6 studies used a history
+of anogenital warts as an indicator of past HPVexposure. The studies least subject to recall bias are those with serologic measurement
+of past HPV infection (16 or 18) and penile cancer showing up to a
+4.5-fold risk of penile cancer (Table 2). This is higher than the risk
+observed in previous literature for cigarette smoking, but similar to
+what has been previously observed in the literature for circumcision,
+which may be related to the site of the penile cancer. [17]
+
+These pooled RR estimates are supportive of the role of
+HPV in the etiology of penile cancers. The higher association seen
+among the pooled data of anogenital warts (RRs of 8.7 for invasive
+cancer and 7.6 for CIS or invasive cancer), based on self-report
+and medical chart data (which also could be patient report), could
+reflect differential recall bias related to socially undesirable sexually transmitted infection, where cases may accurately report and
+controls may underreport because of social desirability. [18] Such recall bias inflates the estimate. Although the HPV types related to
+warts are less likely to be carcinogenic, they are markers for risk
+of developing or obtaining other HPV infections because they
+are indicative of high-risk sexual behaviors (such as greater lifetime number of partners and lack of condom use) that would increase the likelihood of acquiring high-risk HPV infections, [19,46s,47s]
+
+Therefore, one could argue that the expected risk with warts would
+be equivalent or less than those for the carcinogenic types of HPV16
+or HPV18. Anogenital warts are likely used as a marker of exposure
+to HPV. However, because other HPV types may never result in
+anogenital warts, the use of anogenital warts as a measure of HPV
+
+
+TABLE 3. Pooled Estimates of HPV Infection Among Cases and Noncases of Studies Included in Pooled Analysis of Prevalence
+
+Prevalence (%) of HPV Infection (95% CI)
+
+Cases Noncases
+
+HPV16 with invasive cancer* 25.0 (18.9–31.7) 7.8 (4.6–11.7)
+Newton et al. [40s] 26.7 5.5
+Daling et al. [33s] 28.8 12.5
+Heideman et al. [38s] 24.1 2.4
+Kreimer et al. [39s] 16.7 9.9
+HPV18 with invasive cancer 15.6 (0.0–40.7) 2.6 (0.0–7.0)
+Heideman et al. [38s] 26.5 4.8
+Kreimer et al. [39s] 4.2 1.1
+
+– –
+Reported anogenital warts with invasive cancer 17.3 (12.1 23.1) 4.6 (3.1 6.5)
+Tseng et al. [43s] (self-reported) 14.0 6.0
+Daling et al. [33s] (self-reported) 19.7 4.8
+Brinton et al. [44s] (physical examination) 18.3 1.4
+
+– –
+Reported anogenital warts with CIS 21.6 (7.4 39.9) 5.0 (3.5 6.6)
+Tseng et al. [43s] (self-reported) 12.0 6.0
+Daling et al. [33s] (self-reported) 30.7 4.8
+
+– –
+Reported anogenital warts with CIS or invasive cancer 22.8 (12.7 34.7) 5.3 (3.9 6.8)
+Tseng et al. [43s] (self-reported) 13.0 6.0
+Daling et al. [33s] (self-reported) 25.7 4.8
+Madsen et al. [35s] (patient medical chart audit) 32.4 6.3
+
+*Determined via serology to type-specific HPV L1 VLP.
+CI indicates confidence interval.
+
+Sexually Transmitted Diseases   - Volume 49, Number 5, May 2022 373
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 by the American Sexually Transmitted Diseases Association. Unauthorized reproduction of this article is prohibited.
+
+Catalfamo et al.
+
+Figure 2. Individual study and pooled RR estimates for HPV infection and penile carcinoma.
+
+
+exposure increases the potential of misclassification of individuals,
+particularly those without penile cancer, as having never acquired
+a past HPV infection.
+Without cohort, case-control, and other population-based
+studies, previous research has relied on prevalence rates obtained
+from case series to examine the link between penile cancer and
+HPV infection. However, meta-analyses and systematic reviews
+of prevalence rates have presented varying estimates of the prevalence of HPV infection among penile cancer patients. Kidd et al. [20]
+
+presented 8 case series, with the prevalence of HPVinfection ranging between 12% and 75%. [20] In a large, multinational study of HPV
+and invasive penile cancer patients in 2015, a prevalence of 33.1%
+for any HPV type was estimated. [21] Prevalence rates of 13.4% were
+observed in patients from Asia, [21] 27.8% to 36.2% in patients from
+Brazil, [22,23] and 93.6% in patients from the Netherlands. [38s] In a more
+recent review of HPV in penile cancer case series using articles published from 1994 to 2016, prevalence rates of HPV ranged from
+12% to 100%, resulting in a worldwide pooled prevalence of 51%
+
+–
+(47% 55%). [11] When including this with other pooled analyses, estimates of global prevalence range from a low of 27% to 50.8%. [48s][–][50s]
+
+
+Human papillomavirus type 16 was detected at a greater rate in penile cancer patients, with prevalence estimates as high as 61.5% to
+62.9% in pooled analyses. [21,24]
+
+The prevalence of past HPV infection in analytic studies
+with control groups that we pooled varied from 2.4% to 32.4%. In
+contrast, prevalence rates among penile cancer cases varied from
+13% to 32% for anogenital warts, 17% to 29% for HPV16, and
+4% to 27% for HPV18. However, prevalence rates in penile carcinoma cases must be interpreted with caution when the prevalence
+rates among noncases are not also reported. That is, it is unknown
+whether noncases in that same population have the same HPV prevalence rates as cases, which would indicate that the cancers are not
+due to the HPV infection, but that HPV infection is an underlying
+condition. Case-control studies and cohort studies are thus essential
+for showing associations. [12]
+
+The serology studies pooled here relied on detection of
+antibodies to strain-specific HPV VLPs or purified proteins
+as a determinant of past HPV infection in both patients with penile cancer and otherwise healthy controls. However, in case series
+and population-based studies of prevalence, polymerase chain
+
+
+374 Sexually Transmitted Diseases  - Volume 49, Number 5, May 2022
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 by the American Sexually Transmitted Diseases Association. Unauthorized reproduction of this article is prohibited.
+
+reaction is often used to detect the presence of HPV DNA in penile
+cancer patients' tumor samples and is contrasted with the sera samples from men without penile cancer. These methods of detecting
+past infection are not directly comparable. Accounting for patient
+characteristics, most HPV-infected tissues are cleared within 6 months
+to 2 years after acquiring the infection. [25] Furthermore, not everyone
+who acquires an HPV infection seroconverts. [26] With cases having
+been more likely to have acquired a persistent infection or multiple
+HPV infections, these patients are much more likely than controls to
+have active infections that would be detected in tissue samples.
+Thus, comparing tissue samples from cases to sera samples from
+noncases could have resulted in a differential misclassification that
+could explain the observed differences in HPV prevalence between
+these 2 groups and subsequent RR or attributable fraction estimates.
+The pooled analysis of prevalence for studies using selfreported/medical chart audit for anogenital warts found pooled
+prevalence rates in cases for warts of 23.1%, but lower rates of infection in controls (5.2%). Daling et al. [31s] found higher prevalence
+rates for CIS or invasive cancer cases using self-reported anogenital
+warts (25.7%) and using serologic detected past HPV16 infection
+(24.0%) but found higher rates of HPV16 (12.5%) among controls
+than for warts (4.8%). The lower prevalence rate of anogenital warts
+in controls, which are biologically not expected to be related to
+cancer, should be reflected in lower rates in cases. Such data suggest a differential reporting of higher rates of anogenital warts creating an inflated odds ratio 4 times greater than that reported for
+HPV16 in Daling et al. [31s]
+
+A major strength of this meta-analysis is that the studies included for the pooled analyses are case-control and cohort studies
+that include HPVexposure measurement among both penile cancer
+patients and otherwise healthy noncases. As has been stated previously, this allows for a better examination of the burden HPV infection contributes to penile cancer. Another strength comes from the
+fact that the studies included for pooled analyses were conducted
+before the availability of HPV vaccinations, and as such, the pooled
+analyses are not subject to the potential confounding effects of vaccination. However, this study is not without limitations. There is a
+paucity of studies that include measurement of HPV exposure in
+both penile cancer cases and noncases. We are unable to examine
+the associations of other high-risk HPV serotypes with penile cancer
+because of this fact. However, this meta-analysis provides the first
+pooled estimates RR of penile cancer after past HPV infection
+and still provides an important overview of these associations given
+the limited available published literature. The method of measuring
+past HPV exposure also varied between studies, which may have
+contributed to the heterogeneity we observed among the studies
+pooled. Furthermore, the studies that used serology to measure past
+HPV infections were unable to discern between different potential
+anatomical sites of infection. This may have biased RR estimates
+from those studies, as well as our pooled RR estimates, toward the
+null. Our pooled analyses of HPV and penile cancer show a 2.9to 4.5-fold increased RR of penile cancer with HPV infection. However, because of the limited number of population-based studies
+with inconsistent methods of detection, more research would
+strengthen our knowledge of this association. Human papillomavirus
+types 6 and 11 (the 2 strains known to cause anogenital warts), [8,47s]
+
+have not been found to have oncogenic capacity. Human papillomavirus types 16 and 18, conversely, are responsible for approximately
+50% of high-grade cervical dysplasia and 70% of cervical cancers
+and are likely to be important for cancers in other anogenital areas. [27]
+
+We recommend that any future studies report on HPV16 and HPV18
+individually and together, because prior studies have mostly looked at
+16 or 18, not both. We recommend not using anogenital warts as a
+measure of HPV infection because of the large potential for misclassification described previously. Incidence trends of penile cancer
+
+
+Association of HPV Infection With Penile Carcinoma
+
+and HPV infections should continue to be monitored as any future
+changes in penile cancer possibly due to HPV vaccination as has
+been observed for women with cervical cancer. [28]
+
+ORCID IDS
+Collin J. Catalfamo [https://orcid.org/0000-0001-8244-9044](https://orcid.org/0000-0001-8244-9044)
+Heidi E. Brown [https://orcid.org/0000-0001-8578-5510](https://orcid.org/0000-0001-8578-5510)
+
+REFERENCES
+
+1. Plummer M, de Martel C, Vignat J, et al. Global burden of cancers attributable to infections in 2012: A synthetic analysis. Lancet Glob Health
+2016; 4:e609–e616.
+2. Brown HE, Dennis LK, Lauro P, et al. Emerging evidence for infectious
+causes of cancer in the United States. Epidemiol Rev 2019; 41:82–96.
+3. McQuillan G, Kruszon-Moran D, Markowitz LE, et al. Prevalence of
+HPVin adults aged 18–69: United States, 2011–2014. NCHS Data Brief
+2017; 280:1–8.
+4. Chesson HW, Dunne EF, Hariri S, et al. The estimated lifetime probability of acquiring human papillomavirus in the United States. Sex Transm
+Dis 2014; 41:660–664.
+5. IARC Working Group on the Evaluation of Carcinogenic Risks to
+Humans. Human papillomaviruses. IARC Monogr Eval Carcinog Risks
+Hum 2007; 90:1–636.
+6. Burd EM. Human papillomavirus laboratory testing: The changing
+paradigm. Clin Microbiol Rev 2016; 29:291–319.
+7. Brotherton JML, Giuliano AR, Markowitz LE, et al. Monitoring the
+
+—
+impact of HPV vaccine in males Considerations and challenges.
+Papillomavirus Res 2016; 2:106–111.
+8. Bruni L, Albero G, Serrano B, et al. ICO/IARC Information Centre on
+HPV and Cancer (HPV Information Centre). Human Papillomavirus
+and Related Diseases in the World. Summary Report 2 February 2022.
+[Available at: https://hpvcentre.net/statistics/reports/XWX.pdf. Accessed](https://hpvcentre.net/statistics/reports/XWX.pdf)
+March 3, 2022.
+
+–
+9. Van Dyne EA, Henley SJ, Saraiya M, et al. Trends in human papillomavirus
+associated cancers—United States, 1999–2015. MMWR Morb Mortal
+Wkly Rep 2018; 67:918–924.
+10. Noone A, Howlander N, Krapcho M, et al. SEER Cancer Statistics Re
+–
+view, 1975 2015. Bethesda, MD: National Cancer Institute. Available
+[at: https://seer.cancer.gov/csr/1975_2015/, based on November 2017](https://seer.cancer.gov/csr/1975_2015/)
+SEER data submission, posted to the SEERWeb site, April 2018.
+11. de Martel C, Plummer M, Vignat J, et al. Worldwide burden of cancer
+attributable to HPV by site, country and HPV type. Int J Cancer 2017;
+141:664–670.
+12. Rothman K, Greenland S, Lash T. Modern Epidemiology. 3rd ed.
+Philadelphia, PA: Lippincott Williams & Wilkins.
+13. Woolf B. On estimating the relation between blood group and disease.
+Ann Hum Genet 1955; 19:251–253.
+14. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin
+Trials 1986; 7:177–188.
+15. Barendregt JJ, Doi SA, Lee YY, et al. Meta-analysis of prevalence.
+J Epidemiol Community Health 2013; 67:974–978.
+16. EpiGear International. MetaXL Software. Version 5.3. Queensland,
+Australia: EpiGear International, 2016.
+17. Douglawi A, Masterson TA. Updates on the epidemiology and risk factors for penile cancer. Transl Androl Urol 2017; 6:785–790.
+18. Schroder KEE, Carey MP, Vanable PA. Methodological challenges in
+research on sexual risk behavior: II. Accuracy of self-reports. Ann Behav
+Med 2003; 26:104–123.
+19. Panatto D, Amicizia D, Trucchi C, et al. Sexual behaviour and risk factors for the acquisition of human papillomavirus infections in young
+people in Italy: Suggestions for future vaccination policies. BMC Public
+Health 2012; 12:623.
+20. Kidd LC, Chaing S, Chipollini J, et al. Relationship between human
+
+—
+papillomavirus and penile cancer implications for prevention and
+treatment. Transl Androl Urol 2017; 6:791–802.
+21. Alemany L, Cubilla A, Halec G, et al. Role of human papillomavirus in
+penile carcinomas worldwide. Eur Urol 2016; 69:953–961.
+22. Scheiner MA, Campos MM, Ornellas AA, et al. Human papillomavirus and penile cancers in Rio de Janeiro, Brazil: HPV typing and clin
+–
+ical features. Int Braz J Urol 2008; 34:467 474; discussion 75-6.
+
+
+Sexually Transmitted Diseases   - Volume 49, Number 5, May 2022 375
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 by the American Sexually Transmitted Diseases Association. Unauthorized reproduction of this article is prohibited.
+
+Catalfamo et al.
+
+23. Colpani V, Soares Falcetta F, Bacelo Bidinotto A, et al. Prevalence of
+human papillomavirus (HPV) in Brazil: A systematic review and
+meta-analysis. PLoS One 2020; 15:e0229154.
+24. Miralles-Guri C, Bruni L, Cubilla AL, et al. Human papillomavirus
+prevalence and type distribution in penile carcinoma. J Clin Pathol
+2009; 62:870–878.
+25. Asiaf A, Ahmad ST, Mohammad SO, et al. Review of the current
+knowledge on the epidemiology, pathogenesis, and prevention of human papillomavirus infection. Eur J Cancer Prev 2014; 23:206–224.
+
+
+26. Carter JJ, Koutsky LA, Hughes JP, et al. Comparison of human papillomavirus types 16, 18, and 6 capsid antibody responses following incident infection. J Infect Dis 2000; 181:1911–1919.
+27. Markowitz LE, Gee J, Chesson H, et al. Ten years of human papillomavirus vaccination in the United States. Acad Pediatr 2018; 18(2S):S3–S10.
+28. McClung NM, Gargano JW, Bennett NM, et al. Trends in human
+papillomavirus vaccine types 16 and 18 in cervical precancers,
+2008–2014. Cancer Epidemiol Biomarkers Prev 2019; 28:
+602–609.
+
+
+[For further references, please see “Supplemental References,” http://links.lww.com/OLQ/A788.](http://links.lww.com/OLQ/A788)
+
+376 Sexually Transmitted Diseases  - Volume 49, Number 5, May 2022
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 by the American Sexually Transmitted Diseases Association. Unauthorized reproduction of this article is prohibited.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

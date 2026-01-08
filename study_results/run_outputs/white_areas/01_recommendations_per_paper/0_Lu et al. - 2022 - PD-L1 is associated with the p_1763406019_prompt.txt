@@ -1,0 +1,1044 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    OPEN ACCESS
+
+EDITED BY
+
+Marco Borghesi,
+University of Genoa, Italy
+
+REVIEWED BY
+
+Guru P. Sonpavde,
+Dana–Farber Cancer Institute,
+
+United States
+
+Alcides Chaux,
+
+Universidad del Norte, Paraguay
+
+*CORRESPONDENCE
+
+Hongjun Li
+[yplmailbox@126.com](mailto:yplmailbox@126.com)
+
+SPECIALTY SECTION
+
+This article was submitted to
+
+Genitourinary Oncology,
+a section of the journal
+Frontiers in Oncology
+
+RECEIVED 07 August 2022
+
+ACCEPTED 03 November 2022
+
+PUBLISHED 30 November 2022
+
+CITATION
+
+Lu Y, Wang Y, Su H and Li H (2022)
+PD-L1 is associated with the prognosis
+of penile cancer: A systematic review
+and meta-analysis.
+Front. Oncol. 12:1013806.
+
+[doi: 10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+COPYRIGHT
+
+© 2022 Lu, Wang, Su and Li. This is an
+open-access article distributed under
+
+[the terms of the Creative Commons](http://creativecommons.org/licenses/by/4.0/)
+
+[Attribution License (CC BY). The use,](http://creativecommons.org/licenses/by/4.0/)
+
+distribution or reproduction in other
+forums is permitted, provided the
+original author(s) and the copyright
+owner(s) are credited and that the
+
+original publication in this journal is
+cited, in accordance with accepted
+academic practice. No use,
+distribution or reproduction is
+permitted which does not comply with
+
+these terms.
+
+
+TYPE [Systematic Review](https://www.frontiersin.org/journals/oncology#editorial-board)
+
+PUBLISHED [30 November 2022](https://www.frontiersin.org/journals/oncology#editorial-board)
+
+DOI [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+# PD-L1 is associated with the prognosis of penile cancer: A systematic review and meta-analysis
+
+Yi Lu, Yutao Wang, Hao Su and Hongjun Li [*]
+
+Department of Urology, Peking Union Medical College Hospital, Peking Union Medical College,
+Chinese Academy of Medical Sciences, Beijing, China
+
+Background: Previous studies have explored the role of PD-L1 in the survival
+
+outcomes of penile cancer patients with controversies existed. Thus, the meta
+analysis was conducted to report and review the association between PD-L1
+
+and survival in penile cancer patients.
+
+Methods: PubMed, Cochrane Library, EMBASE, and Web of Science were all
+searched, screened, and reviewed by June 1, 2022. Hazard ratio (HR) was used
+
+to evaluate the relationship between PD-L1 and survival outcome, and odds
+
+ratio (OR) was for tumor features.
+
+Results: Nine retrospective studies (1,003 patients) were incorporated. The
+prevalence of PD-L1 in patients with penile cancer was 51.4% (95% CI = 42.1%60.8%, I [2] = 88.5%). Higher PD-L1 on tumor cells was related to shorter cancerspecific survival (CSS) in patients (HR = 1.578, 95% CI = 1.227-2.029, I [2] = 23.3%), but
+
+had no associations with overall survival (OS) (HR = 1.123, 95% CI = 0.511-2.465,
+I [2] = 0.0%). Subgroup analysis indicated that higher PD-L1 was related to shorter
+CSS in Caucasus (HR = 1.827, 95% CI = 1.355-2.465, I [2] = 0.0%) only. Furthermore,
+PD-L1 had associations with tumor stage (pT1 vs. pT2-4, OR = 0.480, 95% CI =
+0.346-0.667, P = 0.001) and tumor grade (Well and moderate vs. Poor, OR = 0.377,
+95% CI = 0.264-0.538, P < 0.001). PD-L1 positivity was also related to lymph node
+(LN) status (pN0/NX vs. pN1–3, OR = 0.541, 95% CI = 0.385-0.759, P = 0.001) and
+HPV status (Positive vs. Negative, OR = 0.510, 95% CI = 0.322-0.810, P = 0.003). A
+
+trend toward statistical significance between PD-L1 and histological types was also
+
+observed (Usual SCC vs. Others, OR = 1.754, 95% CI = 0.984-3.124, P = 0.070).
+
+Conclusions: PD-L1 over-expression was related to worse survival outcomes
+
+and several clinicopathological features of penile cancer. PD-L1 expression can
+
+be applied to select appropriate treatment strategies for penile malignancies.
+
+[Systematic review registration: https://www.crd.york.ac.uk/prospero/display_](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=343041)
+
+[record.php?RecordID=343041, identifier CRD42022343041.](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=343041)
+
+KEYWORDS
+
+PD-L1, immune checkpoint, prognostic biomarker, meta-analysis, penile carcinoma
+
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 01 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+## Introduction
+
+Penile cancer, with substantial differences in prevalence, is a
+rare carcinoma in industrialized countries (1). Penile squamous
+cell carcinoma (SqCC) accounts for 95% of all penile
+malignancies (2). Therapeutic options for locally advanced
+metastatic penile SqCC are limited and most of the patients
+die within one year (3). Surgery combined with subsequent
+platinum-based chemotherapy usually had a moderate response,
+while 63.3% of patients still suffer tumor recurrence or
+progression after first-line chemotherapy (paclitaxel,
+ifosfamide, and cisplatin) and the median survival is only 5.6
+months (4). Recently, immunotherapy has yielded dramatically
+improved long-term survival benefits in several SqCC, especially
+among patients with high programmed death receptor ligand-1
+(PD-L1)/programmed death receptor-1 (PD-1) expression (5,
+6). Given the high expression of PD-L1 in the penile SqCC
+tumor microenvironment, immunotherapy may be an efficient
+strategy (7).
+The immune checkpoint had been regarded as the milestone
+
+event in tumor research for decades. The mechanisms
+
+underlying tumor development and progression in the
+background of immunotherapy have also been widely
+discussed (8, 9). Recently, the favorable efficacy of
+immunotherapy has been found and validated in many
+malignancies (10–12). PD-L1, on the tumor cells, could bind
+to PD-1, suppressing immune cell proliferation and release of
+
+immune molecules. Tumor cells can evade immune surveillance
+
+through immune checkpoints. Finally, tumor recurrence or
+metastasis happened (13, 14). In the field of penile cancer,
+increasing studies have demonstrated the role of PD-L1
+expression in survival outcomes and they got controversial
+findings. Some evidence indicated that higher PD-L1 was
+related to poor survival for penile cancer (15), while some
+reported opposing findings (16, 17). Therefore, we formulated
+clinical questions under the guidance of the PICOS strategy and
+firstly assessed the role of PD-L1 expression (high or low) in
+survival outcomes and the clinicopathological features in penile
+cancer patients through a meta-analysis.
+## Methods
+
+Data sources
+
+Detailed inclusion criteria were raised according to the
+established reporting guidelines (18, 19). Three authors
+independently reviewed all available literature in PubMed,
+Cochrane Library, EMBASE, and Web of Science in June
+2022. No eligible randomized-controlled trials (RCTs) with
+interventions were found and observational studies reporting
+
+the effect of PD-L1 on tumor behaviors or survival outcomes in
+
+
+penile cancer patients were all included. The references and
+citations were also searched and checked carefully. The
+keywords for the search were “PD-L1” and “penile cancer”.
+Supplementary Table 1 showed the detailed search strategy.
+Notably, this study is a conventional trial-level meta-analysis,
+thus no individual patient-level data were available. The protocol
+of the study was registered in PROSPERO (CRD42022343041).
+
+Criteria for inclusion and exclusion
+
+Inclusion criteria: (a) Population: penile cancer patients without
+non-surgical treatments. (b) Interventions: Expression of PD-L1 (≥
+cut-off value) on tumor cells. (c) Comparators: Expression of PD-L1
+(< cut-off value) on tumor cells. (d) Outcomes: Survival outcomes
+
+or clinicopathological characteristics of penile carcinoma cases. (e)
+Study design: No restriction. (f) Article types: Original article or
+study with standard reporting and sufficient data. (g) Information
+on survival outcomes: Hazard ratio (HR) and 95% confidence
+
+interval (95%CI) could be obtained directly or indirectly. (i)
+Studies with a sample size of more than 20. We excluded studies
+that can’t meet the inclusion criteria or those with low quality
+for reporting.
+
+Data collection
+
+Three authors screened the retrieved records independently.
+Items including the first author, study year, study design, study
+region, demographic information, cut-off value, median followup duration, and survival outcomes were extracted. We obtained
+missing or unclear information through contact with the article
+
+authors. Information will be considered as not mentioned or not
+
+available if there was no reply. By using the validated tool (20),
+HRs and their 95%CIs were digitized from studies that only had
+Kaplan-Meier curves.
+
+Risk of bias assessment
+
+A modified Newcastle–Ottawa scale (NOS) was used for RoB
+
+analysis (21). An agreement was reached through consensus
+among the 3 authors and communication with the
+
+article authors.
+
+Statistical analysis
+
+PD-L1 expression and its association with tumor behaviors
+were presented by pooled odds ratio (ORs) and HR was used to
+demonstrate the relationship between PD-L1 and survival
+outcomes. If significant heterogeneity was found or I [2] - 50%,
+
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 02 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+
+we utilized random-effect models, otherwise we chose fixed
+effect models (22). Publication bias was evaluated through Begg’s
+test and Egger’s test, and displayed by funnel plots. Sensitivity
+analyses were done by excluding a study at one time and a
+cumulative meta-analysis was also done. STATA 12.0 (StataCorp.) was used for statistical analyses. A two-tailed P < 0.05 was
+considered statistically significant.
+## Results
+
+Literature selection
+
+Two hundred and eighty-five non-repeated records were
+identified. We excluded records for the following reasons: not
+
+FIGURE 1
+
+PRISMA flow chart of the the data search.
+
+
+original articles or irrelevant topics (n=239), studies with limited
+sample size (≤ 20) (n=20), or insufficient data (n=17). Finally, we
+included 9 retrospective cohort studies (1,003 individuals) in the
+study (shown in Figure 1) (15–17, 22–27).
+
+Characteristics of included studies
+
+All 9 studies were published in recent six years (Table 1)
+and they were conducted across 6 countries, with 3 studies
+
+in China, 2 in the USA, 1 in Brazil, 1 in Sweden, 1 in the
+
+Netherlands, and 1 in Germany. Immunohistochemistry (IHC)
+was adopted to analyze the expression of PD-L1 in tumor
+tissues in all the studies. All studies had NOS grades ≥ 7
+(Supplementary Table 2).
+
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 03 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+TABLE 1 Characteristics of included studies.
+
+
+Study
+(author,
+year) [reference]
+
+
+Study Study Ethnicity Sample Cutoff Positive
+type region size value PD-L1
+(%)
+
+
+Median
+follow-up
+(months)
+
+
+Survival Evaluated Method
+
+cells
+
+
+Udager 2016 (15) RC USA Caucasian 37 penile ≥5% 62.16 N.M. CSS Tumor cells Immunohistochemistry
+Sqcc and TILs (Antibody: clone 5H1)
+
+Cocks 2016 (22) RC USA Caucasian 53 penile N.M. 39.62 N.M. CSS/OS Tumor cells Immunohistochemistry
+Sqcc (Antibody: E1L3N)
+
+Ottenhof 2016 RC Netherlands Caucasian 213 penile ≥1% 48 62 CSS Tumor cells Immunohistochemistry
+(24) cancer and TILs (Antibody: E1L3N)
+
+Deng 2017 (23) RC China Asian 116 penile ≥5% 53.4 N.M. CSS Tumor cells Immunohistochemistry
+Sqcc and TILs (Antibody: E1L3N)
+
+Davidsson 2018 RC Sweden Caucasian 222 penile ≥5% 31.53 34 CSS Tumor cells Immunohistochemistry
+(25) Sqcc and TILs (Antibody: SP142 and
+28.8)
+
+De Bacco 2019 RC Brazil Caucasian 40 penile ≥1% 51.4 46.87 OS Tumor cells Immunohistochemistry
+(26) Sqcc (Antibody: colne ZR3,
+zeta-corporation)
+
+Chu 2020 (16) RC China Asian 178 penile ≥1% 67.42 88 CSS Tumor cells Immunohistochemistry
+Sqcc and TILs (Antibody: E1L3N)
+
+Hu 2020 (17) RC China Asian 84 penile H-Score 60.71 32.1 CSS Tumor cells Immunohistochemistry
+Sqcc (Antibody: ab205921,
+Abcam)
+
+Müller 2022 (27) RC Germany Caucasian 60 penile N.M. 50 N.M. OS Tumor cells Immunohistochemistry
+Sqcc and TILs (Antibody: clone ZR3)
+
+RC, retrospective cohort study; OS, overall survival; CSS, cancer specific survival; IHC, immunohistochemistry staining; N.M, not mentioned; TIL, tumor infiltrating lymphocytes.
+
+
+Prevalence of PD-L1 in penile carcinoma
+
+The prevalence ranges from 48.0 to 67.4% in studies
+(Table 1). The pooled prevalence of PD-L1 in penile cancer
+was 51.4% (random effect, 95%CI=42.1-60.8%, I [2] =
+
+88.5%) (Figure 2).
+
+Association between PD-L1 and survival
+
+Seven studies, with 903 individuals, reported CSS
+(summarized in Table 2). The pooled results demonstrated
+that higher PD-L1 level was associated with shorter CSS (HR
+= 1.578, 95% CI = 1.227-2.029, I [2] = 23.3%) (Figure 3). Three
+studies, with 153 individuals, reported OS. We found that PD-L1
+had no significant association with OS in patients with penile
+carcinoma (HR = 1.123, 95% CI = 0.511-2.465, I [2] =
+
+0.0%) (Figure 4).
+Results of meta-regression and subgroup analyses were
+presented in Table 2. No significant results were determined
+among the subgroups in terms of OS. The subgroup analysis by
+race indicated that higher PD-L1 (higher than cut-off values) was
+associated with shorter CSS in Caucasians (HR = 1.827, 95%
+CI = 1.355-2.465, I [2] = 0.0%) but not in Asians (HR = 0.852, 95%
+CI = 0.491-1.475, I [2] = 5.8%). Moreover, results indicated that
+
+higher PD-L1 levels were associated with shorter CSS in the
+
+
+studies conducted in the USA (HR = 1.915, 95% CI = 1.3622.693, I [2] = 0.0%), but not in other countries. No significant
+difference was determined in any subgroup (P interaction - 0.05
+for all).
+
+PD-L1 and tumor behaviors
+
+Results on this were recorded in Table 3. We observed that
+
+higher PD-L1 in penile cancer had relationships with higher
+tumor stage (pT1 vs. pT2-4, OR = 0.480, 95% CI = 0.346-0.667, P
+= 0.001) and more advanced tumor grade (Well and moderate
+vs. Poor, OR = 0.377, 95% CI = 0.264-0.538, P < 0.001).
+
+Significant associations were also found between PD-L1
+
+–
+positivity and lymph node (LN) positivity (pN0/NX vs. pN1
+3, OR = 0.541, 95% CI = 0.385-0.759, P = 0.001) and HPV
+
+negativity (Positive vs. Negative, OR = 0.510, 95% CI = 0.3220.810, P = 0.003). Moreover, there was a trend toward statistical
+
+significance between PD-L1 positivity and usual histological
+types (Usual SCC vs. Others, OR = 1.754, 95% CI = 0.9843.124, P = 0.07). However, PD-L1 levels had no significant
+associations with penile cancer in terms of lympho-vascular
+invasion (LVI) (presence vs. absence, OR = 1.005, 95% CI =
+0.561-1.800, P = 0.087). Local recurrence, distant progression,
+and p16 were only reported in a single article, thus pooled results
+were not achievable (15).
+
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 04 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+FIGURE 2
+
+Prevalence of PD-L1 expression in penile cancer. CI, confidence interval.
+
+
+Publication bias
+
+No significant publication bias was found (CSS: Begg’s test,
+P = 0.652; Egger’s test, P = 0.764 (Figure 5).
+
+Sensitivity analysis
+
+We extracted each study subsequently in each analysis,
+finding that no study could affect the pooled result
+significantly, thus the results were reliable (Figure 6). The
+cumulative meta-analysis was performed in the order of
+publication year (Figure 7). It revealed that higher PD-L1
+
+levels were related to shorter CSS, but not the OS.
+
+Furthermore, we also found that the 95%CIs narrowed and the
+
+pooled results gradually moved near the null.
+## Discussion
+
+To our knowledge, we firstly assessed the role of PD-L1 in
+penile cancer patients by conducting a meta-analysis. The
+pooled prevalence of PD-L1 in patients with penile carcinoma
+was 51.4% (42.1% to 60.8%) and results indicated that higher
+
+PD-L1 was not related to OS but was associated with shorter
+
+CSS. Notably, higher PD-L1 had associations with worse CSS in
+Caucasian penile cancer patients, especially patients from the
+USA. When it comes to tumor behavior, higher PD-L1 had
+associations with higher tumor stage and grade of penile
+carcinoma, LN positivity, and HPV negativity. Moreover, a
+
+
+trend toward statistical significance was also observed between
+positive PD-L1 and usual SqCC.
+In the meta-analysis, seven studies reported a high
+expression rate (>40%) of PD-L1 (15–17, 23, 24, 26, 27),
+which provided rationality for immunotherapy application in
+such cancer. However, different cut-off values, small sample
+sizes, and diverse primary antibody species may influence
+the prevalence.
+Due to the rarity of penile carcinoma, it had been largely
+neglected by urologic academic associations (28). Up till now,
+studies reporting the role of PD-L1/PD-1 in the prognosis of
+urological tumors had been focused mainly on urothelial
+carcinoma of the bladder (UCB), prostate cancer, and RCC
+(29). Only the well-designed studies included in the metaanalysis investigated the role of PD-L1 in penile carcinoma,
+but these studies were often designed differently. The metaanalysis only pooled the results from 9 studies reporting PD-L1
+levels from tumor cells. Previous large clinical trials firstly
+explored the role of immunotherapy in advanced penile cancer
+or metastatic penile cancer (NCT03333616 and NCT03774901)
+(30, 31). They showed that these refractory conditions can’t
+achieve prognostic improvement after first-line modality
+
+treatment, while Avelumab or the combination of Nivolumab
+
+and Ipilimumab can enhance the prognosis. However, they did
+not compare the efficacy difference between subgroups of PD-L1
+high and low, as researchers did in other types of tumors. Under
+the light of clinical trials, a few case series and case reports were
+published, promoting the application of immunotherapy in
+penile carcinoma and indicating the crucial role of PD-L1
+expression in immunotherapy (32–35). Unfortunately, there
+
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 05 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+TABLE 2 Subgroup analyses between PD-L1 expression and survival outcomes.
+
+OS CSS
+
+
+No. of Pooled HR Heterogeneity P-value for No. of Pooled HR Heterogeneity P-value for
+studies (95% CI) interaction studies (95% CI) interaction
+I [2] P- I [2] P
+
+I [2] P- I [2]
+
+(%) value
+
+
+I P
+(%) value
+
+
+Overall 3 1.123 (0.511, 0.0 0.764 7 1.578 (1.227, 23.3 0.252
+
+2.465) 2.029)
+
+Year of 0.523 0.130
+
+publication
+
+2018 and 1 1.320 (0.532, — — 5 1.868 (1.400, 0.0 0.959
+
+before 3.274) 2.465)
+
+After 2018 2 0.691 (0.143, 0.0 0.824 2 0.852 (0.491, 5.8 0.303
+
+3.331) 1.475)
+
+Race 0.253 0.075
+
+Caucasus 3 1.123 (0.511, 0.0 0.764 4 1.827 (1.355, 0.0 0.914
+
+2.465) 2.462)
+
+Asian 0 — — — 3 1.105 (0.693, 51.6 0.127
+
+1.761)
+
+NOS score 0.485 0.100
+
+7 2 1.184 (0.507, 0.0 0.512 2 1.915 (1.362, 0.0 0.829
+
+2.764) 2.693)
+
+8 1 0.810 (0.099, — — 5 1.253 (0.863, 21.0 0.281
+
+6.645) 1.818)
+
+Region 0.326 0.156
+
+USA 1 1.320 (0.532, — — 2 1.915 (1.362, 0.0 0.829
+
+3.274) 2.693)
+
+Netherland 0 — — — 1 1.710 (0.801, — —
+
+3.653)
+
+China 0 — — — 3 1.105 (0.693, 51.6 0.127
+
+1.761)
+
+Sweden 0 — — — 1 1.310 (0.450, — —
+
+3.812)
+
+Brazil 1 0.810 (0.099, — — 0 — — —
+
+6.645)
+
+Germany 1 0.565 (0.053, — — 0 — — —
+6.028)
+
+OS, overall survival; CSS, cancer specific survival.
+
+
+were few studies in this area, and more well-designed studies
+
+are warranted.
+
+Currently, checkpoint inhibitors have been widely
+rationalized in several cancers for their great efficacy and
+accepted adverse effects compared with conventional therapies
+(36). If PD-L1 levels in tumor cells were linked to clinical and
+
+pathological features, the PD-L1 inhibitors would inhibit the
+tumor biology, such as invasion, recurrence, and metastasis, etc.
+In the study, PD-L1 was related to penile cancer in T stage,
+tumor grade, and LN status, similar findings have been indicated
+in both penile cancer and other types of tumors (37). Results
+indicated that PD-L1 could not promote the lymphovascular
+invasion (LVI) of penile cancer, while only three studies
+mentioned related data and some heterogeneity existed in
+these studies (17, 24, 26). The results may provide evidence for
+
+
+immunotherapy and rationalize it as a promising perioperative
+therapy for penile cancer.
+Apart from PD-L1, some newly developed molecules related
+to genetic, epigenetic, and immune responses in patients with
+penile cancer should also be mentioned. Marchi et al. utilized
+data from a public database identifying STAT1, which is
+potentially associated with dysfunction of the immune system,
+as prognostic factor for penile cancer (38). Later, it was found
+that the knockdown of CCL20, CXCL13, or CXCL5 gave the
+same results shown by significant suppression of STAT1 level
+and inhibition of MMP2 and MMP9 expression, leading to the
+diminished proliferation, migration, and invasion of penile
+cancer cells (39, 40). SHCBP1 is a gene that has physiological
+associations with T cell proliferation and signaling. Researchers
+have concluded that SHCBP1 may be used as a prognostic
+
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 06 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+FIGURE 3
+
+Prognostic value of PD-L1 for CSS. CSS, cancer specific survival; HR, hazard ratio; CI, confidence interval.
+
+
+biomarker. In vitro and in vivo experiments indicated that
+
+SHCBP1 knockdown results in the decrease of the
+
+proliferation, migration, and invasion of penile cancer cells,
+while forced activation of STAT3 reverses this process (41).
+Together, SHCBP1 has the potential to be used not only as a
+biomarker but also as a target for future treatment strategies.
+Furthermore, more and more promising molecules and
+pathways, including Pten, Smad4/Apc, PPARG, JAK–STAT,
+
+
+and MMP1 were found, providing potential therapeutic targets
+for the uncommon cancer (42, 43).
+
+Our findings have some research and clinical implications.
+Firstly, the expression of PD-L1 may be a meaningful marker for
+prognosis anticipation in penile cancer cases. Patients with
+positive PD-L1 may tend to show more advanced tumor
+features and have a potentially worse cancer-specific prognosis.
+Secondly, PD-L1 expression maybe not the only biomarker
+
+
+FIGURE 4
+
+Prognostic value of PD-L1 for OS. OS, overall survival; HR, hazard ratio; CI, confidence interval.
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 07 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+TABLE 3 Association between PD-L1 expression and clinicopathological features of penile carcinoma.
+
+Items No.of studies Pooled OR (95%CI) I2 (%) P-value [#] Model
+
+Grade (Well and moderate vs. Poor) 6 0.377 (0.264, 0.538) 0.0 0.519 Fixed
+
+Lymphovascular invasion (Presence vs. Absence) 3 1.005 (0.561, 1.800) 29.5 0.242 Fixed
+
+Stage (pT1 vs. pT2-4) 6 0.480 (0.346, 0.667) 0.0 0.509 Fixed
+
+LN status (pN0/NX vs. pN1–3) 7 0.541 (0.385, 0.759) 0.0 0.543 Fixed
+
+Histology (Usual SCC vs. Other) 4 1.754 (0.984, 3.124) 2.2 0.381 Fixed
+
+HPV status (Positive vs. Negative) 3 0.510 (0.322, 0.810) 0.0 0.903 Fixed
+
+OR, odds ratio; CI, confidence interval.
+# P-value of heterogeneity test.
+
+
+associated with prognosis in the population, which should be
+identified in future laboratory studies. Thirdly, PD-1/PD-L1
+blockades could be an effective treatment selection for penile
+cancer patients with positive PD-L1. We have also conducted a
+similar study in RCC (44). We found that the expression of PD-L1
+in RCC is 27%, thus the expression of PD-L1 is more frequent in
+penile caner. Now that in the post-surgical treatment of advanced
+or metastatic renal cell carcinoma (RCC), immunotherapy has
+become the first-line drug (45). We believed PD-L1-related
+immunotherapy should have much more potential in the
+treatment of penile cancer. While the responsiveness of penile
+cancer to immunotherapy, just like other cancers, depends on
+
+several indicators, such as tumor mutation burden, immune
+
+infiltration patterns, macrophage infiltration patterns, and HPV
+status, etc. Future findings from clinical trials will hopefully
+elucidate the tangible conclusion regarding the role of
+immunotherapy in penile cancer. Given the rarity of the cancer,
+accruing patients to trials is difficult, suggesting the importance of
+multidisciplinary and global collaboration.
+
+FIGURE 5
+
+Funnel plots based on PD-L1 for cancer-specific survival.
+
+
+The study has some strengths. (A) The reliability of the results
+was repeatedly validated in the methodology. (B) IHC is an easy-touse and widely-used method to evaluate the expression of protein.
+Therefore, the findings are clinically performable. The study also
+has some limitations. First and foremost, heterogeneity originating
+
+from the different cut-off values and sometimes the differences in
+
+primary antibody species, makes it difficult to reach a solid
+conclusion. Secondly, PD-L1 or PD-1 expressed by other cells or
+tissues were not evaluated and reviewed. Thirdly, four studies did
+not mention the staging standard (15, 22, 25, 26). Among other
+studies, those published after 2018 used different staging systems
+from those published before 2018. For studies after 2018, they even
+use different staging standards. This makes subgroup analysis
+unavailable. Thus, the differences in staging may cause bias,
+making the pooled results on stage unconvincing. Fourthly, we
+only roughly compared the usual SCC with all other unusual SCC.
+This was conducted and displayed because four of the included
+studies made this comparison and the pooled result was statistically
+calculatable. However, the clinical significance of the result is
+
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 08 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+FIGURE 6
+
+Sensitivity analysis based on PD-L1 for cancer-specific survival.
+
+FIGURE 7
+
+Cumulative meta-analysis for OS (A) and CSS (B), based on year of publication. OS, overall survival; CSS, cancer specific survival; HR, hazard
+ratio; CI, confidence interval.
+
+
+limited because unusual penile SCC consists of various subtypes
+and each subtype has its own pathological and prognostic features.
+In conclusion, the positive rate of PD-L1 was 51.4% (95%CI:
+42.1% to 60.8%) in penile cancer. Higher PD-L1 levels in tumor
+cells were related to shorter CSS in penile cancer patients and
+higher T stage, higher tumor grade, positive LN status, HPV
+negativity, and usual SqCC of penile cancer. Incorporating PDL1 into prognostic tools for adjuvant treatment selection might
+help improve the survival of penile cancer. More studies
+comparing the efficacy difference and prognosis between
+patients with high PD-L1 and those with low PD-L1 are
+expected in the promising field.
+
+## Data availability statement
+
+The original contributions presented in the study are
+included in the article/Supplementary Material. Further
+inquiries can be directed to the corresponding author.
+## Author contributions
+
+(I) Conception: YL and HJL. (II) Administrative support:
+HJL. (III) Collection: YL, HS, and YTW. (IV) Data analysis and
+interpretation: HS and YTW. (V) Manuscript writing, revision
+
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 09 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+̇ ́
+
+̧
+
+
+and approval: All authors. All authors contributed to the article
+and approved the submitted version.
+## Funding
+
+This work is supported by the grant from National Population
+Health Science Data Sharing Service Platform Clinical Medical
+Science Data Center (NCMI-ABD02-201906) to HJL.
+## Conflict of interest
+
+The authors declare that the research was conducted in the
+
+absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest.
+## References
+
+1. Kayes O, Ahmed HU, Arya M, Minhas S. Molecular and genetic pathways
+[in penile cancer. Lancet Oncol (2007) 8(5):420–9. doi: 10.1016/S1470-2045(07)](https://doi.org/10.1016/S1470-2045(07)70137-7)
+[70137-7](https://doi.org/10.1016/S1470-2045(07)70137-7)
+
+2. Moch H, Cubilla AL, Humphrey PA, Reuter VE, Ulbright TM. The 2016
+WHO classification of tumours of the urinary system and Male genital organs-part
+a: Renal, penile, and testicular tumours. Eur Urol (2016) 70(1):93–105. doi:
+[10.1016/j.eururo.2016.02.029](https://doi.org/10.1016/j.eururo.2016.02.029)
+
+3. Pettaway CA, Pagliaro L, Theodore C, Haas G. Treatment of visceral,
+unresectable, or bulky/unresectable regional metastases of penile cancer. Urology
+[(2010) 76(2 Suppl 1):S58–65. doi: 10.1016/j.urology.2010.03.082](https://doi.org/10.1016/j.urology.2010.03.082)
+
+4. Wang J, Pettaway CA, Pagliaro LC. Treatment for metastatic penile cancer
+after first-line chemotherapy failure: Analysis of response and survival outcomes.
+[Urology (2015) 85(5):1104–10. doi: 10.1016/j.urology.2014.12.049](https://doi.org/10.1016/j.urology.2014.12.049)
+
+5. Garassino MC, Gadgeel S, Esteban E, Felip E, Speranza G, Domine M, et al.
+"Patient-reported outcomes following pembrolizumab or placebo plus pemetrexed
+and platinum in patients with previously untreated, metastatic, non-squamous
+non-small-cell lung cancer (KEYNOTE-189): A multicentre, double-blind,
+randomised, placebo-controlled, phase 3 trial." the lancet. Oncology (2020) 21
+[(3):387–97. doi: 10.1016/S1470-2045(19)30801-0](https://doi.org/10.1016/S1470-2045(19)30801-0)
+
+6. Mansfield AS, Każarnowicz A, Karaseva N, Sánchez A, De Boer R, Andric Z,
+et al. Safety and patient-reported outcomes of atezolizumab, carboplatin, and
+etoposide in extensive-stage small-cell lung cancer (IMpower133): A randomized
+[phase I/III trial. Ann Oncol (2020) 31(2):310–7. doi: 10.1016/j.annonc.2019.10.021](https://doi.org/10.1016/j.annonc.2019.10.021)
+
+7. de Vries H-M, Ottenhof SR, Horenblas S, van der Heijden MS, Jordanova ES.
+Defining the tumor microenvironment of penile cancer by means of the cancer
+[immunogram. Eur Urol Focus (2019) 5(5):718–21. doi: 10.1016/j.euf.2019.02.019](https://doi.org/10.1016/j.euf.2019.02.019)
+
+8. Binnewies M, Roberts EW, Kersten K, Chan V, Fearon DF, Merad M, et al.
+Understanding the tumor immune microenvironment (TIME) for effective
+[therapy. Nat Med (2018) 24(5):541–50. doi: 10.1038/s41591-018-0014-x](https://doi.org/10.1038/s41591-018-0014-x)
+
+9. Havel JJ, Chowell D, Chan TA. The evolving landscape of biomarkers for
+checkpoint inhibitor immunotherapy. Nat Rev Cancer (2019) 19(3):133–50. doi:
+[10.1038/s41568-019-0116-x](https://doi.org/10.1038/s41568-019-0116-x)
+
+10. Siefker-Radtke A, Curti B. Immunotherapy in metastatic urothelial
+carcinoma: focus on immune checkpoint inhibition. Nat Rev Urol (2018) 15
+[(2):112–24. doi: 10.1038/nrurol.2017.190](https://doi.org/10.1038/nrurol.2017.190)
+
+11. Siefker-Radtke AO, Apolo AB, Bivalacqua TJ, Spiess PE, Black PC.
+Immunotherapy with checkpoint blockade in the treatment of urothelial
+[carcinoma. J Urol (2018) 199(5):1129–42. doi: 10.1016/j.juro.2017.10.041](https://doi.org/10.1016/j.juro.2017.10.041)
+
+12. Miller KD, Nogueira L, Mariotto AB, Rowland JH, Yabroff KR, Alfano CM,
+et al. Cancer treatment and survivorship statistic. CA Cancer J Clin (2019) 69 ̧
+[(5):363–85. doi: 10.3322/caac.21565](https://doi.org/10.3322/caac.21565)
+
+13. Pardoll DM. The blockade of immune checkpoints in cancer
+[immunotherapy. Nat Rev Cancer (2012) 12(4):252–64. doi: 10.1038/nrc3239](https://doi.org/10.1038/nrc3239)
+
+14. Postow MA, Callahan MK, Wolchok JD. Immune checkpoint blockade in
+[cancer therapy. J Clin Oncol (2015) 33(17):1974–82. doi: 10.1200/JCO.2014.59.4358](https://doi.org/10.1200/JCO.2014.59.4358)
+
+## Publisher’s note
+
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their affiliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+## Supplementary material
+
+The Supplementary Material for this article can be found
+[online at: https://www.frontiersin.org/articles/10.3389/](https://www.frontiersin.org/articles/10.3389/fonc.2022.1013806/full#supplementary-material)
+[fonc.2022.1013806/full#supplementary-material](https://www.frontiersin.org/articles/10.3389/fonc.2022.1013806/full#supplementary-material)
+
+15. Udager AM, Liu TY, Skala SL, Magers MJ, McDaniel AS, Spratt DE, et al.
+Frequent PD-L1 expression in primary and metastatic penile squamous cell
+carcinoma: Potential opportunities for immunotherapeutic approaches. Ann
+[Oncol (2016) 27(9):1706–12. doi: 10.1093/annonc/mdw216](https://doi.org/10.1093/annonc/mdw216)
+
+16. Chu C, Yao K, Lu J, Zhang Y, Chen K, Lu J, et al. Immunophenotypes based
+on the tumor immune microenvironment allow for unsupervised penile cancer
+[patient stratification. Cancers (Basel) (2020) 12(7). doi: 10.3390/cancers12071796](https://doi.org/10.3390/cancers12071796)
+
+17. Hu J, Li H, He T, Deng H, Gong G, Cui Y, et al. A nomogram incorporating
+PD-L1, NLR, and clinicopathologic features to predict inguinal lymph node
+metastasis in penile squamous cell carcinoma. Urol Oncol (2020) 38(7):641.e619–
+[641.e629. doi: 10.1016/j.urolonc.2020.04.015](https://doi.org/10.1016/j.urolonc.2020.04.015)
+
+18. Stroup DF, Berlin JA, Morton SC, Olkin I, Williamson GD, Rennie D, et al.
+Meta-analysis of observational studies in epidemiology: a proposal for reporting.
+meta-analysis of observational studies in epidemiology (MOOSE) group. Jama
+[(2000) 283(15):2008–12. doi: 10.1001/jama.283.15.2008](https://doi.org/10.1001/jama.283.15.2008)
+
+19. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for
+systematic reviews and meta-analyses: the PRISMA statement. Bmj (2009) 339:
+[b2535. doi: 10.1136/bmj.b2535](https://doi.org/10.1136/bmj.b2535)
+
+̇ ́ for incorporating summary time-to-event data into meta-analysis.20. Tierney JF, Stewart LA, Ghersi D, Burdett S, Sydes MR. Practical methods Trials (2007)
+
+[8:16. doi: 10.1186/1745-6215-8-16](https://doi.org/10.1186/1745-6215-8-16)
+
+21. Stang A. Critical evaluation of the Newcastle-Ottawa scale for the
+assessment of the quality of nonrandomized studies in meta-analyses. Eur J
+[Epidemiol (2010) 25(9):603–5. doi: 10.1007/s10654-010-9491-z](https://doi.org/10.1007/s10654-010-9491-z)
+
+22. Cocks M, Taheri D, Ball MW, Bezerra SM, Del Carmen Rodriguez M,
+Ricardo BFP, et al. Immune-checkpoint status in penile squamous cell carcinoma:
+[A north American cohort. Hum Pathol (2016) 59:55–61. doi: 10.1016/](https://doi.org/10.1016/j.humpath.2016.09.003)
+[j.humpath.2016.09.003](https://doi.org/10.1016/j.humpath.2016.09.003)
+
+23. Deng C, Li Z, Guo S, Chen P, Chen X, Zhou Q, et al. Tumor PD-L1
+expression is correlated with increased TILs and poor prognosis in penile
+[squamous cell carcinoma. Oncoimmunology (2017) 6(2):e1269047. doi: 10.1080/](https://doi.org/10.1080/2162402X.2016.1269047)
+[2162402X.2016.1269047](https://doi.org/10.1080/2162402X.2016.1269047)
+
+24. Ottenhof SR, Djajadiningrat RS, de Jong J, Thygesen HH, Horenblas S,
+Jordanova ES. Expression of programmed death ligand 1 in penile cancer is of
+prognostic value and associated with HPV status. J Urol (2016) 197(3 Pt 1):690–7.
+[doi: 10.1016/j.juro.2016.09.088](https://doi.org/10.1016/j.juro.2016.09.088)
+
+25. Davidsson S, Carlsson J, Giunchi F, Harlow A, Kirrander P, Rider J, et al.
+PD-L1 expression in men with penile cancer and its association with clinical
+[outcomes. Eur Urol Oncol (2018) 2(2):214–21. doi: 10.1016/j.euo.2018.07.010](https://doi.org/10.1016/j.euo.2018.07.010)
+
+26. De Bacco MW, Carvalhal GF, MacGregor B, Marçal JMB, Wagner MB,
+Sonpavde GP, et al. PD-L1 and p16 expression in penile squamous cell carcinoma
+[from an endemic region. Clin Genitourin Cancer (2019) 18(3):e254–9. doi: 10.1016/](https://doi.org/10.1016/j.clgc.2019.10.014)
+[j.clgc.2019.10.014](https://doi.org/10.1016/j.clgc.2019.10.014)
+
+27. Müller T, Demes M, Lehn A, Köllermann J, Vallo S, Wild PJ, et al. The periand intratumoral immune cell infiltrate and PD-L1 status in invasive squamous cell
+
+
+̇ ́
+
+̧
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 10 [frontiersin.org](https://www.frontiersin.org)
+
+Lu et al. [10.3389/fonc.2022.1013806](https://doi.org/10.3389/fonc.2022.1013806)
+
+
+[carcinomas of the penis. Clin Transl Oncol (2022) 24(2):331–41. doi: 10.1007/](https://doi.org/10.1007/s12094-021-02694-7)
+[s12094-021-02694-7](https://doi.org/10.1007/s12094-021-02694-7)
+
+28. Bandini M, Ahmed M, Basile G, Watkin N, Master V, Zhu Y, et al. A global
+approach to improving penile cancer care. Nat Rev Urol (2022) 19(4):231–9. doi:
+[10.1038/s41585-021-00557-y](https://doi.org/10.1038/s41585-021-00557-y)
+
+29. Xiong W, Gao Y, Wei W, Zhang J. Extracellular and nuclear PD-L1 in
+modulating cancer immunotherapy. Trends Cancer (2021) 7(9):837–46. doi:
+[10.1016/j.trecan.2021.03.003](https://doi.org/10.1016/j.trecan.2021.03.003)
+
+30. Gassian N, Frontczak A, Mouillet G, Vernerey D, Manseur O, Goujon M,
+et al. Activity and tolerability of maintenance avelumab immunotherapy after first
+line polychemotherapy including platinum in patients with locally advanced or
+metastatic squamous cell penile carcinoma: PULSE. Bull Cancer (2020) 107(5s):
+[eS16–21. doi: 10.1016/S0007-4551(20)30282-4](https://doi.org/10.1016/S0007-4551(20)30282-4)
+
+31. McGregor BA, Campbell MT, Xie W, Farah S, Bilen MA, Schmidt AL, et al.
+Results of a multicenter, phase 2 study of nivolumab and ipilimumab for patients
+with advanced rare genitourinary malignancies. Cancer (2021) 127(6):840–9. doi:
+[10.1002/cncr.33328](https://doi.org/10.1002/cncr.33328)
+
+32. Chahoud J, t. Skelton WP, Spiess PE, Walko C, Dhillon J, Gage KL, et al.
+Case report: Two cases of chemotherapy refractory metastatic penile squamous cell
+carcinoma with extreme durable response to pembrolizumab. Front Oncol (2020)
+[10:615298. doi: 10.3389/fonc.2020.615298](https://doi.org/10.3389/fonc.2020.615298)
+
+33. Su X, Zhang J, Fu C, Xiao M, Wang C. Recurrent metastatic penile cancer
+patient with positive PD-L1 expression obtained significant benefit from
+immunotherapy: A case report and literature review. Onco Targets Ther (2020)
+[13:3319–24. doi: 10.2147/OTT.S231258](https://doi.org/10.2147/OTT.S231258)
+
+34. Hahn AW, Chahoud J, Campbell MT, Karp DD, Wang J, Stephen B, et al.
+Pembrolizumab for advanced penile cancer: a case series from a phase II basket
+[trial. Invest New Drugs (2021) 39(5):1405–10. doi: 10.1007/s10637-021-01100-x](https://doi.org/10.1007/s10637-021-01100-x)
+
+35. Hu L, Shan X, Han D, Guo Z, Wang H, Xiao Z. Multimodal treatment
+combining salvage surgery-assisted chemotherapy and checkpoints blockade
+immunotherapy achieves complete remission on a recurrent penile cancer patient:
+[A case report. Onco Targets Ther (2021) 14:4891–6. doi: 10.2147/OTT.S319932](https://doi.org/10.2147/OTT.S319932)
+
+
+36. Kubli SP, Berger T, Araujo DV, Siu LL, Mak TW. Beyond immune
+checkpoint blockade: emerging immunological strategies. Nat Rev Drug Discov
+[(2021) 20(12):899–919. doi: 10.1038/s41573-021-00155-y](https://doi.org/10.1038/s41573-021-00155-y)
+
+37. Nishino M, Ramaiya NH, Hatabu H, Hodi FS. Monitoring immunecheckpoint blockade: response evaluation and biomarker development. Nat Rev
+[Clin Oncol (2017) 14(11):655–68. doi: 10.1038/nrclinonc.2017.88](https://doi.org/10.1038/nrclinonc.2017.88)
+
+38. Marchi FA, Martins DC, Barros-Filho MC, Kuasne H, Busso Lopes AF,
+Brentani H, et al. Multidimensional integrative analysis uncovers driver candidates
+[and biomarkers in penile carcinoma. Sci Rep (2017) 7(1). doi: 10.1038/s41598-017-](https://doi.org/10.1038/s41598-017-06659-1)
+[06659-1](https://doi.org/10.1038/s41598-017-06659-1)
+
+39. Mo M, Tong S, Huang W, Cai Y, Zu X, Hu X. High serum CCL20 is
+associated with tumor progression in penile cancer. J Cancer (2020) 11(23):6812–
+[22. doi: 10.7150/jca.48939](https://doi.org/10.7150/jca.48939)
+
+40. Mo M, Li Y, Hu X. Serum CXCL5 level is associated with tumor progression
+[in penile cancer. Biosci Rep (2021) 41(1). doi: 10.1042/BSR20202133](https://doi.org/10.1042/BSR20202133)
+
+41. Chen R, Li H, Li Y, Fazli L, Gleave M, Nappi L, et al. Loss of nuclear
+functions of HOXA10 is associated with testicular cancer proliferation. Front Oncol
+[(2018) 8:594. doi: 10.3389/fonc.2018.00594](https://doi.org/10.3389/fonc.2018.00594)
+
+42. Aydin AM, Chahoud J, Adashek JJ, Azizi M, Magliocco A, Ross JS, et al.
+Understanding genomics and the immune environment of penile cancer to
+[improve therapy. Nat Rev Urol (2020) 17(10):555–70. doi: 10.1038/s41585-020-](https://doi.org/10.1038/s41585-020-0359-z)
+[0359-z](https://doi.org/10.1038/s41585-020-0359-z)
+
+43. Huang T, Cheng X, Chahoud J, Sarhan A, Tamboli P, Rao P, et al. Effective
+combinatorial immunotherapy for penile squamous cell carcinoma. Nat Commun
+[(2020) 11(1). doi: 10.1038/s41467-020-15980-9](https://doi.org/10.1038/s41467-020-15980-9)
+
+44. Lu Y, Song Y, Xu Y, Ou N, Liang Z, Hu R, et al. The prevalence and
+prognostic and clinicopathological value of PD-L1 and PD-L2 in renal cell
+carcinoma patients: A systematic review and meta-analysis involving 3,389
+[patients. Transl Androl Urol (2020) 9(2):367–81. doi: 10.21037/tau.2020.01.21](https://doi.org/10.21037/tau.2020.01.21)
+
+45. McKay RR. The promise of adjuvant immunotherapy in renal-cell
+[carcinoma. N Engl J Med (2021) 385(8):756–8. doi: 10.1056/NEJMe2109354](https://doi.org/10.1056/NEJMe2109354)
+
+
+[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology) 11 [frontiersin.org](https://www.frontiersin.org)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

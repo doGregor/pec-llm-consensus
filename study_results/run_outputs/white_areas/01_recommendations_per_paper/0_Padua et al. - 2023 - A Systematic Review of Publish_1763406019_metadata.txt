@@ -1,0 +1,79 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=839 candidates_tokens_details=None prompt_token_count=14064 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=12258), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=1806)] thoughts_token_count=1629 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=16532 traffic_type=None
+
+
+**Extraction and Synthesis of ACC Treatment Recommendations**
+
+Okay, so I've got the paper open, and my mind is already racing, figuring out the best way to extract and organize this information.  My goal is to provide a clear, concise summary of the ACC treatment recommendations, as per the paper, making sure to capture all the critical details.
+
+First, I'm going to start with a broad sweep of the paper, keeping an eye out for those key phrases – "recommended," "should be," "is indicated," and so on – to flag potential treatment guidelines.  I know from experience that the "Discussion" section is usually the richest source, so I'll be spending extra time there.
+
+Next, I will be categorizing each recommendation under logical "Aspects of Care" – Primary Treatment, Adjuvant Therapy, Systemic Therapy, etc. This will give the summary structure and make it easier to understand.
+
+After the categories are settled, the real work starts. I'm going to carefully extract the "who, what, and how" of each recommendation.  That means noting the specific patient characteristics (stage, risk, disease progression), the treatments themselves (drugs, procedures), and any important clarifications (first-line, after surgery, etc.).  Accuracy is crucial here, so I'll be double-checking everything.
+
+Then, I'll synthesize everything into that structured table, the 'bread and butter' of this work. "Aspect of Care" in one column, the corresponding "Recommendation" in the other. This should present the information in an easy-to-digest format.
+
+Finally, I'll conduct a methodical review of the whole paper, cross-referencing my notes to ensure no detail has fallen through the cracks.  It's crucial to be exhaustive.
+
+Here's the current state of my notes, based on that initial scan, focusing on the discussion section:
+
+*   **Primary Treatment (Localized ACC):** Upfront open adrenalectomy and lymphadenectomy, aiming for negative margins are the standard. LA is only an alternative for smaller tumors without lymph node or local invasion. All ACC patients should go to high-volume centers for multidisciplinary treatment.
+*   **Adjuvant Therapy:** Mitotane is *recommended* for high-risk patients (stage III, R1 resection, or Ki-67 > 10%).  It's *not* for low to intermediate-risk patients (R0 surgery, Ki-67 <= 10%). Duration is 2-5 years, with blood monitoring. Adjuvant radiotherapy may be considered in patients with R1 resection or stage III disease (in addition to mitotane). No evidence supports adjuvant chemotherapy.
+*   **Neoadjuvant Therapy:** Not recommended unless in clinical trials. However, it can be considered in locally advanced disease where cytoreduction is needed.
+*   **Systemic Therapy (Advanced/Metastatic ACC):** Mitotane monotherapy *recommended* for low-volume disease or later recurrence after surgery.  Cisplatin-based chemotherapy with mitotane is recommended in patients with extensive and rapid disease.  Cisplatin, etoposide, doxorubicin, and mitotane (FIRM-ACT) is the *preferred* first-line option. Pembrolizumab is an *indicated* treatment option.
+*   **Surgical/Local Therapy (Advanced/Metastatic ACC):** Debulking surgery and metastasectomy may be considered for selected patients with > 90% removable disease and functional tumors.  Ablative treatment can be individualized. Consolidative surgery is also considered in patients with a strong and lasting response to systemic therapy.
+*   **Genetic/Molecular Testing:** GP tests are only recommended in the context of research. NCCN guidelines suggest testing for inherited syndromes, tumor MSI, MMR, and TMB using FDA-approved tests, with NGS testing available for agnostic-approved drugs.
+
+Now, I'll go through the paper systematically to complete the summary. After that, I will consolidate everything into that structured table.
+
+
+
+**Extraction and Synthesis of ACC Treatment Recommendations**
+
+Okay, so I've got the paper open, and my mind is already racing, figuring out the best way to extract and organize this information.  My goal is to provide a clear, concise summary of the ACC treatment recommendations, as per the paper, making sure to capture all the critical details.
+
+First, I'm going to start with a broad sweep of the paper, keeping an eye out for those key phrases – "recommended," "should be," "is indicated," and so on – to flag potential treatment guidelines.  I know from experience that the "Discussion" section is usually the richest source, so I'll be spending extra time there.
+
+Next, I will be categorizing each recommendation under logical "Aspects of Care" – Primary Treatment, Adjuvant Therapy, Systemic Therapy, etc. This will give the summary structure and make it easier to understand.
+
+After the categories are settled, the real work starts. I'm going to carefully extract the "who, what, and how" of each recommendation.  That means noting the specific patient characteristics (stage, risk, disease progression), the treatments themselves (drugs, procedures), and any important clarifications (first-line, after surgery, etc.).  Accuracy is crucial here, so I'll be double-checking everything.
+
+Then, I'll synthesize everything into that structured table, the 'bread and butter' of this work. "Aspect of Care" in one column, the corresponding "Recommendation" in the other. This should present the information in an easy-to-digest format.
+
+Finally, I'll conduct a methodical review of the whole paper, cross-referencing my notes to ensure no detail has fallen through the cracks.  It's crucial to be exhaustive.
+
+Here's the current state of my notes, based on that initial scan, focusing on the discussion section:
+
+*   **Primary Treatment (Localized ACC):** Upfront open adrenalectomy and lymphadenectomy, aiming for negative margins are the standard. LA is only an alternative for smaller tumors without lymph node or local invasion. All ACC patients should go to high-volume centers for multidisciplinary treatment.
+*   **Adjuvant Therapy:** Mitotane is *recommended* for high-risk patients (stage III, R1 resection, or Ki-67 > 10%).  It's *not* for low to intermediate-risk patients (R0 surgery, Ki-67 <= 10%). Duration is 2-5 years, with blood monitoring. Adjuvant radiotherapy may be considered in patients with R1 resection or stage III disease (in addition to mitotane). No evidence supports adjuvant chemotherapy.
+*   **Neoadjuvant Therapy:** Not recommended unless in clinical trials. However, it can be considered in locally advanced disease where cytoreduction is needed.
+*   **Systemic Therapy (Advanced/Metastatic ACC):** Mitotane monotherapy *recommended* for low-volume disease or later recurrence after surgery.  Cisplatin-based chemotherapy with mitotane is recommended in patients with extensive and rapid disease.  Cisplatin, etoposide, doxorubicin, and mitotane (FIRM-ACT) is the *preferred* first-line option. Pembrolizumab is an *indicated* treatment option.
+*   **Surgical/Local Therapy (Advanced/Metastatic ACC):** Debulking surgery and metastasectomy may be considered for selected patients with > 90% removable disease and functional tumors.  Ablative treatment can be individualized. Consolidative surgery is also considered in patients with a strong and lasting response to systemic therapy.
+*   **Genetic/Molecular Testing:** GP tests are only recommended in the context of research. NCCN guidelines suggest testing for inherited syndromes, tumor MSI, MMR, and TMB using FDA-approved tests, with NGS testing available for agnostic-approved drugs.
+
+Now, I'll go through the paper systematically to complete the summary. After that, I will consolidate everything into that structured table.
+ Based on the systematic review provided, the following treatment recommendations for Adrenocortical Carcinoma (ACC) are identified:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **General Management** | Patients should be referred to high-volume centers and managed with a multi-disciplinary approach. |
+| **Primary Treatment (Localized Disease)** | The standard of care for suspected localized ACC is upfront open adrenalectomy and loco-regional lymphadenectomy with negative margins. |
+| **Primary Treatment (Localized Disease)** | To achieve R0 resection, tumor capsule rupture should be avoided, and en bloc resection of macroscopically invaded adjacent organs should be considered. |
+| **Primary Treatment (Localized Disease)** | Laparoscopic adrenalectomy (LA) is considered an alternative approach only for suspected ACC with a diameter of less than 6cm, without lymph node involvement or local invasion. |
+| **Neoadjuvant Therapy** | Neoadjuvant therapy is not recommended by guidelines unless in the context of clinical trials. |
+| **Neoadjuvant Therapy** | For locally advanced disease, neoadjuvant treatment can be considered if cytoreduction is needed for surgery, following discussion in a multidisciplinary tumor board. |
+| **Adjuvant Therapy** | Adjuvant mitotane monotherapy is recommended only for high-risk patients after surgery (defined as stage III disease, R1 resection, or Ki-67 > 10%). |
+| **Adjuvant Therapy** | For patients receiving mitotane, blood monitoring is recommended, and the treatment duration should be at least 2 years but not more than 5 years. |
+| **Adjuvant Therapy** | Adjuvant mitotane should not be used routinely for low to intermediate-risk ACC patients (stage I-III, R0 surgery, Ki-67 ≤ 10%). |
+| **Adjuvant Therapy** | Adjuvant radiotherapy should be considered on an individualized basis for patients with R1 resection or stage III disease, offered in addition to mitotane. |
+| **Adjuvant Therapy** | Adjuvant cytotoxic chemotherapy is not recommended, as there is no evidence to support its use. |
+| **Systemic Therapy (First-Line Advanced/Metastatic)** | The combination of cisplatin, etoposide, doxorubicin, and mitotane is the preferred option for first-line treatment. |
+| **Systemic Therapy (Advanced/Metastatic)** | Mitotane monotherapy is recommended for patients with a low volume of disease, a limited number of metastatic sites, or those with later recurrence after surgery. |
+| **Systemic Therapy (Advanced/Metastatic)** | Mitotane should be combined with cytotoxic cisplatin-based chemotherapy in patients with extensive and rapidly progressive disease. |
+| **Systemic Therapy (Advanced/Metastatic)** | Pembrolizumab is indicated as a treatment option (based on consensus and NCCN guidelines). |
+| **Surgical & Local Management (Advanced/Metastatic)** | Debulking surgery and metastasectomy can be considered for selected patients, especially those with >90% removable disease and functional tumors. |
+| **Surgical & Local Management (Advanced/Metastatic)** | Consolidative surgery with resection of residual disease should be considered in selected patients who achieve a deep and sustained response after systemic therapy. |
+| **Surgical & Local Management (Advanced/Metastatic)** | Ablative treatments (SBRT, thermal therapies, liver-directed therapy) should be indicated on a case-by-case basis as part of an individualized strategy. |
+| **Genetic/Molecular Testing** | Genetic counseling and testing for inherited genetic syndromes (germline) are recommended. |
+| **Genetic/Molecular Testing** | Tumor testing for MSI, MMR, and TMB using an FDA-approved test should be considered. |
+| **Genetic/Molecular Testing** | Next-Generation Sequencing (NGS) testing should be performed when available for the use of agnostic-approved drugs. |

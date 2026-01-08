@@ -1,0 +1,11 @@
+Based on the systematic review and meta-analysis provided ("Combination of radiation and immunotherapy in the treatment of genitourinary malignancies"), here are the findings regarding treatment for penile cancer.
+
+The provided paper is a systematic review of clinical trials investigating the combination of radiation therapy (RT) and immunotherapy (ICI). It does not issue clinical practice guidelines or explicit treatment recommendations. Instead, it reports on the landscape and results of these trials. For penile cancer, the paper identifies and describes a single Phase II trial (PERICLES), noting that it did not meet its primary objective. Therefore, the information below describes an investigational therapy, not a clinical recommendation.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Systemic Therapy / Palliative Care (Investigational)** | The provided paper does not contain any explicit treatment recommendations for penile cancer. It reports on one Phase II clinical trial (PERICLES, NCT03686332) that investigated atezolizumab with or without radiation therapy for a specific patient group. <br><br> **Specific Clinical Indications:** <br> • Patients with advanced squamous cell carcinoma of the penis or distal urethra. <br> • Stage-specific details: T4, N+, or M+. <br><br> **Treatment Modality with Precise Conditions (as studied in the trial):** <br> The trial evaluated two different treatment arms: <br> 1. Atezolizumab monotherapy (1200 mg every 3 weeks). <br> *OR* <br> 2. Atezolizumab in combination with Radiation Therapy (RT). RT was administered in 33 fractions of 1.5 Gy to locoregional affected lymph node and penile regions, plus 1.8 Gy to the macroscopic tumor. <br><br> **Additional Clinical Clarifications:** <br> • The paper explicitly states that this trial did not meet its primary objective (one-year Progression-Free Survival was 12%). Therefore, this is a report on a clinical study's outcome, not an endorsement or recommendation for treatment. |
+| **Diagnosis** | No recommendations were found in the provided paper. |
+| **Primary Treatment** | No recommendations were found in the provided paper. |
+| **Lymph Node Management** | No recommendations were found in the provided paper. |
+| **Follow-up Care** | No recommendations were found in the provided paper. |

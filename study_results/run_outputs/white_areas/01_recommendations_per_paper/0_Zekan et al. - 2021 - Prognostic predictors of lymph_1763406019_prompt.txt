@@ -1,0 +1,1350 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Vol. 47 (5): 943-956, September - October, 2021
+
+doi: 10.1590/S1677-5538.IBJU.2020.0959
+
+# **Prognostic predictors of lymph node metastasis in penile ** **cancer: a systematic review** **_______________________________________________ _______________________________________________**
+
+David S. Zekan [1], Ahmad Dahman [ 1], Ali J. Hajiran [2], Adam M. Luchey [1], Jad Chahoud [2], Philippe E. Spiess [2]
+
+*1* *Department of Urology, West Virginia University, Morgantown, WV, USA;* *2* *Department of Genitourinary*
+*Oncology, H. Lee Moffi tt Cancer Center & Research Institute, Tampa, FL, USA*
+
+
+**ABSTRACT**
+
+*Purpose:* Squamous cell carcinoma (SCC) of the penis is a rare disease in developed
+countries but is associated with signifi cant morbidity and mortality. A crucial
+prognostic factor is the presence of inguinal lymph node metastases (ILNM) at the
+time of diagnosis. At least 25% of cases have micrometastases at the time of diagnosis.
+Therefore, we performed a literature review of studies evaluating factors, both clinical
+and pathological, predictive of lymph node metastases in penile SCC.
+*Materials and methods:* Studies were identifi ed using PubMed and search terms included
+the following: penile cancer, penile tumor, penile neoplasm, penile squamous cell carcinoma,
+inguinal lymph node metastasis, lymph node metastases, nodal metastasis, inguinal node
+metastasis, inguinal lymph node involvement, predictors, and predictive factor. The number
+of patients and predictive factors were identifi ed for each study based on OR, HR, or RR in
+multivariate analyses, as well as their respective signifi cance values. These were compiled to
+generate a single body of evidence supportive of factors predictive of ILNM in penile SCC.
+*Results:* We identifi ed 31 studies, both original articles and meta-analyses, which
+identifi ed factors predictive of metastases in penile SCC. The following clinical factors
+were predictive of ILNM in penile SCC: lymphovascular invasion (LVI), increased grade,
+increased stage (both clinical and pathological), infi ltrative and reticular invasion,
+increased depth of invasion, perineural invasion, and younger patient age at diagnosis.
+Biochemically, overexpression of p53, SOD2, Ki-67, and ID1 were associated with
+spread of SCC to inguinal lymph nodes. Diffuse PD-L1 expression, increased SCC-Ag
+expression, increased NLR, and CRP >20 were also associated with increased ILNM.
+
+*Conclusions:* A multitude of factors are associated with metastasis of SCC of the
+
+penis to inguinal lymph nodes, which is associated with poor clinical outcomes.
+The above factors, most strongly LVI, grade, and node positivity, may be considered
+when constructing a nomogram to risk-stratify patients and determine eligibility for
+prophylactic inguinal lymphadenectomy.
+
+
+**ARTICLE INFO**
+
+***Ali Hajiran***
+http://orcid.org/0000-0002-1465-9821
+
+***Keywords:***
+Penile Neoplasms; Lymphatic
+Metastasis; Health Belief Model
+
+**Int Braz J Urol. 2021; 47: 943-56**
+
+_____________________
+Submitted for publication:
+October 21, 2020
+
+_____________________
+Accepted after revision:
+October 23, 2020
+
+_____________________
+Published as Ahead of Print:
+
+January 20, 2021
+
+
+**INTRODUCTION**
+
+Squamous cell carcinoma (SCC) of the penis is a rare yet distressing condition associated
+with signifi cant morbidity and mortality. In developing countries, however, this rate remains higher
+
+
+at up to 4.4 per 100.000 men. This is commonly
+attributed to a lower rate of circumcision and poor
+hygiene. It is especially rare in developed countries; the incidence in the United States is 0.81 cases per 100.000 men (1). Inguinal lymph nodes are
+not only the fi rst site of metastatic spread, but also
+
+
+943
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+
+a crucial prognostic factor associated with penile
+SCC (2). Therefore, an accurate algorithm for screening and predicting lymph node involvement is
+crucial to management.
+
+The 25% likelihood of micrometastatic disease at time of presentation of penile SCC creates
+further management dilemmas (2). 2020 National
+Comprehensive Cancer Network (NCCN) guidelines
+for management of non-palpable inguinal lymph
+node penile cancer include surveillance if low risk
+(cTis, cTa, cT1a) and chest/abdomen/pelvic imaging followed by inguinal lymph node dissection
+or dynamic sentinel lymph node biopsy (DSLNB)
+if intermediate or high risk (cT1b, cT2 or higher)
+(3). European Association of Urology (EAU) concur that lymph node staging should be offered if
+lymph nodes are nonpalpable and the patient is
+intermediate or high risk (4).
+
+Prophylactic inguinal lymphadenectomy,
+while providing the best survival in clinically
+node-negative patients, can be overtreatment in
+patients that do not have micrometastases due to
+the high morbidity associated with the surgery.
+Studies have shown up to a 25% complication
+rate with the procedure, including skin necrosis,
+wound infection, lymphedema, seroma, lymphocele, and deep vein thrombosis (5, 6). Factors associated with higher risk of inguinal lymph node
+metastasis (ILNM) include higher pathologic tumor stage, higher grade, vascular or lymphatic invasion, and specific histologic features. However,
+identifying reliable predictors of metastasis, specifically micrometastasis, is crucial in the management of penile cancer. Therefore, we conducted
+a systematic review evaluating recent literature to
+better understand predictors of penile SCC LNM.
+
+**MATERIALS AND METHODS**
+
+This systematic literature review was conducted using studies performed between 2000 and
+2020. Searches were conducted using PubMed and
+search terms included the following: penile cancer,
+penile tumor, penile neoplasm, penile squamous
+cell carcinoma, inguinal lymph node metastasis, lymph node metastases, nodal metastasis,
+inguinal node metastasis, inguinal lymph node
+involvement, predictors, and predictive factor.
+
+
+All studies pertinent to the topic were reviewed,
+and references meeting our inclusion criteria not
+generated by our PubMed search were manually
+extracted and reviewed as available.
+
+Eligible studies for inclusion within this
+systematic review were selected based on the
+following: 1) precise definition of predictors; 2)
+sufficient sample size to generate statistically
+significant predictors of LNMs; 3) pathologically-confirmed LNMs; 4) English studies performed
+with human subjects; 5) Studies performed after
+2000; 6) Studies analyzing SCC of the penis as
+opposed to other penile neoplasms.
+
+Definitions of several predictors were defined as previously published (2). Clinically positive inguinal lymph nodes (cN+) were defined as
+those that are palpable or visible with imaging
+examinations. Histological grade was divided
+into three groups: G1 (well-differentiated), G2
+(moderately differentiated), and G3 (poorly differentiated). TNM staging used was based on that
+defined by the NCCN penile cancer guidelines (3).
+Comparison of stages to reach statistically significance varied between studies (Table-1). Growth
+pattern was classified as superficial or vertical;
+Invasion depth was measured from the intact
+basement membrane at the edge of the primary
+tumor to the deepest infiltrating tumor cell. LVI
+was defined as the presence of cancer in the lymphatic or vascular lumen that was detected by
+immunohistochemical staining (2). Histopathological subtypes were classified as low risk (verrucous, papillary, and warty), intermediate risk
+(usual SCCs and mixed forms), and high risk (basaloid, sarcomatoid, adenosquamous, and poorly
+differentiated types) according to EAU guidelines
+(4). PD-L1, Ki-67, SOD1, and ID1 expression and
+P53 immunohistochemistry were measured in tumor. CRP, NLR, and SCC-Ag were measured in
+serum (2). Apparent diffusion capacity was obtained on diffusion-weighted MRI of the penis
+and pelvis (7).
+
+Numbers of subjects (N) within individual original research articles were extracted as
+well as number of lymph node metastases (#LN;
+as available). Statistically significant and insignificant prognosticators (with p-values) were
+also collected.
+
+
+944
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+**Table 1 - Original studies reviewed with factors examined for lymph node metastasis and corresponding statistical significance**
+**on multivariate analysis.**
+
+**Original Studies**
+
+
+
+Peak et. al.
+1636 NR NR
+(2019) (1)
+
+Qu et. al. (2018)
+380 ≥ N1 63 (17)
+(5)
+
+Maciel et. al.
+65 ≥ N1 24 (37)
+(2019) (34)
+
+Zhu et. al.
+73 ≥ N1 30 (41)
+(2007) (19)
+
+
+Grade: 0.002
+
+G2 (vs. G1) 2.58 (1.39-4.79)
+
+G3-4 (vs. G1) 3.27 (1.70-6.29)
+
+LVI 2.49 (1.61-3.84) <0.0001
+
+cN+: 20.0 (11.4-35.7) <0.0001
+
+N1 vs. N0 27.8 (14.1-55.6)
+
+N2 vs. N0 49.2 (14.8-162.8)
+
+N3 vs. N0
+
+Age ≤ 60 0.68 (0.52-0.88) 0.003
+
+≥ T1b 3.32 (1.38-8.01) 0.0075
+
+G2 (vs. 1) 2.98 (1.26-7.62) 0.023
+
+G3 (vs. 1) 3.97 (1.32-11.9) 0.014
+
+T2a 0.341 (0.111-1.049) 0.061
+
+T2b 2.20 (0.399-12.120) 0.365
+
+T3 0.075 (0.012-0.462) 0.005
+
+G2 0.731 (0.282-1.893) 0.518
+
+G3 1.489 (0.145-15.235) 0.737
+
+LVI 5.965 (0.857-41.507) 0.071
+
+P53 expression 1.789 (0.602-5.318) 0.296
+
+≥ T2 NR 0.079
+
+≥ G2 NR 0.118
+
+LVI 5.35 (1.009-28.313) 0.049
+
+High p53 6.01 (1.402-25.764) 0.016
+
+High Ki-67 NR 0.861
+
+High E-cadherin NR 0.089
+
+High MMP-9 NR 0.852
+
+945
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+≥ T2 NR 0.012
+
+Vascular invasion NR 0.005
+
+50+% different NR 0.043
+
+
+Slaton et. al.
+48 ≥ N1 18 (38)
+(2001) (35)
+
+Ficarra et. al.
+175 N+ 71 (41)
+(2006) (36)
+
+Zhu et. al.
+110 ≥ N1 26 (24)
+(2010) (6)
+
+
+G2+ NR 0.393
+
+≥ 20 mitoses/10hpf NR 0.196
+
+Tumor depth NR 0.522
+
+Tumor thickness NR 0.786
+
+Tumor thickness 0.78 (0.27-2.21) 0.6378
+
+Vertical growth pattern 2.40 (0.84-6.80) 0.1008
+
+G2-3 0.79 (0.28-2.25) 0.1110
+
+LVI 15.48 (5.37-44.61) <0.0001
+
+Corpora cavernosa infiltr 1.76 (0.69-4.53) 0.2387
+
+Corpus spongiosum 2.30 (0.87-6.05) 0.0915
+infiltr
+
+Urethra infiltr 1.55 (0.50-4.82) 0.4519
+
+cN+ 6.14 (2.44-15.43) 0.0001
+
+LVI 6.75 (1.28-35.73) 0.024
+
+T2a 2.61 (0.68-10.1) 0.17
+
+T2b 7.32 (0.66-81.52) 0.10
+
+T3 3.78 (0.44-32.66) 0.22
+
+G2 2.77 (0.72-10.72) 0.14
+
+G3 6.89 (0.77-61.88) 0.09
+
+Strong p53 3.22 (0.96-10.86) 0.058
+
+
+PNI NR 0.001
+Velazquez et. al.
+134 N+ 66 (49)
+(2008) (37) High grade NR 0.0001
+
+
+Bhagat et. al.
+53 pN+ 22 (42)
+(2010) (38)
+
+Winters et. al.
+206 pN1+ 51 (25)
+(2016) (39)
+
+
+High grade 14.68 (2.40-89.87) 0.004
+
+LVI 9.83 (1.71-56.57) 0.01
+
+cN+ 7.78 (0.97-62.18) 0.05
+
+LVI 3.1 (1.4-6.9) <0.05
+
+T2 1.50 (0.58-3.88) >0.05
+
+T3/4 1.52 (0.57-4.01) >0.05
+
+G3/4 1.38 (0.66-2.88) >0.05
+
+946
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+LVI 2.173 (1.094-4.320) 0.027
+
+Grade: 0.011
+
+Intermediate 3.309 (1.223-8.949)
+
+
+Graafland et. al.
+342 N+ 68 (20)
+(2010) (40)
+
+Fonseca et. al.
+82 N+ 46 (56)
+(2013) (8)
+
+Dai et. al.
+72 ≥ N1 23 (32)
+(2006) (41)
+
+Emerson et. al.
+22 ≥ N1 10 (45)
+(2001) (42)
+
+Termini et. al.
+125 N+ 44 (35)
+(2015) (10)
+
+Nascimento et.
+55 pN+ 28 (51)
+al. (2020) (14)
+
+
+Poor 4.874 (1.730-13.730)
+
+Corpus spongiosum 1.465 (0.738-2.909) 0.28
+invasion
+
+Corpus cavernosum 1.591 (0.782-3.234) 0.20
+invasion
+
+Urethral invasion 0.906 (0.360-2.279) 0.83
+
+≥ T1b 2.67 (1.16-6.15) * 0.02
+
+LVI 2.09 (1.03-4.22) * 0.04
+
+Infiltrative invasion 2.00 (1.00-4.03) * 0.03
+
+T2-3 (vs. 1) NR 0.004
+
+G2/3 NR 0.207
+
+Tumor depth NR <0.001
+
+Tumor depth NR 0.03
+
+Vascular invasion NR 0.02
+
+Age NR 0.24
+
+Stage NR 0.28
+
+Grade NR 0.53
+
+Carcinoma in situ NR 1.00
+
+cN+ 8.9 (2.7-29.2) <0.001
+
+PNI 9.6 (2.7-33.6) <0.001
+
+Tumor depth 11.6 (1.4-97.1) 0.023
+
+SOD2 overexpression 3.4 (1.1-10.1) 0.029
+
+LVI 7.224 (0.831-22.730) 0.029
+
+Absent koilocytosis 0.088 (2.628-50.718) 0.001
+
+Grade 2.333 (0.101-2.232) 0.288
+
+cN+ 1.106 (0.023-0.821) 0.888
+
+PNI 0.24 (0.126-2.488) 0.099
+
+Stage 1.389 (0.124-2.017) 0.649
+
+947
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+G2 (vs. 1) 2.8 (0.997-7.459) 0.04
+
+G3 (vs. 1) 6.8 (2.560-19.793) <0.001
+
+Stage: 0.362
+
+pT2 3.8 (0.836-16.406)
+
+
+Ramkumar et.
+200 pN1+ 31 (16)
+al. (2009) (43)
+
+
+pT3-pT4 3.1 (0.725-26.361)
+
+Extent of penile surgery: 0.49
+
+Partial 0.3 (0.208-4.798)
+
+Total 0.3 (0.177-6.303)
+
+
+Warli et. al. Ki-67 NR 0.045
+48 N+ 34 (71)
+(2020) (21)
+
+G2 (vs. 1) 26.52 (2.29-306.86) 0.0087
+
+
+Alkatout et. al.
+72 N+ 34 (47)
+(2011) (9)
+
+Wang et. al.
+198 N+ 96 (48)
+(2018) (44)
+
+Ficarra et. al.
+30 pN+ 9 (30)
+(2002) (45)
+
+
+G3 (vs. 1) 44.92 (3.34-604.66) 0.0041
+
+cN+ 3.30 (0.97-11.16) 0.0554
+
+Reticular invasion 5.64 (1.56-20.43) 0.0084
+
+cN+ 8.58 (3.37-21.87) ** <0.001
+
+T2 (vs. 1) 6.37 (1.67-24.35) ** 0.007
+
+T3-4 (vs. 1) 10.98 (1.59-75.64) ** 0.015
+
+G2 (vs. 1) 7.62 (3.106-18.74) ** <0.001
+
+G3-4 (vs. 1) 9.13 (2.00-41.57) ** 0.004
+
+Intermediate risk 3.66 (1.30-10.37) ** 0.021
+histology
+
+High risk histology 28.74 (2.37-348.54) ** 0.008
+
+LVI 2.84 (0.40-20.01) ** 0.296
+
+High grade NR 0.02
+
+Lymphatic invasion NR 0.02
+
+Vascular invasion NR 0.97
+
+Corpora cavernosa NR 0.84
+
+invasion
+
+Urethra infiltration NR 0.77
+
+948
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+CRP >20 NR 0.04
+
+Residential area NR 0.5
+
+
+Al Ghazal et.
+
+al. (2013) 51 N+ 16 (31)
+(22)
+
+Zhou et. al.
+75 ≥ N1 31 (41)
+(2020) (46)
+
+Unadkat et.
+
+al. (2020) 590 pN+ 142 (24)
+(47)
+
+
+BMI NR 0.9
+
+Age NR 0.9
+
+Stage NR 0.01
+
+Grade NR 0.1
+
+G3-4 (vs. 1) 6.467 (1.241-33.684) 0.027
+
+LVI 5.162 (1.056-25.243) 0.043
+
+Short diameter to largest 1.349 (1.133-1.606) 0.001
+clinical LN
+
+G2 (vs. 1) 2.16 0.02
+
+G3-4 (vs. 1) 2.81 <0.001
+
+LVI 3.12 <0.001
+
+
+Ottenhoff et. Diffuse PD-L1 NR <0.01
+
+al. (2017) 213 N+ 66 (31) expression
+(17)
+
+
+Guimaraes
+
+et. al. (2006) 112 N+ 55 (49)
+(48)
+
+
+cN+ 3.83 (1.4-10.0)* <0.05
+
+Lymphatic invasion 3.95 (1.5-10.4) * <0.05
+
+Infiltrating invasion 4.18 (1.5-11.3)* 0.005
+
+
+Radiograph LN NR 0.001
+Luchey et. al.
+51 pN+ 31 (61)
+(2014) (49) Age <65 NR 0.049
+
+
+Li et. al. LVI NR <0.001
+891 N1-N3 166 (19)
+(2019) (50)
+
+p53 overexpression 4.8 (1.6-14.9) * <0.05
+Lopes et. al.
+82 N+ 42 (51)
+(2002) (20) Lymphatic embolization 9.4 (2.8-31.6) * <0.05
+
+Barua et. al. Apparent diffusion NR 0.001
+26 N+ NR
+(2018) (7) capacity on DW-MRI
+
+Hu et. al. ID1 overexpression NR 0.007
+64 N+ 26 (41)
+(2019) (51)
+
+*RR; **HR
+
+**LVI** = lymphovascular invasion; **PNI** = perineural invasion; **cN+** = clinically node positive; **pN+** = pathologically node positive; **MMP-9** = matrix metalloprotease 9; **SOD2**
+= superoxide dismutase 2; **PD-L1** = programmed death-ligand 1; **ID1** = DNA-binding protein inhibitor ID-1
+
+949
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+
+**RESULTS**
+
+Original research articles analyzing clinical, histopathologic, and biochemical predictors of
+LNMs in SCC of the penis are presented in Table-1,
+including number of patients within the study (N),
+definition of positive lymph nodes, number of patients with LNMs (n), percentage of metastases within the study population (%), and factor(s) shown
+to be predictive of lymph node metastases within
+the study (with p-value). Statistically significant
+predictors present in greater than one study are
+shown in Table-2, with total number of patients
+and lymph nodes presented as available within the
+reviewed manuscripts.
+
+**Clinical/Pathological Factors**
+
+Factors known to worsen prognosis for
+patients with SCC of the penis correlate strongly
+with positive lymph node(s) on inguinal lymphadenectomy. Namely, on our review, lymphovascular invasion was shown in both the highest number of studies and patients to correlate with lymph
+node metastases in patients with SCC of the penis.
+In their analysis of 1636 patients, all of whom had
+pathological lymph node staging, Peak et al. demonstrated lymphovascular invasion in 20.6% of
+
+
+patients with odds ratio (OR) of 2.49 (1). Similarly,
+higher grade and stage, as well as clinically positive nodes on exam were shown to be predictors of
+positive pathological involvement of lymph nodes.
+Specifically, 47.4% of patients were G2 and 31.7%
+G3-4, with respective ORs of 2.58 and 3.27. Both
+pathological and clinical staging were significant
+predictors of LNM in this study, with OR of 1.61 and
+1.50 in p2 vs. p3/4 and 23.3, 43.5, and 76.0 in cN1,
+cN2, and cN3, respectively (1). Although less reported, infiltrative (RR=2.68; present in 70.2% with
+ILNM) and reticular invasion (present in 64% with
+ILNM) of the primary lesion on pathologic examination were also significant predictors of positive
+lymph nodes in SCC of the penis (8, 9). Finally, increased depth of invasion, perineural invasion, and
+decreased patient age at diagnosis were shown to
+have predictive value; 90% patients with tumor
+depth <=5mm had ILNM, while 48.8% >5mm had
+metastases. Similarly, 73.5% of patients with perineural invasion had ILNM compared to 24.4% without perineural invasion (10). Age varies amongst
+studies, but Qu et al. note the average age at diagnosis in patients with ILNM to be 62 compared to
+69 in those without (5).
+
+A common, and seemingly reasonable,
+method for determination of patients who should
+
+
+**Table 2 - Quantity of clinical/pathological markers found to be significant amongst all studies.**
+
+**Quantity of clinical/pathological markers:**
+
+
+
+LVI 17 815/2946 (28)
+
+Grade 11 606/2074 (29)
+
+cN+ 8 295/611 (48)
+
+Stage 6 270/845 (32)
+
+Invasion pattern 3 148/266 (56)
+
+Tumor depth 3 77/219 (35)
+
+Age 2 94/431 (22)
+
+PNI 2 110/259 (42)
+
+950
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+
+undergo a full inguinal lymph node dissection is
+through the use of dynamic sentinel lymph node
+biopsy (DSLNB). The NCCN and EAU both recommend use of DSLNB in patients with intermediate- and high-risk disease who have non-palpable
+inguinal nodes on clinical exam. Based on their
+literature review and nomogram, Peak et al. suggest that this should only be performed in centers
+specialized in lymph node mapping by clinicians
+who focus in penile cancer (1). This is due to a
+reported 6% false-negative rate reported by Lam
+et al. (11). Another group performing similar work
+using a large institutional database cited a 7%
+false-negative rate and noted the cost associated
+with DSLNB may outweigh the benefit of extended inguinal node dissection. Schubert et al. performed a smaller study (32 patients) with sentinel
+node sampling followed by inguinal node dissection in positive cases according to EAU guidelines
+and showed no false negatives (12). Underscored
+throughout are the risks associated with DSLNB,
+which are similar albeit less severe than those as
+sociated with a full inguinal dissection and occur
+at a rate of 7.6%: wound infection, lymphocele,
+and hematoma (11). Dell’Oglio et al. suggest that
+a combination radioactive (99mTc-nannocolloid)
+and fluorescent (indocyanine green) tracer can
+increase the sensitivity of DSLNB over regular a
+combination of radiotracer and blue dye. Specifically, in a cohort of 400 patients, they showed a
+39% higher sentinel node detection rate, further
+increasing the sensitivity of this nodal detection
+measure and its clinical utility (13).
+
+Interestingly, one study showed that absence of koilocytosis (seen in epithelial cells with
+HPV infection) was predictive of metastasis; specifically, 32.2% of patients with histological koilocytosis had positive nodes compared to 82%
+without koilocytosis (14). Also, a more easily obtained, but less studied factor that correlates with
+metastasis is the apparent diffusion coefficient
+(ADC) on diffusion-weighted MRI (DW-MRI) of
+the primary tumor, which shows the changes in
+proton mobility when there is underlying pathology or tissue alteration. ADC is lower in the setting
+of lymph node metastases, even when nodes are
+of normal size; one study yielded a sensitivity of
+
+951
+
+
+100% and positive predictive value of 84.61% (7).
+Other advances with MRI in the detection of ILNM
+
+in penile cancer involve the use of ultra-small superparamagnetic iron oxide particles (USPIO) as
+contrast agents. These agents are taken up by penile lymphatics and phagocytosed by resident macrophages; these macrophages are less prevalent
+in metastatic nodes. In a limited study with seven
+men (stage T1b-T2), this detection method showed
+sensitivity of 100%, specificity of 97%, positive
+predictive value of 81.2%, and negative predictive
+value of 100% (15, 16). This provides promise as
+PET/CT is only 57% accurate in predicting ILNM
+in patients with normal groin exams compared to
+96% in patients with palpable nodes (17). Conventional imaging modalities rely on size criteria
+(>8-10mm) to diagnose ILNM. In patients who are
+low-risk for ILNM, an 8mm cut-off in the CT short
+axis provides the most accurate detection, with a
+sensitivity of 87% and a specificity of 81%. For
+patients with high risk for ILNM, size is less accurate, and the most accurate (88%) criteria for nodal involvement is an irregular nodal border with
+a specificity of 95% (15). Moving away from size
+criteria for the evaluation of ILNM in the presence
+of known primary SCC of the penis is crucial, as
+this has the tendency to miss occult metastases in
+normal-sized nodes and to label reactive nodes as
+
+malignant. This led Singh et al. to label overall
+cross sectional imaging (CT and MRI) detection
+of ILNM with a sensitivity of 40-60% and a false
+negative rate of 10-20%. However, these imaging
+methods are helpful in detecting metastases in
+the pelvis/retroperitoneum and in patients whose
+body habitus limit physical examination (18).
+
+**Biochemical Factors**
+
+Less studied predictors of LNM in SCC
+of the penis that remained statistically and clinically significant were noted in individual studies for the purposes of this review. The majority
+of these studies are biochemical markers shown
+
+to be under- or over-expressed in the tumor or
+blood of study subjects. Namely, tumor suppressor p53 overexpression was shown to predict
+migration of primary tumors to inguinal lymph
+nodes (19, 20). The antioxidant and tumor sup
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+
+pressor superoxide dismutase (SOD2) overexpression (overexpression=present in >50% of cells;
+seen in 44.8% of penile SCCs) was also predictive of lymph node involvement: 52.8% of patient
+with nodal involvement had the above criteria for
+
+overexpression compared to 24.6% with <50% of
+cells overexpressing (10). Warli et al. recently reported that overexpression (>20% of nuclei) of the
+nuclear proliferative protein Ki-67 is associated
+with increased movement of SCC of the penis to
+inguinal lymph nodes independent of tumor stage
+and grade (21). Diffuse PD-L1 expression is significantly predictive, which serves as a clinically
+relevant marker because of recent advancements
+
+targeting PD-L1 with immunotherapeutic agents
+(17). Tumor overexpression of ID1, which encodes a DNA-binding protein inhibitor (effectively
+eliminating its DNA-binding ability) is also known to predict node metastasis. Blood level of CRP
+>20mg/dL was the only predictive factor in the
+original research articles reviewed that could be
+detected in the serum (22).
+
+**Pertinent Meta-Analyses**
+
+Various other reviews have sought to define primary tumor characteristics predictive of
+lymph node metastasis in order to better define
+the need for prophylactic inguinal lymphadenectomy in SCC of the penis, many of which overlap
+with the above original studies. Namely, Ficarra
+et al. suggest histologic subtype, pathologic extension, histologic grade, and lymphatic and/or
+venous embolization are the most important factors (23). Specifically, basaloid SCC, >pT1, and
+>G1 predict higher risk of lymph node metastasis
+and poor prognosis. Lymphatic embolization is a
+pathologic diagnosis with nests of carcinomatous
+cells in a lumen with thin walls, without smooth
+muscle fibers or red blood cells. The same condition with red blood cells or smooth muscle fibers
+is considered venous embolization, both of which
+suggest the need for inguinal lymphadenectomy
+(24). Hu et al. performed a meta-analysis of retrospective studies and showed both clinicopathologic and biochemical markers to be associated with
+increased risk of inguinal LNM (2). In addition
+to the clinicopathologic factors cited by Ficarra
+
+
+et al., they showed positive clinical nodes, vertical growth, tumor size (>3cm), invasion depth
+(>5mm), and nerve, corporal, and urethral invasion to be predictors of lymph node metastasis.
+They also added higher neutrophil-to-lymphocyte
+ratios (NLR) and squamous cell carcinoma antigen (SCC-Ag) overexpression to the above list of
+biochemical predictors (23). Zhou et al. performed
+a meta-analysis of exclusively perineural invasion and its ability to predict inguinal lymph node
+metastasis; they showed a statistically significant
+higher rate of LNM in penile SCC with perineural
+invasion compared to that in which nerve invasion is absent (25).
+
+**DISCUSSION**
+
+Development of an algorithm capable of
+accurately predicting ILNM in patients with SCC
+of the penis is crucial, as adequate lymph node
+dissection has been established to improve survival in these patients for almost forty years (26).
+Most of the above clinicopathologic factors associated with increased risk of SCC of the penis metastasis to inguinal lymph nodes are intuitive and
+already established as factors making the disease
+intermediate- or high-risk according to the NCCN.
+In patients with non-palpable inguinal lymph
+nodes, this includes T1b disease and any disease T2 or higher (3). As above, these patients are
+candidates for DSLNB per the NCCN and EUA. In
+patients with palpable inguinal nodes, the NCCN
+suggests movement straight to ILND if the lesion
+is high risk: T1, high-grade, lymphovascular invasion, perineural invasion, or >50% poorly differentiated. Percutaneous biopsy is only suggested
+in patients with low risk disease (3). Essentially,
+our review concurs with and further compliments
+the NCCN guidelines with addition of the following clinically- and pathologically significant
+factors: decreased patient age at diagnosis, absence of koilocytosis, and decreased apparent diffusion coefficient on DW-MRI. Although further
+cost analyses need to be performed for the latter,
+age and koilocytosis on pathological section provide easily obtained measures to increase clinical
+suspicion of ILNM in patients with diagnosed SCC
+
+
+952
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+
+of the penis. With regard to imaging, EAU guidelines state that longitudinal/transverse diameter
+ratio and absence of the lymph node hilum are
+highly specific findings on ultrasound, CT/MRI
+cannot reliably detect micrometastasis, and PET/
+CT will not detect lymph node spread <10mm (4).
+However, our review suggests that use of novel
+MRI contrast agents can be helpful in the detection of ILNM in SCC of the penis.
+
+More novel elements predicting the metastasis of penile SCC to inguinal lymph nodes
+are the biochemical factors in the form of tumor
+
+markers and serum tests outlined above. Certainly, inflammation plays some role in both the initiation and movement of primary penile SCC tumors to lymph nodes, as Hu et al. conclusively
+identified NLR, CRP, and PD-L1 as predictors of
+LNM (2). Neutrophilia and lymphopenia represent
+a systemic inflammatory response and an active
+immune response. Increased NLR has been shown
+to predict poor prognosis in castration-resistant
+prostate cancer, cervical adenocarcinoma, lung
+cancer, and esophageal carcinoma and is known
+to be an independent predictor of overall survival
+in SCC of the penis (2, 27). Similarly, CRP levels
+have been shown to predict poor prognosis in penile SCC patients, but mixed evidence exists for
+their ability to predict specifically ILNM (22, 28,
+29). The transmembrane protein PD-L1 is important in the prognosis of penile SCC because
+of its ability to suppress the host immune system. High expression of this gene is related to
+increased LNM and poor prognosis, but it also
+serves as a common target for immunotherapy,
+reinforcing its theoretical benefit in penile cancer (2). Su et al. describe a case of metastatic
+recurrent SCC of the penis with PD-L1 expression >10% with positive response to immunotherapy with Toripalimab. Effective immunotherapy is crucial as 62% of patients are PD-L1
+overexpressers, which is associated with metastasis and poor clinical outcome (30). SCC-Ag
+is another marker better-studied in SCC of the
+
+cervix, with varying individual results for prediction of LNM vs. solely tumor burden in SCC
+of the penis (31-33). However, Hu et al. conclusively showed with meta-analysis of available
+
+
+evidence that its elevation serves as a predictor of LNM in SCC of the penis (2). Markers
+that have been studied on a very limited basis
+(single studies) include ID1 and SOD2, both of
+which clearly warrant further research before
+their differential expression can definitively be
+called predictive of LNMs. However, the establishment of biomarkers as both predictors of
+metastases and therapeutic targets is crucial, as
+these tumor and serum markers are fairly easily
+obtained in addition to current staining, and
+can provide prognostic value guiding therapy
+as well as immunotherapeutic targets.
+
+Obvious limitations with this review include a wide variation in the methods and inclu
+ded patient populations of original articles and
+systematic reviews/meta-analyses analyzed.
+This complicates performing another meta-analysis using this data. Similarly, our desire
+to outline a host of factors (both clinicopathological and biochemical) contributing to increased risk of LNM limits our ability to perform
+wider data analyses. Regardless, our collection
+of large patient populations through review of
+original research/meta-analyses generates risk
+factors that confidently predict LNM and allow
+for higher clinical suspicion and more aggressive management. Limited evidence for some factors, particularly age and biochemical predictors of LNM, makes it difficult to evaluate their
+clinical utility at present, and further work is
+necessary prior to their incorporation into guidelines.
+
+**CONCLUSION**
+
+Here, we present a thorough review of
+available articles highlighting both clinicopathologic and biochemical factors predictive of
+LNM in patients with penile SCC. Although a
+specific nomogram is not presented, support is
+garnered for clinicians using clinically more
+aggressive grade and stage of tumors, as well
+as incorporation of imaging features and age of
+the patient, into risk stratification and decisions
+to sample nodes. Further, we present evidence
+for the use of inflammatory markers (CRP, NLR,
+
+
+953
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+
+PD-L1) and other tumor markers (p53, SCC-Ag,
+SOD2 and ID1 expression) in risk stratification.
+Clearly, a combination of these markers and clinical/pathological findings should be used as
+part of the shared decision-making model with
+patients suffering from SCC of the penis with potential LNM. Perhaps patients in whom clinical
+suspicion is high for ILNM would benefit from
+workup including the above blood and tumor markers as well as advanced imaging at the time of
+initial biopsy to support or counter the decision to
+perform ILND at the time of penectomy.
+
+**CONFLICT OF INTEREST**
+
+The corresponding author certifies that all
+conflicts of interest, including specific financial interests and relationships and affiliations relevant
+to the subject matter or materials discussed in the
+manuscript (i.e. employment/affiliation, grants or
+funding, consultancies, honoraria, stock ownership
+or options, expert testimony, royalties, or patents
+filed, received, or pending), are the following: DSZ,
+AD, AML, AJH, and JC have no disclosures. PES is
+vice-chair and panel member of the NCCN bladder
+and penile cancer panel and president of the Global
+Society of Rare GU Tumors.
+
+**DATA SHARING STATEMENT**
+
+The data that support the findings of this
+study are available from the corresponding author
+upon reasonable request.
+
+**REFERENCES**
+
+1. Peak TC, Russell GB, Dutta R, Rothberg MB, Chapple AG,
+Hemal AK. A National Cancer Database-based nomogram
+
+to predict lymph node metastasis in penile cancer. BJU Int.
+
+2019; 123:1005-10.
+2. Hu J, Cui Y, Liu P, Zhou X, Ren W, Chen J, et al. Predictors
+of inguinal lymph node metastasis in penile cancer patients:
+
+a meta-analysis of retrospective studies. Cancer Manag Res.
+
+2019; 11:6425-41.
+3. Penile Cancer. NCCN Guidelines - 2020. [Internet]. Available
+at. <https://www.nccn.org/professionals/physician_gls/pdf/
+
+penile.pdf>
+
+
+4. Hakenberg OW, Compérat E, Minhas S, Necchi A, Protzel
+C, Watkin N, et al. EAU Guidelines on Penile Cancer
+
+2020. European Association of Urology –EAU. [Internet].
+
+Available at.<https://uroweb.org/wp-content/uploads/EAU
+Guidelines-on-Penile-Cancer-2020.pdf>
+5. Qu XM, Siemens DR, Louie AV, Yip D, Mahmud A. Validation of
+predictors for lymph node status in penile cancer: Results from
+
+a population-based cohort. Can Urol Assoc J. 2018; 12:119-25.
+6. Zhu Y, Zhang HL, Yao XD, Zhang SL, Dai B, Shen YJ, et
+al. Development and evaluation of a nomogram to predict
+
+inguinal lymph node metastasis in patients with penile
+
+cancer and clinically negative lymph nodes. J Urol. 2010;
+
+184:539-45.
+7. Barua SK, Kaman PK, Baruah SJ, T P R, Bagchi PK, Sarma
+D, et al. Role of Diffusion-Weighted Magnetic Resonance
+
+Imaging (DWMRI) in Assessment of Primary Penile Tumor
+Characteristics and Its Correlations With Inguinal Lymph Node
+
+Metastasis: A Prospective Study. World J Oncol. 2018; 9:145
+50.
+8. Fonseca AG, Soares FA, Burbano RR, Silvestre RV, Pinto
+LO. Human Papilloma Virus: Prevalence, distribution and
+
+predictive value to lymphatic metastasis in penile carcinoma.
+
+Int Braz J Urol. 2013; 39:542-50.
+9. Alkatout I, Naumann CM, Hedderich J, Hegele A, Bolenz C,
+Jünemann KP, et al. Squamous cell carcinoma of the penis:
+
+predicting nodal metastases by histologic grade, pattern of
+
+invasion and clinical examination. Urol Oncol. 2011; 29:774-81.
+10. Termini L, Fregnani JH, Boccardo E, da Costa WH, LongattoFilho A, Andreoli MA, Costa MC, Lopes A, da Cunha IW,
+
+Soares FA, Villa LL, Guimarães GC. SOD2 immunoexpression
+
+predicts lymph node metastasis in penile cancer. BMC Clin
+
+Pathol. 2015; 15:3.
+11. Lam W, Alnajjar HM, La-Touche S, Perry M, Sharma D, Corbishley
+C, et al. Dynamic sentinel lymph node biopsy in patients with
+
+invasive squamous cell carcinoma of the penis: a prospective
+
+study of the long-term outcome of 500 inguinal basins assessed
+
+at a single institution. Eur Urol. 2013; 63:657-63.
+12. Schubert T, Uphoff J, Henke RP, Wawroschek F, Winter
+A. Reliability of radioisotope-guided sentinel lymph node
+biopsy in penile cancer: verification in consideration of the
+European guidelines. BMC Urol. 2015; 15:98.
+13. Dell’Oglio P, de Vries HM, Mazzone E, KleinJan GH, Donswijk
+ML, van der Poel HG, et al. Hybrid Indocyanine Green
+99mTc-nanocolloid for Single-photon Emission Computed
+
+Tomography and Combined Radio- and Fluorescence-guided
+
+Sentinel Node Biopsy in Penile Cancer: Results of 740
+
+Inguinal Basins Assessed at a Single Institution. Eur Urol.
+2020: S0302-2838(20)30698-9.
+
+
+954
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+
+14. Nascimento ADMTD, Pinho JD, Júnior AALT, Larges JS,
+Soares FM, Calixto JRR, et al. Angiolymphatic invasion
+
+and absence of koilocytosis predict lymph node metastasis
+
+in penile cancer patients and might justify prophylactic
+
+lymphadenectomy. Medicine (Baltimore). 2020; 99:e19128.
+15. Bloom JB, Stern M, Patel NH, Zhang M, Phillips JL. Detection
+of lymph node metastases in penile cancer. Transl Androl
+
+Urol. 2018; 7:879-86.
+16. Tabatabaei S, Harisinghani M, McDougal WS. Regional
+lymph node staging using lymphotropic nanoparticle
+
+enhanced magnetic resonance imaging with ferumoxtran-10
+
+in patients with penile cancer. J Urol. 2005; 174:923-7;
+
+discussion 927.
+17. Ottenhof SR, Vegt E. The role of PET/CT imaging in penile
+cancer. Transl Androl Urol. 2017;6:833-8.
+18. Singh AK, Saokar A, Hahn PF, Harisinghani MG. Imaging of
+penile neoplasms. Radiographics. 2005; 25:1629-38.
+19. Zhu Y, Zhou XY, Yao XD, Dai B, Ye DW. The prognostic
+significance of p53, Ki-67, epithelial cadherin and matrix
+metalloproteinase-9 in penile squamous cell carcinoma
+
+treated with surgery. BJU Int. 2007; 100:204-8.
+20. Lopes A, Bezerra AL, Pinto CA, Serrano SV, de MellO CA,
+Villa LL. p53 as a new prognostic factor for lymph node
+
+metastasis in penile carcinoma: analysis of 82 patients
+
+treated with amputation and bilateral lymphadenectomy. J
+
+Urol. 2002; 168:81-6.
+21.  Warli SM, Siregar GP. Over-expression of Ki-67 as a
+predictor of lymph node metastasis in penile cancer patients.
+
+F100020, 24. [Internet]. Available at. <https://f1000research.
+
+com/articles/9-289>
+22. Al Ghazal A, Steffens S, Steinestel J, Lehmann R, Schnoeller
+TJ, Schulte-Hostede A, et al. Elevated C-reactive protein
+
+values predict nodal metastasis in patients with penile
+
+cancer. BMC Urol. 2013; 13:53.
+23. Ficarra V, Akduman B, Bouchot O, Palou J, Tobias-Machado
+M. Prognostic factors in penile cancer. Urology. 2010; 76(2
+Suppl 1):S66-73.
+24. Bezerra AL, Lopes A, Santiago GH, Ribeiro KC, Latorre MR,
+Villa LL. Human papillomavirus as a prognostic factor in
+
+carcinoma of the penis: analysis of 82 patients treated with
+
+amputation and bilateral lymphadenectomy. Cancer. 2001;
+
+91:2315-21.
+25. Zhou X, Qi F, Zhou R, Wang S, Wang Y, Wang Y, et al. The
+role of perineural invasion in penile cancer: a meta-analysis
+
+and systematic review. Biosci Rep. 2018; 38:BSR20180333.
+26. McDougal WS, Kirchner FK Jr, Edwards RH, Killion LT.
+Treatment of carcinoma of the penis: the case for primary
+
+lymphadenectomy. J Urol. 1986; 136:38-41.
+
+
+27. Azizi M, Peyton CC, Boulware DC, Chipollini J, Juwono T,
+Pow-Sang JM, et al. Prognostic Value of Neutrophil-to
+Lymphocyte Ratio in Penile Squamous Cell Carcinoma
+
+Patients Undergoing Inguinal Lymph Node Dissection. Eur
+
+Urol Focus. 2019; 5:1085-90.
+28. Steffens S, Al Ghazal A, Steinestel J, Lehmann R, Wegener
+G, Schnoeller TJ, et al. High CRP values predict poor survival
+
+in patients with penile cancer. BMC Cancer. 2013; 13:223.
+29. Li ZS, Yao K, Li YH, Chen JP, Deng CZ, Zhao Q, et al.
+Clinical significance of preoperative C-reactive protein and
+squamous cell carcinoma antigen levels in patients with
+
+penile squamous cell carcinoma. BJU Int. 2016; 118:272-8.
+30. Su X, Zhang J, Fu C, Xiao M, Wang C. Recurrent Metastatic
+Penile Cancer Patient with Positive PD-L1 Expression Obtained
+Significant Benefit from Immunotherapy: A Case Report and
+Literature Review. Onco Targets Ther. 2020; 13:3319-24.
+31. Hungerhuber E, Schlenker B, Schneede P, Stief CG, Karl A.
+Squamous cell carcinoma antigen correlates with tumor
+
+burden but lacks prognostic potential for occult lymph node
+
+metastases in penile cancer. Urology. 2007; 70:975-9.
+32. Laniado ME, Lowdell C, Mitchell H, Christmas TJ. Squamous
+cell carcinoma antigen: a role in the early identification of
+nodal metastases in men with squamous cell carcinoma of
+
+the penis. BJU Int. 2003; 92:248-50.
+33. Touloupidis S, Zisimopoulos A, Giannakopoulos S,
+Papatsoris AG, Kalaitzis C, Thanos A. Clinical usage of the
+
+squamous cell carcinoma antigen in patients with penile
+
+cancer. Int J Urol. 2007; 14:174-6.
+34. Maciel CVM, Machado RD, Morini MA, Mattos PAL, Dos
+Reis R, Dos Reis RB, et al. External validation of nomogram
+
+to predict inguinal lymph node metastasis in patients with
+
+penile cancer and clinically negative lymph nodes. Int Braz J
+
+Urol. 2019; 45:671-8.
+35. Slaton JW, Morgenstern N, Levy DA, Santos MW Jr, Tamboli
+P, Ro JY, et al. Tumor stage, vascular invasion and the
+
+percentage of poorly differentiated cancer: independent
+
+prognosticators for inguinal lymph node metastasis in penile
+
+squamous cancer. J Urol. 2001; 165:1138-42.
+36. Ficarra V, Zattoni F, Artibani W, Fandella A, Martignoni G,
+Novara G, et al. Penile Cancer Project Members. Nomogram
+
+predictive of pathological inguinal lymph node involvement
+
+in patients with squamous cell carcinoma of the penis. J
+
+Urol. 2006; 175:1700-4; discussion 1704-5.
+37. Velazquez EF, Ayala G, Liu H, Chaux A, Zanotti M, Torres
+J, et al. Histologic grade and perineural invasion are more
+
+important than tumor thickness as predictor of nodal
+
+metastasis in penile squamous cell carcinoma invading 5 to
+
+10 mm. Am J Surg Pathol. 2008; 32:974-9.
+
+
+955
+
+**IBJU** **[|]** **LYMPH NODE METASTASIS PREDICTORS IN PENILE CANCER**
+
+
+38. Bhagat SK, Gopalakrishnan G, Kekre NS, Chacko NK, Kumar
+S, Manipadam MT, et al. Factors predicting inguinal node
+
+metastasis in squamous cell cancer of penis. World J Urol.
+
+2010; 28:93-8.
+39. Winters BR, Mossanen M, Holt SK, Lin DW, Wright JL.
+Predictors of Nodal Upstaging in Clinical Node Negative
+
+Patients With Penile Carcinoma: A National Cancer Database
+
+Analysis. Urology. 2016; 96:29-34. Erratum in: Urology.
+
+2017; 108:243.
+40. Graafland NM, Lam W, Leijte JA, Yap T, Gallee MP, Corbishley
+C, et al. Prognostic factors for occult inguinal lymph node
+
+involvement in penile carcinoma and assessment of the
+
+high-risk EAU subgroup: a two-institution analysis of 342
+
+clinically node-negative patients. Eur Urol. 2010; 58:742-7.
+41. Dai B, Ye DW, Kong YY, Yao XD, Zhang HL, Shen YJ.
+Predicting regional lymph node metastasis in Chinese
+
+patients with penile squamous cell carcinoma: the role of
+histopathological classification, tumor stage and depth of
+invasion. J Urol. 2006; 176(4 Pt 1):1431-5; discussion 1435.
+42. Emerson RE, Ulbright TM, Eble JN, Geary WA, Eckert GJ,
+Cheng L. Predicting cancer progression in patients with
+
+penile squamous cell carcinoma: the importance of depth of
+
+invasion and vascular invasion. Mod Pathol. 2001; 14:963-8.
+43. Ramkumar A, Seshadri RA, Narayanaswamy K,
+Balasubramanian S. Risk factors for lymph node metastasis
+
+in clinically node-negative penile cancer patients. Int J Urol.
+
+2009; 16:383-6; discussion 386-7.
+44. Wang JY, Gao MZ, Yu DX, Xie DD, Wang Y, Bi LK, et al.
+Histological subtype is a significant predictor for inguinal
+lymph node metastasis in patients with penile squamous cell
+
+carcinoma. Asian J Androl. 2018; 20:265-9.
+
+
+45. Ficarra V, Martignoni G, Maffei N, Cerruto MA, Novara G,
+Cavalleri S, et al. Predictive pathological factors of lymph
+
+nodes involvement in the squamous cell carcinoma of the
+
+penis. Int Urol Nephrol. 2002; 34:245-50.
+46. Zhou X, Zhong Y, Song L, Wang Y, Wang Y, Zhang Q, et al.
+Nomograms to predict the presence and extent of inguinal
+
+lymph node metastasis in penile cancer patients with
+
+clinically positive lymph nodes. Transl Androl Urol. 2020;
+
+9:621-8.
+47.  Unadkat P, Fleishman A, Olumi A, Wagner A, Chang
+P, Kim S, et al. MP11-04 contemporary incidence and
+
+predictors of occult inguinal lymph node metastases in
+
+men with cn0 penile cancer. J Urol. 2020, e136. [Internet].
+
+Available at. <https://www.auajournals.org/doi/10.1097/
+
+JU.0000000000000831.04>
+48. Guimarães GC, Lopes A, Campos RS, Zequi Sde C, Leal ML,
+Carvalho AL, et al. Front pattern of invasion in squamous cell
+
+carcinoma of the penis: new prognostic factor for predicting
+
+risk of lymph node metastases. Urology. 2006; 68:148-53.
+49. Luchey A, Espiritu P, Gopman J, Agarwal G, Pow-Sang JM,
+Sexton WJ, et al. Inguinal lymph node dissection for penile
+
+cancer: Predictors of lymph node metastasis. J Clin Oncol.
+
+2014;32: Issue 4_suppl. Available at. <https://ascopubs.org/
+
+doi/abs/10.1200/jco.2014.32.4_suppl.386>
+50. Li K, Sun J, Wei X, Wu G, Wang F, Fan C, et al. Prognostic
+value of lymphovascular invasion in patients with squamous
+
+cell carcinoma of the penis following surgery. BMC Cancer.
+
+2019; 19:476.
+51. Hu X, Chen M, Li Y, Wang Y, Wen S, Jun F. Overexpression
+of ID1 promotes tumor progression in penile squamous cell
+
+carcinoma. Oncol Rep. 2019; 41:1091-1100.
+
+**_______________________**
+**Correspondence address:**
+Ali Hajiran, MD
+Department of Genitourinary Oncology
+H. Lee Moffitt Cancer Center & Research Institute
+12902 Magnolia Drive
+Tampa, FL 33612, USA
+E-mail: ali.hajiran@moffitt.org
+
+
+956
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

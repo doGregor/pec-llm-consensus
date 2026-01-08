@@ -1,0 +1,1198 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0](https://doi.org/10.1016/j.euf.2023.11.010)
+
+a v a i l a b l e a t w w w . s c i e n c e d i r e c t . c o m
+
+j o u r n a l h o m e p a g e : w w w . e u r o p e a n u r o l o g y . c o m / e u f o c u s
+
+Review – Penile Cancer
+# Systematic Review and Meta-analysis of Minimally Invasive Procedures for Surgical Inguinal Nodal Staging in Penile Carcinoma
+
+Isabella Greco [a][,] [*], Sergio Fernandez-Pello [b], Vasileios I. Sakalis [c], Lenka Barreto [d],
+Maarten Albersen [e], Benjamin Ayres [f], Tiago Antunes Lopes [g], Riccardo Campi [h], Juanita Crook [i],
+Herney A. Garcı´a Perdomo [j], Peter A.S. Johnstone [k], Mithun Kailavasan [l], Kenneth Manzie [m],
+Jack David Marcus [n], Andrea Necchi [o], Pedro Oliveira [p], John Osborne [m], Lance C. Pagliaro [q],
+Arie S. Parnham [r], Curtis A. Pettaway [s], Chris Protzel [t], R. Bryan Rumble [u], Ashwin Sachdeva [v],
+Diego F. Sanchez Martinez [w], Łukasz Zapala [x], Scott T. Tagawa [y], Philippe E. Spiess [z],
+Oscar R. Brouwer [aa]
+
+a Department of Urology, Hospital Universitario Rey Juan Carlos, Madrid, Spain; b Department of Urology, Cabueñes University Hospital, Gijón, Spain;
+c Department of Urology, Hippokrateion General Hospital, Thessaloniki, Greece; d Department of Urology, University Hospital Nitra, Nitra, Slovakia;
+e Department of Urology, University Hospitals Leuven, Leuven, Belgium; f Department of Urology, St. George’s University Hospitals NHS Foundation Trust,
+London, UK; [g] Department of Urology, Hospital de S. João, Porto, Portugal; [h] Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi University
+Hospital, Florence, Italy; [i] British Columbia Cancer Agency, University of British Columbia, Kelowna, Canada; [j] Division of Urology/Uro-oncology, Department of
+Surgery, Universidad Del Valle, Cali, Colombia; [k] Departments of Radiation Oncology and Health Outcomes and Behavior, Moffitt Cancer Center, Tampa, FL,
+USA; [l] Nottingham City Hospital, Nottingham, UK; [m] Patient representative, Orchid, London, UK; [n] Patient advocate, Us TOO, New York, NY, USA; [o] Department
+of Urology and Medical Oncology, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy; [p] Department of Pathology, The Christie NHS Foundation Trust,
+Manchester, UK; [q] Department of Oncology, Mayo Clinic, Rochester, MN, USA; [r] Department of Urology, The Christie NHS Foundation Trust, Manchester, UK;
+s University of Texas MD Anderson Cancer Center, Houston, TX, USA; t Helios Clinics Schwerin, Schwerin, Germany; u American Society of Clinical Oncology,
+Alexandria, VA, USA; [v] Division of Cancer Sciences, University of Manchester, Manchester, UK; [w] School of Medical Sciences, Universidad Nacional de Asuncion,
+Asuncion, Paraguay; [x] Department of Urology, Medical University of Warsaw, Warsaw, Poland; [y] Division of Hematology and Medical Oncology, Weill Cornell
+Medical College, New York, NY, USA; [z] Department of Genitourinary Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL, USA; [aa] The
+Netherlands Cancer Institute, Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands
+
+
+Article info
+
+Article history:
+Accepted November 22, 2023
+Available online 9 December
+
+2023
+
+Associate Editor: Richard Lee
+
+Keywords:
+Penile cancer
+Nodal staging
+Minimally invasive
+Surgical procedures
+Systematic review
+
+
+Abstract
+
+Context: There are several procedures for surgical nodal staging in clinically nodenegative (cN0) penile carcinoma.
+Objective: To evaluate the diagnostic accuracy, perioperative outcomes, and complications of minimally invasive surgical procedures for nodal staging in penile carcinoma.
+Evidence acquisition: A systematic review of the Medline, Embase, and Cochrane controlled trials databases and ClinicalTrials.gov was conducted. Published and ongoing
+studies reporting on the management of cN0 penile cancer were included without any
+design restriction. Outcomes included the false negative (FN) rate, the number of nodes
+removed, surgical time, and postoperative complications.
+Evidence synthesis: Forty-one studies were eligible for inclusion. Four studies comparing
+robot-assisted (RA-VEIL) and video-endoscopic inguinal lymphadenectomy (VEIL) to
+open inguinal lymph node dissection (ILND) were suitable for meta-analysis. A descriptive synthesis was performed for single-arm studies on modified open ILND, dynamic
+sentinel node biopsy (DSNB) with and without preoperative inguinal ultrasound (US),
+
+- Corresponding author. Department of Urology, Hospital Universitario Rey Juan Carlos, Madrid,
+Spain.
+[E-mail address: isabella-greco@live.it (I. Greco).](mailto:isabella-greco@live.it)
+
+
+[https://doi.org/10.1016/j.euf.2023.11.010](https://doi.org/10.1016/j.euf.2023.11.010)
+2405-4569/� 2023 Published by Elsevier B.V. on behalf of European Association of Urology.
+
+568 E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0
+
+Meta-analysis and fine-needle aspiration cytology (FNAC). DSNB with US + FNAC had lower FN rates
+(3.5–22% vs 0–42.9%) and complication rates (Clavien Dindo grade I–II: 1.1–20% vs
+2.9-11.9%; grade III–V: 0–6.8% vs 0–9.4%) in comparison to DSNB alone. Favourable
+results were observed for VEIL/RA-VEIL over open ILND in terms of major complications
+(2–10.6% vs 6.9–40.6%; odds ratio [OR] 0.18; p < 0.01). Overall, VEIL/RA-VEIL had lower
+wound-related complication rates (OR 0.14; p < 0.01), including wound infections (OR
+0.229; p < 0.01) and skin necrosis (OR 0.16; p < 0.01). The incidence of lymphatic complications varied between 20.6% and 49%.
+Conclusions: Of all the surgical staging options, DSNB with inguinal US + FNAC had the
+lowest complication rates and high diagnostic accuracy, especially when performed in
+high-volume centres. If DSNB is not available, favourable results were also found for
+VEIL/RA-VEIL over open ILND. Lymphatic-related complications were comparable across
+open and video-endoscopic ILND.
+Patient summary: We reviewed studies on different surgical approaches for assessing
+lymph node involvement in cases with penile cancer. The results show that a technique
+called dynamic sentinel node biopsy with ultrasound guidance and fine-needle sampling
+has high diagnostic accuracy and low complication rates. For lymph node dissection in
+penile cancer cases, a minimally invasive approach may offer favourable postoperative
+
+outcomes.
+� 2023 Published by Elsevier B.V. on behalf of European Association of Urology.
+
+
+1. Introduction
+
+Penile cancer is a rare disease, with an incidence of
+1/100 000 males in Europe. However, in some areas such
+as South America, Africa, and Asia, it represents 1–2% of
+malignant disease cases among males [1].
+In patients with penile cancer, the most important prognostic factor for survival is the presence and extent of nodal
+metastases, with 5-yr cancer-specific survival rates of
+approximately 93%, 75%, 50%, and 17% for N0, N1, N2, and
+N3 disease, respectively [2].
+To date, clinical lymph node TNM staging is mainly
+based on physical examination of both groins [3]. However,
+this has limitations in detecting suspect inguinal nodes
+(especially in obese patients) and the risk of micrometastasis can be up to 25% even when nodes are not suspicious on
+palpation [4]. Moreover, it has been shown that treating
+(micro)metastatic disease at an early stage leads to better
+oncological outcome in comparison to surgery when nodes
+become palpable [4].
+Thus, as noninvasive staging options (nomograms, imaging) are not reliable enough to detect micrometastatic disease, invasive surgical staging remains indispensable [5].
+However, as only 20–25% of all clinically node-negative
+cases harbour occult metastasis, surgical staging represents
+overtreatment in most cases. For selection of patients who
+are especially at risk of nodal metastases, risk categories
+based on tumour stage, grade of differentiation, and lymphovascular or perineural invasion of the primary tumour
+have been established [5]. The most widely used surgical
+staging options are dynamic sentinel node biopsy (DSNB)
+and (radical or modified) inguinal lymphadenectomy (ILND)
+
+[6-8]. In centres that perform DSNB, this procedure is often
+preceded by ultrasound (US) with fine-needle aspiration
+cytology (FNAC) for cases with suspicious nodes on US [9].
+More recently, video-endoscopic inguinal lymphadenectomy (VEIL), including a robot-assisted approach (RAVEIL), was introduced with the aim of reducing the morbidity of open ILND [10,11]. Previous guidelines generally rec
+
+ommended surgical staging for intermediate- and high-risk
+tumours, with the method used for surgical staging left to
+the surgeon’s discretion as the diagnostic accuracy and
+complication rates of the techniques available are not well
+established [5].
+The present systematic review was undertaken by the
+European Association of Urology (EAU) and American Society of Clinical Oncology (ASCO) Collaborative Penile Cancer
+Guidelines Panel to evaluate current evidence on the diagnostic accuracy and safety of minimally invasive nodal staging techniques.
+
+2. Evidence acquisition
+
+2.1. Search strategy and screening of studies
+
+This systematic review was undertaken as part of the EAUASCO penile cancer guidelines update for 2023 [12]. The
+review was performed according to Preferred Reporting
+Items for Systematic Reviews and Meta-Analyses (PRISMA)
+guidelines [13]. The search was conducted in accordance
+with principles outlined in the Cochrane Handbook for Systematic Reviews of Interventions [14]. The systematic review
+and the research protocol were registered in the PROSPERO
+[database (CRD42023395174; https://www.crd.york.ac.uk/](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=395174)
+[PROSPERO/display_record.php?RecordID=395174).](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=395174)
+An extensive search to identify published and ongoing
+studies reporting on the management of men with localised
+or advanced penile cancer with clinically normal inguinal
+lymph nodes was performed. The Medline, Embase, and
+Cochrane controlled trials and ClinicalTrials.gov were for
+all relevant publications from 1990 to date.
+Two reviewers (I.G. and L.B.) independently screened the
+titles and abstracts of the records identified for eligibility.
+The full text of all potentially eligible records was retrieved
+and screened independently by the two review authors (I.G.
+and L.B.) using a standardised form. In cases of disagreement, a senior reviewer (V.I.S.) acted as an arbiter.
+
+2.2. Studies
+
+
+E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0 569
+
+2.8. Data analysis
+
+
+Owing to the rarity of the disease and a lack of welldesigned trials, all relevant studies published in English
+(randomised controlled trials, nonrandomised prospective
+comparative trials, and comparative and noncomparative
+observational studies) with a minimum study sample of
+30 inguinal basins (15 patients) were included.
+
+2.3. Patients
+
+The study population included patients diagnosed with
+penile cancer with no palpable node disease (cN0) undergoing any type of minimally invasive surgical staging for inguinal lymph nodes (DSNB, VEIL, RA-VEIL, modified open
+ILND). Owing to a lack of data, studies with mixed oncological populations that involved a considerable number of
+penile cancer cN0 cases were also included. Patients who
+underwent ILND for another cancer (melanoma or vulvar
+carcinoma) were not included.
+
+2.4. Interventions
+
+According to the protocol, the following interventions were
+eligible for inclusion: minimally invasive ILND (open modified template, video-endoscopic or robot-assisted) and
+DSNB with or without prior US + FNAC of the inguinal areas.
+
+2.5. Outcome measures
+
+The following outcomes were evaluated in the systematic
+review: diagnostic accuracy, negative predictive value
+(NPV), positive predictive value (PPV), false-negative (FN)
+rate, positive nodes in cN0 cases, sensitivity, and specificity.
+Treatment-related complications after lymph node staging
+were evaluated according to the Clavien-Dindo classification and divided into wound-related and lymphaticrelated complications [15]. The number of lymph nodes
+removed, hospital stay, and surgery time were also
+evaluated.
+
+2.6. Data extraction
+
+A standardised data extraction form was developed and
+piloted before use. The review team (H.A.G.P., I.G., L.B.,
+and L.Z.) extracted and reported information available for
+the study design, populations, interventions, outcomes,
+and risk of bias (RoB) or confounders. Two reviewers (I.G.
+and L.B.) independently extracted data related to prespecified outcomes.
+
+2.7. Assessment of RoB and confounders
+
+The RoB for randomised comparative studies was assessed
+using the standard Cochrane Collaboration RoB tool [14].
+For nonrandomised comparative studies, a modified RoB
+tool was used that includes additional domains on the basis
+
+of confounders previously defined by the panel group [16].
+RoB in single-arm case series was assessed using a pragmatic approach based on external validity, such as consecutive inclusion of patients, application of a predefined
+protocol, attrition bias management, and proper measurement and reporting of outcomes [17].
+
+
+Descriptive statistics were used to summarise baseline characteristics. Owing to heterogeneity among the populations
+and as most of the studies were nonrandomised or singlearm observational studies, a narrative (qualitative) synthesis
+was performed. A quantitative synthesis (meta-analysis) was
+considered when methodologically appropriate in cases of
+well-designed comparative studies. Statistical heterogeneity
+within studies was assessed via visual analysis of forest plots,
+the v [2] test for heterogeneity, and the s [2] and I [2] statistics. The
+derSimonian-Laird method was used to calculate s [2] and the
+
+Jackson method was applied to determine its confidence
+interval. Owing to the absence of standard deviation as a relative value in some studies, we followed the Machin method,
+dividing the range between the maximum and minimum values into four. The level of statistical significance was 0.05. Statistical analysis was performed using R v4.1.2 and the meta
+package [18-20].
+
+3. Evidence synthesis
+
+3.1. Quantity of evidence identified
+
+Overall, the literature search identified 1364 articles. A total
+of 341 studies were eligible for full-text screening and, of
+which 94 met the inclusion criteria for the update of the
+EAU-ASCO guidelines. Of these, 41 studies on minimally
+invasive nodal staging were included in the review. Regarding VEIL/RA-VEIL; only comparative studies on minimally
+invasive and open surgery were included in the metaanalysis. Therefore, four studies were considered eligible
+for the meta-analysis. A PRISMA flow diagram outlining
+the study selection process is shown in Figure 1.
+
+3.2. Study characteristics
+
+Evidence synthesis was performed for the following study
+types:
+
+(1) Single-arm studies on DSNB with US + FNAC: 18 studies involving 3370 patients [21-38].
+(2) Single-arm studies on DSNB without US + FNAC: 13
+studies involving 684 patients [34,39-50].
+(3) Single-arm studies on open (m)ILND: six studies
+involving 316 patients [51-56].
+(4) Two-arm comparative studies on open ILND versus
+(RA-)VEIL: four studies involving 382 patients [5760].
+
+Six nonrandomised comparative studies were handled as
+cohort series as the type of comparison was outside the
+scope of our systematic review [22,27,33,39,49,50].
+Another study reported results for two cohorts undergoing DSNB across different time periods. We included these
+and analysed the two cohorts separately (in the first cohort,
+only DSNB was performed; in the second cohort, preoperative US + FNAC was included) [34].
+Most studies were performed at a single centre. Regarding DSNB, all the studies included patients with bilateral
+cN0 groins or at least one groin with no palpable lymph
+nodes (or, when applied, negative findings on US + FNAC).
+Thus, DSNB was performed only on negative groins.
+
+570 E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0
+
+Fig. 1 – Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) diagram.
+
+
+Reporting of diagnostic outcomes of interest (sensitivity,
+specificity, PPV, NPV, and FN rate) was not homogeneous.
+The FN rate was based on relapse during follow-up in most
+studies, and on comparison of DSNB results with
+histopathology for specimens from radical or modified
+ILND, considered the gold standard at the time, in four studies [36,38,49,50].
+Median follow-up was reported for most studies and varied from 28 to 98 mo among studies on DSNB without preoperative US + FNAC, and from 11 to 68 mo among studies
+in which US + FNAC was performed before DSNB.
+Results for postoperative complications were not uniformly reported. Similarly, the majority of ILND data were
+from cohort series, with substantial heterogeneity among
+the outcomes reported. The majority of these studies had
+a single-centre design. The cN0 rate varied from 17.5% to
+100%; some studies involving mixed cN0/cN+ populations
+conducted a subgroup analysis for cN0 cases and these data
+were collected.
+Surgical boundaries varied slightly among the studies.
+Singh et al. [57] used the anterior superior iliac spine, the
+
+
+pubic tubercle, and the apex of the femoral triangle as anatomic landmarks. Thyavihally et al. [58] removed all nodes
+in the femoral triangle and up to 2 cm above the inguinal
+ligament. In the study by Shao et al. [59] the dissection
+boundaries were the adductor longus muscle, the femoral
+artery, the spermatic cord, and the fossa ovalis. Yadav
+et al. [60] used the inguinal ligament, the apex of the
+femoral triangle, the sartorius muscle, and the adductor
+longus muscle as anatomic landmarks, with no dissection
+carried out lateral to the femoral artery. In the study by
+Yao et al. [52], the boundaries of dissection were the apex
+of the femoral triangle, the sartorius muscle, the adductor
+longus muscle, and the inguinal ligament. The fascia lata
+was completely preserved.
+
+3.3. RoB assessment
+
+Overall, the RoB for the studies included in the review was
+moderate to high. Most studies had a retrospective and nonrandomised design (Table 1 and Supplementary Table 1).
+
+E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0 571
+
+3.4. Intervention results
+
+3.4.1. Outcomes for DSNB with FNAC
+Overall, 3370 patients undergoing DSNB with preoperative
+US + FNAC were included.
+Diagnostic accuracy data were reported in an inconsistent manner. Sensitivity varied from 78% to 100%, while
+specificity of 100% was reported. When reported, PPV was
+100%, while NPV ranged between 93% and 100%. In most
+studies, regional recurrences after excision of a tumour with
+a negative sentinel node or after no visualisation were considered as FN cases. Among these studies, the FN rate varied
+between 3.5% and 22%; the 3.5% was in one of the studies
+with the greatest number of patients [23]. In the study by
+Yoganarasimha et al. [36], superficial ILND was performed
+in all cases. This was considered the gold standard as the
+comparator for DSNB and, among 168 specimens, no FN
+results on frozen section analysis were observed. Kathiresan
+et al. [38] also performed superficial ILND after DSNB. Comparison of the DNSB and the ILND histopathology results
+resulted in an FN rate of 10%.
+Reporting on complication rates was inconsistent and
+the Clavien-Dindo classification was not universally applied
+among the studies. When reported, the minor complication
+rate (grade I–II) was 1.1–20% and the major complication
+rate (grade III–V) was 0–6.8%.
+
+Table 2 summarises findings for all of the studies on
+DSNB with preoperative US + FNAC.
+
+3.4.2. Outcomes in DSNB without FNAC
+Overall, 684 patients undergoing DSNB without preoperative US+FNAC of the groin(s) were included.
+As shown in Table 3, diagnostic accuracy data were not
+reported for some studies. Sensitivity ranged from 25% to
+93.3%, and specificity from 25.45% to 100%. Only two studies
+reported PPV (25.45–75%), while NPV varied from 89% to
+96%.
+In the study by Ferreira et al. [50], all patients underwent
+mILND regardless of biopsy results. Therefore, considering
+mILND as the gold standard and comparator, the FN rate
+for DSNB was 0%. Similarly, Perdonà et al. [49] all patients
+with negative DSNB (or no visualisation on lymphoscintigraphy) for whom lymphatic dissemination was observed
+on radical ILND as FN cases. In this study the FN rate was
+11%.
+In the other studies, FN cases were defined as subsequent development of regional recurrences, for which the
+FN rate ranged from 0% to 42.9%.
+Regarding complication rates, 5/13 studies reported
+postoperative complications according to the ClavienDindo classification. Among these studies, the rate of minor
+complications (grade I–II) was 2.9–11.9%, while the rate of
+major complications (grade III–V) was 0–9.4%.
+
+3.4.3. Outcomes for open (m)ILND
+Table 4 summarises the most relevant data extracted from
+
+single-arm studies investigating the role of mILND for staging in patients with cN0 penile cancer. Three studies had a
+cN0 rate of 100%, while three studies also included cases
+with palpable nodes, with the proportion of cN0 cases ranging from 36% to 57.9%. The positive lymph-node rate at
+ILND was 3–35%, and notably was 34% in the largest study
+
+|Col1|Col2|
+|---|---|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|Singh 2018||
+
+Table 2 – Outcomes for dynamic sentinel-node biopsy without preoperative ultrasound and fine-needle aspiration cytology
+
+Study Pts Groins SSY SPY PPV NPV FN mFU, mo Complications (%) Notes
+
+(n) (n) (%) (%) (%) (%) (%) (IQR) CD I–II CD III–V
+
+Wever 2022 [21] 644 1284 – – – – – 23 (9–51) 16.3 1 137 WI (135 CD II, 2 CD III), 34 LYC (30 CD
+I, 4 CD III), 13 LYO (CD I), 11 WD (CD I) 4
+bleeding (1 CD I, 3 CD III–IV)
+KleinJan 2018 [22] 495 – – – – – 16 33 (mean) – –
+Lee 2022 [23] 403 728 96 100 100 100 3.5 28 (13–58) – –
+Dell’Oglio 2020 [24] 400 740 – – – – 10 36 (15–62) 18.8 2.8 Not specified
+Lam 2013 [25] 264 500 94 – – – 5 57 (21–94) 7.6 9 inguinal LYC (3 CD II–IIIa) [a] ; 5 inguinal
+WI (CD II), 3 haematoma (CD I), 2
+penoscrotal LYO (CD I), 1 bleeding (CD III)
+Jakobsen 2015 [26] 222 409 86.7 – – 95.3 13.3 68 (47–96) 10.8 6.8 15 LYC (CD IIIa), 11 WI (CD II), 7 WD (CD
+I), 1 LYO (CD I), 3 haematoma (CD I)
+Dimopoulos 2016 [27] 151 280 – – – – 5.1 50 (12–89) 20 1.4 Majority (10.7%) were grade I
+complications due to groin swelling; with
+no intervention required
+Torbrand 2022 [28] 130 236 – – – – 13 34 (25-41) 16.9 2.8 24 LCO, 22 infection/abscess, 2 seroma, 1
+haematoma, 2 LYO
+Kroon 2005 [29] 129 243 – – – – 17 50 (5–124) 7
+Omorphos 2015 [30] 92 165 88.9 100 100 98.2 11.1 22 (5–41) 1.1 0 1 haematoma
+Tanis 2002 [31] 90 150 78 – – 93 22 36 (5–95) 11.1 5 WI, 2 wound abscess, 1 skin edge
+necrosis, 1 WD, 1 seroma; no LYO
+Hadway 2007 [32] [b] 75 143 95 – – – 5 11 (2–24) 4 2 WI, 2 haematoma, 1 seroma, 1 genital
+
+LYO
+
+Crawshaw 2009 [33] 64 128 – – – 100 – 11 (6-28) – –
+Leijte 2007 [34] (cohort B) 58 105 – – – – 4.8 30 (24–49) 5.7 4 infection, 1 seroma/LYC, 1 mild LYO
+Horenblas 2000 [35] 55 – – – – – – 21 (4-61) 1.8 1 wound abscess
+Yoganarasimha 2022 [36] 42 84 100 100 100 100 0 28.5 – –
+Jensen 2009 [37] 36 72 91 – – 97 9 31 (7–75) 4 4 seroma requiring temporary drainage
+Kathiresan 2016 [38] 20 40 90 100 – – 10 26 (7-42) – –
+
+E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0 573
+
+[51]. There was inconsistent reporting for the main
+complications.
+
+3.4.4. Outcomes and meta-analysis for open (m)ILND versus
+VEIL/RA-VEIL
+Four studies compared mILND via an open approach against
+a minimally invasive approach (VEIL or RA-VEIL). A metaanalysis was possible, with the following conclusions possible when the level of heterogeneity was suitable.
+The number of lymph nodes dissected (p = 0.87) and the
+operating time (p = 0.21) did not differ between the groups,
+but hospital length of stay was more favourable with the
+minimally invasive approach (p < 0.01). The rate of positive
+nodes after ILND (pN+), which was reported for three of the
+four studies, did not differ on quantitative analysis
+(p = 0.97). However, in one study the pN+ rate was 14.3%
+in the open ILND group and 27.8% in the VEIL group [58]
+(Fig. 2).
+Grade I–II Clavien-Dindo complication rates ranged
+between 25% and 68% with the open approach, and between
+17% and 76% with the minimally invasive approach. Quantitative analysis showed an equal distribution between the
+approaches (odds ratio [OR] 0.67; p = 0.28) for grade I–II
+complications, which are normally considered minor complications. By contrast, the rate of grade III–V complications
+ranged between 6.9% and 40.6% with the open approach,
+and between 2% and 10.6% with the minimally invasive
+approach. Quantitative analysis of grade III–V complications, which are normally considered major complications,
+favoured the minimally invasive approach (OR 0.18;
+p < 0.01; Fig. 2).
+We also divided the complications into wound-related
+(infection and skin necrosis) and lymphatic-related (lymphoedema and lymphocele) classes. Overall, the rate of
+wound complications with the open approach varied
+between 33% and 86%, with infection rates of 6.5–42% and
+necrosis rates of 2.1–27.5%. By contrast, the minimally invasive approach had wound complication rates that varied
+between 3.7% and 11.7%, with infection rates of 0–9.8%
+and necrosis rates of 0–6.8%. In general, fewer woundrelated complications were observed following VEIL/RAVEIL procedures (OR 0.14; p < 0.01), and fewer wound infections (OR 0.229; p < 0.01) and skin necrosis complications
+(OR 0.16; p < 0.01), considering both groups as homogeneous (heterogeneity test p > 0.05; Fig. 3).
+The rate of lymphatic complications with the open
+approach ranged between 27.5% and 64% (lymphoedema
+14–23.2% and lymphocele 13–55%). By contrast, the rate
+of lymphatic complications with the minimally invasive
+approach varied between 20.6% and 49% (lymphoedema
+0–21.2% and lymphocele 10.3–49%). Thus, lymphaticrelated complications were equally probable in the two
+groups overall (p = 0.12) and for lymphoedema (p = 0.42)
+and lymphocele (p = 0.53) individually. The results are
+reported in Table 5.
+
+3.5. Discussion
+
+3.5.1. Principal findings
+Our systematic review shows that among the minimally
+invasive techniques for surgical nodal staging, DSNB is associated with the lowest complication rates and has high
+
+574 E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0
+
+diagnostic accuracy, especially with preoperative US + FNAC
+and when performed in high-volume centres.
+In the prospective study by Lam et al. [25], US + FNAC
+alone had sensitivity of 65% per groin and 64% per patient,
+while DSNB alone had sensitivity of 92% per groin and
+91% per patient. The combination of the two techniques
+showed sensitivity of 95% per groin and 94% per patient.
+According to the data available, US + FNAC before DSNB
+may reduce the FN rate (3.5–22% vs 0–42.9%). A similar
+trend was reported by Leijte et al. [34]. In particular, addition of US + FNAC led to a substantial decrease in the FN
+
+rate. The same institution further improved their DSNB
+method. Dell’Oglio et al. [24] evaluated the reliability of
+DSNB using a hybrid tracer (indocyanine green- [99m] Tcnanocolloid) in a large cohort of 404 consecutive patients.
+At median follow-up of 36 mo, the FN rate per patient
+was 10% (8.7% per groin) and the probability that a negative
+DNSB would be an FN procedure at 2 yr was 2.5% (1.4% per
+groin).
+Among the series that used preoperative US + FNAC, the
+lowest FN rate was reported by Lee et al. [23] for a study
+involving 403 patients treated in a high-volume referral
+centre. Two systematic reviews also revealed higher sensitivity and detection rates among larger series [61,62]. These
+findings support the existence of a potential learning curve
+and the importance of performing this procedure in highly
+experienced referral centres.
+Preoperative US + FNAC can reduce the number of groins
+requiring DSNB by 10–13% and ILND can be performed in
+cases with positive nodes, allowing early treatment [9,23].
+Among the single-arm studies on open (m)ILND, Yao
+et al. [52] proposed a modified surgical template for radical
+ILND. The technique is characterised by an S-shaped incision, precise separation of layers, dissection of lymph nodes
+lateral to the femoral artery, and preservation of the fascia
+lata. In comparison to other series on (m)ILND, the authors
+reported similar morbidity and mean number of lymph
+nodes removed.
+Among studies comparing open ILND with a minimally
+invasive approach, no significant differences in lymph node
+yield or the rate of pathologically positive nodes were
+observed. However, the minimally invasive approach
+showed better results in terms of hospital stay and major
+complications, especially for wound-related events (3.7–
+11.7% vs 33–86%) in terms of both necrosis and infection.
+There were no significant differences for lymphatic-related
+complications (lymphoedema and lymphocele). TobiasMachado et al. [63] reported results for a large series of
+105 patients undergoing VEIL. The skin complication rate
+was 4.8%, while lymphatic complications were observed in
+8.6% of patients. The authors suggested that accurate identification of the lymphatic vessels and the use of clips rather
+than cauterisation might have the potential to reduce lymphatic complications.
+In a systematic review by Hu et al. [64], rates of wound
+infection and lymphoedema were lower in the VEIL group,
+with no significant difference in the incidence of lymphocele. The authors also found lower rates of both minor and
+major complications according to the Clavien-Dindo system
+in the VEIL group.
+Several considerations can help in explaining our results.
+First, although there were some variations between the series, in each study the dissection boundaries were broadly
+
+E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0 575
+
+Fig. 2 – Quantitative analysis of (A) hospital stay and (B) major grade III–IV postoperative complications for the experimental group (minimally invasive
+approach) versus the control group (open surgery approach). The forest plots for both variables favour a minimally invasive approach (left side).
+CI = confidence interval; OR = odds ratio; SD = standard deviation; SMD = standardised mean difference.
+
+
+similar for the open and minimally invasive approaches,
+suggesting a potential role of the number of lymph nodes
+harvested in the relatively high incidence of lymphaticrelated complications with ILND than with DSNB. Wever
+et al. [21] identified the number of lymph nodes removed
+as the main predictor for the development of lymphatic
+complications. This finding could explain why open ILND
+and VEIL/RA-VEIL yield similar results regarding the number of lymph nodes harvested, pathological node positivity,
+and lymphoedema and lymphocele rates, and why DSNB
+has lower complication rates than minimally invasive (or
+open) ILND.
+The lower incidence of skin-related events with mini
+mally invasive ILND in comparison to open ILND may be
+explained by the smaller port incisions in the thigh instead
+of the groin, and preservation of the skin lymphatics and
+vasculature. Promising results with single-port robotic platforms have been described, with a further reduction in the
+number of incisions [65,66]. Considering these results,
+VEIL/RA-VEIL represents a safer and more appealing alternative to open ILND. However, DSNB, especially with preoperative US + FNAC, still has lower complication rates and
+comorbidity, with acceptable diagnostic accuracy. Therefore, when surgical staging is indicated (stage �T1b or
+higher and considered for grade 2 T1a), the current guidelines favour performing DSNB, and recommend ILND if DSNB
+is not available or is preferred by the patient.
+However, several factors should be considered. Solid
+experience in robotic or video-laparoscopic surgery and
+the availability of instrumentation and a dedicated team
+are required to perform ILND via a minimally invasive technique. In addition, DSNB is generally considered logistically
+challenging, requiring radiologists for inguinal US, nuclear
+
+
+medicine physicians for interpretation of nuclear images,
+urologists for the surgical procedure, and pathologists for
+specimen analysis. A recent meta-analysis showed that
+the FN rate was lower when DSNB was performed in highvolume centres [9].
+In decentralised settings, especially in centres with
+unspecialised clinicians, low operative volume because of
+the low incidence of penile cancer limits opportunities to
+gain the experience required for optimal management of
+the disease [67].
+Our systematic review revealed a discrepancy between
+postoperative events and sample size, which may be
+because of accuracy in recording data and the use of codified classification systems. However, suboptimal management and a lack of adherence to guideline
+recommendations have been observed in low-volume cen
+tres. In a multicentre study involving 425 patients, Cindolo
+et al. [68] found that rate of adherence to the EAU guidelines on lymph node dissection was 73.7%. Woldu et al. [4]
+found that only 25.3% of patients with intermediate- or
+high-risk localised penile cancer underwent surgical nodal
+staging, and that omission of invasive staging was an independent predictor of overall mortality. The authors found
+that nonacademic institutions were less likely to adhere to
+recommendations. These factors support the need for centralised management of penile cancer. Notably, countries
+where centralised health care is offered have experienced
+an impressive reduction in understaging and an improvement in survival rates [3,69].
+
+3.5.2. Implications for clinical practice
+Although the level of heterogeneity and uncertainty in the
+evidence base does not allow robust affirmation of any
+
+576 E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0
+
+Fig. 3 – Quantitative analysis of (A) wound-related complications, (B) skin complications, and (C) wound infection for the experimental group (minimally
+invasive approach) versus the control (open surgery approach). The forest plots for all three variables favour a minimally invasive approach (left side).
+CI = confidence interval; OR = odds ratio.
+
+
+associations, the following findings can be highlighted
+regarding surgical staging of cN0 penile cancer:
+
+– When surgical staging is indicated, DSNB shows good
+diagnostic accuracy and the lowest postoperative complication rates in comparison to open or minimally invasive ILND.
+– When DSNB is planned, inguinal US and FNAC of nodes
+with abnormal US findings can improve the diagnostic
+power and, in cases with positive nodes, reduce the need
+for DSNB.
+– When DSNB is not available or not preferred by the
+patient, (m)ILND can be considered as an alternative
+option.
+– In comparison to open ILND, VEIL/RA-VEIL appears to be
+a feasible technique with comparable diagnostic outcomes and lower wound-related complication rates.
+
+3.5.3. Strengths and limitations
+This review was conducted in a rigorous manner according
+to the PRISMA guidelines by a multidisciplinary panel in
+line with recognised standards. There was clinical heterogeneity among the studies included in terms of reporting,
+
+
+surgical techniques, study populations, anatomic fields,
+and the aim of the interventions.
+
+4. Conclusions
+
+Of all the current surgical staging options for cN0 penile
+cancer, DSNB with preoperative inguinal US + FNAC has
+the lowest complication rates and has high diagnostic accuracy, especially when performed in high-volume centres. If
+(experience with) DSNB is not available, favourable results
+(hospital stay, wound-related and major complications)
+were also found for VEIL/RA-VEIL over the open surgical
+approach. Lymphatic-related complications are comparable
+across both open and video-endoscopic ILND. Multicentre
+prospective studies with larger sample sizes are needed to
+validate these findings.
+
+Author contributions: Isabella Greco had full access to all the data in the
+
+study and takes responsibility for the integrity of the data and the accu
+racy of the data analysis.
+
+Study concept and design: Greco, Fernandez-Pello, Sakalis.
+
+Table 5 – Clinicopathological and intraoperative and postoperative data for open ILND versus VEIL in comparative studies
+
+
+Singh 2018 [57] C Open
+mILND [a]
+
+
+100 200 12.5 (10.5– 14/100 (14) 53/100 60 (55–70) 4 (3–5) 20/100 13/100 NR 9/100 (9) 55/100 (55) 68/100 17/100
+14.25) (53) (20) (13) (68) (17)
+4/53
+(7.5) [b]
+
+
+E RA-VEIL 51 102 13 (11–14.5) 7/51 (13.72) 31/51 75 (70– 3 (3–3.75) 5/51 (9.8) 1/51 (2) NR 0/51 (0) 25/51 (49) 39/51 (76) 1/51 (2)
+(61) 84.75) 0/31 (0) [b]
+
+
+Thyavihally 2021 C Open 32 59 10.5 (7–16) 1/7 (14.28) 7/32 110 (70–190) 9.6 (5–20) 25/59 14/59 NR 8/59 14/59 8/32 (25) 13/32
+
+[58] mILND (21.9) (42) (23.7) (13.56) (23.73) (40.6)
+
+E VEIL 47 88 10 (7–18) 5/18 (27.77) 18/47 90 (50–140) 6.1 (4–12) 7/88 0/88 (0) NR 10/88 18/88 8/47 (17) 4/47
+(38.3) (7.93) (11.36) (20.45) (10.6)
+Shao 2022 [59] C Open 69 138 7.39 NR 20/69 64.78 13.94 9/138 3/138 NR 32/138 18/138 44/138 0/138 (0)
+mILND SD 3.91 (28.9) SD 29.47 SD 10.09 (6.5) (2.1) (23.2) (13.04) (31.9)
+
+
+Thyavihally 2021
+
+
+
+[58]
+
+
+E VEIL 40 80 6.70 NR 7/40 60.44 8.88 2/80 (2.5) 1/80 (1.2) NR 17/80 11/80 20/80 (25) 1/80 (1.3)
+SD 3.55 (17.5) SD 22.75 SD 7.86 (21.2) (13.75)
+
+
+Yadav 2017 [60] C Open 22 22 9.0 4/22 (18.18) 22/22 92.04 (74– 10.26 (14– 4/29 (14)
+mILND (100) 120) 22) 0/22 (0) [b]
+
+E VEIL 21 21 8.0 3/21 (14.28) 21/21 155.2 (132– 4.65 (4–8) 0/29 (0)
+(100) 195) 0/21 (0) [b]
+
+
+8/29
+(27.5)
+2/22 (9) [b]
+
+2/29 (6.8)
+0/21 (0) [b]
+
+
+NR 4/29 (14)
+0/22 (0) [b]
+
+NR 3/29 (10)
+0/21 (0) [b]
+
+
+4/29 (14)
+0/22(0) [b]
+
+3/29 (10)
+0/21 (0) [b]
+
+
+18/29 (62) 2/29 (6.9)
+
+8/29 (27.6) 0/29 (0)
+
+
+578 E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0
+
+
+Acquisition of data: Greco, Fernandez-Pello, Sakalis.
+
+Analysis and interpretation of data: Greco, Fernandez-Pello, Sakalis.
+
+Drafting of the manuscript: Greco.
+
+Critical revision of the manuscript for important intellectual content: Bar
+reto, Albersen, Ayres, Antunes Lopes, Campi, Crook, García Perdomo,
+
+Johnstone, Kailavasan, Manzie, Marcus, Necchi, Oliveira, Osborne,
+
+Pagliaro, Parnham, Pettaway, Protzel, Rumble, Sachdeva, Sanchez Marti
+nez, Zapala, Tagawa, Spiess, Brouwer.
+
+Statistical analysis: Greco, Fernandez-Pello, Sakalis.
+
+Obtaining funding: None.
+
+Administrative, technical, or material support: None.
+
+Supervision: Fernandez-Pello, Sakalis, Brouwer.
+
+Other: None.
+
+Financial disclosures: Isabella Greco certifies that all conflicts of interest,
+
+including specific financial interests and relationships and affiliations rel
+evant to the subject matter or materials discussed in the manuscript (eg,
+
+employment/affiliation, grants or funding, consultancies, honoraria, stock
+
+ownership or options, expert testimony, royalties, or patents filed,
+
+received, or pending), are the following: None.
+
+Funding/Support and role of the sponsor: The European Association of
+
+Urology Guidelines Office played a role in the design and conduct of this
+
+study; collection, management, analysis, and interpretation of the data;
+
+and preparation, review, and approval of the manuscript.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at
+[https://doi.org/10.1016/j.euf.2023.11.010.](https://doi.org/10.1016/j.euf.2023.11.010)
+
+References
+
+[[1] Parkin DM, Whelan SL, Ferlay J, Teppo L, Thomas DB, editors. Cancer](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0005)
+[incidence in five continents, Vol. VIII. Lyon, France: International](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0005)
+[Agency for Research on Cancer; 2002.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0005)
+
+[2] Horenblas S, van Tinteren H. Squamous cell carcinoma of the penis.
+IV. Prognostic factors of survival: analysis of tumor, nodes and
+[metastasis classification system. J Urol 1994;151:1239–43. https://](https://doi.org/10.1016/s0022-5347(17)35221-7)
+[doi.org/10.1016/s0022-5347(17)35221-7.](https://doi.org/10.1016/s0022-5347(17)35221-7)
+
+[3] Brierley J, Gospodarowicz M, Wittekind C, editors. TNM
+classification of malignant tumours. ed. 8. Oxford, UK: WileyBlackwell; 2016. [https://www.uicc.org/8th-edition-uicc-tnm-](https://www.uicc.org/8th-edition-uicc-tnm-classification-malignant-tumors-published)
+[classification-malignant-tumors-published.](https://www.uicc.org/8th-edition-uicc-tnm-classification-malignant-tumors-published)
+
+[4] Woldu SL, Ci B, Hutchinson RC, et al. Usage and survival
+implications of surgical staging of inguinal lymph nodes in
+intermediate- to high-risk, clinical localized penile cancer: a
+propensity-score matched analysis. Urol Oncol 2018;36:159.e7–
+[. https://doi.org/10.1016/j.urolonc.2017.12.001.](https://doi.org/10.1016/j.urolonc.2017.12.001)
+
+[[5] Hakenberg OW, Compérat E, Minhas S, et al. EAU guidelines on](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0025)
+[penile cancer. Arnhem, The Netherlands: European Association of](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0025)
+[Urology; 2022.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0025)
+
+[6] Cabanas RM. An approach for the treatment of penile carcinoma.
+Cancer 1977;39:456–66. [https://doi.org/10.1002/1097-0142](https://doi.org/10.1002/1097-0142(197702)39:2&lt;456::aid-cncr2820390214&gt;3.0.co;2-i)
+[(197702)39:2<456::aid-cncr2820390214>3.0.co;2-i.](https://doi.org/10.1002/1097-0142(197702)39:2&lt;456::aid-cncr2820390214&gt;3.0.co;2-i)
+
+[[7] Daseler EH, Anson BJ, Reimann AF. Radical excision of the inguinal](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0035)
+[and iliac lymph glands; a study based upon 450 anatomical](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0035)
+dissections and upon [supportive](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0035) clinical observations. Surg
+[Gynecol Obstet 1948;87:679–94.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0035)
+
+[8] Catalona WJ. Modified inguinal lymphadenectomy for carcinoma of
+the penis with preservation of saphenous veins: technique and
+preliminary results. J Urol 1988;140:306–10. [https://doi.org/](https://doi.org/10.1016/s0022-5347(17)41589-8)
+[10.1016/s0022-5347(17)41589-8.](https://doi.org/10.1016/s0022-5347(17)41589-8)
+
+[9] Kroon BK, Horenblas S, Deurloo EE, Nieweg OE, Teertstra HJ.
+Ultrasonography-guided fine-needle aspiration cytology before
+sentinel node biopsy in patients with penile carcinoma. BJU Int
+[2005;95:517–21. https://doi.org/10.1111/j.1464-410X.2005.05330.](https://doi.org/10.1111/j.1464-410X.2005.05330.x)
+
+[x.](https://doi.org/10.1111/j.1464-410X.2005.05330.x)
+
+
+
+[[10] Machado MT, Tavares A, Molina WR, et al. 834: Comparative study](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0050)
+between videoendoscopic [radical](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0050) inguinal lymphadenectomy
+[(VEIL) and standard open lymphadenectomy for penile cancer:](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0050)
+[preliminary surgical and oncologic results. J Urol 2005;173(4](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0050)
+[Suppl):226.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0050)
+
+[11] Josephson DY, Jacobsohn KM, Link BA, Wilson TG. Robotic-assisted
+endoscopic inguinal lymphadenectomy. Urology 2009;73:167–70.
+[https://doi.org/10.1016/j.urology.2008.05.060.](https://doi.org/10.1016/j.urology.2008.05.060)
+
+[[12] Brouwer OR, Tagawa ST, Albersen M, et al. EAU-ASCO penile cancer](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0060)
+[guidelines. Arnhem, The Netherlands: European Association of](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0060)
+[Urology; 2023.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0060)
+
+[[13] Liberati A, Altman DG, Tetzlaff J, et al. The PRISMA statement for](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0065)
+[reporting systematic reviews and meta-analyses of studies that](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0065)
+[evaluate health care interventions: explanation and elaboration.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0065)
+[PLoS Med 2009;6:e1000100.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0065)
+
+[14] Higgins JPT, Thomas J, Chandler J, et al, editors. Cochrane handbook
+for systematic reviews of interventions version 6.3 (updated
+February 2022). London, UK: Cochrane Collaboration; 2022.
+[https://training.cochrane.org/handbook.](https://training.cochrane.org/handbook)
+
+[15] Clavien PA, Barkun J, de Oliveira ML, et al. The Clavien-Dindo
+classification of surgical complications: five-year experience. Ann
+Surg 2009;250:187–96. [https://doi.org/10.1097/](https://doi.org/10.1097/SLA.0b013e3181b13ca2)
+[SLA.0b013e3181b13ca2.](https://doi.org/10.1097/SLA.0b013e3181b13ca2)
+
+[16] MacLennan S, Imamura M, Lapitan MC, et al. Systematic review of
+oncological outcomes following surgical management of localised
+[renal cancer. Eur Urol 2012;61:972–93. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.eururo.2012.02.039)
+[eururo.2012.02.039.](https://doi.org/10.1016/j.eururo.2012.02.039)
+
+[17] Omar I, Canfield S, MacLennan S, et al. EAU Guidelines Office
+systematic review and handbook. Arnhem, The Netherlands:
+European Association of Urology; 2022. [https://](https://d56bochluxqnz.cloudfront.net/media/Guidelines_Systematic_review_handbook_website.pdf)
+[d56bochluxqnz.cloudfront.net/media/Guidelines_Systematic_](https://d56bochluxqnz.cloudfront.net/media/Guidelines_Systematic_review_handbook_website.pdf)
+[review_handbook_website.pdf.](https://d56bochluxqnz.cloudfront.net/media/Guidelines_Systematic_review_handbook_website.pdf)
+
+[18] R Core Team. R: a language and environment for statistical
+computing. Austria, Vienna: R Foundation for Statistical
+[Computing; 2020. https://www.r-project.org/.](https://www.r-project.org/)
+
+[19] Balduzzi S, Rücker G, Schwarzer G. How to perform a meta-analysis
+with R: a practical tutorial. Evid Based Ment Health
+[2019;22:153–60. https://doi.org/10.1136/ebmental-2019-300117.](https://doi.org/10.1136/ebmental-2019-300117)
+
+[[20] Machin D, Campbell M, Fayers P, Pinol A. Sample size tables for](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0100)
+[clinical studies, ed. 2. Oxford, UK: Blackwell Science; 1997.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0100)
+
+[21] Wever L, de Vries HM, Dell’Oglio P, et al. Incidence and risk factor
+analysis of complications after sentinel node biopsy for penile
+cancer. BJU Int 2022;130:486–95. [https://doi.org/10.1111/](https://doi.org/10.1111/bju.15725)
+[bju.15725.](https://doi.org/10.1111/bju.15725)
+
+[22] KleinJan GH, van Werkhoven E, van den Berg NS, et al. The best of
+both worlds: a hybrid approach for optimal pre- and intraoperative
+identification of sentinel lymph nodes. Eur J Nucl Med Mol Imaging
+[2018;45:1915–25. https://doi.org/10.1007/s00259-018-4028-x.](https://doi.org/10.1007/s00259-018-4028-x)
+
+[23] Lee EWC, Issa A, Oliveira P, et al. High diagnostic accuracy of
+inguinal ultrasonography and fine-needle aspiration followed by
+dynamic sentinel lymph node biopsy in men with impalpable and
+[palpable inguinal lymph nodes. BJU Int 2022;130:331–6. https://](https://doi.org/10.1111/bju.15700)
+[doi.org/10.1111/bju.15700.](https://doi.org/10.1111/bju.15700)
+
+[24] Dell’Oglio P, de Vries HM, Mazzone E, et al. Hybrid indocyanine
+green- [99m] Tc-nanocolloid for single-photon emission computed
+tomography and combined radio- and fluorescence-guided
+sentinel node biopsy in penile cancer: results of 740 inguinal
+basins assessed at a single institution. Eur Urol 2020;78:865–72.
+[https://doi.org/10.1016/j.eururo.2020.09.007.](https://doi.org/10.1016/j.eururo.2020.09.007)
+
+[25] Lam W, Alnajjar HM, La-Touche S, et al. Dynamic sentinel lymph
+node biopsy in patients with invasive squamous cell carcinoma of
+the penis: a prospective study of the long-term outcome of 500
+inguinal basins assessed at a single institution. Eur Urol
+[2013;63:657–63. https://doi.org/10.1016/j.eururo.2012.10.035.](https://doi.org/10.1016/j.eururo.2012.10.035)
+
+[26] Jakobsen JK, Krarup KP, Sommer P, et al. DaPeCa-1: diagnostic
+accuracy of sentinel lymph node biopsy in 222 patients with penile
+cancer at four tertiary referral centres – a national study from
+Denmark. BJU Int 2016;117:235–43. [https://doi.org/10.1111/](https://doi.org/10.1111/bju.13127)
+[bju.13127.](https://doi.org/10.1111/bju.13127)
+
+[27] Dimopoulos P, Christopoulos P, Shilito S, et al. Dynamic sentinel
+lymph node biopsy for penile cancer: a comparison between 1- and
+[2-day protocols. BJU Int 2016;117:890–6. https://doi.org/10.1111/](https://doi.org/10.1111/bju.13389)
+[bju.13389.](https://doi.org/10.1111/bju.13389)
+
+[28] Torbrand C, Warnolf Å, Glombik D, et al. Sentinel node
+identification with hybrid tracer-guided and conventional
+dynamic sentinel node biopsy in penile cancer: a prospective
+
+E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0 579
+
+
+study in 130 patients from the two national referral centres in
+[Sweden. Eur Urol Oncol 2022;5:704–11. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.euo.2022.09.004)
+[euo.2022.09.004.](https://doi.org/10.1016/j.euo.2022.09.004)
+
+[29] Kroon BK, Lont AP, Valdés Olmos RA, Nieweg OE, Horenblas S.
+Morbidity of dynamic sentinel node biopsy in penile carcinoma. J
+Urol 2005;173:813–5. [https://doi.org/10.1097/01.](https://doi.org/10.1097/01.ju.0000156733.99684.9c)
+[ju.0000156733.99684.9c.](https://doi.org/10.1097/01.ju.0000156733.99684.9c)
+
+[30] Omorphos S, Saad Z, Arya M, et al. Feasibility of performing
+dynamic sentinel lymph node biopsy as a delayed procedure in
+penile cancer. World J Urol 2016;34:329–35. [https://doi.org/](https://doi.org/10.1007/s00345-015-1577-5)
+[10.1007/s00345-015-1577-5.](https://doi.org/10.1007/s00345-015-1577-5)
+
+[[31] Tanis PJ, Lont AP, Meinhardt W, Olmos RA, Nieweg OE, Horenblas S.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0155)
+[Dynamic sentinel node biopsy for penile cancer: reliability of a](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0155)
+[staging technique. J Urol 2002;168:76–80.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0155)
+
+[32] Hadway P, Smith Y, Corbishley C, Heenan S, Watkin NA. Evaluation
+of dynamic lymphoscintigraphy and sentinel lymph-node biopsy
+for detecting occult metastases in patients with penile squamous
+[cell carcinoma. BJU Int 2007;100:561–5. https://doi.org/10.1111/](https://doi.org/10.1111/j.1464-410X.2007.07013.x)
+[j.1464-410X.2007.07013.x.](https://doi.org/10.1111/j.1464-410X.2007.07013.x)
+
+[33] Crawshaw JW, Hadway P, Hoffland D, et al. Sentinel lymph node
+biopsy using dynamic lymphoscintigraphy combined with
+ultrasound-guided fine needle aspiration in penile carcinoma. Br J
+[Radiol 2009;82:41–8. https://doi.org/10.1259/bjr/99732265.](https://doi.org/10.1259/bjr/99732265)
+
+[34] Leijte JA, Kroon BK, Valdés Olmos RA, Nieweg OE, Horenblas S.
+Reliability and safety of current dynamic sentinel node biopsy for
+penile carcinoma. Eur Urol 2007;52:170–7. [https://doi.org/](https://doi.org/10.1016/j.eururo.2007.01.107)
+[10.1016/j.eururo.2007.01.107.](https://doi.org/10.1016/j.eururo.2007.01.107)
+
+[[35] Horenblas S, Jansen L, Meinhardt W, Hoefnagel CA, de Jong D,](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0175)
+[Nieweg OE. Detection of occult metastasis in squamous cell](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0175)
+[carcinoma of the penis using a dynamic sentinel node procedure.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0175)
+[J Urol 2000;163:100–4.](http://refhub.elsevier.com/S2405-4569(23)00269-9/h0175)
+
+[36] Yoganarasimha J, Sharma RM, Giridhar A, Rao VB, Raju KVVN, Rao
+ST. Role of sentinel lymph node biopsy in clinically node negative
+carcinoma penis – a prospective study. Indian J Surg Oncol
+[2023;14:288–91. https://doi.org/10.1007/s13193-022-01656-x.](https://doi.org/10.1007/s13193-022-01656-x)
+
+[37] Jensen JB, Jensen KM, Ulhøi BP, Nielsen SS, Lundbeck F. Sentinel
+lymph-node biopsy in patients with squamous cell carcinoma of
+[the penis. BJU Int 2009;103:1199–203. https://doi.org/10.1111/](https://doi.org/10.1111/j.1464-410X.2009.08449.x)
+[j.1464-410X.2009.08449.x.](https://doi.org/10.1111/j.1464-410X.2009.08449.x)
+
+[38] Kathiresan N, Raja A, Ramachandran KK, Sundersingh S. Role of
+dynamic sentinel node biopsy in carcinoma penis with or without
+[palpable nodes. Indian J Urol 2016;32:57–60. https://doi.org/](https://doi.org/10.4103/0970-1591.173111)
+[10.4103/0970-1591.173111.](https://doi.org/10.4103/0970-1591.173111)
+
+[39] Nazzani S, Catanzaro M, Biasoni D, et al. Clinical outcomes in
+clinical N0 squamous cell carcinoma of the penis according to nodal
+management: early, delayed or selective (following dynamic
+sentinel node biopsy) inguinal lymph-node dissection. J Urol
+[2021;206:354–63. https://doi.org/10.1097/JU.0000000000001775.](https://doi.org/10.1097/JU.0000000000001775)
+
+[40] Ramos JG, Jaramillo DC, Sandoval D, et al. Diagnostic precision of
+sentinel lymph node biopsy in penile cancer. Indian J Urol
+[2019;35:282–6. https://doi.org/10.4103/iju.IJU_79_19.](https://doi.org/10.4103/iju.IJU_79_19)
+
+[41] Valdés Olmos RA, Tanis PJ, Hoefnagel CA, et al. Penile
+lymphoscintigraphy for sentinel node identification. Eur J Nucl
+[Med 2001;28:581–5. https://doi.org/10.1007/s002590100476.](https://doi.org/10.1007/s002590100476)
+
+[42] Nemitz L, Vincke A, Michalik B, et al. Radioisotope-guided sentinel
+lymph node biopsy in penile cancer: a long-term follow-up study.
+Front Oncol 2022;12:850905. [https://doi.org/](https://doi.org/10.3389/fonc.2022.850905)
+[10.3389/fonc.2022.850905.](https://doi.org/10.3389/fonc.2022.850905)
+
+[43] Sedigh O, Preto M, Soleimanzadeh F, et al. Role of perioperative
+dynamic sentinel node biopsy for cN0 penile cancer management:
+experience from an Italian tertiary referral center. Tumori
+[2018;104:66–70. https://doi.org/10.5301/tj.5000700.](https://doi.org/10.5301/tj.5000700)
+
+[44] Lützen U, Naumann CM, Dischinger J, et al. 10-Year experience
+regarding the reliability and morbidity of radio guided lymph node
+biopsy in penile cancer patients and the associated radiation
+exposure of medical staff in this procedure. BMC Urol
+[2016;16:47. https://doi.org/10.1186/s12894-016-0166-2.](https://doi.org/10.1186/s12894-016-0166-2)
+
+[45] Schubert T, Uphoff J, Henke RP, Wawroschek F, Winter A. Reliability
+of radioisotope-guided sentinel lymph node biopsy in penile
+cancer: verification in consideration of the European guidelines.
+[BMC Urol 2015;15:98. https://doi.org/10.1186/s12894-015-0093-](https://doi.org/10.1186/s12894-015-0093-7)
+[7.](https://doi.org/10.1186/s12894-015-0093-7)
+
+[46] Spiess PE, Izawa JI, Bassett R, et al. Preoperative
+lymphoscintigraphy and dynamic sentinel node biopsy for staging
+penile cancer: results with pathological correlation. J Urol
+[2007;177:2157–61. https://doi.org/10.1016/j.juro.2007.01.125.](https://doi.org/10.1016/j.juro.2007.01.125)
+
+
+
+[47] Gonzaga-Silva LF, Tavares JM, Freitas FC, Tomas Filho ME, Oliveira
+VP, Lima MV. The isolated gamma probe technique for sentinel
+node penile carcinoma detection is unreliable. Int Braz J Urol
+2007;33:58–63. [https://doi.org/10.1590/s1677-](https://doi.org/10.1590/s1677-55382007000100009)
+[55382007000100009.](https://doi.org/10.1590/s1677-55382007000100009)
+
+[48] Brennhovd B, Johnsrud K, Berner A, et al. Sentinel node procedure in
+low-stage/low-grade penile carcinomas. Scand J Urol Nephrol
+[2006;40:204–7. https://doi.org/10.1080/00365590600589971.](https://doi.org/10.1080/00365590600589971)
+
+[49] Perdonà S, Autorino R, De Sio M, et al. Dynamic sentinel node
+biopsy in clinically node-negative penile cancer versus radical
+inguinal lymphadenectomy: a comparative study. Urology
+[2005;66:1282–6. https://doi.org/10.1016/j.urology.2005.06.085.](https://doi.org/10.1016/j.urology.2005.06.085)
+
+[50] Ferreira U, Ribeiro MA, Reis LO, Prudente A, Matheus WE. Sentinel
+lymph node biopsy in penile cancer: a comparative study using
+modified inguinal dissection. Int Braz J Urol 2008;34:725–30.
+[https://doi.org/10.1590/s1677-55382008000600007.](https://doi.org/10.1590/s1677-55382008000600007)
+
+[51] Ornellas AA, Kinchin EW, Nóbrega BL, Wisnescky A, Koifman N,
+Quirino R. Surgical treatment of invasive squamous cell carcinoma
+of the penis: Brazilian National Cancer Institute long-term
+[experience. J Surg Oncol 2008;97:487–95. https://doi.org/10.1002/](https://doi.org/10.1002/jso.20980)
+[jso.20980.](https://doi.org/10.1002/jso.20980)
+
+[52] Yao K, Tu H, Li YH, et al. Modified technique of radical inguinal
+lymphadenectomy for penile carcinoma: morbidity and outcome. J
+[Urol 2010;184:546–52. https://doi.org/10.1016/j.juro.2010.03.140.](https://doi.org/10.1016/j.juro.2010.03.140)
+
+[53] Guimarães GC, Lopes A, Campos RS, et al. Front pattern of invasion
+in squamous cell carcinoma of the penis: new prognostic factor for
+predicting risk of lymph node metastases. Urology
+[2006;68:148–53. https://doi.org/10.1016/j.urology.2006.01.050.](https://doi.org/10.1016/j.urology.2006.01.050)
+
+[54] Ficarra V, Zattoni F, Artibani W, et al. Nomogram predictive of
+pathological inguinal lymph node involvement in patients with
+squamous cell carcinoma of the penis. J Urol 2006;175:1700–4.
+[https://doi.org/10.1016/S0022-5347(05)01003-7.](https://doi.org/10.1016/S0022-5347(05)01003-7)
+
+[55] Tsaur I, Biegel C, Gust K, et al. Feasibility, complications and
+oncologic results of a limited inguinal lymph node dissection in the
+management of penile cancer. Int Braz J Urol 2015;41:486–95.
+[https://doi.org/10.1590/S1677-5538.ibju.2014.0304.](https://doi.org/10.1590/S1677-5538.ibju.2014.0304)
+
+[56] Nerli RB, Sharma M, Patel P, et al. Modified inguinal lymph node
+dissection in groin-negative patients of penile cancer: our
+[experience. Indian J Surg Oncol 2021;12:229–34. https://doi.org/](https://doi.org/10.1007/s13193-021-01285-w)
+[10.1007/s13193-021-01285-w.](https://doi.org/10.1007/s13193-021-01285-w)
+
+[57] Singh A, Jaipuria J, Goel A, et al. Comparing outcomes of robotic and
+open inguinal lymph node dissection in patients with carcinoma of
+[the penis. J Urol 2018;199:1518–25. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.juro.2017.12.061)
+[juro.2017.12.061.](https://doi.org/10.1016/j.juro.2017.12.061)
+
+[58] Thyavihally YB, Dev P, Waigankar SS, et al. Comparative study of
+perioperative and survival outcomes after video endoscopic
+inguinal lymphadenectomy (VEIL) and open inguinal lymph node
+dissection (O-ILND) in the management of inguinal lymph nodes in
+[carcinoma of the penis. J Robot Surg 2021;15:905–14. https://doi.](https://doi.org/10.1007/s11701-020-01189-x)
+[org/10.1007/s11701-020-01189-x.](https://doi.org/10.1007/s11701-020-01189-x)
+
+[59] Shao Y, Hu X, Ren S, et al. Comparison of different surgical methods
+and strategies for inguinal lymph node dissection in patients with
+penile cancer. Sci Rep 2022;12:2560. [https://doi.org/10.1038/](https://doi.org/10.1038/s41598-022-06494-z)
+[s41598-022-06494-z.](https://doi.org/10.1038/s41598-022-06494-z)
+
+[60] Yadav SS, Tomar V, Bhattar R, Jha AK, Priyadarshi S. Video
+endoscopic inguinal lymphadenectomy vs open inguinal
+lymphadenectomy for carcinoma penis: expanding role and
+[comparison of outcomes. Urology 2018;113:79–84. https://doi.](https://doi.org/10.1016/j.urology.2017.11.007)
+[org/10.1016/j.urology.2017.11.007.](https://doi.org/10.1016/j.urology.2017.11.007)
+
+[61] Zou ZJ, Liu ZH, Tang LY, et al. Radiocolloid-based dynamic sentinel
+lymph node biopsy in penile cancer with clinically negative
+inguinal lymph node: an updated systematic review and metaanalysis. Int Urol Nephrol 2016;48:2001–13. [https://doi.org/](https://doi.org/10.1007/s11255-016-1405-x)
+[10.1007/s11255-016-1405-x.](https://doi.org/10.1007/s11255-016-1405-x)
+
+[62] Sadeghi R, Gholami H, Zakavi SR, Kakhki VR, Tabasi KT, Horenblas S.
+Accuracy of sentinel lymph node biopsy for inguinal lymph node
+staging of penile squamous cell carcinoma: systematic review and
+[meta-analysis of the literature. J Urol 2012;187:25–31. https://doi.](https://doi.org/10.1016/j.juro.2011.09.058)
+[org/10.1016/j.juro.2011.09.058.](https://doi.org/10.1016/j.juro.2011.09.058)
+
+[63] Tobias-Machado M, Ornellas AA, Hidaka AK, et al. Long-term
+oncological and surgical outcomes after video endoscopic inguinal
+lymphadenectomy (VEIL) in patients with penile cancer. Int Braz J
+Urol 2023;49:580–9. [https://doi.org/10.1590/S1677-5538.](https://doi.org/10.1590/S1677-5538.IBJU.2023.0065)
+[IBJU.2023.0065.](https://doi.org/10.1590/S1677-5538.IBJU.2023.0065)
+
+[64] Hu J, Li H, Cui Y, et al. Comparison of clinical feasibility and
+oncological outcomes between video endoscopic and open inguinal
+
+580 E U R O P E A N U R O L O G Y F O C U S 1 0 ( 2 0 2 4 ) 5 6 7 – 5 8 0
+
+
+lymphadenectomy for penile cancer: a systematic review and
+[meta-analysis. Medicine 2019;98:e15862. https://doi.org/10.1097/](https://doi.org/10.1097/MD.0000000000015862)
+[MD.0000000000015862.](https://doi.org/10.1097/MD.0000000000015862)
+
+[65] Patel AS, Isharwal S. Single-port robotic inguinal lymph node
+dissection: a safe and feasible option for penile cancer. Surg Oncol
+[2021;38:101633. https://doi.org/10.1016/j.suronc.2021.101633.](https://doi.org/10.1016/j.suronc.2021.101633)
+
+[66] Abdullatif VA, Davis J, Cavayero C, Toenniessen A, Nelson RJ. Singleport robotic inguinal lymph node dissection for penile cancer.
+[Urology 2022;161:153–6. https://doi.org/10.1016/j.urology.2021.](https://doi.org/10.1016/j.urology.2021.12.007)
+[12.007.](https://doi.org/10.1016/j.urology.2021.12.007)
+
+
+
+[67] Bandini M, Ahmed M, Basile G, et al. A global approach to improving
+
+[penile cancer care. Nat Rev Urol 2022;19:231–9. https://doi.org/](https://doi.org/10.1038/s41585-021-00557-y)
+[10.1038/s41585-021-00557-y.](https://doi.org/10.1038/s41585-021-00557-y)
+
+[68] Cindolo L, Spiess PE, Bada M, et al. Adherence to EAU guidelines on
+penile cancer translates into better outcomes: a multicenter
+[international study. World J Urol 2019;37:1649–57. https://doi.](https://doi.org/10.1007/s00345-018-2549-3)
+[org/10.1007/s00345-018-2549-3.](https://doi.org/10.1007/s00345-018-2549-3)
+
+[69] Vanthoor J, Thomas A, Tsaur I, Albersen M, eUROGEN. Making
+surgery safer by centralization of care: impact of case load in penile
+[cancer. World J Urol 2020;38:1385–90. https://doi.org/10.1007/](https://doi.org/10.1007/s00345-019-02866-9)
+[s00345-019-02866-9.](https://doi.org/10.1007/s00345-019-02866-9)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

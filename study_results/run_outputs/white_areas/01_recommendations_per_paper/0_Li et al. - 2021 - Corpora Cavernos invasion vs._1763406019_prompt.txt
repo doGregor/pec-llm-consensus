@@ -1,0 +1,698 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    *J* *ournal o* *f* *Cancer* 2021, Vol. 12
+### Ivyspring 
+
+International Publisher
+
+
+1960
+
+
+Research Paper
+# Corpora Cavernos invasion vs. Corpus Spongiosum invasion in Penile Cancer: A systematic review and meta-analysis
+
+Zaishang Li [1,2,3*], Xueying Li [4*], Wayne Lam [5], Yabing Cao [6], Jiunhung Geng [7,8,9], Antonio Augusto Ornellas [10],
+Fangjian Zhou [11,12,13] [] and Hui Han [11,12,13] []
+
+1. Department of Urology, Shenzhen People’s Hospital, The Second Clinic Medical College of Jinan University 518060, Shenzhen, Guangdong, P. R. China.
+2. Department of Urology, First Affiliated Hospital of Southern University of Science and Technology, 518060, Shenzhen, Guangdong, P. R. China.
+3. Department of Urology, Minimally Invasive Urology of Shenzhen research and Development Center of Medical Engineering and Technology, 518060,
+Shenzhen, Guangdong, P. R. China.
+4. Department of Oncology, The Seventh Affiliated Hospital Sun Yat-sen University, 518107, Shenzhen, Guangdong, P. R. China.
+5. Division of Urology, Department of Surgery, Queen Mary’s Hospital, The University of Hong Kong, 999077, Hong Kong SAR, P. R. China.
+6. Department of Oncology, Hospital Kiang Wu, 999078, Macao SAR, P. R. China.
+7. Department of Urology, Kaohsiung Municipal Hsiao-Kang Hospital, 000800, Kaohsiung, Taiwan.
+8. Department of Urology, Kaohsiung Medical University Hospital, 000800, Kaohsiung, Taiwan.
+9. Kaohsiung Medical University, Kaohsiung, T 000800, Taiwan.
+10. Department of Urology, Brazilian National Institute of Cancer, 20230‑130, Rio de Janeiro, Brazil.
+11. Department of Urology, Sun Yat-sen University Cancer Center, 510060, Guangzhou, Guangdong, P. R. China.
+12. State Key Laboratory of Oncology in South China, 510060, Guangzhou, Guangdong, P. R. China.
+13. Collaborative Innovation Center of Cancer Medicine, 510060, Guangzhou, Guangdong, P. R. China.
+
+*These authors contributed equally to this research.
+
+ Corresponding authors: Hui Han, M.D., Ph.D., TEL: 86-020-87343862; FAX: 86-20-87343656; E-mail: hanhui@ sysucc.org.cn; Address: Department of Urology,
+Sun Yat-sen University Cancer Center, Guangzhou, 510060, Guangdong, P.R. China. Fangjian Zhou, M.D., Ph.D., TEL.: 86-20-87343656; Fax: 86-20-87343656;
+E-mail: zhoufj@sysucc.org.cn; Address: Department of Urology, Sun Yat-sen University Cancer Center, Guangzhou, 510060, Guangdong, P.R. China.
+
+© The author(s). This is an open access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/).
+See http://ivyspring.com/terms for full terms and conditions.
+
+Received: 2020.11.28; Accepted: 2021.01.05; Published: 2021.01.30
+
+**Abstract**
+
+**Objective:** Changes were made in the 8 [th] edition of the American Joint Committee on Cancer (AJCC)
+staging system according to cavernosum invasion for penile squamous cell carcinoma. This study aimed to
+determine the difference of prognostic validity between corpora cavernosa (CC) invasion and corpus
+spongiosum (CS) invasion.
+
+**Methods:** In this study, we searched PubMed, Cochrane CENTRAL, and Embase to select Englishlanguage articles until July 15, 2020. Pooled analyses of hazard ratios (HRs) and odds ratios (ORs) were
+performed.
+
+**Results:** Eleven studies including 3692 cases were included in the final ananlysis (1431 cases with CC and
+1360 cases with CS). According to the anatomical structure, the pooled results demonstrated that
+patients with CC invasion had a similar rate of LNM to those with CS invasion (OR 1.34, 95% confidence
+interval (CI) 0.97-1.86; *P* =0.076). However, patients with CC invasion had a higher rate of lymph node
+metastasis (LNM) than those with CS invasion according to the 8 [th] edition tumor stage (OR 1.58, 95% CI
+1.14-2.21; *P* <0.001). Regarding survival, patients with CS invasion obtained a significantly better cancerspecific survival (CSS) (HR, 0.67; 95% CI, 0.46-0.96; *P* =0.030), but not in overall survival (OS) (HR: 1.30;
+95% CI, 0.52-3.20; *P* =0.585) than those with CC invasion. No a significant publication bias was observed
+by Begg’s and Egger’s tests.
+
+**Conclusions:** The systematic comparison suggests that patients with CS invasion had better CSS than
+those with CC invasion. CC invasion was associated with a high risk of LNM. The conclusions should be
+validated by large-scale studies.
+
+Key words: penile cancer, prognosis, meta-analysis, lymph node metastasis, stage
+
+http://www.jcancer.org
+
+*Journal of Cancer* 2021, Vol. 12
+
+**Introduction**
+
+The tumor stage of penile carcinoma is defined
+according to anatomy which has few changes [1-5]. In
+2008, Lejet et al. defined tumor involvement of the
+spongious and/or cavernous bodies as T2 or T3 which
+provides good prognostic stratification with a
+significant difference in survival [6]. This
+classification has been proven to be a good way to
+distinguish the survival of penile patients in some
+studies and was accepted by the American Joint
+Committee on Cancer (AJCC) tumor-node-metastasis
+(TNM) staging system until 2018 [5].
+According to the latest TNM staging of penile
+carcinoma, the invasion of the corpus cavernosa (CC)
+and corpus spongiosum (CS) were classified as T3 and
+T2. Because of the incidence rate of penile cancer,
+there are few clinical data to verify the superiority of
+the 8th edition staging system [7-9]. However, some
+studies confirmed that there is room for improvement
+in the 8th edition of T staging to predict the prognosis
+of patients more accurately [7-9].
+A meta-analysis in 2019 showed that CC
+invasion and CS invasion were also significant
+predictors of inguinal lymph node metastasis (LNM)
+
+[10]. However, this study failed to distinguish
+different anatomies and repeated statistics in the
+methods, so the results need further research.
+To verify the prognostic value of the latest T
+stage, we performed a meta-analysis to explore the
+survival and LNM of CC invasion and CS invasion.
+
+**Materials and methods**
+
+**Literature-search strategy**
+
+We searched the primary sources (PubMed,
+Embase, and the Cochrane Library) before July 2020.
+The following MeSH term was searched in
+
+[Title/Abstract]: penile cancer, penile tumor, penile
+neoplasm, penile squamous cell carcinoma, corpora
+cavernosa, corpora spongiosa, metastases, staging
+(eTable 1 in the Supplement).
+
+**Inclusion and exclusion criteria**
+
+The inclusion criteria used were as follows: 1)
+determined the precise pathologically confirmed
+stage; 2) discriminated CC invasion and CS invasion;
+3) reported the results of prognosis or LNM; and 4)
+written in English. Larger publications were included
+in the case of overlapping patient data from the same
+institution. If CC invasion and CS invasion were taken
+as a whole, the study was excluded.
+
+**Data extraction and quality of data assessment**
+
+The reviewers (Zaishang Li and Xueying Li)
+independently extracted and summarized the
+
+
+1961
+
+information using the PICOS (Population,
+Intervention, Comparator, Outcome, and Study
+design) principle. A consensus meeting including a
+senior author (Hui Han) will be held to resolve any
+disagreements. The following information was
+extracted: year of publication, first author, country,
+recruitment period, sample size, age, follow-up time
+and outcome of the study. The quality assessment was
+performed according to the Cochrane Collaboration
+handbook [11]. Any disagreements regarding the
+studies were resolved via discussion among all
+authors.
+The quality of studies was assessed by the
+Newcastle-Ottawa Quality Assessment Scale. A score
+of 0-9 (allocated as stars), except randomized
+controlled trials.
+
+**Statistical analysis**
+
+The survival rate of the patients affected was
+expressed as the hazard ratio (HR), and the presence
+of LNM was expressed as the odds ratio (OR).
+Engauge software was used to calculate the necessary
+data when survival data were not directly reported.
+For the rare cancer, T4 (number: Hölters S:2 and
+Wang: 2) was grouped together with T3, and these
+studies were also included in the final analysis [9, 12].
+One study was excluded from the survival analysis
+due to the limited number of patients (only 41
+patients) [13]. If I2 <40%, the fixed effects model was
+used; otherwise, the random-effects model was used.
+Stata version 12 (Stata Corp, College Station, TX,
+USA) and R 2.14.1 (http://www.r-proje ct.org) were
+used. Sensitivity analyses were performed for
+high-quality studies. Funnel plots were used to screen
+for potential publication bias. The significance level
+was set at 5% or a *P* -value<0.05.
+
+**Results**
+
+**Summary of analyzed studies**
+
+Eleven studies incorporating 3692 cases met the
+final analysis criteria. The selection process is shown
+in Figure 1. Among these studies, LNM was
+investigated in 7 studies [8, 13-18], and survival was
+investigated in 4 studies [6, 7, 9, 12] (Table 1). Four
+studies classified LNM on the basis of the anatomical
+structure (CC invasion or CS invasion) [14-17], and 3
+studies classified LNM on the basis of tumor stage
+(T2: tumor invading into CS or T3: tumor invading
+into CC) [8, 12, 13]. The evaluation of publication bias
+was performed by Funnel plots, Begg’s test and
+Egger’s test (Figure 2, *eTable 1 in the Supplement* ). The
+results of the sensitivity analysis are shown in *eTable 2*
+*in the Supplement.*
+
+http://www.jcancer.org
+
+*Journal of Cancer* 2021, Vol. 12
+
+**Association between LNM and cavernosum**
+
+**invasion in penile cancer patients**
+
+There were significant differences in anatomical
+structure and tumor stage. According to the
+anatomical structure, there was a partial intersection
+between CS invasion and CC invasion. However,
+there was no intersection between T2 and T3
+according to the 8 [th] edition tumor stage. The
+associations between LNM and cavernosum invasion
+are presented separately in Table 2.
+
+**Fi** **g** **ure 1.** Flowchart of stud y selection.
+
+
+1962
+
+The pooled results demonstrated that patients
+with CS invasion had a similar rate of LNM to those
+with CC invasion according to the anatomical
+structure (OR 1.34, 95% CI 0.97-1.86; *P* =0.076, Figure
+3A). The results show a growing trend towards LNM
+in patients with CS invasion according to the
+anatomical structure without statistical significance.
+However, patients with CC invasion had a
+higher rate of LNM than those with CS invasion
+according to the 8 [th] edition tumor stage (OR 1.58, 95%
+CI 1.14-2.21; *P* <0.001) (Figure 3B).
+
+
+**Figure 2.** Funnel plots to detect the publication bias of eligible studies. A: according to the anatomical structure. B: according to the 8 [th] edition tumor stage. C: cancer-specific
+survival. D: overall survival.
+
+http://www.jcancer.org
+
+*Journal of Cancer* 2021, Vol. 12
+
+**Table 1.** Main characteristics of the studies
+
+
+1963
+
+
+Group First author Year Country Recruitment
+p eriod
+
+
+( median )
+
+
+No. CC
+invasion ( % )
+
+
+Number Age
+
+
+Group First author Year Country Recruitment Number Age Follow-up No. CC No. CS Outcomes NOS
+p eriod ( median ) ( mean / median ) invasion ( % ) invasion ( % ) measured score
+
+a Ficarra V 2005 Italy 1980-2002 175 62.0±12.2 26 (2-292) 79 (45.1) 61 (34.9) LNM 9
+Ornellas AA 2008 Brazil 1996-2007 196 57 (25-98) 74 (1-93) 88 (44.9) 69 (35.2) LNM 8
+Graafland NM 2010 Netherland 2001-2008 342 65 (26-96) 31 (3-91) 63 (18.4) 217 (63.4) LNM 9
+Termini1 L 2015 Brazil 1953-2000 125 NA NA 60 (48.0) 88 (70.4) LNM 6
+b Amr Al-Najar 2011 Germany 1996-2008 89 31-91 1-142 18 (20.2) 23 (25.8) LNM 8
+Kearns JT 2019 NCDB 2010-2012 912 NA NA 524 (57.5) 378 (41.4) LNM 6
+Akash P. 2020 India 2007- 2012 142 NA 21 (1-96) 45 (31.7) 97 (68.3) LNM 7
+c Leijte JA 2008 Netherland 1956-2006 513 65 (21–94) 58.7 (3-303) 90 (17.5) 162 (31.6) Survival 9
+Li ZS [1] 2018 Global 2000-2015 411 53 (24-94) 18 (1-207) 119 (29.0) 115 (28.0) Survival 7
+Li ZS [2] 2018 Global 2000-2015 436 56 (18-93) 35.4 (1-349.7) 142 (32.6) 142 (32.6) Survival 7
+Hölters S 2019 Germany 1992-2015 121 61.6 (25-88) 46.8 (1-176) 23 (19.0) 30 (24.8) Survival 6
+Wan g BH 2020 China 1998-2015 230 57 ( 47-64 ) 48.9 ( 28.1-84.7 ) 110 ( 47.8 ) 30 ( 13.0 ) Survival 6
+
+
+No. CS
+invasion ( % )
+
+
+Outcomes
+
+measured
+
+
+Follow-up
+( mean / median )
+
+
+a: LNM on the basis of the anatomical structure; b: LNM on the basis of tumor stage; c: survival on the basis of tumor stage. 1: training cohort; 2: external cohort; NCDB:
+National Cancer Database.
+
+**Figure 3.** Meta-analysis of pooled odds ratios of association between LNM and cavernosum invasion in penile cancer. A: according to the anatomical structure. B: according to
+the 8 [th] edition tumor sta g e.
+
+
+**Association between survival and cavernosum**
+**invasion in penile cancer patient**
+
+Studies on survival analysis were allocated
+according to tumor stage. There was one study that
+contained two independent cohorts. Therefore, four
+cohorts reported the relationship between
+cavernosum invasion and cancer-specific survival
+(CSS), and two studies reported the relationship
+between cavernosum invasion and overall survival
+
+(OS).
+Overall, patients with CS invasion obtained a
+significantly better CSS (HR, 0.67; 95% CI, 0.46-0.96;
+*P* =0.030, Figure 4A), but not OS (HR: 1.30; 95% CI,
+0.52-3.20; *P* =0.585) than CC invasion (Figure 4B).
+Preplanned subgroup analysis revealed the
+
+
+results of CC invasion compared with CC invasion
+(Table 3).
+
+**Table 2.** Pooled nodal metastasis prevalence in penile cancer by
+stratification studies
+
+
+a: LNM on the basis of the anatomical structure; b: LNM on the basis of tumor
+
+stage.
+
+http://www.jcancer.org
+
+
+Group First author CC invasion n ( % ) CS invasion n ( % )
+
+Nodal Nodal Nodal
+
+Metastasis Metastasis Metastasis
+
+( absent ) (p resent ) ( absent ) (p
+
+
+Nodal Nodal Nodal Nodal
+
+Metastasis Metastasis Metastasis Metastasis
+
+( absent ) (p resent ) ( absent ) (p resent )
+
+a Ficarra V 38 (48.1) 41 (51.9) 28 (45.9) 33 (54.1)
+Ornellas AA 45 (51.4) 43 (48.7) 42 (60.9) 27 (39.1)
+Graafland NM 42 (66.7) 21 (33.3) 165 (76.0) 52 (24.0)
+Termini L 28 (50.9) 27 (49.1) 50 (60.2) 33 (39.8)
+b Amr Al-Najar 10 (55.6) 8 (44.4) 13 (56.5) 10 (43.5)
+Kearns JT 159 (54.6) 132 (45.4) 136 (66.0) 70 (34.0)
+Akash P. 7 ( 15.5 ) 38 ( 84.4 ) 24 ( 24.7 ) 73 ( 75.3 )
+
+
+Nodal
+
+Metastasis
+
+(p resent )
+
+
+Nodal
+
+Metastasis
+
+( absent )
+
+*Journal of Cancer* 2021, Vol. 12
+
+**Fi** **g** **ure 4.** Meta-anal y sis of p ooled hazard ratios of survival outcomes of cavernosum invasion in p enile cancer p atient. A: cancer-s p ecific survival. B: overall survival.
+
+
+1964
+
+
+**Table 3.** Main characteristics of the studies
+
+
+Analysis No. of
+studies
+
+
+HR/OR (95% CI) Model *P* Value Hetero g eneit y
+
+
+I2 ( % ) *P* Value
+**Subgroup 1 (CSS): follow-up time**
+<36 months 2 0.76 (0.54-1.06) Fixed 0.104 13.4 0.283
+≥36 months 2 0.50 (0.30-0.83) Fixed 0.007 37.2 0.207
+**Subgroup 2 (CSS): age**
+< 60 2 0.50 (0.30-0.83) Fixed 0.007 37.2 0.207
+≥ 60 2 0.76 (0.54-1.06) Fixed 0.104 13.4 0.283
+**Subgroup 3 (CSS): sample size**
+≥ 400 3 0.64 ( 0.43-0.95 ) Random 0.028 48.8 0.142
+
+
+**Discussion**
+
+This study is the first systematic review to assess
+the difference between CS invasion and CC invasion
+in penile cancer. This study confirmed that patients
+with CS invasion have significantly higher CSS rates.
+However, no significant difference was found for OS
+between them. Interestingly, patients with CC
+invasion had a higher rate of LNM than those with CS
+invasion according to the 8 [th] edition tumor stage (OR
+1.58, 95% CI 1.14-2.21; *P* <0.001). Simultaneously, there
+is a growing trend towards LNM in patients with CC
+invasion according to the anatomical structure (OR
+1.34, 95% CI 0.97-1.86; *P* =0.076). These results
+reflected that the 8 [th] edition AJCC staging system,
+especially the tumor stage, needs to be verified in the
+more clinical researches.
+The 8 [th] edition AJCC staging system also has
+room for improvement to better predict prognosis [7,
+8, 12, 19, 20]. In 2008, Leije et al found that patients
+with cavernosal involvement had a more aggressive
+histology with nodal involvement and worse survival
+
+[6]. Given these findings, they proposed a modified
+
+
+stage of spongiosal involvement or cavernosal
+involvement as different pT stages. Consistent with
+these findings, some studies have also found that
+spongiosal and cavernosal involvement have
+significant prognostic differences [18]. This
+classification was accepted by the AJCC TNM staging
+system until 2018. However, the 8 [th] edition AJCC
+staging system also has controversy [7, 8, 12]. To
+resolve disputes, we performed a meta-analysis to
+verify the prognostic value of the 8 [th] edition T stage.
+The results suggested that patients with CS invasion
+obtained a significantly better CSS than those with CC
+invasion but not OS.
+A meta-analysis showed that CC invasion and
+CS invasion were significant predictors of inguinal
+LNM [10]. This meta-analysis including one study
+reported that CC and CS infiltration combined were
+able to predict LNM. However, this meta-analysis
+failed to distinguish different anatomies (Figure 7 in
+Hu J et. al. study), and subgroup analyses were only
+included one or two studies (Figure 4 in Hu J et. al.
+study), so the results need further research. In our
+study, anatomical structure (CC invasion or CS
+invasion) and tumor stage (T2: tumor invading into
+CS or T3: tumor invading into CC) were calculated
+separately.
+It is well established that clinicopathological
+features can predict LNM [21, 22]. Some studies have
+shown that CS invasion or CC invasion differs from
+nodal involvement [23]. Studies suggested that
+patients with CS invasion had a higher rate of LNM
+than those with CS invasion [6, 10, 16, 21-23].
+Contrary to the above points, however, spongiosal
+
+http://www.jcancer.org
+
+*Journal of Cancer* 2021, Vol. 12
+
+and cavernosal involvement did not show a
+significant correlation with nodal metastasis [8, 13,
+16]. The risk-adapted stratification of the European
+Association of Urology (EAU), which included
+primary tumor stage and histologic grade, was
+recommended to estimate the incidence rate of LNM
+
+[21]. Solsona E et al. suggested that 83% of patients
+with pT2/3-G2/3 tumors had LNM; in contrast,
+pT1G1 tumors were not found to have LNM.
+However, occult nodal involvement will overestimate
+adherence to risk-adapted stratification, which would
+have led to 77% of patients not undergoing bilateral
+inguinal lymph node dissection (LND) [24].
+There are some limitations to this study. 1) The
+number of studies was small. The analysis of OS
+included only two studies, which may not provide
+sufficient power to draw reliable conclusions. 2) The
+HRs were extracted from indirect comparisons. We
+used Engauge software to extract Kaplan-Meier curve
+data, which also contributed to heterogeneity. 3)
+Factors might impact survival, for example surgical
+treatments, adjuvant/or neoadjuvant therapy, nodal
+status, size of tumors, local vascular invasion or
+lymphatic invasion etc. Due to the limited number of
+included studies and lacked of article information, we
+did not perform subgroup analysis. 4) This study only
+involved the CSS and OS. Other outcomes will be
+important in future validation studies of larger and
+multicentre data sets. Considering these drawbacks,
+we firmly believe that the persuasive power of the
+results will greatly increase with further research.
+
+**Conclusion**
+
+In summary, patients with CS invasion had
+better CSS than those with CC invasion but not OS.
+
+Our data also show that patients with CC invasion are
+associated with a high risk of LNM. However, due to
+the limited number of included studies, a larger
+sample size is needed for validation, which may
+provide a useful guide for clinicians.
+
+**Abbreviations**
+
+AJCC: American Joint Committee on Cancer;
+CC: corpora cavernosa; CI: confidence interval; CS:
+corpus spongiosum; CSS: cancer-specific survival;
+HR: hazard ratio; LNM: lymph node metastasis; OR:
+odds ratio; OS: overall survival; TNM: tumor-node
+metastasis.
+
+**Acknowledgements**
+
+The authors wish to thank all the patients and
+their families.
+
+**Funding**
+
+This work was supported by the National
+
+
+1965
+
+Natural Science Foundation of China (Grant No.
+81772755, No. 81902610).
+
+**Author contributions**
+
+H. H. had full access to all the data in the study
+and takes responsibility for the integrity of the data
+and the accuracy of the data analysis.
+
+ - Study conception and design: ZS Li, XY Li, FJ
+Zhou and H Han;
+
+ - Acquisition of data: ZS Li, XY Li;
+
+ - Analysis and interpretation of data: ZS Li, XY Li,
+Wayne Lam, FJ Zhou and H Han;
+
+ - Drafting of the manuscript: ZS Li, XY Li and
+Wayne Lam;
+
+ - Critical revision of the manuscript for important
+intellectual content: PH Lin, JH Geng, AA
+Ornellas, FJ Zhou and H Han;
+
+ - Statistical analysis: ZS Li, XY Li, Wayne Lam, FJ
+Zhou and H Han;
+
+ - Obtaining funding: ZS Li and H Han;
+
+ - Administrative, technical, or material support: FJ
+Zhou and H Han;
+
+ - Supervision: FJ Zhou and H Han;
+
+ - Other (specify): None.
+
+**Data availability statement**
+
+The datasets used in the current study are
+available from the corresponding author upon
+reasonable request.
+
+**Competing Interests**
+
+The authors have declared that no competing
+interest exists.
+
+**References**
+
+1. MH H. TNM Classification of Malignant Tumors. Geneva: UICC. 1978.
+2. Hermanek P, Scheibe O, Spiessl B, Wagner G. [TNM classification of
+malignant tumors: the new 1987 edition]. Radiobiol Radiother (Berl). 1987; 28:
+845-6.
+
+3. SE. A. EAU penile cancer guidelines 2004. 2004.
+4. Edge SB. American Joint Committee on Cancer. AJCC cancer staging manual.
+7th ed. New York: Springer. 2009.
+5. Pettaway CA, John RS, KB. R. Penis. In: Amin MB, Edge SB, Greene FL, eds.
+AJCC Cancer Staging Manual. Chicago, IL: American College of Surgeons.
+2018; p: 709-22.
+6. Leijte JA, Gallee M, Antonini N, Horenblas S. Evaluation of current TNM
+classification of penile carcinoma. J Urol. 2008; 180: 933-8; discussion 8.
+7. Li ZS, Ornellas AA, Schwentner C, Li X, Chaux A, Netto G, et al. A modified
+clinicopathological tumor staging system for survival prediction of patients
+with penile cancer. Cancer Commun (Lond). 2018; 38: 68.
+8. Kearns JT, Winters BD, Holt SK, Mossanen M, Lin DW, Wright JL. Pathologic
+Nodal Involvement in Patients With Penile Cancer With Cavernosal Versus
+
+Spongiosal Involvement. Clin Genitourin Cancer. 2019; 17: e156-e61.
+9. Wang B, Gu W, Wan F, Wei Y, Xiao W, Lu X, et al. Prognosis of the 8th TNM
+Staging System for Penile Cancer and Refinement of Prognostication by
+Incorporating High Risk Human Papillomavirus Status. J Urol. 2020; 203:
+562-9.
+10. Hu J, Cui Y, Liu P, Zhou X, Ren W, Chen J, et al. Predictors of inguinal lymph
+node metastasis in penile cancer patients: a meta-analysis of retrospective
+studies. Cancer Manag Res. 2019; 11: 6425-41.
+11. JPT. H, S. G. Cochrane Collaboration. Cochrane Handbook for Systematic
+Reviews of Interventions (Version 5.1.0). The Cochrane Collaboration. . 2011.
+
+http://www.jcancer.org
+
+*Journal of Cancer* 2021, Vol. 12
+
+12. Holters S, Khalmurzaev O, Pryalukhin A, Loertzer P, Janssen M,
+Heinzelbecker J, et al. Challenging the prognostic impact of the new WHO and
+TNM classifications with special emphasis on HPV status in penile carcinoma.
+Virchows Arch. 2019; 475: 211-21.
+13. Al-Najar A, Alkatout I, Al-Sanabani S, Korda JB, Hegele A, Bolenz C, et al.
+External validation of the proposed T and N categories of squamous cell
+carcinoma of the penis. International journal of urology : official journal of the
+Japanese Urological Association. 2011; 18: 312-6.
+14. Ficarra V, Zattoni F, Cunico SC, Galetti TP, Luciani L, Fandella A, et al.
+Lymphatic and vascular embolizations are independent predictive variables of
+inguinal lymph node involvement in patients with squamous cell carcinoma
+of the penis: Gruppo Uro-Oncologico del Nord Est (Northeast UroOncological Group) Penile Cancer data base data. Cancer. 2005; 103: 2507-16.
+15. Ornellas AA, Nobrega BL, Wei Kin Chin E, Wisnescky A, da Silva PC, de
+Santos Schwindt AB. Prognostic factors in invasive squamous cell carcinoma
+of the penis: analysis of 196 patients treated at the Brazilian National Cancer
+Institute. J Urol. 2008; 180: 1354-9.
+16. Graafland NM, Lam W, Leijte JA, Yap T, Gallee MP, Corbishley C, et al.
+Prognostic factors for occult inguinal lymph node involvement in penile
+carcinoma and assessment of the high-risk EAU subgroup: a two-institution
+analysis of 342 clinically node-negative patients. Eur Urol. 2010; 58: 742-7.
+17. Termini L, Fregnani JH, Boccardo E, da Costa WH, Longatto-Filho A, Andreoli
+MA, et al. SOD2 immunoexpression predicts lymph node metastasis in penile
+cancer. BMC Clin Pathol. 2015; 15: 3.
+18. Sali AP, Menon S, Murthy V, Prakash G, Bakshi G, Joshi A, et al. A Modified
+Histopathologic Staging in Penile Squamous Cell Carcinoma Predicts Nodal
+Metastasis and Outcome Better Than the Current AJCC Staging. Am J Surg
+Pathol. 2020; 44: 1112-7.
+19. Sanchez DF, Fernandez-Nestosa MJ, Canete-Portillo S, Cubilla AL. Evolving
+insights into penile cancer pathology and the eighth edition of the AJCC TNM
+staging system. Urol Oncol. 2020.
+20. Khalil MI, Kamel MH, Dhillon J, Master V, Davis R, Hajiran AJ, et al. What
+you need to know: updates in penile cancer staging. World J Urol. 2020.
+21. OW. H, EM. C, S. M, European Association of U. (2020)EAU Guidelines on
+Penile Cancer. 2020.
+
+22. WF. T, ES. P, A. N. Penile Cancer, Version 2.2021, NCCN Clinical Practice
+Guidelines in Oncology. J Natl Compr Canc Netw. 2020.
+23. Leijte JA, Horenblas S. Shortcomings of the current TNM classification for
+penile carcinoma: time for a change? World J Urol. 2009; 27: 151-4.
+24. Solsona E, Iborra I, Rubio J, Casanova JL, Ricos JV, Calabuig C. Prospective
+validation of the association of local tumor stage and grade as a predictive
+factor for occult lymph node micrometastasis in patients with penile
+carcinoma and clinically negative inguinal lymph nodes. J Urol. 2001; 165:
+1506-9.
+
+
+1966
+
+http://www.jcancer.org
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

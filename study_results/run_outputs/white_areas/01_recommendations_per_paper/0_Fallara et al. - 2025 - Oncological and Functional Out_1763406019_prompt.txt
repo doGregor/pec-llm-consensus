@@ -1,0 +1,1878 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [E U R O P E A N U R O L O G Y F O C U S 1 1 ( 2 0 2 5 ) 4 6 – 6 1](https://doi.org/10.1016/j.euf.2024.05.004)
+
+a v a i l a b l e a t w w w . s c i e n c e d i r e c t . c o m
+
+j o u r n a l h o m e p a g e : w w w . e u r o p e a n u r o l o g y . c o m / e u f o c u s
+
+Review – Penile Cancer
+# Oncological and Functional Outcomes of Penile Shaft Sparing Surgery for Localised Penile Cancer: A Systematic Review
+
+Giuseppe Fallara [a][,] [*], Giuseppe Basile [b][,][c], Adrian Poterek [d], Marco Tozzi [a], Karl H. Pang [e][,][f],
+Omer Onur C¸ akir [g][,][h], Marco Bandini [b], Matteo Ferro [a], Gennaro Musi [a], Maria Satchi [g],
+Angelo Territo [c], Christian Fankhauser [i][,][j], Fabio Castiglione [b][,][g][,][h], EAU-YAU Penile and Testis Cancer
+Working Group
+
+a Department of Urology, IRCCS European Institute of Oncology, Milan, Italy; b Department of Urology, Urological Research Institute, San Raffaele Scientific
+Institute, Milan, Italy; [c] Department of Urology, Fundació Puigvert, Autonoma University of Barcelona, Barcelona, Spain; [d] University Center of Excellence in
+Urology, Department of Minimally Invasive and Robotic Urology, Wroclaw Medical University, Wroclaw, Poland; [e] Department of Surgery, School of Clinical
+Medicine, The University of Hong Kong, Hong Kong; [f] Division of Surgery and Interventional Science, University College London, London, UK; [g] Department of
+Urology, King’s College Hospital NHS Foundation Trust, London, UK; [h] King’s College London, King’s Health Partners, London, UK; [i] Department of Urology,
+Cantonal Hospital Lucerne, Lucerne, Switzerland; [j] University of Zurich, Zurich, Switzerland
+
+
+Article info
+
+Article history:
+Accepted May 5, 2024
+Available online 14 May 2024
+Associate Editor: Christian Gratzke
+
+Keywords:
+Penile sparing surgery
+Localised penile cancer
+Laser
+
+Circumcision
+Glansectomy
+
+
+Abstract
+
+Context: Penile shaft sparing (PSS) surgery for localised penile cancer (PeCa) aims to balance oncological and functional outcomes.
+Objective: To summarise the published evidence on different PSS approaches.
+Evidence acquisition: We performed a systematic review adhering to Preferred Reporting
+Items for Systematic Reviews and Meta-analyses guidelines. The systematic search was
+performed on PubMed, EMBASE, and Scopus databases up to February 14, 2023. The
+inclusion criteria encompassed retrospective or prospective studies including patients
+�18 yr of age with localised PeCa treated with different PSS approaches, classified as
+laser ablation, circumcision, wide local excision, glansectomy with or without split skin
+graft, glans resurfacing, and mixed technique excision. The risk of bias was assessed
+using the Newcastle-Ottawa scale. A quantitative synthesis was not performed due to
+anticipated data heterogeneity and a lack of comparative studies.
+Evidence synthesis: Out of 4343 articles identified, 47 met our inclusion criteria, including 10 847 patients. The year of publication ranged between 1983 and 2021. Nine studies
+were prospective case series, while the remaining studies were retrospective. No comparative studies were identified. Most of the cases included in these studies were Ta
+and T1. The oncological outcomes were good for all the approaches, with cancerspecific mortality ranging between 0% and 18%. Sexual and cosmetic outcomes, despite
+being under-reported, were good for all the approaches, with almost all patients being
+satisfied with their quality of life after surgery. The Newcastle and Ottawa scale revealed
+a high or severely high risk of bias in all the included studies.
+Conclusions: PSS approaches were safe and had good functional outcomes, considering
+however the overall low quality of the studies on this issue.
+
+- Corresponding author. Division of Urology, IRCCS European Institute of Oncology, Via Giuseppe
+Ripamonti, 435, 20141 Milan, Italy. Tel. +39 347 723 9033.
+[E-mail address: g.fallara@gmail.com (G. Fallara).](mailto:g.fallara@gmail.com)
+
+
+[https://doi.org/10.1016/j.euf.2024.05.004](https://doi.org/10.1016/j.euf.2024.05.004)
+2405-4569/� 2024 European Association of Urology. Published by Elsevier B.V. All rights are reserved, including those for text and data
+mining, AI training, and similar technologies.
+
+E U R O P E A N U R O L O G Y F O C U S 1 1 ( 2 0 2 5 ) 4 6 – 6 1 47
+
+Patient summary: The perioperative, function, and oncological outcomes of penile shaft
+sparing approaches are good. However, high-quality studies are needed to determine
+whether these approaches benefit patients with localised penile cancer.
+� 2024 European Association of Urology. Published by Elsevier B.V. All rights are
+reserved, including those for text and data mining, AI training, and similar technologies.
+
+
+1. Introduction
+
+Penile cancer (PeCa) accounts for a minority of cancer cases
+in developed countries but represents a frequent cancer in
+some areas such as Brazil, India, and Sub-Saharan Africa
+
+[1]. PeCa is associated with poor oncological outcomes,
+especially in the case of metastatic disease [1]. As well,
+the functional and psychological outcomes after PeCa diagnosis and treatment are poor [1].
+A big effort has been made over the past decades to
+improve both oncological and psychofunctional outcomes
+of patients with PeCa treated with surgery, especially with
+the so-called penile shaft sparing (PSS), or organ-sparing,
+approach [2]. This approach aims to remove the cancer
+safely and preserve as much as possible the function and
+cosmesis of the penis, while maintaining good oncological
+outcomes and preserving quality of life [3].
+The extent of the disease is a main driver of the choice of
+
+the surgical treatment. Usually, indication for PSS is
+restricted to PeCa stages pTis, pTa, and pT1, and includes
+circumcision, wide local excision (WLE; ±split skin graft
+
+[SSG]), laser ablation, glans resurfacing, and glansectomy
+(±SSG) [4]. These techniques are all viable options, and there
+are no evidence and no precise recommendations in international guidelines on PeCa management regarding which
+one to choose in the different settings.
+The aim of the current systematic review is to summarise all possible options for PSS in the case of localised
+PeCa, focusing on oncological and functional outcomes.
+
+2. Evidence acquisition
+
+2.1. Search strategy
+
+We conducted a systematic review of all published studies
+that deal with PSS for localised PeCa. The review was conducted based on the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) guidelines [5,6].
+The study was registered in the International Prospective
+Register of Systematic Reviews (PROSPERO ID:
+CRD42023388309).
+The PubMed, EMBASE, and Scopus databases were
+searched for studies indexed up to February 14, 2023. Combinations of the following keywords were used: penile cancer, circumcision, glansectomy, laser, organ sparing, penile
+sparing, resurfacing, skin graft, and wide local excision.
+The titles and abstracts of the manuscripts obtained from
+the search were used to screen for initial study inclusion.
+A full-text review was performed when the abstract was
+not sufficient to determine study inclusion. Reference lists
+of the included studies were hand searched for completeness, and if a study was suitable for inclusion, it was
+included in our systematic review. Given the anticipated
+
+
+absence of randomised control trials, retrospective or
+prospective case series and cohort studies were included
+in the current systematic review. Review articles, commentaries, editorials, and articles that did not undergo a peer
+review were excluded. Two authors completed the study
+selection independently. Potential disagreements were
+resolved by consensus among all coauthors.
+
+2.2. Study inclusion
+
+All studies including males, aged �18 yr old, with localised
+PeCa (ie, stages Tis, Ta, and T1), treated with PSS (ie, circumcision, WLE ± SSG, laser ablation [carbon dioxide {CO 2 }, neodymium:yttrium aluminium garnet {Nd:YAG}, or others],
+glans resurfacing, and glansectomy [±SSG]) were included
+in the current systematic review. Studies with incomplete
+baseline data regarding the stage and grading of PeCa were
+excluded. We anticipated that some of the included studies
+may present aggregated data on surgical techniques and
+baseline characteristics (ie, regarding staging) but were
+included in the systematic review for completeness. Studies
+on brachytherapy, radiotherapy, or non-PSS techniques
+were excluded.
+
+2.3. Data extraction
+
+Data were collected according to a proforma that included
+the year of publication, authors’ names, study design, number of included individuals, baseline age and comorbidities/
+performance status, type of PSS, clinical stage and grade of
+PeCa, histological features, rates and type of complications,
+overall survival, cancer-specific survival, local recurrencefree survival, distant progression-free survival, sexual satisfaction and function (if possible, according to validated
+questionnaires or not), urinary satisfaction (if possible,
+according to validated questionnaires or not), and overall
+quality of life. All time-dependent outcomes were collected
+at the last follow-up available.
+
+2.4. Data analysis
+
+The risk of bias (RoB) was determined using the Newcastle
+and Ottawa scale for nonrandomised studies independently
+by three authors [7,8]. Only a qualitative synthesis of the
+included studies was possible given the a priori expected
+high inconsistency of data and the lack of comparative studies that hindered any kind of quantitative meta-analysis.
+
+3. Evidence synthesis
+
+Of the 4343 articles identified, 47 were eligible according to
+our inclusion criteria, involving 10 847 patients (Fig. 1,
+PRISMA flow chart). The oldest study was published in
+1983 and the most recent was in 2021. Overall, the RoB
+
+48 E U R O P E A N U R O L O G Y F O C U S 1 1 ( 2 0 2 5 ) 4 6 – 6 1
+
+Fig. 1 – PRISMA flow chart for study selection. PRISMA = Preferred Reporting Items for Systematic Reviews and Meta-analyses.
+
+
+according to the Newcastle and Ottawa scale ranged from
+high to very high risk (Supplementary Tables 1–6). There
+were nine prospective case series, while the remaining
+studies were retrospective. We did not find any comparative studies, either prospective or retrospective.
+
+3.1. Laser ablation
+
+There were 17 studies on laser ablation of localised PeCa
+
+involving 959 patients overall [9–25]. Three studies investigated the use of CO 2 laser only [9,21,22], six investigated
+the use of Nd:YAG laser only, one investigated the use of
+thulium:YAG laser only, whereas in eight studies multiple
+laser techniques were used. The details are shown in
+Table 1.
+
+
+The mean age at treatment ranged between 52 and 62 yr.
+Most of the cases were pTis (range 14–100%) [10,16,18,24]
+or pT1 (range 31–100%) [11,14,15]. In addition, there were
+up to 57% pT2 cases and 3% pT3 cases treated with laser
+ablation in some case series [21,23].
+In men treated with laser, no intraoperative complications were reported, whereas up to 7% of the cases reported
+postoperative complications [21]. Among the reported complications, meatal stenosis was reported in up to 6.8% of the
+cases and bleeding in 7% of the cases [21,22].
+The rate of positive margin ranged between 0%
+
+[10,11,25] and 22% [22], and the rate of local recurrence
+ranged between 6% [17] and 48% [12,16], despite the different follow-up duration and schedule. In addition, the rate of
+disease progression ranged between 0% [9,17,19,25] and
+
+Table 1 – Summary of the studies on laser ablation therapy for localised penile cancer
+
+
+
+
+
+
+
+Tietjen and
+Malek
+
+(1998) [15]
+
+Van Bezooijen
+et al (2001)
+
+[13]
+
+Frimberg et al
+(2003) [14]
+
+
+CO 2 and Nd: 52 (range 20– 0 0 NA 4 (8) 1 (2) 1 (2) 1 (2) NA
+YAG laser 86)
+
+
+1987–1997 52 Pain
+
+22
+
+(42)
+Tis
+
+13
+
+(25)
+
+T1 16
+
+(31)
+
+T2 1
+
+(2)
+
+
+pTis 22
+(42)
+
+G1 6
+
+(11)
+
+G2 9
+
+(17)
+
+G3 2
+
+(4)
+
+
+1986–2000 19 NA NA CO 2 or Nd: 52 0 0 NA 4 (21) 1 (5) 0 (0) 0 (0) NA
+YAG laser
+
+
+Nd:YAG laser 55 (range 30– 0 0 NA 3 (10) 0 0 0 Similar to baseline for all the
+93) patients
+
+
+pTis 17
+(57) G1
+3 (10)
+
+G2 5
+
+(17)
+
+G3 4
+
+(14)
+
+
+
+1987–2000 29 pTis
+
+17
+
+(57)
+pT1
+
+10
+
+(31)
+pT2 2
+(7)
+
+
+
+
+
+Lont et al
+
+(2006) [21]
+
+
+pT1
+
+19
+
+(43)
+pT2
+
+25
+
+(57)
+
+
+NA CO 2 laser 63 (range 29– NA 5 (11) 17 (39)
+94) 5-yr RFS:
+
+55%
+
+
+NA NA NA
+
+
+
+1956–2001 44
+
+(overall
+128)
+
+
+Tewari et al
+
+(2007) [17]
+
+
+1993–2005 32 pT1
+
+25
+
+(78)
+pT2 7
+(22)
+
+
+G1 21
+
+(65)
+
+G2 8
+
+(25)
+
+G3 3
+
+(9)
+
+
+Nd:YAG laser NA 0 0 NA 2 (6) 0 0 0 Normal sexual function: 23
+(72%)
+Satisfied with cosmesis: 32
+(100%)
+
+(continued on next page)
+
+Bandieramonte
+
+et al (2008)
+
+[22]
+
+
+NA CO 2 laser 0 (0) 4 (6) 14 (22) 32 (14)
+5-yr
+
+recurrence
+
+rate: 14.1%
+
+(13.4–14.9)
+10-yr
+
+recurrence
+
+rate: 17.5%
+
+(16.4–18.6)
+
+
+1986–2006 64
+
+(overall
+224)
+
+
+pTis
+
+106
+
+(47)
+pT1
+
+118
+
+(53)
+
+
+NA NA NA NA
+
+
+
+
+
+Schlenker et al
+
+(2011) [10]
+
+Schlenker et al
+
+(2011) [11]
+
+Zreik et al
+
+(2017) [9]
+
+
+1999–2005 26 NA NA Fluorescence
+guided Nd:
+YAG laser
+
+
+2008–2015 47 pTis
+
+47
+
+(100)
+
+
+55 (range 22– 0 (0) 0 (0) 0 (0) 4 (15) 0 0 (0) 0 (0) NA
+83)
+
+
+1982–2008 22
+
+(overall
+38)
+
+
+pT1
+
+22
+
+(100)
+
+
+
+
+Chipollini et al
+(2018) [24]
+
+
+1986–2014 58
+
+(overall
+205)
+
+
+pTis
+
+58
+
+(100)
+
+
+G2 22 Nd:YAG laser 61 (range 25– NA NA NA 9 (24) 7 (18) 13 (34) 7 (18) NA
+(100) 93)
+
+pTis 47 CO 2 laser 59 (range 21– 0 (0) 0 (0) NA 8 (17) 0 1 (2) 0 NA
+(100) 88)
+
+pTis 58 CO 2 or Nd: 59 (47–70) NA NA NA 28 (48) NA 0 0 NA
+(100) YAG laser
+
+
+
+
+
+
+Musi et al
+
+(2018) [25]
+
+Kokorovic et al
+
+(2021) [18]
+
+
+2013–2016 23 pTis
+
+11
+
+(48)
+pT1a
+
+7
+
+(30)
+
+1996–2018 8 pTis
+
+8
+
+(100)
+
+
+G1 7
+
+(30)
+
+G2 4
+
+(17)
+
+G3 12
+
+(52)
+
+
+Tm:YAG laser 61 (54–72) 0 (0) 0 (0) 0 (0) 4 (17) 0 0 NO 100% erectile function recovery,
+<25% reduced sensitivity
+
+
+pTis 8 Nd:YAG, CO 2, 61 (53–70) NA NA NA 2 (25) NA NA NA NA
+(100) KTP laser
+
+
+CO 2 = carbon dioxide laser; KTP = potassium titanyl phosphate; NA = not available; Nd:YAG = neodymium:yttrium aluminium garnet; RFS = recurrence-free survival; Tm:YAG = thulium:yttrium aluminium garnet.
+
+Table 2 – Summary of the studies on circumcision for localised penile cancer
+
+
+
+
+
+
+
+
+Lucky et al 2003–2010 18 CIS pTis 18 Circumcision 61 (range 34–91) [a] 0 0 NA 0 (0%) 0 (0) 0 (0) 0 (0) Similar to baseline for
+(2015) [26] (100%) (100%) all the patients
+
+
+Lucky et al
+(2015) [26]
+
+
+
+
+Chipollini et al
+(2018) [24]
+
+
+1986–2014 44 CIS pTis 44 Circumcision 59 (range 47–70) [a] 0 0 NA 23% [a] NA NA NA Similar to baseline for
+(100%) (100%) all the patients
+
+
+CIS = carcinoma in situ; NA = not available.
+a Aggregated data including other types of treatment, such as wide local excision, 5-fluorouracil, and laser therapy.
+
+Table 3 – Summary of the studies on wide local excision for localised penile cancer
+
+
+
+
+
+
+
+Mohs et al
+
+(1985)
+
+[30]
+
+Bissada et al
+
+(2003)
+
+[31]
+
+Lont et al
+
+(2006)
+
+[21]
+
+Shindel et al
+
+(2007)
+
+[29]
+
+
+1939– 29 NA NA Moh’s microsurgery NA NA NA NA 8 (28) 1 (3) 3 (10) 0 (0) NA
+
+1978
+
+1970– 30 NA NA WLE (39–82) NA NA NA 9 (30) NA NA NA NA
+
+2010
+
+
+1988– 33 TIS 20 (61)
+2006 T1 3 (11)
+T2 6 (18)
+T3 4 (12)
+
+
+1956– 24
+
+2001 (overall
+257)
+
+
+pT1 13 (54) NA WLE 63 (29–94) 0 (0) 1 (4.2) 0 (0) 7 (29) NA NA NA NA
+pT2 11 (46)
+
+
+NA Moh’s microsurgery NA NA 3 (9) NA 8 (24) 2 (6) 2 (6) 1 (3) NA
+with or without flap
+
+
+Li et al 2006– 24 T1 30 (94) NA Circumcision: 8 (25) NA 0 (0) 3 (11) 0 (0) 3 (9) 1 (3) 1 (3) 1 (3) Nonvalidated
+(2011) 2010 (overall T2 2 (6) WLE: 18 (52) questionnaire
+
+[32] 32) WLE + circumcision: 29 pts (90%) had no or
+
+6 (19) mild ED
+
+1 patient (4.5%) had
+decreased sexual function
+
+
+Li et al
+
+(2011)
+
+[32]
+
+
+2006– 24
+
+2010 (overall
+32)
+
+
+T1 30 (94) NA Circumcision: 8 (25)
+T2 2 (6) WLE: 18 (52)
+WLE + circumcision:
+
+6 (19)
+
+
+
+
+
+NA Moh’s microsurgery 64 (29–92) NA NA NA 7 (16) 0 (0) 14 (32) 0 (0) NA
+
+
+Machan et al
+
+(2016)
+
+[27]
+
+Chipollini
+et al
+
+(2018)
+
+[24]
+
+Lukowiak
+
+et al
+
+(2021)
+
+[28]
+
+
+1983– 44 pTis 24 (54)
+2013 Invasive 10
+
+(45)
+
+
+59 (47–70) NA NA NA 15 (25) NA O (0) 0 (0) NA
+
+
+1986/ 61
+2014 (overall
+205)
+
+2008– 22
+
+2019 (overall
+119)
+
+
+NA NA Moh’s microsurgery 61 (27–87) NA NA NA 0 (0) NA NA NA 23/23 reported no change
+postop in sexual function;
+27/27 reported no change
+postop in urinary function
+
+
+
+
+205 CIS NA Circumcision: 44
+
+(21)
+Glansectomy: 10 (5)
+WLE: 61 (30)
+WLE + laser 10 (5)
+Glans resurfacing: 22
+(11)
+
+E U R O P E A N U R O L O G Y F O C U S 1 1 ( 2 0 2 5 ) 4 6 – 6 1 53
+
+30% [11]. Overall mortality ranged between 0%
+
+[9,10,13,14,17,24,25] and 34% [11], and cancer-specific
+mortality ranged between 0% [9,10,13,14,17,24,25] and
+18% [11].
+Functional outcomes were under-reported, with only
+four studies detailing urinary and sexual functions
+
+[14,17,23,25]. Overall, the recovery of erectile function ranged between 72% [17] and 100% [14,25].
+
+3.2. Circumcision
+
+There were three retrospective multicentre case series on
+circumcision for localised PeCa limited to the foreskin,
+involving a total of 199 patients [20,24,26]. Three studies
+included various types of PSS other than circumcision, such
+as WLE and laser therapy [20,24,26]. The details are shown
+in Table 2.
+The mean age at treatment ranged from 59 to 62 yr
+
+[20,24]. Most of the cases were pTis (ranging from 21% to
+100%); pT1 (15%) and pT2 (1%) were mentioned in only
+one study [20]. No intra- or postoperative complications
+were reported. The rate of local recurrences ranged between
+0% (median follow-up of 38 mo)—in this study only circumcisions were included [26], and 21–23%—in the other two
+studies, where aggregated data were presented with other
+organ-preserving surgical techniques (mean follow-up of
+43 and 40 mo, respectively) [20,24]. Data on positive margin
+rates were not available. There was no evidence of erectile
+dysfunction or worsened urinary function.
+
+3.3. Wide local excision
+
+There were 11 studies on the use of WLE for localised PeCa
+treatment. In detail, four studies involving 128 patients
+reported the outcomes of Moh’s microsurgery with or without flap reconstruction [27–30], whereas seven studies
+involving 689 patients reported the outcomes of WLE alone
+or combined with circumcision or laser therapy
+
+[11,18,20,21,24,31,32]. The details are shown in Table 3.
+The mean age at treatment ranged between 59 [24] and
+64 [27] yr. Most of the cases were pTis (range 5–100%)
+
+[20,24] or pT1 (range 8–100%) [11,20].
+Overall, four studies reported data on surgical outcomes
+
+[10,11,21,32]. There were no intraoperative complications,
+whereas some postoperative complications were reported
+in up to 11% of the cases treated with WLE [32] and 9%
+for Moh’s microsurgery [28]. Among the complications
+reported, the most frequent were meatal stenosis and
+wound complications, both reported in up to 6% of the cases
+
+[11].
+Only two studies reported data on positive margin status, and no cases of positive surgical margins were recorded
+
+[21,32]. Conversely, the rate of local recurrence ranged
+between 0% [29] and 28% [30] and between 9% [32] and
+30% [31] for patients treated with Moh’s microsurgery and
+WLE, respectively. Additionally, the disease progression rate
+ranged between 0% [27] and 6% [29] and between 2.8% [18]
+and 18% [11] after Moh’s microsurgery and WLE, respectively. Overall mortality ranged between 6% [29] and 32%
+
+[27] in patients treated with Moh’s microsurgery, while it
+ranged between 2.8% [18] and 34% [11] in WLE studies. Similarly, cancer-specific mortality ranged between 0% [27,30]
+and 3% [29] and between 2.8% [18] and 18% [11] in patients
+
+Table 4 – Summary of the studies on glansectomy for localised penile cancer
+
+
+
+
+
+
+
+
+61 (35–83) 0 (0) 4 (10) 2 (5) 1 (3) 0 (0) 0 (0) 0 (0) NA
+
+
+Partial or total
+
+glansectomy ± graft
+reconstruction
+
+
+Pietrzak et al
+
+(2004) [33]
+
+
+2000– 39 Ta 2 (5)
+2003 T1 19 (49)
+T2 17 (44)
+T3 1 (3)
+
+
+G1 11 (28)
+G2 17 (44)
+G3 10 (26)
+
+
+Morelli et al 2003– 17 Ta 2 (12) G1 6 (35) Partial or total 52 (42–63) 0 (0) 4 (24) 0 (0) 0 (0) 1(6) 1 (7) 1 (7) All patients
+(2009) [35] 2008 T1 7 (41) G2 8 (47) glansectomy ± graft reported
+
+
+
+
+
+Morelli et al 2003– 17 Ta 2 (12) G1 6 (35) Partial or total 52 (42–63) 0 (0) 4 (24) 0 (0) 0 (0) 1(6) 1 (7) 1 (7) All patients
+(2009) [35] 2008 T1 7 (41) G2 8 (47) glansectomy ± graft reported
+
+T2 4 (24) G3 1 (6) reconstruction reduced glans
+T3 2 (12) sensation, but
+
+maintained
+
+their erectile
+
+function with
+
+good vaginal
+penetration,
+orgasm, and
+ejaculation
+
+
+Partial or total
+
+glansectomy ± graft
+reconstruction
+
+
+2003– 17 Ta 2 (12)
+2008 T1 7 (41)
+T2 4 (24)
+T3 2 (12)
+
+
+G1 6 (35)
+G2 8 (47)
+G3 1 (6)
+
+
+Veeratterapillay 2001– 62 TIS 10 (16) G1 35 (54) Partial or total 62 (32–89) 0 (0) 9 (14) 10 (15) 4 (6) 0 (0) 0 (0) 0 (0) 85% of patients
+et al (2012) 2008 (overall T1 31 (50) G2 12 (18) glansectomy ± graft reported
+
+[37] 65) T2 19 (31) G3 12 (18) reconstruction achieving
+
+
+
+
+
+Veeratterapillay 2001– 62 TIS 10 (16) G1 35 (54) Partial or total 62 (32–89) 0 (0) 9 (14) 10 (15) 4 (6) 0 (0) 0 (0) 0 (0) 85% of patients
+et al (2012) 2008 (overall T1 31 (50) G2 12 (18) glansectomy ± graft reported
+
+[37] 65) T2 19 (31) G3 12 (18) reconstruction achieving
+
+erections at 1
+
+yr
+
+
+Partial or total
+
+glansectomy ± graft
+reconstruction
+
+
+G1 35 (54)
+G2 12 (18)
+G3 12 (18)
+
+
+2001– 62
+
+2008 (overall
+65)
+
+
+TIS 10 (16)
+T1 31 (50)
+T2 19 (31)
+
+
+Tang et al (2017) 1999– 410 Ta-Tis 14 G1 81 (20) Glansectomy ± distal 64 (53–72) NA NA NA 31 (8) 23 (6) NA 23 (6) No information
+
+
+
+
+
+G1 81 (20)
+
+G2 130
+
+(32)
+
+G3-4 179
+
+(44)
+
+
+Glansectomy ± distal 64 (53–72) NA NA NA 31 (8) 23 (6) NA 23 (6) No information
+corporectomy on functional
+
+outcomes
+
+
+
+[39]
+
+
+1999– 410 Ta-Tis 14
+
+2016 (3)
+
+T1 108
+
+(26)
+
+T2 240
+
+(58)
+
+T3-4 43
+
+(10)
+Tx 5 (1)
+
+Baumgarten 1990– 362 Ta/Tis 14 G1 285 Glansectomy with glans NA NA NA NA 29 (12) NA NA NA NA
+et al (2018) 2016 (overall (6) (24) resurfacing
+
+[20] 1188) T1 108 G2 363
+
+
+
+
+G1 285
+
+(24)
+
+G2 363
+
+(31)
+
+G3 293
+
+(25)
+Unknown
+
+247 (21)
+
+
+1990– 362
+
+2016 (overall
+1188)
+
+
+Ta/Tis 14
+(6)
+
+T1 108
+
+(19)
+
+T2 240
+
+(61)
+
+
+Glansectomy with glans NA NA NA NA 29 (12) NA NA NA NA
+resurfacing
+
+
+Parnham et al
+
+(2018) [40]
+
+
+Parnham et al 2005– 172 NA NA Glansectomy with 61.3 ± 13.5 0 (0) 38 (22) 17 (10) 16 (9) 18 (11) 29 (16) 18 (11) No functional
+(2018) [40] 2016 reconstruction outcomes
+
+Albersen et al 2005– 117 CIS 43 (37) CIS 43 Glansectomy + reconstruction 61.9 ±13.6 NA NA 17 (15) 15 (13) NA 25 (21) 14 (12) NA
+(2018) [41] 2016 T1 31 (27) (37) 5-yr RFS: 5-yr CSS:
+
+
+NA 25 (21) 14 (12)
+5-yr CSS:
+
+81.3%
+
+10-yr CSS:
+
+81.3%
+
+
+2005– 117 CIS 43 (37)
+2016 T1 31 (27)
+T2 70 (60)
+T3 16 (14)
+
+
+CIS 43
+
+(37)
+G1 7 (6)
+G2 29 (25)
+G3 81 (69)
+
+
+Glansectomy + reconstruction 61.9 ±13.6 NA NA 17 (15) 15 (13)
+5-yr RFS:
+
+82.4%
+
+10-yr RFS:
+
+82.4%
+
+
+NA
+
+
+Kokorovic et al 1996– 35 Tis 43 (33) CIS 43 Partial or total glansectomy 61.5 (53.1– NA NA NA 4 (11) NA 1 (1) 1 (1) NA
+(2021) [18] 2018 (overall Ta 2 (2) (33) 70.2)
+
+
+
+
+CIS 43
+
+(33)
+G1/G2 38
+(30)
+G3 35 (27)
+
+Not
+
+reported
+13 (10)
+
+
+Partial or total glansectomy 61.5 (53.1– NA NA NA 4 (11) NA 1 (1) 1 (1) NA
+70.2)
+
+
+1996– 35
+
+2018 (overall
+129)
+
+
+Tis 43 (33)
+Ta 2 (2)
+T1 66 (51)
+T2 18 (14)
+
+
+
+
+
+CIS = carcinoma in situ; CSS = cancer-specific survival; NA = not available; RFS = recurrence-free survival.
+
+Table 5 – Summary of the studies on glans resurfacing for localised penile cancer
+
+
+
+
+
+
+
+Hadway et al
+(2006) [46]
+
+
+Hadway et al NA 10 NA NA Glans 48 (41–65) 0 0 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) The median IIEF-5 score from the
+(2006) [46] resurfacing IIEF questionnaire was 24
+
+Shabbir et al 2001– 25 �pT1 Tis 9 (36) Glans 53 (32–73) 0 1 (4) Overall 1 (4) 0 (0) 0 (0) 0 (0) NA
+(2011) [47] 2010 25 G1 0 (0) resurfacing 12 (48)
+
+
+Glans 53 (32–73) 0 1 (4) Overall 1 (4) 0 (0) 0 (0) 0 (0) NA
+resurfacing 12 (48)
+
+
+2001– 25 �pT1
+
+2010 25
+
+(100)
+
+
+Tis 9 (36)
+G1 0 (0)
+G2 4 (16)
+G3 0 (0)
+
+G1 35 (54)
+G2 12 (18)
+G3 12 (18)
+
+
+Veeratterapillay
+et al (2012)
+
+[37]
+
+
+2001– 3 (overall �pT1
+2008 65) 44
+(68)
+�pT2
+
+19
+
+(29)
+
+
+
+
+Glans 62 (32–89) 0 9 (14) Overall 4 (6) 0 (0) 0 (0) 0 (0) 85% of patients reported achieving
+resurfacing 10 (15) erection at 1 yr
+
+Glans 55 (47–74) 0 0 1 (5) 1 (5) 0 (0) 0 (0) 0 (0) The median postop IIEF-5 score
+resurfacing from the IIEF questionnaire was 22,
+whereas the median preop score
+was 21 (p = 1.0)
+
+
+Tis 8 (42)
+G1 8 (42)
+G2 2 (11)
+
+
+
+O’Kelly et al
+(2017) [48]
+
+
+2013– 17 �pT1
+
+2015 16
+
+(94)
+�pT2
+1 (6)
+
+
+
+
+
+Ta/Tis
+
+23
+
+(11)
+
+T1 73
+
+(13)
+
+T2 15
+
+(4)
+
+
+G1 285
+
+(24)
+
+G2 363
+
+(31)
+
+G3 293
+
+(25)
+Unknown
+
+247 (21)
+
+
+Glans NA NA NA NA 1 (1) NA NA NA NA
+resurfacing
+
+
+Baumgarten
+et al (2018)
+
+[20]
+
+
+1990– 111
+
+2016 (overall
+1188)
+
+
+
+
+E U R O P E A N U R O L O G Y F O C U S 1 1 ( 2 0 2 5 ) 4 6 – 6 1 57
+
+treated with Moh’s microsurgery and WLE, respectively.
+Finally, functional outcomes were under-reported among
+the included studies, with only two studies detailing urinary and sexual functions after treatment [28,32]. The study
+by Lukowiak et al [28] reported that no patients treated
+with Moh’s surgery had a significant change in postoperative urinary or sexual function, whereas Li et al [32]
+reported that only 10% of patients treated with WLE with
+or without circumcision had a significant impairment of
+sexual function, although no validated questionnaire has
+been used in both studies.
+
+3.4. Glansectomy ± Split Skin Graft (SSG)
+
+In total, 14 studies were conducted on the treatment of
+localised PeCa involving glansectomy with or without SSG
+
+[18,20,24,33–43]. Of these, two studies were prospective,
+while the remaining ones were retrospective [18,35]. The
+overall population consisted of 1382 patients. The details
+are shown in Table 4.
+The mean age at treatment ranged between 60 [34] and
+71 [38] yr. Most of the cases were T1 (ranging from 19% to
+60%) [20,36] or T2 (ranging from 4% to 61%) [20,43]. In one
+study, all included patients treated with glansectomy had
+Tis disease [24]. One study reported intraoperative complications in a single case, but it did not specify the type of
+complication that occurred [43]. Complications after surgery were documented in up to 29% of cases [43]. Among
+the complications reported, partial graft loss, 12% [35],
+and graft failure, 3%, were most frequent [40]. Five studies
+lacked information on complications [18,20,24,39,41].
+Positive margin rates ranged between 0% [35] and 17%
+
+[42], while the rate of local recurrence ranged between 0%
+
+[35,38] and 18% [43], despite variations in the follow-up
+duration among the included studies, ranging from 10
+
+[38] to 43 [20] mo. Additionally, the disease progression
+rate ranged from 0% [24,33,37,38] to 11% [40], with three
+studies not reporting information on it [20,41,43]. Overall
+mortality rates ranged between 0% [24,33,36–38] and 21%
+
+[41], and cancer-specific mortality ranged between 0%
+
+[24,33,36–38] and 18% [44]. Two studies provided no information about mortality [20,42].
+Finally, functional outcomes were under-reported, with
+only seven studies detailing urinary and sexual functions
+after treatment [33–38,42]. Only two studies used validated
+questionnaires [35,42]. Most of the studies reported a complete or almost complete recovery and preservation of sexual function.
+
+3.5. Glans resurfacing
+
+There were nine studies on the treatment of localised PeCa
+with glans resurfacing [20,24,37,38,44–48]. Of these, one
+study was prospective, while the remaining ones were retrospective [48]. The collective patient population across
+these studies consisted of 238 individuals. Detailed infor
+mation is shown in Table 5.
+The mean age at treatment ranged between 48 [46] and
+66 [38] yr. Most of the cases were Tis (ranging from 11% to
+100%) [20,24] or T1 (ranging from 8% to 94%) [38,48].
+Complications following penile-preserving surgery,
+specifically those involving glans resurfacing, were rare.
+Notably, no intraoperative complications were reported,
+
+Table 6 – Summary of the studies on mixed surgical approaches for localised penile cancer
+
+
+
+
+
+
+
+Minhas et al
+
+(2005) [54]
+
+
+NA 51 NA CIS 3 (6)
+G1 10 (20)
+G2 17 (33)
+G3 21 (41)
+
+
+WLE 9 (18%)
+Glansectomy 26 (51%)
+PP 16 (31%)
+
+
+61 (35–82) 0 (0) 0 (0) 3 (6) 3 (6) 0 (0) 0 (0) 0 (0) NA
+
+NA NA NA Overall 12 Overall 12 NA NA NA 100%
+
+(22) (21) maintained
+sexual
+
+function
+
+
+
+
+
+
+
+Feldman and
+
+McDougal
+(2011) [50]
+
+
+NA Moh’s microsurgery 2 (4%)
+Circumcision 11 (20%)
+WLE 25 (45%)
+Partial glansectomy 12 (21%)
+Other 6 (11%)
+
+
+
+
+
+
+1995– 56 CIS
+
+2010 28
+
+(50)
+
+T1 28
+
+(50)
+
+
+
+
+40 (9) 0 (0) 0 (0) NA
+
+
+Djajadiningrat
+et al (2014)
+
+[55]
+
+
+<pT1
+
+152
+
+(56)
+>pT2
+
+199
+
+(44)
+
+
+NA 63 (27–96) NA NA NA 122 (27)
+5-yr
+
+recurrence
+
+rate: 27%
+
+(95% CI 23–
+32)
+
+
+
+G1 175
+
+(39)
+
+G2 179
+
+(40)
+G3 80 (18)
+Unknown
+
+17 (4)
+
+
+
+
+1956– 451
+
+2012 (overall
+859)
+
+
+
+
+E U R O P E A N U R O L O G Y F O C U S 1 1 ( 2 0 2 5 ) 4 6 – 6 1 59
+
+while postoperative complications were observed in four
+studies, in up to 25% of cases [38], including meatal stenosis
+in up to 8% of cases [37], wound infection in up to 7% of
+cases [38], graft contracture in up to 5% of cases [37], and
+partial graft loss in up to 4% of cases [47]. Two studies did
+not provide information on complications [20,24].
+The rate of positive margins ranged between 0% [38,46]
+and 48% [47], while the rate of local recurrence ranged
+between 0% [38,46] and 20% [45], despite different followup durations, ranging between 7 [46] and 86 [44] mo. No
+data on progression, overall mortality, or cancer-specific
+mortality were reported.
+Data on erectile function, assessed using the validated
+questionnaire—5-item International Index of Erectile Function (IIEF-5), were reported in only three studies [45,46,48].
+In addition, nonvalidated questionnaires were used to assess
+orgasmic function. The median IIEF-5 score after the procedure ranged between 20 and 24 [45,46,48]. Generally,
+patients expressed high satisfaction with both functional
+and cosmetic results. In one study, it was reported that 85%
+had valuable erection after 1 yr [37], and all patients
+expressed satisfaction with both functional and cosmetic
+results [38]. Three studies did not provide information
+regarding functional and cosmetic results [20,24,44].
+
+3.6. Mixed
+
+Eight studies [49–56] involving 7423 patients reported data
+on the use of mixed techniques for the treatment of localised PeCa. The most frequent techniques used were laser
+surgery, WLE with or without circumcision, and glansectomy with or without glans resurfacing, as reported in
+Table 6. However, detailed data on patients’ characteristics
+and follow-up were not provided separately for each surgical approach.
+The mean age at treatment ranged between 61 [51,54]
+and 63 [55] yr. Most of the cases were Tis (range 14–50%)
+
+[50,52,56] or T1 (range 30–90%) [53,56]. One case series
+reported PSS use in T3 cases (12%) [52].
+Only two out of eight studies reported data on surgical
+outcomes [16,54]. The study by Philippou et al [51] reported
+that only 2% of the cases experienced postoperative complications, while no intraoperative complications were
+reported.
+Positive surgical margin rates ranged between 6% [54]
+and 21% [50], while local recurrence rates ranged between
+6% [54] and 46% [52], although data were not provided separately according to different techniques. Only four studies
+reported data on disease progression, which ranged
+between 0% [54] and 9% [55]. Moreover, three out of eight
+studies reported data on overall mortality and cancerspecific mortality, ranging between 0% [54,55] and 6% [51]
+and between 0% [54,55] and 4% [51], respectively.
+Finally, only the study of Feldman and McDougal [50]
+provided data on postoperative functional outcomes reporting that 100% of the patients maintained satisfactory sexual
+function after WLE with or without circumcision (n = 36) or
+partial glansectomy (n = 12).
+
+3.7. Discussion
+
+In this systematic review, we summarised the current published evidence on PSS for localised PeCa. We identified 47
+
+60 E U R O P E A N U R O L O G Y F O C U S 1 1 ( 2 0 2 5 ) 4 6 – 6 1
+
+
+studies, enrolling >10 000 patients. There were very few
+prospective studies, and most of the studies were retrospective single or multicentre case series. We categorised PSS
+into five main approaches, that is, WLE, circumcision, laser
+ablation, glansectomy ± SSG, and glans resurfacing. For each
+of these approaches, we summarised the baseline patient
+characteristics and the perioperative, functional, and oncological outcomes.
+The assessment of the quality of the included study
+revealed that the RoB was high, so definitive recommendations cannot be drawn from our systematic review and all
+the reported data should be read considering this scientific
+weakness. A previous review on the topic drew similar conclusions on the low quality of evidence on PSS, and unfortunately there is no sign of improvement for this issue over
+time [2,3,57].
+Mostly, PSS approaches were used in the case of Tis or T1
+disease. Interestingly, laser ablation was also used in two
+cases of recurrence of a previous T3 disease [23]; circumcision and WLE were used in some T2 cases [20,21,32]. Unfortunately, the oncological outcomes of these cases were not
+presented separately from those of the overall cohort, so
+we were not able to comment on the use of PSS in locally
+advanced disease.
+Regarding perioperative outcomes, most of the studies
+lack information on intraoperative outcomes, while those
+reporting such information showed a very low rate of intraoperative complications. WLE, laser ablation, and circumcision showed a very low rate of postoperative complications;
+glans resurfacing and glansectomy ± SSG had a higher rate
+of complications, even up to 25% of cases in some case series
+
+[38]. These results should be read in light of the retrospective nature of most of the included studies and the difficulty
+in retrieving data on complications [58]. In addition, a standardised classification of postoperative complications, such
+as Dindo et al’s [59] classification, was not adopted
+uniformly.
+Oncological outcomes showed that PSS approaches are
+reasonably safe procedures, given the very low rate of local
+recurrence, good disease progression, and low cancerspecific mortality rates. However, the lack of a standardised
+follow-up protocol, the different definitions of disease progression, and the different lengths of follow-up, together
+with the retrospective nature of most of the included studies, hindered final conclusions on this issue.
+Unfortunately, when it comes to functional outcomes,
+which is one of the main drivers in the decision-making
+toward a PSS approach for the management of localised
+PeCa, it is difficult to draw definitive conclusions due to
+the high inconsistency regarding the use of validated questionnaires, the proportion of patients with reported functional outcomes in each study, and the retrospective
+nature of the included studies.
+
+4. Conclusions
+
+In summary, this systematic review may serve as a valuable
+complement to the existing guidelines, providing an overview of the current literature. However, due to the relatively poor quality of the available data and the lack of
+comparative studies, caution should be used in drawing
+conclusions regarding the safety and efficacy of PSS for loca
+
+lised PeCa. This review underscores the need for standardised methodologies and comprehensive reporting in future
+studies on PSS.
+
+Author contributions: Giuseppe Fallara had full access to all the data in
+
+the study and takes responsibility for the integrity of the data and the
+
+accuracy of the data analysis.
+
+Study concept and design: Fallara, Castiglione.
+
+Acquisition of data: Fallara, Poterek, Basile.
+
+Analysis and interpretation of data: Fallara.
+
+Drafting of the manuscript: Fallara, Tozzi, Basile, Poterek.
+
+Critical revision of the manuscript for important intellectual content: All
+
+authors.
+
+Statistical analysis: None.
+
+Obtaining funding: None.
+
+Administrative, technical, or material support: None.
+
+Supervision: All authors.
+
+Other: None.
+
+Financial disclosures: Giuseppe Fallara certifies that all conflicts of inter
+est, including specific financial interests and relationships and affiliations
+
+relevant to the subject matter or materials discussed in the manuscript
+
+(eg, employment/affiliation, grants or funding, consultancies, honoraria,
+
+stock ownership or options, expert testimony, royalties, or patents filed,
+
+received, or pending), are the following: None.
+
+Funding/Support and role of the sponsor: None.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at
+[https://doi.org/10.1016/j.euf.2024.05.004.](https://doi.org/10.1016/j.euf.2024.05.004)
+
+References
+
+[[1] Thomas A, Necchi A, Muneer A, et al. Penile cancer. Nat Rev Dis](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0005)
+[Primers 2021;7:11.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0005)
+
+[[2] Pang KH, Alnajjar HM, Muneer A. Advances in penile-sparing](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0010)
+[surgical approaches. Asian J Urol 2022;9:359–73.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0010)
+
+[[3] Elst L, Vreeburg M, Brouwer O, Albersen M. Challenges in organ-](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0015)
+[sparing surgery for penile cancer: what are the limits? Eur Urol](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0015)
+[Focus 2023;9:241–3.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0015)
+
+[[4] Hakenberg OW, Compérat E, Minhas S, et al. EAU guidelines on](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0020)
+[penile cancer 2022. Arnhem, The Netherlands: EAU Guidelines](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0020)
+[Office; 2022.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0020)
+
+[[5] Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group. Preferred](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0025)
+[reporting items for systematic reviews and meta-analyses: the](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0025)
+[PRISMA statement. BMJ 2009;339:b2535.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0025)
+
+[[6] Hutton B, Salanti G, Caldwell DM, et al. The PRISMA extension](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0030)
+statement for reporting of [systematic](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0030) reviews incorporating
+[network meta-analyses of health care interventions: checklist and](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0030)
+[explanations. Ann Intern Med 2015;162:777–84.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0030)
+
+[[7] Armijo-Olivo S, Stiles CR, Hagen NA, Biondo PD, Cummings GG.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0035)
+[Assessment of study quality for systematic reviews: a comparison](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0035)
+[of the Cochrane Collaboration Risk of Bias Tool and the Effective](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0035)
+Public Health Practice [Project](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0035) Quality Assessment Tool:
+[methodological research. J Eval Clin Pract 2012;18:12–8.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0035)
+
+[[8] Lo C-K-L, Mertz D, Loeb M. Newcastle-Ottawa Scale: comparing](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0040)
+[reviewers’ to authors’ assessments. BMC Med](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0040) Res Methodol
+
+[2014;14:45.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0040)
+
+[[9] Zreik A, Rewhorn M, Vint R, Khan R, Hendry D. Carbon dioxide laser](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0045)
+treatment of penile [intraepithelial](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0045) neoplasia. Surgeon
+[2017;15:321–4.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0045)
+
+[[10] Schlenker B, Gratzke C, Seitz M, et al. Fluorescence-guided laser](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0050)
+[therapy for penile carcinoma and precancerous lesions: long-term](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0050)
+[follow-up. Urol Oncol 2011;29:788–93.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0050)
+
+E U R O P E A N U R O L O G Y F O C U S 1 1 ( 2 0 2 5 ) 4 6 – 6 1 61
+
+
+
+[[11] Schlenker B, Tilki D, Gratzke C, et al. Intermediate-differentiated](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0055)
+[invasive (pT1 G2) penile cancer—oncological outcome and follow-](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0055)
+[up. Urol Oncol 2011;29:782–7.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0055)
+
+[[12] Tang DH, Yan S, Ottenhof SR, et al. Laser ablation as monotherapy](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0060)
+[for penile squamous cell carcinoma: a multi-center cohort analysis.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0060)
+[Urol Oncol 2018;36:147–52.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0060)
+
+[[13] van Bezooijen BPJ, Horenblas S, Meinhardt W, Newling DWW. Laser](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0065)
+[therapy for carcinoma in situ of the penis. J Urol 2001;166:1670–1.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0065)
+
+[[14] Frimberger D, Hungerhuber E, Hofstetter A, Schneede P. Laser](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0070)
+[therapy in penile carcinoma: state of the art and results. Med Laser](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0070)
+[Appl 2003;18:129–34.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0070)
+
+[[15] Tietjen DN, Malek RS. Laser therapy of squamous cell dysplasia and](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0075)
+[carcinoma of the penis. Urology 1998;52:559–65.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0075)
+
+[[16] Meijer RP, Boon TA, van Venrooij GEPM, Wijburg CJ. Long-term](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0080)
+follow-up after laser therapy for penile carcinoma. Urology
+[2007;69:759–62.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0080)
+
+[17] Tewari M, Shukla HS, Kumar M. Nd:YAG Laser Treatment of Early
+Stage Carcinoma of the Penis Preserves Form and Function of Penis.
+[Asian J Surg 2007;30:126–30. https://doi.org/10.1016/s1015-9584](https://doi.org/10.1016/s1015-9584(09)60145-7)
+[(09)60145-7.](https://doi.org/10.1016/s1015-9584(09)60145-7)
+
+[[18] Kokorovic A, Duplisea J, Qiao W, et al. Oncologic outcomes and](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0090)
+[subsequent treatment following organ sparing surgery for penile](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0090)
+[carcinoma: The University of Texas M.D. Anderson Cancer Center](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0090)
+[Experience. Urol Oncol 2021;39:302.e19–e27.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0090)
+
+[[19] Schlenker B, Tilki D, Seitz M, et al. Organ-preserving neodymium-](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0095)
+[yttrium-aluminium-garnet laser therapy for penile carcinoma: a](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0095)
+[long-term follow-up. BJU Int 2010;106:786–90.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0095)
+
+[[20] Baumgarten A, Chipollini J, Yan S, et al. Penile sparing surgery for](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0100)
+[penile cancer: a multicenter international retrospective cohort. J](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0100)
+[Urol 2018;199:1233–7.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0100)
+
+[[21] Lont AP, Gallee MPW, Meinhardt W, van Tinteren H, Horenblas S.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0105)
+[Penis conserving treatment for T1 and T2 penile carcinoma: clinical](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0105)
+[implications of a local recurrence. J Urol 2006;176:575–80.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0105)
+
+[[22] Bandieramonte G, Colecchia M, Mariani L, et al. Peniscopically](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0110)
+[controlled CO](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0110) 2 [laser excision for conservative treatment of in situ](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0110)
+[and T1 penile carcinoma: report on 224 patients. Eur Urol](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0110)
+[2008;54:875–84.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0110)
+
+[[23] Windahl T, Skeppner E, Andersson S-O, Fugl-Meyer KS. Sexual](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0115)
+[function and satisfaction in men after laser treatment for penile](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0115)
+[carcinoma. J Urol 2004;172:648–51.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0115)
+
+[[24] Chipollini J, Yan S, Ottenhof SR, et al. Surgical management of penile](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0120)
+[carcinoma in situ: results from an international collaborative study](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0120)
+[and review of the literature. BJU Int 2018;121:393–8.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0120)
+
+[[25] Musi G, Russo A, Conti A, et al. Thulium–yttrium–aluminium–](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0125)
+[garnet (Tm:YAG) laser treatment of penile cancer: oncological](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0125)
+[results, functional outcomes, and quality of life. World J Urol](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0125)
+[2018;36:265–70.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0125)
+
+[[26] Lucky M, Murthy KVR, Rogers B, et al. Treatment of penile CIS](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0130)
+[within a UK supra-regional network. BJU Int 2015;115:595–8.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0130)
+
+[[27] Machan M, Brodland D, Zitelli J. Penile squamous cell carcinoma.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0135)
+[Dermatol Surg 2016;42:936–44.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0135)
+
+[[28] Lukowiak TM, Perz AM, Aizman L, et al. Mohs micrographic surgery](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0140)
+[for male genital tumors: Local recurrence rates and patient-](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0140)
+[reported outcomes. J Am Acad Dermatol 2021;84:1030–6.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0140)
+
+[[29] Shindel AW, Mann MW, Lev RY, et al. Mohs micrographic surgery](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0145)
+[for penile cancer: management and long-term followup. J Urol](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0145)
+[2007;178:1980–5.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0145)
+
+[[30] Mohs FE, Snow SN, Messing EM, Kuglitsch ME. Microscopically](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0150)
+[controlled surgery in the treatment of carcinoma of the penis. J Urol](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0150)
+[1985;133:961–6.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0150)
+
+[[31] Bissada NK, Yakout HH, Fahmy WE, et al. Multi-institutional long-](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0155)
+[term experience with conservative surgery for invasive penile](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0155)
+[carcinoma. J Urol 2003;169:500–2.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0155)
+
+[[32] Li J, Zhu Y, Zhang S-L, et al. Organ-sparing surgery for penile cancer:](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0160)
+[complications and outcomes. Urology 2011;78:1121–4.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0160)
+
+[[33] Pietrzak P, Corbishley C, Watkin N. Organ-sparing surgery for](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0165)
+invasive penile cancer: [early](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0165) follow-up data. BJU Int
+[2004;94:1253–7.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0165)
+
+[[34] Smith Y, Hadway P, Biedrzycki O, Perry MJA, Corbishley C, Watkin](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0170)
+[NA. Reconstructive surgery for invasive squamous carcinoma of the](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0170)
+[glans penis. Eur Urol 2007;52:1179–85.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0170)
+
+[[35] Morelli G, Pagni R, Mariani C, et al. Glansectomy with split-](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0175)
+[thickness skin graft for the treatment of penile carcinoma. Int J](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0175)
+[Impot Res 2009;21:311–4.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0175)
+
+
+
+[[36] O’Kane HF, Pahuja A, Ho KJ, Thwaini A, Nambirajan T, Keane P.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0180)
+[Outcome of glansectomy and skin grafting in the management of](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0180)
+[penile cancer. Adv Urol 2011;2011:240824.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0180)
+
+[[37] Veeratterapillay R, Sahadevan K, Aluru P, Asterling S, Rao GS,](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0185)
+[Greene D. Organ-preserving surgery for penile cancer: description](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0185)
+[of techniques and surgical outcomes. BJU Int 2012;110:1792–5.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0185)
+
+[[38] Håkansson U, Kirrander P, Uvelius B, Baseckas G, Torbrand C.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0190)
+[Organ-sparing reconstructive surgery in penile cancer: initial](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0190)
+experiences at two Swedish [referral](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0190) centres. Scand J Urol
+[2015;49:149–54.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0190)
+
+[[39] Tang DH, Yan S, Ottenhof SR, et al. Glansectomy as primary](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0195)
+[management of penile squamous cell carcinoma: an international](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0195)
+[study collaboration. Urology 2017;109:140–4.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0195)
+
+[[40] Parnham AS, Albersen M, Sahdev V, et al. Glansectomy and split-](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0200)
+[thickness skin graft for penile cancer. Eur Urol 2018;73:284–9.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0200)
+
+[[41] Albersen M, Parnham A, Joniau S, et al. Predictive factors for local](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0205)
+[recurrence after glansectomy and neoglans reconstruction for](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0205)
+[penile squamous cell carcinoma. Urol Oncol 2018;36:141–6.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0205)
+
+[42] Beech BB, Chapman DW, [Rourke](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0210) KF. Clinical outcomes of
+[glansectomy with split-thickness skin graft reconstruction for](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0210)
+[localized penile cancer. Can Urol Assoc J 2019;14:E482–6.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0210)
+
+[[43] Falcone M, Oderda M, Calleris G, Peretti F, Gontero P. Surgical](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0215)
+outcomes of glansectomy [and](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0215) split thickness skin graft
+[reconstruction for localized penile cancer. Urology 2021;152:195.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0215)
+
+[[44] Falcone M, Preto M, Oderda M, et al. Total glans resurfacing for the](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0220)
+[management of superficial penile cancer: a retrospective cohort](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0220)
+[analysis in a tertiary referral center. Urology 2020;145:281–6.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0220)
+
+[[45] Cakir OO, Schifano N, Venturino L, et al. Surgical technique and](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0225)
+[outcomes following coronal-sparing glans resurfacing for benign](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0225)
+[and malignant penile lesions. Int J Impot Res 2022;34:495–500.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0225)
+
+[[46] Hadway P, Corbishley CM, Watkin NA. Total glans resurfacing for](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0230)
+[premalignant lesions of the penis: initial outcome data. BJU Int](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0230)
+[2006;98:532–6.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0230)
+
+[[47] Shabbir M, Muneer A, Kalsi J, et al. Glans resurfacing for the](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0235)
+[treatment of carcinoma in situ of the penis: surgical technique and](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0235)
+[outcomes. Eur Urol 2011;59:142–7.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0235)
+
+[[48] O’Kelly F, Lonergan P, Lundon D, et al. A prospective study of total](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0240)
+[glans resurfacing for localized penile cancer to maximize oncologic](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0240)
+[and functional outcomes in a tertiary referral network. J Urol](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0240)
+[2017;197:1258–63.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0240)
+
+[[49] Menon H, Patel RR, Ludmir EB, et al. Local management of](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0245)
+[preinvasive and clinical T1–3 penile cancer: utilization of diverse](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0245)
+[treatment modalities. Future Oncol 2020;16:955–60.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0245)
+
+[[50] Feldman AS, McDougal WS. Long-term outcome of excisional organ](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0250)
+[sparing surgery for carcinoma of the penis. J Urol 2011;186:1303–7.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0250)
+
+[[51] Philippou P, Shabbir M, Malone P, et al. Conservative surgery for](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0255)
+[squamous cell carcinoma of the penis: resection margins and long-](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0255)
+[term oncological control. J Urol 2012;188:803–8.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0255)
+
+[[52] Lindner AK, Schachtner G, Steiner E, et al. Organ-sparing surgery of](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0260)
+[penile cancer: higher rate of local recurrence yet no impact on](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0260)
+[overall survival. World J Urol 2020;38:417–24.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0260)
+
+[[53] Kamel MH, Tao J, Su J, et al. Survival outcomes of organ sparing](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0265)
+[surgery, partial penectomy, and total penectomy in pathological T1/](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0265)
+[T2 penile cancer: report from the National Cancer Data Base. Urol](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0265)
+[Oncol 2018;36:82.e7–e15.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0265)
+
+[[54] Minhas S, Kayes O, Hegarty P, Kumar P, Freeman A, Ralph D. What](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0270)
+[surgical resection margins are required to achieve oncological](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0270)
+[control in men with primary penile cancer? BJU Int 2005;96:1040–3.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0270)
+
+[[55] Djajadiningrat RS, van Werkhoven E, Meinhardt W, et al. Penile](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0275)
+[sparing surgery for penile cancer—does it affect survival? J Urol](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0275)
+[2014;192:120–6.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0275)
+
+[[56] Leijte JAP, Kirrander P, Antonini N, Windahl T, Horenblas S.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0280)
+[Recurrence patterns of squamous cell carcinoma of the penis:](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0280)
+[recommendations for follow-up based on a two-centre analysis of](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0280)
+[700 patients. Eur Urol 2008;54:161–9.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0280)
+
+[[57] Anastasiadis E, Ayres B, Watkin N. Update on penile sparing surgery](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0285)
+[for penile cancer. Curr Opin Urol 2022;32:1–7.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0285)
+
+[58] Gandaglia G, Bravi CA, [Dell’Oglio](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0290) P, et al. The impact of
+implementation of the [European](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0290) Association of Urology
+[Guidelines Panel recommendations on reporting and grading](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0290)
+complications on perioperative outcomes after robot-assisted
+[radical prostatectomy. Eur Urol 2018;74:4–7.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0290)
+
+[[59] Dindo D, Demartines N, Clavien P-A. Classification of surgical](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0295)
+[complications. Ann Surg 2004;240:205–13.](http://refhub.elsevier.com/S2405-4569(24)00068-3/h0295)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,6 @@
+Based on the provided research paper, the following explicit treatment and diagnostic recommendations have been identified and extracted.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Diagnosis / Initial Evaluation** | **p16INK4a Immunohistochemistry (IHC) Testing:** It is recommended that p16INK4a IHC testing be included as part of the initial diagnostic evaluation for all patients with Penile Squamous Cell Carcinoma (PSCC). The paper supports this as a reliable surrogate marker for HPV-associated lesions to aid in prognosis assessment. |
+| **Primary Treatment (Surgical Management)** | **Consideration of Conservative Surgery:** For patients with HPV-related PSCC, conservative surgical approaches, such as organ-preserving techniques, may be considered. <br><br> **Specific Clinical Indications:** This approach is specifically suggested for patients with a lower disease burden and in appropriately selected cases, given the favorable prognosis and reduced risk of recurrence associated with HPV-positive tumors. |

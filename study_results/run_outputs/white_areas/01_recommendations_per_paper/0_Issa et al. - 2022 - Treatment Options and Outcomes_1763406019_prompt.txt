@@ -1,0 +1,454 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    E U R O P E A N U R O L O G Y F [O](https://doi.org/10.1016/j.euf.2021.04.026) C U S 8 ( 2 0 2 2 ) 8 2 9 – 8 3 2
+
+ava ilable at www.sciencedirect.com
+
+journa l homepage: www.europea nurology.com/eufocus
+
+Mini Review – Penile Cancer
+# Treatment Options and Outcomes for Men with Penile Intraepithelial Neoplasia: A Systematic Review
+
+Allaudin Issa [a], Kirby Sebro [b], Abigail Kwok [c], Florian Janisch [d], Nico Christian Grossmann [e],
+Esther Lee [a], Marc Lucky [c], Pedro Oliveira [a], Maurice Lau [a], Arie Parnham [a], Vijay Sangar [a][,][f],
+Christian D. Fankhauser [a][,][g][,] 
+a Department of Urology, The Christie NHS Foundation Trust, Manchester, UK; b Department of Urology, Western General Hospital, Edinburgh, UK;
+c Department of Urology, Aintree University Hospital NHS Foundation Trust, Liverpool, UK; d Department of Urology, Medical University of Hamburg,
+Hamburg, Germany; [e] University of Zurich, Zurich, Switzerland; [f] Manchester Academic Health Sciences Centre, University of Manchester, Manchester, UK;
+g Luzerner Kantonsspital, Luzern, Switzerland
+
+
+Article info
+
+Article history:
+Accepted April 29, 2021
+
+Associate Editor:
+
+Malte Rieken
+
+Keywords:
+
+PeIN
+
+Penile
+
+Cancer
+
+Topical
+Glans resurfacing
+Imiquimod
+Glansectomy
+
+Laser
+
+hpv
+
+
+Abstract
+
+Penile intraepithelial neoplasia (PeIN) is a rare skin condition with potential to progress
+to invasive penile cancer. We performed a systematic review of treatment options and
+outcomes for PeIN. Topical agents showed response and recurrence rates of 40–100% and
+20% for imiquimod, and 48–74% and 11% for 5-fluorouracil, respectively. Discontinuation
+of topical agents because of side effects was observed in 12% of cases. Response rates for
+laser therapies were 52–100%, with recurrence in 7–48% of cases and a change in penile
+sensitivity in 50%. Circumcision cleared preputial PeIN. Rates of recurrence after surgical
+treatment of glans PeIN were 25% for wide local excision, 4% for Mohs surgery, 5% for
+total glans resurfacing, and 10% for glansectomy. There are limited data on factors
+predictive of treatment response and on sequencing of treatment options.
+Patient summary: Several treatment options are available for men with precancerous
+lesions of the foreskin or glans. Close follow-up is necessary as lesions can recur or
+progress to invasive penile cancer.
+© 2021 European Association of Urology. Published by Elsevier B.V. All rights
+reserved.
+
+- Corresponding author. Department of Urology, The Christie NHS Foundation Trust, Manchester, UK.
+E-mail address: [christian.fankhauser.1@luks.ch](mailto:christian.fankhauser.1@luks.ch) (C.D. Fankhauser).
+
+
+Penile intraepithelial neoplasia (PeIN) is a rare skin condition characterised by dysplastic changes in epidermal
+squamous cells without extension beyond the basement
+membrane. PeIN is classified as differentiated or undiffer
+entiated. Undifferentiated PeIN is related to human
+
+
+papillomavirus (HPV) infection resulting in overexpression
+of CDKN2A/p16. This overexpression is predictive for treatment response in HPV-induced cancers, including cervical
+
+[1], anal [2], and oropharyngeal [3] cancers. Successful local
+treatment of PeIN is essential, as progression to invasive
+
+
+[https://doi.org/10.1016/j.euf.2021.04.026](https://doi.org/10.1016/j.euf.2021.04.026)
+2405-4569/© 2021 European Association of Urology. Published by Elsevier B.V. All rights reserved.
+
+830 E U R O P E A N U R O L O G Y F O C U S 8 ( 2 0 2 2 ) 8 2 9 – 8 3 2
+
+Table 1 – Outcomes for men with penile intraepithelial neoplasia in all the studies included, stratified by treatment options
+
+Study and treatment Patients, n (%) mFU (mo) Complications, n (%)
+
+Study NR PR CR DR DP
+
+Topical treatment
+Imiquimod
+Torelli et al. [8] 10 2 (20) 6 (60) 2 (20) 60
+Alnajjar et al. [9] 10 5 (50) 4 (40) 34 1 (10) discontinued due to severe reaction
+Ashley et al. [10] 6 (100)
+
+5-Fluorouacil
+
+Alnajjar et al. [9] 44 13 (30) 13 (30) 21 (48) 34 5 (12) adverse events requiring discontinuation
+4 (10) local inflammation and toxicity
+Lucky et al. [11] 19 14 (74) 3 (16) 2 (11) 1 (5) neophimosis
+2 (11) admission for inflammation
+7 (37) significant inflammatory response
+Ashley et al. [10] 9 6 (67)
+Laser/phototherapy
+
+YAG laser
+
+Musi et al. [12] 60 22 (85) 3 (12) 1 (4) 4 (15) reduced sensitivity
+13 (50) increased sensitivity
+Schlenker et al. [13] 54 38 (70) 16 (30)
+Frimberger et al. [14] 29 27 (93) 2 (7) 46.7
+Van Bezooijen et al. [15] 19 3 (16) 10 (53) 5 (26) 1 (5) 32
+Tietjan and Malek [16] (+ circumcision) 44 37 (84) 5 (11) 2 (5) 58
+CO 2 laser
+Vint et al. [17] 47 39 (83) 8 (17) 29
+Laser (not specified)
+Chipollini et al. [18] 58 30 (52) 28 (48) 63.8
+Malek [19] 18 18 (100)
+Malek et al. [20] 23 17 (74) 2 (9) 4 (17)
+Phototherapy
+Feldmeyer et al. [21] 11 2 (18) 5 (46) 4 (36)
+Axcrona et al. [22] 10 3 (30) 7 (70)
+Paoli et al. [23] 10 3 (30) 4 (40) 3 (30) 35
+Surgical options
+
+Wide local excision
+
+Chipollini et al. [18] 61 46 (75) 15 (25) 35
+Lucky et al. [11] 20 15 (75) 5 (25)
+
+Wide local excision + laser
+
+Chipollini et al. [18] 10 7 (70) 3 (30) 47.3
+
+Circumcision
+
+Chipollini et al. [18] 44 44 (100) 40
+Lucky et al. [11] 18 18 (100)
+Total glans resurfacing
+Shabbir et al. [24] 25 7 (28) 17 (68) 1 (4) 29
+Hadway et al. [25] 10 10 (100) 30 1 (10) phimosis
+Chipollini et al. [18] 22 21 (96) 1 (4) 40.3
+Mohs surgery
+Machan et al. [26] 19 18 (95) 1 (5) 4 (21) urethral dilatation
+Glansectomy
+Chipollini et al. [18] 10 9 (90) 1 (10)
+
+NR = no response; PR = partial response; CR = complete response; DR = disease recurrence; DP = disease progression; mFU = median follow-up.
+
+
+cancer often requires extensive surgery in a cosmetically
+sensitive anatomic location. Given the rarity of the disease,
+only limited treatment recommendations exist [4].
+We performed a systematic review on April 9, 2020 to
+summarise treatment options and outcomes in the literature using MEDLINE, Embase, and the Cochrane Database of
+Systematic Reviews. A broad search using several combinations, synonyms, and search terms related to PIN, laser/
+phototherapy, topical, and surgical treatment options, as
+well as HPV vaccination, was performed (Supplementary
+material). Non-English literature was excluded. The reference lists of the publications identified were manually
+screened to identify further studies. Duplicate articles were
+
+
+filtered using the “close match function” in Endnote and
+manual deduplication. All titles, abstracts, and full texts
+were screened for appropriateness for inclusion by two
+investigators using Covidence [(www.covidence.org/).](http://www.covidence.org/) Data
+from the same studies that appeared in multiple publications were only considered once. Only published manuscripts for cohorts with a minimum of ten men with PeIN
+were included. Any discrepancies were resolved by a third
+investigator (C.D.F.).
+Of 1594 publications, 94 full-text manuscripts were
+screened. Nineteen studies involving 691 patients with PeIN
+were included (Table 1). Imiquimod and 5-fluorouacil (5FU) were used in three studies each, laser treatment in nine,
+
+E U R O P E A N U R O L O G Y F O C U S 8 ( 2 0 2 2 ) 8 2 9 – 8 3 2 831
+
+
+including YAG lasers in five, CO 2 lasers in one, unspecified
+lasers in three, and phototherapy in three. Glans resurfacing
+and wide local excision were described in three and two
+
+studies, respectively. One study described wide local excision followed by laser therapy. Glansectomy was described
+in one report. Response to second-line treatment after
+failure of first-line therapy options was not reported in
+any of the studies.
+Topical therapies included imiquimod and 5-FU, with
+complete response rates in 40–100% and 48–74% of cases,
+respectively. Progression after imiquimod and 5-FU was
+observed in 20% and 11%, respectively. Adverse events were
+observed in 10% during imiquimod and in 5–12% during 5FU treatment; inflammation causing pain and severe irritation were the most common adverse events. Phimosis was
+
+observed in 5% of patients treated with imiquimod. Discontinuation of treatment by men treated with imiquimod and
+5-FU was described in 10% and 11% of cases, respectively,
+with one study reporting that 11% of men treated with 5-FU
+required admission for severe inflammation.
+Energy-based therapies discussed in the literature
+included YAG and CO 2 lasers and phototherapy. Laser treatment had total response rates of 52–100%. Recurrence was
+reported in 7–48% of cases. Altered penile sensitivity following laser treatment was described, including increased
+sensitivity in 50% and decreased sensitivity in 15% of cases.
+Phototherapy led to complete response in 40–70% of cases,
+with recurrence observed in 30% and progression in 36%.
+Surgical treatment of PeIN was associated with recurrence in 4–30% of cases. Circumcision cleared all preputial
+PeIN, whereas recurrence after surgical treatment of PeIN of
+the glans was observed in 25% of cases after wide local
+excision, 4% after Mohs surgery, 5% after total glans resurfacing, and 10% after glansectomy.
+This review shows that the literature for treatment
+
+options and outcomes for men with PeIN is limited and
+based on small retrospective cohort studies, but several
+conclusions can be drawn. The preferred treatment for
+preputial PeIN is circumcision, which may decrease the
+toxicity of topical treatment of PeIN of the glans.
+In our experience, some men with PeIN of the foreskin
+and glans may show complete response of the glans PeIN
+after circumcision alone. It could be hypothesised that this
+relates to improved hygiene and changes in the microenvironment following removal of the foreskin. However, no
+evidence in the literature shows this.
+
+In cases of PeIN of the glans, organ-sparing approaches
+including topical or laser treatments should be recommended as first-line options given their efficacy and relatively low levels of recurrence and progression. Data
+describing the efficacy of further lines of treatment after
+failure of first-line options are limited. Most clinicians
+would offer patients a second topical or laser treatment.
+Men with extensive PeIN or recurrence after first- and
+
+second-line topical and/or laser treatment should be offered
+surgical options including wide local excision or glans
+resurfacing. Given a considerable risk of recurrence for all
+treatment options, close follow-up for men with PeIN is
+essential.
+
+
+HPV is an insufficiently studied risk factor and potential
+treatment target. It is well documented that HPV infection is a
+causative agent in malignancies including oropharyngeal [3],
+anal [2], and penile cancers [5]. In a prospective cohort of
+3033menfromtheUSA, Brazil,and Mexico,HPVwasdetected
+in 1788/3033 (59%), of whom 10/1788 (0.5%) developed PeIN
+during 12-mo follow-up [5]. In studies evaluating the efficacy
+of HPV vaccination, a significant reduction in cervical cancer
+risk was noted [6]. The efficacy of HPV vaccination as primary
+prophylaxis has been demonstrated for adolescents, but secondary prophylaxis among men with PeIN or invasive penile
+cancer remains to be studied [7].
+Our search criteria were designed and reviewed by experienced clinicians and predefined in a peer-reviewed protocol. It is possible that not all of the potentially relevant
+studies were identified because of undetected imprecision
+in the search strategy, which is a potential source of bias.
+The retrospective nature of the review and the limited
+number of publications on the topic, mostly single-centre
+studies with small case numbers, combined with the differing treatment course lengths and follow-up protocols, may
+also influence bias.
+
+In summary, the data on treatment options and outcomes for men with PeIN are limited and from small retro
+spective cohort studies. The preferred treatment for preputial PeIN is circumcision, whilst first-line treatment for
+glans disease remains topical therapy.
+
+Conflicts of interest: The authors have nothing to disclose.
+
+Appendix A. Supplementary data
+
+Supplementary material related to this article can be
+found, in the online version, at [doi:https://doi.org/10.](https://doi.org/10.1016/j.euf.2021.04.026)
+[1016/j.euf.2021.04.026.](https://doi.org/10.1016/j.euf.2021.04.026)
+
+References
+
+[1] Muñoz N, Bosch FX, de Sanjosé S, et al. Epidemiologic classification
+
+of human papillomavirus types [associated](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0005) with cervical cancer. N
+
+Engl J Med [2003;348:518–27.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0005)
+
+[2] Palefsky JM, Giuliano AR, [Goldstone](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0010) S, et al. HPV vaccine against
+
+anal HPV infection and anal [intraepithelial](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0010) neoplasia. N Engl J Med
+
+[2011;365:1576–85.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0010)
+
+[3] Mork J, Lie AK, Glattre E, et al. [Human](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0015) papillomavirus infection as a
+
+risk factor for squamous-cell [carcinoma](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0015) of the head and neck. N
+
+Engl J Med [2001;344:1125–31.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0015)
+
+[4] Hakenberg O, Compérat E, [Minhas](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0020) S, Necchi A, Protzel C, Watkin N.
+
+EAU guidelines on penile cancer. Arnhem, The Netherlands: Euro
+pean Association of Urology; 2019.
+
+[5] Sudenga SL, Ingles DJ, Campbell [CMP,](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0025) et al. Genital human papillo
+mavirus infection progression to external genital lesions: the HIM
+
+study. Eur Urol [2016;69:166–73.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0025)
+
+[6] Lei J, Ploner A, Elfström KM, et [al.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0030) HPV vaccination and the risk of
+
+invasive cervical cancer. N [Engl](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0030) J Med 2020;383:1340–8.
+
+[7] Giuliano AR, Palefsky JM, [Goldstone](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0035) S, et al. Efficacy of quadrivalent
+
+HPV vaccine against HPV [Infection](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0035) and disease in males. N Engl J
+
+Med [2011;364:401–11.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0035)
+
+832 E U R O P E A N U R O L O G Y F O C U S 8 ( 2 0 2 2 ) 8 2 9 – 8 3 2
+
+
+
+[8] Torelli T, Catanzaro MA, Nicolai [N,](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0040) et al. Treatment of carcinoma in
+
+situ of the glans penis with [topical](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0040) imiquimod followed by carbon
+
+dioxide laser excision. Clin [Genitourin](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0040) Cancer 2017;15:e483–7.
+
+[9] Alnajjar HM, Lam W, Bolgeri M, [Rees](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0045) R, Perry M, Watkin N. Treat
+ment of carcinoma in situ of the glans penis with topical chemo
+therapy agents. J Clin [Oncol](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0045) 2012;30(15 Suppl):e15100.
+
+[10] Ashley S, Shanks JH, Oliveira P, et al. Human papilloma virus (HPV)
+
+status may impact treatment outcomes in patients with pre-cancer
+ous penile lesions (an eUROGEN study). Int J Impot Res. In press.
+
+PMID: 32710000, [https://doi.org/10.1038/s41443-020-0327-4.](https://doi.org/10.1038/s41443-020-0327-4)
+
+[11] Lucky M, Murthy KVR, Rogers [B,](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0055) et al. The treatment of penile
+
+carcinoma in situ (CIS) within a UK supra-regional network. BJU
+
+Int [2015;115:595–8.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0055)
+
+[12] Musi G, Russo A, Conti A, et al. [Thulium-yttrium-aluminium-garnet](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0060)
+
+(Tm:YAG) laser treatment of [penile](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0060) cancer: oncological results, func
+tional outcomes, and quality of [life.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0060) World J Urol 2018;36:265–70.
+
+[13] Schlenker B, Tilki D, Seitz M, et [al.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0065) Organ-preserving neodymium
+yttrium-aluminium-garnet laser therapy for penile carcinoma: a
+
+long-term follow-up. [BJU](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0065) Int 2010;106:786–90.
+
+[14] Frimberger D, Hungerhuber E, [Zaak](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0070) D, Waidelich R, Hofstetter A,
+
+Schneede P. Penile carcinoma. [Is](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0070) Nd:YAG laser therapy radical
+
+enough? J Urol [2002;168:2418–21.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0070)
+
+[15] Van Bezooijen BPJ, Horenblas S, [Meinhardt](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0075) W, Newling DWW. Laser
+
+therapy for carcinoma in situ of [the](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0075) penis. J Urol 2001;166:1670–1.
+
+[16] Tietjen DN, Malek RS. Laser [therapy](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0080) of squamous cell dysplasia and
+
+carcinoma of the penis. [Urology](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0080) 1998;52:559–65.
+
+[17] Vint R, Zreik A, Rewhorn M, Khan R, Hendry D. Carbon dioxide laser
+
+treatment of penile [intraepithelial](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0085) neoplasia. Eur Urol Suppl
+
+[2016;15:e233.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0085)
+
+
+
+[18] Chipollini J, Yan S, Ottenhof SR, et [al.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0090) Surgical management of penile
+
+carcinoma in situ: results from [an](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0090) international collaborative study
+
+and review of the [literature.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0090) BJU Int 2018;121:393–8.
+
+[19] Malek RS. Laser treatment of [premalignant](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0095) and malignant squa
+mous cell lesions of the penis. [Lasers](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0095) Surg Med 1992;12:246–53.
+
+[20] Malek RS, Goellner JR, Smith TF, [Espy](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0100) MJ, Cupp MR. Human papil
+lomavirus infection and [intraepithelial,](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0100) in situ, and invasive carci
+noma of penis. [Urology](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0100) 1993;42:159–70.
+
+[21] Feldmeyer L, Krausz-Enderlin V, [Töndury](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0105) B, Hafner J, French LE, Hof
+bauer GF. Methylaminolaevulinic [acid](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0105) photodynamic therapy in the
+
+treatment of erythroplasia of [Queyrat.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0105) Dermatology 2011;223:52–6.
+
+[22] Axcrona K, Brennhovd B, Alfsen [GC,](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0110) Giercksky KE, Warloe T. Pho
+todynamic therapy with methyl [aminolevulinate](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0110) for atypial carci
+noma in situ of the penis. [Scand](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0110) J Urol Nephrol 2007;41:507–10.
+
+[23] Paoli J, Bratel AT, Löwhagen G-B, [Stenquist](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0115) B, Forslund O, Wennberg
+
+A-M. Penile intraepithelial [neoplasia:](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0115) results of photodynamic
+
+therapy. Acta [Dermatovenereol](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0115) 2006;86:418–21.
+
+[24] Shabbir M, Muneer A, Kalsi J, et al. Glans resurfacing for the
+
+treatment of carcinoma in situ [of](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0120) the penis: surgical technique
+
+and outcomes. Eur [Urol](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0120) 2011;59:142–7.
+
+[25] Hadway P, Corbishley CM, [Watkin](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0125) NA. Total glans resurfacing for
+
+premalignant lesions of the [penis:](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0125) initial outcome data. BJU Int
+
+[2006;98:532–6.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0125)
+
+[26] Machan M, Brodland D, Zitelli J. [Penile](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0130) squamous cell carcinoma:
+
+penis-preserving treatment with Mohs micrographic surgery. Der
+matol Surg [2016;42:936–44.](http://refhub.elsevier.com/S2405-4569(21)00132-2/sbref0130)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

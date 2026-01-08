@@ -1,0 +1,2274 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [International Journal of Nursing Studies Advances 9 (2025) 100412](https://doi.org/10.1016/j.ijnsa.2025.100412)
+
+Contents lists available at ScienceDirect
+# International Journal of Nursing Studies Advances
+
+[journal homepage: www.sciencedirect.com/journal/international-](https://www.sciencedirect.com/journal/international-journal-of-nursing-studies-advances)
+[journal-of-nursing-studies-advances](https://www.sciencedirect.com/journal/international-journal-of-nursing-studies-advances)
+## Psychometric properties and content of instruments for assessing penile cancer patients’ quality of life: A systematic review
+
+Anu Soikkeli-Jalonen [a][,][1][,][*], Suvi Vierela¨ [a][,][1], Antti Kaipia [b], Eeva Harju [a][,][b][,][2],
+Elina Haavisto [a][,][c][,][2]
+
+a *Department of Health Sciences, Faculty of Social Sciences, Tampere University Arvo Ylp* ¨ *on katu 34, 33520 Tampere, Finland*
+b *Department of Surgery, Tampere University Hospital, P.O. Box 272, 33101 Tampere, Finland*
+c *Tampere University Hospital, Wellbeing Service County of Pirkanmaa, P.O. Box 272, 33101 Tampere, Finland*
+
+
+A R T I C L E I N F O
+
+*Keywords:*
+
+Penile cancer
+
+Quality of life
+
+Instrument
+
+Systematic review
+
+**What is already known**
+
+
+A B S T R A C T
+
+*Aim:* To describe the psychometric properties and content of the instruments used for assessing
+penile cancer patients’ quality of life
+*Design:* A systematic review
+*Method:* A systematic literature search was conducted in October 2024 across four electronic
+databases: PubMed, CINAHL, PsycINFO, and the Cochrane Library. The systematic approach was
+adhered to when conducting the review, and the Preferred Reporting Items for Systematic Re-­
+views and Meta-Analyses guidelines were followed to ensure explicit reporting. The search across
+the four databases generated 135 articles, out of which 16 were included in the review.
+*Results:* Eight instruments assessing the quality of life (QoL) among penile cancer patients were
+identified: four generic, two cancer-specific, and two penile cancer-specific. The content of these
+instruments fell into three main categories: physical functioning, psychosocial resilience, and
+overall life functions. However, none of the instruments covered all these aspects comprehen-­
+sively. Additionally, no instrument was reported to be thoroughly valid or reliable.
+*Conclusions:* A psychometrically tested and validated QoL instrument that covers all aspects of
+penile cancer patients’ well-being was not found. There is a need for holistic instruments tailored
+to evaluate and improve the QoL for these patients. Such instruments would enable the identi-­
+fication and comparison of individual care needs and factors influencing their QoL.
+
+
+
+  - Penile cancer is a rare malignant neoplasm affecting men globally, and its incidence is rising worldwide.
+
+  - Penile cancer is a rare malignant neoplasm affecting men globally, and its incidence is rising worldwide.
+
+  - Penile cancer patients’ QoL is profoundly affected by various physical symptoms that disrupt their daily life, self-image, and
+
+ - Corresponding author at: Department of Health Sciences, Faculty of Social Sciences, Tampere University, Arvo Ylpon katu 34, 33520 Tampere, ¨
+Finland.
+
+*E-mail address:* [anu.soikkeli-jalonen@tuni.fi (A. Soikkeli-Jalonen).](mailto:anu.soikkeli-jalonen@tuni.fi)
+1 These authors contributed equally as first authors.
+2 These authors contributed equally as last authors.
+
+[https://doi.org/10.1016/j.ijnsa.2025.100412](https://doi.org/10.1016/j.ijnsa.2025.100412)
+Received 9 May 2025; Received in revised form 22 July 2025; Accepted 22 August 2025
+
+Available online 22 August 2025
+2666-142X/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license
+[( http://creativecommons.org/licenses/by/4.0/ ).](http://creativecommons.org/licenses/by/4.0/)
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+overall life experience.
+
+  - No prior review has systematically examined the instruments assessing the QoL of penile cancer patients, and the optimal
+content of instruments remains unknown.
+
+**What this paper adds**
+
+  - This review highlights the absence of a psychometrically tested and validated QoL instrument that comprehensively covers all
+aspects of penile cancer patients’ well-being.
+
+  It underscores the need for holistic instruments specifically tailored to evaluate and improve the QoL for penile cancer patients.
+
+  Such instruments would facilitate the identification and comparison of individual care needs and factors that contribute to a
+more holistic understanding of penile cancer patients’ QoL, ultimately improving patient outcomes and care practices.
+
+**1. Background**
+
+Penile cancer is a rare malignant neoplasm affecting men globally (Fu et al., 2022; Sung et al., 2021). In 2022, the global incidence
+of penile cancer was 37,700 newly diagnosed cases, with projections indicating 67,000 cases by 2050 (Ferlay et al., 2020). The
+incidence of penile cancer is rising worldwide, particularly in European countries; this rise is believed to be associated with increased
+exposure to human papillomavirus (HPV) and declining rates of childhood circumcision (Fu et al., 2022). A key distinction in clinical
+practice is between superficial and invasive forms of the disease. Superficial penile cancer is often managed with topical therapies or
+limited surgical excision and typically has minimal impact on quality of life (Straub Hogan et al., 2022). In contrast, invasive penile
+carcinoma frequently requires more extensive surgical intervention, including partial or total penectomy, and is associated with
+significant physical and psychosocial morbidity (Thomas et al., 2021).
+
+Literature highlights the profound emotional impact of diagnosis, treatment, and disfigurement, emphasizing the need for timely
+care, psychosocial support, and organ-sparing approaches to preserve sexual identity and well-being (Torres Irizarry et al., 2024).
+Surgery remains the most effective treatment for localized penile cancer (Brouwer et al., 2023; Neuville et al., 2024). However, despite
+efforts to preserve the organ during surgery, this approach often results in deformities in this sensitive area (Paster and Chipollini,
+2022; Torn¨ ¨av¨a et al., 2022). Additionally, bladder dysfunction and pain are common post-surgery and radiotherapy complications
+(Witty et al., 2013). Consequently, many men diagnosed with penile cancer experience significant unmet intimacy needs (Paterson
+et al., 2020), a reduction or cessation of sexual activity (Maddineni et al., 2009), and adverse changes in masculinity and self-esteem
+(Bullen et al., 2010). The illness and its treatment substantially diminish patients’ quality of life (QoL) (Paster and Chipollini, 2022;
+Torn¨ av¨ a et al., 2022¨ ), especially when physical dysfunction occurs (Witty et al., 2013; Harju et al. 2023).
+
+Quality of life means how a person sees and feels about their life, considering their culture, values, goals, and personal expectations
+(WHO, 2020). Despite the significant psychological burden experienced by many penile cancer patients—up to 50% showing
+symptoms similar to traumatic stress disorder (Maddineni et al. 2009)—there is currently no standardized or widely accepted tool for
+measuring QoL in penile cancer population (Harju et al. 2023). In the absence of a comprehensive disease-specific instrument, re-­
+
+— —
+searchers increasingly adopt a mixed-methods approach combining qualitative and quantitative tools to capture the complexity of
+patient experiences, particularly in rare or sensitive conditions (Klassen et al., 2012). Furthermore, psychosocial resil-­
+ience—encompassing psychological coping, social support, and the ability to manage practical challenges—has been shown to
+significantly influence QoL in various cancer populations (Sharpe and Curran, 2006; Zhou et al., 2010). In prostate and testicular
+cancer, for example, studies have highlighted the importance of emotional adjustment and social connectedness in maintaining QoL,
+particularly in relation to body image, sexual identity, and treatment-related stress (Paster and Chipollini, 2022; Torn¨ av¨ ¨a et al., 2022;
+Witty et al., 2013; Harju et al. 2023). These findings suggest that psychosocial resilience is a critical, though often underexplored,
+component of QoL in penile cancer as well, warranting more focused attention in future research
+
+Therefore, it is evident that penile cancer patients’ QoL is profoundly affected by various physical symptoms that disrupt their daily
+lives, self-image, and overall life experience (Torn¨ av¨ ¨a et al., 2022). Penile cancer patients require enhanced support and counselling to
+improve their QoL during survivorship, including family and spousal support and the social aspects of life (Torres Irizarry et al., 2024).
+Healthcare professionals, particularly nurses, are essential in providing support to these patients (Witty et al. 2013). It is especially
+important to offer individualized support tailored to their specific needs (Harju et al. 2023). Moreover, valid instruments are essential
+for accurately assessing the factors that affect individuals’ lives and coping mechanisms so that healthcare professionals can provide
+the best possible support to their patients (Soikkeli-Jalonen et al. 2021).
+
+The significant impact of penile cancer on the QoL of affected patients underscores the urgent need to develop comprehensive care
+strategies. However, no prior review has systematically examined the instruments used to assess the QoL of penile cancer patients.
+Consequently, the optimal content of these instruments remains unknown. This systematic review aims to fill this critical knowledge
+gap by providing a comprehensive understanding of the instruments used to assess the QoL of penile cancer patients, thereby informing
+the development of more effective and targeted instruments to improve their overall well-being.
+
+2
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+**2. Methods**
+
+*2.1. Objective of the study*
+
+The aim of this systematic review is to describe the psychometric properties and content of the instruments used for assessing penile
+cancer patients’ QoL.
+
+Research questions:
+
+1. What instruments have been used to assess the QoL of penile cancer patients?
+2. What was the reported validity and reliability of the instruments?
+3. What was the content of the instruments?
+
+*2.2. Study design*
+
+A systematic review was chosen to ensure a comprehensive understanding of the limited research topic by incorporating studies
+that utilized diverse methodologies (Grant and Booth, 2009). Additionally, Bruce et al.’s (2018) systematic approach was adhered to in
+conducting the review, and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were
+
+
+
+
+
+
+
+
+
+
+**Fig. 1.** Flow diagram of the literature search following PRISMA (Page et al., 2021).
+
+3
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+followed to ensure explicit reporting (Page et al., 2021).
+
+*2.3. Search strategy*
+
+A systematic literature search was conducted in October 2024 across four electronic databases: PubMed, CINAHL, PsycINFO, and
+the Cochrane Library. An information specialist assisted in the search process. The search utilized the following keywords, their
+synonyms, and MeSH terms, using Boolean operators: ’penile cancer,’ ’quality of life,’ and ’instrument’: (Penile Neoplasm MeSH OR
+penile cancer OR penectomy) AND ("quality of life" OR "QoL" OR "life qualit*" OR "Quality of Life"[MeSH]) AND (Surveys and
+Questionnaires MeSH OR instrument* OR scale* OR test* OR measure* OR tool* OR questionnaire* OR research instrument*). The
+search was conducted without any time restrictions.
+
+The inclusion criteria were studies that 1) focused on penile cancer patients; 2) studies included at least one instrument specifically
+developed for assessing quality of life (QoL); 3) described the content of the instrument; 4) were published in scientific peer-reviewed
+international journals; and 5) were written in English or Finnish. The inclusion criteria were not restricted by study design, allowing for
+a comprehensive synthesis of the literature. The included studies represented a range of methodological approaches, including
+quantitative cross-sectional, cohort and longitudinal studies. This diversity enabled a broad understanding of how QoL is assessed
+among penile cancer patients and what domains are emphasized across different research traditions.
+
+Studies were excluded if they 1) involved groups other than penile cancer patients; 2) did not use an instrument to assess quality of
+life; 3) were dissertations, editorials, or other non-scientific, non-peer-reviewed articles; or 4) did not meet the language requirements;
+5) included only instrument validation without QoL assessment.
+
+*2.4. Selection process*
+
+The selection process followed predefined inclusion and exclusion criteria at all stages. Title and abstract screening were conducted
+in a single combined phase by two independent reviewers. Full-text assessments were also carried out independently by the same two
+reviewers. Any disagreements were resolved through discussion until consensus was reached.
+
+The initial search yielded 135 articles (Figure 1). After independent title and abstract screening, 32 articles were selected for fulltext review. Of these, 11 were excluded for not using a QoL instrument specific to penile cancer patients, two did not meet the language
+criteria, and three were excluded due to publication type (e.g., not peer-reviewed scientific articles). Ultimately, 16 studies met the
+inclusion criteria and were included in the review.
+
+*2.5. Quality appraisal*
+
+For the critical appraisal of the study quality, the Joanna Briggs Institute’s (JBI) checklist for analytical cross-sectional studies
+(Moola et al., 2017) and the checklist for cohort studies (Moola et al., 2024) were utilized. The studies were scored using a binary
+system: ’yes’ received one point, while ’no’ and ’unclear’ received zero points (Table 1). The quality appraisal was conducted inde-­
+pendently by two authors, followed by a discussion to reach a consensus on the quality scores. The overall quality of the studies was
+deemed good, with all cross-sectional studies being of high quality and the cohort study being of medium quality (Table 1).
+
+*2.6. Data collecting and analysis process*
+
+The initial data extraction focused on collecting, summarizing, and tabulating key information from the included studies, guided by
+the research questions (Aromataris and Pearson, 2014). One researcher independently extracted data from each included study using a
+structured data extraction form, based on a plan developed collaboratively by the research team. Any uncertainties or ambiguities
+encountered during the process were discussed and resolved in consultation with the team to ensure consistency and accuracy. The
+extracted data included authors, year of publication, study objectives, design, participant characteristics, data collection instruments,
+and analysis methods (Table 2). Any discrepancies between reviewers were resolved through discussion and consensus. The tabulated
+information was synthesized using descriptive synthesis (Popay et al., 2006).
+
+Additionally, all QoL instruments used in the studies were identified and tabulated (Table 3), including details on instrument type,
+domains, scaling, and reported validity and reliability.
+
+The study utilized an inductive, data-driven qualitative content analysis, in which the coding categories were derived directly from
+the data without relying on pre-existing theoretical frameworks. An inductive content analysis of the instruments was then conducted
+independently by two authors and subsequently reviewed and confirmed by the full research team (Elo and Kyngas, 2008¨ ). The
+analysis involved extracting the content of each instrument, grouping similar domains into subcategories, and then synthesizing them
+into broader categories (Table 4).
+
+**3. Results**
+
+*3.1. Description of the studies*
+
+The results of this systematic review are based on 16 studies conducted between 2013 and 2023 (Table 2), half of which (n=8) were
+completed in the 2020s. The selected studies were conducted in Poland (Sosnowski et al., 2017, 2016), Indonesia (Firmansyah et al.,
+
+4
+
+**Table 1**
+
+Critical appraisal of included studies.
+
+**Cross-sectional studies**
+
+
+***3. Valid/***
+
+***reliable***
+
+***measured***
+
+***exposure***
+
+
+***4. Objective, standard criteria***
+***used for measurement***
+
+
+***5.Cofounding***
+***factors***
+***identified***
+
+
+***6.Cofounding factor***
+
+***strategy***
+
+
+***7. Valid/***
+
+***reliable***
+
+***outcome***
+
+***measure***
+
+
+***8.Appropriate statistical***
+***analysis***
+
+
+***Quality***
+***(JBI)***
+
+
+***Study*** ***1. Clear***
+***inclusion***
+
+***criteria***
+
+
+***2. Detailed***
+
+***subject and***
+***study***
+***description***
+
+
+Jovanovic et.
+
+al 2023
+
+Firmansyah et.
+
+al
+
+2023
+
+Jakobsen et.al
+
+2022
+
+Branney et.al
+
+2022
+
+Blinded for
+
+review et.
+
+al
+
+2021
+
+Croghan et.al
+
+2021
+
+P´erez et.al
+
+2020
+
+Suarez
+Ibarrola
+
+et.al
+
+2018
+
+Gambachidze
+
+et.al
+
+2018
+
+Draeger et.al
+
+2018
+
+Wan et.al
+
+2018
+
+Sosnowski et.
+
+al
+
+2017
+
+Sosnowski et.
+
+al
+
+2016
+
+Kieffer et.al
+
+2014
+
+Gulino et.al
+
+2013
+
+
+1 1 1 1 1 0 1 1 7/8
+
+1 1 1 1 0 0 1 1 6/8
+
+1 1 1 1 1 0 1 1 7/8
+
+1 1 1 1 0 0 1 1 6/8
+
+1 1 1 1 1 0 1 1 7/8
+
+1 1 1 1 1 0* 1 1 7/8
+
+1 1 1 1 1 0 1 1 7/8
+
+1 1 1 1 1 0 1 1 7/8
+
+1 1 1 1 1 0 1 1 7/8
+
+1 1 1 1 0 0 1 1 6/8
+
+1 1 1 1 1 0* 1 1 7/8
+
+1 1 1 1 1 0 1 1 7/8
+
+1 1 1 1 1 0 1 1 7/8
+
+1 1 1 1 1 0 1 1 7/8
+
+1 1 1 1 1 0 1 1 7/8
+
+
+**Cohort studies**
+
+***Study*** ***1. Similar***
+
+***groups***
+
+***recruited***
+
+***from the***
+
+***same***
+
+***population***
+
+
+***4.***
+
+***Confounding***
+***factors***
+***identification***
+
+
+***6.Participants***
+***free of outcome***
+***at the start of the***
+***study (or at the***
+***moment of***
+***exposure)***
+
+
+***7. Valid***
+
+***and***
+
+***reliable***
+
+***outcome***
+
+***measure***
+
+
+***10.***
+
+***Incomplete***
+***follow up***
+
+***strategy***
+
+
+***2. Exposures***
+
+***measured***
+
+***similarly in***
+***both groups***
+
+
+***3. Valid***
+
+***and reliable***
+
+***measured***
+
+***exposure***
+
+
+***5.Strategies to***
+***deal with***
+
+***confounding***
+***factors stated***
+
+
+***8.***
+
+***Adequate***
+***follow up***
+***time***
+
+
+***9. Completed***
+***follow up.***
+
+***Loss reasons***
+
+***reported.***
+
+
+***11.***
+
+***Appropriate***
+
+***statistical***
+
+***analysis***
+
+
+***Quality***
+***(JBI)***
+
+
+Warli et.al
+
+2023
+
+
+1 1 1 0 0 0 1 1 1 0 0 6/11
+
+
+Abbreviations for scoring cross-sectional and cohort study appraisal; 1 = yes, 0 = no, 0*=unclear.
+
+**Table 2**
+
+Study characteristics.
+
+
+Author(s), Year
+of publication,
+Country
+
+Gulino et.al
+
+2013, Italy
+
+Kieffer et.al
+
+2014,
+
+Netherlands
+
+Sosnowski et al.
+
+2016,
+
+Poland
+
+Sosnowski et al.
+
+2017,
+
+Poland
+
+Suarez-Ibarolla
+
+et al. 2018,
+
+Mexico
+
+
+Objective of the study Study design Number of participants, Age
+(mean)
+
+
+To assess the impact of
+primary surgery on healthrelated quality of life (HRQoL)
+
+and sexual function
+
+
+Surgical treatment Data collection
+
+instruments
+
+
+Outcomes Recall
+
+period
+
+
+Conditions of
+
+administration
+
+
+To assess psychological and
+
+sexual outcomes and the
+
+quality of life
+
+To assess the impact of
+primary surgery on sexuality
+and health related quality of
+
+life.
+
+
+Three-point
+longitudinal
+study
+
+Cross
+sectional study
+
+
+Bigelow-Young
+questionnaire*
+IIEF-15 [i]
+
+SF-36 [*,ii ] IOCv2 [*,iii ]
+
+IIEF-15 [i]
+
+EORTC QLQ C-30 [*, ]
+
+iv RSES v CMNI vi
+
+IIEF-15 [i ] IPSS [vii]
+
+
+QOL, sexual
+
+function
+
+QOL, sexual
+function, urinary
+
+function
+
+QOL, sexual
+function, self
+esteem,
+masculinity,
+urinary function
+
+
+NR Participants were
+
+interviewed
+
+individually
+
+
+Analysis
+
+t-test ANOVA
+
+
+NR NR ANOVA/ANCOVA.
+
+
+To assess quality of life Crosssectional study
+
+To compare aspects of QoL Crosssectional study
+
+
+NR Self-administered
+
+questionnaires
+
+
+QLQ C-30* [iv] QOL NR Self-administered
+mailed questionnaires
+
+
+Mann-Whitney U-test
+
+Spearman chisquared test.
+
+Mann-Whitney U-test
+
+
+NR Self-administered
+
+questionnaires
+
+
+Cross
+sectional study
+
+
+n=42 Mean age 56 Glansectomy, partial penectomy
+with urethral glanduloplasty
+
+n=90 Mean age 65.4 Laser/local excision with or
+without circumcision, glans
+amputation with or without
+reconstruction, vs penectomy or
+partial penectomy
+
+n=10 Mean age 60.5 Total penectomy with perineal
+urethrostomy
+
+n=51 Mean age 62.9 Local excision or partial
+penectomy or total penectomy
+
+n=10 Mean age 54.3 Partial or total penectomy,
+inguinal lymphadenectomy
+
+
+SF-36* [ii ] IIEF-5i HRQOL, sexual
+
+function
+
+
+Gambachidze
+
+et.al 2018,
+
+France
+
+
+To assess the long-term
+functional results of organpreserving brachytherapy
+
+
+Gambachidze To assess the long-term Cross- n=23 Mean age 63.4 Brachytherapy EQ-5D-3L QOL, urinary NR Self-administered Chi-squared test,
+et.al 2018, functional results of organ- sectional study ICSmaleSF [ix ] IIEF- function, sexual mailed questionnaires Mann-Whitney UFrance preserving brachytherapy 15 [i ] IMGI [x] function test, Kruskall-Wallis,
+
+t-test
+Draeger et.al To apply a validated Cross- n=76 Mean age 63.9 Local surgical EORTC QLQ-C30* [iv ] QOL NR Self-administered at a Descriptive statistics
+2018, questionnaire (EORTC QLQ- sectional study HRO-PE29 [*,xi] preadmission
+Germany C30) to reference data of the examination or on the
+
+
+NR Self-administered
+
+mailed questionnaires
+
+
+Cross
+sectional study
+
+
+n=23 Mean age 63.4 Brachytherapy EQ-5D-3L [*,viii ]
+
+
+ICSmaleSF [ix ] IIEF15 [i ] IMGI [x]
+
+
+QOL, urinary
+function, sexual
+
+function
+
+
+QOL NR Self-administered at a
+preadmission
+
+examination or on the
+
+day of admission for inpatient treatment.
+
+
+To apply a validated
+questionnaire (EORTC QLQC30) to reference data of the
+general population and to
+develop a new unvalidated
+questionnaire HRO-PE29
+
+
+Cross
+sectional study
+
+
+n=76 Mean age 63.9 Local surgical EORTC QLQ-C30* [iv ]
+
+
+Descriptive statistics
+
+
+HRO-PE29 [*,xi]
+
+
+Wan et.al 2018,
+
+China
+
+Perez et.al
+
+2020,
+
+Colombia
+
+
+To comparatively assess the
+quality-of-life parameters
+
+To describe oncological and
+
+functional outcomes
+
+
+Cross
+sectional study
+
+Cross
+sectional study
+
+
+NR NR t-test
+
+NR Phone interviews Kaplan-Meier plots,
+
+Fisher’s exact test.
+
+( *continued on next page* )
+
+
+n=15 Mean age 62 Partial penectomy or wide local
+
+excisions
+
+n=32 Mean age 55.1 Reconstructive organ-sparing
+surgery (OSS)
+
+
+EORTC-QLQC30* [iv ] IIEF-15 [1 ]
+
+SEAR [xii ] EDITS [xiii]
+
+EQ-5D-3L* [viii ] ICIQMLUTS [xiv ] IIEF-5 [i]
+
+
+HRQOL, sexual
+function, urinary
+
+function
+
+QOL, urinary
+symptoms, sexual
+
+function
+
+**Table 2** ( *continued* )
+
+
+Author(s), Year
+of publication,
+Country
+
+Croghan et.al
+2021,
+
+Ireland
+
+Blinded for
+
+review et.al
+
+2021,
+
+Finland
+
+Branney et.al
+2022, UK
+
+Jakobsen et.al
+
+2022,
+
+Denmark
+
+Warli et.al
+
+2023,
+
+Indonesia
+
+Firmansyah et.
+al 2023,
+
+Indonesia
+
+Jovanovi´c et. al
+
+2023,
+
+Serbia
+
+
+Objective of the study Study design Number of participants, Age Surgical treatment Data collection Outcomes Recall Conditions of Analysis
+(mean) instruments period administration
+
+
+To assess patient-reported
+
+outcomes
+
+To report treatment-related
+HRQoL changes and the
+specific deficits that have the
+most profound effect, and to
+identify patient-related
+factors that predispose to a
+worse perceived HRQoL.
+
+To assess the feasibility of the
+
+MGSIS-5xviii and the G3L
+20xix for measuring quality of
+
+life.
+
+To assess prevalence of
+voiding, sexual symptoms and
+quality of life
+
+To assess survival and quality
+
+of life
+
+To assess health-related
+
+quality of life
+
+Evaluate PC patients’ posttreatment quality of life
+(QoL), sexual activity, selfesteem, fatigue and fear of
+
+disease recurrence
+
+
+Mann-Whitney U
+test, mean score
+
+Mann-Whitney Utest, Kruskal-Wallis,
+
+Spearman
+
+Descriptive statistics
+
+ANOVA,
+
+nonparametric tests
+(not reported)
+
+Mean values Kaplan
+Meier
+
+
+NR Self-administered
+
+mailed questionnaires
+
+NR Self administered
+
+mailed questionnaires
+
+NR Self administered
+
+mailed questionnaires
+
+NR Self-administered
+
+during the clinic visit
+
+or self-administered
+
+mailed questionnaire
+
+
+Cross
+sectional study
+
+Cross
+sectional study
+
+Cross
+sectional study
+
+Cross
+sectional study
+
+
+n=35 Mean age 61 Partial glansectomy, radical
+glansectomy with neo glans
+formation, or partial
+penectomy-with reconstruction
+
+n=68 Mean age 70 Penile resection or penectomy
+or minor surgery
+
+
+n=22 no demographic
+
+information was collected
+
+Group 1 (at diagnosis)
+n=51, mean age 70.3 Group
+2 (1 year after diagnosis)
+n=69, mean age 67.2 Group
+3 (2 years after diagnosis)
+n=37, mean age 66.4
+
+
+Sentinel node biopsy only or
+inguinal node dissection only or
+inguinal node dissection with
+postoperative pelvic
+radiotherapy with or without
+chemotherapy
+
+Local resection and/or laser,
+partial penectomy, total
+
+penectomy
+
+Histologically confirmed penile
+cancer with bulky lymph nodes
+
+
+EORTC QLQ-C30* [iv ]
+
+IMGI [vi ] IIEF-5 [i]
+
+15D [*,xv ] RSES [v ]
+
+OSFQ [xvi ] EHS [xvii]
+
+EORTC QLC-C30* [iv ]
+
+IIEF-5 [i ] MGSIS-5 [xviii ]
+
+G3L-20 [xix ]
+
+mLGUCQ [xviii]
+
+Unnamed studyspecific
+questionnaire*
+
+
+EORTC QLQ-C30* [iv] QOL NR Interviews by mail or
+phone or selfadministered during
+
+clinic visits
+
+
+QOL, urinary,
+
+erectile and
+
+sensory function,
+perceived genital
+
+appearance
+
+HRQOL, selfesteem, overall
+sexual functioning,
+erections, change
+
+in sexual function
+
+QOL, genital body
+image, sexual
+function,
+lymphedema
+
+QOL, voiding and
+
+sexual function
+
+
+Cohort study n=20 Mean age (early
+resection) 42.2. Mean age
+(Neoadjuvant
+chemotherapy) 44.2
+
+
+Single-Center
+
+Cross
+sectional
+
+study.
+
+Cross
+sectional study
+
+
+n=9 Mean age 54.44 Partial penectomy, total
+
+penectomy
+
+n=31 Mean age 66.9 Histopathologically confirmed
+diagnosis of penile cancer
+
+
+EORTC QLQ-C30* [iv] QOL NR NR Descriptive statistics
+
+
+EORTC QLQ-C30* [iv ]
+
+IIEF-15 [i ] RSES [v ]
+
+HADS [xx ] MFI [xxi ]
+
+FCRI [xxii]
+
+
+Descriptive statistics,
+
+Pearson and
+
+Spearman,
+
+hierarchical linear
+
+regression analysis
+
+
+QOL, sexual
+activity, selfesteem, fatigue and
+
+fear of disease
+
+recurrence
+
+
+NR Questionnaires filled
+during routine
+outpatient visit
+
+Abbreviations:
+
+- Instrument used for Quality-of-Life assessment
+NR=not reported
+i The International Index of Erectile Function Questionnaire
+ii 36-Item Short Form Health Survey*
+iii Impact of Cancer Version 2*
+iv European Organisations for Research and the Treatment of Cancer Quality of Life Questionnaire*
+v Rosenberg Self-Esteem Scale
+vi Conformity to Masculine Norms Inventory
+vii International Prostate Symptom Score
+viii EuroQol 5-dimension three-level questionnaire*
+ix International Continence Society male Short form questionnaire + Peelings voiding picture
+x Index of Male Genitalia Image
+xi Quality of life Questionnaire Penile Cancer Rostock*
+xii Self-esteem and Relationship Questionnaire
+xiii Erectile Dysfunction Inventory of Treatment Satisfaction Questionnaire
+xiv International Consultation on Incontinence Modular Questionnaire for Male Lower Urinary Tract Symptoms
+xv 15 Dimensions of Health Related Quality of Life*
+xvi Overall Sexual Functioning Questionnaire
+xvii Erection Hardness Score
+xviii Male Genital Self-Image Scale
+xix Groin and Lower Limb Lymphedema questionnaire
+xx Hospital Anxiety and Depression scale
+xxi Multidimensional Fatigue Inventory
+xxiixxii Fear of Cancer Recurrence Inventory
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+**Table 3**
+
+Instruments used to assess penile cancer patients’ quality of life.
+
+**Generic instruments**
+
+
+**Name of the**
+
+**Instrument**
+
+Bigelow-Young Quality
+
+of life
+
+questionnaire
+
+36-Item Short Form
+
+Health Survey (SF36)
+
+EuroQol 5-dimension
+
+three-level
+
+questionnaire (EQ5D- 3 L)
+
+15 Dimensions of
+
+Health Related
+
+Quality of Life
+(15D)
+
+
+**Reference** **Domains** **Items** **Scale** **Validity / Reliability**
+
+
+Gulino et.al
+
+2013
+
+Kieffer et.al
+
+2014
+
+Suarez-Ibarolla
+
+et. al 2018
+
+Gambachidze
+
+et.al 2018
+
+Perez et.al
+
+2020
+
+Blinded for
+
+review et.al
+
+2021
+
+
+1. Physical condition of
+home (6 items)
+
+2. Total satisfaction in
+
+home (4 items)
+3. Responsibility for self
+& home (6 items)
+
+4. Self and home
+
+maintenance (3
+
+items)
+5. Employment success
+(4 items)
+6. Meaningful use of
+time (3 items)
+7. Psychiatric distress (3
+items)
+8. Psychological Wellbeing (5 items)
+9. Interpersonal
+relations (5 items)
+
+I Physical component
+summary score (content
+NR)II Mental component
+summary score (content
+NR)
+1. physical functioning
+2. role-physical
+
+3. role-emotional
+
+4. bodily pain
+5. social functioning
+
+6. mental health
+
+7. vitality
+8. general health.
+
+Aspect of health (part I)
+
+and The Overall Health
+
+Status (part II)
+
+
+No separate domains 1. Mobility
+
+2. Vision
+
+3. Hearing
+4. Breathing
+5. Sleeping
+6. Eating
+7. Speech
+
+8. Excretion
+
+9. Usual activities
+
+10. Mental function
+
+11. Discomfort and
+
+symptoms
+12. Depression
+
+13. Distress
+
+14. Vitality
+15. Sexual activity
+
+
+38 NR Reported good face
+validity and reported to
+be sensitive / Reliability
+
+NR
+
+
+Part I:
+
+1. Mobility
+
+2. Self-care
+
+3. Usual activities
+
+4. Pain or discomfort
+
+5. Anxiety and depression
+
+Part II: The Overall Health
+
+Status
+
+
+36 0-100
+
+All items linearly
+
+converted to a 0 to 100
+
+scale, higher scores
+representing better
+functioning.
+
+
+NR
+
+Validated in previous
+studies/ Reliability NR
+
+Validated in previous
+studies / Reliability NR
+
+
+Part I: Level 1 indicating
+no problems, Level 2
+some problems, Level 3
+extreme problems.
+
+Part II: Visual Analog
+Scale (EQ-VAS score) 0
+100
+
+(0= the worst Health
+imaginable –100= the
+best heath imaginable)
+
+0-5
+
+Higher score indicates a
+higher HRQoL.
+
+
+**Cancer specific instruments**
+**Name of the**
+
+**Instrument**
+
+
+**Reference** **Domains** **Items** **Scale** **Validity / Reliability**
+
+
+Impact of Cancer
+Version 2 (IOC)
+
+
+Kieffer et.al
+
+2014
+
+
+I domain - Positive
+
+impact (4 items)
+
+II domain - Negative
+
+
+I domain
+
+1. Altruism and empathy
+
+2. Health awareness
+
+3. Meaning of cancer
+
+9
+
+
+In positive impact domain
+a high score represents
+stronger agreement/
+positive response.
+
+
+NR
+
+( *continued on next page* )
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+**Table 3** ( *continued* )
+
+**Generic instruments**
+
+**Name of the** **Reference** **Domains** **Items** **Scale** **Validity / Reliability**
+
+**Instrument**
+
+
+4. Positive self-evaluation
+
+II domain 5. Appearance
+concerns6. Body change
+
+concerns7. Life
+
+interferences8.
+
+WorryAdditional items 9.
+Employment10.
+Relationship concerns
+
+
+In negative impact
+domain a high score
+indicates a more negative
+
+response.
+
+
+impact (4 items)
+
+Additional items (2)
+
+Part I Functional
+
+domains
+
+1. physical
+
+2. role
+
+3. cognitive
+
+4. emotional
+
+5. social
+
+Part II Symptom
+
+domains
+
+1. fatigue
+2. nausea and vomiting
+3. pain
+4. dyspnea
+
+5. insomnia
+
+6. appetite loss
+7. constipation
+
+8. diarrhoea
+9. financial problems
+Part III Global health
+
+status
+
+1. overall health past
+
+week
+
+2. overall quality of life
+past week
+
+
+30 For functional and
+
+symptom domains a fourpoint Likert scale is
+presented (1=never,
+2=sometimes, 3=often
+and 4=very often).
+
+For Global Health Status a
+
+Likert scale (1=very poor
+and 7=excellent).
+
+Higher global health
+status and functioning
+
+scores combined with
+
+lower symptom scores
+represent a better QoL.
+
+
+European
+Organisations for
+
+Research and the
+
+Treatment of
+
+Cancer Quality of
+Life Questionnaire
+(EORTC QLQ C
+30)
+
+
+Sosnowski et.al
+
+2016
+
+Sosnowski et.al
+
+2017
+
+Draeger et.al
+
+2018
+
+Wan et.al 2018
+
+Croghan et.al
+
+2021
+
+Branney et.al
+
+2021
+
+Warli et.al
+
+2023
+
+Firmansyah et.
+
+al 2023
+
+Jovanovic et.al
+
+2023
+
+
+**Penile cancer specific instruments**
+**Name of the** **Reference**
+
+**Instrument**
+
+
+**Reference** **Domains** **Items** **Scale**
+
+
+Unnamed study
+specific
+questionnaire
+
+Quality of life
+Questionnaire
+
+Penile Cancer
+
+Rostock (HRO
+PE29)
+
+NR=not reported.
+
+
+Jakobsen et al.
+
+2022
+
+Draeger et.al
+
+2018
+
+
+1. Introductory
+questions
+2. Quality of life
+3. Dejection and worry
+4. Urinary tract
+
+5. Sex life
+
+6. Health in general
+
+1. Adverse effects of
+
+systemic treatment
+2. Lymphedema
+3. Alopecia
+4. Voiding
+5. Sexual functioning
+6. Sexual pleasure
+
+7. Future prospects
+8. Genital symptoms
+9. Body image
+
+
+19 Introductory questions
+8 Quality of life items
+8 Dejection and worry items
+10 Urinary tract items
+
+21 Sex life items
+
+14 Health in general items
+
+
+29 Four possible answers
+(not at all, least,
+moderate, very).
+
+
+Quality of life (No quality
+of life–The best possible
+quality of life)
+Dejection and worry (No,
+never–Yes, every night)
+Urinary tract
+(Never–Always)
+Sex life (altering answer
+options)
+Health in general
+(No–Yes)
+
+
+Psychometrically tested
+(tests not reported),
+Validated in previous
+
+studies. Validated
+
+translations.
+
+Face validity assessed in
+a pilot study / The
+questionnaire was pilot
+tested by 6 PC patients
+
+Unvalidated /
+
+Reliability NR
+
+
+2023; Warli et al., 2023), Italy (Gulino et al., 2013), the Netherlands (Kieffer et al., 2014), Mexico (Suarez-Ibarrola et al., 2018), France
+(Gambachidze et al., 2018), Germany (Draeger et al., 2018), China (Wan et al., 2018), Colombia (Perez et al., 2020), Ireland (Croghan
+et al., 2021), Finland (Harju et al., 2021), the United Kingdom (Branney et al., 2022), Denmark (Jakobsen et al., 2022), and Serbia
+
+´
+(Jovanovic et al., 2023). The studies were published in medical journals (n=14) and nursing journals (n=2). One study was a
+three-point longitudinal study (Gulino et al., 2013), one was a cohort study (Warli et al., 2023), and the remaining were cross-sectional
+studies.
+
+The studies’ sample sizes ranged from 9 to 76 participants, and the participants’ ages ranged from 42 to 70 years. The penile cancer
+
+10
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+**Table 4**
+
+Content of instruments used to assess penile cancer patients QoL.
+
+Main theme Theme Subtheme Included in instruments
+
+
+**Assessment of physical**
+**functioning**
+
+**Assessment of psychosocial**
+**resilience**
+
+**Assessment of overall life**
+
+**functions**
+
+
+Physical capabilities Physical performance EORTC QLQ C-30 [xxii ]
+
+EQ-5D-3L [xxii ]
+
+SF-36 [xxii ]
+
+15D [xxii]
+
+Physical Abilities EQ-5D-3L [ii ]
+
+15D [iv ]
+
+USQ [xxii ]
+
+HRO-PE29 [xxii]
+
+
+Voiding function EORTC QLQ C-30 [i ]
+
+15D [iv]
+
+Psychological well-being Emotional functioning EORTC QLQ C-30 [i ]
+
+SF-36 [iii ]
+
+15D [iv ]
+
+USQ [v ]
+
+Bigelow-Young QoL
+questionnaire
+Mental burden EQ-5D-3L [ii ]
+
+15D [iv ]
+
+USQ [v ]
+
+IOC
+
+Bigelow-Young QoL
+questionnaire [xxii]
+
+Self-image change USQ [v ]
+
+HRO-PE29 [vi ]
+
+IOC [viii]
+
+Meaningfulness of life SF-36 [iii ]
+
+USQ [v ]
+
+Bigelow-Young QoL
+questionnaire [vii]
+
+Social resources Meaningful relations Bigelow-Young QoL
+questionnaire [vii ]
+
+IOC [viii]
+
+Social functioning EORTC QLQ C-30 [i ]
+
+SF-36 [iii]
+
+Financial and domestic coping Financial changes EORTC QLQ C-30 [i ]
+
+HRO-PE29 [vi ]
+
+Bigelow-Young QoL
+questionnaire [vii ]
+
+IOC [viii]
+
+Satisfaction for home maintenance Bigelow-Young QoL
+questionnaire [vii]
+
+Overall quality of life Long-term QoL EORTC QLQ C-30 [i ]
+
+USQ [v]
+
+Short term QoL EORTC QLQ C-30 [i ]
+
+USQ [v]
+
+Health-related quality of life Assessment of overall health EORTC QLQ C-30 [i ]
+
+EQ-5D- 3L [ii]
+
+Health awareness SF-36 [iii ]
+
+IOC [viii]
+
+
+Secondary effects of penile cancer and its
+
+treatments
+
+
+Pain and discomfort EORTC QLQ C-30 [i ]
+
+EQ-5D-3L [ii ]
+
+SF-36 [iii ]
+
+15D [iv]
+
+
+Adverse symptoms of cancer
+
+treatment
+
+
+EORTC QLQ C-30 [i ]
+
+HRO-PE29 [vi]
+
+
+i Sosnowski et al. 2016, Sosnowski et al. 2017, Draeger et al. 2018, Wan et al. 2018, Croghan et al. 2021, Branney et al. 2022, Warli et al. 2023,
+Firmansyah et al. 2023, Jovanovic et al. 2023.
+ii Gambachidze et al. 2018, Perez et al. 2020.
+iii Kieffer et al. 2014, Suarez-Ibarolla et al. 2018.
+iv Blinded for review et al. 2021.
+
+v Jakobsen et al. 2022.
+vi Draeger et al. 2018.
+vii Gulino et al. 2013.
+viii Kieffer et al. 2014.
+
+11
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+patients received various treatments, most commonly local resection, glansectomy, partial or total penectomy with perineal ure-­
+throstomy, and lymphadenectomy. Additionally, reconstructive surgery was performed in two studies (Kieffer et al., 2014; Perez et al.,
+2020). One study focused on the effects of brachytherapy on the QoL of penile cancer patients (Gambachidze et al., 2018), while
+another examined the connection between sentinel node biopsy, inguinal node dissection, and postoperative pelvic radiotherapy with
+or without chemotherapy, and their impact on the perceived QoL of penile cancer patients (Branney et al., 2022) (Table 2).
+
+*3.2. Instruments used to assess penile cancer patients’ QoL*
+
+Based on the review, eight instruments were identified, of which four were generic, two were cancer-specific, and two were penile
+cancer-specific (Table 3). The instruments were used either individually, combined together, or in conjunction with other instruments
+addressing various symptoms or issues associated with living with cancer (Table 2).
+
+Although the search strategy was designed to identify instruments assessing quality of life (QoL) across the full spectrum of penile
+cancer types and treatment modalities, the available literature predominantly focused on patients undergoing invasive interventions.
+QoL assessments were largely limited to outcomes following partial or total penectomy, with a notable absence of validated in-­
+struments or data addressing patients treated with conservative or non-invasive approaches (Table 3).
+
+None of the included studies reported the recall period of the instruments used (Table 2). The questionnaires were most commonly
+self-administered, either during clinic visits or sent by post (Branney et al., 2022; Croghan et al., 2021; Draeger et al., 2018; Gam-­
+bachidze et al., 2018; Harju et.al 2021; Jakobsen et al., 2022; Sosnowski et al., 2016; 2021; Suarez-Ibarolla et al. 2018). Some studies
+used face-to-face or telephone interviews (Gulino et al., 2013; Perez et al., 2020; Warli et al., 2023). In three studies, the mode of
+administration was not reported (Firmansyah et al., 2023; Kieffer et al., 2014; Wan et al., 2018).
+
+Four generic QoL instruments – Bigelow-Young Quality of Life Questionnaire (Gulino et al., 2013), 36-Item Short Form Health
+Survey (SF-36) (Kieffer et al., 2014 ; Suarez-Ibarolla et al., 2018), EuroQol 5-Dimension Three-Level Questionnaire (EQ-5D-3 L)
+(Gambachidze et al., 2018; Perez et al., 2020), and 15 Dimensions of Health-Related Quality of Life (15D) (Harju et al., 2021) – had
+identifiable common domains, such as the assessment of physical and mental symptoms and functional capacity (Table 3). Generic
+
+–
+instruments, when reported, included 15 38 items evaluating various areas of QoL. Typically, these instruments evaluated both
+physical and mental aspects of life, assessing their realization on a general level, including physical and mental functioning and coping
+with daily life activities (Table 3).
+
+The two cancer-specific instruments – the Impact of Cancer Version 2 (IOC) (Kieffer et al., 2014) and the European Organisation for
+Research and the Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30) (Sosnowski et al., 2016; Sosnowski et al., 2017;
+Draeger et al., 2018; Wan et al., 2018; Croghan et al., 2021; Branney et al., 2021; Warli et al., 2023; Firmansyah et al., 2023; Jovanovic
+et al., 2023) – differed in structure and focus. The IOC assessed both the positive and negative impacts of cancer, as well as the social
+and financial burdens or impacts associated with the disease. In contrast, the EORTC QLQ-C30 was structured into three distinct
+domains: one evaluating comprehensive functional capabilities, another covering a broad range of symptoms, and a third assessing
+global health status (Table 3).
+
+Two instruments were specific to penile cancer. An unnamed, study-specific questionnaire assessed inventory questions, quality of
+life, dejection and worry, urinary tract health, sex life, and general health in penile cancer patients (Jakobsen et al., 2022). Addi-­
+tionally, Draeger et al. (2018) developed the Quality-of-Life Questionnaire for Penile Cancer Rostock (HRO-PE29) in their study, which
+comprised nine domains: adverse effects of systemic treatment, lymphedema, alopecia, voiding, sexual functioning, sexual pleasure,
+future prospects, genital symptoms, and body image (Table 3).
+
+*3.3. The validity and reliability of the instruments*
+
+The validity of the instruments was relatively underreported: only two studies provided descriptions, and three did not report on
+validity at all. When validity was reported, it was mostly limited to face validity or pilot testing. Moreover, for instruments described as
+valid, the validation was reported solely in previous studies. Furthermore, reliability was not adequately reported in any of the studies.
+
+The Bigelow-Young Quality of Life instrument was reported to have good face validity as well as high sensitivity (Gulino et al.,
+2013), and the validity of the EQ-5D-3 L and 15D instruments has been confirmed by previous studies (Gambachidze et al., 2018; Harju
+et al., 2021; Perez et al., 2020). However, the validity of the generic SF-36 instrument was not reported (Kieffer et al., 2014; Suar-­
+ez-Ibarrola et al., 2018) (Table 3).
+
+The cancer-specific EORTC QLQ-C30 was reported to be psychometrically tested and validated in previous studies, and it has
+validated translations in several languages. In contrast, the validity of the IOC instrument was not reported (Table 3).
+
+The face validity of an unnamed study-specific questionnaire was tested in a pilot study with six penile cancer patients, while the
+HRO-PE29 was not tested for validity (Draeger et al., 2018; Jakobsen et al., 2022). In the other studies included in the systematic
+review, the reliability of the instruments was not reported (Table 3).
+
+*3.4. Content of the instruments*
+
+To structure the content analysis of the QoL instruments, three overarching domains were identified based on the content of the
+included studies: (1) physical functioning, (2) psychosocial resilience, and (3) overall life functioning (Table 3).
+
+12
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+*3.4.1. Assessment of physical functioning*
+
+The assessment of physical functioning in the included QoL instruments encompassed two main components: (1) physical capa-­
+bilities and (2) secondary effects of penile cancer and its treatments. These components were identified based on the content of the
+instruments and are detailed in Table 4.
+
+Physical capabilities involved the assessment of physical performance and physical abilities, while physical performance evalua-­
+tion focused on the overall physical functioning of the patient (Sosnowski et al., 2016; Sosnowski et al., 2017; Draeger et al., 2018; Wan
+et al., 2018; Croghan et al., 2021; Branney et al., 2022; Warli et al., 2023; Firmansyah et al., 2023; Jovanovic et al., 2023; Gambachidze
+et al., 2018; Perez et al., 2020; Kieffer et al., 2014; Suarez-Ibarolla et al., 2018; Harju et al., 2021). The instruments evaluated physical
+abilities through self-care (Gambachidze et al., 2018; Perez et al., 2020), physical coping assessment (Jakobsen et al., 2022; Harju
+et al., 2021), and sexual function (Draeger et al., 2018; Harju et al., 2021).
+
+The instruments also identified the secondary effects of penile cancer and its treatments (Table 4). Pain and discomfort experienced
+by penile cancer patients were included in the instruments evaluating QoL (Sosnowski et al., 2016; Sosnowski et al., 2017; Draeger
+et al., 2018; Wan et al., 2018; Croghan et al., 2021; Branney et al., 2022; Warli et al., 2023; Firmansyah et al., 2023; Jovanovic et al.,
+2023; Gambachidze et al., 2018; Perez et al., 2020; Kieffer et al., 2014; Suarez-Ibarolla et al., 2018; Harju et al., 2021). The assessment
+of adverse symptoms of cancer treatments, such as genital symptoms or nausea, was also included (Sosnowski et al., 2016; Sosnowski
+et al., 2017; Draeger et al., 2018; Wan et al., 2018; Croghan et al., 2021; Branney et al., 2022; Warli et al., 2023; Firmansyah et al.,
+2023; Jovanovic et al., 2023; Draeger et al., 2018). Additionally, voiding function was evaluated (Sosnowski et al., 2016; Sosnowski
+et al., 2017; Draeger et al., 2018; Wan et al., 2018; Croghan et al., 2021; Branney et al., 2022; Warli et al., 2023; Firmansyah et al.,
+2023; Jovanovic et al., 2023; Harju et al., 2021).
+
+*3.4.2. Assessing psychosocial resilience*
+
+Psychosocial resilience was defined as a multidimensional construct encompassing psychological well-being, social resources, and
+financial and domestic coping (Table 4).
+
+The evaluation of psychological well-being in the instruments was based on assessing emotional functioning (Sosnowski et al.,
+2016; Sosnowski et al., 2017; Draeger et al., 2018; Wan et al., 2018; Croghan et al., 2021; Branney et al., 2022; Warli et al., 2023;
+Firmansyah et al., 2023; Jovanovic et al., 2023; Kieffer et al., 2014; Suarez-Ibarrola et al., 2018; Harju et al., 2021; Jakobsen et al.,
+2022; Gulino et al., 2013) and mental burden (Gambachidze et al., 2018; Perez et al., 2020; Harju et al., 2021; Jakobsen et al., 2022;
+Kieffer et al., 2014; Gulino et al., 2013). This assessment included the evaluation of perceived self-image change (Jakobsen et al., 2022;
+Draeger et al., 2018; Kieffer et al., 2014) and perceived meaningfulness of life (Kieffer et al., 2014; Suarez-Ibarrola et al., 2018;
+Jakobsen et al., 2022; Gulino et al., 2013).
+
+Social resources included assessment of meaningful relations (Gulino et al., 2013; Kieffer et al., 2014) and social functioning
+(Sosnowski et al., 2016, Sosnowski et al., 2017, Draeger et al., 2018, Wan et al., 2018, Croghan et al., 2021, Branney et al., 2022, Warli
+et al., 2023, Firmansyah et al., 2023, Jovanovic et al., 2023; Kieffer et al., 2014, Suarez-Ibarolla et al., 2018).
+
+The evaluation of financial and domestic coping included financial changes (Sosnowski et al., 2016, Sosnowski et al., 2017, Draeger
+et al., 2018, Wan et al., 2018, Croghan et al., 2021, Branney et al., 2022, Warli et al., 2023, Firmansyah et al., 2023, Jovanovic et al.,
+2023; Draeger et al., 2018; Gulino et al., 2013; Kieffer et al., 2014) and satisfaction regarding home maintenance (Gulino et al., 2013).
+
+*3.4.3. Assessment of overall life functions*
+
+The assessment of overall life functioning in the included QoL instruments focused on two key aspects: (1) overall quality of life and
+(2) health-related quality of life (Table 4).
+
+Overall QoL involved assessing both long- and short-term QoL (Sosnowski et al., 2016; Sosnowski et al., 2017; Draeger et al., 2018;
+Wan et al., 2018; Croghan et al., 2021; Branney et al., 2022; Warli et al., 2023; Firmansyah et al., 2023; Jovanovic et al., 2023;
+Jakobsen et al., 2022), while health-related QoL included the assessment of overall health (Sosnowski et al., 2016; Sosnowski et al.,
+2017; Draeger et al., 2018; Wan et al., 2018; Croghan et al., 2021; Branney et al., 2022; Warli et al., 2023; Firmansyah et al., 2023;
+Jovanovic et al., 2023; Gambachidze et al., 2018; Perez et al., 2020) and health awareness (Kieffer et al., 2014; Suarez-Ibarrola et al.,
+2018).
+
+**4. Discussion**
+
+
+This systematic review examined the content and psychometric properties of instruments used to assess the QoL of penile cancer
+patients. Notably, the literature search revealed very few studies on this topic, underscoring a significant gap in research. The limited
+number of studies identified and included in this review highlights the need for greater attention to the QoL of penile cancer patients.
+
+The findings of this review indicate that existing QoL research in penile cancer has predominantly focused on patients undergoing
+invasive treatments. This emphasis is understandable, given the significant physical, psychological, and sexual consequences asso-­
+ciated with procedures such as partial or total penectomy (Thomas et al., 2021). However, the literature reveals a notable lack of QoL
+Straub
+data concerning patients with superficial disease, who are typically treated with topical therapies or limited surgical excision (
+Hogan et al., 2022). Although these patients may not experience the same degree of physical morbidity, their psychosocial experiences,
+concerns about recurrence, and treatment burden remain clinically relevant. These findings underscore the need for future research to
+include conservatively treated patient populations and to develop or adapt quality of life instruments that reflect the full spectrum of
+disease presentation and management in penile cancer.
+
+Furthermore, eleven out of the 16 identified studies were conducted in Europe. Notably, there were no studies from North America,
+
+13
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+Australia, Oceania, or Africa. Although penile cancer is becoming more common in European countries, its incidence is also rising
+worldwide (rience disruptive physical symptoms and changes in self-image (Fu et al., 2022), which underscores the need for increased global awareness and research. Penile cancer patients expe-­Torn¨ av¨ a et al., 2022¨ ), which can be presumed to be universal among
+men. Therefore, a broader perspective on the QoL of these patients would help in understanding regional differences and how cultural
+contexts affect patient experiences and outcomes, leading to more culturally sensitive care. Additionally, different healthcare systems
+can impact the QoL of patients differently (Paterson et al., 2020), and studies from various regions can help identify best practices and
+areas for improvement in patient care.
+
+To evaluate the QoL among penile cancer patients, this review identified eight QoL instruments with varying contents, of which
+only two were specifically developed for the penile cancer population (Draeger et al., 2018; Jakobsen et al., 2022). The most frequently
+utilized instrument across the studies was the cancer-specific EORTC QLQ-C30, which assesses QoL across multiple life domains but
+does not encompass aspects such as mental burden, life meaningfulness, or changes in self-image. Additionally, the selection of QoL
+instruments in clinical practice should consider the type of treatment (e.g., conservative vs. radical surgery), the phase of care (e.g.,
+diagnosis, treatment, follow-up), and the patient’s physical and psychological status. For example, patients undergoing partial or total
+penectomy may benefit from instruments that emphasize body image, sexual function, and emotional well-being, whereas those
+treated conservatively may require tools that capture anxiety related to recurrence and treatment burden. Tailoring instrument se-­
+lection to the clinical context could enhance the relevance and sensitivity of QoL assessments. Overall, none of the instruments
+provided a comprehensive assessment of the patients’ QoL, potentially leading to an incomplete understanding of their experiences
+and needs. To overcome the limitations in content coverage and comprehensively address the diverse symptoms experienced by penile
+cancer patients, 14 studies in this review employed a combination of instruments. The findings of this review indicate that the current
+QoL metrics are not sufficiently comprehensive for measuring the QoL in this patient group.
+
+While many of the instruments acknowledged the importance of changes in physical functioning, only two mentioned sexual
+function (Draeger et al., 2018; Harju et al., 2021). This limitation is noteworthy, as it restricts their holistic perspective and can result
+in inadequate support related to intimacy and sexual health, which are crucial for the well-being of these patients. Moreover, problems
+with intimacy and sexual activity are among the most significant issues for men diagnosed with penile cancer (Maddineni et al., 2009;
+Paterson et al., 2020; Sakalis et al., 2022). Psychosexual and relational aspects are central to the QoL of penile cancer patients but
+remain insufficiently addressed in existing instruments. Adapting and validating such instruments could be a feasible and efficient
+strategy to address this gap.
+
+Additionally, some of the studies reported QoL instruments that identified psychosocial resilience as part of the QoL concerning
+expressed emotions or mental burden. However, changes in body image or self-esteem and the assessment of meaningful relationships
+or social functioning were rarely included. It is likely that penile cancer treatments affect interpersonal relationships, and the psy-­
+chological impact of disfigurement, particularly the emotional distress it can cause, must not be overlooked (Paster and Chipollini,
+2022). Furthermore, understanding patients’ social resources should include the impact of penile cancer on partners (Paterson et al.,
+2020; Torres Irizarry et al., 2024). Nevertheless, social resources were included in only a few instruments, and the aspect of spousal or
+partner support was not reported in any of the QoL instruments or studies. For a holistic perspective, these factors need to be addressed
+in comprehensive instruments assessing the QoL of penile cancer patients.
+
+The validity and reliability of the instruments included in this review were reported in varying ways, mostly inadequately. The most
+frequently used instrument, the EORTC QLQ-C30, was psychometrically tested and validated in several languages in previous studies.
+Additionally, two instruments were reported to have been validated in prior research (Gambachidze et al., 2018; Harju et al., 2021;
+Perez et al., 2020). However, the psychometric properties of the other instruments were sparsely reported, with only pilot testing
+(Jakobsen et al., 2022) and sensitivity and face validity (Gulino et al., 2013), or lacked validity or reliability reporting at all (Kieffer
+et al., 2014; Suarez-Ibarolla et al., 2018; Draeger et al., 2018). Only three instruments reported sufficient validation – two generic QoL
+instruments and one cancer-specific. However, neither of the penile cancer-specific instruments were psychometrically tested. The need for a validated penile cancer-specific QoL instrument has been identified in prior studies (Maddineni et al., 2009; Torn¨ ¨ava et al., ¨
+2022
+); this observation is further supported by the results of this review, which did not identify any penile cancer-specific instrument
+with comprehensively reported psychometric properties. Neither generic nor cancer-specific instruments account for all aspects of the
+specific needs of penile cancer patients, which is crucial for identifying and addressing their unique needs (Torn¨ av¨ a et al., 2022¨ ; Harju et al., 2023). In rare cancers, where disease-specific QoL tools are lacking, recent literature supports Paster and Chipollini, 2022;
+adapting existing instruments and using mixed-methods approaches to enhance the relevance and depth of assessment (Klassen et al.,
+2012). Though, those approaches are not easy to adapt in clinical practice.
+
+Clinically, the lack of comprehensive and validated QoL instruments tailored to penile cancer patients suggests that healthcare
+professionals may not fully capture the complexity of patients’ experiences. This can lead to gaps in care, particularly in areas such as
+sexual health, body image, and psychosocial support. Integrating more holistic and culturally sensitive assessments into routine care
+could improve patient-centered outcomes and support more individualized treatment planning.
+
+From a research perspective, the results highlight the urgent need to develop and validate penile cancer-specific QoL instruments
+that encompass physical, emotional, social, and sexual dimensions. Future studies should also aim to include more diverse populations
+across different cultural and healthcare contexts to better understand regional variations in QoL. Additionally, longitudinal research is
+needed to explore how QoL evolves over time and how interventions can be tailored to different stages of the disease and recovery.
+Including the perspectives of partners and caregivers in future research could further enhance the understanding of psychosocial
+dynamics and support needs.
+
+14
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+**Strengths and limitationss**
+
+The systematic review design has inherent limitations, as the included studies varied in terms of design, sample size, and meth-­
+odologies, which should have been considered when drawing conclusions to ensure consistency.
+
+Additionally, restricting the review to studies published in certain languages led to excluding some studies. Only peer-reviewed
+studies were selected to ensure the review was based on research of sufficiently high scientific standard, and the quality of the
+studies included in this review was evaluated as good. Multiple databases were utilized, and two authors independently conducted the
+review and performed the quality appraisal to limit reviewer and scoping bias. Due to institutional access constraints, Embase was not
+utilized in the literature search. It is known for its extensive biomedical coverage, and its omission may have resulted in the exclusion
+of some relevant studies. However, there is a substantial overlap between Embase and the other databases used—PubMed, CINAHL,
+PsycINFO, and the Cochrane Library. These databases were selected to ensure broad coverage of biomedical, nursing, psychological,
+and systematic review literature relevant to quality-of-life research in penile cancer.
+
+The systematic review followed the methodology outlined by Bruce et al. (2018), supported by PRISMA guidelines and quality
+assessment tools, minimizing bias in study selection, data extraction, and synthesis, and ensuring rigorous quality assessment and
+reporting. The content analysis of this review was based on the descriptions of the content of the QoL instruments used in the reviewed
+articles. Notably, in some cases, the descriptions of the content, and therefore the material on which the content analysis of the QoL
+instruments was based, may have been insufficiently reported. In future studies, emphasis should be placed on the accuracy of
+reporting instruments and the specificity of their contents.
+
+One limitation of this review is the lack of reported validity and reliability information for most of the QoL instruments used in the
+included studies. This gap restricts the extent to which the review could assess the psychometric soundness of the instruments, which
+was one of its primary aims. While such information is often available from original validation studies or official instrument docu-­
+mentation, these sources were not eligible for inclusion, unless they also assessed QoL in penile cancer patients.
+
+**5. Conclusions**
+
+Few studies have reported on the QoL of penile cancer patients, underscoring the necessity for increased focus on this aspect. The
+concentration of studies in Europe and the absence of research from other regions suggest a need for more geographically diverse
+studies to understand the global impact of penile cancer and its effect on patients’ QoL. Furthermore, the findings of this study
+highlight the critical need for holistic instruments specifically designed to evaluate and enhance the QoL of penile cancer patients. Such
+instruments would ensure that these patients receive comprehensive care and support tailored to their unique needs. By developing
+and validating QoL tools for this specific patient group, healthcare providers can accurately identify and compare individual care needs
+and factors influencing their QoL. These tools would facilitate targeted interventions and enable healthcare providers to offer more
+personalized and effective care, addressing both the physical and psychological aspects of penile cancer.
+
+**Funding sources**
+
+The research was partly funded by Finnish Cancer Foundation, Pirkanmaa Cancer Association and State Research Funding (VTR)
+for healthcare research.
+
+**Data availability**
+
+The following materials are available upon request from the authors: data extracted from included studies, data used for all an-­
+alyses, analytic code.
+
+**CRediT authorship contribution statement**
+
+**Anu Soikkeli-Jalonen:** Writing – review & editing, Writing – original draft, Visualization, Supervision, Investigation, Formal
+
+¨
+analysis. **Suvi Vierela:** Writing – review & editing, Writing – original draft, Visualization, Formal analysis, Data curation, Concep-­
+tualization. **Antti Kaipia:** Writing – review & editing, Supervision, Funding acquisition, Conceptualization. **Eeva Harju:** Writing –
+review & editing, Writing – original draft, Supervision, Investigation, Formal analysis, Conceptualization. **Elina Haavisto:** Writing –
+review & editing, Supervision, Project administration, Investigation, Funding acquisition, Formal analysis, Conceptualization.
+
+**Declaration of competing interest**
+
+None.
+
+**Acknowledgements**
+
+Artificial intelligence (AI) was utilized for preliminary language editing to enhance the clarity and coherence of the text before
+submitting it for official language proofreading. The Microsoft Copilot was employed for this purpose.
+
+15
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+**References**
+
+[Aromataris, E., Pearson, A., 2014. The systematic review: an overview. Am. J. Nurs. 114, 53–58.](http://refhub.elsevier.com/S2666-142X(25)00117-1/sbref0001)
+
+- Branney, P., Walters, E., Bryant, E., Hollhead, C., Njoku, K., Vyas, L., Modica, C., Kayes, O., Eardley, I., Henry, A., 2022. The feasibility of patient reported outcome
+[measures for the care of penile cancer. Int. J. Urol. Nurs. 16, 138–146. https://doi.org/10.1111/ijun.12307.](https://doi.org/10.1111/ijun.12307)
+Brouwer, O.R., Albersen, M., Parnham, A., Protzel, C., Pettaway, C.A., Ayres, B., et al., 2023. European association of urology-American society of clinical oncology
+[collaborative guideline on penile cancer: 2023 update. Eur. Urol 83, 548–560. https://doi.org/10.1016/j.eururo.2023.02.027.](https://doi.org/10.1016/j.eururo.2023.02.027)
+[Bruce, N., Pope, D., Stanistreet, D., 2018. Quantitative Methods for Health Research: A Practical Interactive Guide to Epidemiology and Statistics, 2nd ed. Wiley,](http://refhub.elsevier.com/S2666-142X(25)00117-1/sbref0004)
+[Chichester.](http://refhub.elsevier.com/S2666-142X(25)00117-1/sbref0004)
+
+Bullen, K., Edwards, S., Marke, V., Matthews, S., 2010. Looking past the obvious: experiences of altered masculinity in penile cancer. Psychooncology. 19, 933–940.
+
+[https://doi.org/10.1002/pon.1642.](https://doi.org/10.1002/pon.1642)
+
+- Croghan, S.M., Compton, N., Daniels, A.E., Fitzgibbon, L., Daly, P.J., Cullen, I.M., 2021. Phallus preservation in penile cancer surgery: patient-reported aesthetic &
+[functional outcomes. Urology. 1, 60–66. https://doi.org/10.1016/j.urology.2021.02.011.](https://doi.org/10.1016/j.urology.2021.02.011)
+
+- Draeger, D.L., Sievert, K.-D., Hakenberg, O.W., 2018. Cross-sectional patient-reported outcome measuring of health-related quality of life with establishment of
+[cancer- and treatment-specific functional and symptom scales in patients with penile cancer. Clin. Genitourin. Cancer 16, e1215–e1220. https://doi.org/10.1016/](https://doi.org/10.1016/j.clgc.2018.07.029)
+[Elo, S., Kyngj.clgc.2018.07.029as, H., 2008. The qualitative content analysis process. J. Adv. Nurs. 62, 107¨](https://doi.org/10.1016/j.clgc.2018.07.029) . [–115. https://doi.org/10.1111/j.1365-2648.2007.04569.x.](https://doi.org/10.1111/j.1365-2648.2007.04569.x)
+[Ferlay, J., Laversanne, M., Ervik, M., Lam, F., Colombet, M., Mery, L., et al., 2020. Cancer tomorrow. WHO Glob. Cancer Obs. https://gco.iarc.fr/tomorrow/en](https://gco.iarc.fr/tomorrow/en)
+
+accessed 11 August 2024.
+
+- Firmansyah, F., Prapiska, F.F., Siregar, G.P., Kadar, D.D., Warli, S.M., 2023. Evaluation of health-related quality of life in patients receiving treatment for penile
+[cancer: a single-center cross-sectional study. Asian Pac. J. Cancer Prev. 24, 1367–1371. https://doi.org/10.31557/APJCP.2023.24.4.1367.](https://doi.org/10.31557/APJCP.2023.24.4.1367)
+Fu, L., Tian, T., Yao, K., Chen, X.-F., Luo, G., Gao, Y., et al., 2022. Global pattern and trends in penile cancer incidence: population-based study. JMIR Public Health
+[Surveill. 8, e34874. https://doi.org/10.2196/34874.](https://doi.org/10.2196/34874)
+
+- Gambachidze, D., Lebacle, C., Maroun, P., Escande, A., Bossi, A., et al., 2018. Long-term evaluation of urinary, sexual, and quality of life outcomes after
+[brachytherapy for penile carcinoma. Brachytherapy. 17, 221–226. https://doi.org/10.1016/j.brachy.2017.09.006.](https://doi.org/10.1016/j.brachy.2017.09.006)
+[Grant, M.J., Booth, A., 2009. A typology of reviews: an analysis of 14 review types and associated methodologies. Health Inf. Libr. J. 26, 91–108.](http://refhub.elsevier.com/S2666-142X(25)00117-1/sbref0013)
+
+- Gulino, G., Sasso, F., Palermo, G., D’Onofrio, A., Racioppi, M., et al., 2013. Sexual outcomes after organ potency-sparing surgery and glans reconstruction in patients
+[with penile carcinoma. Indian J. Urol. 29, 119–123. https://doi.org/10.4103/0970-1591.114033.](https://doi.org/10.4103/0970-1591.114033)
+
+- Harju, E., Pakarainen, T., Vasarainen, H., Tornava, M., Helminen, M., Perttila, I., Kaipia, A., 2021. Health-related quality of life, self-esteem and sexual functioning
+Harju, E., Tamong patients operated for penile cancer - a cross-sectional study. J. Sex. Med. 18, 1524orn¨ ¨ava, M., Vasarainen, H., Pakarainen, T., Helminen, M., Perttil¨ a, I., Kaipia, A., 2023. Social support for patients with penile cancer: a mixed-method ¨ [–1531. https://doi.org/10.1016/j.jsxm.2021.06.015.](https://doi.org/10.1016/j.jsxm.2021.06.015)
+[study. Int. J. Urol. Nurs. 17, 129–138. https://doi.org/10.1111/ijun.12354.](https://doi.org/10.1111/ijun.12354)
+
+- Jakobsen, J.K., Sorensen, C.M., Krarup, K.P., Jensen, J.B., 2022. Quality of life, voiding and sexual function of penile cancer patients: DaPeCa-10—a cross-sectional
+
+[* Jovanoviquestionnaire survey. BJUI. Compass. 3, 354´c, D., A´cimovi´c, M., Pejˇci´c, T., Milojevi–´c, B., 362. Cegar, B., et al., 2023. Comprehensive evaluation of quality of life in penile cancer patients following surgical](https://doi.org/10.1002/bco2.159) [ˇ] [https://doi.org/10.1002/bco2.159.](https://doi.org/10.1002/bco2.159)
+[treatment. Healthcare 11, 3091. https://doi.org/10.3390/healthcare11233091.](https://doi.org/10.3390/healthcare11233091)
+
+- Kieffer, J.M., Djajadiningrat, R.S., van Muilekom, E.A.M., Graafland, N.M., et al., 2014. Quality of life for patients treated for penile cancer. J. Urol. 192, 1105–1110.
+
+[https://doi.org/10.1016/j.juro.2014.04.014.](https://doi.org/10.1016/j.juro.2014.04.014)
+Klassen, A.C., Creswell, J., Plano Clark, V.L., Smith, K.C., Meissner, H.I., 2012. Best practices in mixed methods for quality of life research. Qual. Life Res. 21,
+[377–380. https://doi.org/10.1007/s11136-012-0122-x.](https://doi.org/10.1007/s11136-012-0122-x)
+Maddineni, S.B., Lau, M.M., Sangar, V.K., 2009. Identifying the needs of penile cancer sufferers: a systematic review of the quality of life, psychosexual and
+[psychosocial literature in penile cancer. BMC Urol. 1, 8. https://doi.org/10.1186/1471-2490-9-8.](https://doi.org/10.1186/1471-2490-9-8)
+[Moola, S., Munn, Z., Tufanaru, C., Aromataris, E., Sears, K., et al., 2017. Critical Appraisal Checklist for Analytical Cross Sectional Studies. Joanna Briggs Institute.](http://refhub.elsevier.com/S2666-142X(25)00117-1/sbref0022)
+Moola, S., Munn, Z., Tufunaru, C., Aromataris, E., Sears, K., et al., 2024. Systematic reviews of aetiology and risk. In: Aromataris, E., Lockwood, C., Porritt, K., Pilla, B.,
+[Neuville, P., Escoffier, A., Savoie, P.-H., FlJordan, Z. (Eds.), JBI Manual for Evidence Synthesis. JBI. ´echon, A., Branger, N., et al., 2024. French AFU cancer committee guidelines https://doi.org/10.46658/JBIMES-24-06.](https://doi.org/10.46658/JBIMES-24-06) – update 2024–2026: penile cancer. Fr. J. Urol.
+[34, 102736. https://doi.org/10.1016/j.fjurol.2024.102736.](https://doi.org/10.1016/j.fjurol.2024.102736)
+Page, M.J., McKenzie, J.E., Bossuyt, P.M., Boutron, I., Hoffmann, T.C., et al., 2021. The PRISMA 2020 statement: an updated guideline for reporting systematic
+[reviews. BMJ 372, n71. https://doi.org/10.1136/bmj.n71.](https://doi.org/10.1136/bmj.n71)
+Paster, I.C., Chipollini, J., 2022. Importance of addressing the psychosocial impact of penile cancer on patients and their families. Semin. Oncol. Nurs. 38, 151286.
+
+[https://doi.org/10.1016/j.soncn.2022.151286.](https://doi.org/10.1016/j.soncn.2022.151286)
+Paterson, C., Primeau, C., Bowker, M., Jensen, B., MacLennan, S., et al., 2020. What are the unmet supportive care needs of men affected by penile cancer? A
+[systematic review of the empirical evidence. Eur. J. Oncol. Nurs. 48, 101805. https://doi.org/10.1016/j.ejon.2020.101805.](https://doi.org/10.1016/j.ejon.2020.101805)
+
+- Perez, J., Chavarriaga, J., Ortiz, A., Orrego, P., Rueda, S., et al., 2020. Oncological and functional outcomes after organ-sparing plastic reconstructive surgery for
+[penile cancer. Urology. 1, 161–165. https://doi.org/10.1016/j.urology.2020.03.058.](https://doi.org/10.1016/j.urology.2020.03.058)
+[Popay, J., Roberts, H., Sowden, A., Petticrew, M., Arai, L., et al., 2006. Guidance on the Conduct Of Narrative Synthesis in Systematic Reviews: A Product from the](http://refhub.elsevier.com/S2666-142X(25)00117-1/sbref0029)
+[ESRC Methods Programme. Lancaster University.](http://refhub.elsevier.com/S2666-142X(25)00117-1/sbref0029)
+Sakalis, V.I., Campi, R., Barreto, L., Garcia-Perdomo, H.A., Greco, I., et al., 2022. What is the most effective management of the primary tumor in men with invasive
+[penile cancer: a systematic review of the available treatment options and their outcomes. Eur. Urol. Open Sci. 40, 58–94. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.euros.2022.04.002)
+[euros.2022.04.002.](https://doi.org/10.1016/j.euros.2022.04.002)
+
+[Sharpe, L., Curran, L., 2006. Understanding the process of adjustment to illness. Soc. Sci. Med. 62, 1153–1166. https://doi.org/10.1016/j.socscimed.2005.07.010.](https://doi.org/10.1016/j.socscimed.2005.07.010)
+Soikkeli-Jalonen, A., Mishina, K., Virtanen, H., Charalambous, A., Haavisto, E., 2021. Supportive interventions for family members of very seriously ill patients in
+[inpatient care: a systematic review. J. Clin. Nurs. 30 (15-16), 2179–2201. https://doi.org/10.1111/jocn.15725. AugEpub 2021 Mar 9. PMID: 33616267.](https://doi.org/10.1111/jocn.15725)
+
+- Sosnowski, R., Kulpa, M., Kosowicz, M., Wolski, J.K., Kuczkiewicz, O., et al., 2016. Quality of life in penile carcinoma patients – post-total penectomy. Cent Eur. J
+[Urol 69, 204–211. https://doi.org/10.5173/ceju.2016.828.](https://doi.org/10.5173/ceju.2016.828)
+
+- Sosnowski, R., Wolski, J.K., Kulpa, M., Zietalewicz, U., Kosowicz, M., et al., 2017. Assessment of quality of life in patients surgically treated for penile cancer: impact
+[of aggressiveness in surgery. Eur. J. Oncol. Nurs. 1, 1–5. https://doi.org/10.1016/j.ejon.2017.08.011.](https://doi.org/10.1016/j.ejon.2017.08.011)
+Straub Hogan, M.M., Spieker, A.J., Orejudos, M., Gheit, T., Herfs, M., Tommasino, M., Sanchez, D.F., Fernandez-Nestosa, M.J., Pena, M.D.C.R., Gordetsky, J.B.,
+Epstein, J.I., Canete-Portillo, S., Gellert, L.L., Prieto Granada, C.N., Magi-Galluzzi, C., Cubilla, A.L., Giannico, G.A., 2022. Pathological characterization and
+[clinical outcome of penile intraepithelial neoplasia variants: a North American series. Mod. Pathol. 35 (8), 1101–1109. https://doi.org/10.1038/s41379-022-](https://doi.org/10.1038/s41379-022-01020-y)
+[01020-y.](https://doi.org/10.1038/s41379-022-01020-y)
+
+- Suarez-Ibarrola, R., Cortes-Telles, A., Miernik, A., 2018. Health-related quality of life and sexual function in patients treated for penile cancer. Urol. Int. 101,
+[351–357. https://doi.org/10.1159/000491827.](https://doi.org/10.1159/000491827)
+Sung, H., Ferlay, J., Siegel, R.L., Laversanne, M., Soerjomataram, I., Jemal, A., Bray, F., 2021. Global Cancer statistics 2020: GLOBOCAN estimates of incidence and
+Torn¨ mortality worldwide for 36 cancers in 185 countries. CA Cancer J. Clin. 71, 209av¨ [¨a, M., Harju, E., Vasarainen, H., Pakarainen, T., Perttil¨a, I., Kaipia, A., 2022. Men–249. ’s experiences of the impact of penile cancer surgery on their lives: a https://doi.org/10.3322/caac.21660.](https://doi.org/10.3322/caac.21660)
+[qualitative study. Eur. J. Cancer Care (Engl) 31, e13548-n/a. https://doi.org/10.1111/ecc.13548.](https://doi.org/10.1111/ecc.13548)
+Thomas, A., Necchi, A., Muneer, A., Tobias-Machado, M., Tran, A.T.H., Van Rompuy, A.-S., Spiess, P.E., Albersen, M., 2021. Penile cancer. Nat. Rev. Dis. Primers 7 (1).
+
+[https://doi.org/10.1038/s41572-021-00246-5. Article 11.](https://doi.org/10.1038/s41572-021-00246-5)
+
+16
+
+*A. Soikkeli-Jalonen et al.* *International* *Journal* *of* *Nursing* *Studies* *Advances* *9* *(2025)* *100412*
+
+Torres Irizarry, V.M., Paster, I.C., Ogbuji, V., Gomez, D.M., Mccormick, K., Chipollini, J., 2024. Improving quality of life and psychosocial health for penile cancer
+[survivors: a narrative review. Cancers 16, 1309. https://doi.org/10.3390/cancers16071309.](https://doi.org/10.3390/cancers16071309)
+
+- Wan, X., Zheng, D., Liu, C., Xu, H., Xie, M., Zhou, J., Yao, H.-J., Wang, Z., 2018. A comparative study of two types of organ-sparing surgeries for early stage penile
+[cancer: wide local excision vs partial penectomy. Eur. J. Surg. Oncol. 44, 1425–1431. https://doi.org/10.1016/j.ejso.2018.03.021.](https://doi.org/10.1016/j.ejso.2018.03.021)
+
+- Warli, S.M., Ginting, J.T., Sihombing, B., Siregar, G.P., Prapiska, F.F., 2023. A cohort study comparison of early inguinal lymph node dissection and neoadjuvant
+[chemotherapy in penile cancer patient with bulky nodal metastasis: a cohort study. Urol. J. 1. https://doi.org/10.22037/uj.v20i.7448.](https://doi.org/10.22037/uj.v20i.7448)
+Witty, K., Branney, P., Evans, J., Bullen, K., White, A., Eardley, I., 2013. The impact of surgical treatment for penile cancer—patients’ perspectives. Eur. J. Oncol. Nurs.
+[17, 661–667. https://doi.org/10.1016/j.ejon.2013.06.004.](https://doi.org/10.1016/j.ejon.2013.06.004)
+World Health Organization (WHO), 2020. *WHOQOL: Measuring quality of life* [. https://iris.who.int/handle/10665/63482.](https://iris.who.int/handle/10665/63482)
+Zhou, K., Li, X., Li, J., Wang, W., 2010. A randomized controlled trial of psychosocial interventions for breast cancer patients. Health Qual. Life Outcomes. 8, 53.
+
+[https://doi.org/10.1186/1477-7525-8-53.](https://doi.org/10.1186/1477-7525-8-53)
+
+17
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

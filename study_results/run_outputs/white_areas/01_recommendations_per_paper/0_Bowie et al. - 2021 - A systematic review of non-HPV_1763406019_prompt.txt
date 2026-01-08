@@ -1,0 +1,730 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    358
+
+
+Review
+# A systematic review of non-HPV prognostic biomarkers used in penile squamous cell carcinoma
+
+Jessica Bowie [1], Sobha Singh [1], Ciaran O’Hanlon [1], Vishal Shiatis [1], Oliver Brunckhorst [2],
+Asif Muneer [3,4,5], Kamran Ahmed [2,6]
+
+Cite this article as: Bowie J, Singh S, O’Hanlon C, et al. A systematic review of non-HPV prognostic biomarkers used in penile squamous
+cell carcinoma. Turk J Urol. 2021; 47(5): 358-365
+
+ABSTRACT
+
+
+
+The presence of lymph node metastasis is the most important prognostic indicator for patients with penile
+cancer. However, determining if clinically node negative patients may be harbouring lymph node micrometastasis undetected by conventional imaging modalities remains difficult. The aim of this systematic review is
+to provide an overview of biomarkers p53, Ki-67, and SCCAg in predicting lymph node metastasis (LNM)
+and cancer-specific survival (CSS) in penile squamous cell carcinoma (SCC). MEDLINE, EMBASE,
+Cochrane Library, Scopus, and ClinicalTrials.gov were searched from inception until 15 October 2020. Eligible studies were identified by three independent reviewers. Outcome measures included the presence of penile
+LNM and CSS. Extracted data were narratively synthesized with GRADE criteria utilized to evaluate the
+quality of evidence. In total, 999 articles were screened with 20 selected for inclusion. Studies reporting the
+use of p53 to predict LNM and CSS were rated as having the highest quality of evidence using the GRADE
+criteria, and the majority showed a positive association between p53 expression and LNM and CSS. All biomarkers and outcome combinations had at least one study showing a significant effect on predicting the outcome. However, studies were heterogeneous, and many reported nonsignificant effects. Identifying p53
+overexpression may help one to identify patients at higher risks of LNM to be considered for early inguinal
+lymphadenectomy. There is contradictory and unreliable evidence for the prognostic value of Ki-67 and
+SCCAg in penile SCC for LNM and CSS. Larger studies are required with more rigorous methods and reports
+to improve the evidence base.
+
+Keywords: Biomarkers; lymph node excision; lymphatic metastasis; penile neoplasms; prognosis; survival.
+
+
+Introduction
+
+Although penile cancer is a rare male genital
+malignancy, it has significant adverse psychological and functional outcomes in affected
+men. [1] Penile squamous cell carcinoma (SCC)
+is the most common penile malignancy [2] with
+inguinal lymph node metastasis (LNM), one
+of the most important prognostic indicators in
+these patients [3] with a difference of 33% in 5year cancer-specific survival (CSS) between
+patients with node positivity and those
+without. [4]
+
+The detection of metastatic inguinal lymph
+nodes requires surgical resection by inguinal
+
+
+lymphadenectomy to limit the spread of disease. However, up to 25% of cN0 patients can
+still have microscopic LNM, [5] which cannot be
+palpated and are difficult to detect by conventional imaging modalities. [6] A proposed solution to avoid leaving behind lymph nodes with
+micrometastatic disease in this group is to
+offer prophylactic inguinal lymphadenectomy
+to all but the lowest risk groups (patients with
+penile cancer classified as �pT1G2) with cN0
+disease. [7] The inherent problem with this
+approach is the significant overtreatment [8] of
+patients who do not harbor pathological
+lymph nodes which results in unwanted morbidity related to wound breakdown, lymphoceles, and problematic genital and lower limb
+
+## Bowie et al. Biomarkers in penile squamous cell carcinoma 359
+
+
+lymphoedema. [9] Therefore, there is a need to identify other biomarkers which could be used to risk stratify patients and avoid
+overtreatment of patients who would ultimately not benefit
+from an inguinal lymphadenectomy due to the absence of
+
+micrometastatic disease.
+
+A number of tumor markers have been assessed as possible
+prognostic indicators in penile cancer. The molecular pathogenesis of penile cancer can be attributed to both HPV-mediated
+and non-HPV-mediated pathways. The HPV-mediated pathway
+occurs due to persistent epithelial infection with HPV, leading
+to integration of HPV DNA into the host cell genome, and subsequent malignant transformation due to the overexpression of
+viral oncoproteins E6 and E7. The mechanism behind non-HPV
+mediated penile SCC is less well understood, but it is thought to
+be related to chronic inflammation, somatic genetic alterations,
+and mutations of proteins such as p53, genomic copy number
+variations, and aberrant microRNA expression. [10] Human papilloma virus (HPV) infection is thought to be present in 30-50%
+of penile cancer patients, [11] and its use as a biomarker, along
+with its surrogate biomarker, P16INK4A, has been extensively
+studied in previous research. [12–14] However, other lesser
+researched biomarkers are available, including p53, Ki-67, and
+squamous cell carcinoma antigen (SCCAg). [15] Each of these
+proteins act at different stages of the cell cycle. p53 is a tumor
+suppressor protein that can be silenced in normal cells by HPV
+infection, leading to disordered cell growth and malignant
+transformation. [16] Ki-67 is a protein associated exclusively with
+cell proliferation, present at all stages of the cell cycle except
+G0 (resting cells), and higher concentrations of ki-67 positive
+cells has been correlated with poorer survival and tumor recurrence. [17] SCCAg is a subfraction of TA-4, a tumor associated
+antigen, and has been correlated with lymph node involvement
+and response to treatment in cervical cancer. [18]
+
+While current research suggests that high expressions of these
+in penile cancer patients may be associated with, and predict
+LNM and a poorer CSS, conflicting results are currently available about their prognostic value. [15,19] An improved under
+
+standing of this could help with clinical decision making as
+increased expression and detection of these biomarkers in the
+primary lesion may indicate a need for more aggressive intervention such as inguinal lymphadenectomy. Therefore, this
+systematic review aims to evaluate the value of p53, Ki-67,
+and SCCAg biomarker expression in predicting LNM and CSS.
+
+Method
+
+This systematic review was performed following PRISMA
+guidelines [20] although a meta-analysis was unable to be performed due to large amount of heterogeneity in reporting of
+
+results and limited statistical data. This review also follows the
+
+Synthesis Without Meta-analysis (SWiM) reporting guidelines. [21] This review has been prospectively registered on
+PROSPERO [22] (CRD42020165625).
+
+Study Eligibility Criteria
+Eligible articles were peer-reviewed original studies investigating human adult males diagnosed with histologically confirmed
+penile SCC. The minimum sample size required was at least
+ten unique tissue samples/patients. Study types included were
+
+observational cohort or case-cohort studies. All studies had to
+
+identify the presence of p53 and/or Ki-67 and/or SCCAg biomarkers in penile SCC. Furthermore, they also had to statistically analyze (with univariate or multivariate tests resulting in
+a p-value and/or 95% confidence interval) the relationship
+between the expression(s) or overexpression(s) of any of the
+aforementioned biomarkers and LNM and/or CSS in penile
+
+SCC.
+
+Studies that did not identify the expression of any of the
+included biomarkers or which did not statistically analyze the
+relationship between the expression of any included biomarker
+and LNM or CSS in penile SCC specifically were excluded.
+Additionally, animal studies, case studies, letters to editors, literature reviews, conference abstracts, and studies not available
+
+in the English language were excluded.
+
+Information Sources and Search
+
+MEDLINE, EMBASE, and Cochrane library databases were
+searched for all relevant articles from inception until 15 October 2020. The search terms used were prognostic biomarker,
+predictive biomarker, biological marker, marker, squamous
+cell carcinoma antigen, scc ag, scc ag, p53, Ki-67, and Ki67
+with regard to biomarker and penile cancer, penile carcinoma,
+penile neoplasm, penile squamous cell cancer, penile squamous
+cell carcinoma, penile scc, and penis cancer with regard to carcinoma. Gray literature was searched using abstracts via
+Scopus, and ongoing relevant clinical trials were identified
+
+
+
+Turk J Urol 2021; 47(5): 358-365
+## 360 DOI: 10.5152/tud.2021.21199
+
+
+through ClinicalTrials.gov with authors of any potentially relevant trials contacted for any available preliminary data. A ref
+erence review was also conducted on all included studies with
+
+backward and forward citation tracking to identify any other
+pertinent literature.
+
+Study Selection
+All results were screened independently by three individuals
+(JB, SS, and CO’H) who were blinded to each other’s decisions. Results were initially title screened, followed by abstract
+and full paper screening against the eligibility criteria. Any discrepancies were resolved by discussion until a complete consensus was reached. Specific reasons for exclusion were noted
+for all papers eliminated during full paper screening.
+
+Data Collection and Data Items
+
+Data from all included studies were extracted by two individuals (JB, SS) onto a predefined extraction datasheet. Data collected for study characteristics included authors, year, study
+design, sample size, age of participants, and length of followup. Data on outcome measures were collected, including
+biomarkers investigated, method of biomarker expression,
+cutoffs to define expression and overexpression, statistical
+method used, number of patients with LNM, CSS at time
+points dependent on paper, and univariate and multivariate
+analysis of the relationship between biomarker expression and
+
+outcomes.
+
+Data were extracted for the entire relevant population, ie, all
+penile SCC patients studied in each article. Subgroup data for
+this population were not extracted. As meta-analysis was not
+possible due to heterogeneity between studies and lack of
+effect estimates in many studies, data synthesis was conducted
+through vote counting based on the direction of effect to determine effect sizes, following the SWiM reporting guidelines. [21] .
+
+Risk of Bias Assessment
+
+The Newcastle-Ottawa Quality Assessment Scale for Cohort
+Studies [23] was used to evaluate risk of bias in each included
+
+study. A risk of bias assessment was performed by two individuals (JB, SS) using a semiquantitative approach. Studies were
+given stars across the three domains of selection, comparability, and outcome/exposure, and then given an AHRQ standard
+rating of good, fair, or poor. Due to the paucity of studies available, studies with a poor AHRQ standard rating were included
+
+in this review. Risk of bias across studies was also evaluated
+
+using the Grading of Recommendations Assessment, Development and Evaluation approach GRADE [24] approach for assessment of evidence about prognosis on an individual outcome
+level (LNM and CSS) for each biomarker. This was further
+
+
+used to produce GRADE evidence profile tables for the use of
+
+each biomarker.
+
+Results
+
+Study Selection
+A total of 999 articles were identified for screening through
+database searching, in which 758 records were eliminated by
+removal of duplicates and title and abstract screening. Finally,
+23 full-text articles were assessed for eligibility, and 20 were
+selected for inclusion [Figure 1].
+
+Study Characteristics
+A total of 1,534 histologically confirmed penile SCC patients
+were investigated across all included studies [14,25–43] between
+2002 and 2019. Three were prospective cohort studies, [30,31,42]
+
+while 17 were retrospective cohort studies. [14,25–29,32–41,43]
+
+Ten studies investigated p53 expression, eight investigated Ki67 expression, and five investigated SCCAg expression as
+exposures. Sixteen studies investigated LNM and 12 CSS as
+outcome measures. Median follow-up ranged between 20 and
+
+108 months. An overview of the included studies’ characteris
+tics is provided in supplementary table 1.
+
+p53 Expression
+Pathological Lymph Node Metastasis
+Six studies [14,34–36,42,43] investigated the relationship between
+increased p53 expression and LNM in 1,534 penile SCC
+patients who had undergone surgery (supplementary table 2).
+All studies considered that lymph node metastasis can spread
+to any pelvic or inguinal lymph node.
+
+All were retrospective cohort studies that used immunohistochemical staining to visualize p53 expression in primary penile
+tumor tissue samples under light microscopy. Four studies used
+the same anti-p53 monoclonal antibody for staining. Cutoffs
+used to define increased p53 expression were similar for the
+four studies [34,35,42,43] in which all used a threshold of 20% positively stained nuclei to determine increased p53 expression.
+Other studies used cutoffs >10% positive staining [36] and a scoring system synthesizing extent and strength of staining. [14]
+
+Through vote counting, 100% of studies showed evidence of
+an effect of p53 on LNM. The majority of studies reported a
+positive association at some level between increased p53
+expression and LNM with four studies reporting a statistically
+significant relationship between the two [34–36,43] with relative
+risks ranging from 1.04 to 266.4. Zargar-Shostari [14] found a
+positive association between positive p53 status and LNM (OR
+
+## Bowie et al. Biomarkers in penile squamous cell carcinoma 361
+
+Figure 1. PRISMA flow chart illustrating article selection.
+
+
+4.4; 95% CI 1.04-18.6) but only in patients who were also p-16
+negative, while in the multivariate analysis carried out by Zhu
+et al., [42] the relationship between p53 expression and LNM was
+not significant, despite a significant relationship in their previous study findings. [43]
+
+Cancer-Specific Survival
+Eight studies, [14,26,27,29,35,36,38,43] which included 485 penile
+SCC patients, investigated the relationship between increased
+p53 expression and CSS (supplementary table 2). All were retrospective cohort studies that used immunohistochemical staining to visualize p53 expression in malignant tissue samples
+under light microscopy. Different thresholds were used to categorize p53 positivity, ranging from >5% staining used by
+Bethune et al. [26] to >60% staining used by Prapiska et al. [38]
+
+Through vote counting, 75% of studies showed evidence of an
+association between p53 expression and CSS. Six studies
+reported a significant relationship between p53 expression and
+CSS [27,29,35,36,38,43] with the association being shown on both
+univariate and multivariate analysis and the hazard ratios
+increased with increased p53 expression ranging from 3.20
+
+
+(95% CI 1.05-9.76) [29] to 15.28. [27] Two studies showed no significant relationship between p53 and CSS. [14,26]
+
+Ki-67 Expression
+Pathological Lymph Node Metastasis
+Seven studies, [25,28,32,37,39,40,43] which included 630 patients,
+investigated the relationship between increased Ki-67 expression and LNM in penile SCC patients who had received surgical treatment (supplementary table 3). All were retrospective
+cohort studies that used immunohistochemical staining to visualize Ki-67 expression in primary penile tumor tissue samples
+under light microscopy. Thresholds used to categorize Ki-67
+expression varied greatly: studies either used a staining threshold above which defined positivity for Ki-67, [25,28,32,40,43] while
+others classed samples into groups based on percentage of positively stained nuclei [39] or depth of staining. [37]
+
+Through vote counting, 71% of studies showed evidence of an
+association between Ki-67 expression and LNM. Four studies
+showed a significant positive relationship between high Ki-67
+expression and LNM [25,28,37,39] with only Guimares et al. [28] calculating a risk ratio that was 3.73 (95% CI 1.4-9.7), while other
+studies calculated the difference in percentage of patients with
+LNM whose samples were either positive or negative for Ki
+## 362
+
+
+67. Three studies showed no significant relationship between
+elevated Ki-67 and LNM. [32,40,43] Guimares et al. [28] was the only
+study to report a statistically significant relationship between
+increased Ki-67 and LNM on multivariate analysis.
+
+Cancer-Specific Survival
+Seven studies [26,28,32,37,39,40,43] investigated the relationship
+between increased Ki-67 expression and CSS in 629 penile
+SCC patients (supplementary table 3). All were retrospective
+cohort studies that used immunohistochemical staining to visualize Ki-67 expression in malignant tissue samples under light
+microscopy. Different thresholds were used to categorize Ki-67
+staining in all the included studies. Most studies [26,28,32,40,43]
+
+used percentages of positively stained nuclei as thresholds for
+increased Ki-67 expression in survival analysis. These ranged
+from >10% [26] to >48.1%. [32] May et al. [37] organized tissues into
+three categories based on the depth of staining.
+
+Through vote counting, 57% of studies showed evidence of an
+association between Ki-67 expression and CSS. Three studies
+reported a significant positive association between high Ki-67
+expression and poorer CSS. [37,39,43] May et al. [37] performed both
+univariate and multivariate analyses, and only reported
+significance on the univariate analysis (P ¼ .047), while
+Protzel et al. [39] also reported a significant relationship on univariate analysis (log rank test ¼ .0098). All other studies
+reported no statistically significant relationship between Ki-67
+and poorer CSS on both univariate [26,28,32,40] and multivariate [28,43] analyses.
+
+Squamous Cell Carcinoma Antigen Expression
+Pathological Lymph Node Metastasis
+Five studies [30,31,33,34,41] investigated the relationship between
+increased SCCAg expression and LNM in 382 penile SCC
+patients who had undergone surgical treatment (supplementary
+table 4). Two were prospective cohort studies, [30,31] whereas the
+other three [33,34,41] were retrospective cohort studies. SCCAg
+was measured in the sera of penile SCC patients using a variety
+of methods. Cutoffs used for increased expression were
+>1400 ng L [–1] by Li et al., [33] >1500 ng L [–1] in three studies [31,34,41] and >2000 ng L [–1] by Hungerhuber et al. [30] SCCAg
+measurements taken Pre-treatment SCCAg levels were
+included for statistical analysis in two studies, [33,41] while posttreatment SCCAg levels were included for statistical analysis
+in one study. [31] Two studies did not specify the timing of the
+SCCAg measurements used. [30,34]
+
+Through vote counting, 100% of studies showed evidence of
+an association between SCCAg expression and LNM. Only
+Zhu et al. [41] reported a statistically significant positive relationship between increased SCCAg levels and LNM on univariate
+
+
+Turk J Urol 2021; 47(5): 358-365
+DOI: 10.5152/tud.2021.21199
+
+analysis, finding SCCAg >1500 ng L [–1] had 34.3% sensitivity
+and 89.3% specificity for predicting LNM (P ¼ .05). The four
+other studies [30,31,33,34] found no statistical significance for the
+relationship between increased SCCAg levels and LNM with
+Hungerhuber et al. [30] and Liu et al. [34] showing this lack of association on multivariate analysis.
+
+Cancer-Specific Survival
+Two studies [33,41] investigated the relationship between
+increased SCCAg expression and CSS in 171 penile SCC
+patients who had undergone surgical treatment (supplementary
+table 4). Both were retrospective cohort studies measured pretreatment SCCAg levels in the sera of penile SCC patients with
+Li [33] using a value of >1400 ng L [–1] and Zhu et al. [41]
+
+>1500 ng L [–1] to define increased expression of SCCAg.
+
+Through vote counting, 100% of studies showed evidence of
+an association between SCCAg expression and CSS. Both univariate and multivariate statistical analyses were performed to
+assess the relationship between increased SCCAg expression
+and CSS. Univariate analysis by Li et al. [33] revealed a statistically significant lower 3-year CSS difference of 28% between
+patients with increased SCCAg expression and patients with
+normal SCCAg expression, while multivariate analysis showed
+a statistically insignificant hazard ratio for 3-year CSS with
+increased SCCAg expression (HR 4.564, 95% CI 0.583-35.7,
+P ¼ .148). In comparison, multivariate analysis by Zhu et al. [41]
+
+found that increased SCCAg was an independent prognostic
+factor of disease free survival but only for patients with LNM
+(OR 0.13, 95% CI 0.032-0.55). [41]
+
+Risk of Bias (Quality) Assessment of Articles
+Evaluation of risk of bias across studies was carried out using
+the GRADE approach for prognostic studies. [24] This showed
+the overall quality of evidence for use of p53 as a biomarker
+for LNM and CSS to be moderate and high, respectively. For
+the use of SCCAg as a biomarker for LNM, the quality of evidence was rated as being very low, while for CSS, the quality
+rating was moderate. For the use of Ki-67 as a biomarker for
+both LNM and CSS, quality of evidence was also rated as low
+(supplementary tables 5-7).
+
+Individual risk of bias assessment using the NewcastleOttawa Quality Assessment Scale for Cohort Studies [23]
+
+resulted in seven studies [25,27,31,32,38,39,41] receiving an Agency
+for Healthcare Research and Quality (AHRQ) [44] standard
+quality rating of POOR. Reasons for this included not matching exposed and nonexposed individuals for possible confounders such as age, medical history, tumor stage, and tumor
+grade as well as failing to adjust for the potential effects of
+
+## Bowie et al. Biomarkers in penile squamous cell carcinoma 363
+
+
+these confounders in their analysis by using multivariate sta
+tistical tests.
+
+The remainder of the studies received an AHRQ standard quality rating of FAIR. [14,26,28–30,33–37,40,43] The justification behind
+this was that the exposures were always assessed by the authors
+rather than obtained independently from a third-party source or
+secure record. This may lead authors to overstate exposures in
+groups with the outcome of interest and understate exposures
+in groups without the outcome of interest due to publication
+bias. A summary of individual risk of bias assessment is provided in supplementary table 8.
+
+Discussion
+
+LNM is the most important prognostic indicator for penile SCC,
+and the successful identification of biomarkers indicating a
+higher risk of metastasis is essential to avoid unnecessary lymphadenectomy. The identification of biomarkers that also correspond to CSS is also critical to enable better risk-stratification of
+patients who receive a diagnosis. This review identified 20 observational studies reporting on a possible relationship between
+either p53, Ki-67 of SCCAg and one of LNM or CSS.
+
+Four out of the six papers identified showed a significant relationship between p53 overexpression and LNM with calculations of relative risk ranging widely from 1.04 to 266.4. Six out
+of eight total papers showed a significant association between
+p53 overexpression and decreased CSS with hazard ratios ranging from 3.20 to 15.28. Studies of p53 also had the highest proportion of studies favoring the use of this biomarker by vote
+counting. Studies evaluating Ki-67 had the largest number of
+participants at 630 and 629 for the evaluation of LNM and
+CSS, respectively. Out of the seven studies analyzing the relationship between Ki-67 expression and LNM, only four identified a statistically significant relationship, and only one of
+these calculated the risk ratio, simply opposing percentage
+comparisons. Less than half of the studies analyzing the relationship between ki-67 and CSS reported a statistically significant relationship between the two. Finally, studies
+investigating SCCAg had the smallest number of participants
+with 382 total participants in studies of LNM and 171 in the
+two studies of CSS. Only one of five studies identified showed
+a statistically significant relationship between SCCAg expression and LNM, while the relationship between SCCAg and
+CSS was only shown to be statistically significant on multivariate analysis in patients with LNM in one of the two studies.
+
+Combining these findings with the GRADE approach for the
+evaluation of each outcome demonstrated p53 to be the best
+
+
+biomarker currently available with a quality rating of moderate
+and high for predicting LNM and CSS, respectively. Clinically,
+this suggests routine p53 immunohistochemistry of biopsy
+samples may provide a valuable prognostic indicator in penile
+SCC patients and be more reliable than Ki-67 and SCCAg.
+However, prior to widespread clinical use, the multiple limitations of included studies must be considered. First, effect esti
+mates were heterogenous across the studies and outcomes with
+large differences in possible effect estimates. Additionally, the
+majority of studies were retrospective, meaning the most used
+convenience samples, and were therefore subject to selection
+bias. There were also discrepancies in methods, variations in
+thresholds used for each biomarker, and variable timings used
+which all introduced uncertainty. Finally, the differences in the
+outcome measures themselves, such as confining LNM to only
+inguinal lymph nodes, or defining CSS at 3-years versus 5years, all reduce the certainty of the use of these biomarkers on
+a widespread scale.
+
+Further research is required to address the current limitations in
+evidence. The findings of this review suggest that p53 may
+warrant the greatest focus as compared to other biomarkers.
+Future studies should also focus on using a prospective methodology with clinically well-matched cohorts and more consistent definitions of outcomes to further prove any possible
+relationship between the three biomarkers and prognosis. Furthermore, there is a need for a standardized technique of measuring the biomarker being investigated, so that
+methodological discrepancies between studies do not affect
+results. However, what is truly required is that the investigation
+of the use of markers, such as p53, in routine clinical pathways
+for risk stratification of penile SCC patients is, in particularly,
+difficult in managing the subset which are clinically lymph
+node negative. The ultimate evaluation impact that utilizing
+these biomarkers as a stratification tool has on the clinical outcomes of patients remains the final target for future studies.
+
+This is the first review to systematically evaluate the use of
+p53, Ki-67, and SCCAg as biomarkers to predict LNM and
+CSS in penile SCC. We have critically assessed the evidence
+for these outcomes and thereby their potential use as clinical
+markers for evaluating the need for lymphadenectomy in this
+group. However, as with any review, there are limitations. The
+previously mentioned limitations of the evidence base itself is
+important to consider. The heterogeneity in reporting results
+and methods meant that a meta-analysis for this review could
+not be carried out: some studies reported only descriptive statistics, others risk ratios, and others odds ratios with variation
+
+in the amount of these data included in the papers to support
+the results. This unfortunately also means the utility of each
+
+## 364
+
+
+biomarker could not be directly compared, and individual recommendations were made on quality of the evidence of each
+biomarker separately. Furthermore, the use of vote counting
+does not account for papers with insignificant results, which
+are still counted as favoring use of the biomarker. Finally, as
+with any review, there is a possibility of studies missed by this
+review, although we have attempted to minimize this through
+our broad and comprehensive search strategy.
+
+A good basis of evidence exists for the relationship between
+p53 expression and LNM in penile SCC, suggesting that this
+may be a useful adjunct as a predictive marker in this cohort.
+This has the potential to aid decision making difficult to treat
+clinically node negative subgroup for early inguinal lymphadenectomy. There is, however, contradictory and unreliable evidence for the prognostic value of Ki-67 and SCCAg in penile
+SCC both in terms of LNM and CSS. Furthermore, prospective,
+high quality studies with standardized methods and outcomes
+of identifying each biomarker are required to assess their full
+prognostic potential. Additionally, the evaluation of the impact
+of utilizing these markers as a risk stratification tool on clinical
+outcomes is required prior to widespread clinical use.
+
+Informed Consent: N/A.
+
+Peer-review: Externally peer-reviewed.
+
+Author Contributions: Concept - O.B., A.M., K.M.; Supervision 
+O.B.,A.M., K.A.; Resources - O.B.; Data Collection and/or Processing 
+J.B., S.S., C.H., V.S.; Analysis and/or Interpretation - J.B., S.S.;
+
+Investigation - J.B.; Mthodology - J.B., S.S., C.H., V.S.; Writing
+
+Manuscript - J.B., S.S.; Critical Review - J.B., O.B., A.M., K.A..
+
+Acknowledgments: Oliver Brunckhorst and Kamran Ahmed would
+
+like to thank for the research support from the MRC Centre for Trans
+plantation at Kings College London, the National Institute for Health
+
+Research (NIHR), and the King’s Medical Research Trust (KMRT).
+
+Asif Muneer is supported by the NIHR Biomedical Research Centre
+
+University College London Hospital.
+
+Conflicts of Interest: The authors have no conflicts of interest to
+
+declare.
+
+Financial Disclosure: Kamran Ahmed received funding from the
+
+Royal College of Surgeons of England, The Urology Foundation, Mal
+colm Coptcoat Charity and the Pelican Foundation.
+
+References
+
+1. Arya M, Kalsi J, Kelly J, Muneer A. Malignant and premalignant
+[lesions of the penis. BMJ. 2013;346:F1149. [CrossRef]](https://doi.org/10.1136/bmj.f1149)
+2. Bleeker MC, Heideman DA, Snijders PJ, Horenblas S, Dillner J,
+Meijer CJ. Penile cancer: Epidemiology, pathogenesis and pre[vention. World J Urol. 2009;27(2):141-150. [CrossRef]](https://doi.org/10.1007/s00345-008-0302-z)
+
+
+Turk J Urol 2021; 47(5): 358-365
+DOI: 10.5152/tud.2021.21199
+
+3. Wen S, Ren W, Xue B, et al. Prognostic factors in patients with
+penile cancer after surgical management. World J Urol.
+[2018;36(3):435-440. [CrossRef]](https://doi.org/10.1007/s00345-017-2167-5)
+4. Moses KA, Winer A, Sfakianos JP, et al. Contemporary management of penile cancer: Greater than 15 year MSKCC experience.
+Can J Urol. 2014;21(2):7201-7206.
+5. Ornellas AA, Kinchin EW, No´brega BL, Wisnescky A, Koifman
+N, Quirino R. Surgical treatment of invasive squamous cell
+carcinoma of the penis: Brazilian national cancer institute
+long-term experience. J Surg Oncol. 2008;97(6):487-495.
+
+[[CrossRef]](https://doi.org/10.1002/jso.20980)
+6. Schlenker B, Scher B, Tiling R, et al. Detection of inguinal
+lymph node involvement in penile squamous cell carcinoma by
+18F-fluorodeoxyglucose PET/CT: A prospective single-center
+[study. Urol Oncol. 2012;30(1):55-59. [CrossRef]](https://doi.org/10.1016/j.urolonc.2009.10.012)
+7. Protzel C, Alcaraz A, Horenblas S, Pizzocaro G, Zlotta A, Hakenberg OW. Lymphadenectomy in the surgical management of
+[penile cancer. Eur Urol. 2009;55(5):1075-1088. [CrossRef]](https://doi.org/10.1016/j.eururo.2009.02.021)
+8. Rodney S, Feber A, Arya M, Muneer A. Molecular markers in
+[penile cancer. Curr Probl Cancer. 2015;39(3):137-145. [Cross-](https://doi.org/10.1016/j.currproblcancer.2015.03.005)
+[Ref]](https://doi.org/10.1016/j.currproblcancer.2015.03.005)
+9. Bevan-Thomas R, Slaton JW, Pettaway CA. Contemporary morbidity from lymphadenectomy for penile squamous cell carcinoma: The M.D. Anderson cancer center experience. J Urol.
+[2002;167(4):1638-1642. [CrossRef]](https://doi.org/10.1016/S0022-5347(05)65169-5)
+10. Emmanuel A, Nettleton J, Watkin N, Berney DM. The molecular
+pathogenesis of penile carcinoma-current developments and under[standing. Virchows Arch. 2019;475(4):397-405. [CrossRef]](https://doi.org/10.1007/s00428-019-02607-8)
+11. Martins VA, Pinho JD, Teixeira Ju´nior AAL, et al. P16INK4a
+expression in patients with penile cancer. PLoS One.
+[2018;13(10):e0205350. [CrossRef]](https://doi.org/10.1371/journal.pone.0205350)
+12. Yu Y-B, Wang Y-H, Yang X-C, et al. The relationship between
+human papillomavirus and penile cancer over the past decade: A
+systematic review and Meta-analysis. Asian J Androl.
+[2019;21(4):375-380. [CrossRef]](https://doi.org/10.4103/aja.aja_39_19)
+13. Martı´nez-Bailo´n C, Mantilla-Morales A, Me´ndez-Matı´as G, et al.
+Human papillomavirus genotypes and P16INK4A expression in
+squamous penile carcinoma in Mexican patients. BMC Infect Dis.
+[2019;19(1):1068. [CrossRef]](https://doi.org/10.1186/s12879-019-4696-6)
+14. Zargar-Shoshtari K, Spiess PE, Berglund AE, et al. Clinical significance of p53 and p16ink4a status in a contemporary North
+American penile carcinoma cohort. Clin Genitourinary Cancer.
+[2016;14(4):346-351. [CrossRef]](https://doi.org/10.1016/j.clgc.2015.12.019)
+15. Zargar-Shoshtari K, Sharma P, Spiess PE. Insight into novel
+biomarkers in penile cancer: Redefining the present and future
+[treatment paradigm? Urol Oncol. 2018;36(10):433-439. [Cross-](https://doi.org/10.1016/j.urolonc.2017.10.010)
+[Ref]](https://doi.org/10.1016/j.urolonc.2017.10.010)
+16. Mammas IN, Sourvinos G, Giannoudis A, Spandidos DA. Human
+papilloma virus (HPV) and host cellular interactions. Pathol
+[Oncol Res. 2008;14(4):345-354. [CrossRef]](https://doi.org/10.1007/s12253-008-9056-6)
+17. Scholzen T, Gerdes J. The Ki-67 protein: From the known and
+[the unknown. J Cell Physiol. 2000;182(3):311-322. [CrossRef]](https://doi.org/10.1002/(SICI)1097-4652(200003)182:3&lt;311::AID-JCP1&gt;3.0.CO;2-9)
+18. Williams M, Swampillai A, Osborne M, et al. Squamous cell carcinoma antigen: A potentially useful prognostic marker in squamous cell carcinoma of the anal canal and margin. Cancer.
+[2013;119(13):2391-2398. [CrossRef]](https://doi.org/10.1002/cncr.28055)
+19. Vuichoud C, Klap J, Loughlin KR. The emerging role and promise of biomarkers in penile cancer. Urol Clin North Am.
+[2016;43(1):135-143. [CrossRef]](https://doi.org/10.1016/j.ucl.2015.08.012)
+20. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020
+statement: An updated guideline for reporting systematic reviews.
+[BMJ. 2021;372:N71. [CrossRef]](https://doi.org/10.1136/bmj.n71)
+21. Campbell M, McKenzie JE, Sowden A, et al. Synthesis without
+meta-analysis (SWiM) in systematic reviews: Reporting guide[line. BMJ. 2020;368:L6890. [CrossRef]](https://doi.org/10.1136/bmj.l6890)
+
+## Bowie et al. Biomarkers in penile squamous cell carcinoma 365
+
+
+22. Booth A, Clarke M, Dooley G, et al. The nuts and bolts of PROSPERO: An international prospective register of systematic
+[reviews. Syst Rev. 2012;1(1):2. [CrossRef]](https://doi.org/10.1186/2046-4053-1-2)
+23. Wells G, Shea B, O’Connell D, et al. The Newcastle–Ottawa
+Scale (NOS) for Assessing the Quality of Non-Randomized Studies in Meta-Analysis. Our Research; 2000.
+24. Iorio A, Spencer F, Falavigna M, et al. Use of GRADE for assessment of evidence about prognosis: Rating confidence in estimates
+of event rates in broad categories of patients. BMJ.
+[2015;350:H870. [CrossRef]](https://doi.org/10.1136/bmj.h870)
+25. Berdjis N, Meye A, Nippgen J, et al. Expression of Ki-67 in squamous cell carcinoma of the penis. BJU Int. 2005;96(1):146-148.
+
+[[CrossRef]](https://doi.org/10.1111/j.1464-410X.2005.05584.x)
+26. Bethune G, Campbell J, Rocker A, Bell D, Rendon R, Merrimen
+J. Clinical and pathologic factors of prognostic significance in
+penile squamous cell carcinoma in a North American population.
+[Urology. 2012;79(5):1092-1097. [CrossRef]](https://doi.org/10.1016/j.urology.2011.12.048)
+27. Gil AO, Pompeo ACL, Sarkis AS, Matsuo M, Da Motta THBV,
+Arap S. Evaluation of the influence of protein p53 in penile carcinoma. Int Braz J Urol. 2002;28(1):33-39.
+28. Guimaraes GC, de Oliveira Leal ML, Sousa Madeira Campos R,
+et al. Do proliferating cell nuclear antigen and MIB-1/Ki-67 have
+prognostic value in penile squamous cell carcinoma? Urology.
+[2007;70(1):137-142. [CrossRef]](https://doi.org/10.1016/j.urology.2007.03.003)
+29. Gunia S, Kakies C, Erbersdobler A, Hakenberg OW, Koch S,
+May M. Expression of p53, p21 and cyclin D1 in penile cancer:
+p53 predicts poor prognosis. J Clin Pathol. 2012;65(3):232-236.
+
+[[CrossRef]](https://doi.org/10.1136/jclinpath-2011-200429)
+30. Hungerhuber E, Schlenker B, Schneede P, Stief CG, Karl A.
+Squamous cell carcinoma antigen correlates with tumor burden
+but lacks prognostic potential for occult lymph node metastases
+[in penile cancer. Urology. 2007;70(5):975-979. [CrossRef]](https://doi.org/10.1016/j.urology.2007.07.013)
+31. Laniado ME, Lowdell C, Mitchell H, Christmas TJ. Squamous
+cell carcinoma antigen: A role in the early identification of nodal
+metastases in men with squamous cell carcinoma of the penis.
+[BJU Int. 2003;92(3):248-250. [CrossRef]](https://doi.org/10.1046/j.1464-410X.2003.04315.x)
+32. Li D, Han Z, Liu J, et al. Upregulation of nucleus HDGF predicts
+poor prognostic outcome in patients with penile squamous cell
+carcinoma bypass VEGF-A and Ki-67. Med Oncol.
+[2013;30(4):702. [CrossRef]](https://doi.org/10.1007/s12032-013-0702-9)
+33. Li ZS, Yao K, Li YH, et al. Clinical significance of preoperative
+C-reactive protein and squamous cell carcinoma antigen levels in
+patients with penile squamous cell carcinoma. BJU Int.
+[2016;118(2):272-278. [CrossRef]](https://doi.org/10.1111/bju.13379)
+
+
+34. Liu JY, Li YH, Zhang ZL, Yao K, et al. The risk factors for the
+presence of pelvic lymph node metastasis in penile squamous cell
+carcinoma patients with inguinal lymph node dissection. World J
+[Urol. 2013;31(6):1519-1524. [CrossRef]](https://doi.org/10.1007/s00345-013-1024-4)
+35. Lopes A, Bezerra ALR, Antonio C, et al. p53 as a new prognostic
+factor for lymph node metastasis in penile carcinoma: Analysis of
+82 patients treated with amputation and bilateral lymphadenec[tomy. J Urol. 2002;168(1):81-86. [CrossRef]](https://doi.org/10.1016/S0022-5347(05)64836-7)
+36. Martins ACP, Faria SM, Cologna AJ, Suaid HJ, Tucci Jr S.
+Immunoexpression of p53 protein and proliferating cell nuclear
+[antigen in penile carcinoma. J Urol. 2002;167(1):89-92. [Cross-](https://doi.org/10.1016/S0022-5347(05)65389-X)
+[Ref]](https://doi.org/10.1016/S0022-5347(05)65389-X)
+37. May M, Burger M, Otto W, et al. Ki-67, mini-chromosome maintenance 2 protein (MCM2) and geminin have no independent
+prognostic relevance for cancer-specific survival in surgically
+treated squamous cell carcinoma of the penis. BJU Int.
+[2013;112(4):E383-E390. [CrossRef]](https://doi.org/10.1111/j.1464-410X.2012.11735.x)
+38. Prapiska FF, Warli SM. P53 and survival rate in penile cancer.
+[Open Access Maced J Med Sci. 2019;7(7):1170-1173. [Cross-](https://doi.org/10.3889/oamjms.2019.219)
+[Ref]](https://doi.org/10.3889/oamjms.2019.219)
+39. Protzel C, Knoedel J, Zimmermann U, Woenckhaus C, Poetsch
+M, Giebel J. Expression of proliferation marker Ki67 correlates
+to occurrence of metastasis and prognosis, histological subtypes
+and HPV DNA detection in penile carcinomas. Histol Histopa[thol. 2007;22(10-12):1197-1204. [CrossRef]](https://doi.org/10.14670/HH-22.1197)
+40. Stankiewicz E, Ng M, Cuzick J, Mesher D, Watkin N, Lam W,
+et al. The prognostic value of Ki-67 expression in penile squamous cell carcinoma. J Clin Pathol. 2012;65(6):534-537.
+
+[[CrossRef]](https://doi.org/10.1136/jclinpath-2011-200638)
+41. Zhu Y, Ye DW, Yao XD, et al. The value of squamous cell carcinoma antigen in the prognostic evaluation, treatment monitoring
+and followup of patients with penile cancer. J Urol.
+[2008;180(5):2019-2023. [CrossRef]](https://doi.org/10.1016/j.juro.2008.07.040)
+42. Zhu Y, Zhang HL, Yao XD, et al. Development and evaluation of
+a nomogram to predict inguinal lymph node metastasis in patients
+with penile cancer and clinically negative lymph nodes. J Urol.
+[2010;184(2):539-545. [CrossRef]](https://doi.org/10.1016/j.juro.2010.03.145)
+43. Zhu Y, Zhou XY, Yao XD, Dai B, Ye DW. The prognostic significance of p53, Ki-67, epithelial cadherin and matrix
+metalloproteinase-9 in penile squamous cell carcinoma treated
+[with surgery. BJU Int. 2007;100(1):204-208. [CrossRef]](https://doi.org/10.1111/j.1464-410X.2007.06908.x)
+44. Berkman ND, Lohr KN, Ansari M, et al. Grading the
+strength of a body of evidence when assessing health care interventions: An EPC update. J Clin Epidemiol. 2015;68(11):13121324.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

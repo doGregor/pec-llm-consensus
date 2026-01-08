@@ -1,0 +1,947 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Babadi *et al. BMC Urology     (2024) 24:194*
+https://doi.org/10.1186/s12894-024-01569-7
+
+
+BMC Urology
+
+## **RESEARCH Open Access**
+# Relationship between NLR and penile squamous cell carcinoma: a systematic review and meta-‑analysis
+
+Saghar Babadi [1], Matin Moallem Shahri [2], Sima Foroughi Nematollahi [3], Arnav Barpujari [4], Alec Clark [5],
+Brandon Lucke-‑Wold [4], Shirin Sarejloo [6], Arshin Ghaedi [7,8], Aida Bazrgar [7] and Shokoufeh Khanzadeh [9*]
+
+**Abstract**
+
+**Objective** We conducted this study to summarize the results of studies reporting the role of NLR (neutrophil to lymphocyte ratio) in PSCC (penile squamous cell carcinoma).
+**Methods** This meta-analysis was conducted using the PRISMA (Preferred Reporting Items for Systematic Reviews
+and Meta-Analyses) criteria. A systematic search was conducted on PubMed, Scopus, and web of science up to March
+10, 2023. Fourteen studies were included in the review. The NOS (Newcastle–Ottawa Scale) was used to determine
+the quality of the included studies. This meta-analysis was conducted on the studies reporting the relationship
+between NLR and survival using HR (hazard ratio) and 95% CI (confidence interval).
+**Results** There was a significant association between NLR levels and the prognosis, nodal stage, and anatomical
+tumor stage of PSCC patients. In the meta-analysis of the association of NLR with survival, NLR level was significantly
+associated with lower cancer-specific survival (HR = 3.51, 95% CI = 2.07–5.98, *p* < 0.001) and lower disease-free survival
+(HR = 2.88, 95% CI = 1.60–5.20, *p* < 0.001). However, NLR was found to have no association with the stage, grade, location, and size of the tumor.
+**Conclusion** NLR has a significant diagnostic and prognostic value in PSCC.
+**Keywords** Neutrophil to lymphocyte ratio, NLR, Penile squamous cell carcinoma, Systematic review, Meta-analysis
+
+
+*Correspondence:
+Shokoufeh Khanzadeh
+Khshokufe7@gmail.com
+1 Ahvaz Jundishapur University of Medical Science, Ahvaz, Iran
+2 Division of Transplant Services, Department of Surgery, SUNY Upstate
+Medical University, Syracuse, NY, USA
+3 Kerman University of Medical Sciences, Kerman, Iran
+4 Department of Neurosurgery, University of Florida, Gainesville, USA
+5 College of Medicine, University of Central Florida, Orlando, USA
+6 Cardiovascular Research Center, Shiraz University of Medical Sciences,
+Shiraz, Iran
+7 Student Research Committee, School of Medicine, Shiraz University
+of Medical Sciences, Shiraz, Iran
+8 Trauma Research Center, Shahid Rajaee (Emtiaz) Trauma Hospital, Shiraz
+University of Medical Sciences, Shiraz, Iran
+9 Tabriz University of Medical Sciences, Tabriz, Iran
+
+
+**Introduction**
+
+PSCC (penile squamous cell carcinoma) is a relatively
+uncommon form of cancer in developed countries [1].
+In contrast, in developing countries in Africa, Asia, and
+South America PSCC remains a pertinent public health
+problem, where its incidence ranges from 3 to 8.3 cases
+per 100,000 individuals [2]. Universally, numerous risk
+factors for PSCC have been identified and include HPV
+(human papillomavirus) infection, large number of sexual partners, and phimosis [3–5]. Prognostic factors for
+PSCC include but are not limited to grade of tumor differentiation, T-stage, LVI (lymphovascular invasion),
+N-stage, visceral metastasis, and perineural invasion
+(Hu) [6–9]. A growing body of evidence supports the
+
+
+© The Author(s) 2024. **Open Access** This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or
+parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To
+[view a copy of this licence, visit http:// ​creat ​iveco ​mmons. ​org/ ​licen ​ses/ ​by- ​nc- ​nd/4. ​0/.](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 2 of 13
+
+
+association of systematic inflammation with the development of solid organ malignancies [10–12]. As such,
+inflammatory markers are being identified to help predict
+patients with cancer. The NLR (neutrophil to lymphocyte ratio) has demonstrated an association with PSCC
+prognosis [13]. Notably, the NLR can be calculated from
+routine CBCs (complete blood counts) in peripheral
+blood samples [13]. In their study evaluating the utility of NLR as a prognosticator for patients with PSCC,
+Kasuga et al., found that determining the NLR before a
+radical penectomy can help with determining the prognosis of PSCC patients. Numerous studies reported that
+PSCC patients with a high NLR have worse OS (overall
+survival), recurrence-free survival, and CSS (cancer-specific survival) [2, 7–9, 13–21]. Recently, there has been
+a significant increase in the number of studies reporting
+NLR as a prospective biomarker for PSCC. Consequently,
+there is a need for an analysis that can illustrate whether
+the evidence surrounding the diagnostic and prognostic
+role of NLR in PSCC is consistent or inconsistent. Sub
+sequently, a systematic review was conducted to bring
+together publications associated with the role of NLR in
+PSCC patients, intended to help clinicians understand
+the pathogenesis of PSCC, differential diagnosis, staging
+and predicting progression and survival.
+
+**Methods**
+
+**Literature search strategy**
+The systematic review was conducted using the criteria
+outlined by the PRISMA (Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses). A literature
+search was conducted using PubMed, Scopus, and Web
+of Science without any language limitations. The search
+was conducted using the following key words: (neutrophil AND lymphocyte AND ratio) OR (neutrophil-tolymphocyte) OR (NLR) AND (penile OR penis) AND
+(cancer OR carcinoma). Only studies published before
+March 06, 2023, were considered for this review. Search
+formulas were adjusted with respect to the characteristics of each database. Table 1 presents the search strategies used for this systematic review.
+
+**Table 1** Systematic review search strategies
+
+
+**Criteria for inclusion and exclusion**
+Studies included in this review satisfied the following
+inclusion criteria: (1) reporting NLR value in peripheral
+blood; (2) evaluating the diagnostic and prognostic role
+of NLR in penile cancer; (3) including human subjects;
+and (4) the full-text article was available. The criteria
+for exclusion were as follows: (1) unsuitable publication
+types (case reports, meetings, abstracts, reviews); (2)
+animal experiments or non-clinical reports studies; (3)
+incomplete data without original text; and (4) studies that
+overlapped the included studies (such as studies from the
+same study group, institution, and with the same results).
+
+**Primary endpoint**
+Primary endpoint was the association of NLR with prognosis, stage, survival, grade, location, and size of the
+tumor in patients with PSCC.
+
+**Data extraction**
+
+Two independent reviewers screened the literature and
+extracted the data. First author, year of publication, country, sample size, treatment, and the main results related
+to the diagnostic and prognostic role of NLR data were
+extracted. Additional data were obtained on the NLR
+value, including the mean, SD (standard deviation), HR
+(hazard ratio), correlation coefficient, OR (odds ratio),
+the results of ROC (receiver operating characteristic), and the Kaplan–Meier survival analysis. The NLR
+level was presented as mean ± SD or median (interquartile range). Due to the heterogeneity of these studies, a
+meta-analysis was not appropriate. Missing data were
+supplemented via contact with the authors to the best
+possible degree. The NOS (Newcastle–Ottawa Scale),
+which includes three sections: selection, comparability,
+and outcome, and quality assessment, and a total score
+from 0 to 9, was used by two independent reviewers to
+determine the quality of the studies included in this systematic review. In cases of disagreements between the
+reviewers, a third reviewer was consulted, and the disagreement was settled through multilateral discussion.
+
+
+**Database** **Key words** **Number**
+**of**
+
+**articles**
+
+PubMed (("neutrophil"[All Fields] AND "lymphocyte"[All Fields] AND "ratio"[All Fields]) OR "neutrophil-to-lymphocyte"[All Fields] 12
+OR "NLR"[All Fields]) AND "penile"[All Fields] AND ("cancer"[All Fields] OR "tumor"[All Fields])
+
+Scopus ( ( ALL ( ( neutrophil AND lymphocyte AND ratio) OR ( neutrophil-to-lymphocyte) OR NLR))) AND ( ( TITLE-ABS-KEY ( can- 241
+cer)) OR ( TITLE-ABS-KEY ( tumor))) AND ( TITLE-ABS-KEY ( penile))
+
+Web of Science All = ((neutrophil AND lymphocyte AND ratio) OR (neutrophil-to-lymphocyte) OR NLR) AND All = (cancer OR tumor) 15
+AND ALL = (penile)
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 3 of 13
+
+
+**Statistical analysis**
+HR was reported with a 95% CI (confidence interval) for
+the association of NLR level with survival. HeterogeneP ity was assessed by ­I [2] ˃ statistic and χ2 (chi-squared) test.
+χ2 test < 0.05 and ­I [2] 75% were considered as significant
+heterogeneity; In such a case, a random effect model was
+used. Otherwise, the fixed-effect model was used. STATA
+12.0 software (Stata Corporation, College Station, TX,
+USA) was used for statistical analyses. A *p* ≤ 0.05 was
+conceived as statistically significant.
+
+**Results**
+
+**Search and selection of literature**
+
+In this systematic review, the search and selection of
+studies is depicted in Fig. 1. Initial searches yielded a total
+of 281 related articles. After the exclusion of duplicates
+and not relevant records, 14 studies were included in the
+systematic review (Fig. 1).
+
+**Characteristics of the included studies**
+The systematic review included a total of 14 studies, all
+of which were in English and retrospective in nature. Of
+these, thirteen studies evaluated the role of NLR in predicting patient survival (CSS, OS, RFS, PFS (progressionfree survival), DSS (disease-specific survival)), six studies
+assessed the association between NLR and PSCC staging,
+six studies evaluated the association between NLR and
+
+
+lymph node and distant metastasis, five studies evaluated the correlation between NLR and cancer grade,
+four studies evaluated the association between NLR and
+
+response to cancer treatment, two studies reported the
+role of NLR in differentiating tumor size and location,
+and a single study assessed the correlation between the
+absolute neutrophil count and metastasis. Table 2 lists
+the characteristics of the studies included in this review.
+
+**NLR and survival in PSCC**
+
+In 13 studies [2, 7–9, 13–21], NLR levels were evaluated
+to determine patient survival. In a 2016 study conducted
+by Kasuga et al., 41 patients underwent CBC with differential, and subsequent radical penectomy was analyzed
+
+[1]. The median and mean (± SD) NLRs in the 41 PSCC
+patients were 3.42 and 5.03 ± 4.99, respectively. Based on
+the AUC (area under the curve) for the ROC curve, the
+cut-off value of NLR was determined to be 2.82. Subsequently, patients with a high NLR (≥ 2.82) showed a sig*p* = *p* =
+nificantly poorer CSS ( 0.02) and OS ( 0.07) than
+those with a low NLR. Li et al. reported similar results
+with a study population of 228 PSCC patients in 2019.
+Using a multivariate analysis, the NLR had an independent effect on DFS (disease-free survival) before ILND
+= *p* =
+(inguinal lymph node dissection) (HR 2.13, 0.03).
+Additionally, Li et al. carried out an exploratory data
+analysis wherein the results indicated that NLR ( *p* = 0.02)
+
+
+**Fig. 1** PRISMA 2020 Flow diagram for new systematic reviews which includes searches of databases, registers and other sources
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 4 of 13
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 5 of 13
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 6 of 13
+
+
+was an independent prognostic variable for DSS. In Tan
+et al.’s 2017 study of 39 PSCC patients, the median NLR
+was 2.99 (0.76 – 5.22) [3]. In the same study, the NLR
+cut-off was determined to be 2.8, with respect to the
+AUC operator characteristic curve. Patients with a high
+NLR (≥ *p*
+2.8) had significantly worse CSS ( < 0.001) than
+those with a low NLR. These results matched a 2013
+study done by Pond et al. which showed that higher NLR
+*p* = 9].
+was significantly ( 0.05) predictive of poorer OS [
+Furthermore, in 2019, Albuquerque et al. evaluated 230
+penile cancer patients from Brazil [15]. On multivariable
+Cox regression, adjusted for age, staging T, histological
+grade, lymphovascular invasion, and perineural inva
+≥
+sion, and before ILND, patients with NLR 3.0 was associated with worse RFS ( *p*
+< 0.001, 95% CI: 1.99—17.03,
+= *p* =
+HR 5.82), OS ( < 0.001, 95% CI:1.99—10.77, HR 4.63)
+and CSS ( *p* = =
+0.001, 95% CI: 1.835—10.434, HR 4.376).
+Kawahara et al. conducted a study on 122 patients from
+Japan who underwent radical penectomy and reported
+a similar result in 2016 [16]. CBCs were performed on
+forty patients (33%) prior to pathological diagnosis. At
+a NLR cut-off of 2.82, patients with a high NLR showed
+*p* =
+significantly poorer CSS ( 0.02) than those with low
+NLR. In Zhou et al.’s study, the data of 114 PSCC patients
+from China were analyzed in 2019 [17]. Using a multivariate Cox regression analysis for DSS, patients with
+
+≥
+NLR 3.25 had shorter DSS than those with NLR < 3.25
+= *p* =
+(HR 2.780, 95% CI: 1.06–7.21, 0.04). Pond et al.
+retrieved the data of 26 PSCC patients from Canada and
+America in 2014 [18]. They highlighted that baseline
+NLR was significantly associated with OS, although no
+*p* -value was reported. In a 2018 study where 84 patients
+treated with ILND for non-metastatic (M0) PSCC, Azizi
+et al. on median OS was significantly shorter for patients
+≥ *p* 19]. Also, in a uniwith NLR 3 than NLR < 3 ( < 0.001) [
+≥
+variate analysis, NLR 3 was associated with shorter CSS
+( *p* *p*
+< 0.001) and RFS ( < 0.01). Interestingly however, in a
+multivariable analysis, only the association between NLR
+
+=
+and OS was significant (HR 2.48; 95% CI: 1.02 – 6.06,
+*p* =
+0.04), and there was no correlation between NLR with
+= *p* =
+CSS (HR 2.58; 95% CI: 0.79 – 8.41, 0.1) and RFS
+= *p* =
+(HR 1.66; 95% CI: 0.73 – 3.76, 0.2).
+Concurrently, other studies could not demonstrate
+an association between NLR and PSCC cancer survival.
+
+In a 2021 study done by Jindal et al., 69 PSCC patients
+were analyzed using Kaplan–Meier analysis determined
+the NLR cut-off to be 3 and found no statistically significant association with CSS using a multivariate analysis
+( *p* = 0.9) [20]. Similarly, in an evaluation of 225 PSCC
+patients by Hu et al., a multivariate analysis revealed
+NLR was not a significant independent factor for OS
+= *p* =
+(95% CI: 0.605—2.718, HR 1.28, 0.5) and PFS (95%
+CI: 0.67 -1.97, HR = 1.12, *p* = 0.6) [8]. With respect to an
+
+
+association between NLR and RFS, Tan et al. reported
+similar findings [13]. These findings are further supported by Jiao Hu et al.’s study of 134 PSCC patients in
+2020 [21]. With a cutoff value of NLR being 3.59, patients
+were divided into NLR positive (41%) and NLR negative
+(59%) groups. They conducted a significant correlation
+between NLR and CSS. Those with negative and positive NLR had 61% and 22% had 5 years CSS, respectively
+( *p*
+< 0.001). However, the results of the multivariate analysis indicated no significant correlation between NLR and
+CSS. In the study by Buonerba et al., the data of 65 PSCC
+patients from North America and Europe were analyzed
+in 2016 [7]. At a NLR cut off of 5, there was no significant
+
+=
+correlation between NLR and OS (HR 0.81 (0.45–1.45),
+*p* = = *p* =
+0.4), PFS (HR 0.80 (0.47, 1.38), 0.4) and response
+= *p* =
+to systemic treatment (HR 3.36 (0.84, 13.44), 0.09).
+
+***Meta‑analysis of the association of NLR with CSS***
+In the meta-analysis of the association of NLR with CSS,
+NLR level was significantly associated with lower CSS
+= = *p*
+(HR 3.51, 95% CI 2.07–5.98, < 0.001). Fixed-effects
+model was applied to the pooled meta-analysis, as heterogeneity did not exist ­(I [2] = 0%, *P* -value = 0.8) (Fig. 2).
+
+***Meta‑analysis of the association of NLR with OS***
+
+=
+NLR level was not associated with OS (HR 1.78, 95%
+= *p* =
+CI 0.82–3.86, 0.1). Random-effects model was
+applied to the pooled meta-analysis, because statis
+=
+tical heterogeneity existed among studies ­(I [2] 76%,
+*P* -value < 0.01) (Fig. 3).
+
+***Meta‑analysis of the association of NLR with DFS***
+In the meta-analysis of the association of NLR with DFS,
+NLR level was significantly associated with lower CSS
+= = *p*
+(HR 2.88, 95% CI 1.60–5.20, < 0.001). Because there
+was no significant heterogeneity between studies, we
+used Fixed-effects model ­(I [2] = 58%, *P* -value = 0.1) (Fig. 4).
+
+***Meta‑analysis of the association of NLR with PFS***
+The association of NLR with PFS was not signifi= = *p* =
+cant (HR 0.94, 95% CI 0.64–1.38, 0.7). Fixedeffects model was applied to the pooled meta-analysis,
+
+=
+because the heterogeneity was not significant ­(I [2] 0%,
+*P* -value = 0.3) (Fig. 5).
+
+**NLR and lymph nodal and distant metastasis**
+In 7 studies, the association between NLR and lymph
+node and distant metastasis was characterized, and a
+single study assessed the correlation between absolute
+neutrophil count and metastasis [2, 8, 15, 19–22]. Hu
+et al. reported higher rates of metastasis and recurrence
+for patients with a high NLR (> 2.94) when compared
+to those with those that had a lower NLR (< 2.94) [8].
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 7 of 13
+
+**Fig. 2** Meta-analysis of the association of NLR with CSS
+
+
+Additionally, the study found that higher levels of NLR
+had a significant correlation with pathologically positive
+inguinal lymph nodes after ILND ( *p* = 0.02). This conclusion is further supported by a study conducted by
+Jindal et al., wherein a high NLR (> 3) was significantly
+associated with the presence of pathological inguinal
+node involvement [20]. This study also found that 78% of
+patients with positive pathological nodal status and 36%
+of those without pathologic nodal status expressed a high
+
+*p* =
+NLR (> 3) ( 0.001). Similar results were reported by
+Jiao Hu et al., which showed the NLR was an independent predictor of LNM (lymph node metastasis) [21]. In
+their study, 78% patients with positive NLR had positive
+LNM, while 34% of patients with negative NLR ( *p* < 0.01).
+Moreover, in a study with 101 PSCC patients, Hou et al.
+reported the absolute neutrophile value ( *p* < 0.04) as an
+independent predictor of LNM using both a univariate
+and multivariate logic regression analyses [22].
+In contrary to the previous studies, numerous studies
+reported no significant correlation between NLR and distant metastasis. Kausga et al. did report that that patients
+≥ *p* =
+with an NLR 2.82 had significant LNM ( 0.04) than
+those with a low NLR, however no significant correlation
+
+
+was found ( *p* = 0.3) [2]. In a univariable analysis, Azizi
+≥
+et al. found an association between a NLR 3 and an
++
+increased risk of pN (pathologic node-positivity)
+= *p* = 19]. How(OR 3.75; 95% CI: 1.30– 10.81, 0.01) [
+ever, this association became insignificant when a multivariable analysis adjusted for primary tumor grade,
+lymphovascular invasion, clinical N stage, and neoadju
+=
+vant treatment receipt was conducted (OR 3.66, 95%
+CI: 0.82 – 16.42, *p* =
+0.09). Likewise, using a univariable
+≥
+model, Albuquerque et al. found that a NLR 3.0 was
++ =
+an independent predictor of LN (HR 5.96; 95% [CI]:
+1.24–28.74, *p* = 0.03) [15]. However, when using a multivariable model, this correlation was no longer significant.
+Based on these findings, NLR in PSCC patients may be
+associated with metastasis and lymph node involvement.
+As indicated, patients with higher NLR values experience
+a higher rate of metastasis and lymph node involvement.
+
+**NLR and PSCC staging**
+In 6 studies [2, 8, 13, 19–21], the relationship between
+NLR and PSCC staging were evaluated. In their study,
+Azizi et al. characterized patients in 1 of 6 stages of
+cancer: stage 0, stage I, stage II, stage IIIA, stage IIIB,
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 8 of 13
+
+**Fig. 3** Meta-analysis of the association of NLR with OS
+
+
+and stage IV [19]. Their study found that patients with
+≥
+NLR 3 expressed a higher stage in their disease (3%, 3%,
+13%, 5%, 24%, and 53%) versus those with NLR < 3 (0%,
+0%, 47%, 17%, 10% and 23%) ( *p* =
+0.003). Importantly, a
+higher pathologic N stage was reported for patients with
+
+≥
+NLR 3 than patients with NLR < 3 (79% and 50% respectively) ( *p* = 0.02) even though this correlation was not significant between the clinical N stage and pathologic T
+stage of patients and respective NLR values ( *p* = 0.2 and
+0.6, respectively). These findings are further supported by
+Tan et al.’s study, wherein the NLR cut-off was determined
+to be 2.8 with respect to the AUC operator characteristic
+curve [13]. Patients with a high NLR (≥ 2.8) also had sig*p* =
+nificantly higher T-stage ( 0.006) compared to those
+with a low NLR (< 2.8). Similarly, Jindal et al. observed
+patients with NLR > 3 also reported higher tumor stages
+(40%, 54%, 81%, and 100% in T1, T2, T3, and T4, respectively). When assessing NLR values with the nodal stage,
+Jindal et al. found 36%, 100%, 67%, and 72% of patients
+*p* value was
+with pN0, pN1, pN2, and pN3 had NLR > 3 (
+not reported) [20]. These findings seem consistent with
+Hu et al.’s research, which found that based on NLR cutoff of 2.94, patients with NLR > 2.94 showed higher nodal
+
+
+stage and anatomical stage of tumor than those with
+lower NLR [8].
+However, Kasuga et al. found no significant correlation
+between NLR and Pathological T stage [1–4] ( *p* = 0.3),
+and anatomic stage (I-IV) ( *p* = 0.2) [2]. Likewise, Jiao Hu
+et al. found that 46.66% patients NLR positive and 38%
+≥ *p* =
+NLR negative expressed a tumor stage T1b ( 0.4),
+which was not significant [21].
+Based on the findings, it can be inferred that NLR is a
+prognostic factor of patients’ nodal stage and anatomical
+tumor stage, however, NLR has no association with the
+tumor stage.
+
+**NLR and** ***cancer*** **grade**
+In 5 studies, the correlation between NLR and cancer
+grade was evaluated [2, 8, 19–21]. In the study of Hu
+et al., for tumor types: benign, well, moderate, poor, and
+other tumor type, PSCC patients with NLR > 2.94 had an
+incident rate of 20%, 28%, 34%, 50% and 100% for respec
+≤
+tively, and for PSCC patients with NLR 2.94 experienced an incident rate of 80%, 72%, 66%, 50% and 0%,
+respectively ( *p* = 0.03) [8]. These results are further supported by Jindal et al.’s study, wherein they demonstrated
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 9 of 13
+
+**Fig. 4** Meta-analysis of the association of NLR with DFS
+
+
+that patients with NLR > 3 had higher tumor grades
+(25%, 52%, and 79% in Grade I, II, and III respectively),
+although no *p* -value was reported [20]. These findings remain consistent with the study done by Jiao Hu
+et al. which showed that NLR was positively related to
+advanced tumor grade [21]. In their study, 64% and 36%
+of patients with negative NLR, and 38% and 63% of those
+with positive NLR had Grade1 and Grade2 tumor respectively ( *p* = 0.02).
+However, the findings of the Kasuga et al. study do not
+support the aforementioned results ( *p* = 0.3) [2]. This
+conclusion is supported by Azizi et al.’s study, which
+showed 50% and 47% of patients with NLR < 3, and 66%
+≥
+and 32% of patients with NLR 3.0 had G1/G2 and G3/
+G4 tumor types which was not statistically significant
+( *p* = 19].
+0.2) [
+According to results above, NLR could potentially be
+indicative of cancer grade.
+
+**NLR and tumor size and location**
+In 2 studies reported the role of NLR in differentiating tumor size and location [2, 21]. Jiao Hu et al. found
+no significant correlation between NLR and tumor size
+( *p* =
+0.9). In a similar assessment, Kasuga et al. reported
+
+
+no significant correlation between the tumor’s location
+(gland, foreskin, and shaft) and NLR ( *p* = 0.3) [2]. As
+such, NLR does not demonstrate to be an independent
+predictor for tumor size and location.
+
+**NLR and response to cancer treatment**
+In 4 studies, the association between NLR and the
+patients’ response to cancer treatment was assessed [7, 8,
+19, 20]. In the study of Azizi et al., the optimal threshold
+of NLR to assess treatment efficacy in PSCC patients was
+determined to be 3 [19]. No statistically significant difference in receipt of neoadjuvant or adjuvant treatments
+between NLR groups was reported ( *p* - 0.05). Additionally, Buonerba et al. evaluated NLR as a predictive factor
+of response to treatment but found no significant correlation with an NLR cut-off of 5 (OR: 3.36; 95% CI: 0.84,
+13.44; *p* = 7].
+0.09) [
+Contrarily, Jindal et al. found a correlation between
+NLR values and the type of surgery a PSCC patient experienced [20]. Of the PSCC patients with an NLR > 3, 47%
+underwent a partial penectomy, and 79% underwent a
+total penectomy (no *p* -value was reported). Moreover,
+Hu et al. reported a significant difference in receiving
+initial treatment for patients with varying values of NLR
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 10 of 13
+
+**Fig. 5** Meta-analysis of the association of NLR with PFS
+
+
+
+[8]. For patients with NLR ≤ 2.94, 6% underwent surveillance and 97% underwent surgery treatment. Likewise,
+for patients with NLR > 2.94, 19% underwent surveillance
+and 80.88% underwent surgery treatment ( *p* = 0.004).
+Due to ongoing controversy, the debate continues
+about the association between NLR and cancer treatment. Further research which specifically takes this variable into consideration needs to be conducted. According
+to results above, NLR could potentially be indicative of
+cancer grade.
+
+**Discussion**
+Our systematic review had three findings. Firstly, an elevated NLR level was a strong prognostic determinant for
+lower CSS, and DFS. Secondly, patients with higher NLR
+values experienced a higher rate of metastasis and lymph
+node involvement. Thirdly, NLR was not an independent
+determinant for predicting PFS, OS, RFS, or tumor stage.
+An elevated NLR has been associated with unfavorable
+
+survival outcomes in numerous urologic cancers including renal cell carcinoma and urothelial carcinoma [19].
+Pond et al. were the first to report an association between
+NLR and outcomes in PSCC [18]. In this context, our systematic analysis highlights prospective studies that show
+
+
+varying degrees of support for the prognostic capability
+of the NLR in predicting OS, CSS, and other variables.
+The majority of the studies included assess the relationship between NLR and patient survival, with respect
+to OSS, CSS, DSS, and DFS, and reported a strong link
+between NLR and patient could be inferred. Kasuga et al.
+explored the role of NLR before a radical penectomy as a
+possible prognostic indicator for 41 men diagnosed with
+PSCC [2]. From that study, the authors show that patients
+with higher NLR (≥ 2.8) have worse CSS ( *p* = 0.023) when
+compared with those patients with a lower NLR (< 2.8)
+using a univariate analysis. Additionally, the authors
+performed a multivariable analysis that did not demonstrate any significant prognostic factor. These findings
+are in agreement with Tan et al. ( *p* < 0.001), Azizi et al.
+( *p* *p* = 13, 17, 19]. Also, a
+< 0.001), Zhou et al. ( 0.04) [
+number of researchers sought to establish a relationship
+between NLR and lymph nodal and distant metastasis.
+Hu et al. reported higher rates of metastasis and recur*p* = 8].
+rence for patients with high NLR (> 2.94) ( 0.02) [
+Their results agree with the findings of Jindal et al. which
+shows a high NLR was significantly associated with the
+presence of pathological inguinal node involvement
+( *p* = 20]. In accordance with their results, Jiao Hu
+0.001) [
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 11 of 13
+
+
+et al. and Hou et al. revealed NLR was an independent
+prediction of LNM ( *p* < 0.01, *p* = 0.04, respectively) [21,
+22].
+The underlying mechanisms between the association of
+high NLR and poor outcome of PSCC patients is poorly
+understood. To begin to elucidate possible mechanisms,
+it is imperative to identify the role of the individual components of the NLR, neutrophils and lymphocytes, in this
+context. Peripheral blood neutrophil counts are increased
+in patients with cancer. Tumors secrete G-CSF (granulocyte colony-stimulating factor) which alters the neutrophil release and retention balance in the bone marrow,
+which is ultimately responsible for this increase in blood
+neutrophils [23]. One mechanism by which increased
+neutrophil count and subsequent increased NLR may
+lead to worse PSCC outcomes is through immunosuppression in the tumor microenvironment. It has been
+demonstrated that neutrophilia inhibits the immune
+system by suppressing the cytolytic activity of numerous
+immune cells such as activated T cells, natural killer cells,
+and lymphocytes [24]. Neutrophils have been demonstrated to mediate this effect in the tumor microenvironment through modulation of several pathways, including
+through the induction of nitric oxide synthase and upregulation of TGF-β (transforming growth factor-β) [25–27].
+In addition, neutrophils also have been shown to contribute to tumor propagation through the production of
+reactive oxygen species and enzymes such as proteases
+within the tumor microenvironment [28, 29]. They may
+even contribute to metastasis through production of
+cytokines [30, 31]. A mediating mechanism by which
+these substances that are produced by neutrophils contribute to tumor propagation and metastasis is through
+chronic inflammation, a process already demonstrated
+to be prevalent in the pathogenesis of PSCC [32, 33].
+Neutrophils have also been reported to produce tumor
+growth promoting compounds such as vascular endothelial growth factor, and thus may contribute to stimulating the tumor microenvironment [24]. As such, another
+possible mechanism driving increased neutrophil count
+leading to worse PSCC outcomes is through the induction of angiogenesis. Neutrophils have been shown to
+produce several different substances that ultimately
+induce angiogenesis within the tumor microenvironment, including proMMP-9 (pro-matrix metalloproteinase-9) and protein Bv8 [34–36]. Indeed, a 2012 study by
+Al-Najar examined the density of microvessels in patients
+with PSCC and discovered a widely variable degree of
+microvessel density found across 64 PSCC patients [37].
+This suggests that angiogenesis, which is at least partially
+mediated by neutrophils, has been found to be present
+and variable in patients with PSCC. Gunia et al. further
+demonstrated that overexpression of periostin, which has
+
+
+been previously shown to increase angiogenesis and invasion in SCCs (squamous cell carcinomas), correlated with
+increase tumor size and histologic grade of PSCCs [38].
+Thus, increased neutrophil-induced angiogenesis leading
+to worse prognostic factors in PSCCs is one explanation
+for increased NLR leading to poor outcomes of PSCC
+consistent with the results of the present study.
+Further, the role of lymphopenia in this context is less
+clear in the literature, with results from studies indicating a variability in isolated peripheral lymphocyte count
+in cancer patients [39, 40]. Results from these studies
+generally focus on variabilities in lymphocyte subsets [41,
+42]. Porcellato et al. conducted a preclinical study focusing on isolating components of the tumor microenvironment in equine PSCCs. Results indicated a significantly
++ +
+increased amount of CD3 and FoxP3 lymphocytes in
+the tumor microenvironment compared to healthy tissue
+
+[43]. A 2012 study examined similar tumor microenvironment constituents in patients with PSCC, finding that
+increased lymphocyte migration into the tumor microenvironment was associated with a significantly higher
+rate of groin metastasis ( *p* < 0.01) [33]. More recently,
++
+FoxP3 lymphocyte expression in the tumor microenvironment has also been demonstrated to correlate with
+
+increased thickness of tumors in patients with PSCC
+
+[44]. Additionally, in a 2018 retrospective study that
+examined constituents of the tumor microenvironment
+
+in 213 PSCC patients, increased T-cell expression of programmed death ligand-1 (PD-L1) was observed within
+the tumor microenvironment that was attributed to significantly decreased DSS [45].
+Taken together, it follows that measured peripheral
+lymphopenia may be a function of increased migration of
+lymphocytes into the tumor microenvironment in PSCC,
+potentially accounting for increased NLR seen in these
+patients, as the results of our present study suggest. As it
+currently stands, the evidence for the significance of lymphopenia as a driving factor behind the diagnostic utility of NLR for PSCC is less convincing than the evidence
+for the role of neutrophilia as explained above. However,
+increased migration of several subtypes of lymphocytes
+into the tumor microenvironment have now been dem
+onstrated in both preclinical and clinical models and
+have been postulated to contribute to several poor prognostic factors, including increased tumor size and potential for metastasis. This likely confounds the magnitude of
+increased NLR found in these patients, adding to its significance in this context. Thus, the efficacy of the NLR on
+prognosis of PSCC may well be a function of the various
+pro-tumorigenic effects of neutrophilia and lymphopenia, making this a potentially useful diagnostic and prognostic marker for clinical use in PSCC patients. In recent
+years, there has been an increased amount of effort and
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 12 of 13
+
+
+resources dedicated to the development of biomarkers
+which can help customize the therapeutic approach to
+the need of a specific patient with cancer. Altered levels
+of NLR in the blood may be useful in this attempt to tailor therapy for patients with PSCC, where there is a lack
+of reliable biomarkers for diagnostic purposes and subsequent prognostication.
+
+**Limitations**
+The systematic review had three major limitations.
+Firstly, due to the absence of prospective research on this
+topic, all studies included were retrospective. To verify
+the findings presented in this systematic review, further
+prospective analysis should be conducted in the future.
+Secondly, a meta-analysis could not be performed due to
+significant heterogeneity of the studies included, conflicting results in the literature, and the lack of a significant
+number of studies suitable for a meta-analysis. Also, the
+variation in NLR cut-offs among the studies is the third
+limitation of our study.
+
+**Conclusion**
+
+In conclusion, this systematic review highlights the
+potential NLR has to be a critical diagnostic and prognostic factor in PSCC. As it currently stands, the data
+collected from these retrospective studies exhibit variable levels of support for NLR as a predictive indicator for
+PSCC. There was a significant association between NLR
+levels and the prognosis, nodal stage, and anatomical
+tumor stage of PSCC patients. Furthermore, an elevated
+NLR can indicate lower CSS, worse OS, shorter DSS and
+DFS, and a higher rate of metastasis and lymph node
+involvement. Notably, NLR was found to have no association with the stage, grade, location, and size of the tumor.
+Prospective trials are needed to establish a more definitive role of NLR in the management of PSCC.
+
+**Abbreviations**
+NLR Neutrophil to lymphocyte ratio
+PSCC Penile squamous cell carcinoma
+PRISMA Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+NOS Newcastle–Ottawa Scale
+HR Hazard ratio
+CI Confidence interval
+HPV Human papillomavirus
+LVI Lymphovascular invasion
+CBCs Complete blood counts
+OS Overall survival
+CSS Cancer-specific survival
+SD Standard deviation
+OR Odds ratio
+ROC Receiver operating characteristic
+PFS Progression-free survival
+DSS Disease-specific survival
+DFS Disease-free survival
+ILND Inguinal lymph node dissection
+LNM Lymph node metastasis
+pN + Pathologic node-positivity
+G-CSF Granulocyte colony-stimulating factor
+
+
+TGF-β Transforming growth factor-β
+proMMP-9 Pro-matrix metalloproteinase-9
+SCCs Squamous cell carcinomas
+PD-L1 Programmed death ligand-1
+
+**Acknowledgements**
+Not applicable.
+
+**Authors’ contributions**
+ShKh contributed to the conception of the study, performed the data
+analyses, and supervised the project; S.S searched the articles; S.F.N and
+Ar.B reviewed all identified articles for eligibility; A.C and B.L-W assessed the
+quality of studies; S.B reviewed all identified articles for eligibility; A.Gh and
+A.B assessed the quality of studies; S.B and Sh.Kh wrote the manuscript.
+M.M.S revised the manuscript. All of the authors read and approved the final
+manuscript.
+
+**Funding**
+This systematic review and meta-analysis was not funded in any way.
+
+**Availability of data and materials**
+All data generated or analysed during this study are included in this published
+article.
+
+**Declarations**
+
+**Ethics approval and consent to participate**
+Not applicable.
+
+**Consent for publication**
+Not applicable.
+
+**Competing interests**
+The authors declare no competing interests.
+
+Received: 24 February 2024  Accepted: 15 August 2024
+
+**References**
+1. Barski D, Georgas E, Gerullis H, Ecke T. Metastatic penile carcinoma - an
+update on the current diagnosis and treatment options. Cent European J
+Urol. 2014;67(2):126–32.
+2. Kasuga J, Kawahara T, Takamoto D, Fukui S, Tokita T, Tadenuma T, et al.
+Increased neutrophil-to-lymphocyte ratio is associated with disease-specific mortality in patients with penile cancer. BMC Cancer. 2016;16:396.
+3. Alemany L, Cubilla A, Halec G, Kasamatsu E, Quirós B, Masferrer E, et al.
+Role of human papillomavirus in penile carcinomas worldwide. Eur Urol.
+2016;69(5):953–61.
+4. Kayes O, Ahmed HU, Arya M, Minhas S. Molecular and genetic pathways
+in penile cancer. Lancet Oncol. 2007;8(5):420–9.
+5. Christodoulidou M, Sahdev V, Houssein S, Muneer A. Epidemiology of
+penile cancer. Curr Probl Cancer. 2015;39(3):126–36.
+6. Chakiryan NH, Dahmen A, Bandini M, Pederzoli F, Marandino L, Albersen
+M, et al. Risk factors and survival outcomes for upstaging after inguinal
+lymph node dissection for cN1 penile squamous cell carcinoma. Urol
+Oncol. 2021;39(12):838.e7-e13.
+7. Buonerba C, Di Lorenzo G, Pond G, Cartenì G, Scagliarini S, Rozzi A, et al.
+Prognostic and predictive factors in patients with advanced penile cancer
+receiving salvage (2nd or later line) systemic treatment: a retrospective
+multi-center study. Front Pharmacol. 2016;7:487.
+8. Hu C, Bai Y, Li J, Zhang G, Yang L, Bi C, et al. Prognostic value of systemic
+inflammatory factors NLR, LMR, PLR and LDH in penile cancer. BMC Urol.
+2020;20(1):57.
+9. Pond GR, Di Lorenzo G, Necchi A, Eigl BJ, Kolinsky MP, Chacko RT, et al.
+Prognostic risk stratification derived from individual patient level data for
+men with advanced penile squamous cell carcinoma receiving first-line
+systemic therapy. Urol Oncol. 2014;32(4):501–8.
+
+Babadi *et al. BMC Urology     (2024) 24:194* Page 13 of 13
+
+
+10. Singh N, Baby D, Rajguru JP, Patil PB, Thakkannavar SS, Pujari VB. Inflammation and cancer. Ann Afr Med. 2019;18(3):121–6.
+11. Coussens LM, Werb Z. Inflammation and cancer. Nature.
+2002;420(6917):860–7.
+12. Khandia R, Munjal A. Interplay between inflammation and cancer. Adv
+Protein Chem Struct Biol. 2020;119:199–245.
+13. Tan TW, Chia SJ, Chong KT. Management of penile cancer in a Singapore
+tertiary hospital. Arab J Urol. 2017;15(2):123–30.
+14. Li Z, Li X, Zhang X, Chen P, Wang B, Chen X, et al. Prognostic significance
+of common preoperative laboratory variables in penile squamous cell
+carcinoma. Int J Urol. 2020;27(1):76–82.
+15. Albuquerque E, Guglielmetti G, Sierra P, Pontes Jr J, Cavalcante A, Coelho
+R, Nahas W. MP73–06 The systemic inflammatory markers in peripheral blood before radical inguinal lymph node dissection in penile
+squamous cell carcinoma can predict pathologic positive nodes. J Urol.
+2019;201:e1066.
+16. Kawahara T, Kasuga J, Miyamoto H, Yao M, Yumura Y, Uemura H. MP28–05
+Initial Neutrophil-To-Lymphocyte Ratio (Nlr) is a prognostic marker in
+penile cancer patients. J Urol. 2016;195(4S):e372.
+17. Zhou QH, Han H, Lu JB, Liu TY, Huang KB, Deng CZ, et al. Up-regulation of
+indoleamine 2,3-dioxygenase 1 (IDO1) expression and catalytic activity is
+associated with immunosuppression and poor prognosis in penile squamous cell carcinoma patients. Cancer Commun (Lond). 2020;40(1):3–15.
+18. Pond GR, Milowsky MI, Kolinsky MP, Eigl BJ, Necchi A, Harshman LC, et al.
+Concurrent chemoradiotherapy for men with locally advanced penile
+squamous cell carcinoma. Clin Genitourin Cancer. 2014;12(6):440–6.
+19. Azizi M, Peyton CC, Boulware DC, Chipollini J, Juwono T, Pow-Sang
+JM, et al. Prognostic value of neutrophil-to-lymphocyte ratio in penile
+squamous cell carcinoma patients undergoing inguinal lymph node dissection. Eur Urol Focus. 2019;5(6):1085–90.
+20. Jindal T, Pawar P, Agarwal S, Jain P, Meena M, Sarwal A, et al. The use of
+preoperative neutrophil-lymphocyte ratio and lymphocyte-monocyte
+ratio in predicting survival and groin node involvement of patients with
+squamous cell carcinoma of penis. Urol Ann. 2021;13(4):391–6.
+21. Hu J, Li H, He T, Deng H, Gong G, Cui Y, et al. A nomogram incorporating PD-L1, NLR, and clinicopathologic features to predict inguinal
+lymph node metastasis in penile squamous cell carcinoma. Urol Oncol.
+2020;38(7):641.e19-e29.
+22. Hou G, Zheng Y, Wang F, Zhang G, Zhang L, Zheng W, Yuan J. Individualized prediction of the risk of inguinal lymph node metastasis in patients
+with squamous cell carcinoma of penile. Chin J Urol. 2019:909–14.
+23. Grecian R, Whyte MKB, Walmsley SR. The role of neutrophils in cancer. Br
+Med Bull. 2018;128(1):5–14.
+24. Templeton AJ, McNamara MG, Šeruga B, Vera-Badillo FE, Aneja P,
+Ocaña A, et al. Prognostic role of neutrophil-to-lymphocyte ratio in
+solid tumors: a systematic review and meta-analysis. J Natl Cancer Inst.
+2014;106(6):dju124.
+25. Coffelt SB, Wellenstein MD, de Visser KE. Neutrophils in cancer: neutral no
+more. Nat Rev Cancer. 2016;16(7):431–46.
+26. Fridlender ZG, Sun J, Kim S, Kapoor V, Cheng G, Ling L, et al. Polarization
+of tumor-associated neutrophil phenotype by TGF-beta: “N1” versus “N2”
+TAN. Cancer Cell. 2009;16(3):183–94.
+27. Batlle E, Massagué J. Transforming growth factor-β signaling in immunity
+and cancer. Immunity. 2019;50(4):924–40.
+28. Long W, Chen J, Gao C, Lin Z, Xie X, Dai H. Brief review on the roles of
+neutrophils in cancer development. J Leukoc Biol. 2021;109(2):407–13.
+29. Antonio N, Bønnelykke-Behrndtz ML, Ward LC, Collin J, Christensen
+IJ, Steiniche T, et al. The wound inflammatory response exacerbates
+growth of pre-neoplastic cells and progression to cancer. Embo J.
+2015;34(17):2219–36.
+30. Gonzalez H, Hagerling C, Werb Z. Roles of the immune system in
+cancer: from tumor initiation to metastatic progression. Genes Dev.
+2018;32(19–20):1267–84.
+31. Coffelt SB, Kersten K, Doornebal CW, Weiden J, Vrijland K, Hau CS, et al.
+IL-17-producing γδ T cells and neutrophils conspire to promote breast
+cancer metastasis. Nature. 2015;522(7556):345–8.
+32. Emmanuel A, Nettleton J, Watkin N, Berney DM. The molecular pathogenesis of penile carcinoma-current developments and understanding.
+Virchows Arch. 2019;475(4):397–405.
+33. De Paula AA, Motta ED, Alencar Rde C, Saddi VA, da Silva RC, Caixeta GN,
+et al. The impact of cyclooxygenase-2 and vascular endothelial growth
+
+
+factor C immunoexpression on the prognosis of penile carcinoma. J Urol.
+2012;187(1):134–40.
+34. Deryugina EI, Zajac E, Juncker-Jensen A, Kupriyanova TA, Welter L, Quigley
+JP. Tissue-infiltrating neutrophils constitute the major in vivo source of
+angiogenesis-inducing MMP-9 in the tumor microenvironment. Neoplasia. 2014;16(10):771–88.
+35. Shojaei F, Singh M, Thompson JD, Ferrara N. Role of Bv8 in neutrophildependent angiogenesis in a transgenic model of cancer progression.
+Proc Natl Acad Sci U S A. 2008;105(7):2640–5.
+36. Shojaei F, Wu X, Zhong C, Yu L, Liang XH, Yao J, et al. Bv8 regulates myeloid-cell-dependent tumour angiogenesis. Nature.
+2007;450(7171):825–31.
+37. Al-Najar A, Al-Sanabani S, Korda JB, Hegele A, Bolenz C, Herbst H, et al.
+Microvessel density as a prognostic factor in penile squamous cell carcinoma. Urol Oncol. 2012;30(3):325–9.
+38. Gunia S, Jain A, Koch S, Denzinger S, Götz S, Niessl N, et al. Periostin
+expression correlates with pT-stage, grading and tumour size, and independently predicts cancer-specific survival in surgically treated penile
+squamous cell carcinomas. J Clin Pathol. 2013;66(4):297–301.
+39. Wang Q, Li S, Qiao S, Zheng Z, Duan X, Zhu X. Changes in T lymphocyte
+subsets in different tumors before and after radiotherapy: a meta-analysis. Front Immunol. 2021;12:648652.
+40. Zhou Q, Dong J, Sun Q, Lu N, Pan Y, Han X. Role of neutrophil-to-lymphocyte ratio as a prognostic biomarker in patients with breast cancer
+receiving neoadjuvant chemotherapy: a meta-analysis. BMJ Open.
+2021;11(9):e047957.
+41. Palazón-Carrión N, Jiménez-Cortegana C, Sánchez-León ML, HenaoCarrasco F, Nogales-Fernández E, Chiesa M, et al. Circulating immune biomarkers in peripheral blood correlate with clinical outcomes in advanced
+breast cancer. Sci Rep. 2021;11(1):14426.
+42. Iurchenko NP, Glushchenko NM, Buchynska LG. Comprehensive analysis
+of intratumoral lymphocytes and FOXP3 expression in tumor cells of
+endometrial cancer. Exp Oncol. 2014;36(4):262–6.
+43. Kamareddine L, Najjar H, Sohail MU, Abdulkader H, Al-Asmakh M. The
+microbiota and gut-related disorders: insights from animal models. Cells.
+2020;9(11):2401.
+44. Cocks M, Taheri D, Ball MW, Bezerra SM, Del Carmen RM, Ricardo BFP, et al.
+Immune-checkpoint status in penile squamous cell carcinoma: a North
+American cohort. Hum Pathol. 2017;59:55–61.
+45. Ottenhof SR, Djajadiningrat RS, Thygesen HH, Jakobs PJ, Jóźwiak K,
+Heeren AM, et al. The prognostic value of immune factors in the tumor
+microenvironment of penile squamous cell carcinoma. Front Immunol.
+2018;9:1253.
+
+**Publisher’s Note**
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

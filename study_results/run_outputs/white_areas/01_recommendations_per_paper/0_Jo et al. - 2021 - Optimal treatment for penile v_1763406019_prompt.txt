@@ -1,0 +1,897 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Jo *et al. BMC Urol      (2021) 21:13*
+https://doi.org/10.1186/s12894-020-00777-1
+## **RESEARCH ARTICLE**
+# Optimal treatment for penile verrucous carcinoma: a systematic literature review
+
+## **Open Access**
+
+
+Dong In Jo [1] [, Song Hyun Han](http://orcid.org/0000-0002-3075-4482) [1], Soon Heum Kim [1], Hye Young Kim [2], Hong Chung [3] and Hong Sup Kim [3*]
+
+**Abstract**
+
+**Background:** Verrucous carcinoma, a rare low-grade well-differentiated squamous cell carcinoma, is known for its
+favorable biological behavior and lack of metastatic potential. However, aggressive resection is problematic in terms
+of compromised function and aesthetics. Hence, more conservative treatments are needed. Methods: To identify the
+up-to-date general biological behavior, diagnosis, and treatment trends, we searched PubMed using the keyword
+“penile verrucous carcinoma” without restrictions on publication date. Results: Current treatments for penile verrucous
+carcinoma include wide surgical excision, seldom preventive lymphadenectomy, and conservative chemotherapy
+without surgery or local excision with safe margins. Despite the advent of partial penectomy to minimally impact
+function and aesthetics, affected patients experience psychosexual problems. Local excision can be used to save the
+penile shaft and glans penis without preventive lymphadenectomy or adjuvant therapy and can achieve good clinical
+prognosis with rare recurrence. Conclusions: To preserve the functional and cosmetic aspects, we recommend local
+excision, especially for tumors measuring < 3 cm and classified as stage T1 according to the 2016 tumor node metastasis clinical and pathological classification for penile cancer.
+**Keywords:** Local excision, Penile verrucous carcinoma, Squamous cell carcinoma
+
+
+**Background**
+Verrucous carcinoma, a rare low-grade well-differentiated squamous cell carcinoma (SCC), is known for its
+slowly compressive expanding warty growth and rare
+metastasis [1–3]. Aggressive treatment, such as penectomy, has been suggested based on the concept that
+penile verruca carcinoma (PVC) is malignant. In contrast, less aggressive treatment, such as local excision
+without preventive lymphadenectomy, has been suggested based on the concept that the biological behavior
+of PVC resembles that of a benign tumor. In patients who
+had undergone aggressive wide surgical excision of the
+glans penis and penile shaft, many functional, cosmetic,
+and psychosexual problems have been reported. To date,
+surgical treatment trends have been unclear regarding
+
+*Correspondence: hskim@kku.ac.kr
+3 Department of Urology, Konkuk University School of Medicine,
+Gukwon-‑daero 82, 27376 Chungju, Chungbuk, Republic of Korea
+Full list of author information is available at the end of the article
+
+
+the use of preservation surgery. Here we reviewed the
+literature to determine the most effective treatment for
+PVC and suggest best practices for treatment guidelines.
+
+**Methods**
+
+To summarize the prevalence, causative factors, diagnostic methods, treatment methods, clinical behaviors,
+diagnostic imaging techniques, and prognosis of PVC,
+we searched PubMed for relevant studies using the keyword “penile verrucous carcinoma” without restrictions
+on publication year and retrieved abstracts published in
+English that mentioned PVC diagnosis and treatment.
+The abstracts were screened according to inclusion and
+exclusion criteria. The inclusion criteria were presented
+cases and the corresponding treatment methods, microscopic diagnosis of PVC, availability of full text articles,
+and publication in English. The exclusion criteria were
+lack of tumor staging information and tumor staging
+beyond T2 (Stage T2 penile cancers are different from
+penile verrucous carcinoma and defined as invasive
+
+
+© The Author(s) 2021. **Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+[licence, visit http://creat ​iveco ​mmons ​.org/licen ​ses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creat ​iveco ​](http://creativecommons.org/licenses/by/4.0/)
+[mmons ​.org/publi ​cdoma ​in/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.](http://creativecommons.org/publicdomain/zero/1.0/)
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 2 of 14
+
+
+cancers such as squamous cell carcinoma and others).
+To check the association between treatment method and
+
+conditions of cases, the treatments were categorized into
+2 groups—the less aggressive treatment group included
+shaving, local excision, and no surgery and the aggressive
+treatment group included glansectomy, partial penectomy, and total penectomy. Individual factors included
+age, case history, tumor size, tumor shape, tumor location, tumor stage, adjuvant treatment, lymph node
+metastasis, disease-free status, recurrence, human papilloma virus (HPV) infection status, and treatment trends
+
+over time.
+The statistical analysis was performed using SPSS for
+Windows version 25 (SPSS Inc., Chicago, IL, USA). We
+hypothesized that aggressive treatment is more effective and investigated the difference in efficacy between
+the 2 treatments. We performed a t-test, a chi-squared
+test, and Fisher’s exact test to ensure data accuracy and
+a regression analysis to examine whether the individual
+factors were correlated in the 2 groups.
+
+**Results**
+
+A total of 276 articles were retrieved from PubMed.
+
+Among them, 68 abstracts that mentioned PVC diagnosis and/or treatment and were published in English
+were selected. The studies were published between 1969
+and February 2019. Most of the studies were published
+in English; other publication languages included Spanish (14), Chinese (3), French (3), Japanese (2), Bulgarian
+(1), Israeli (1), and Italian (1). Several studies mentioned
+regarding PVC treatment and were simple case reports
+
+[4–47]. Its rarity is supported by the fact that 1 case in
+a 10-year period and 13 cases in a 30-year period were
+reported [10, 48–51]. Among the 68 studies retrieved,
+28 met the inclusion criteria. Of those, 9 were excluded
+according to the exclusion criteria. Thus, a total of 19
+studies were subjected to full-text review (Fig. 1) [4–7,
+10, 11, 20, 23, 31, 32, 35, 37–40, 43, 45–47].
+The studies comprised a total of 58 cases of PVC
+(Table 1). The patients were 28–86 years of age. The case
+histories were 1–204 months long. The tumor sizes were
+0.8–10 cm. Fifty-4 of the cases included a description of
+tumor shape: papillary cauliflower in 30, keratotic hornlike in 3, and warty verrucous in 21. The tumors involved
+the glans in 33 cases, coronoid sulcus in 4, shaft in 4,
+prepuce in 7, prepuce and glans in 4, glans and coronoid sulcus and shaft in 1, prepuce and coronoid sulcus
+in 2, glans and coronoid sulcus in 2, and coronoid sulcus
+and shaft in 1. A total of 10 cases involved the coronoid
+
+sulcus, an area in which penile carcinoma would more
+rapidly infiltrate the penile fascia. Regarding staging, 52
+cases were classified as stage Ta, 4 were classified as T1,
+and 2 were classified as T1a. Regarding treatment, no
+
+
+surgery was performed in 4 cases, local excision was performed in 10, shaving in 3, Mohs surgery was performed
+in 2, circumcision was performed in 1, glansectomy was
+performed in 3, partial penectomy was performed in
+29, and total penectomy was performed in 6. Thus, 20
+cases involved less aggressive treatment and 38 cases
+involved aggressive treatment. Fifteen cases of adjuvant
+treatment were reported, including 1 of radiotherapy, 6
+of chemotherapy, 2 of chemoradiotherapy, and 6 of local
+therapy ­(CO 2 laser, cryotherapy, intralesional interferon,
+and topical fluorouracil). There was only 1 case of lymph
+node metastasis. The reported lymphadenopathies were
+revealed as inflammation without metastasis [4–6]. One
+case of bilateral lymph node metastasis, which was suspected as a mixed tumor condition with moderately
+differentiated SCC, was reported [35]. The follow-up
+period was 6–228 months (19 years). There were 7 cases
+of tumor recurrence: 5 in the less aggressive treatment
+group and 2 in the aggressive treatment group. All cases
+except 2 achieved tumor-free status. The other 2 patients
+died due to other malignant conditions [35, 47]. Six
+cases were associated with the following diseases: anaplastic spindle cell carcinoma suggestive of malignant
+transformation after radiotherapy, hybrid verrucous
+SCC, moderately differentiated SCC, lichen sclerosis,
+pseudoepitheliomatous keratotic and micaceous balanitis, and human immunodeficiency virus infection. HPV
+infection status was described as negative in 8 cases; the
+others were not specified. The reported cases following the year of issue categorized in 10-year increments:
+1 in the 1970s, 14 in the 1980s, 2 in the 1990s, 15 in the
+2000s, and 26 in the 2010s. The main diagnostic method
+was biopsy. Chest x-ray, HPV polymerase chain reaction
+(PCR), ultrasonography, and computed tomography were
+optional. The best diagnostic method was biopsy and
+HPV PCR. Ultrasonography, computed tomography, and
+magnetic resonance imaging (MRI) offered more precise
+information about tumor anatomy and regional lymphadenopathy. Two reports mentioned surgical treatment
+guidelines according to tumor size [8] and depth [17].
+Concerning surgical excision, the main treatment was
+radical surgery, including at least partial penectomy [4–
+47], even with the relatively small tumor size (< 3 cm) [8].
+The surgical margins were 2 cm in cases of partial penectomy and 0.3–1 cm in cases of local excision (Table 2) [5,
+6]. In contrast, some studies have emphasized the good
+clinical results of local excision because of the favorable
+
+clinical behavior of PVC [5, 6, 11, 15, 17, 31, 32, 37, 39,
+40, 43, 45–47].
+The results of the t-test using categories of age, case
+history, and tumor size and the result of the cross-sectional analysis of the categories of tumor shape, diseasefree status, and HPV status were excluded since some
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 3 of 14
+
+
+
+individual data for each case were missing (data not
+shown). In the cross-sectional analysis, tumor location,
+tumor stage, and recurrence were not significantly associated with either treatment. Regarding the clinical results,
+all but 2 patients (who died of other malignant conditions) achieved disease-free status. Regarding treatment
+efficacy, the recurrence rates did not differ significantly
+between the less aggressive and aggressive treatments.
+
+
+Patients who received adjuvant therapy tended to ultimately receive less aggressive treatment. Regarding the
+test statistics, the ­X [2] was 21.926 and the probability was
+0.000. Thus, the results were statistically significant.
+Regarding differences in treatment trends over time, the
+­X [2] was 12.549 and the probability was 0.005. Thus, the
+result was statistically significant (Table 3).
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 4 of 14
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 5 of 14
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 6 of 14
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 7 of 14
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 8 of 14
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 9 of 14
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 10 of 14
+
+
+**Table 2 Cumulative** **data** **of** **clinical** **presentations**
+**and treatments**
+
+**Total cases** **58**
+
+Age (years) 28–86
+
+Case History (months) 1–204
+
+Size (Cm) 0.8–10
+
+Tumor shape
+
+
+Papillary cauliflower
+Keratotic hornlike
+Warty verrucous
+Unknown
+
+Location (cases)
+
+Glans
+
+Coronoid sulcus
+
+Shaft
+Prepuce
+Prepuce and glans
+Glans and coronoid sulcus and shaft
+Prepuce and coronoid sulcus
+Glans and coronoid sulcus
+
+Coronoid sulcus and shaft
+
+Coronoid sulcus involvement
+
+Stage (cases)
+
+
+30
+
+3
+
+21
+
+4
+
+33
+
+4
+
+4
+
+7
+
+4
+
+1
+
+2
+
+2
+
+1
+
+10
+
+
+Ta 52
+
+T1 6
+
+Treatment (cases)
+
+
+No surgery
+Local excision
+Shaving
+Mohs surgery
+Circumcision
+Glansectomy
+Partial penectomy
+Total penectomy
+
+Adjuvant treatment (cases)
+
+Radiotherapy
+Chemotherapy
+Chemoradiotherapy
+Local therapy ­(CO 2 laser, cryotherapy, intralesional interferon,
+and topical fluorouracil)
+
+
+4
+
+10
+
+3
+
+2
+
+1
+
+3
+
+29
+
+6
+
+1
+
+6
+
+2
+
+6
+
+
+Lymphnode metastasis (cases) 1
+
+Follow up period (months) 6–228
+
+Recurrence (cases) 7
+
+Disease free (cases) 56
+
+Surgical margin (Cm) 0.3–2
+
+Cases following the year of issue (cases)
+
+
+1970s
+
+1980s
+
+1990s
+
+2000s
+
+2010s
+
+
+1
+
+14
+
+2
+
+15
+
+26
+
+
+According to the regression analysis of age, case history, tumor size, tumor shape, tumor location, tumor
+stage, adjuvant treatment, tumor recurrence, and treatment trends over time did not appear to have a significant negative or positive effect (data not shown).
+
+
+In summary, the associations between tumor location
+and treatment method and tumor depth and treatment
+method were not statistically significant. Adjuvant therapy tended to be performed alone or with local excision
+preventing a penectomy or glansectomy. Partial penectomy cases (aggressive treatment group) were predominantly reported in the 2010s. No intergroup differences
+were seen in clinical results. Therefore, our hypothesis
+that aggressive treatment is more effective was rejected.
+
+**Discussion**
+
+Some studies have reported that PVC is observed in
+approximately 2.4–24% of all penile cancers and 20% of
+verruciform lesions of the penis; PVC is also observed
+in patients with Buschke–Löwenstein, warty carcinoma, and papillary SCC [1–3]. Several cases have been
+reported during the past 2–3 decades among many countries due to its rarity [10, 48–51]. PVC primarily occurs
+in the glans penis, and phimosis and redundant prepuce
+are 2 of its important causes [2, 52]. Lichen sclerosus and
+pseudoepitheliomatous, keratotic, and micaceous balanitis are other possible causes [31–33, 53]. Local squamous
+epithelial hyperplasia and hyperkeratosis may be important in the development of PVC [54, 55]. Clinically, they
+do not cause significant pain, but they grow slowly and
+uninhibited, sometimes invading the shaft over the glans.
+In most cases, the patients present with a slow-growing
+mass with multiple papillary lesions [4–6].
+Biopsy and HPV PCR tests are basic diagnostic tools
+for differentiating PVC from HPV-related tumors.
+Increased immunohistochemical expression of markers
+such as Mdm2 and Ki67 and low expression of Bcl-2 may
+be useful for the detection of PVC [56–58]. Microscopically, the hematoxylin- and eosin-stained sections shows
+extension of the epithelium downward into the underlying tissues in a bulbous or drumstick process, while the
+tumor exhibits clear boundaries and rich lymphocytic
+infiltration into the surrounding mesenchyme [4–6].
+To avoid misdiagnosis, repeated deeper biopsies are
+recommended that include the basement membrane of
+
+the papillomatous tumor, especially in cases in which
+PVC is highly suspected. However, because the gross
+morphology of PVC is very similar to that of condyloma
+acuminatum, it can be difficult to identify. HPV is known
+to be closely associated with penile cancer and condyloma acuminatum in most cases [8]. In contrast, in all
+PVC cases, the pathogenesis is not associated with HPV
+infection [3, 59–61]. Thus, an HPV-negative status may
+be the key in the differential diagnosis of PVC. In our
+study, the differential diagnosis from condyloma acuminatum was confirmed in only 8 cases. We assume that
+diagnostic biopsy played a decisive role since HPV infection status was unknown.
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 11 of 14
+
+**Table 3 Cross analysis (chi-square) with Fisher’s exact test**
+
+**Operation** **Total** **χ** **[2]**
+
+**(p)**
+**Less aggressive** **Aggressive**
+**treatment** **treatment**
+
+Tumor location Glans Case 11 22 33 2.532
+
+(.686)
+
+% 55.0% 57.9% 56.9%
+
+Coronoid Case 4 6 10
+
+sulcus involvement
+
+% 20.0% 15.8% 17.2%
+
+Stage Ta Case 17 35 52 .713
+% 85.0% 92.1% 89.7% (.405)
+
+T1 Case 3 3 6
+
+% 15.0% 7.9% 10.3%
+
+Adjuvant treatment none Case 8 35 43 21.926**
+% 40.0% 92.1% 74.1% (.000)
+
+Radiotherapy Case 0 1 1
+
+% 0.0% 2.6% 1.7%
+
+Chemotherapy Case 4 2 6
+
+% 20.0% 5.3% 10.3%
+
+Chemoradiotherapy Case 2 0 2
+
+% 10.0% 0.0% 3.4%
+
+Local therapy Case 6 0 6
+
+% 30.0% 0.0% 10.3%
+
+Recurrence No Case 17 34 51 .247
+% 85.0% 89.5% 87.9% (.619)
+
+Yes Case 3 4 7
+
+% 15.0% 10.5% 12.1%
+
+Treatment trends over time fol- 1970s Case 1 0 1 12.549**
+lowing the year of issue % 5.0% 0.0% 1.7% (.005)
+
+1980s Case 2 12 14
+
+% 10.0% 31.6% 24.1%
+
+1990s Case 1 1 2
+
+% 5.0% 2.6% 3.4%
+
+2000s Case 10 5 15
+
+% 50.0% 13.2% 25.9%
+
+2010s Case 6 20 26
+
+% 30.0% 52.6% 44.8%
+
+*p < 0.05, **p < 0.01
+
+
+Surgical treatments reported in other studies focused
+on aggressive treatments, including glansectomy and
+partial or total penectomy with a 4–20-mm surgical margin [4, 5, 7, 8]. Partial penectomy with a 2-cm margin has
+traditionally been the suggested treatment for tumors
+involving the glans penis, with total penectomy being
+indicated when the tumor involves a larger portion of the
+penile shaft [49].
+However, since PVC has a relatively rare incidence and
+is termed carcinoma despite its favorable behavior, surgeons often lack of experience treating such cases and
+decide to unnecessarily remove part or all of the penis.
+
+
+Moreover, wide excision was commonly performed for
+relatively small masses (≤ 3 cm) [5]. However, since the
+1980s, local excision has been advised to preserve the
+penis [4–6],15,17. Mohs surgery was adopted in cases of
+PVC showing favorable behavior [15, 62]. The authors
+agree that local excision should be the first choice of
+treatment because of the favorable biological behavior
+of PVC. Treatments have been suggested according to 2
+general concepts: penectomy is mandatory because PVC
+is malignant; and less aggressive treatment as local excision is sufficient because the biological behavior of PVC
+resembles that of a benign tumor.
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 12 of 14
+
+
+This review revealed that the glans was the area most
+often involved in cases of PVC. We expected that distal
+and local lesions would be treated less aggressively. However, as a result, tumor location did not affect treatment
+aggressiveness. Interestingly, the coronoid sulcus involvement suggests that, in the absence of a dartos layer, penile
+carcinoma would more rapidly infiltrate the penile fascia,
+a known low-resistance pathway for local spread; thus,
+clinicians would expect a higher risk of tumor recurrence
+and inguinal involvement as well as a worse outcome.
+Thus, we expected that coronoid sulcus involvement
+would require more aggressive treatment. However, our
+results demonstrated 11 cases in the less aggressive treatment group versus 22 cases in the aggressive treatment
+group, respectively. Although there were more cases in
+the latter than the former group, the intergroup difference was insignificant.
+Regarding tumor depth, PVC is defined as a superficial stage Ta lesion by the 2016 Tumor Node Metastasis
+(TNM) classification, a so-called non-invasive verrucous
+carcinoma. Although no statistically significant intergroup difference was noted, aggressive treatments were
+more often applied than less aggressive treatments for
+superficial lesions. However, 20 cases of the less aggressive treatment group showed good clinical results. Stage
+T1 tumors were seen, even in cases of deeper lesions.
+This means that less aggressive treatments with careful follow-up of stage T1 tumors can also result in good
+post-treatment results.
+Even if a case of PVC is malignant, it may present as a
+benign tumor. Thus, to preserve functional and cosmetic
+results, we recommend that local excision with minimal
+surgical margins followed by careful observation be the
+first-line choice of treatment, especially for tumors measuring < 3 cm and classified as stage T1. In other conditions, the tumor should be considered not PVC and the
+excision should be widened. In our study, we excluded
+tumor staging beyond T2. Stage T2 penile cancers are
+different from PVC and defined as invasive cancers such
+as squamous cell carcinoma and others with bad prognosis. In these cases, aggressive treatment is recommended.
+Regarding adjuvant therapy, preventive inguinal lymphadenectomy was hardly used because of rarity of evident lesions [4, 5, 9, 34, 35, 63, 64]. Conservative systemic
+chemotherapy without surgery was reported [35, 38].
+Other adjuvant therapies for the verrucous lesion have
+been introduced, such as topical aminolevulinic acid–
+photodynamic therapy; topical, systemic, or intralesional
+interferon; cryotherapy; laser therapy; and radiation
+
+[35–45, 65, 66]. Our results demonstrated that adjuvant
+treatments were more predominantly applied when less
+aggressive treatment was administered. This finding supports that conservative surgery could be the first choice
+
+
+of treatment. However, the 4 cases treated with intralesional interferon and 1 case of cryotherapy with good
+clinical results could not be evaluated due to the absence
+
+of information on tumor stage [25, 41, 42].
+This literature review revealed that inguinal lymphadenectomy was performed in certain patients; however,
+no evident lesions were found in such cases [4, 5, 9, 34,
+35, 63, 64
+]. The 1 case of lymph node metastasis reported
+was suspected to be a combined lesion with moderately
+differentiated SCC [35]. Thus, we agree that inguinal
+lymphadenectomy is not an appropriate prophylactic
+treatment. For lymphadenopathy, treatment with antiinflammatory drugs may be the treatment of choice, followed by a lymph node biopsy as needed. Thus, if a case
+of PVC is confirmed by biopsy and no signs of inguinal
+lymphadenopathy are seen on physical examination, further workups such as computed tomography or ultrasonography could be postponed initially, and high-end
+MRI saved for later and then used if needed to investigate
+tumor depth [67].
+As for tumor behavior, complicated microlesions of
+invasive SCC, a certain number of which eventually
+progressed to other invasive types, have been observed
+46, 68
+in < 30% of the reported cases of PVC [ ]. There was
+one case of recurrent SCC after anaplastic transformation following radiation therapy [47]. Therefore, close follow-up for the early detection of any sign of recurrence
+requiring additional resection is essential after a less
+aggressive treatment, such as local excision. In our study,
+all but 2 cases achieved tumor-free status during long
+follow-up periods despite 7 cases of recurrence. Regarding those 2 cases, 1 was suspected as malignant transformation after radiotherapy to anaplastic spindle cell
+carcinoma [47] and the other was the previously mentioned lymph node metastasis case that eventually failed
+treatment and required total penectomy due to partial
+response after chemotherapy [35].
+Despite the favorable clinical behavior of PVC and the
+many studies emphasizing less aggressive treatments, the
+use of aggressive treatment was predominantly reported
+in the 2010s. However, we do not think that this reflects
+the recent treatment trends because the timing of the
+reported treatment does not represent the actual clinical
+practice at the time.
+However, information is still lacking about the association between treatment and tumor condition, evidence of
+which could lead us to define an appropriate guideline. Due
+to the limitations of a literature review, controllable factors were often undetermined. Thus, we recommend that
+future studies always include a unified scale for multiple
+factors including tumor condition and functional outcome.
+This mission will require long discussions and consensus of
+many experts. Despite this limitation, we believe that our
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 13 of 14
+
+
+findings are meaningful since this is the first review of diagnostic and treatment trends of PVC, a rare condition.
+
+**Conclusion**
+The review performed here revealed that PVC tends not
+to recur or metastasize after resection but that surgical
+treatment tends to remove too much tissue. However, in
+most cases of local excision, the wound heals well and local
+recurrence rarely occurs. Therefore, considering the ability of local excision with minimal surgical margins to spare
+the functional and cosmetic aspects of the penile shaft and
+glans penis, we recommend it as the first-line choice of
+treatment with observation, especially for tumors measuring < 3 cm and classified as stage T1 according to the 2016
+tumor node metastasis clinical and pathological classification for penile cancer.
+
+**Abbreviations**
+
+HPV: Human papilloma virus; MRI: Magnetic resonance imaging; PCR: Polymerase chain reaction; PVC: Penile verruca carcinoma; SCC: Squamous cell
+carcinoma; TNM: Tumor node metastasis.
+
+**Acknowledgements**
+[We would like to thank Editage (www.edita ​ge.co.kr) for English language](http://www.editage.co.kr)
+editing.
+
+**Authors’ contributions**
+
+HK have made substantial contributions to the conception of the work; SH, SK,
+HYK and HC have made substantial contributions to the acquisition and analysis of data; DJ have made substantial contributions to the design of the work
+and the interpretation of data and have drafted the work and substantively
+revised it. All authors have read and approved the final manuscript.
+
+**Funding**
+None.
+
+**Availability of data and materials**
+Not applicable.
+
+**Ethics approval and consent to participate**
+Not applicable.
+
+**Consent to publish**
+Not applicable.
+
+**Competing interests**
+The authors declare no conflicts of interest.
+
+**Author details**
+1 Department of Plastic and Reconstructive Surgery, Konkuk University School
+of Medicine, Chungju, Republic of Korea. [2] Department of Anesthesiology
+and Pain Medicine, Konkuk University School of Medicine, Chungju, Republic
+of Korea. [3] Department of Urology, Konkuk University School of Medicine,
+Gukwon-‑daero 82, 27376 Chungju, Chungbuk, Republic of Korea.
+
+Received: 3 January 2020  Accepted: 21 December 2020
+
+**References**
+1. Chaux A, Velazquez EF, Algaba F, et al. Developments in the pathology of
+penile squamous cell carcinoma. Urology. 2010;76(2 Suppl 1):S7-14.
+
+
+2. Schwartz RA. Verrucous carcinoma of the skin and mucosa. J Am Acad
+Dermatol. 1995;32(1):1–21.
+3. Stankiewicz E, Kudahetti SC, Prowse DM, et al. HPV infection and
+immunochemical detection of cell-cycle markers in verrucous carcinoma of the penis. Mod Pathol. 2009;22(9):1160–8.
+4. Li F, Xu Y, Wang H, et al. Diagnosis and treatment of penile verrucous
+carcinoma. Oncol Lett. 2015;9(4):1687–90.
+5. Chuanyu S, Ke X, Jie Z, et al. Surgical treatment for 11 cases of penile
+verrucous carcinoma. Ann Dermatol. 2011;23(Suppl 3):S346-349.
+6. Dong In Jo, Hong Sup Kim, et al. Local excision for the treatment of
+penile verrucous carcinoma. Urology Case Reports 2017;13:16–18.
+7. Hatzichristou DG, Apostolidis A, Tzortzis V, et al. Glansectomy: an
+altemative surgical treatment for Buschke-Löwenstein tumors of the
+penis. Urology. 2001;57:966–9.
+8. Chen GX, Li ZH, Zhang XS, Ding DG, Zhu XB, Chen X. Clinicopathological features and management of penile verrucous carcinoma. Zhonghua Nan Ke Xue. 2018;24(1):62–6.
+9. Bañón Pérez V, Nicolás Torralba JA, Valdelvira Nadal P, Martínez Barba E,
+Server Pastor G, López Cubillana P, Prieto González A, Pérez AM. Penile
+verrucous carcinoma. Arch Esp Urol. 1999;52(9):937–40.
+10. Johnson DE, Lo RK, Srigley J, Ayala AG. Verrucous carcinoma of the
+penis. J Urol. 1985;133(2):216–8.
+11. Philippou P, Kitsios C, Miliatou M, Poullou C, Konstantinou P. Organsparing surgery for a giant verrucous carcinoma of the penile
+shaft: a case report and review of the literature. Case Rep Urol.
+[2019;2019:1537379. https ​://doi.org/10.1155/2019/15373 ​79.](https://doi.org/10.1155/2019/1537379)
+12. Wang ZL, Ou MR, Sun XL, Wang XF, Zhang JF, Sun LJ, Zhao P, Ji XR. Diagnosis and treatment of penile verrucous carcinoma: a report of 4 cases.
+Zhonghua Nan Ke Xue. 2007;13(6):527–30.
+13. Venkov G. Verrucous carcinoma of the penis. Khirurgiia (Sofiia).
+2003;59(6):22–4.
+14. Sánchez Zalabardo D, Toledo Santana G, Arocena García-Tapia J, Sanz
+Pérez G, Diez-Caballero Alonso F, Martín-Marquina Aspiunza A, Rosell
+CD. Verrucous carcinoma of the penis: report of 2 cases. Arch Esp Urol.
+2001;54(1):76–9.
+15. Muro Vidaurre I, Hernáez Manrique I, Sanz Jaka JP, Rekarte Barriola JA,
+Lluch CA. Verrucous carcinoma of the penis: local excision with the
+Mohs micrographic technique. Arch Esp Urol. 1996;49(9):959–64.
+16. Llarena Ibarguren R, Pérez García A, Zabala Egurrola JA, Arruza EA.
+Verrucous carcinoma of the penis: apropos of 2 cases. Arch Esp Urol.
+1989;42(1):30–2.
+17. Graziotti P, Maio G, Aragona F, Dal Bianco M, Cisternino A, Dante S.
+Verrucous carcinoma of the penis. 2 cases and review of the literature.
+J Chir (Paris). 1988;125(5):364–366.
+18. Yaman I, Bozdag AD, Derici H, Tansug T, Reyhan E. Verrucous carcinoma
+arising in a giant condyloma acuminata (Buschkelowenstein Tumour):
+ten-year follow-up. Ann Acad Med Singapore. 2011;40(2):104–5.
+19. Zhu JW, Luo D, Li CR, Lu Y, Ji X, Zhu J, Ming YL, Shen CH. A case of
+penile verrucous carcinoma associated with cutaneous horn. Clin Exp
+Dermatol. 2007;32(2):213–4.
+20. Yeager JK, Findlay RF, McAleer IM. Penile verrucous carcinoma. Arch
+Dermatol. 1990;126(9):1208–10.
+21. Castillo Jimeno JM, Queron Nasarre I, Cea Rey SA, Paredero Paredero S,
+Jaso López AC, Córdoba A. Verrucous carcinoma of the penis: report of
+two cases. Arch Esp Urol. 1996;49(7):757–60.
+22. Beddouche A, Kallat A. Penile verrucous carcinoma. Pan Afr Med J.
+2016;24:188.
+23. Noronha TM, Girisha BS, Bhat SP, Christy CM, Handattu S, Fernandes
+MS. A rare case of verrucous carcinoma of penis in an human immunodeficiency virus- infected patient. Indian J Sex Transm Dis AIDS.
+2015;36(2):192–4.
+24. Fujimoto N, Nakanishi G, Ushida H, Okada Y, Tanaka R, Fujimoto W, Jo
+Y, Hara R, Tanaka T. Penile verrucous carcinoma arising in HPV-negative
+condylomatous papules. Eur J Dermatol. 2011;21(3):436–8.
+25. Kanik AB, Lee J, Wax F, Bhawan J. Penile verrucous carcinoma in a
+37-year-old circumcised man. J Am Acad Dermatol. 1997;37(2 Pt
+2):329–31.
+26. Vesga Molina F, Llarena Ibarguren R, Acha Pérez M, Albisú Tristán A,
+Blasco de Villalonga M, Arruza Echevarría A, Pertusa Peña C. Verrucous
+carcinoma of the penis: our caseload. Arch Esp Urol. 1993;46(1):23–25.
+
+Jo *et al. BMC Urol      (2021) 21:13* Page 14 of 14
+
+
+27. Rossi M, Giustina A, Tonetti F, Gorini P, Mina A, Dutto C, Nobili U. Verrucous
+carcinoma of the penis. A case report and review of the literature. Minerva Chir. 1991;46(18):999–1002.
+28. Castiñeiras Fernández J, López Múñoz A, Cabello Torres P, Vilches TJ. Verrucous carcinoma of the penis. Actas Urol Esp. 1991;15(2):169–72.
+29. Shah PJ, Abrams PH, Gaches CG, Ashken MH, McCann BG. Verrucous
+carcinoma of the penis or Buschke-Löwenstein tumour. Eur Urol.
+1981;7(2):78–80.
+30. Smith RB, Young HH 2nd, Chaffey BT. Verrucous carcinoma of the penis:
+report of a case and review. Br J Urol. 1969;41(3):327–31.
+31. Child FJ, Kim BK, Ganesan R, Southern SA, Herrington CS, Calonje E.
+Verrucous carcinoma arising in pseudoepitheliomatous keratotic and
+micaceous balanitis, without evidence of human papillomavirus. Br J
+Dermatol. 2000;143(1):183–7.
+32. Weber P, Rabinovitz H, Garland L. Verrucous carcinoma in penile lichen
+sclerosus et atrophicus. J Dermatol Surg Oncol. 1987;13(5):529–32.
+33. Barbagli G, Palminteri E, Mirri F, Guazzoni G, Turini D, Lazzeri M. Penile
+carcinoma in patients with genital lichen sclerosus: a multicenter survey.
+J Urol. 2006;175(4):1359–63.
+34. Seixas AL, Ornellas AA, Marota A, et al. Verrucous carcinoma of the penis:
+retrospective analysis of 32 cases. J Urol. 1994;152:1476–9.
+35. Sheen MC, Sheu HM, Jang MY, et al. Advanced penile verrucous
+carcinoma treated with intra-aoritc infusion chemotherapy. J Urol.
+2010;183(5):1830–5.
+36. He X, Zhang J, Tan L, Wang W, Song Y, Wang H, Zhang X, Kou H1, Lu Y.
+Treatment of verrucous carcinoma in penis with topical aminolevulinic
+acid photodynamic therapy: An effective and safe treatment method.
+Photodiagnosis Photodyn Ther. 2018;24:232–236.
+37. Eliason M, Bowen G, Bowen A, Hazard L, Samlowski W. Primary
+treatment of verrucous carcinoma of the penis with fluorouracil,
+cis-diamino-dichloro-platinum and radiation therapy. Arch Dermatol.
+2009;145(8):950–2.
+38. Sheen MC, Sheu HM, Huang CH, Wang YW, Chai CY, Wu CF. Penile
+verrucous carcinoma successfully treated by intra-aortic infusion with
+methotrexate. Urology. 2003;61(6):1216–20.
+39. Michelman FA, Filho AC, Moraes AM. Verrucous carcinoma of the penis
+treated with cryosurgery. J Urol. 2002;168(3):1096–7.
+40. Gómez De La Fuente E, Castaño Suarez E, Vanaclocha Sebastian F,
+Rodriguez-Peralto JL, Iglesias Díez L. Verrucous carcinoma of the penis
+completely cured with shaving and intralesional interferon. Dermatology.
+2000;200(2):152.
+41. Maiche AG, Pyrhonen S. Verrucous carcinoma of the penis: three cases
+treated with interferon-alpha. Br J Urol. 1997;79(3):481–3.
+42. Pyrhönen S, Maiche AG, Mäntyjärvi R. Verrucous carcinoma of the penis
+successfully treated with interferon. Br J Urol. 1991;68(1):102–4.
+43. Carson TE. Verrucous carcinoma of the penis. Successful treatment
+with cryosurgery and topical fluorouracil therapy. Arch Dermatol.
+1978;114(10):1546–1547.
+44. Ilkay AK, Chodak GW, Vogelzang NJ, Gerber GS. Buschke-Lowenstein
+tumor: therapeutic options including systemic chemotherapy. Urology.
+1993;42(5):599–602.
+45. Martin JM, Molina I, Monteagudo C, Marti N, Lopez V, Jorda E. BuschkeLowenstein tumor. J Dermatol Case Rep. 2008;2(4):60–2.
+46. Kato N, Onozuka T, Yasukawa K, Kimura K, Sasaki K. Penile hybrid
+verrucous-squamous carcinoma associated with a superficial inguinal
+lymph node metastasis. Am J Dermatopathol. 2000;22(4):339–43.
+47. Fukunaga M, Yokoi K, Miyazawa Y, Harada T, Ushigome S. Penile verrucous
+carcinoma with anaplastic transformation following radiotherapy. A case
+report with human papillomavirus typing and flow cytometric DNA studies. Am J Surg Pathol. 1994;18(5):501–505.
+48. Korczak D, Siegel Y, Lindner A. Verrucous carcinoma of the penis. Harefuah. 1989;117(12):436–7.
+49. Zheng FF, Liang YY, Guo YS, Dai YP, Zheng KL. Diagnosis and therapy
+for penile cancer: a report of 46 cases with literature review. Ai Zheng.
+2008;27(9):962–5.
+
+
+50. Heyns CF, van Vollenhoven P, Steenkamp JW, Allen FJ. Cancer of the
+penis–a review of 50 patients. S Afr J Surg. 1997;35(3):120–4.
+51. Bañón Pérez VJ, Nicolás Torralba JA, Valdelvira Nadal P, Server Pastor G,
+Martínez Barba E, Gómez Gómez G, Prieto González A, López Cubillana P, Pérez AM. Malignant neoplasms of the penis. Actas Urol Esp.
+2000;24(8):652–8.
+52. Chen MF, Chen WC, Wu CT, et al. Contemporary management of penile
+cancer including surgery and adjuvant radiotherapy: an experience in
+Taiwan. World J Urol. 2004;22:60–6.
+53. Alvarez Alvarez C, Meijide Rico F, Rodríguez González L, Antón Badiola
+I, Zungri Telo E, Antonio Ortiz-Rey J. Verrucous carcinoma of the penis
+arising from a lichen planus. A true preneoplastic lesion? Actas Urol Esp.
+2006;30(1):90–92.
+54. Chaux A, Cubilla AL. The role of human papillomavirus infection in the
+pathogenesis of penile squamous cell carcinomas. Semin Diagn Pathol.
+2012;29:67–71.
+55. Velazquez EF, Chaux A, Cubilla AL. Histologic classification of penile
+intraepithelial neoplasia. Semin Diagn Pathol. 2012;29:96–102.
+56. Ouban A1, Dellis J, Salup R, Morgan M.: Immunohistochemical expression
+of Mdm2 and p53 in penile verrucous carcinoma. Ann Clin Lab Sci. 2003
+Winter;33(1):101–106.
+57. Medina Pérez M, Valero Puerta J, Martínez Igarzabal MJ. Verrucous carcinoma of the penis with intense basal expression of Ki 67. Arch Esp Urol.
+1999;52(9):983–5.
+58. Saeed S, Keehn CA, Khalil FK, Morgan MB. Immunohistochemical
+expression of Bax and Bcl-2 in penile carcinoma. Ann Clin Lab Sci. 2005
+Winter;35(1):91–96.
+59. Masih AS, Stoler MH, Farrow GM, Wooldridge TN, Johansson SL. Penile
+verrucous carcinoma: a clinicopathologic, human papillomavirus typing
+and flow cytometric analysis. Mod Pathol. 1992;5(1):48–55.
+60. Chan KW, Lam KY, Chan AC, Lau P, Srivastava G. Prevalence of human
+papillomavirus types 16 and 18 in penile carcinoma: a study of 41 cases
+using PCR. J Clin Pathol. 1994;47(9):823–6.
+61. KIMBERLY L. BRADY, MD, MARY GAIL MERCURIO, MD, AND MARC
+D. BROWN, MD. Malignant Tumors of the Penis. Dermatol Surg.
+2013;39:527–547.
+62. Shindel AW, Mann MW, Lev RY, Senge lmann R, Petersen J, Hruza GJ,
+Brandes SB. Mohs micrographic surgery for penile cancer: management
+and long-term follow up. J Urol. 2007;178(5):1980–1985.
+63. López Alcina E, Rodrigo Aliaga M, Martínez Sarmiento M, Monserrat
+Monfort JJ, Rivas Rodero S, Jiménez CF. Verrucous carcinoma of the penis.
+Actas Urol Esp. 1996;20(6):560–3.
+64. Ricós Torrent JV, Casanova Ramón-Borja J, Iborra Juan I, Monros Lliso JL,
+Dumont Martínez R, Solsona Nárbon E. Verrucous carcinoma of the penis.
+Report of 8 cases. Actas Urol Esp. 1990;14(6):410–412.
+65. Clemente Ramos LM, Maganto Pavón E, García González R, Burgos Revilla
+FJ, Fernández Cañadas S, Crespo Martínez L, Castañeda Casanova A,
+Escudero Barrilero A. Verrucous carcinoma of the penis. A report of 6 new
+cases and a review of the diagnostic and therapeutic aspects. Actas Urol
+Esp. 1997;21(4):372–376.
+66. Hughes PS. Cryosurgery of verrucous carcinoma of the penis (BuschkeLowenstein tumor). Cutis. 1979;24(1):43–5.
+67. Nishikawa Y, Maruoka M, Miyauchi T, Nagayama T, Komatsu T, Matsuzaki
+O. Verrucous carcinoma of the penis: a case report and MRI findings.
+Hinyokika Kiyo. 1993;39(6):573–5.
+68. Shimizu A, Tamura A, Ishikawa O. Invasive squamous cell carcinoma
+arising from verrucous carcinoma. Recognition of verrucous carcinoma of
+skin as an in situ carcinoma. Eur J Dermatol 2006;16(4):439–442.
+
+**Publisher’s Note**
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

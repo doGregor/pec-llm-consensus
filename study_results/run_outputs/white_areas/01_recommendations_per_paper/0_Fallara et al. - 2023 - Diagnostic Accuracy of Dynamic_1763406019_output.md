@@ -1,0 +1,8 @@
+Based on the provided systematic review and meta-analysis, the following explicit treatment recommendations for penile cancer are identified. These recommendations are primarily focused on the management of inguinal lymph nodes in a specific patient population.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Lymph Node Management (Staging)** | For patients with primary penile cancer and clinically impalpable inguinal lymph nodes (cN0), a dynamic sentinel lymph node biopsy (DSNB) is recommended for inguinal lymph node staging to detect micrometastatic disease. |
+| **Lymph Node Management (Treatment)** | In patients diagnosed with metastatic inguinal nodes on histology following a dynamic sentinel lymph node biopsy (DSNB), offering a completion radical inguinal lymph node dissection (RLND) is the standard treatment approach. |
+| **Follow-up Care** | Following a negative dynamic sentinel lymph node biopsy (DSNB), patients must undergo strict and careful follow-up. This is crucial due to the procedure's false-negative rate (pooled sensitivity of 0.87), which can lead to undertreatment if not monitored. |
+| **Lymph Node Management (Alternative Strategy)** | For very selected groups of patients with a positive dynamic sentinel lymph node biopsy (DSNB), strict surveillance *might be considered* as a potential alternative strategy to immediate completion RLND to avoid overtreatment. However, the paper notes that better methods for patient stratification are needed before this can be broadly recommended. |

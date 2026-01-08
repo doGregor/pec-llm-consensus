@@ -1,0 +1,855 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    **Review**
+# Which interventions improve HPV vaccination uptake and intention in children, adolescents and young adults? An umbrella review
+## Clare Bennett  ‍ ‍, [1] Deborah Edwards, [1] Sue M Sherman, [2] Peter Baker, [3] Dur- ­e- ­Nayab Waheed, [4] Alex Vorsters, [5] Hüsna Sarıca Çevik  ‍ ‍, [6] Emilie Karafillakis, [7] Gillian Prue, [8] Daniel Kelly [1]
+
+
+
+- Additional supplemental
+material is published online
+only. To view, please visit the
+[journal online (http:// ​dx. ​doi. ​](http://dx.doi.org/10.1136/sextrans-2022-055504)
+[org/ ​10. ​1136/ ​sextrans- ​2022- ​](http://dx.doi.org/10.1136/sextrans-2022-055504)
+[055504).](http://dx.doi.org/10.1136/sextrans-2022-055504)
+
+1 College of Biomedical and Life
+Sciences, Cardiff University,
+Cardiff, UK
+2 School of Psychology, Keele
+University, Staffordshire, UK
+3 European Cancer Organisation,
+Brussels, Belgium
+4 Faculty of Medicine, University
+of Antwerp, Wilrijk, Belgium
+5 Vaccine & infectious disease
+institute, University of Antwerp,
+Antwerp, Belgium
+6 Çankaya District Health
+Directorate, Ankara, Turkey
+7 The Vaccine Confidence Project,
+London School of Hygiene &
+Tropical Medicine, London, UK
+8 School of Nursing and
+Midwifery, Medical Biology
+Centre, Queen’s University
+Belfast, Belfast, UK
+
+**Correspondence to**
+Dr Clare Bennett, Cardiff
+University College of Biomedical
+and Life Sciences, Cardiff,
+Cardiff, UK; ​BennettCL3@ ​
+Cardiff. ​ac. ​uk
+
+Received 7 April 2022
+Accepted 16 August 2022
+Published Online First
+5 September 2022
+
+© Author(s) (or their
+employer(s)) 2022. No
+commercial re- ­use. See rights
+and permissions. Published
+by BMJ.
+
+**To cite:** Bennett C,
+Edwards D, Sherman SM,
+et al. Sex Transm Infect
+2022; **98** :599–607.
+
+
+**ABSTRACT**
+**Background** Human papillomavirus (HPV)
+vaccination offers protection against the virus
+responsible for cervical, oropharyngeal, anal, vulval and
+penile cancers. However, there is considerable variation
+across, and even within, countries as to how HPV
+vaccination is offered and accepted. This review aimed
+to identify what interventions exist to promote uptake
+and how effective they are.
+**Methods** We conducted an umbrella review using
+the JBI (Joanna Briggs Institute) methodology
+to evaluate routine or catch- ­up interventions to
+increase HPV vaccination uptake and/or intention
+for children aged 9 years and older, adolescents and
+young adults up to 26. Comprehensive searches for
+English language quantitative systematic reviews,
+published between January 2011 and July 2021, were
+conducted across five databases. After reviewing titles
+and abstract, relevant papers were independently
+assessed in detail.
+**Main results** From 1046 records identified, 10
+articles were included in the review. They reported on
+95 randomised controlled trials, 28 quasi- ­experimental
+studies, 14 cohort studies, 6 non- ­randomised pretest/
+post- ­test studies with control groups, 5 single- ­group
+pretest/post- ­test studies, 1 single- ­group post- ­test
+study and 1 randomised longitudinal study. Some
+interventions promoted change at the individual,
+community or organisational level, while others used a
+multicomponent approach. Face- ­to- ­face presentations,
+printed information and supplementing both strategies
+with additional components appear effective at
+increasing vaccination intention, while reminders
+and multicomponent strategies, especially ones that
+include some intervention aimed at provider level,
+appear effective at increasing vaccination uptake.
+Interventions that did not lead to an improvement
+in HPV vaccination intention or uptake varied in
+design and impacts were inconsistent across children/
+adolescents, young adults or parents.
+**Conclusion** The evidence suggests that there is
+no single solution to increasing vaccination uptake
+and that different approaches may be better suited
+to certain populations. However, generalisations are
+limited by poor reporting and a paucity of studies
+beyond the USA. Further high- ­quality studies,
+therefore, are needed to understand how best to
+increase HPV vaccination uptake in different target
+populations.
+
+
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+
+⇒ Elimination of human papillomavirus (HPV) is
+possible through HPV vaccination.
+
+WHAT THIS STUDY ADDS
+
+⇒ This is the first umbrella review to explore the
+evidence for interventions used to improve HPV
+vaccination intention and uptake in children,
+adolescents and young adults. We found no
+single solution to increasing vaccination uptake
+but suggest that specific approaches may be
+more suited to some populations than others.
+Face- ­to- ­face presentations, printed information
+and supplementing both strategies with
+additional components appear effective at
+increasing vaccination intention, and reminders
+and multicomponent strategies, especially
+ones that include some intervention aimed at
+provider level, appear effective at increasing
+vaccination uptake.
+
+HOW THIS STUDY MIGHT AFFECT RESEARCH,
+
+PRACTICE OR POLICY
+
+⇒ Further high- ­quality research is needed
+to understand how best to increase HPV
+vaccination uptake in different populations, as
+well as in countries where vaccine availability
+may be limited.
+
+**INTRODUCTION**
+There are approximately 200 different types of
+human papillomavirus (HPV), [1] with types 16 and
+18 being estimated to cause around 5% of all cancers
+worldwide. [2] The virus is implicated in virtually all
+cases of cervical cancer, almost 90% of anal cancers
+and a significant proportion of oropharyngeal,
+penile, vaginal and vulval cancers. [3] Approximately
+20% of HPV cancer cases occur in men, although
+one study suggests the proportion could be closer
+to 30%. [4]
+
+The overwhelming majority of cancers caused
+by HPV can be prevented by vaccination, ideally
+administered in early adolescence. A large- ­scale
+study of women in England found that the HPV
+immunisation programme has ‘successfully almost
+eliminated’ cervical cancer, especially in individuals who were offered the vaccine at age 12–13
+years. [5] However, it is increasingly accepted that
+
+
+Bennett C, et al. Sex Transm Infect 2022; **98** :599–607. doi:10.1136/sextrans-2022-055504 599
+
+**Review**
+
+gender- ­neutral HPV vaccination programmes are central to
+efforts to eliminate all cancers caused by HPV, [6] as recognised in
+Europe’s Beating Cancer Plan 2021. [7]
+
+Elimination of HPV is possible if 80% coverage in girls and
+boys is reached and if high vaccine efficacy is maintained over
+time. [8] Most countries do not reach that threshold, [9] with ‘vaccine
+hesitancy’ being a key barrier. [10] This makes it critically important to understand factors that promote the uptake of HPV
+vaccination. There is also a need to identify the effectiveness of
+evidence- ­based interventions aimed at highlighting constituent
+elements of successful interventions that can be recommended,
+or indeed strengthened, for different target populations. This
+project aimed to identify interventions by drawing on existing
+systematic reviews that have collated the available published
+evidence, and to use this to highlight approaches that might be
+most successful in increasing HPV vaccination uptake and intention in children, adolescents and young adults. To date, no other
+umbrella reviews have been conducted in this area. The aim
+of this umbrella review was, therefore, to answer the question
+‘What is the evidence for interventions used to improve HPV
+vaccination uptake in children, adolescents and young adults?’
+The specific objectives were to provide an overview of interventions used to improve HPV vaccination uptake and intention
+and to summarise their effectiveness. A modified version of the
+social ecological model was used throughout, as a framework for
+considering the various interventions. [11]
+
+**METHODS**
+This umbrella review used the JBI methodology for umbrella
+reviews, [12] following the study protocol which was registered
+with PROSPERO (CRD42021273894). [13]
+
+**Inclusion criteria**
+This review considered systematic reviews of quantitative
+studies (randomised controlled trials (RCTs), quasi- ­experimental
+and predesign–post design) that evaluated routine or catch- ­up
+interventions aimed at increasing HPV vaccination coverage in
+subjects 9–26 years of age or to promote acceptability among
+parents/guardians. Uptake of the HPV vaccination (initiation,
+completion and receipt of any dose) was considered the primary
+outcome. The secondary outcome was intent.
+
+**Search strategy**
+[Comprehensive searches (online supplemental file 1) for English](https://dx.doi.org/10.1136/sextrans-2022-055504)
+language systematic reviews were conducted across five databases: MEDLINE, Embase, Global Health, CINAHL and Web of
+Science, from January 2011 to July 2021. Hand searching and
+forward citation tracking were also conducted.
+
+**Study screening, selection and assessment of methodological**
+**quality**
+All citation titles and abstracts were screened independently by
+two reviewers from the review team (CB, DE, SMS, D- ­e- ­NW, AV,
+HSÇ, EK, GP) and considered against topic inclusion criteria.
+All relevant papers were retrieved in full and assessed against
+the inclusion criteria independently by two reviewers using a
+purposely designed screening tool. Eligible systematic reviews
+were appraised independently by two reviewers for methodological quality using the standardised JBI critical appraisal instrument. [12] Throughout, disagreements were resolved through
+discussion or with a third reviewer. All reviews, regardless of
+their methodological quality, underwent data extraction and
+synthesis.
+
+
+**Data extraction**
+[Demographic data (online supplemental files 2 and 3) and](https://dx.doi.org/10.1136/sextrans-2022-055504)
+[outcome data (online supplemental files 4- ­8) were extracted](https://dx.doi.org/10.1136/sextrans-2022-055504)
+directly from tables with one reviewer from the team extracting
+the data, and a second checking independently for accuracy and
+completeness.
+
+**Data summary**
+Due to the heterogeneity of the individual interventions, an
+overall meta- ­analysis of effect estimates was not possible. Additionally, due to the poor reporting of summary statistics, we
+were unable to produce a standardised metric across the individual findings across these systematic reviews. [14] The majority
+of primary studies presented in the included systematic reviews
+only reported the direction of effect, and there was wide inconsistency in the effect measures and/or data reported across
+studies. The synthesis method chosen was therefore based on
+vote counting, underpinned by the direction of effect or statistical significance. [15] The evidence of effect across the studies
+[within each review is presented in tables (online supplemental](https://dx.doi.org/10.1136/sextrans-2022-055504)
+[files 4- ­8) and reported narratively as a series of thematic summa-](https://dx.doi.org/10.1136/sextrans-2022-055504)
+ries, [16] first, by participant group, and then by effectiveness of
+interventions across different outcomes. To organise effective
+interventions in a meaningful way, a version [17 18] of the social
+ecological model [11] was employed to identify whether HPV
+vaccination interventions were targeted at individual, community and organisational levels.
+
+**Flow of studies through the review**
+The search strategy identified 1046 records. After removal
+of duplicates, initial screening and eligibility assessment, 10
+systematic reviews were considered suitable for inclusion. The
+Preferred Reporting Items for Systematic Reviews and Meta- ­
+Analyses (PRISMA) checklist was followed for the reporting of
+this review. The flow of studies through the review is presented
+in a PRISMA flow diagram (figure 1). [19] Excluded studies are
+[detailed in online supplemental file 9. All reviews underwent](https://dx.doi.org/10.1136/sextrans-2022-055504)
+critical appraisal (table 1) and were considered suitable for
+inclusion.
+
+**Methodological quality**
+The results of the critical appraisal are summarised in table 1.
+Methodological quality was difficult to ascertain in relation
+to assessment of publication bias and the conduct of critical
+appraisal due to limitations in reporting.
+
+**FINDINGS OF THE REVIEW**
+**Characteristics of included systematic reviews**
+Across the 10 systematic reviews, 110 unique primary studies
+were included. The corrected covered area [20] was 4%, meaning
+that there was a slight overlap (n=31) of primary studies duplicated across all systematic reviews. Allowing for this, the reviews
+included 95 RCTs, 28 quasi experimental studies, 14 cohort
+studies, 6 non- ­randomised pretest/post- ­test studies with control
+groups, 5 single group pretest/post- ­test studies, 1 single- ­group
+post- ­test study and 1 randomised longitudinal study. Primary
+studies were published between 2004 and 2020. A variety of
+methods of analysis were conducted with narrative synthesis
+being the most common (n=6). [21–26]
+
+Most of the included primary studies in the systematic reviews
+were conducted in the USA. [21–30] Other countries that were
+represented were Australia (n=5), [21–23 26 29] the UK, (n=3) [22 27 29]
+Sweden (n=3), [22 27 29] India (n=2), [25 29] Canada (n=1), [26] China
+
+
+600 Bennett C, et al. Sex Transm Infect 2022; **98** :599–607. doi:10.1136/sextrans-2022-055504
+
+**Figure 1** Flow of studies through the review.
+
+(n=1), [25] Hong Kong (n=2), [22 29] Hungary (n=1), [22] Ireland
+(n=1), [29] Singapore (n=1), [22] Tanzania (n=1) [27] and Taiwan
+(n=1). [22] Two reviews included studies from the USA only. [28 30]
+The total number of participants across all 10 systematic reviews
+was 451 132, and the number of participants in each systematic
+
+
+**Review**
+
+review ranged from 2625 [21] to 276 205 [22] with all reviews, except
+one [28] including studies with small sample sizes of less than 200
+participants. Five systematic reviews did not report the ethnicity
+of participants, [21 22 25–27] and in one further systematic review, 28
+of the 30 included studies did not report on ethnicity. [30] For the
+
+
+
+Bennett C, et al. Sex Transm Infect 2022; **98** :599–607. doi:10.1136/sextrans-2022-055504 601
+
+**Review**
+
+**Figure 2** Logic model of effective interventions for HPV vaccination intentions. HPV, human papillomavirus.
+
+
+remaining systematic reviews, populations were either predominately white (n=2) [28 29] or included a broad range of ethnicities. [23 24]
+
+The outcomes included within the systematic reviews were
+HPV vaccination uptake rates (n=9) [21–30] and/or HPV vaccination intention (n=6). [22–26 29] (figures 2 and 3, tables 2 and 3)
+The terminology used to describe the outcome measures for
+HPV vaccination uptake varied. We adopted the authors’ original language by reporting on HPV vaccination series ‘initiation’,
+‘completion’ or ‘uptake’ rates. In this umbrella review, the rate of
+HPV vaccination intentions ranged from 24% preintervention to
+90% postintervention. The baseline vaccination coverage rates
+reported within individual studies varied greatly and, where
+reported, ranged from 1% to 53%.
+
+**Types and effectiveness of interventions**
+Numerous and varied interventions were reported across the
+systematic reviews. Interventions that focused on change at the
+level of the individual included a range of educational, promotional nudge based, reminder- ­based and incentive- ­based strategies. There was wide variation across the timing, duration and
+nature of educational interventions. For example, ranging from
+shorter presentations (3–13 min, [25 27 29] a 5 min radio broadcast, [25]
+30–40 min [20] or presentations of 1–2 hours) to longer curriculum sessions of 2–3 days [27] or six to eight educational visits
+over 12 months. [27] Some systematic reviews did not report the
+duration of interventions that included videos or direct education. [21 24 30] Others only reported that the timing and frequency
+of reminder messages varied widely. [23 28] Two different types of
+interventions focused on change at the level of the community
+and included radio features and public health strategies. Radio
+
+
+features included advertisements or announcements, [25 29] in some
+instances also with message framing. [29] Public health strategies
+included school- ­based vaccination programmes, a practice- ­based
+‘vaccine blitz’, vaccine walk- ­in clinics and express clinics. [28 30]
+There were several different types of provider- ­orientated interventions that focused on change at the organisational level.
+These included continuing professional education, electronic
+health record alerts, a vaccination coordinator post, home visits,
+health information technology systems, nurse standing orders
+and pretyped consents. [28 30]
+
+The effectiveness of interventions for HPV vaccination intention and HPV vaccination uptake are presented by participant
+group, that is, children and adolescents, parents/guardians and
+young adults. The findings for young adults are based on studies
+that recruited from education, community settings, or both. The
+majority of studies that focused on HPV vaccination intent did
+not involve any follow- ­up assessment beyond the period immediately following the intervention. Where reported, the period
+of follow- ­up for reporting outcomes for studies that focused
+on HPV vaccination uptake varied from 4 weeks [21 24 26] to 12
+months. [24 27]
+
+Effectiveness of interventions aimed at children and adolescents
+(intention)
+Interventions from nine studies reported across three systematic
+reviews [22 25 29] investigated HPV vaccination intention in children and adolescents. They used a variety of educational strategies targeted at the individual level, and all but one showed
+significant positive effect on HPV vaccination intention. Interventions that appeared to be effective included educational
+
+
+602 Bennett C, et al. Sex Transm Infect 2022; **98** :599–607. doi:10.1136/sextrans-2022-055504
+
+**Review**
+
+
+**Figure 3** Logic model of effective interventions for HPV vaccination uptake. HPV, human papillomavirus.
+
+
+
+
+
+
+strategies employing face- ­to- ­face presentations (talks or slideshows), [22 25] face- ­to- ­face presentations plus printed information [22]
+or Facebook discussions, [22] printed information, [22 29] technology- ­
+mediated presentations (videos [29] or iPads [22] ) and technology- ­
+mediated presentations (videos) plus printed information. [29] An
+educational strategy using technology- ­mediated presentations to
+deliver a photographic short story [25] did not appear to improve
+HPV vaccination intention.
+
+Effectiveness of interventions aimed at parents (intention)
+Interventions from 15 studies across four systematic
+reviews [23–25 29] investigated parental HPV vaccination intention. These were all delivered in community settings and
+used a variety of educational strategies. Interventions
+that appeared to be effective included educational strategies using face- ­to- ­face presentations (slideshows) [25 29] and
+printed information plus Q&A sessions. [25 29] There were
+mixed findings in relation to technology- ­mediated presentations; for example, videos [24 25] were successful but iPads [23]
+were not, and printed information had variable results,
+with [25 29] or without [25 29] message framing. Educational strategies involving radio features [25 29] and online information with
+message framing [29] did not appear to improve HPV vaccination intention.
+
+
+Effectiveness of interventions aimed at young adults (intention)
+Interventions from 15 studies across four systematic
+reviews [23 24 26 29] investigated parental HPV vaccination
+intention. These were delivered in community settings and
+
+
+Bennett C, et al. Sex Transm Infect 2022; **98** :599–607. doi:10.1136/sextrans-2022-055504 603
+
+**Review**
+
+
+
+
+
+
+used a variety of educational strategies. Interventions that
+were effective included educational strategies using face- ­to- ­
+face presentations (slideshows), [29] face- ­to- ­face presentations
+plus a theory- ­based slideshow, [26] discussion [26] or role play, [26]
+printed information plus Q&A sessions [29] or quizzes, [29] and
+text- ­based health education. [23] There were mixed findings
+regarding technology- ­mediated presentations [23 26 29] printed
+information (with [29] or without message framing [26 29] ) and
+online information with message framing. [29] Educational
+strategies employing radio features with message framing, [29]
+and technology- ­mediated presentations of culturally appropriate storytelling to specific ethnic groups [24] did not appear
+to improve HPV vaccination intention.
+
+
+Effectiveness of interventions aimed at children, adolescents and
+parents (uptake)
+Interventions conducted with children, adolescents and parents
+from 17 studies reported across six systematic reviews [23 24 27–30]
+investigated ‘HPV vaccination initiation rates’ and used educational, reminder or multi- ­component strategies. These were
+targeted at individuals, organisational and individual level,
+or community and organisational level. Ten studies showed
+significant positive effects of interventions on HPV vaccination initiation rates. Interventions that appeared to be effective
+included educational strategies (no further details provided, [30]
+provider orientated strategies (continued professional education) [27] and multi- ­component interventions that involved a
+variety of provider- ­orientated strategies. [28 30] Multi- ­component
+
+
+604 Bennett C, et al. Sex Transm Infect 2022; **98** :599–607. doi:10.1136/sextrans-2022-055504
+
+interventions involving an educational component alongside reminder [24 28 30] and/or incentive [23 24 27–30] strategies and
+stand- ­alone reminder strategies [28 30] had mixed results. Multi- ­
+component interventions involving education, reminders and/
+or incentives conducted with mothers [24 30] or mother/daughter
+dyads [24 27] and a multi- ­component intervention with a promotional nudge (a keychain) [24 27] did not appear to improve HPV
+vaccination initiation rates.
+Interventions from 22 studies reported across six
+reviews [22–24 27 28 30] investigated ‘HPV vaccination completion
+rates’ and used educational, reminder- ­based or multi- ­component
+strategies targeted at individual or organisational and individual
+levels. Eighteen studies [22–24 27 28 30] showed a significant positive effect of the intervention on HPV vaccination completion
+rates. Interventions that appeared to be effective included stand- ­
+alone reminder- ­based strategies, [22 28] educational strategies [30] (no
+further details provided), multi- ­component interventions that
+involved provider- ­orientated strategies, [28 30] with the exception
+of one intervention which involved provider education and
+sensory rewards (incentive) in the form of a ‘HPV gong’ which
+participants could strike or a ‘HPV puppy’ which participants
+could interactive with. [28] Stand- ­alone reminder- ­based strategies
+included text messages, [22 28] telephone calls, [22 28] pre- ­recorded
+voice messages [22 28] or postcards. [22 28] Where evaluated, text
+messages were more effective than other methods. [22 28] Multi- ­
+component interventions that involved an educational component alongside reminder [23 24 30] or incentive strategies [23 24 27 30]
+had mixed results.
+Interventions from 13 studies reported across four systematic
+reviews [22 23 27 30] investigated ‘HPV vaccination uptake rates’ and
+used educational, organisational, public health, reminder- ­based
+or multi- ­component strategies, targeted at either the individual
+level, organisational level, organisational and individual levels or
+community and individual levels. All studies except one showed
+significant positive effects of interventions on HPV vaccination uptake rates. Interventions that appeared to be effective
+included educational strategies [30] (no further details provided),
+educational strategies involving face to face presentations (a
+talk, [22 27] technology- ­mediated presentations (iPad, [23] stand- ­
+alone reminder- ­based strategies, [23 30] public health strategies (a
+school- ­based vaccination clinic [30] and multi- ­component interventions strategies (public health, education and radio features [27] ;
+education, reminders, incentives or all [27] and provider- ­orientated
+interventions with reminders. [27 30] Stand- ­alone reminder- ­based
+strategies included text messages, [23 30] telephone calls [23] or mailed
+reminders. [23] Where evaluated, text messages were more effective
+than other methods. [23] Face- ­to face presentations plus a range
+of classroom- ­based activities [22] did not appear to be effective in
+improving HPV vaccination uptake rates.
+
+Effectiveness of interventions conducted with young adults (uptake)
+Interventions from 10 studies reported across four systematic
+reviews [21 23 24 30] investigated ‘HPV vaccination initiation rates’
+and used educational, public incentive- ­based, reminder- ­based or
+multicomponent strategies which were targeted at the individual
+level. Nine studies showed significant positive effects of interventions on HPV vaccination initiation rates. Interventions that
+appeared to be effective included reminder- ­based strategies (text
+messages [23 24 27] ), incentive- ­based strategies (where the vaccine
+was provided free of charge (USA) [30] and/or included a $25 gift
+voucher [30] ) and multicomponent interventions that involved an
+educational component alongside a reminder- ­based strategy. [24]
+Educational interventions that involved online information [21 30]
+
+
+**Review**
+
+and technology- ­mediated presentations [21 24] did not appear to
+improve HPV vaccination initiation rates.
+Interventions from nine studies reported across six systematic
+reviews [21 23 25 27 29 30] investigated ‘HPV vaccination completion
+rates’ and used educational, reminder- ­based, incentive- ­based
+studies or multicomponent strategies which were targeted at the
+individual level. Seven studies showed significant positive effects
+of intervention on HPV vaccination completion rates. Interventions that appeared effective included reminder- ­based strategies
+(using texts, [23 30] telephone messages, [23 30] mail, [23 30] email [23 30] and
+Facebook messages [23 30] ) and incentive- ­based strategies (where
+the vaccine was provided of free of charge in the USA [30] ). Multicomponent interventions involving an educational component
+alongside a reminder [24] or incentive- ­based strategy [25 29] had mixed
+results. Educational strategies (online information [21 30] ) did not
+appear to improve HPV vaccination initiation rates.
+Interventions from seven studies reported across six systematic
+reviews [21 23–25 29 30] investigated ‘HPV vaccination uptake rates’
+and used educational, reminder- ­based, incentive- ­based studies
+or multicomponent strategies which were targeted at the individual level. Only two studies showed significant positive effects
+of interventions on HPV vaccination uptake rates. The intervention that appeared to be effective was language- ­specific peer- ­
+to- ­peer education to Chinese students at a USA university. [24–29]
+Multicomponent interventions that involved an educational
+component alongside a reminder [21 23 24 26 29 30] did not appear
+to improve HPV vaccination uptake rates. Educational interventions involving technology- ­mediated presentations, with [28] or
+without [28] message framing, had mixed results. However, when
+video narratives were led by peers and medical experts, [21 26 29 30]
+vaccination uptake significantly improved. Educational components that only used printed information were not successful. [29]
+
+**Certainty of the evidence**
+[Online supplemental files 4- ­8 report the effect sizes for the](https://dx.doi.org/10.1136/sextrans-2022-055504)
+investigated effects. However, only one of the included reviews
+completed the assessment of the certainty of the evidence using
+the GRADE (Grading of Recommendations, Assessment, Development and Evaluations) approach [27] (which reported low
+to moderate certainty evidence). An overall assessment of the
+certainty of the evidence for each outcome of relevance was,
+therefore, not possible.
+
+**DISCUSSION**
+
+**HPV vaccination intention**
+Our findings concur with those from previous reviews that
+rates of personal intentions to receive the HPV vaccine vary
+substantially. [31] In some cases, preintervention rates were as
+low as 24%, which is lower than previously reported (48%). [31]
+This was dependent on whether the target was parental intent
+for a child, or for individuals themselves. We found systematic
+reviews exploring vaccination intent that included educational
+interventions focused on change at the individual level. Factors
+related to intervention design that increased intention including
+timings, duration and delivery methods were also identified. It
+appears that educational interventions targeted at children and
+adolescents, as well as parents, are more successful than those
+targeted solely at parents. [24 27 29]
+
+**HPV vaccination uptake**
+Impact interventions are context- ­specific. Percentage changes
+to HPV vaccination initiation or completion across studies
+was often unreported. A recent survey in the WHO European
+
+
+Bennett C, et al. Sex Transm Infect 2022; **98** :599–607. doi:10.1136/sextrans-2022-055504 605
+
+**Review**
+
+region demonstrated that only 10 countries in this region have
+a defined target vaccine coverage rate for HPV vaccination. In
+addition, only four report target vaccination coverage rates in
+line with the WHO elimination goals. [32] This is relevant since
+baseline coverage determines potential impact of an intervention. For example, one intervention that increases coverage from
+30% to 60% in a particular context may not achieve similar
+coverage elsewhere, even in the same population, because the
+needs of subpopulations differ. Indeed, it has been reported that
+countries starting with suboptimal HPV vaccination coverage
+during the first 2 years of implementation are unable to increase
+coverage during subsequent years. [9] Although specific interventions can be helpful, impact may be limited, especially if trust
+in vaccines is low. [33 34] Importantly, intention and uptake only
+become relevant when HPV vaccines exist and are available
+and affordable. It is known that some low- ­income and middle- ­
+income countries (LMICs) lack availability and different factors
+are, therefore, important in first promoting their availability at
+the level of national public health policy, and then to ensure that
+uptake is promoted in a culturally acceptable way. [35] The findings
+presented in a recent meta- ­analysis have identified the specific
+opportunities and challenges in achieving and maintaining high
+uptake of the vaccine in LIMICs, and in securing sustainable
+funds for an HPV vaccine programme. [36]
+
+**Influencing factors**
+Eisenhauer *et al* suggested that ‘unmodifiable demographic variables’ could contribute to a person’s decision to vaccinate. [28]
+These include age, sex, race, setting and insurance coverage.
+However, only one of the included systematic reviews explored
+the influence of race/ethnicity on uptake and two further systematic reviews presented findings separately for gender. [27 30] As with
+educational interventions aimed at improving vaccination intention, influencing factors for interventions aimed at improving
+uptake were related to intervention design including timing,
+duration and delivery methods or sources.
+
+**Multicomponent strategies**
+Provider- ­orientated interventions (such as professional education, electronic health record alerts, a vaccination coordinator
+post, home visits, health information technology systems, nurse
+standing orders and pretyped consents) with the additional
+components of reminder- ­based strategies and/or incentive- ­based
+strategies and/or education strategies appeared effective. Also,
+public health interventions with the additional components of
+education, radio features and reminder and/or incentive- ­based
+strategies appeared to be effective. These findings concur with
+the work of Fernández *et al*, suggesting that multicomponent
+strategies, impacting across all levels of the social–ecological
+model, are likely to be most effective in increasing HPV vaccination uptake. [31]
+
+**Limitations of the evidence base**
+The generalisability of the findings from this umbrella review is
+limited by the high prevalence of studies from the USA. For all
+but one of the systematic reviews, more than half of included
+studies were from the USA (range 54%–100%), [22] with three
+reviews exclusively including studies from there. [24 28 30] This will
+limit applicability to the global stage, especially to LMICs. [35]
+There was a range of methodological concerns in the included
+systematic reviews including small sample sizes, poor and/or
+incorrect reporting of statistical analyses in the primary studies,
+and inappropriate combining of studies in meta- ­analyses.
+
+
+Importantly, the primary outcome across most studies was self- ­
+reported vaccination behaviour as opposed to actual vaccination
+behaviour, and vaccination intent was often used as a proxy for
+vaccination receipt. In addition, few studies examined impact of
+interventions on vaccination uptake in male students or across
+different ethnic groups. It is worth noting that very few studies
+within these systematic reviews provided details of theoretical
+models used to guide the planning and development of interventions. Similarly, service models needed to drive effective
+HPV delivery, alongside effective screening programmes, were
+not explored. HPV vaccination uptake remains open to further
+research, as does the future impact of COVID- ­19 on vaccination
+awareness generally, and the key relationship between public
+health campaigns, social media activity and HPV cancer prevention. [34 37]
+
+**CONCLUSION**
+While no single solution to increasing HPV vaccination uptake
+or intention exists, this umbrella review has revealed a broad
+evidence base on which interventions can be designed and future
+researchers can build. Inconsistencies and gaps in reporting of
+systematic reviews, as well as limited geographical spread, mean
+that these findings should be interpreted with caution.
+
+**Handling editor** Laith J Abu- ­Raddad
+
+**Twitter** [Clare Bennett @ClareBennettCU and Hüsna Sarıca Çevik @husnasarica](https://twitter.com/ClareBennettCU)
+
+**Acknowledgements** This article is based on a report [38] entitled ’Improving HPV
+Vaccine Uptake in Children, Adolescents, and Young Adults: An Umbrella Review of
+[Interventions’ published online (https://www.europeancancer.org/resources/255:hpv- ​](https://www.europeancancer.org/resources/255:hpv-vaccine-uptake)
+[vaccine-uptake) in April 2022 by The European Cancer Organisation. The authors are](https://www.europeancancer.org/resources/255:hpv-vaccine-uptake)
+grateful to their respective universities for supporting this project.
+
+**Contributors** DK was responsible for the conceptualisation of this project. The
+conduct of the umbrella review was led by DE and CB, with DE, CB, SMS, D- ­e- ­NW,
+AV, HSÇ, EK and GP conducting the screening, quality assessment, data extraction
+and narrative that underpinned this paper. All members of the team contributed to
+the reporting of the review. All authors edited and approved the final manuscript.
+
+**Funding** This research was co- ­ordinated by the European Cancer Organisation,
+who received some financial contributions towards its cost from Community 365
+charity and healthcare industry partners: NOMAN, BD, MSD and Roche.
+
+**Competing interests** None declared.
+
+**Patient consent for publication** Not applicable.
+
+**Ethics approval** Not applicable.
+
+**Provenance and peer review** Not commissioned; externally peer reviewed.
+
+**Supplemental material** This content has been supplied by the author(s). It
+has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have
+been peer- ­reviewed. Any opinions or recommendations discussed are solely those
+of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+responsibility arising from any reliance placed on the content. Where the content
+includes any translated material, BMJ does not warrant the accuracy and reliability
+of the translations (including but not limited to local regulations, clinical guidelines,
+terminology, drug names and drug dosages), and is not responsible for any error
+and/or omissions arising from translation and adaptation or otherwise.
+
+**ORCID iDs**
+[Clare Bennett http://orcid.org/0000-0002-5144-3894](http://orcid.org/0000-0002-5144-3894)
+[Hüsna Sarıca Çevik http://orcid.org/0000-0002-4292-4696](http://orcid.org/0000-0002-4292-4696)
+
+**REFERENCES**
+1 Hampson IN, Oliver AW, Hampson L. Potential effects of human papillomavirus type
+substitution, superinfection exclusion and latency on the efficacy of the current L1
+[prophylactic vaccines. Viruses 2020;13:22.](http://dx.doi.org/10.3390/v13010022)
+2 de Martel C, Plummer M, Vignat J, et al. Worldwide burden of cancer attributable to
+[HPV by site, country and HPV type. Int J Cancer 2017;141:664–70.](http://dx.doi.org/10.1002/ijc.30716)
+3 Chaturvedi AK. Beyond cervical cancer: burden of other HPV- ­related cancers among
+[men and women. J Adolesc Health 2010;46:S20–6.](http://dx.doi.org/10.1016/j.jadohealth.2010.01.016)
+4 Hartwig S, Syrjänen S, Dominiak- ­Felden G, et al. Estimation of the epidemiological
+burden of human papillomavirus- ­related cancers and non- ­malignant diseases in men
+[in Europe: a review. BMC Cancer 2012;12:30.](http://dx.doi.org/10.1186/1471-2407-12-30)
+
+
+606 Bennett C, et al. Sex Transm Infect 2022; **98** :599–607. doi:10.1136/sextrans-2022-055504
+
+5 Falcaro M, Castañon A, Ndlela B, et al. The effects of the National HPV vaccination
+programme in England, UK, on cervical cancer and grade 3 cervical intraepithelial
+[neoplasia incidence: a register- ­based observational study. Lancet 2021;398:2084–92.](http://dx.doi.org/10.1016/S0140-6736(21)02178-4)
+6 Hintze JM, O’Neill JP. Strengthening the case for gender- ­neutral and the nonavalent
+[HPV vaccine. Eur Arch Otorhinolaryngol 2018;275:857–65.](http://dx.doi.org/10.1007/s00405-018-4866-y)
+7 European Commission. Europe’s beating cancer plan. Brussels: European Commission,
+[2021. https://ec.europa.eu/health/system/files/2022-02/eu_cancer-plan_en_0.pdf](https://ec.europa.eu/health/system/files/2022-02/eu_cancer-plan_en_0.pdf)
+8 Brisson M, Bénard Élodie, Drolet M, et al. Population- ­Level impact, herd immunity,
+and elimination after human papillomavirus vaccination: a systematic review and
+[meta- ­analysis of predictions from transmission- ­dynamic models. Lancet Public Health](http://dx.doi.org/10.1016/S2468-2667(16)30001-9)
+2016;1:e8–17.
+9 Bruni L, Saura- ­Lázaro A, Montoliu A, et al. Hpv vaccination introduction worldwide
+and who and UNICEF estimates of national HPV immunization coverage 2010- ­2019.
+[Prev Med 2021;144:106399.](http://dx.doi.org/10.1016/j.ypmed.2020.106399)
+10 Karafillakis E, Simas C, Jarrett C, et al. Hpv vaccination in a context of public mistrust
+and uncertainty: a systematic literature review of determinants of HPV vaccine
+[hesitancy in Europe. Hum Vaccin Immunother 2019;15:1615–27.](http://dx.doi.org/10.1080/21645515.2018.1564436)
+11 Centre for Mental Health. The economic and social costs of mental health problems in
+2009/10. London: Centre for Mental Health, 2010.
+12 Aromataris E, Fernandez R, Godfrey C. Chapter 10: Umbrella Reviews. In: Aromataris
+[E, Munn Z, eds. JBI manual for evidence synthesis, 2020. https://synthesismanual.jbi. ​](https://synthesismanual.jbi.global)
+[global](https://synthesismanual.jbi.global)
+13 Edwards D, Kelly D, Bennett C. An umbrella review of interventions used to improve
+HPV vaccine uptake in children, adolescents and young adults. prospero 2021
+[CRD42021273894, 2021. https://www.crd.york.ac.uk/prospero/display_record.php? ​](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021273894)
+[ID=CRD42021273894https://www.crd.york.ac.uk/prospero/display_record.php? ​](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021273894)
+[RecordID=273894](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=273894)
+14 Campbell M, McKenzie JE, Sowden A, et al. Synthesis without meta- ­analysis (swim) in
+[systematic reviews: reporting guideline. BMJ 2020;368:l6890.](http://dx.doi.org/10.1136/bmj.l6890)
+15 McKenzie JE, Brennan SE. Chapter 12: Synthesizing and presenting findings using
+other methods. In: Higgins JPT, Thomas J, Chandler J, et al, eds. Cochrane Handbook
+for Systematic Reviews of Interventions version 6.2 (updated February 2021. 2021.
+Cochrane. www.training.cochrane.org/handbook
+16 Thomas J, O’Mara- ­Eves A, Harden A. Chapter 8: Synthesis methods for combining and
+configuring textual or mixed methods data. In: An introduction to systematic reviews.
+London: Sage Publications Limited, 2017pp.: 181–209.
+17 Ryan G, Avdic L, Daly E, et al. Influences on HPV vaccination across levels of the social
+[ecological model: perspectives from state level stakeholders. Hum Vaccin Immunother](http://dx.doi.org/10.1080/21645515.2020.1839290)
+2021;17:1006–13.
+18 Kolff CA, Scott VP, Stockwell MS. The use of technology to promote vaccination:
+[a social ecological model based framework. Hum Vaccin Immunother](http://dx.doi.org/10.1080/21645515.2018.1477458)
+2018;14:1636–46.
+19 Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated
+[guideline for reporting systematic reviews. BMJ 2021;372:n71.](http://dx.doi.org/10.1136/bmj.n71)
+20 Pieper D, Antoine S- ­L, Mathes T, et al. Systematic review finds overlapping reviews
+[were not mentioned in every other overview. J Clin Epidemiol 2014;67:368–75.](http://dx.doi.org/10.1016/j.jclinepi.2013.11.007)
+21 Barnard M, Cole AC, Ward L, et al. Interventions to increase uptake of the human
+papillomavirus vaccine in unvaccinated college students: a systematic literature
+[review. Prev Med Rep 2019;14:100884.](http://dx.doi.org/10.1016/j.pmedr.2019.100884)
+
+
+**Review**
+
+22 Flood T, Wilson IM, Prue G, et al. Impact of school- ­based educational interventions in
+middle adolescent populations (15- ­17yrs) on human papillomavirus (HPV) vaccination
+uptake and perceptions/knowledge of HPV and its associated cancers: a systematic
+[review. Prev Med 2020;139:106168.](http://dx.doi.org/10.1016/j.ypmed.2020.106168)
+23 Ilozumba O, Schmidt P, Ket JCF, et al. Can mHealth interventions contribute
+[to increased HPV vaccination uptake? A systematic review. Prev Med Rep](http://dx.doi.org/10.1016/j.pmedr.2020.101289)
+2021;21:101289.
+24 Lott BE, Okusanya BO, Anderson EJ, et al. Interventions to increase uptake of human
+[papillomavirus (HPV) vaccination in minority populations: a systematic review. Prev](http://dx.doi.org/10.1016/j.pmedr.2020.101163)
+[Med Rep 2020;19:101163.](http://dx.doi.org/10.1016/j.pmedr.2020.101163)
+25 Mogaka EN, Fadairo AA, Cannon KL. Effectiveness of an educational intervention
+to increase human papillomavirus knowledge in high- ­risk populations: a systematic
+review. Univ Tor Med J 2019;96:41–7.
+26 Priest HM, Knowlden AP. Systematic review of primary prevention human
+[papillomavirus interventions targeting college students. International Journal of](http://dx.doi.org/10.1080/19317611.2014.945631)
+[Sexual Health 2015;27:125–44.](http://dx.doi.org/10.1080/19317611.2014.945631)
+27 Abdullahi LH, Kagina BM, Ndze VN, et al. Improving vaccination uptake among
+[adolescents. Cochrane Database Syst Rev 2020;1:CD011895.](http://dx.doi.org/10.1002/14651858.CD011895.pub2)
+28 Eisenhauer L, Hansen BR, Pandian V. Strategies to improve human papillomavirus
+vaccination rates among adolescents in family practice settings in the United States: a
+[systematic review. J Clin Nurs 2021;30:341–56.](http://dx.doi.org/10.1111/jocn.15579)
+29 Fu LY, Bonhomme L- ­A, Cooper SC, et al. Educational interventions to increase HPV
+[vaccination acceptance: a systematic review. Vaccine 2014;32:1901–20.](http://dx.doi.org/10.1016/j.vaccine.2014.01.091)
+30 Rodriguez AM, Do TQN, Goodman M, et al. Human papillomavirus vaccine
+[interventions in the U.S.: a systematic review and meta- ­analysis. Am J Prev Med](http://dx.doi.org/10.1016/j.amepre.2018.10.033)
+2019;56:591–602.
+31 Fernández ME, Allen JD, Mistry R, et al. Integrating clinical, community, and
+[policy perspectives on human papillomavirus vaccination. Annu Rev Public Health](http://dx.doi.org/10.1146/annurev.publhealth.012809.103609)
+2010;31:235–52.
+32 Bonanni P, Faivre P, Lopalco PL, et al. The status of human papillomavirus vaccination
+recommendation, funding, and coverage in who Europe countries (2018- ­2019).
+[Expert Rev Vaccines 2020;19:1073–83.](http://dx.doi.org/10.1080/14760584.2020.1858057)
+33 Vorsters A, Arbyn M, Baay M, et al. Overcoming barriers in HPV vaccination and
+[screening programs. Papillomavirus Res 2017;4:45–53.](http://dx.doi.org/10.1016/j.pvr.2017.07.001)
+34 Kearney MD, Selvan P, Hauer MK, et al. Characterizing HPV vaccine Sentiments and
+[content on Instagram. Health Educ Behav 2019;46:37S–48.](http://dx.doi.org/10.1177/1090198119859412)
+35 Spayne J, Hesketh T. Estimate of global human papillomavirus vaccination coverage:
+[analysis of country- ­level indicators. BMJ Open 2021;11:e052016.](http://dx.doi.org/10.1136/bmjopen-2021-052016)
+36 Dorji T, Nopsopon T, Tamang ST, et al. Human papillomavirus vaccination
+[uptake in low- ­and middle- ­income countries: a meta- ­analysis. EClinicalMedicine](http://dx.doi.org/10.1016/j.eclinm.2021.100836)
+2021;34:100836.
+[37 Wilson SL, Wiysonge C. Social media and vaccine hesitancy. BMJ Glob Health](http://dx.doi.org/10.1136/bmjgh-2020-004206)
+2020;5:e004206.
+38 Edwards D, Bennett C, Sherman S. Improving HPV vaccine uptake in children,
+adolescents,and young adults - An umbrella review of interventions. [Technical Report.
+[Brussels: European Cancer Organisation, 2022. https://www.europeancancer.org/ ​](https://www.europeancancer.org/resources/255:hpv-vaccine-uptake)
+[resources/255:hpv-vaccine-uptake](https://www.europeancancer.org/resources/255:hpv-vaccine-uptake)
+
+
+Bennett C, et al. Sex Transm Infect 2022; **98** :599–607. doi:10.1136/sextrans-2022-055504 607
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

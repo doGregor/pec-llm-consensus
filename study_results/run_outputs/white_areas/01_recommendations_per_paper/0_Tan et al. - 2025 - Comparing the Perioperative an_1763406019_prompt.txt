@@ -1,0 +1,916 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    *Systematic Review*
+# **Comparing the Perioperative and Oncological Outcomes of Open** **Versus Minimally Invasive Inguinal Lymphadenectomy in Penile** **Cancer: A Systematic Review and Meta-Analysis**
+
+**Yu Guang Tan** **[1,]** ***, Khi Yung Fong** **[1]** **, Nathanael Kai-Jun Goh** **[1]** **, Alvin YM Lee** **[1]** **, Kae Jack Tay** **[1]** **, John SP Yuen** **[1]** **,**
+**Michael R. Abern** **[2]** **and Kenneth Chen** **[1]**
+
+1 Department of Urology, Singapore General Hospital, Singapore 169854, Singapore;
+kenneth.chen@singhealth.com.sg (K.C.)
+2 Department of Urology, Duke University School of Medicine, Durham, NC 27710, USA
+***** Correspondence: yuguangtan90@gmail.com or tan.yu.guang@singhealth.com.sg
+
+**Simple Summary**
+
+Penile cancer is a rare but disfiguring and destructive genitourinary cancer. It carries a
+high propensity for early lymph node metastasis. While inguinal lymph node dissection
+(ILND) is both prognostic and therapeutic in the management of penile cancer, it carries
+significant morbidities and wound complications when performed in conventional open
+manner. The advent of minimally invasive surgeries (MIS) has been shown to reduce
+perioperative complications but has raised concerns regarding its oncological efficacy. This
+study provides a comprehensive review comparing open vs. MIS ILND and demonstrates
+that MIS ILND can achieve comparable oncological outcomes while significantly reducing
+perioperative complications.
+
+**Abstract**
+
+
+Academic Editors: Giorgio Treglia,
+
+Ursula Maria Vogl and Massimo
+
+Di Maio
+
+Received: 20 July 2025
+
+Revised: 24 August 2025
+
+Accepted: 10 September 2025
+
+Published: 17 September 2025
+
+**Citation:** Tan, Y.G.; Fong, K.Y.; Goh,
+
+N.K.-J.; Lee, A.Y.; Tay, K.J.; Yuen, J.S.;
+
+Abern, M.R.; Chen, K. Comparing the
+
+Perioperative and Oncological
+
+Outcomes of Open Versus Minimally
+
+Invasive Inguinal Lymphadenectomy
+
+in Penile Cancer: A Systematic Review
+
+and Meta-Analysis. *Cancers* **2025**, *17*,
+
+[3035. https://doi.org/10.3390/](https://doi.org/10.3390/cancers17183035)
+
+[cancers17183035](https://doi.org/10.3390/cancers17183035)
+
+**Copyright:** © 2025 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license
+
+[(https://creativecommons.org/](https://creativecommons.org/licenses/by/4.0/)
+
+[licenses/by/4.0/).](https://creativecommons.org/licenses/by/4.0/)
+
+
+Background: Long-term survival in penile cancer is dependent on the presence and extent of lymph node metastases. Historically, inguinal lymph node dissection (ILND) has
+been performed via an open approach (O-ILND). More recently, minimally invasive surgical alternatives (MIS-ILND) such as video-endoscopic and robot-assisted ILND have
+emerged. This review aims to compare the (1) perioperative outcomes, (2) complication
+rates, and (3) oncological efficacy between O-ILND and MIS-ILND. Methods: We conducted a PRISMA-compliant meta-analysis including studies comparing O-ILND versus
+MIS-ILND for penile cancer. Outcomes were pooled in random-effects meta-analyses.
+Results: Sixteen articles comprising 1054 patients were analysed. There was an observed
+trend towards longer operative time for the MIS-ILND approach (mean difference 28 min;
+95% CI *−* 2 to 58 min, *p* = 0.06), particularly with the robotic-assisted technique. Total
+LN yield (mean 12.3, mean difference 0.3, 95% CI *−* 0.3 to 0.9, *p* = 0.13), and positive LN
+(RR 0.98, 95% CI 0.88–1.10, *p* = 0.75) were similar between groups. MIS-ILND significantly
+reduced complication rates for both minor (RR: 0.65, 95% CI 0.45–0.94, *p* = 0.02) and major
+complications (RR: 0.25, 95% CI 0.12–0.53, *p* = 0.002). Particularly, there was also lower
+wound infection rate with MIS-ILND (RR: 0.43, 95% CI 0.22–0.82, *p* = 0.02), corresponding
+to a shorter hospital stay of average 4 days (MD *−* 4, 95% CI *−* 6– *−* 2, *p* = 0.05). Rates of
+skin/flap necrosis, lymphedema, lymphocele, and drainage time did not differ significantly.
+Local groin recurrence and overall survival did not differ between approaches. Conclusions:
+MIS-ILND is associated with fewer perioperative complications and shorter hospitalisation
+without compromising oncologic outcomes. These findings support its broader adoption,
+particularly in high-volume centres with appropriate surgical expertise.
+
+
+*Cancers* **2025**, *17*, 3035 [https://doi.org/10.3390/cancers17183035](https://doi.org/10.3390/cancers17183035)
+
+*Cancers* **2025**, *17*, 3035 2 of 15
+
+**Keywords:** penile cancer; inguinal lymph node dissection; minimally invasive surgery;
+laparoscopy; robotic surgery
+
+**1. Introduction**
+
+Penile carcinoma is a rare genitourinary malignancy which accounts for less than 1%
+of all male cancers. Despite its rarity, it carries a disproportionate disease burden due to its
+propensity for delayed presentation [ 1 ], aggressive growth, and early lymphatic spread.
+Management of penile cancer also often carries significant physical and psychological
+morbidity, such as disfigurement, impairment of urinary and sexual function, and longterm psychosocial consequences, including depression and reduced quality of life [2,3].
+The presence and extent of lymph node (LN) metastases remain the most important
+prognostic factors for long-term survival [ 4 ]. Lymphatic metastasis in penile cancer occurs
+in a predictable and stepwise manner, following the route of anatomical drainage from the
+primary tumour to the superficial and then deep inguinal LNs, followed by the ipsilateral
+pelvic LNs. Inguinal lymph node dissection (ILND) for penile cancer is diagnostic and
+prognostic, and it is amongst the few genitourinary cancers proven to have a therapeutic benefit [ 5 ]. Historically, ILND has been performed via an open approach (O-ILND).
+However, O-ILND is associated with substantial morbidity, notably wound infection, skin
+necrosis, lymphoedema, lymphocele formation, and seroma [ 6 ]. To reduce these complications, minimally invasive surgical (MIS) alternatives such as video-endoscopic ILND
+(VEIL) and robot-assisted VEIL (RA-VEIL) have emerged recently. These MIS techniques
+aim to replicate the oncologic completeness of open dissection in achieving good nodal
+yield while minimising soft tissue trauma and wound-related complications. Given these
+evolving surgical practices and the uncertainty regarding the comparative oncological outcomes, we conducted a systematic review and meta-analysis to evaluate the perioperative
+outcomes, complication rates, and oncological efficacy between O-ILND and MIS-ILND in
+penile cancer.
+
+**2. Methods**
+
+*2.1. Literature Search*
+
+This systematic review and meta-analysis were performed in line with the Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Guidelines and
+registered with PROSPERO (CRD420251111349).
+An electronic literature search from database inception till 31 March 2025 was conducted by two independent investigators on PubMed, EMBASE, and Scopus for relevant
+articles, without language restrictions (Supplementary Table S1). Bibliographies of each
+included study were screened, and a search on Google Scholar using the first and last
+author of each included study was conducted to ensure inclusion of all relevant studies.
+Abstracts and full texts were reviewed by two independent investigators (Y.G.T. and K.Y.F.),
+with conflicts resolved by a third investigator (K.C.).
+
+*2.2. Inclusion and Exclusion Criteria*
+
+We included prospective or retrospective studies directly comparing O-ILND versus
+MIS-ILND (laparoscopic or robotic) for penile cancer or where majority of the patients had
+penile cancer. The intervention arm was MIS-ILND and the control arm was O-ILND. Case
+reports, reviews, conference abstracts, and systematic reviews were excluded. Eligible studies had to include at least one of the following outcomes of interest: operative/perioperative
+outcomes, complication rates, and oncological outcomes. A standardised data collection
+
+*Cancers* **2025**, *17*, 3035 3 of 15
+
+template with predefined data fields including study characteristics, patient demographics,
+and outcomes was used for data extraction by two independent investigators.
+
+*2.3. Quality Assessment and Risk of Bias*
+
+Risk of bias was assessed using the Newcastle–Ottawa Scale for cohort studies
+(Supplementary Table S2).
+
+*2.4. Meta-Analysis*
+
+The primary outcomes were broadly divided into three categories: (1) operative/perioperative outcomes (total operative time, blood loss, lymph node yield (LNY),
+positive nodal count, length of stay (LOS), and time to drain removal); (2) complication rates
+(Clavien–Dindo classification, wound infection, and skin/flap necrosis); and (3) oncological
+outcomes (overall recurrence, local groin recurrence, and overall survival (OS)).
+For continuous outcomes, means and standard deviations (SDs) between OILND and
+MIS-ILND were pooled in random-effects meta-analyses to determine mean differences
+(MD) and 95% confidence intervals (95% CI). For binary outcomes, respective numbers of
+patients per arm and patients with the outcome in question were pooled in random-effects
+meta-analyses to determine incidence odds ratios (ORs) and 95% CI. Prior to meta-analysis,
+missing means and SDs were derived from medians and interquartile ranges according
+to methods proposed by Hozo et al. [ 7 ] and Wan et al. [ 8 ]. Network meta-analysis of
+robotic (RA-VEIL) versus laparoscopic (VEIL) versus open ILND was also conducted,
+using a Frequentist random-effects model. A forest plot, league table and league diagram
+were generated.
+Heterogeneity was considered low, moderate, or considerable for I [2] values <40%, 40–
+75%, and >75%, respectively. Funnel plot symmetry was visually assessed for publication
+bias [ 9 ]. Certainty of evidence was assessed using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) framework [ 10 ]. All statistical analyses
+were carried out using RStudio (version 4.3.0, Posit Software, Boston, MA, USA), with
+*p* < 0.05 regarded to indicate statistical significance.
+
+**3. Results**
+
+*3.1. Study Selection*
+
+The search strategy yielded 1397 studies. After removal of 147 duplicates, 1250 studies
+underwent title and abstract screening. A total of 22 manuscripts were identified for fulltext review. Sixteen studies met the inclusion criteria and were analysed (Table 1, Figure 1).
+Most studies were published after 2017, with only Tobias-Machado [ 11 ] being published
+in 2007. In total, there were 1054 patients, and the total number of patients varied in each
+study, ranging from 19 to 206. Twelve studies compared O-ILND to VEIL (laparoscopic),
+while four studies compared O-ILND to robotic-assisted surgery (RA-VEIL). Most studies
+were retrospective cohort studies comparing O-ILND and MIS-ILND in separate patient
+cohorts, but notably Tobias-Machado [ 11 ], Yadav [ 12 ] and Falcone [ 13 ] were designed
+as prospective randomised controlled studies, with the patient acting as his own control
+(OILND on one side, MIS-ILND on contralateral side).
+
+*Cancers* **2025**, *17*, 3035 4 of 15
+
+**Table 1.** Baseline characteristics of included studies.
+
+**Study, Year** **DesignStudy** **Arm** **Number ofPatients** **Same Patients** **Age** **Smoker,%** **DM,%** **kg/mBMI,** **[2]** **Follow-Up,Months** **Histology, %** **Index Penile Surgery,** **%** **Indication forILND**
+
+
+Tobias-Machado Prospective
+2008 [11] randomised
+
+
+OILND Yes (one on each 48 19 (12–31) SCC Prophylactic
+10 NR NR NR Penile amputation
+VEIL side; 20 groins) (39–60) 19 (12–31) SCC (cN0)
+
+
+Mixed
+Yadav 2018 [12] randomisedProspective OILND 29 Yes (one on eachside; 58 groins) 52.4 NR NR NR 14 (7–28) SCC Partial or total (therapeutic and
+prophylactic)
+
+
+26 Penile 64%,
+OILND 59 NR NR NR
+(34 cases) melanoma 29%
+No 56 (2–87) NR NR
+
+16
+VEIL 63 NR NR NR
+(28 cases)
+
+
+26
+OILND
+Schwentner 2013 (34 cases)
+Retrospective No
+
+[14] 16
+
+
+59 NR NR NR
+
+56 (2–87)
+
+
+Falcone 2024 [13] Prospective
+randomised
+
+
+OILND 14 Yes (one on each 63 Mixed
+side; 28 groins) (57–69) 14 NR 29 (26–32) 14 (12–17) NR NR (therapeutic and
+VEIL 14 prophylactic)
+
+
+OILND 38
+Brassetti 2024
+Retrospective
+
+[15]
+
+
+58
+NR 34 26 (24–30)
+(53–67]
+
+
+SCC
+
+
+No
+
+
+96
+
+
+68
+RA-VEIL 9 NR 33 26 (25–29) SCC
+(52–73)
+
+
+Partial or total Therapeutic (cN2)
+
+
+OILND 19
+
+
+52 *±* 13 NR NR 26 (23–28) 48 (34–60) SCC
+
+
+Ma 2022 [16] Retrospective
+
+
+S-VEIL 24 No 56 *±* 9.3 NR NR 24 (22–26) 36 (30–42) SCC NR Therapeutic
+(cN1/2)
+
+D-VEIL 22 55 *±* 11 NR NR 23 (22–25] 34 (26–47) SCC
+
+
+OILND 100
+
+Singh 2018 [17] Retrospective
+
+
+54
+37 30 25 (23–29] 40 (26–59) SCC
+(45–64)
+
+
+Therapeutic
+
+No NR
+
+58 (cN1/2)
+RA-VEIL 51 41 33 26 (23–31) 41 (28–57) SCC
+(50–68)
+
+
+No
+
+
+Yu 2019 [18] Retrospective OILND 10 No 55 *±* 13 NR NR 27 (22–30) 53 (25–70) SCC NR Therapeutic
+RA-VEIL 9 50 *±* 7.2 NR NR 27 (22–33) 25 (15–29) SCC (cN1–3)
+
+
+OILND 251 29 (19–47) 21 (8–54) SCC 85, basaloid 10, Circumcision/WLE Therapeutic
+No 63 *±* 13 NR 13 sarcomatoid 3% 17, glansectomy 15, (Positive
+
+VEIL 40 29 (19–47) 12 (4–17) partial 48, total 18 FNAC/DSNB)
+
+
+Fankhauser 2022 OILND 251 29 (19–47) 21 (8–54) SCC 85, basaloid 10,
+Retrospective No 63 *±* 13 NR 13
+
+[19] sarcomatoid 3%
+
+
+Circumcision/WLE
+17, glansectomy 15,
+partial 48, total 18
+
+
+Kumar 2017 [20] Retrospective OILND 22 No 70 NR NR NR 71 (30–99) NR NR Therapeutic
+VEIL 20 66 NR NR NR 16 (4–35) NR (Positive DSNB)
+
+*Cancers* **2025**, *17*, 3035 5 of 15
+
+**Table 1.** *Cont.*
+
+**Study, Year** **DesignStudy** **Arm** **Number ofPatients** **Same Patients** **Age** **Smoker,%** **DM,%** **kg/mBMI,** **[2]** **Follow-Up,Months** **Histology, %** **Index Penile Surgery,** **%** **Indication forILND**
+
+
+68 Partial 66, radical 14,
+
+OILND 35 (51–74) 54 NR 31 (26–34) 33 SCC WLE 20 Therapeutic
+
+No (Positive
+
+RA-VEIL 24 65 67 NR 30 (28–38) 40 SCC Partial 83, radical 13, FNAC/DSNB)
+(54–71) WLE 4
+
+
+OILND 35
+Ozambela 2024
+Retrospective
+
+[21]
+
+
+No
+
+
+OILND 26 59 *±* 9.9 62 61 26 (23–31) SCC partial 31, total 7.7Glansectomy 35, Mixed
+
+No 60 (therapeutic and
+
+VEIL 29 62 *±* 12 24 34 26 (23–29) SCC Glansectomy 24, prophylactic)
+partial 17, total 17
+
+OILND 69 51 *±* 13 57 NR NR SCC Partial or radical Mixed
+No 43 (15–87) (therapeutic and
+penectomy
+
+VEIL 40 51 *±* 13 48 NR NR SCC prophylactic)
+
+
+OILND 26
+
+Bada 2023 [22] Retrospective
+
+
+59 *±* 9.9 62 61 26 (23–31)
+
+
+No
+
+
+60
+
+
+OILND 69 51 *±* 13 57 NR NR SCC Partial or radical Mixed
+Shao 2022 [23] Retrospective No 43 (15–87) (therapeutic and
+penectomy
+
+VEIL 40 51 *±* 13 48 NR NR SCC prophylactic)
+
+
+60
+OILND 32 50 NR 25 (24–28) 51 (26–76) SCC Partial 66, total 34 Mixed
+Thyavihally 2021 No (54–62)
+
+[24] Retrospective VEIL 47 58 34 NR 26 (24–28) 42 (21–62) SCC Partial 60, total 40 (therapeutic andprophylactic)
+(50–62)
+
+
+OILND 62
+
+Ye 2018 [25] Retrospective
+
+
+(33–82) Mixed
+
+No 22 (14–47) NR (therapeutic and
+
+VEIL 31 54 NR NR 24 (17–32) NR prophylactic)
+(34–79)
+
+
+No
+
+
+54
+NR NR 23 (16–34) NR
+(33–82)
+22 (14–47)
+
+
+18
+OILND
+(3 bilateral)
+Wang 2017 [26] Retrospective No
+
+
+59 *±* 8.4 NR NR NR
+
+
+(3 bilateral) Mixed
+No 12 Penile amputation or (therapeutic and
+
+VEIL 16 54 *±* 9.9 NR NR NR SCC radical resection prophylactic)
+(3 bilateral)
+
+
+12
+
+
+SCC
+Penile amputation or
+radical resection
+
+
+OILND, open inguinal lymph node dissection; VEIL, video-endoscopic inguinal lymphadenectomy (S-VEIL = single laparoscopy; D-VEIL = double laparoscopy); RA-VEIL, robot-assisted
+video-endoscopic inguinal lymphadenectomy; DM, diabetes mellitus; BMI, body mass index; WLE, wide local excision; SCC, squamous cell carcinoma; NR, not reported; FNAC, fine
+needle aspiration cytology; DSNB, dynamic sentinel node biopsy.
+
+*Cancers* **2025**, *17*, 3035 6 of 15
+
+**Figure 1.** PRISMA flowchart of included studies.
+
+The mean age of patients was 54 years old (IQR 48–70). The majority of studies recruited only patients with penile squamous cell carcinoma (SCC), with the exception of
+Schwentner et al. [ 14 ] who also included a small proportion of penile melanoma (29%).
+Nine studies reported the treatment for the primary penile cancer, with amputative surgeries (glansectomy, partial and total penectomy) being the most commonly performed.
+The indication for ILND was mostly therapeutic in all except one study [ 11 ], which was
+performed for prophylactic intent based on high risk penectomy pathological features such
+as pT1, high grade, and presence of lymphovascular invasion. Notably, four studies [ 15 – 18 ]
+recruited patients with clinically palpable and enlarged inguinal nodes, whereas three
+studies reported prior dynamic sentinel node biopsy or fine needle aspiration cytology to
+confirm nodal disease prior to therapeutic ILND [19–21].
+
+*3.2. Operative/Perioperative Outcomes*
+
+Across twelve studies, there was an observed trend towards longer operative time for
+the MIS-ILND approach (mean difference 28 min; 95% CI *−* 2 to 58 min, *p* : 0.06, I [2] : 94%), albeit
+there was significant heterogeneity (Figure 2A). In a three-arm Bayesian network meta-analysis
+comparing O-ILND, VEIL, and RA-VEIL, RA-VEIL had a longer operative time, whereas
+there was no significant difference between VEIL and O-ILND (Supplementary Figures S1
+and S2, Supplementary Table S3). Estimated blood loss was not significantly different between
+O-ILND and MIS-ILND (MD *−* 61; 95% CI *−* 150 to 29 mL, *p* = 0.14) (Figure 2B). Across all
+fifteen studies, there was no significant difference in the mean LNY for O-ILND (mean: 12.3,
+range 7.1–25.0) and MIS-ILND (mean 12.3, range 7.1–23.5) (mean difference 0.3, 95% CI *−* 0.3
+
+*Cancers* **2025**, *17*, 3035 7 of 15
+
+to 0.9, *p* = 0.13) (Figure 2C), with the exception of Brassetti [ 15 ] who observed an average of
+seven more lymph nodes per patient harvested for O-ILND (25 nodes, IQR: 17–33) than in
+MIS-ILND (18 nodes, IQR: 12–24). The proportion of patients or inguinal sides with positive
+lymph nodes was again similar (RR 0.98, 95% CI 0.88–1.10, *p* = 0.75) (Figure 2D). Across eight
+studies, a shorter LOS of an average of 4 days was observed in favour of MIS-ILND (MD *−* 4,
+95% CI *−* 6– *−* 2, *p* = 0.05) (Figure 2E). There was also no difference in the time to drain removal
+(MD 0 days; 95% CI *−* 4 to 5 days, *p* = 0.91), although six of the ten studies demonstrated
+MIS-ILND had a significant shorter time to drain removal (Supplementary Figure S3).
+
+( **A** )
+
+( **B** )
+
+( **C** )
+
+**Figure 2.** *Cont.*
+
+*Cancers* **2025**, *17*, 3035 8 of 15
+
+( **D** )
+
+( **E** )
+
+**Figure 2.** Forest plots comparing O-ILND versus MIS-ILND for ( **A** ) operative time in minutes;
+( **B** ) estimated blood loss in ml; ( **C** ) lymph node yield; ( **D** ) groins with positive inguinal lymph nodes;
+and ( **E** ) length of stay in days.
+
+*3.3. Complications*
+
+Thirteen studies used the Clavien–Dindo (CD) classification to classify and compare
+complications for both MIS-ILND and O-ILND and consistently revealed that MIS-ILND
+had a significantly lower complication rate. MIS-ILND had better outcomes for minor
+complications (CD 1–2) (HR: 0.65, 95% CI 0.45–0.94, *p* = 0.02, I [2] : 65%) (Figure 3A), and
+the benefit of the MIS approach was also observed for major complications (CD > 2) with
+low heterogeneity (HR: 0.25, 95% CI 0.12–0.53, *p* = 0.002, I [2] : 39%) (Figure 3B). Specifically,
+there were lower rates of wound infection for the MIS approach (HR: 0.43 95% CI 0.22–0.82,
+*p* = 0.02, I [2] : 72%) (Figure 3C), which contributed to the abovementioned shorter LOS. Other
+studied complications such as skin/flap necrosis, lymphedema, lymphocele, and deep vein
+thrombosis were similar in both groups (Supplementary Figures S4–S7).
+
+*Cancers* **2025**, *17*, 3035 9 of 15
+
+( **A** )
+
+( **B** )
+
+( **C** )
+
+**Figure 3.** Forest plots comparing O-ILND versus MIS-ILND for ( **A** ) minor complications (Clavien–
+Dindo Grade 1–2); ( **B** ) major complications (Clavien–Dindo Grade > 2); and ( **C** ) wound infection.
+
+*Cancers* **2025**, *17*, 3035 10 of 15
+
+*3.4. Oncological Outcomes*
+
+The follow-up period varied across studies, ranging from 12 to 96 months, with most
+studies reporting follow up beyond 24 months. Across seven studies, overall recurrence
+favoured MIS-ILND (HR 0.77, 95% CI 0.64–0.92, *p* = 0.01) (Figure 4A), but there was no
+difference in the local groin recurrence (HR: 0.85, 95% CI 0.38–1.92, *p* = 0.65) (Figure 4B).
+Overall survival was reported in several studies, but no data of exact event numbers could
+be obtained for pooling. Nonetheless, studies reporting this outcome all found no significant
+differences between O-ILND and MIS-ILND [ 15, 22 – 24 ]. In the study by Ye [ 25 ], *p* -values
+were not reported but mortality rate was 16% in both VEIL and O-ILND. In the randomised
+controlled trials (RCTs) by Tobias-Machado [ 11 ], Yadav [ 12 ], and Falcone [ 13 ], there was
+no appreciable comparison, since both techniques were performed on the same patient.
+Altogether, included studies seemed to suggest that OS is not significantly different between
+O-ILND and MIS-ILND. Certainty of evidence was mostly low to moderate [Table 2].
+Funnel plots did not show any obvious publication bias (Supplementary Figures S8–S22).
+
+( **A** )
+
+( **B** )
+
+**Figure 4.** Comparing O-ILND versus MIS-ILND for ( **A** ) overall recurrence; ( **B** ) local groin recurrence.
+
+*Cancers* **2025**, *17*, 3035 11 of 15
+
+**Table 2.** Certainty of evidence across studies.
+
+**Relative Effect** **Heterogeneity** **Certainty of Evidence**
+**Outcome** **N (Studies)** ***p*** **-Value**
+**(95% CI)** **(%)** **(GRADE)**
+
+Recurrence (overall) RR 0.77 (0.64–0.92) 593 (7 studies) 0.01 0 *⊕⊕⊕* ⊖ Moderate *
+
+Recurrence (local) RR 0.85 (0.38–1.92) 559 (7 studies) 0.65 0 *⊕⊕⊕* ⊖ Moderate *
+
+Total operative time MD 26 ( *−* 1; 54) 1079 (13 studies) 0.06 94 *⊕⊕* ⊖⊖ Low *ˆ
+
+Estimated blood loss MD *−* 61 ( *−* 150; 29) 510 (6 studies) 0.14 99 *⊕⊕* ⊖⊖ Low *ˆ
+
+Lymph node yield MD 0.3 ( *−* 0.3; 0.8) 1198 (16 studies) 0.31 26 *⊕⊕⊕* ⊖ Moderate *
+
+Lymph node positivity RR 0.98 (0.88–1.10) 831 (13 studies) 0.75 5.5 *⊕⊕⊕* ⊖ Moderate *
+
+Clavien–Dindo 1–2
+RR 0.65 (0.45–0.94) 860 (12 studies) 0.02 65 *⊕⊕* ⊖⊖ Low *ˆ
+complications
+
+Clavien–Dindo 3–4
+RR 0.25 (0.12–0.53) 746 (11 studies) 0.002 39 *⊕⊕⊕* ⊖ Moderate *
+complications
+
+Wound infection RR 0.43 (0.22–0.82) 965 (10 studies) 0.02 72 *⊕⊕* ⊖⊖ Low *ˆ
+
+Lymphedema RR 0.77 (0.43–1.39) 1051 (12 studies) 0.36 62 *⊕⊕* ⊖⊖ Low *ˆ
+
+Lymphocele/seroma RR 0.96 (0.71–1.30) 1104 (14 studies) 0.10 34 *⊕⊕⊕* ⊖ Moderate *
+
+Deep venous thrombosis RR 0.31 (0.07–1.41) 629 (3 studies) 0.10 0 *⊕⊕⊕* ⊖ Moderate *
+
+Skin/flap necrosis RR 0.40 (0.12–1.33) 599 (7 studies) 0.11 56 *⊕⊕* ⊖⊖ Low *ˆ
+
+Length of hospital stay MD *−* 4 ( *−* 6; *−* 2) 757 (8 studies) 0.005 94 *⊕⊕* ⊖⊖ Low *ˆ
+
+Time to drain removal MD *−* 1 ( *−* 6; 4) 903 (10 studies) 0.79 89 *⊕⊕* ⊖⊖ Low *ˆ
+
+                 - Downgraded one level due to use of data from nonrandomized and nonmatched studies. ˆ Downgraded one
+level due to moderate or high heterogeneity. MD, mean difference; RR, risk ratio.
+
+**4. Discussion**
+
+Penile carcinoma is a rare but disproportionately destructive genitourinary malignancy,
+often causing significant physical and psychological morbidity, from both the disease itself
+and the surgical treatment. The increasing interest in MIS-ILND gives a greater impetus to
+analyse its oncological efficiency as compared to O-ILND before urologists can safely adopt
+this technique. Most clinical studies are hampered by the relatively small sample sizes;
+therefore, pooling of data from published cohort studies can provide greater understanding
+of the clinical outcomes. There are few published meta-analyses in this regard Hu et al. [ 27 ]
+compared VEIL with O-ILND and observed a reduction in LOS and drainage time but a
+lower number of LNY with VEIL, raising concerns about the latter’s oncological inferiority.
+However, the study was published much earlier and could have reflected the infancy
+stages and required learning curve for MIS-ILND. Patel et al. [ 28 ] extended this scope to
+include studies using both VEIL and RA-VEIL techniques, but the corresponding small
+sample size and consequent poor study quality raises questions about the accuracy of their
+findings. Our review extends this work by including more recently published studies not
+captured in either review, expanding the sample size and thereby improving the precision
+of effect estimates. The contemporaneous studies predominantly published in the past five
+years also reflect the refinement of MIS-ILND to achieve good nodal dissection. Across
+16 studies involving over 1000 patients, this systematic review demonstrated that while
+MIS-ILND could be associated with longer operative times, it demonstrated significantly
+lower postoperative complications, particularly wound-related issues, while achieving
+comparable oncologic outcomes as measured by similar LNY and recurrence rates. The
+longer operative times importantly did not translate into increased intraoperative morbidity
+or worse outcomes and in fact, achieved a shorter LOS. These findings are corroborated by
+other studies [ 28 – 30 ], and suggest that MIS-ILND offers a clinically meaningful advantage
+in perioperative safety without compromising oncologic efficiency.
+
+*Cancers* **2025**, *17*, 3035 12 of 15
+
+Wound infections constitute a major morbidity of ILND. The EAU guidelines [ 3 ] report
+wound infection rates of 2–43% and skin necrosis rate of 3–50%. This systematic review
+observed similar statistics, with wound infection rates ranging from 3% to 78% (median:
+15.5%, weighted average: 24%) and skin necrosis rates from 0% to 44% (median: 12.5%,
+weighted average: 20%). This would have led to longer hospital stay, drainage duration,
+more resources required for wound care management, and most importantly, a potential
+delay in adjuvant chemotherapy for some patients. Many incisional modifications have
+been suggested for O-ILND, such as the transverse (S-shape), vertical single oblique and
+dual skin bridge (Fraley) incisions [ 31, 32 ], to reduce skin-related morbidities. Ray et al. [ 33 ]
+found the Fraley incision to be highly effective in minimising wound postoperative wound
+complications while maintaining optimal early oncological outcomes, but this was not
+observed by Shao et al. [ 23 ]. Bertheuil et al. [ 34 ] similarly reported no significant difference
+in wound-related complications when comparing S-shaped and vertical incisions. Many
+factors beyond the optimal skin incision influence the risk of developing wound infections,
+ranging from patient (age, comorbidities, obesity, smoking, preoperative skin hygiene)
+to procedural factors (operative time, operative approach, extent of tissue trauma and
+devascularisation). This review paper highlighted the significant reduction in complication
+rates with an MIS approach, which has been well observed in intra-abdominal and other
+genitourinary cancers. More importantly, the observed benefit was greater in major compared to minor complications with low heterogeneity across the studies. Singh et al. [ 17 ]
+reported similar overall complication rates between O-ILND and RA-VEIL, but a significant
+reduction in major complications in the RA-VEIL cohort (2% vs. 17%), notably a lower
+skin necrosis and severe lymphedema. The potential benefit of lower rates of lymphedema,
+lymphocele, and deep vein thrombosis observed in individual studies [ 27, 35 – 37 ] was not
+observed in the pooled analysis. We believe these complications could be related to the
+adequacy of lymph node removal and extent of saphenous vein preservation rather than
+the surgical approach itself. Finally, in selected patients where ipsilateral pelvic lymph
+node dissection is required for advanced disease, the MIS-ILND can avoid the need of an
+
+additional abdominal incision.
+
+Prior to advocating the widespread adoption of MIS for ILND, it is important to evaluate the patient selection and oncological outcomes for either approach. The sixteen studies
+analysed in this review were similar in terms of the patient profile. In particular, four
+studies recruited patients with clinically enlarged and palpable inguinal lymphadenopathy,
+to reflect the utility of MIS-ILND in advanced disease. This challenges previous misconception that MIS-ILND is predominantly reserved for early disease with subclinical metastasis.
+Previous studies have proposed that a minimal LNY > 7 is necessary to reflect a reliable
+oncological procedure and quality assessment [ 37 – 39 ], and this review has demonstrated
+similar LNY for either MIS-ILND and O-ILND, with a mean yield of 12 nodes. Individual
+studies [ 20, 29, 40 ] had even demonstrated a higher nodal count with MIS-ILND, as a result
+of the improved surgical visualisation and technical expertise. Altogether, the comparable
+LNY observed in MIS-ILND supports the observation of a similar local recurrence rate
+
+across all studies.
+
+There are some inherent limitations of this review paper. Firstly, most studies were retrospective cohort studies with small sample size, which presented significant heterogeneity
+in the studied demographics. The indication for ILND (prophylactic or therapeutic) varied
+and the extent of ILND was not explicitly stated in most studies, although there was no
+significant difference in the LNY or positive nodes across each study. Some of the outcome
+measurements such as lymphocele, lymphedema, and flap necrosis were not clearly defined
+and raised ambiguity during analysis. The extent of saphenous vein preservation, which is
+an important factor in reducing postoperative lymphedema and DVT, was not elaborated
+
+*Cancers* **2025**, *17*, 3035 13 of 15
+
+in most studies. Other key outcomes such operative blood loss and LOS also exhibited
+high heterogeneity which may reflect the learning curve for MIS-ILND and the surgeon’s
+experience in this relatively uncommon procedure. Nonetheless, in the three RCT-designed
+studies, where patients undergo O-ILND on one side and MIS-ILND on the contralateral
+thigh, similar findings of lower complication rates with comparable oncological outcomes
+were observed. Lastly, while most studies reported similar local groin recurrence and overall survival, the follow-up durations were short and inconsistently reported, meaning that
+conclusions regarding long-term oncologic outcomes should be interpreted with caution.
+
+**5. Conclusions**
+
+This systematic review demonstrates that MIS-ILND offers perioperative advantages
+of fewer complications, reduced wound morbidity, and shorter hospitalisation. Importantly,
+these benefits are achieved without compromising oncologic outcomes, including lymph
+node yield, recurrence, or survival. As surgical expertise and technology advance, MIS-ILND
+has the potential to become the preferred standard for managing inguinal nodal disease in
+penile cancer, especially in high-volume centres with the requisite surgical expertise.
+
+**Supplementary Materials:** [The following supporting information can be downloaded at https:](https://www.mdpi.com/article/10.3390/cancers17183035/s1)
+[//www.mdpi.com/article/10.3390/cancers17183035/s1, Figure S1: Forest plot of Bayesian network](https://www.mdpi.com/article/10.3390/cancers17183035/s1)
+meta-analysis of operative time; Figure S2: Network graph of Bayesian network meta-analysis of
+
+operative time; Figure S3: Forest plot comparing O-ILND versus MIS-ILND for time to drain removal;
+Figure S4: Forest plot comparing O-ILND versus MIS-ILND for skin/flap necrosis; Figure S5: Forest
+plot comparing O-ILND versus MIS-ILND for lymphedema; Figure S6: Forest plot comparing O
+ILND versus MIS-ILND for lymphocele; Figure S7: Forest plot comparing O-ILND versus MIS-ILND
+for deep vein thrombosis; Figure S8: Funnel plot for operative time (min); Figure S9: Funnel plot
+comparing estimated blood loss (mL); Figure S10: Funnel plot comparing lymph node yield; Figure
+S11: Funnel plot comparing groins with positive inguinal lymph nodes; Figure S12: Funnel plot
+comparing length of stay (days); Figure S13: Funnel plot comparing minor complications (Clavien
+Dindo Grade 1–2); Figure S14: Funnel plot comparing major complications (Clavien-Dindo Grade > 2);
+Figure S15: Funnel plot wound infection; Figure S16: Funnel plot comparing overall recurrence;
+Figure S17: Funnel plot comparing local groin recurrence; Figure S18: Funnel plot comparing time to
+drain removal (days); Figure S19: Funnel plot comparing skin/flap necrosis; Figure S20: Funnel plot
+comparing lymphedema; Figure S21: Funnel plot comparing lymphocele; Figure S22: Funnel plot
+comparing deep vein thrombosis; Table S1: Full search phrases for the respective databases; Table S2:
+Risk of bias assessed using Newcastle-Ottawa Scale; Table S3: Bayesian network meta-analysis of
+
+operative time in minutes.
+
+**Author Contributions:** Conceptualization: Y.G.T., K.Y.F., M.R.A., K.C.; methodology: Y.G.T., K.Y.F.,
+K.C.; formal analysis: Y.G.T., K.Y.F., N.K.-J.G.; writing—original draft preparation: Y.G.T., K.Y.F.,
+N.K.-J.G., A.Y.L.; writing—review and editing: K.J.T., J.S.Y., M.R.A., K.C.; supervision: M.R.A., K.C.
+All authors have read and agreed to the published version of the manuscript.
+
+**Funding:** This research received no external funding.
+
+**Institutional Review Board Statement:** Not applicable.
+
+**Informed Consent Statement:** Not applicable.
+
+**Data Availability Statement:** The authors confirm that the data supporting the findings of this study
+are published within the main article and the Supplementary Materials.
+
+**Conflicts of Interest:** The authors have no conflicts of interest to declare.
+
+*Cancers* **2025**, *17*, 3035 14 of 15
+
+**References**
+
+1. Skeppner, E.; Andersson, S.-O.; Johansson, J.-E.; Windahl, T. Initial symptoms and delay in patients with penile carcinoma. *Scand.*
+*J. Urol. Nephrol.* **2012**, *46* [, 319–325. [CrossRef] [PubMed]](https://doi.org/10.3109/00365599.2012.677473)
+2. Pow-Sang, M.R.; Ferreira, U.; Pow-Sang, J.M.; Nardi, A.C.; Destefano, V. Epidemiology and natural history of penile cancer.
+*Urology* **2010**, *76* [, S2–S6. [CrossRef]](https://doi.org/10.1016/j.urology.2010.03.003)
+3. Brouwer, O.R.; Rumble, R.B.; Ayres, B.; Sánchez Martínez, D.F.; Oliveira, P.; Spiess, P.E.; Johnstone, P.A.S.; Crook, J.; Pettaway,
+C.A.; Tagawa, S.T.; et al. Penile Cancer: EAU-ASCO Collaborative Guidelines Update Q and A. *JCO Oncol. Pract.* **2024**, *20*, 33–37.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1200/OP.23.00585)
+4. Ficarra, V.; Akduman, B.; Bouchot, O.; Palou, J.; Tobias-Machado, M. Prognostic Factors in Penile Cancer. *Urology* **2010**, *76*,
+[S66–S73. [CrossRef]](https://doi.org/10.1016/j.urology.2010.04.008)
+
+5. Sachdeva, A.; McGuiness, L.; Zapala, L.; Greco, I.; Garcia-Perdomo, H.A.; Kailavasan, M.; Antunes-Lopes, T.; Ayres, B.; Barreto, L.;
+Campi, R.; et al. Management of lymph node-positive penile cancer: A systematic review. *Eur. Urol.* **2024**, *85* [, 257–273. [CrossRef]](https://doi.org/10.1016/j.eururo.2023.04.018)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/37208237)
+
+6. Teh, J.; Duncan, C.; Qu, L.; Guerra, G.; Narasimhan, V.; Pham, T.; Lawrentschuk, N. Inguinal lymph node dissection for penile
+cancer: A contemporary review. *Transl. Androl. Urol.* **2020**, *9* [, 3210–3218. [CrossRef]](https://doi.org/10.21037/tau.2019.08.37)
+7. Hozo, S.P.; Djulbegovic, B.; Hozo, I. Estimating the mean and variance from the median, range, and the size of a sample. *BMC*
+*Med. Res. Methodol.* **2005**, *5* [, 13. [CrossRef]](https://doi.org/10.1186/1471-2288-5-13)
+
+8. Wan, X.; Wang, W.; Liu, J.; Tong, T. Estimating the sample mean and standard deviation from the sample size, median, range
+and/or interquartile range. *BMC Med. Res. Methodol.* **2014**, *14* [, 135. [CrossRef]](https://doi.org/10.1186/1471-2288-14-135)
+9. Higgins, J.P.T. Measuring inconsistency in meta-analyses. *BMJ* **2003**, *327* [, 557–560. [CrossRef]](https://doi.org/10.1136/bmj.327.7414.557)
+10. Brignardello-Petersen, R.; Bonner, A.; Alexander, P.E.; Siemieniuk, R.A.; Furukawa, T.A.; Rochwerg, B.; Hazlewood, G.S.;
+Alhazzani, W.; Mustafa, R.A.; Murad, M.H.; et al. Advances in the GRADE approach to rate the certainty in estimates from a
+network meta-analysis. *J. Clin. Epidemiol.* **2018**, *93* [, 36–44. [CrossRef]](https://doi.org/10.1016/j.jclinepi.2017.10.005)
+11. Tobias-Machado, M.; Tavares, A.; Silva, M.N.R.; Molina, J.W.R.; Forseto, P.H.; Juliano, R.V.; Wroclawski, E.R. Can Video
+Endoscopic Inguinal Lymphadenectomy Achieve a Lower Morbidity Than Open Lymph Node Dissection in Penile Cancer
+Patients? *J. Endourol.* **2008**, *22* [, 1687–1692. [CrossRef] [PubMed]](https://doi.org/10.1089/end.2007.0386)
+12. Yadav, S.S.; Tomar, V.; Bhattar, R.; Jha, A.K.; Priyadarshi, S. Video Endoscopic Inguinal Lymphadenectomy vs Open Inguinal
+Lymphadenectomy for Carcinoma Penis: Expanding Role and Comparison of Outcomes. *Urology* **2018**, *113* [, 79–84. [CrossRef]](https://doi.org/10.1016/j.urology.2017.11.007)
+13. Falcone, M.; Gül, M.; Peretti, F.; Preto, M.; Cirigliano, L.; Scavone, M.; Sedigh, O.; Oderda, M.; Gontero, P. Inguinal lymphadenectomy for penile cancer: An interim report from a trial comparing open versus videoendoscopic surgery using a within-patient
+design. *Eur. Urol. Open Sci.* **2024**, *63* [, 31–37. [CrossRef] [PubMed]](https://doi.org/10.1016/j.euros.2024.02.007)
+14. Schwentner, C.; Todenhöfer, T.; Seibold, J.; Alloussi, S.H.; Mischinger, J.; Aufderklamm, S.; Stenzl, A.; Gakis, G. Endoscopic
+inguinofemoral lymphadenectomy—Extended follow-up. *J. Endourol.* **2013**, *27* [, 497–503. [CrossRef]](https://doi.org/10.1089/end.2012.0489)
+15. Brassetti, A.; Pallares-Mendez, R.; Bove, A.M.; Misuraca, L.; Anceschi, U.; Tuderti, G.; Mastroianni, R.; Licari, L.C.; Bologna, E.;
+Cartolano, S.; et al. Comparing Outcomes of Open and Robot-Assisted Inguinal Lymphadenectomy for the Treatment of cN2
+Squamous Cell Carcinoma of the Penis: A Retrospective Single-Center Analysis. *Cancers* **2024**, *16* [, 3921. [CrossRef]](https://doi.org/10.3390/cancers16233921)
+16. Ma, S.; Zhang, K.; Li, R.; Lu, J.; Wu, T.; Liu, Z.; Fu, X.; Tang, Q.; Ma, J. (Eds.) Bilateral inguinal lymphadenectomy using
+simultaneous double laparoscopies for penile cancer: A retrospective study. In *Urologic Oncology: Seminars and Original*
+*Investigations* ; Elsevier: Amsterdam, The Netherlands, 2022.
+17. Singh, A.; Jaipuria, J.; Goel, A.; Shah, S.; Bhardwaj, R.; Baidya, S.; Jain, J.; Jain, C.; Rawal, S. Comparing Outcomes of Robotic and
+Open Inguinal Lymph Node Dissection in Patients with Carcinoma of the Penis. *J. Urol.* **2018**, *199* [, 1518–1525. [CrossRef]](https://doi.org/10.1016/j.juro.2017.12.061)
+18. Yu, H.; Lu, Y.; Xiao, Y.; Guo, J.; Yin, X.; Yang, Y.; Wang, H.; Gao, J. Robot-assisted laparoscopic antegrade versus open inguinal
+lymphadenectomy: A retrospective controlled study. *BMC Urol.* **2019**, *19* [, 135. [CrossRef]](https://doi.org/10.1186/s12894-019-0571-4)
+19. Fankhauser, C.D.; Lee, E.W.; Issa, A.; Oliveira, P.; Lau, M.; Sangar, V.; Parnham, A. Saphenous-sparing ascending video endoscopic
+inguinal lymph node dissection using a leg approach: Surgical technique and perioperative and pathological outcomes. *Eur. Urol.*
+*Open Sci.* **2022**, *35* [, 9–13. [CrossRef]](https://doi.org/10.1016/j.euros.2021.10.004)
+20. Kumar, V.; Sethia, K.K. Prospective study comparing video-endoscopic radical inguinal lymph node dissection (VEILND) with
+open radical ILND (OILND) for penile cancer over an 8-year period. *BJU Int.* **2017**, *119* [, 530–534. [CrossRef]](https://doi.org/10.1111/bju.13660)
+21. Ozambela, M., Jr.; McCormick, B.Z.; Rudzinski, J.K.; Pieretti, A.C.; González, G.M.N.; Meissner, M.A.; Papadopoulos, J.N.; Adibi,
+M.; Matin, S.F.; Dahmen, A.S.; et al. (Eds.) Robotic or open superficial inguinal lymph node dissection as staging procedures for
+clinically node negative high risk penile cancer. In *Urologic Oncology: Seminars and Original Investigations* ; Elsevier: Amsterdam,
+The Netherlands, 2024.
+
+22. Bada, M.; Crocetto, F.; Nyirady, P.; Pagliarulo, V.; Rapisarda, S.; Aliberti, A.; Boccasile, S.; Ferro, M.; Barone, B.; Celia, A. Inguinal
+lymphadenectomy in penile cancer patients: A comparison between open and video endoscopic approach in a multicenter setting.
+*J. Basic Clin. Physiol. Pharmacol.* **2023**, *34* [, 383–389. [CrossRef] [PubMed]](https://doi.org/10.1515/jbcpp-2023-0038)
+
+*Cancers* **2025**, *17*, 3035 15 of 15
+
+23. Shao, Y.; Hu, X.; Ren, S.; Liao, D.; Yang, Z.; Liu, Y.; Lia, T.; Wu, K.; Xiong, S.; Yang, W.; et al. Comparison of different surgical
+methods and strategies for inguinal lymph node dissection in patients with penile cancer. *Sci. Rep.* **2022**, *12* [, 2560. [CrossRef]](https://doi.org/10.1038/s41598-022-06494-z)
+24. Thyavihally, Y.B.; Dev, P.; Waigankar, S.S.; Pednekar, A.; Kulkarni, B.; Sharma, A.; Maheshwari, S.; Roy, D.; Agarwal, V.; Khandekar,
+A.A.; et al. Comparative study of perioperative and survival outcomes after video endoscopic inguinal lymphadenectomy (VEIL)
+and open inguinal lymph node dissection (O-ILND) in the management of inguinal lymph nodes in carcinoma of the penis.
+*J. Robot. Surg.* **2021**, *15* [, 905–914. [CrossRef]](https://doi.org/10.1007/s11701-020-01189-x)
+25. Ye, Y.L.; Guo, S.J.; Li, Z.S.; Yao, K.; Chen, D.; Wang, Y.J.; Chen, P.; Han, H.; Zhou, F.J. Radical videoscopic inguinal lymphadenectomies: A matched pair analysis. *J. Endourol.* **2018**, *32* [, 955–960. [CrossRef] [PubMed]](https://doi.org/10.1089/end.2018.0356)
+26. Wang, S.; Du, P.; Tang, X.; An, C.; Zhang, N.; Yang, Y. Comparison of Efficiency of Video Endoscopy and Open inguinal lymph
+node dissection. *Anticancer Res.* **2017**, *37*, 4623–4628.
+
+27. Hu, J.; Li, H.; Cui, Y.; Liu, P.; Zhou, X.; Liu, L.; Chen, H.; Chen, J.; Zu, X. Comparison of clinical feasibility and oncological
+outcomes between video endoscopic and open inguinal lymphadenectomy for penile cancer. *Medicine* **2019**, *98* [, e15862. [CrossRef]](https://doi.org/10.1097/MD.0000000000015862)
+28. Patel, K.N.; Salunke, A.; Bakshi, G.; Jayaprakash, D.; Pandya, S.J. Robotic-Assisted Video-Endoscopic Inguinal Lymphadenectomy
+(RAVEIL) and Video-Endoscopic Inguinal Lymphadenectomy (VEIL) versus Open Inguinal Lymph-Node Dissection (OILND) in
+carcinoma of penis: Comparison of perioperative outcomes, complications and onco. *Urol. Oncol. Semin. Orig. Investig.* **2022**, *40*,
+
+112.e11–112.e22.
+
+29. Ge, S.; Zheng, L.; Li, Y.; Gan, L.; Wang, Z.; Zeng, Z.; Meng, C.; Li, K.; Ma, J.; Wang, D.; et al. Comparing the safety and effectiveness
+of minimally invasive surgery and open inguinal lymph node dissection in penile cancer: A systematic review and meta-analysis.
+*Eur. J. Surg. Oncol.* **2024**, *50* [, 108553. [CrossRef] [PubMed]](https://doi.org/10.1016/j.ejso.2024.108553)
+30. Nabavizadeh, R.; Petrinec, B.; Nabavizadeh, B.; Singh, A.; Rawal, S.; Master, V. Inguinal lymph node dissection in the era of
+minimally invasive surgical technology. *Urol. Oncol. Semin. Orig. Investig.* **2023**, *41* [, 1–14. [CrossRef]](https://doi.org/10.1016/j.urolonc.2020.07.026)
+31. Lupinacci, R.M.; Benoît, O.; Peschaud, F. Inguinal lymph node dissection. *J. Visc. Surg.* **2023**, *160* [, 127–133. [CrossRef]](https://doi.org/10.1016/j.jviscsurg.2023.01.010)
+32. Fraley, E.E.; Hutchens, H.C. Radical Ilio-Inguinal Node Dissection: The Skin Bridge Technique. A New Procedure. *J. Urol.* **1972**,
+*108* [, 279–281. [CrossRef] [PubMed]](https://doi.org/10.1016/S0022-5347(17)60711-0)
+
+33. Ray, M.D.; Jakhetiya, A.; Kumar, S.; Mishra, A.; Singh, S.; Shukla, N.K. Minimizing Post-operative Complications of Groin
+Dissection Using Modified Skin Bridge Technique: A Single-Centre Descriptive Study Showing Post-operative and Early
+Oncological Outcomes. *World J. Surg.* **2018**, *42* [, 3196–3201. [CrossRef]](https://doi.org/10.1007/s00268-018-4604-z)
+34. Bertheuil, N.; Sulpice, L.; Sandri, G.L.; Lavoué, V.; Watier, E.; Meunier, B. Inguinal lymphadenectomy for stage III melanoma:
+A comparative study of two surgical approaches at the onset of lymphoedema. *Eur. J. Surg. Oncol. (eJSO)* **2015**, *41*, 215–219.
+
+[[CrossRef]](https://doi.org/10.1016/j.ejso.2014.10.062)
+
+35. Ma, Y.; Hao, J.; Yin, H.; Zhu, M.; Guan, B.; Zhu, C.; Dong, B.; Zhao, S.; He, Z.; Yang, T. A laparoscopic radical inguinal
+lymphadenectomy approach partly preserving great saphenous vein branches can benefit for patients with penile carcinoma.
+*BMC Surg.* **2022**, *22* [, 138. [CrossRef]](https://doi.org/10.1186/s12893-022-01582-3)
+36. Alqudrah, F.; Passarelli, R.; Sykes, J.; Islam, R.; Chua, K.; Ghodoussipour, S. Video-endoscopic inguinal lymphadenectomy (VEIL)
+oncological and surgical benefits compared to open inguinal lymph node dissection (ILND). *J. Men’s Health* **2024**, *20*, 20–25.
+37. Spillane, A.J.; Cheung, B.L.; Stretch, J.R.; Scolyer, R.A.; Shannon, K.F.; Quinn, M.J.; Saw, R.P.; McCarthy, W.H.; Thompson, J.F.
+Proposed quality standards for regional lymph node dissections in patients with melanoma. *Ann. Surg.* **2009**, *249*, 473–480.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1097/SLA.0b013e318194d38f)
+
+38. Spillane, A.J.; Winstanley, J.; Thompson, J.F. Lymph node ratio in melanoma: A marker of variation in surgical quality? *Cancer*
+**2009**, *115* [, 2384–2387. [CrossRef] [PubMed]](https://doi.org/10.1002/cncr.24295)
+
+39. Master, V.A.; Jafri, S.M.A.; Moses, K.A.; Ogan, K.; Kooby, D.A.; Delman, K.A. Minimally invasive inguinal lymphadenectomy via
+endoscopic groin dissection: Comprehensive assessment of immediate and long-term complications. *J. Urol.* **2012**, *188*, 1176–1180.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1016/j.juro.2012.06.038)
+
+40. Ji, A.; Lyu, J.; Bai, Y.; Jiang, J.; Liu, F. Single-position robot-assisted versus laparoscopic antegrade bilateral inguinal lymphadenectomy for penile cancer: A retrospective controlled study. *Asian J. Surg.* **2022**, *45* [, 1530–1534. [CrossRef]](https://doi.org/10.1016/j.asjsur.2022.03.025)
+
+**Disclaimer/Publisher’s Note:** The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,33 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=375 candidates_tokens_details=None prompt_token_count=28219 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=24091), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=4128)] thoughts_token_count=3782 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=32376 traffic_type=None
+
+
+**Penile Shaft-Sparing Surgery Recommendations from Systematic Review**
+
+As a specialist, I carefully analyzed the systematic review on penile shaft-sparing (PSS) surgery for localized penile cancer. The paper's emphasis is a summary of existing literature rather than generating new recommendations. The review's core message emphasizes the current *usual* indications for PSS and the limitations of the available evidence.
+
+My analysis yielded the following actionable information regarding primary treatment:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment (Penile Shaft Sparing Surgery)** | **Specific Clinical Indications:**<br>• **Stage:** Penile Shaft Sparing (PSS) surgery is generally indicated for localized Penile Cancer (PeCa) stages pTis, pTa, and pT1.<br>• **Anatomical Specifics:** Circumcision is specifically indicated for PeCa limited to the foreskin.<br><br>**Treatment Modalities and Conditions:**<br>The review suggests that the following techniques are considered viable PSS options for the indicated stages:<br>• Circumcision<br>• Wide Local Excision (WLE), with or without split skin graft (SSG)<br>• Laser Ablation (e.g., CO₂, Nd:YAG)<br>• Glans Resurfacing<br>• Glansectomy, with or without split skin graft (SSG)<br><br>**Additional Clinical Clarifications / Limitations:**<br>• The review explicitly states that there is currently no evidence or precise recommendation in international guidelines to guide the choice of one technique over another for the indicated stages.<br>• The paper concludes that, due to the low quality of the currently available studies and a lack of comparative data, definitive recommendations cannot be drawn. A high degree of caution is advised when making decisions about the safety and efficacy of PSS for localized PeCa. |
+
+This summary is based on the provided systematic review, with its inherent limitations. My intent is not to prescribe clinical action. Instead, this compilation aims to synthesize the currently available information on the usual indications and viable PSS techniques. My professional judgment should guide my final treatment decisions, keeping in mind the caveats from the review regarding limited and comparative data.
+
+
+
+**Penile Shaft-Sparing Surgery Recommendations from Systematic Review**
+
+As a specialist, I carefully analyzed the systematic review on penile shaft-sparing (PSS) surgery for localized penile cancer. The paper's emphasis is a summary of existing literature rather than generating new recommendations. The review's core message emphasizes the current *usual* indications for PSS and the limitations of the available evidence.
+
+My analysis yielded the following actionable information regarding primary treatment:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment (Penile Shaft Sparing Surgery)** | **Specific Clinical Indications:**<br>• **Stage:** Penile Shaft Sparing (PSS) surgery is generally indicated for localized Penile Cancer (PeCa) stages pTis, pTa, and pT1.<br>• **Anatomical Specifics:** Circumcision is specifically indicated for PeCa limited to the foreskin.<br><br>**Treatment Modalities and Conditions:**<br>The review suggests that the following techniques are considered viable PSS options for the indicated stages:<br>• Circumcision<br>• Wide Local Excision (WLE), with or without split skin graft (SSG)<br>• Laser Ablation (e.g., CO₂, Nd:YAG)<br>• Glans Resurfacing<br>• Glansectomy, with or without split skin graft (SSG)<br><br>**Additional Clinical Clarifications / Limitations:**<br>• The review explicitly states that there is currently no evidence or precise recommendation in international guidelines to guide the choice of one technique over another for the indicated stages.<br>• The paper concludes that, due to the low quality of the currently available studies and a lack of comparative data, definitive recommendations cannot be drawn. A high degree of caution is advised when making decisions about the safety and efficacy of PSS for localized PeCa. |
+
+This summary is based on the provided systematic review, with its inherent limitations. My intent is not to prescribe clinical action. Instead, this compilation aims to synthesize the currently available information on the usual indications and viable PSS techniques. My professional judgment should guide my final treatment decisions, keeping in mind the caveats from the review regarding limited and comparative data.
+ Based on the systematic review provided, the following treatment recommendations and indications for Penile Shaft Sparing (PSS) surgery are identified. The paper primarily summarizes existing evidence rather than making new, definitive recommendations, a limitation it explicitly states due to the low quality of the reviewed studies.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment (Penile Shaft Sparing Surgery)** | **Specific Clinical Indications:**<br>• **Stage:** The indication for Penile Shaft Sparing (PSS) surgery is usually restricted to localised Penile Cancer (PeCa) stages **pTis, pTa, and pT1**.<br>• **Anatomical Specifics:** Circumcision is specifically indicated for localised PeCa that is **limited to the foreskin**.<br><br>**Treatment Modalities and Conditions:**<br>The following techniques are described as viable PSS options for the indicated stages:<br>• **Circumcision**<br>• **Wide Local Excision (WLE)**, with or without a split skin graft (SSG)<br>• **Laser Ablation** (e.g., CO₂, Nd:YAG)<br>• **Glans Resurfacing**<br>• **Glansectomy**, with or without a split skin graft (SSG)<br><br>**Additional Clinical Clarifications / Limitations:**<br>• The review notes that while these techniques are all viable options, there is no evidence or precise recommendation available in international guidelines to guide the specific choice of one technique over another in different clinical settings.<br>• The authors conclude that due to the overall low quality of the available data and the absence of comparative studies, **definitive recommendations cannot be drawn** regarding the safety and efficacy of PSS for localised PeCa. |

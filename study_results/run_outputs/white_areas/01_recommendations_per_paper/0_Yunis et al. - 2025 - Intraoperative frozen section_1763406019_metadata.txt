@@ -1,0 +1,64 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=720 candidates_tokens_details=None prompt_token_count=12635 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=10829), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=1806)] thoughts_token_count=2150 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=15505 traffic_type=None
+
+
+**Alright, here's my breakdown of this penile cancer research paper, as I understand it. I've been meticulous here, focusing on the treatment recommendations and standard practices outlined. This is the expert analysis, distilled into actionable information.**
+
+My initial goal was to get a handle on all the explicit treatment recommendations. I started by reading the whole paper section by section, from the abstract to the conclusion. I kept my eyes peeled for phrases that signal a strong clinical recommendation, like "recommend," "should be," "is indicated," and descriptions of current practices or guidelines, such as EAU/ASCO guidelines.
+
+I broke down my approach into several steps. I read the paper, identified those recommendation keywords, categorized the findings, extracted specific clinical indications, noted the treatment modalities and any specific conditions or qualifications, and picked out additional clinical clarifications like specific margin sizes or follow-up schedules. I also paid attention to any suggestions or best practice tips within the text.
+
+So, here's the summary:
+1.  **I found an EAU/ASCO guideline on standard excision.** It says that with penile cancer you should do standard excision of the skin around the tumor with the goal of complete removal and negative margins.
+
+2.  **Penile-Preserving Surgery (PPS) can be performed when possible.** If you can fully remove the tumor and maintain the penis's function, consider PPS.
+
+3.  **Intraoperative Frozen Section Examination (FSE) is the game changer.** Use FSE during penile cancer surgery to be sure of clean margins, especially if the margins are unclear. This also means you can be more conservative on the margins. However, total penectomy is at the discretion of the surgeon.
+
+4.  **Regarding specific techniques, use specific biopsies:**
+    *   If you're using FSE during glansectomy, take biopsies of the whole urethra and each corporal tip.
+    *   For total glans resurfacing, take biopsies of the deep margin.
+
+5.  **If a patient is getting PPS, keep an eye on them.** Follow up every three months for the first two years, and then every six months for at least five years.
+
+6.  **I also thought it was important to ensure informed consent for FSE, and I made a point of documenting it in my summary.** Make sure your patients know that FSE isn't always perfect, and there's a chance that you have to take them back to surgery if the results are discordant.
+
+7.  **Teamwork makes the dream work - this is what the paper suggested.** Make sure that the surgeon and the pathologist are in close contact during the FSE process. Communication is key to getting the best possible results.
+
+I've made sure to capture the nuances of each recommendation, including the specific indications, treatment modalities, and any important caveats. Now I'm ready to present this in a structured, easy-to-digest format.
+
+
+
+**Alright, here's my breakdown of this penile cancer research paper, as I understand it. I've been meticulous here, focusing on the treatment recommendations and standard practices outlined. This is the expert analysis, distilled into actionable information.**
+
+My initial goal was to get a handle on all the explicit treatment recommendations. I started by reading the whole paper section by section, from the abstract to the conclusion. I kept my eyes peeled for phrases that signal a strong clinical recommendation, like "recommend," "should be," "is indicated," and descriptions of current practices or guidelines, such as EAU/ASCO guidelines.
+
+I broke down my approach into several steps. I read the paper, identified those recommendation keywords, categorized the findings, extracted specific clinical indications, noted the treatment modalities and any specific conditions or qualifications, and picked out additional clinical clarifications like specific margin sizes or follow-up schedules. I also paid attention to any suggestions or best practice tips within the text.
+
+So, here's the summary:
+1.  **I found an EAU/ASCO guideline on standard excision.** It says that with penile cancer you should do standard excision of the skin around the tumor with the goal of complete removal and negative margins.
+
+2.  **Penile-Preserving Surgery (PPS) can be performed when possible.** If you can fully remove the tumor and maintain the penis's function, consider PPS.
+
+3.  **Intraoperative Frozen Section Examination (FSE) is the game changer.** Use FSE during penile cancer surgery to be sure of clean margins, especially if the margins are unclear. This also means you can be more conservative on the margins. However, total penectomy is at the discretion of the surgeon.
+
+4.  **Regarding specific techniques, use specific biopsies:**
+    *   If you're using FSE during glansectomy, take biopsies of the whole urethra and each corporal tip.
+    *   For total glans resurfacing, take biopsies of the deep margin.
+
+5.  **If a patient is getting PPS, keep an eye on them.** Follow up every three months for the first two years, and then every six months for at least five years.
+
+6.  **I also thought it was important to ensure informed consent for FSE, and I made a point of documenting it in my summary.** Make sure your patients know that FSE isn't always perfect, and there's a chance that you have to take them back to surgery if the results are discordant.
+
+7.  **Teamwork makes the dream work - this is what the paper suggested.** Make sure that the surgeon and the pathologist are in close contact during the FSE process. Communication is key to getting the best possible results.
+
+I've made sure to capture the nuances of each recommendation, including the specific indications, treatment modalities, and any important caveats. Now I'm ready to present this in a structured, easy-to-digest format.
+ Based on the systematic review provided, the following explicit treatment recommendations and descriptions of standard clinical practices for penile cancer have been extracted and organized.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment** | **Penile-Preserving Surgery (PPS):** <br> • **Specific Clinical Indications:** For penile cancer (PeCa) where it is possible to completely excise the tumour and maintain a functional penile length.<br> • **Treatment Modality:** Penile-Preserving Surgery (PPS), which includes procedures like partial penectomy, radical circumcision, wide local excision (WLE), glansectomy, and glans resurfacing. |
+| **Surgical Margins** | **Standard Excision Margins (EAU/ASCO Recommendation):** <br> • **Specific Clinical Indications:** For all excisional surgeries for penile cancer. <br> • **Treatment Modality with Precise Conditions:** Standard excision should encompass a margin of clinically normal-appearing skin around the tumour and any surrounding erythema to achieve complete removal with histologically negative margins. <br> • **Additional Clinical Clarifications:** Intraoperative Frozen Section Examination (FSE) can be used to allow for more conservative macroscopic margins and immediate re-resection if a margin is positive. |
+| **Intraoperative Management** | **Use of Intraoperative Frozen Section Examination (FSE):** <br> • **Specific Clinical Indications:** During penile cancer surgery (including PPS, radical penectomy, and total penectomy) where resection margins are uncertain, to confirm complete excision. <br> • **Treatment Modality with Precise Conditions:** Intraoperative Frozen Section Examination (FSE) is performed to assess margin status. Its use during total penectomy is at the discretion of the surgeon or per departmental policy. <br> • **Additional Clinical Clarifications:** Close communication between the surgeon and histopathologist is critical for accurate assessment. |
+| **Intraoperative Management** | **Specific Biopsy Protocols during Penile-Preserving Surgery (PPS) with FSE:** <br> • **Specific Clinical Indications:** During glansectomy with split-thickness skin graft (STSG). <br> • **Treatment Modality:** Biopsies of the complete circumference of the urethra and of each corporal tip should be sent for FSE. <br> • **Specific Clinical Indications:** During total glans resurfacing. <br> • **Treatment Modality:** Spongiosal biopsies of the deep margin should be taken for FSE. |
+| **Follow-up Care** | **Surveillance Schedule after Penile-Preserving Surgery (PPS):** <br> • **Specific Clinical Indications:** Applicable after curative Penile-Preserving Surgery (PPS). <br> • **Additional Clinical Clarifications:** Follow-up is for monitoring local recurrence. <br> • **Treatment Modality with Precise Conditions:** Follow-up should be conducted every 3 months for the first 2 years, and then every 6 months until at least 5 years post-operatively. |
+| **Patient Counseling** | **Informed Consent regarding FSE:** <br> • **Specific Clinical Indications:** For all patients undergoing surgery where Intraoperative Frozen Section Examination (FSE) is planned. <br> • **Treatment Modality with Precise Conditions:** Patients must be informed about the negative implications of FSE, specifically that discordance between FSE and final histology can occur, which may lead to early local recurrence. |

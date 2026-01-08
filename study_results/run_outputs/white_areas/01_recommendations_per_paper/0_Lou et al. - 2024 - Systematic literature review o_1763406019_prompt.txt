@@ -1,0 +1,1344 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ## **Human Vaccines & Immunotherapeutics**
+
+**ISSN: 2164-5515 (Print) 2164-554X (Online) Journal homepage:** **[www.tandfonline.com/journals/khvi20](https://www.tandfonline.com/journals/khvi20?src=pdf)**
+# **Systematic literature review on the clinical and** **economic burden of human papillomavirus–** **related diseases in select areas in the Asia-Pacific** **region**
+
+**Pei-Jen Lou, Wanatpreeya Phongsamart, Isaya Sukarom, Ying-Hui Wu, Omer**
+**Zaidi, Frieda Du, Alyssa Simon & Mark Bernauer**
+
+**To cite this article:** Pei-Jen Lou, Wanatpreeya Phongsamart, Isaya Sukarom, Ying-Hui Wu,
+Omer Zaidi, Frieda Du, Alyssa Simon & Mark Bernauer (2024) Systematic literature review
+on the clinical and economic burden of human papillomavirus–related diseases in select
+areas in the Asia-Pacific region, Human Vaccines & Immunotherapeutics, 20:1, 2425535, DOI:
+[10.1080/21645515.2024.2425535](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/21645515.2024.2425535)
+
+**To link to this article:** [https://doi.org/10.1080/21645515.2024.2425535](https://doi.org/10.1080/21645515.2024.2425535)
+
+
+© 2024 Merck & Co., Inc., Rahway, NJ, USA
+and its affiliates. Published with license by
+Taylor & Francis Group, LLC.
+
+
+[View supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/21645515.2024.2425535)
+
+
+Published online: 18 Nov 2024. [Submit your article to this journal](https://www.tandfonline.com/action/authorSubmission?journalCode=khvi20&show=instructions&src=pdf)
+
+Article views: 3137 [View related articles](https://www.tandfonline.com/doi/mlt/10.1080/21645515.2024.2425535?src=pdf)
+
+[View Crossmark data](http://crossmark.crossref.org/dialog/?doi=10.1080/21645515.2024.2425535&domain=pdf&date_stamp=18%20Nov%202024) [Citing articles: 3 View citing articles](https://www.tandfonline.com/doi/citedby/10.1080/21645515.2024.2425535?src=pdf)
+
+Full Terms & Conditions of access and use can be found at
+[https://www.tandfonline.com/action/journalInformation?journalCode=khvi20](https://www.tandfonline.com/action/journalInformation?journalCode=khvi20)
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS
+
+2024, VOL. 20, NO. 1, 2425535
+https://doi.org/10.1080/21645515.2024.2425535
+
+RESEARCH ARTICLE
+### **Systematic literature review on the clinical and economic burden of human ** **papillomavirus–related diseases in select areas in the Asia-Pacific region**
+
+Pei-Jen Lou [a], Wanatpreeya Phongsamart [b], Isaya Sukarom [c], Ying-Hui Wu [d], Omer Zaidi [e], Frieda Du [f], Alyssa Simon [e],
+and Mark Bernauer [e]
+
+a Department of Otolaryngology, National Taiwan University Hospital and College of Medicine, Taipei City, Taiwan; b Department of Pediatrics, Faculty
+of Medicine, Siriraj Hospital, Mahidol University, Bangkok, Thailand; [c] Outcomes Research, Asia Pacific, MSD Thailand, Bangkok, Thailand; [d] Global
+Medical and Scientific Affairs, MSD Taiwan, Taipei, Taiwan; [e] Evidence & Access, OPEN Health, Bethesda, MD, USA; [f] Evidence & Access, OPEN Health,
+Shanghai, China
+
+
+**ABSTRACT**
+Compared with Europe and America, adoption of human papillomavirus (HPV) vaccination into national
+immunization programs across the Asia-Pacific (AP) region has remained low. Moreover, HPV burden in
+this region has not been reviewed comprehensively. Therefore, this systematic literature review (SLR)
+aimed to summarize the clinical and economic burden of HPV and HPV-related diseases in select AP areas.
+An SLR was conducted January 2000-February 2022 using MEDLINE/Embase. Observational studies
+reporting incidence, prevalence, costs, or healthcare resource utilization (HCRU) of HPV and HPVrelated disease among adults (≥18 years) from select AP areas were included. A total of 254 publications
+were included. Reported incidence per 100,000 person-years was 15.4–252.0 for cervical cancer ( *n* = 5
+publications), 0.2–55.5 for head and neck cancer ( *n* = 7 publications), and 0.2–13.7 for anal cancer ( *n* = 4
+publications). Prevalence rates were 9.1%-100% for cervical cancer ( *n* = 40 publications), 0.0%-95.6% for
+head and neck cancer ( *n* = 48 publications), 0.0%-100% for anal cancer ( *n* = 4 publications), 36.0%-79.6%
+for penile cancer ( *n* = 4 publications), and 44.0%-82.0% for vaginal/vulvar cancer ( *n* = 3 publications). Few
+studies reported on costs or HCRU, and high data variability was observed. Despite data variability, the
+high burden of HPV and HPV-related diseases makes clear the need for effective HPV screening, greater
+education, and reductions in vaccine hesitancy, particularly among lower- and middle-income areas.
+Improved data collection measures should be considered in data-scarce areas to better inform policy
+decision-making and improve monitoring of the impact of HPV vaccination.
+
+
+**ARTICLE HISTORY**
+
+Received 26 June 2024
+
+Revised 15 October 2024
+Accepted 1 November 2024
+
+**KEYWORDS**
+Asia Pacific; cost; genotype;
+healthcare resource
+utilization; human
+papillomavirus; incidence;
+prevalence
+
+
+**Introduction**
+
+Human papillomavirus (HPV) is among the most common
+sexually transmitted infections globally. [1 ] There are more than
+200 types of HPV, including low-risk types that are associated
+with genital warts and recurrent respiratory papillomatosis
+and high-risk oncogenic types that account for most cases of
+cervical cancer, as well as head and neck, anal, penile, vaginal,
+and vulvar cancers. [1 ] Although HPV genotype distribution in
+cervical cancer/precancer and genital warts has been widely
+studied, [2–6 ] there is a need for more literature on genotype
+distribution in other HPV-related cancers.
+
+The incidence and mortality of HPV-related diseases such
+as cervical cancer are higher in transitioning countries (i.e.,
+those classified as low/medium on the Human Development
+Index), [7 ] primarily attributable to a relative lack of high-quality
+screening and timely access to cancer surgery, radiation ther-­
+apy, and other cancer management services in those
+countries. [8][,][9 ] In 2020, the World Health Organization launched
+a global initiative to eliminate cervical cancer, focusing on the
+need for high levels of HPV vaccination, screening, and treat-­
+ment, with 90-70-90 targets to be met by the year 2030: 90% of
+
+
+girls fully vaccinated with the HPV vaccine by the age of 15
+years, 70% of women screened by the age of 35 years and again
+at 45 years, and 90% of women diagnosed with cervical disease
+receiving treatment (for both precancer and invasive cancer). [9 ]
+
+Declines in the incidence and prevalence of cervical cancer
+have been observed since the introduction of HPV vaccinations
+for girls in many countries, [10 ] but the burden of HPV-related
+disease in males remains high. Moreover, high-risk or persistent
+HPV infection is associated with recurrence of cervical intrae-­
+pithelial precancerous lesions. [11–13 ] HPV vaccination could be
+used for primary prevention of other HPV-related cancers that
+are too rare for population-based screening, those where highrisk populations have not yet been identified, or those for which
+no screening tests are available. [8][,][9]
+
+Compared with Europe and America, adoption of HPV
+vaccination into country national immunization programs
+across the Asia-Pacific (AP) region has remained low, [14 ] due
+to vaccine hesitancy, poor diagnosis and treatment, lack of
+cancer prevention, awareness, high cost, and difficulties in
+vaccine implementation. [15 ] While prior publications have
+assessed HPV burden in the AP region, these publications
+
+
+**CONTACT** Isaya Sukarom isaya.sukarom@merck.com Outcomes Research, Asia Pacific, MSD Thailand, 999/9 the Offices at Central World, Rama I Road,
+Bangkok 10330, Thailand.
+
+[Supplemental data for this article can be accessed on the publisher’s website at https://doi.org/10.1080/21645515.2024.2425535](https://doi.org/10.1080/21645515.2024.2425535)
+
+© 2024 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (http://creativecommons.org/licenses/by-nc/4.0/), which permits
+unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the
+posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+2 P.-J. LOU ET AL.
+
+were limited to specific cancer types; moreover,
+a comprehensive review on HPV burden in the AP region is
+lacking. The aim of this systematic literature review (SLR) was
+to summarize the clinical and economic burden and HPV
+genotype distribution of HPV and HPV-related diseases in
+select AP areas.
+
+**Methods**
+
+***Search strategy and data sources***
+
+An SLR was conducted on February 25, 2022, to identify
+publications regarding HPV and HPV-related diseases in
+select AP areas. Journal articles and conference abstracts pub-­
+lished from January 1, 2000, to February 25, 2022, in
+MEDLINE and Embase were searched via ProQuest
+(Supplemental Table 1).
+
+***Study selection and data extraction***
+
+Observational studies reporting the outcomes of interest from
+select areas in the South-East Asia and Western Pacific regions
+were included (Table 1). Hong Kong was included, but mainland
+China, India, Australia, and New Zealand were excluded. The
+outcomes of interest were the incidence or prevalence of HPVrelated disease, the distribution of 9 HPV genotypes (HPV6,
+HPV11, HPV16, HPV18, HPV31, HPV33, HPV45, HPV52,
+HPV58) in the population, and costs and healthcare resource
+utilization (HCRU) associated with HPV-related disease.
+
+Two reviewers screened the titles and abstracts of identified
+
+citations and selected full-text articles for potential inclusion.
+
+**Table 1.** PICOS selection criteria.
+
+
+Reviewers extracted relevant data from each included publica-­
+tion; data were reconciled to ensure accuracy. Data on study
+characteristics and methodology, patient characteristics, the
+incidence and/or prevalence of HPV-related diseases, HPV
+genotype distribution (i.e., number of patients within the
+study sample with specific HPV genotypes), costs, and
+HCRU were extracted into a database. The numerator and
+denominator (sample size) were extracted for binary outcome
+data. For continuous scales and scores, the mean/median
+score, standard error, standard deviation, and/or confidence
+interval were extracted. Also extracted were baseline, endpoint,
+and change-from-baseline values, as well as mean differences
+(with their respective standard error, standard deviation, or
+confidence interval) between cohorts, if reported. Figures and/
+or tables were developed to synthesize individual study data
+where applicable.
+
+***Data analysis and reporting***
+
+Data from included publication were descriptively reported to
+summarize results. Per the study protocol, no meta-regression or
+sensitivity analyses were performed for this literature review. This
+manuscript followed the 2020 PRISMA checklist for SLR
+reporting. [16]
+
+***Study quality assessment***
+
+One reviewer assessed the quality of non-randomized studies
+included in the SLR following the Centre for Reviews and
+Dissemination’s Guidance for Undertaking Reviews in
+Health Care (2009). [17 ] For example, studies were assessed to
+
+
+Inclusion criteria Exclusion criteria
+
+Population - HPV - Other diseases
+
+      - Precancerous lesions      - Patients not eligible for HPV vaccination
+
+      - Cervical cancer
+
+      - Vulvar cancer
+
+      - Vagina cancer
+
+      - Anal cancer
+
+      - Head and neck cancer
+
+      - Penile cancer
+
+      - Genital warts
+
+      - RRP
+
+
+Interventions - Any HPV vaccine or none - Not applicable
+Comparators - Any or no comparison group - Not applicable
+Outcomes - Clinical burden (i.e., HPV and disease incidence, HPV and dis-­ - Studies that do not contain the included outcomes
+
+
+ease prevalence)
+
+      - Economic burden (e.g., cost, healthcare resource utilization)
+
+Study design Observational studies including:
+
+      - Prospective or retrospective design
+
+      - Cross-sectional
+
+      - Non-interventional
+
+      - Registry
+
+      - Surveillance
+
+      - Case-control
+
+      - Case series
+
+      - Cohort
+
+      - Chart review
+
+
+Any study design or publication types other than the included study types, such as:
+
+ - Pre-clinical studies
+
+ - Case reports
+
+ - Editorials
+
+ - Review articles (including systematic reviews)
+
+ - Meta-analysis
+
+ - Models
+
+ - Guidelines
+
+
+Location - Countries in the SEARO and WPRO regions (including
+
+
+Countries in the SEARO and WPRO regions (including - Other countries (including Australia, India, New Zealand) besides
+
+Hong Kong) [a] countries of interest
+
+
+Hong Kong) [a] countries of interest
+
+                           - China
+Language - English, Japanese - Other languages
+Time period - 2000 to present - Years prior to 2000
+
+
+a As defined by the World Health Organization.
+HPV, human papillomavirus; RRP, recurrent respiratory papillomatosis; SEARO, South-East Asia Region; WPRO, Western Pacific Region.
+
+determine whether the outcome measures used were reliable
+and valid, whether the statistical analysis was conducted
+appropriately, and whether the results could be generalized
+to routine practice. Quality assessment was performed for all
+publications except conference proceedings, which had insuf-­
+ficient methodological data to assess study quality.
+
+**Results**
+
+***Study and patient characteristics***
+
+A total of 3091 publications were identified in the SLR, and 254
+were included: 248 journal articles and 6 conference abstracts
+(Figure 1). The majority of identified articles were from Japan,
+South Korea, Taiwan, and Thailand (Supplemental Figure S1).
+
+Key study characteristics are summarized in Supplemental
+Table S2. Most studies were case series (n/N = 171/254; 67.3%),
+but cohort (n/N = 69/254; 27.2%) and case control (n/N = 14/
+254; 5.5%) studies were also included. Most studies (n/N =
+143/254; 56.3%) were retrospective, and 43.7% (n/N = 111/
+
+**Figure 1.** PRISMA diagram.
+
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 3
+
+254) were prospective. Most study samples were from
+a single institution (n/N = 138/254; 54.3%).
+
+Of the 248 journal articles assessed for study quality, 23.4% ( *n*
+= 58) were deemed to be of good quality (i.e., without inherent
+flaws). The appropriateness of the statistical analysis conducted
+was not clear in 36 studies, as they did not define *P* -values or the
+level of significance for observations. Across included publica-­
+tions, the outcomes of interest (e.g., incidence, serotype preva-­
+lence, costs, healthcare resource utilization) did not necessitate use
+of validated scales, as data were provided in summary statistics.
+Approximately 89 publications had study results that were gen-­
+eralizable to routine practice, largely due to the single-institution
+setting of most of the included publications.
+
+***Incidence***
+
+Fifteen publications reported the incidence of HPVrelated disease in Hong Kong, Japan, the Philippines,
+Singapore, South Korea, Taiwan, and Thailand
+(Supplemental Table S3). [18–32]
+
+4 P.-J. LOU ET AL.
+
+Cervical cancer incidence was reported in 6
+publications. [26][,][19][,][28][,][32–34 ] Cervical cancer incidence per
+100,000 person-years (PYs) was reported in 5 publications
+and ranged from 15.40 to 252.00. [18][,][19][,][25][,][26][,][28 ] The highest
+cervical cancer incidence rate reported was among HPVpositive women aged 30 to 65 years in Taiwan, compared
+with 46.4 per 100,000 among HPV-negative women. [18 ]
+
+Another Taiwanese study reported a high cervical cancer
+incidence (154.5 per 100,000) among a cohort of 95,309
+women with atypical squamous cells of undetermined
+significance, [19 ] highlighting the need for HPV screening
+among this population. In a Japanese study reporting
+changes in age-standardized cervical cancer incidence rates
+from 1976 to 2012 using the Osaka Cancer Registry, it was
+reported that cervical cancer incidence decreased from 1976
+to 2000 but increased from 2000 to 2012. [32]
+
+Head and neck cancer incidence ( *n* = 7 publications) ranged
+from 0.16 to 55.45 per 100,000 PYs, [21][,][22][,][24][,][26][,][27][,][30][,][31 ] with the
+highest incidence rate reported among male patients >60 years
+of age in an analysis of 2009 data from the nationwide Korea
+Central Cancer Registry. [30 ] As a note, this publication was the
+only publication on head and neck incidence that reported
+incidence rates by age group, which may explain the high
+incidence rate. Publications reporting on head and neck cancer
+incidence typically focused on specific cancer sites (e.g., oral
+cavity, oropharynx), gender, and across years.
+
+Anal cancer incidence was reported in 4
+publications [21][,][23][,][26][,][27 ] and ranged from 0.10 to 1.70 per
+100,000 PYs in South Korea, Japan, and Singapore. One retro-­
+spective study on cancer patients in the Philippines from 1998
+to 2002 reported age-standardized rectal/anal cancer incidence
+
+
+rates 8.90 per 100,000 PYs among men and 6.0 per 100,000 PYs
+among women. [27 ] The higher rate may be explained by the
+longer time period compared with the other anal cancer inci-­
+dence rates, which were reported by year.
+
+Age-standardized incidence rates for penile, vaginal, and
+vulvar cancer were reported in a South Korean retrospective
+cohort study using the National Health Insurance claims
+database. [21 ] Rates per 100,000 PYs remained relatively stable
+from 2013 to 2016: penile cancer was 0.20 each year; vaginal
+cancer was 0.30 in 2013, 2014, and 2016, with a brief increase
+to 0.50 in 2015; and vulvar cancer was 0.40 each year. [21]
+
+Incidence of genital warts was reported in 1 study in Taiwan
+and was 9.14 per 100,000 PYs. [20]
+
+In an observational study of Thai men who have sex with
+men with or without HIV infection, HPV incidence was higher
+among the HIV-positive cohort (78 per 1,000 person-months)
+compared with the HIV-negative cohort (28.2 per 1,000 per-­
+son-months), irrespective of HPV type. [29]
+
+***HPV and disease prevalence***
+
+A total of 238 publications reported HPV prevalence in
+Bangladesh, Bhutan, Cambodia, Fiji, Hong Kong, Indonesia,
+Japan, Laos, Malaysia, Mongolia, Myanmar, Nepal, the
+Philippines, Singapore, South Korea, Sri Lanka, Taiwan,
+Thailand, and Vietnam (Supplemental Table S4).
+
+Forty studies reported HPV prevalence among patients
+with cervical cancer in Bangladesh, Fiji, Indonesia, Japan,
+Malaysia, Nepal, Singapore, South Korea, Sri Lanka, Taiwan,
+Thailand, the Philippines, and Vietnam (Figure 2). Thirty-nine
+publications reported HPV prevalence rates, which ranged
+
+
+**Figure 2.** Prevalence of HPV in cervical cancer cases across studies by country. HPV, human papillomavirus
+
+from 9.1% to 100%. A cross-sectional study in South Korea
+reported the prevalence rates of cervical cancer ranging from
+106.86 to 119.88 per 100,000. [35]
+
+HPV prevalence ranged from 0.0% to 95.6% among patients
+with head and neck cancer ( *n* = 48 publications). From 2002 to
+2015, head and neck cancer prevalence in South Korea ranged
+from 0.37 to 2.33 per 100,000 among men and 0.21 to 0.46 per
+100,000 among women in one publication. [35]
+
+Five studies reported HPV prevalence among patients with
+anal cancer in Japan, Singapore, and South Korea. [23][,][35–38 ] HPV
+prevalence rates ranged from 0.009% to 100%. [23][,][36–38 ] In
+a cross-sectional study of South Korean patients identified
+through the National Health Insurance Service database from
+2002 to 2015, the prevalence of anal cancers ranged from 2.88
+to 3.35 per 100,000 among men and 2.29 to 3.72 per 100,000
+among women. [35]
+
+Five studies reported prevalence among patients with penile
+cancer in Japan, South Korea, and Vietnam. HPV prevalence
+among patients with penile cancer ranged from 36% to
+79.6%. [39–42 ] In South Korea, penile cancer prevalence ranged
+from 0.50 to 0.52 per 100,000 men between 2002 and 2015. [35]
+
+Among patients with vaginal/vulvar cancer ( *n* = 3 publica-­
+tions), HPV prevalence ranged from 44.0% to 82.0% in
+Vietnam and Thailand. [40][,][43 ] In South Korea, HPV prevalence
+ranged from 0.51 to 1.16 per 100,000 women. [35]
+
+The HPV prevalence among patients with precancerous
+cervical lesions ranged from 11.8% to 100% ( *n* = 46 publica-­
+tions). Among patients with precancerous cervical lesions that
+were grade 1 cervical intraepithelial neoplasia (CIN1), HPV
+prevalence ranged from 28.0% to 85.5% ( *n* = 4 publications),
+while those with grade CIN2 or CIN3 had HPV prevalence
+rates of 70.3% to 100% ( *n* = 6 publications).
+
+Five publications reported HPV prevalence in patients with
+genital warts in the Philippines, South Korea, and
+Taiwan. [20][,][35][,][44–46 ] HPV prevalence rates ranged from 0.046%
+to 100%. The HPV prevalence in South Korea from 2002 to
+2015 ranged from 22.85 to 109.40 per 100,000 among men and
+24.38 to 53.45 per 100,000 among women. [35]
+
+A total of 101 publications across varying cohorts in the
+general population category reported HPV prevalence rates
+from 0.6% to 85%. A majority of these publications were
+among cohorts being screened for cancer (e.g., women
+undergoing cervical cancer screening), immunocompro-­
+mised patients (i.e, HIV-positive men and women), or
+specific cohorts (e.g., sex workers, university students,
+prisoners).
+
+***HPV genotypes***
+
+The number of patients by specific HPV genotypes was
+reported in 149 publications from Bangladesh, Fiji,
+Indonesia, Japan, Malaysia, Nepal, the Philippines,
+Singapore, South Korea, Sri Lanka, Taiwan, Thailand,
+Vanuatu, and Vietnam (Supplemental Table S5).
+Although HPV genotypes differed by study, cohort, and
+country, HPV16, HPV18, and HPV45 were among the
+most common. Top HPV genotypes by cancer type are
+listed below:
+
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 5
+
+ - Anal cancer ( *n* = 2 publications): HPV6, HPV16, HPV58
+
+ - Cervical cancer ( *n* = 34 publications): HPV16, HPV18,
+
+HPV45
+
+ - Genital warts ( *n* = 1 publication): HPV6, HPV11, HPV16
+
+ - Head and neck cancer ( *n* = 26 publications): HPV16,
+
+HPV18, HPV45
+
+ - Penile cancer ( *n* = 1 publication): HPV16
+
+ - Vulvar cancer ( *n* = 1 publication): HPV16, HPV33
+
+***Costs***
+
+***Total costs***
+Total costs of HPV-related diseases were reported in 3 pub-­
+lications (Figure 3). [44][,][47][,][48 ] Mizukami et al. reported mean
+annual costs (2011 Japanese yen) among patients in Japan
+with genital warts, cervical dysplasia (i.e., CIN1 through
+CIN3), and cervical cancer. [47 ] Mean (95% CI) costs were lowest
+for patients with CIN grade 1 (¥17,484 [14,423-21,846];
+$117.10 in 2024 US dollars [USD]) and highest for patients
+with cervical cancer (¥474,756 [309,028-663,334]; $3,179.77 in
+2024 USD). Buenconsejo et al. reported overall cost per genital
+warts episode among patients in the Philippines. [44 ] Costs were
+derived through physician surveys and reported in Philippine
+pesos. Mean (SD) costs were �8,501.52 (�5,823.79) [$152.10 in
+2024 USD] in male patients and �8,786.93 (�9,576.08)
+
+[$157.20 in 2024 USD] in female patients. [44 ] Park et al. reported
+total costs, including direct medical costs, direct non-medical
+costs, and indirect costs, among patients in South Korea with
+anogenital warts from 2007 to 2015. [48 ] Costs were calculated
+using data from the Health Insurance Review and Assessment
+(HIRA), Korea National Health Insurance Programme
+(KNHIP), and the Medical Aid Programme (MAP) databases
+and reported in US dollars. Costs steadily increased over time,
+with the lowest total cost reported in 2007 ($3,901,209
+
+[$5,922,991.91 in 2024 USD]) and the highest total cost in
+2015 ($10,235,699 [$13,594,624.45 in 2024 USD]). [48]
+
+***Direct costs***
+Direct costs (i.e., outpatient visits, laboratory tests, hospitaliza-­
+tions, medication prescriptions) of HPV-related diseases were
+reported in 3 publications from South Korea (Figure 4). [21][,][25][,][48]
+
+Kim et al. reported the mean annual incidence-based med-­
+ical costs in patients with cervical cancer and mean annual
+costs in patients with cervical cancer without carcinoma in situ
+(CIS; i.e., stage 0 cancer) or cervical dysplasia. [25 ] Costs were
+estimated using claims data from the Korean National Health
+Insurance (NHI) database from 2011 to 2017 and reported in
+2016 USD. Mean annual costs were $13,567 [$17,423.46 in
+2024 USD] in patients with cervical cancer without CIS or
+cervical dysplasia in 2017 compared with $8,156 [$10,697.51
+in 2024 USD] in patients with cervical cancer without CIS or
+cervical dysplasia in 2016. [25]
+
+Choi et al. reported mean medical costs per patient in
+patients with oropharyngeal, anal, vulvar, vaginal, or penile
+cancer from 2013 to 2016. [21 ] Costs were calculated from the
+Korean healthcare system perspective using claims data from
+HIRA and NHI and reported in 2016 USD. In all cancer types,
+medical costs increased over time. The highest costs were
+consistently reported in patients with oropharyngeal cancer
+
+6 P.-J. LOU ET AL.
+
+
+
+
+
+
+
+
+
+
+|Mizukami 2018 (Japan) ¥5,00,000 ¥4,74,756 Meanannualcost,2011JPY ¥4,50,000 ¥4,00,000 ¥3,50,000 ¥3,00,000 ¥2,50,000 ¥1,66,227 ¥2,00,000 ¥1,50,000 ¥1,00,000 ¥34,424 ¥46,583 ¥50,000 ¥17,484 ¥0 Genital warts CIN grade 1 CIN grade 2 CIN grade 3 Cervical cancer (n=111) (n=146) (n=144) (n=665) (n=1659) Disease Type|Col2|
+|---|---|
+|Buenconsejo 2019 (Philippines) ₱10,000 MeanoverallcostperGW ₱8,786.93 ₱9,000 ₱8,105.52 ₱8,000 PHPa ₱7,000 episode, ₱6,000 ₱5,000 ₱4,000 ₱3,000 ₱2,000 ₱1,000 ₱0 Male genital warts patients (n=114) Female genital warts patients (n=129)||
+|Park 2018 (South Korea) $1,20,00,000 $1,02,35,699 Totalcostsforpatientswith $1,00,00,000 $92,46,964 anogenitalwarts,USDa $82,51,297 $74,76,601 $80,00,000 $69,90,465 $61,48,176 $54,49,735 $60,00,000 $46,75,908 $39,01,209 $40,00,000 $20,00,000 $0 2007 2008 2009 2010 2011 2012 2013 2014 2015 Year||
+
+
+**Figure 3.** Total costs. [a] Cost years not reported for Buenconsejo 2019 or Park 2018.
+CIN, cervical intraepithelial neoplasia; GW, genital warts; JPY, Japanese yen; PHP, Philippine pesos; USD, United States dollars
+
+
+($18,867 in 2013 and $21,870 in 2016 [$25,495.07 to
+$28,684.95 in 2024 USD]), whereas the lowest costs were
+reported in patients with penile cancer ($6,852 in 2013 and
+$10,097 in 2016 [$9,259.14 to 13,243.34 in 2024 USD]). [21]
+
+Park et al. reported costs for outpatient treatment or hospi-­
+talization, medicines and prescriptions, and prescribed phar-­
+maceutical costs for patients with anogenital warts from 2007
+to 2015. [48 ] Direct costs were estimated using national-level
+databases (HIRA, KNHIP, and MAP) and reported in USD.
+Direct costs steadily increased over time, with the lowest cost
+in 2007 ($2,703,737 [$4,104,935.77 in 2024 USD]) and the
+
+
+highest cost in 2015 ($7,449,739 [$9,894,429.67 in 2024
+USD]). Direct non-medical costs (i.e., transport costs for visit-­
+ing clinics) increased from 2007 to 2014 ($79,722 to $188,041
+
+[$121,037.55 to $250,044.58 in 2024 USD]) but decreased
+slightly in 2015 ($177,642). [48]
+
+***Indirect costs***
+Indirect costs of HPV-related disease (i.e., loss of produc-­
+tivity) were reported in 1 study from South Korea. [48 ] Lost
+productivity was measured in patients with anogenital warts
+from 2007 to 2015 and defined as lost income caused by
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Figure 4.** Direct costs. [a] Cost years not reported for Kim 2020 or Park 2018.
+CIN, cervical intraepithelial neoplasia; CIS, carcinoma in situ; PP, per patient; USD, United States dollars
+
+
+decreased productivity due to anogenital warts and was
+reported in USD. The employment rate and average daily
+income per age and sex were determined using data from
+the Korean Statistical Information Service (KOSIS) data-­
+base. Patients younger than 20 years or older than 64 years
+were assumed to have no loss of productivity; however, they
+were assumed to have caregivers. Therefore, the indirect
+cost of anogenital warts was estimated by calculating the
+decreased productivity of the patients’ caregivers. [48 ] Indirect
+
+
+costs increased steadily each year, with the lowest cost in
+2007 ($1,117,850 [$1,697,170.42 in 2024 USD]) and the
+highest cost in 2014 ($2,653,379 [$3,528,289.30 in 2024
+USD]). [48]
+
+***Healthcare resource utilization***
+
+HCRU associated with HPV-related diseases was reported in 2
+studies. Buenconsejo et al. reported the number of office visits
+in patients with genital warts in the Philippines, stratified by
+
+8 P.-J. LOU ET AL.
+
+sex. [44 ] Male patients had a greater mean (SD) number of office
+visits compared with female patients (3.74 [2.29] vs 3.50
+
+[2.33]), but a lower number of hospital visits (0.21 [1.02] vs
+0.30 [0.99]). Mizukami et al. reported outpatient visits and
+inpatients visits in patients with genital warts, CIN grades
+1–3, and cervical cancer in Japan. [47 ] The frequency of out-­
+patient visits was highest among patients with cervical cancer
+(5.8 visits) and lowest among patients with CIN grade 1 (3.4
+visits). Patients with cervical cancer had the greatest duration
+of inpatient visits (31 days) compared with 4 to 6 days across
+the other groups.
+
+**Discussion**
+
+This systematic review identified literature on the clinical and
+economic burden of HPV-related disease across the SouthEast Asia and Western Pacific regions. Among 254 included
+publications, the incidences of HPV and HPV-related diseases
+were reported in 15 publications. Across cancer subtypes,
+incidence rates varied by country, cohorts, and time periods,
+with variable rates. The highest reported incidence rate
+(252.00 per 100,000 PYs) was reported for cervical cancer
+among women in Taiwan aged 30 to 65 years with any type
+of HPV (i.e., carcinogenic types [HPV16, HPV18, HPV31,
+HPV33, HPV35, HPV39, HPV45, HPV51, HPV52, HPV56,
+HPV58, and HPV59], possible or probable carcinogenic types
+
+[HPV26, HPV53, HPV66, HPV67, HPV68, HPV70, HPV73,
+and HPV82], and other HPV types). [18 ] Variability in reported
+HPV-related cancer incidence rates is attributable to the het-­
+erogeneity of study cohorts and time periods. Differences in
+study cohorts reflected the causal relationship between HPV
+and cancer incidence. For example, a study of 10,123 women
+screened for cervical cancer in Taiwan reported an overall
+cervical cancer incidence rate of 46.4 per 100,000 PYs; how-­
+ever, when the cohort was grouped by HPV status at study
+entry, cervical cancer incidence rates were 16 times greater
+among HPV-positive women (252 per 100,000 PY) compared
+with HPV-negative women (15.7 per 100,000 PY). [18 ] Studies
+also differed in reporting HPV-related disease incidence over
+a single year versus a longer time period, which may have
+contributed to the wide range in reported rates. Included
+publications also reflected the difference in HPV-related can-­
+cer incidence among men and women. In a 2014 study of
+several head and neck cancer subtypes across countries and
+gender, and two time periods (1983–1987 and 1998–2002),
+incidence rates for oral cavity, oropharynx, and other head
+and neck cancer were consistently greater among men in
+Hong Kong, Japan, the Philippines, and Thailand compared
+with women, though incidence rates had dropped in later time
+periods, [31 ] potentially due to improvements in practices that
+are associated with head and neck cancer (e.g., reduced
+tobacco use). Reduced incidence rates in some publications
+could also potentially reflect increased screening for both HPV
+and HPV-related diseases in more recent years, thereby high-­
+lighting the importance of timely HPV detection. Recent pub-­
+lications have reported the potential benefits of HPV
+vaccination for patients with high-grade or precancerous cer-­
+vical lesions. [12][,][49][,][50]
+
+
+The majority of included publications ( *n* = 238) reported
+prevalence rates or the proportion of patients with HPV
+among cancer subtypes. As with incidence rates, prevalence
+rates and proportions varied by country, cancer types, and
+time periods. Common HPV genotypes in included study
+cohorts were HPV16, HPV18, HPV45, and HPV52, which
+were almost every cancer subtype, all of which are aligned
+with current evidence on high-risk HPV subtypes. [51]
+
+Despite the variability of evidence across included publica-­
+tions, HPV and HPV-related incidence and prevalence rates in
+the AP areas covered in this review were, in some cases, greater
+than those reported in other World Health Organization
+regions and in particular North America and Europe. The
+US National Cancer Institute Surveillance, Epidemiology,
+and End Results Program estimated the US cervical cancer
+incidence at 7.6 per 100,000 PYs in 2024, [52 ] less than half of
+that reported in these publications. Similarly, head and neck
+cancer incidence rates were reported to be as high as 55.45 per
+100,000 PY [30 ] among included publications, well above the
+global estimates of ~ 1.1 to 4.0 per 100,000 PY, according to
+the World Health Organization GLOBOCAN database. [53 ]
+
+Differences in cultural and social practices, as well as lifestyle
+factors such as alcohol and tobacco use, across regions could
+contribute to the high incidence in lower-middle income
+countries. [54]
+
+Evidence on total, direct, and indirect costs was limited and
+reported only from Japan, the Philippines, and South Korea.
+Cost estimates ranged across countries, cancer subtypes, and
+time periods, with higher reported costs in recent years. HCRU
+data on HPV patients in select AP areas were also limited, with
+only 2 publications reporting data on patients with genital
+warts in the Philippines and cervical cancer in Japan. By con-­
+trast, publications on the economic burden associated with
+HPV-related disease are more plentiful in the US and
+Europe. [55][,][56 ] While prior systematic publications have focused
+on the health economic evaluation of HPV vaccines, [57][,][58 ] there
+is an evidence gap in the economic impact of the disease on
+patients.
+
+To our knowledge, this is the first systematic review to
+summarize HPV-related disease burden specifically in the
+AP region. A non-systematic review article on the burden of
+HPV infections and HPV-related diseases was published in
+2008, reporting incidence, prevalence, and mortality rates. [59 ]
+
+A 2017 publication reported the global burden of cancer
+attributable to HPV by site, country, and HPV type. [8 ]
+
+However, this publication used data from GLOBOCAN
+2012 and reported publications up to 2016. A more recent
+publication by the same author reported the global burden
+of cancer attributable to infections in 2018. [60 ] However, the
+publication reported only incidence rates and did not pro-­
+vide country-specific rates in some cases. Our review there-­
+fore adds to the currently available literature by providing
+more recent publications on the clinical and economic out-­
+comes of HPV-related disease in the AP region. The benefits
+of including HPV vaccination in national immunization
+programs has been explored previously, with some publica-­
+tions estimating that HPV immunization could control
+nearly 70% of all cervical cancers [61 ] and that high HPV
+vaccine coverage could reduce cervical cancer incidence
+
+rates significantly by the end of the century. [62 ]
+
+Understanding the HPV disease burden in the AP region
+therefore provides greater context for increasing HPV vac-­
+cination and coverage to help reduce the incidence and
+prevalence of HPV-related diseases.
+
+Although this review provides a comprehensive overview
+of HPV-related disease burden among the select AP areas,
+several limitations must be noted. Methodological differ-­
+ences between studies (e.g., population studied, detection
+methods, outcome definitions) may have contributed to the
+high data variability observed in the SLR. Sample sizes were
+not always reported; when reported, they varied widely
+across studies. The results may also be biased through selec-­
+tive reporting since the studies had observational cohorts.
+Most of the data were from single-institution studies and
+had small sample sizes, particularly the studies from
+Southeast Asia. This suggests that better data systems may
+be required to capture national disease incidence in these
+countries. In addition, most of the data captured in this SLR
+precede the HPV vaccination era. It is important for coun-­
+tries to continue monitoring disease burden to understand
+the impact of HPV vaccination. Finally, we focused on the
+general population and did not thoroughly search the litera-­
+ture related to people living with HIV. However, we know
+the disease burden of HIV within the region is substantial, as
+is the disease burden of HPV-related cancer and disease
+among people living with HIV. The area could be explored
+in future research. Nevertheless, despite the limitations
+inherent to SLRs, the evidence gathered here may be an
+important resource to understand the clinical outcomes of
+HPV-related disease in the AP region. Moreover, this review
+highlights the importance of HPV screening, not only for the
+detection of HPV-related cancers but for the management of
+patients, particularly those with precancerous or early-stage
+lesions.
+
+While not a specific aim of this literature review, future
+research should also examine the humanistic burden of
+HPV-related disease across countries in the AP region to
+understand the impact of disease on patients. Moreover, the
+impact of HPV on reproductive concerns for women, which
+has been studied in prior systematic reviews, [63][,][64 ] as well as
+male HPV infection, for which limited data has been pub-­
+lished previously, [65][,][66 ] could also be explored further in the
+AP region to understand differences compared with other
+global regions.
+
+**Conclusions**
+
+This SLR describes the high burden of HPV and HPV-related
+disease within the AP region. Data availability varies across the
+region, with the most comprehensive data available in
+Northeast Asia (Japan, South Korea, Taiwan); for Southeast
+Asia, Thailand had the most reported data. Limited data were
+available for HPV-related diseases other than cervical cancer;
+data on costs and HCRU were also limited. Despite the varia-­
+bility of data, the high burden of HPV and HPV-related dis-­
+ease, particularly in comparison with the rest of the world,
+makes clear the need for enhanced, timely HPV screening,
+greater education on HPV transmission and HPV-related
+
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 9
+
+cancers, and reductions in vaccine hesitancy, particularly
+among lower- and middle-income areas. Improved data col-­
+lection measures should be considered in areas where data are
+scarce to better inform policy decision-making and improve
+monitoring of the impact of HPV vaccination.
+
+**Acknowledgments**
+
+The epidemiology results from this review were presented in a poster at
+IPVC 2023; Washington, DC, USA; April 17-21, 2023. Medical writing
+and editorial support were provided by Catherine Mirvis and Christina
+DuVernay from OPEN Health, Bethesda, MD, and funded by the study
+
+sponsor.
+
+**Disclosure statement**
+
+Pei-Jen Lou: Received study funding from Merck Sharp & Dohme LLC, a
+subsidiary of Merck & Co., Inc., Rahway, NJ, USA. Wanatpreeya
+Phongsamart: Received study funding from Merck Sharp & Dohme
+LLC, a subsidiary of Merck & Co., Inc., Rahway, NJ, USA, and from
+GSK. Isaya Sukarom: Employee of MSD Thailand. Ying-Hui Wu:
+Employee of MSD Taiwan. Omer Zaidi, Frieda Du, Alyssa Simon, Mark
+Bernauer: Employees of OPEN Health. The authors declare no other
+competing interests.
+
+**Funding**
+
+This study was funded by Merck Sharp & Dohme LLC, a subsidiary of
+Merck & Co., Inc., Rahway, NJ, USA.
+
+**Notes on contributor**
+
+***Isaya Sukarom*** is a Regional Director, Outcomes Research, Asia Pacific, at
+an MSD subsidiary of Merck & Co., Inc., Rahway, NJ, USA. In this role,
+she is responsible for outcomes research and health economics activities
+related to vaccines conducted in Asia Pacific countries. The author of
+multiple publications on cost-effectiveness analysis, systematic literature
+reviews, and burden of disease in vaccine and infectious disease areas,
+Dr. Sukarom received her PhD in pharmaceutical socioeconomics from
+the University of Iowa.
+
+**Author contributions**
+
+All authors substantially contributed to the conception and design of the
+review article and the interpretation of the relevant literature, were
+involved in writing the review article or revised it for intellectual content
+and gave approval for the final version to be submitted.
+
+**Ethical approval**
+
+Approval by an ethics committee was not required, as this is a systematic
+review.
+
+**References**
+
+1. Brianti P, De Flammineis E, Mercuri SR. Review of HPV-related
+
+diseases and cancers. New Microbiol. 2017 Apr;40(2):80–85.
+2. Bruni L, Diaz M, Castellsagué X, Ferrer E, Bosch FX, de Sanjosé S.
+
+Cervical human papillomavirus prevalence in 5 continents:
+meta-analysis of 1 million women with normal cytological
+findings. J Infect Dis. 2010 [Dec 15;202(12):1789–1799. doi:10.](https://doi.org/10.1086/657321)
+[1086/657321 .](https://doi.org/10.1086/657321)
+3. de Sanjosé S, Diaz M, Castellsagué X, Clifford G, Bruni L,
+
+Muñoz N, Bosch FX. Worldwide prevalence and genotype
+
+10 P.-J. LOU ET AL.
+
+distribution of cervical human papillomavirus DNA in women
+with normal cytology: a meta-analysis. Lancet Infect Dis. 2007
+[Jul;7(7):453–459. doi:10.1016/S1473-3099(07)70158-5 .](https://doi.org/10.1016/S1473-3099(07)70158-5)
+4. Smith JS, Lindsay L, Hoots B, Keys J, Franceschi S, Winer R,
+
+Clifford GM. Human papillomavirus type distribution in inva-­
+sive cervical cancer and high-grade cervical lesions: a
+meta-analysis update. Int J Cancer. 2007 Aug 1;121(3):621–632.
+[doi:10.1002/ijc.22527 .](https://doi.org/10.1002/ijc.22527)
+5. Anic GM, Lee JH, Stockwell H, Rollison DE, Wu Y, Papenfuss MR,
+
+Villa LL, Lazcano-Ponce E, Gage C, Silva RJC, et al. Incidence and
+human papillomavirus (HPV) type distribution of genital warts in
+a multinational cohort of men: the HPV in Men Study. J Infect Dis.
+[2011 Dec 15. 204(12):1886–1892. doi:10.1093/infdis/jir652 .](https://doi.org/10.1093/infdis/jir652)
+6. Sudenga SL, Torres BN, Silva R, Villa LL, Lazcano-Ponce E,
+
+Abrahamsen M, Baggio ML, Salmeron J, Quiterio M,
+Giuliano AR. Comparison of the natural history of genital HPV
+infection among men by country: Brazil, Mexico, and the United
+States. Cancer Epidemiol Biomarker Prev. 2017 Jul;26
+[(7):1043–1052. doi:10.1158/1055-9965.EPI-17-0040 .](https://doi.org/10.1158/1055-9965.EPI-17-0040)
+7. Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I,
+
+Jemal A, Bray F. Global cancer statistics 2020: GLOBOCAN esti-­
+mates of incidence and mortality worldwide for 36 cancers in 185
+[countries. CA: A Cancer J Clinicians. 2021;71(3):209–249. doi:10.](https://doi.org/10.3322/caac.21660)
+
+[3322/caac.21660 .](https://doi.org/10.3322/caac.21660)
+8. de Martel C, Plummer M, Vignat J, Franceschi S. Worldwide burden
+
+of cancer attributable to HPV by site, country and HPV type.
+[Int J Cancer. 2017 Aug 15;141(4):664–670. doi:10.1002/ijc.30716 .](https://doi.org/10.1002/ijc.30716)
+9. World Health Organization. Global strategy to accelerate the elim-­
+
+ination of cervical cancer as a public health problem. Geneva:
+World Health Organization; 2020. [https://www.who.int/publica](https://www.who.int/publications/i/item/9789240014107)
+[tions/i/item/9789240014107 .](https://www.who.int/publications/i/item/9789240014107)
+10. Pei J, Shu T, Wu C, Li M, Xu M, Jiang M, Zhu C. Impact of human
+
+papillomavirus vaccine on cervical cancer epidemic: evidence from
+the Surveillance, Epidemiology, and End Results program. Front
+[Public Health. 2022;10:998174. doi:10.3389/fpubh.2022.998174 .](https://doi.org/10.3389/fpubh.2022.998174)
+11. Agarossi A, Delli Carpini G, Sopracordevole F, Serri M,
+
+Giannella L, Gardella B, Maestri M, Del Fabro A, Sansone M,
+Fallani MG, et al. High-risk HPV positivity is a long-term risk
+factor for recurrence after cervical excision procedure in women
+living with HIV. Int J Gynaecol Obstet. 2021 Dec;155(3):442–449.
+[doi:10.1002/ijgo.13674 .](https://doi.org/10.1002/ijgo.13674)
+12. Bogani G, Sopracordevole F, Ciavattini A, Vizza E, Vercellini P,
+
+Giannini A, Ghezzi F, Scambia G, Raspagliesi F, Di Donato V.
+Duration of human papillomavirus persistence and its relationship
+with recurrent cervical dysplasia. Eur J Cancer Prev. 2023;32
+[(6):525–532. doi:10.1097/CEJ.0000000000000822 .](https://doi.org/10.1097/CEJ.0000000000000822)
+13. Byun JM, Jeong DH, Kim YN, Jung EJ, Lee KB, Sung MS, Kim KT.
+
+Persistent HPV-16 infection leads to recurrence of high-grade
+cervical intraepithelial neoplasia. Medicine. 2018;97(51):e13606.
+[doi:10.1097/MD.0000000000013606 .](https://doi.org/10.1097/MD.0000000000013606)
+14. Bruni L, Saura-Lázaro A, Montoliu A, Brotons M, Alemany L,
+
+Diallo MS, Afsar OZ, LaMontagne DS, Mosina L, Contreras M, et
+al. HPV vaccination introduction worldwide and WHO and
+
+UNICEF estimates of national HPV immunization coverage
+2010–2019. Prev Med. [2021;144:106399. doi:10.1016/j.ypmed.](https://doi.org/10.1016/j.ypmed.2020.106399)
+[2020.106399 .](https://doi.org/10.1016/j.ypmed.2020.106399)
+
+15. Toh ZQ, Licciardi PV, Russell FM, Garland SM, Batmunkh T,
+
+Mulholland EK. Cervical cancer prevention through HPV vacci-­
+nation in low- and middle-income countries in Asia. Asian Pac
+
+[J Cancer Prev. 2017 Sep 27;18(9):2339–2343. doi:10.22034/APJCP.](https://doi.org/10.22034/APJCP.2017.18.9.2339)
+
+[2017.18.9.2339 .](https://doi.org/10.22034/APJCP.2017.18.9.2339)
+16. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC,
+
+Mulrow CD, Shamseer L, Tetzlaff JM, Akl EA, Brennan SE,
+et al. The PRISMA 2020 statement: an updated guideline for
+reporting systematic reviews. BMJ. 2021 Mar 29;372:n71.
+[doi:10.1136/bmj.n71 .](https://doi.org/10.1136/bmj.n71)
+17. Centre for Reviews and Dissemination. Systematic Reviews. CRD’s
+
+guidance for undertaking reviews in health care 2009. [2021 May
+[5]. https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf .](https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf)
+
+
+18. Chen H-C, Schiffman M, Lin C-Y, Pan M-H, You S-L,
+
+Chuang L-C, Hsieh C-Y, Liaw K-L, Hsing AW, Chen C-J.
+Persistence of type-specific human papillomavirus infection and
+increased long-term risk of cervical cancer. J Natl Cancer Inst.
+[2011 Sep 21;103(18):1387–1396. doi:10.1093/jnci/djr283 .](https://doi.org/10.1093/jnci/djr283)
+19. Cheng W-F, Huang C-Y, You S-L, Chen C-J, Hu C-H, Chen C-A.
+
+Clinical significance of cytologic atypical squamous cells of unde-­
+termined significance. Obstet Gynecol. 2009 Apr;113(4):888–894.
+[doi:10.1097/AOG.0b013e31819b3e26 .](https://doi.org/10.1097/AOG.0b013e31819b3e26)
+20. Cho C-Y, Lo Y-C, Hung M-C, Lai C-C, Chen C-J, Wu K-G. Risk of
+
+cancer in patients with genital warts: a nationwide,
+population-based cohort study in Taiwan. PLOS ONE. 2017 Aug
+[14;12(8):e0183183. doi:10.1371/journal.pone.0183183 .](https://doi.org/10.1371/journal.pone.0183183)
+21. Choi I, Lee D, Son K-B, Bae S. Incidence, cost and gender differ-­
+
+ences of oropharyngeal and noncervical anogenital cancers in
+South Korea. BMC Public Health. 2020 June 29;20(1):1035.
+[doi:10.1186/s12889-020-09161-y .](https://doi.org/10.1186/s12889-020-09161-y)
+22. Hwang T-Z, Hsiao J-R, Tsai C-R, Chang JS. Incidence trends of
+
+human papillomavirus-related head and neck cancer in Taiwan,
+[1995–2009. Intl J Cancer. 2015 Jul 15;137(2):395–408. doi:10.1002/](https://doi.org/10.1002/ijc.29330)
+[ijc.29330 .](https://doi.org/10.1002/ijc.29330)
+23. Islami F, Ferlay J, Lortet-Tieulent J, Bray F, Jemal A. International
+
+trends in anal cancer incidence rates. Int J Epidemiol. 2017 June
+01;46(3):924–938.
+24. Jung Y-S, Seok J, Hong S, Ryu CH, Ryu J, Jung K-W. The
+
+emergence of oral cavity cancer and the stabilization of oro-­
+pharyngeal cancer: recent contrasting epidemics in the South
+Korean population. Cancer. 2021 May 15;127(10):1638–1647.
+[doi:10.1002/cncr.33434 .](https://doi.org/10.1002/cncr.33434)
+25. Kim J, Choi I, Bae S. PCN352 The burden of human
+
+papillomavirus-related cervical diseases in Korea: a
+population-based study. Value Health. 2020 May;23(Suppl 1);
+[S86. doi:10.1016/j.jval.2020.04.1808 .](https://doi.org/10.1016/j.jval.2020.04.1808)
+26. Lam JO, Lim W-Y, Chow K-Y, D’Souza G. Incidence, trends and
+
+ethnic differences of oropharyngeal, anal and cervical cancers:
+Singapore, 1968-2012. PLOS ONE. 2015 Dec 01;10(12):e0146185.
+[doi:10.1371/journal.pone.0146185 .](https://doi.org/10.1371/journal.pone.0146185)
+27. Laudico AV, Mirasol-Lumague MR, Mapua CA, Uy GB, Toral JAB,
+
+Medina VM, Pukkala E. Cancer incidence and survival in Metro
+Manila and Rizal Province, Philippines. Jpn J Clin Oncol. 2010 Jul;40
+[(7):603–612. doi:10.1093/jjco/hyq034 .](https://doi.org/10.1093/jjco/hyq034)
+28. Noguchi T, Zaitsu M, Oki I, Haruyama Y, Nishida K, Uchiyama
+
+K, Sairenchi T, Kobashi G. Recent increasing incidence of
+early-stage cervical cancers of the squamous cell carcinoma
+subtype among young women. Int J Environ Res Public
+Health. 2020 Oct 02;17(20):1–9.
+29. Phanuphak N, Teeratakulpisarn N, Pankam T, Kerr SJ, Barisri J,
+
+Deesua A, Rodbamrung P, Hongchookiat P, Chomchey N,
+Phanuphak P, et al. Anal human papillomavirus infection among
+Thai men who have sex with men with and without hiv infection:
+prevalence, incidence, and persistence. J Acquired Immune
+Deficiency Syndromes. 2013 [Aug 01;63(4):472–479. doi:10.1097/](https://doi.org/10.1097/QAI.0b013e3182918a5a)
+[QAI.0b013e3182918a5a .](https://doi.org/10.1097/QAI.0b013e3182918a5a)
+30. Shin A, Jung Y-S, Jung K-W, Kim K, Ryu J, Won Y-J. Trends of
+
+human papillomavirus-related head and neck cancers in Korea:
+national cancer registry data. Laryngoscope. 2013 Nov;123(11):
+[E30–E37. doi:10.1002/lary.24243 .](https://doi.org/10.1002/lary.24243)
+31. Simard EP, Torre LA, Jemal A. International trends in head and
+
+neck cancer incidence rates: differences by country, sex and ana-­
+tomic site. Oral Oncol. 2014 May;50(5):387–403.
+32. Yagi A, Ueda Y, Kakuda M, Tanaka Y, Ikeda S, Matsuzaki S,
+
+Kobayashi E, Morishima T, Miyashiro I, Fukui K, et al.
+Epidemiologic and clinical analysis of cervical cancer using
+data from the population-based Osaka cancer registry. Cancer
+Res. 2019 [Mar 15;79(6):1252–1259. doi:10.1158/0008-5472.](https://doi.org/10.1158/0008-5472.CAN-18-3109)
+
+[CAN-18-3109 .](https://doi.org/10.1158/0008-5472.CAN-18-3109)
+
+33. Chen H-C, You S-L, Hsieh C-Y, Schiffman M, Lin C-Y, Pan M-H,
+
+Chou Y-C, Liaw K-L, Hsing AW, Chen C-J. Prevalence of
+genotype-specific human papillomavirus infection and cervical
+neoplasia in Taiwan: a community-based survey of 10,602
+
+[women. Int J Cancer. 2011 Mar 01;128(5):1192–1203. doi:10.1002/](https://doi.org/10.1002/ijc.25685)
+[ijc.25685 .](https://doi.org/10.1002/ijc.25685)
+34. Matsuzawa Y, Kitamura T, Suzuki M, Koyama Y, Shigehara K.
+
+Prevalence, genotype distribution, and predictors against HPV
+infections targeted by 2-, 4-, 9-valent HPV vaccines among
+Japanese males. Vaccines. 2020 [June;8(2):221. doi:10.3390/vac](https://doi.org/10.3390/vaccines8020221)
+
+[cines8020221 .](https://doi.org/10.3390/vaccines8020221)
+
+35. Oh J-K, Choi HY, Han M, Lee J-K, Min K-J, Ki M. Prevalence of
+
+human papillomavirus-related diseases in the Republic of Korea:
+a cross-sectional study. Sexually Transmitted Infect. 2019 June;95
+[(4):292–299. doi:10.1136/sextrans-2018-053742 .](https://doi.org/10.1136/sextrans-2018-053742)
+36. Sashiyama H, Tsujinaka Y, Hamabata Y, Matsuo K, Tsutsumi O,
+
+Nakajima Y, Takase Y, Akagi K, Arai T, Tazawa A, et al. A study on
+HPV type in cases of anal condyloma acuminatum. Jpn
+J Coloproctol. [2009;62(7):466–470. doi:10.3862/jcoloproctology.](https://doi.org/10.3862/jcoloproctology.62.466)
+[62.466 .](https://doi.org/10.3862/jcoloproctology.62.466)
+37. Sashiyama H, Tsujinaka Y, Hamahata Y, Tsutsumi O, Akagi K,
+
+Hoshino T, Minami Y, Tsunoda Y, Matsuo K, Nakajima Y.
+Investigation of HPV type in cases of anal condyloma acuminata
+(second report) involvement of high-risk HPV in HIV-positive
+cases, [原著論文]. Jpn J Coloproctol. 2011;64(1):11–16.
+38. Yhim H-Y, Lee N-R, Song E-K, Kwak J-Y, Lee ST, Kim JH,
+
+Kim J-S, Park HS, Chung I-J, Shim H-J, et al. The prognostic
+significance of tumor human papillomavirus status for patients
+with anal squamous cell carcinoma treated with combined che-­
+moradiotherapy. Int J Cancer. 2011 Oct 01;129(7):1752–1760.
+[doi:10.1002/ijc.25825 .](https://doi.org/10.1002/ijc.25825)
+39. Kwon W-A, Yoon MY, Kim SH, Seo HK, Chung J, Lee KH,
+
+Joung JY, Park WS. Single-center analysis of human papilloma-­
+virus infection and P16INK4A expression among Korean patients
+with penile cancer. Biomed Res Int. [2019;2019:1–7. doi:10.1155/](https://doi.org/10.1155/2019/6940582)
+[2019/6940582 .](https://doi.org/10.1155/2019/6940582)
+40. Pham TTT, Bi X, Hoang HTT, Ishizaki A, Nguyen MTP, Nguyen CH,
+
+Nguyen HP, Pham TV, Ichimura H. Human papillomavirus geno-­
+types and HPV16 E6/E7 variants among patients with genital cancers
+[in Vietnam. Jpn J Infect Dis. 2018 Nov 22;71(6):419–426. doi:10.7883/](https://doi.org/10.7883/yoken.JJID.2018.206)
+[yoken.JJID.2018.206 .](https://doi.org/10.7883/yoken.JJID.2018.206)
+41. Yumura Y, Hattori Y, Noda H, Kondo K, Noguchi K, Sasaki T,
+
+Kasuga J, Kubota Y. Examination of human papillomavirus (HPV)
+infection in penile cancer patients. Bull Urol. 2009;55(11):671–675.
+42. Gakiya M. Clinical statistics of penile cancer. Urol Surg. 2000;13
+
+(4):441–444.
+43. Ngamkham J, Homcha-Aim P, Boonmark K, Phansri T,
+
+Swangvaree SS. Preliminary study on human papillomavirus fre-­
+quency and specific type-distribution in vulva cancer from Thai
+women. Asian Pac J Cancer Prev: APJCP. 2013;14(4):2355–2359.
+[doi:10.7314/APJCP.2013.14.4.2355 .](https://doi.org/10.7314/APJCP.2013.14.4.2355)
+44. Buenconsejo L, Kothari-Talwar S, Yee K, Kulkarni A, Lara N,
+
+Roset M, Giuliano AR, Garland S. Estimating the burden of illness
+related to genital warts in the Philippines: a nationally representative
+cross-sectional study. Infect Agents Cancer. 2019 Oct 07;14(1):26.
+[doi:10.1186/s13027-019-0240-y .](https://doi.org/10.1186/s13027-019-0240-y)
+45. Cheng Y-P, Chen C-W, Sheen Y-S, Tsai T-F. Genotype distribu-­
+
+tion of human papillomavirus in anogenital warts of male patients
+[in Taiwan. Dermatologica Sin. 2012 Sep;30(3):85–89. doi:10.1016/](https://doi.org/10.1016/j.dsi.2012.04.002)
+[j.dsi.2012.04.002 .](https://doi.org/10.1016/j.dsi.2012.04.002)
+46. Kwon T, Moon KH, Yang S-H, Roh MC, Lee SH, Kim JW, Kim IK,
+
+Roh KH, Park S. Multiple human papillomavirus infection is
+associated with high-risk infection in male genital warts in
+Ulsan, Korea. J Korean Med Sci. 2016 Mar 01;31(3):371–375.
+[doi:10.3346/jkms.2016.31.3.371 .](https://doi.org/10.3346/jkms.2016.31.3.371)
+47. Mizukami A, Kaise T, Van Kriekinge G. Resource use and cost of
+
+treating human papillomavirus–related lesions in Japanese
+women. Value Health Reg Issues. 2018 [May;15:56–62. doi:10.](https://doi.org/10.1016/j.vhri.2017.07.009)
+[1016/j.vhri.2017.07.009 .](https://doi.org/10.1016/j.vhri.2017.07.009)
+
+
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 11
+
+48. Park YJ, Kim JM, Lee BR, Kim TH, Lee EG. Annual prevalence and
+
+economic burden of genital warts in Korea: health insurance
+review and assessment (HIRA) service data from 2007 to 2015.
+Epidemiol Infect. 2018 [Jan 01;146(2):177–186. doi:10.1017/](https://doi.org/10.1017/S0950268817002813)
+[S0950268817002813 .](https://doi.org/10.1017/S0950268817002813)
+49. Bogani G, Sopracordevole F, Ciavattini A, Ghelardi A, Vizza E,
+
+Vercellini P, Casarin J, Pinelli C, Ghezzi F, De Vincenzo R, et al.
+HPV-related lesions after hysterectomy for high-grade cervical
+intraepithelial neoplasia and early-stage cervical cancer: a focus
+on the potential role of vaccination. Tumori. 2023 Nov;17
+[(2):139–145. doi:10.1177/03008916231208344 .](https://doi.org/10.1177/03008916231208344)
+50. Bogani G, Sopracordevole F, Ciavattini A, Vizza E, Vercellini P,
+
+Ghezzi F, Scambia G, Di Donato V, Giannini A, Raspagliesi F.
+HPV persistence after cervical surgical excision of high-grade
+cervical lesions. Cancer Cytopathol. 2023 Sep 25;132(5):268–269.
+[doi:10.1002/cncy.22760 .](https://doi.org/10.1002/cncy.22760)
+51. National Cancer Institute. HPV and Cancer. National Institute of
+
+Health; 2023 [cited 2024 Feb 12]. [https://www.cancer.gov/about-](https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer#:~:text=High%252Drisk%2520HPVs%2520can%2520cause,for%2520most%2520HPV%252Drelated%2520cancers)
+[cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer#](https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer#:~:text=High%252Drisk%2520HPVs%2520can%2520cause,for%2520most%2520HPV%252Drelated%2520cancers)
+[:~:text=High%2Drisk%20HPVs%20can%20cause,for%20most%](https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer#:~:text=High%252Drisk%2520HPVs%2520can%2520cause,for%2520most%2520HPV%252Drelated%2520cancers)
+[20HPV%2Drelated%20cancers .](https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer#:~:text=High%252Drisk%2520HPVs%2520can%2520cause,for%2520most%2520HPV%252Drelated%2520cancers)
+52. National cancer institute. Cancer stat facts: cervical cancer. 2024 [cited
+
+[2024 Sep 20]. https://seer.cancer.gov/statfacts/html/cervix.html .](https://seer.cancer.gov/statfacts/html/cervix.html)
+53. World Health Organization. Lip, oral cavity: incidence, both sexes,
+
+in 2022. 2022 [cited 2024 Sep 19]. [https://gco.iarc.fr/today/en/](https://gco.iarc.fr/today/en/dataviz/tables?mode=population%26cancers=1)
+[dataviz/tables?mode=population&cancers=1 .](https://gco.iarc.fr/today/en/dataviz/tables?mode=population%26cancers=1)
+54. Barsouk A, Aluru JS, Rawla P, Saginala K, Barsouk A.
+
+Epidemiology, risk factors, and prevention of head and neck squa-­
+mous cell carcinoma. Med Sci (Basel). 2023 June 13;11(2):42.
+[doi:10.3390/medsci11020042 .](https://doi.org/10.3390/medsci11020042)
+55. Chesson HW, Ekwueme DU, Saraiya M, Watson M, Lowy DR,
+
+Markowitz LE. Estimates of the annual direct medical costs of the
+prevention and treatment of disease associated with human papil-­
+lomavirus in the United States. Vaccine. 2012 Sep 14;30
+[(42):6016–6019. doi:10.1016/j.vaccine.2012.07.056 .](https://doi.org/10.1016/j.vaccine.2012.07.056)
+56. Östensson E, Silfverschiöld M, Greiff L, Asciutto C, Wennerberg J,
+
+Lydryp M-L, Håkansson U, Sparén P, Borgfeldt C. The economic
+burden of human papillomavirus-related precancers and cancers
+[in Sweden. PLOS ONE. 2017;12(6):e0179520. doi:10.1371/journal.](https://doi.org/10.1371/journal.pone.0179520)
+[pone.0179520 .](https://doi.org/10.1371/journal.pone.0179520)
+57. Setiawan D, Oktora MP, Hutubessy R, Riewpaiboon A, Postma MJ.
+
+The health-economic studies of HPV vaccination in Southeast
+
+Asian countries: a systematic review. Expert Rev Vaccines. 2017;16
+[(9):933–943. doi:10.1080/14760584.2017.1357472 .](https://doi.org/10.1080/14760584.2017.1357472)
+58. Song X, Mao F, Zhou Z, Zhao Q, Fang Y. Health economic evaluation
+
+of human papillomavirus vaccines in the developing countries: sys-­
+tematic reviews. Zhonghua Yu Fang Yi Xue Za Zhi. 2016 Jan;50
+[(1):85–90. doi:10.3760/cma.j.issn.0253-9624.2016.01.015 .](https://doi.org/10.3760/cma.j.issn.0253-9624.2016.01.015)
+59. Parkin DM, Louie KS, Clifford G. Burden and trends of
+
+type-specific human papillomavirus infections and related diseases
+in the Asia Pacific Region. Vaccine. [2008;26:M1–M16. doi:10.](https://doi.org/10.1016/j.vaccine.2008.05.010)
+[1016/j.vaccine.2008.05.010 .](https://doi.org/10.1016/j.vaccine.2008.05.010)
+60. de Martel C, Georges D, Bray F, Ferlay J, Clifford GM. Global
+
+burden of cancer attributable to infections in 2018: a worldwide
+
+incidence analysis. Lancet Glob Health. 2020 Feb;8(2):e180–e190.
+[doi:10.1016/S2214-109X(19)30488-7 .](https://doi.org/10.1016/S2214-109X(19)30488-7)
+61. Ebrahimi N, Yousefi Z, Khosravi G, Malayeri FE, Golabi M,
+
+Askarzadeh M, Shams MH, Ghezelbash B, Eskandari N. Human
+papillomavirus vaccination in low- and middle-income countries:
+progression, barriers, and future prospective. Front Immunol.
+[2023;14:1150238. doi:10.3389/fimmu.2023.1150238 .](https://doi.org/10.3389/fimmu.2023.1150238)
+62. Brisson M, Kim JJ, Canfell K, Drolet M, Gingras G, Burger EA,
+
+Martin D, Simms KT, Bénard É, Boily M-C, et al. Impact of HPV
+vaccination and cervical screening on cervical cancer elimination:
+a comparative modelling analysis in 78 low-income and
+
+12 P.-J. LOU ET AL.
+
+lower-middle-income countries. Lancet. 2020 Feb 22;395
+[(10224):575–590. doi:10.1016/S0140-6736(20)30068-4 .](https://doi.org/10.1016/S0140-6736(20)30068-4)
+63. Galeshi M, Shirafkan H, Yazdani S, Motaghi Z. Reproductive health needs
+
+of human papillomavirus (HPV) positive women: a systematic review.
+[PLOS ONE. 2022;17(9):e0266819. doi:10.1371/journal.pone.0266819 .](https://doi.org/10.1371/journal.pone.0266819)
+64. Yuan S, Qiu Y, Xu Y, Wang H. Human papillomavirus infection
+
+and female infertility: a systematic review and meta-analysis.
+Reprod Biomed Online. 2020 [Feb;40(2):229–237. doi:10.1016/j.](https://doi.org/10.1016/j.rbmo.2019.10.019)
+[rbmo.2019.10.019 .](https://doi.org/10.1016/j.rbmo.2019.10.019)
+
+
+65. Wang S, Liu L, Zhang A, Song Y, Kang J, Liu X. Association
+
+between human papillomavirus infection and sperm quality:
+a systematic review and a meta-analysis. Andrologia. 2021
+[June;53(5):e14034. doi:10.1111/and.14034 .](https://doi.org/10.1111/and.14034)
+66. Moghoofei M, Keshavarz M, Ghorbani S, Babaei F, Nahand JS,
+
+Tavakoli A, Mortazavi HS, Marjani A, Mostafaei S, Monavari SH.
+Association between human papillomavirus infection and prostate
+cancer: a global systematic review and meta-analysis. Asia Pac
+[J Clin Oncol. 2019 Oct;15(5):e59–e67. doi:10.1111/ajco.13124.](https://doi.org/10.1111/ajco.13124)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

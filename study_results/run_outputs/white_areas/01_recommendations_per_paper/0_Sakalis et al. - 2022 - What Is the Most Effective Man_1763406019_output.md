@@ -1,0 +1,8 @@
+Based on the systematic review "What Is the Most Effective Management of the Primary Tumor in Men with Invasive Penile Cancer," the following explicit treatment recommendations are provided. The scope of the paper is limited to the management of the primary tumor in invasive penile cancer.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Tumor Treatment (General Principle)** | Penile-sparing surgery (PSS) should be offered whenever possible for primary penile lesions. The aim is to preserve functional penile length, avoid disfigurement, and maintain quality of life (QoL). The benefits of PSS must be weighed against the potential risk of residual disease and positive surgical margins, which are correlated with an increased risk of local recurrence. |
+| **Primary Tumor Treatment (Standard Surgical Approach)** | Partial or total penectomy is considered the standard oncologic treatment for invasive penile cancer. The decision for the extent of amputation is based on the size and extent of the primary lesion. |
+| **Primary Tumor Treatment (Specific Modalities for Limited Disease)** | For smaller lesions, specifically in men with T1 stage cancer, Laser treatment and Moh’s micrographic surgery are effective treatment options that could be used. |
+| **Primary Tumor Treatment (Radiation Therapy)** | When radiotherapy is considered, brachytherapy results in better 5-year recurrence-free rates compared to External Beam Radiotherapy (EBRT). The outcomes of brachytherapy are comparable to those of penile-sparing surgery. |

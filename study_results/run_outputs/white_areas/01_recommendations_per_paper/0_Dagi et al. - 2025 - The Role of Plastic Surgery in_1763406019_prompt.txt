@@ -1,0 +1,344 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    #### **Lieferschein **
+
+Universitaets- und Stadtbibliothek Koeln
+
+ - Dokumentlieferung –
+
+Universitaetsstr. 33
+
+D-50931 Koeln
+
+
+Tel.:
+
+Fax:
+
+Email:
+
+
+0221/470 2437
+
+0221/470 5053
+
+fernleihe@ub.uni-koeln.de
+
+
+**Empfänger**
+
+Klinik fuer Urologie
+
+Caritas-Krankenhaus St. Josef
+
+Landshuter Str. 65
+
+D-93053 Regensburg
+
+**Angaben zur Bestellung** **:**
+
+
+Bestelldatum:
+
+Bestellnummer:
+
+Name des Bestellers:
+Benutzerkennung: HSL17X00507
+
+Lieferdatum:
+Lieferpriorität: NORMAL
+Aktueller Lieferweg: Email
+E-Mail Adresse:
+
+Bemerkungen zur Auslieferung:
+
+
+
+
+
+**Angaben zum Dokument:**
+
+Signatur:
+Autor:
+
+Titel:
+
+Jahr: 2025
+Band / Jahrgang: 95 / 5
+Seiten: 590-591
+
+Aufsatzautor:
+
+Aufsatztitel:
+
+ISSN: 1536-3708
+
+ISBN:
+
+CODEN:
+
+Ihre Bemerkung zur Bestellung:
+
+
+
+[ONL] ND:2063013-X
+
+
+Annals of plastic surgery
+
+2025
+
+95 / 5
+
+590-591
+
+Dagi, Alexander F.; Jones, Nadeem E.; Bo
+The Role of Plastic Surgery in Urologic Cancer and Trauma
+
+1536-3708
+
+## **subito Urheberrechtshinweis **
+
+Die Bestellung und Nutzung der über subito gelieferten Aufsatzkopien
+unterliegen urheberrechtlichen Bestimmungen. Mit der Registrierung
+bei subito verpflichten Sie sich, diese einzuhalten.
+
+Kopien von subito sind grundsätzlich zum eigenen Gebrauch bestimmt
+und dürfen, außer, wenn sie durch eine Hilfsperson bestellt worden sind,
+nicht an Dritte weitergegeben werden. Für kommerzielle Nutzer der von subito gelieferten
+Kopien ist die gemeinsame Verwendung ausgelieferter Kopien innerhalb einer Firma oder
+eines Unternehmens allerdings ausdrücklich gestattet.
+
+Die Kopien sind mit einem Wasserzeichen versehen, welches einen
+Urheberrechtsvermerk enthält. Das von subito e.V. angebrachte Wasserzeichen darf nicht
+
+entfernt werden.
+
+Weiterverwendet werden können innerhalb Deutschlands durch deutsche Bibliotheken
+
+ausgelieferte Kopien unter Beachtung der urheberrechtlichen Schrankenregelungen. So
+können sie zum Beispiel unter Einhaltung der nach § 60a UrhG geltenden Bestimmungen
+für den Unterricht und die Lehre an Bildungseinrichtungen, etwa auch für
+Semesterapparate und in Schulen genutzt werden. Dies gilt nicht nur für analoge, sondern
+auch für digitale Plattformen für Unterrichts- und Lehrmedien. Unter Beachtung von § 45
+UrhG können analoge und digitale Kopien auch in Verfahren vor einem Gericht, einem
+Schiedsgericht oder einer Behörde verwendet werden.
+
+Für Kopienlieferungen mit dem Ziel außerhalb Deutschlands sind alle einschlägigen
+urheberrechtlichen Bestimmungen des Landes zu beachten, in dem der Nutzer seinen
+
+(Wohn-) Sitz hat.
+
+Im Zweifel wenden Sie sich bitte an die Rechtsabteilung Ihres Unternehmens oder an
+
+einen Rechtsanwalt.
+
+### R EVIEW P APER
+## The Role of Plastic Surgery in Urologic Cancer and Trauma Reconstruction: A Systematic Review
+
+Alexander F. Dagi, MPhil, Nadeem E. Jones, BA, and Jarrod T. Bogue, MD
+
+
+Background: The role of plastic surgeons in urologic reconstruction following
+malignancy and trauma remains poorly defined despite potential synergies in
+complex cases requiring specialized reconstructive techniques.
+Methods: Systematic literature search of PubMed, Medline/Ovid, and Cochrane
+databases using predetermined search terms combining “plastic surgery” with
+urologic cancer and trauma keywords. Studies were included if both urologic
+and plastic surgeons were involved in clinical care.
+Results: Four studies met inclusion criteria from 46 initial references, representing diverse applications from 2021 to 2025. Key findings included the following:
+(1) complex abdominal wall reconstruction following retroperitoneal sarcoma resection using biologic mesh and omental flaps; (2) plastic surgery involvement in
+33% of scrotal squamous cell carcinoma and 67% of extramammary Paget's disease cases undergoing Mohs surgery with low recurrence rates; (3) microsurgical
+lymphovenous bypass for lymphedema following inguinal lymphadenectomy in
+penile cancer patients; and (4) gracilis muscle flap interposition for rectourethral
+fistula repair, demonstrating significantly improved healing rates with systematic
+multidisciplinary protocols (100% vs 66%, P = 0.04).
+Conclusions: Limited but compelling evidence supports plastic surgery involvement in complex urologic reconstruction, particularly for extensive oncologic resections, scrotal malignancies, lymphedema management, and complex fistula repair.
+Systematic multidisciplinary approaches demonstrate improved outcomes, although
+further research is needed to establish optimal protocols and cost-effectiveness.
+
+Key Words: urologic reconstruction, lymphedema, gracilis muscle flap, uroplastic surgery
+
+–
+(Ann Plast Surg 2025;95: 590 591)
+# T he surgical management of sequelae from urologic malignanciesand trauma often involves complex wound management, func
+tional restoration, and aesthetic considerations. As recognition grows
+of the clinical and financial value of multidisciplinary approaches in complex surgical cases, [1] plastic surgeons' expertise in tissue reconstruction and
+microsurgical techniques may complement urologic surgeons' approaches.
+Despite potential synergies, the role of plastic surgeons in urologic cases
+remains ill-defined. This systematic reviewexamines current evidence regarding plastic surgical involvement in urologic oncology and trauma.
+
+METHODS
+
+A systematic literature search was conducted in PubMed,
+Medline/Ovid, and Cochrane databases using predetermined search
+terms combining “plastic surgery” with urologic cancer and trauma
+keywords. From an initial 46 imported references, 7 duplicates were removed, and 36 studies underwent title and abstract screening. Studies
+
+Received July 15, 2025, and accepted for publication, after revision August 8, 2025.
+From the Division of Plastic Surgery, The New York Presbyterian Hospital, Columbia
+University Medical Center, New York, NY.
+Conflicts of interest and sources of funding: none declared.
+Reprints: Jarrod T. Bogue, MD, Division of Plastic Surgery, Columbia University
+Medical Center, 161 Fort Washington Ave, 5th Floor, New York City, NY
+[10032. E-mail: jb3892@cumc.columbia.edu.](mailto:)
+Copyright © 2025 Wolters Kluwer Health, Inc. All rights reserved.
+ISSN: 1536-3708/25/9505–0590
+
+DOI: 10.1097/SAP.0000000000004500
+
+
+were included if both urologic and plastic surgeons were involved in
+the clinical report. Four studies ultimately met inclusion criteria after
+full-text assessment.
+
+RESULTS
+
+The 4 included studies represent diverse applications of plastic surgical expertise in urologic oncology, with publication dates ranging from
+2021 to 2025 and all originating from institutions in the United States.
+Walker et al described a case of radiation-associated retroperitoneal sarcoma with kidney involvement requiring complex reconstruction
+of the abdominal wall using biologic mesh and an omental flap following
+multivisceral resection. [2] This case demonstrated the importance of multidisciplinary collaboration involving surgical oncology, orthopedic oncology, thoracic surgery, and plastic surgery.
+Roberson et al conducted a retrospective review of 26 patients
+undergoing Mohs micrographic surgery for scrotal cutaneous malignancies (16 squamous cell carcinoma lesions, 12 extramammary Paget's disease lesions). [3] Plastic surgery expertise was required for complex reconstruction in approximately one-third of squamous cell carcinoma cases
+and two-thirds of Paget's disease cases, with the remainder amenable
+to primary closure, local flaps, or healing by secondary intention. Notably, despite the extensive nature of these resections, oncologic recurrence
+rates remained low (6% for SCC, 0% for squamous cell carcinoma and
+extramammary Paget's disease after achieving negative margins).
+Goldman et al presented a case series of 3 patientswith advanced penile squamous cell carcinoma who underwent microsurgical lymphovenous
+bypass procedures performed by plastic surgeons to address lower extremity lymphedema following inguinal lymphadenectomy. [4] The authors
+demonstrated clinical improvement in lymphedema and quality of life,
+highlighting the value of prophylactic or therapeutic microsurgical intervention for lymphatic disruption.
+Finally, Brush et al reported outcomes of gracilis muscle flap interposition for complex rectourethral fistula repair in 23 patients between 2001 and 2022. [5] This retrospective quasi-experimental study
+compared outcomes before and after implementation of a multidisciplinary treatment algorithm involving plastic surgery consultation.
+The algorithm indicated plastic surgery involvement for (1) radiated
+rectourethral fistulae less than 3 cm and (2) nonradiated rectourethral
+fistulae greater than 2 cm. The frequency of definitive rectourethral fistula healing improved significantly in the postalgorithm group (100%
+vs 66%, P = 0.04), demonstrating the value of systematic multidisciplinary collaboration in complex urologic reconstruction.
+No studies addressing plastic surgery involvement in urologic
+trauma met inclusion criteria.
+
+DISCUSSION
+
+In this systematic review, we sought to assess the literature on
+plastic surgeon involvement in urologic reconstruction following cancer
+or trauma, specifically to focus attention on interdisciplinary collaboration outside of gender affirming procedures. Our findings highlight the
+potential breadth of collaboration between the 2 fields while also
+highlighting the paucity of published literature in this domain. The contrast suggests either underutilization of plastic surgical services or
+underreporting of such collaborations.
+
+
+590 [www.annalsplasticsurgery.com](http://www.annalsplasticsurgery.com) Annals of Plastic Surgery • Volume 95, Number 5, November 2025
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2025 Wolters Kluwer Health, Inc. All rights reserved.
+
+Annals of Plastic Surgery • Volume 95, Number 5, November 2025 The Role of Plastic Surgery
+
+
+The common theme across the 4 included studies is the added
+value of specialized reconstructive techniques in managing complex defects or complications following urologic cancer treatment. Notably,
+plastic surgical involvement appears particularly valuable in the following: (1) reconstruction following extensive oncologic resection, (2)
+management of scrotal cutaneous malignancies to optimize both oncologic and functional outcomes, (3) addressing lymphedema as a complication of inguinal lymphadenectomy, and (4) complex rectourethral fistula repair using vascularized tissue interposition.
+The study by Brush et al provides particularly compelling evidence
+for the benefits of systematic multidisciplinary collaboration, demonstrating a statistically significant improvement in healing rates when plastic
+surgery involvement was incorporated into a standardized treatment algorithm for complex rectourethral fistulae. [5] This represents the first study to
+quantitatively demonstrate improved outcomes through algorithmic implementation of plastic surgery involvement in urologic reconstruction.
+Our review did not capture literature on oncologic complications
+in kidney transplant recipients, although this represents another domain
+where plastic surgery expertise is important. Papadopoulos et al and Ge
+et al reported safe and effective management of posttransplant cutaneous malignancies and wound complications using flaps and grafts,
+underscoring the role of plastic surgery in complex oncologic and immunosuppressed patient care. [6,7]
+
+Although our review did not identify studies involving urologic
+trauma, penile replantation and transplantation exemplify complex reconstructive scenarios where plastic surgical collaboration is critical.
+Penile replantation, historically performed without vascular repair and
+associated with high rates of necrosis and strictures, now benefits from
+microsurgical techniques that improve tissue survival and functional
+recovery. [8] Penile transplantation using vascularized composite allografts, performed in select cases of genital loss, involves meticulous microsurgery and multidisciplinary teams to restore urinary and sexual
+function, although it remains limited by surgical complexity and immunosuppression requirements. [9]
+
+
+CONCLUSIONS
+
+This systematic review demonstrates limited but diverse published evidence regarding plastic surgery involvement in complex
+urology reconstruction following oncologic resections. The findings
+suggest significant benefits of interdisciplinary collaboration in
+complex cases requiring specialized reconstructive expertise, with
+one study demonstrating statistically significant improvement in outcomes through systematic implementation of multidisciplinary care.
+Further research, including larger retrospective and prospective studies, is needed to establish best practices for both patient outcomes
+and cost effectiveness.
+
+REFERENCES
+
+1. Raj S, Williams EM, Davis MJ, et al. Cost-effectiveness of multidisciplinary care in
+plastic surgery: a systematic review. Ann Plast Surg. 2021;87:206–210.
+2. Walker JC, Bradley JF 3rd, Luckenbaugh AN, et al. Complex surgical management of radiation-associated left retroperitoneal sarcoma. Am Surg. 2022;88:
+308–312.
+
+3. Roberson D, Chelluri R, Skokan AJ, et al. Outcomes of Mohs micrographic resection for cutaneous malignancy involving the scrotum. Urol Oncol. 2021;39:832.
+e1–832.e7.
+
+4. Goldman C, Lee H, Tom L, et al. Microsurgical treatment of lower extremity
+lymphedema: a multidisciplinary approach to improve morbidity in advanced penile cancer patients. Urol Oncol. 2022;40:354.e1–354.e5.
+5. Brush E, Hernandez JA, Flusché AM, et al. The uroplastic approach to complex
+rectourethral fistula repair: indications, technique, results. Plast Reconstr Surg
+Glob Open. 2025;13:e6662.
+6. Papadopoulos O, Konofaos P, Chrisostomidis C, et al. Reconstructive surgery for
+kidney transplant recipients. Transplant Proc. 2005;37:4218–4222.
+7. Ge Y, Saad M, Nemani S, et al. Diagnosis and treatment of skin lesions in renal
+transplant recipients: a retrospective review. Ann Plast Surg. 2024;93(2S Suppl 1):
+S51–S54.
+
+8. Patil PB, Sabnis AS, Bansal A, et al. Technical considerations and outcomes in penile replantation. Semin Plast Surg. 2013;27:205–210.
+9. Szafran AA, Redett R, Burnett AL. Penile transplantation: the US experience and
+institutional program set-up. Transl Androl Urol. 2018;7:639–645.
+
+
+© 2025 Wolters Kluwer Health, Inc. All rights reserved. [www.annalsplasticsurgery.com](http://www.annalsplasticsurgery.com) 591
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2025 Wolters Kluwer Health, Inc. All rights reserved.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

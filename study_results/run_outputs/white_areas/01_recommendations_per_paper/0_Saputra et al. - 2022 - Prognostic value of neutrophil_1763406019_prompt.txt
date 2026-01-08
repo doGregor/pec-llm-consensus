@@ -1,0 +1,3113 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ### Source details
+###### Annals of Medicine and Surgery
+
+Scopus coverage years: from ���� to ����
+
+Publisher: Elsevier
+
+E-ISSN: ����-����
+
+Subject area: Medicine: Surgery
+
+Source type: Journal
+
+View all documents - Set document alert  [Save to source list] [Source Homepage](https://www.scopus.com/redirect/linking.uri?targetURL=http%3a%2f%2fwww.sciencedirect.com%2fscience%2fjournal%2f20490801&locationID=8&categoryID=8&eid=&issn=&linkType=JournalHomePage&year=&dig=c09a4d151f86980e5fe519e9628fce98)
+
+[CiteScore](https://www.scopus.com/sourceid/21100283772#rp) [CiteScore rank & trend](https://www.scopus.com/sourceid/21100283772#csrt) [Scopus content coverage](https://www.scopus.com/sourceid/21100283772#cc)
+
+i Improved CiteScore methodology
+
+CiteScore ���� counts the citations received in ����-���� to articles, reviews, conference papers, book chapters and data
+
+papers published in ����-����, and divides this by the number of publications published in ����-����. [Learn more](https://www.scopus.com/standard/help.uri?topic=14880) [▻](https://www.scopus.com/standard/help.uri?topic=14880)
+
+
+CiteScore ����
+###### �.�
+
+
+
+
+
+SJR ����
+
+###### �.���
+
+SNIP ����
+
+###### �.���
+
+××
+
+
+
+
+
+CiteScore
+
+
+���� 
+
+[�,��� Citations ���� - ����](https://www.scopus.com/sourceid/21100283772#citlink)
+
+
+CiteScoreTracker ����
+
+### �.� [=]
+
+
+[�,��� Documents ���� - ����](https://www.scopus.com/sourceid/21100283772#doclink)
+
+
+[�,��� Citations to date](https://www.scopus.com/source/citedby.uri?sourceId=21100283772&docType=ar,re,cp,dp,ch&citedYear=2022,2021,2020,2019&years=2022,2021,2020,2019&pubstageExclusions=aip)
+
+[�,��� Documents to date](https://www.scopus.com/source/search/docType.uri?sourceId=21100283772&years=2022,2021,2020,2019&docType=ar,re,cp,dp,ch&pubstageExclusions=aip)
+
+### �.� [=]
+
+
+Calculated on �� May, ����
+
+CiteScore rank ����
+
+
+
+
+
+Last updated on �� April, ���� • Updated monthly
+
+
+Category Rank Percentile
+
+Medicine
+����/��� ��rd
+
+Surgery
+
+[View CiteScore methodology](https://www.scopus.com/sourceid/21100283772#RP) [▻](https://www.scopus.com/sourceid/21100283772#RP) [CiteScore FAQ](https://www.scopus.com/standard/help.uri?topic=14880) [▻](https://www.scopus.com/standard/help.uri?topic=14880) [Add CiteScore to your site](https://www.scopus.com/sourceid/21100283772#csWidget) [�](https://www.scopus.com/sourceid/21100283772#csWidget)
+
+About Scopus
+
+[What is Scopus](https://www.elsevier.com/online-tools/scopus?dgcid=RN_AGCM_Sourced_300005030)
+
+[Content coverage](https://www.elsevier.com/online-tools/scopus/content-overview/?dgcid=RN_AGCM_Sourced_300005030)
+
+[Scopus blog](https://blog.scopus.com/)
+
+[Scopus API](https://dev.elsevier.com/)
+
+[Privacy matters](https://www.elsevier.com/about/our-business/policies/privacy-principles?dgcid=RN_AGCM_Sourced_300005030)
+
+Language
+
+[⽇本語版を表⽰する](https://www.scopus.com/personalization/switch/Japanese.uri?origin=sourceinfo&zone=footer&locale=ja_JP)
+
+[查看简体中文版本](https://www.scopus.com/personalization/switch/Chinese.uri?origin=sourceinfo&zone=footer&locale=zh_CN)
+
+[查看繁體中文版本](https://www.scopus.com/personalization/switch/Chinese.uri?origin=sourceinfo&zone=footer&locale=zh_TW)
+
+Просмотр версии на русском языке
+
+Customer Service
+
+[Help](https://www.scopus.com/standard/contactUs.uri?pageOrigin=footer)
+
+[Tutorials](https://service.elsevier.com/app/answers/detail/a_id/14799/supporthub/scopus/)
+
+[Contact us](https://service.elsevier.com/app/overview/scopus/)
+
+[Terms and conditions](https://www.elsevier.com/locate/termsandconditions?dgcid=RN_AGCM_Sourced_300005030) [Privacy policy](https://www.elsevier.com/locate/privacypolicy?dgcid=RN_AGCM_Sourced_300005030)
+
+[Copyright © Elsevier B.V](https://www.elsevier.com/?dgcid=RN_AGCM_Sourced_300005030) . All rights reserved. Scopus® is a registered trademark of Elsevier B.V.
+
+[We use cookies to help provide and enhance our service and tailor content. By continuing, you agree to the use of cookies](https://www.scopus.com/cookies/policy.uri) .
+
+**Annals of Medicine and Surgery**
+
+
+
+
+
+
+Quartiles
+
+
+
+
+|FIND SIMILAR JOURNALS options|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+|1 International Journal of Surgery NLD 80% similarity|2 International Journal of Surgery Open GBR 73% similarity|3 International Journal of Surgery Case Reports NLD 67% similarity|4 BMC Surgery GBR 61% similarity|5 Acta Chirurgica Belgica GBR 59% similarity|
+
+
+SJR
+
+
+Total Documents
+
+
+Citations per document
+
+This 2 ~~indicator~~ ~~counts~~ ~~the~~ ~~number~~ ~~of~~ ~~citations~~ ~~received~~ ~~by~~
+
+
+0.6 The ~~SJR~~ ~~is~~ ~~a~~ ~~size-independent~~ ~~prestige~~ ~~indicator~~ ~~that~~ ~~ranks~~
+
+journals by their 'average prestige per article'. It is based on
+
+the importance or prestige of the journals where such
+
+citations come from It measures the scienti�c in�uence of 0
+
+the average article in a journal, it expresses how central to 2013 2015 2017 2019 2021
+
+the global scienti�c discussion an average article of the
+
+Total Cites Self-Cites
+
+same journal.
+
+0
+
+**Cites** 2012 **Year** 2014 **Value** 2016 2018 2020
+
+f
+
+% International Collaboration
+
+16 Inte ~~rnational~~ ~~Collaboration~~ ~~accounts~~ ~~for~~ ~~the~~ ~~articles~~ ~~that~~
+
+0
+
+**Year** **International Collaboration**
+
+2012 2012 0.00 2014 2016 2018 2020
+
+2013 15 38
+
+← Show this widget in
+
+your own website
+
+Just copy the code below
+
+and paste within your html
+
+code:
+
+<a href="https://www.scima
+
+
+1.2k Evolu ~~tion~~ ~~of~~ ~~the~~ ~~number~~ ~~of~~ ~~published~~ ~~documents~~ . ~~All~~ ~~types~~
+
+
+0
+
+2013 26
+
+2014 2012 32 2014
+
+2015 100
+
+
+0
+
+
+2012 32 2014 2016 2018 2020
+
+
+External Cites per Doc Cites per Doc
+
+1.8 Evol ~~ution~~ ~~of~~ ~~the~~ ~~number~~ ~~of~~ ~~total~~ ~~citation~~ ~~per~~ ~~document~~ ~~and~~
+
+documents. 0
+
+2012 2014 2016 2018 2020
+
+Citable documents Non-citable documents
+
+1k
+
+Not every article in a journal is considered primary research
+
+and therefore "citable", this chart shows the ratio of a
+
+journal's articles including substantial research (research
+
+500 articles, conference p a p ers and reviews ) in three y ear
+
+windows vs. those documents other than research articles,
+
+reviews and conference papers.
+
+0
+
+**Documents** 2012 2014 2016 **Year** **Value** 2018 2020
+
+**SCImago GraphicaSCImago GraphicaSCImago Graphica**
+
+Explore, visuallyExplore, visuallyExplore, visually
+communicate and makecommunicate and makecommunicate and make
+
+sense of data with oursense of data with oursense of data with our
+
+**[new data visualizationnew data visualizationnew data visualization](https://www.graphica.app/)**
+
+**[tooltooltool](https://www.graphica.app/)** ...
+
+
+Cites / Doc. (4 years) 0 2016 1.046
+Cites / Doc. (4 years) 2012 2014 2017 2016 1.352
+Cites / Doc. (4 years) 2018 1.644
+Cites / Doc. (4 years) Cites / Doc. (4 years) 2019 1.509
+Cites / Doc. (4 years) Cites / Doc. (3 years) 2020 1.613
+Cites / Doc. (4 years) Cites / Doc. (2 years) 2021 1.879
+
+
+
+0
+
+
+2012 2014 2016 2018 2020
+
+
+Cites / Doc. (4 years) Cites / Doc. (4 years)
+Cites / Doc. (4 years) Cites / Doc. (3 years)
+
+Cites / Doc. (2 years)
+
+
+Cited documents Uncited documents
+
+Ratio of a journal's items, grouped in three years windows, 1k
+
+
+Uncited documents 2012 2014 2014 2016 38
+
+U it d d t 2015 53
+
+
+
+2012 2014 2014 2016 38 2018 2020
+
+# **Editorial Board : Annals of Medicine and Surgery** **Editorial Board** **Editor-In-Chief**
+
+Riaz Agha, London, UK
+#### **Statistical Editor**
+
+L. C. See, Taoyuan, Taiwan
+## **Editorial Board**
+
+
+X-P. Chen, Wuhan, China
+
+M. Cohen, Newark, USA
+
+D. Green, London, UK
+
+S. Hamid, Karachi, Pakistan
+
+P. Hutchinson, Cambridge, UK
+
+P. Littlejohns, London, UK
+
+A. Mahapatra, Bhubaneswar, India
+
+J. McKimm, Swansea, UK
+#### **Assistant Editors**
+
+
+D. Muzumdar, Mumbai, India
+
+F. Nicoli, London, UK
+
+J. Norcini, Philadelphia, USA
+
+D. Sokol, London, UK
+
+J. Talati, Karachi, Pakistan
+
+J. V. Thomas, Birmingham, USA
+
+M. C. Warlé, Nijmegen, Netherlands
+
+T. G. Williams, Tunbridge Wells, UK
+
+
+J. Kleef, Liverpool, UK P. Schemmer, Graz, Austria
+#### **Associate Staff Editors**
+
+S. Acuna, Toronto, Canada
+##### S. Al-Hakkak, Najaf, Iraq
+
+G. Alsfasser, Rostock, Germany
+##### A. Angarita, Houston, USA F. Campanile, Civita Castellana, Italy
+
+O. P. Choudhary, Punjab, India
+
+D. Chowdhury, Manchester, UK
+
+J. Clark, London, UK
+
+A. Coppola, Rome, Italy
+
+Back to Top
+
+**Never Miss an Issue**
+
+
+F. G. Del Ángel, Tampico, Mexico
+
+T. J. Evans, London, UK
+
+A. Frampton, London, UK
+
+T. Golden, Rockville, USA
+
+A. Hasan, Cairo, Egypt
+
+R. Moshref, Jeddah, Saudi Arabia
+
+M. Oley, Manado, Indonesia
+
+E. Ntouvali, Athens, Greece
+
+R. Rosyidi, Mataram, Indonesia
+
+
+Get new journal Tables of Contents sent right to your email inbox Type your email Get New Issue Alerts
+
+**Browse Journal Content**
+
+  - [Register on the website](https://journals.lww.com/annals-of-medicine-and-surgery/pages/register.aspx?ContextUrl=%2fannals-of-medicine-and-surgery%2fpages%2feditorialboard.aspx)
+
+**Customer Service**
+
+  - Contact us at:
+
+◦ Support:
+
+[Submit a Service Request](https://www.tfaforms.com/4966570)
+◦ TEL:
+
+800-638-3030 (within the USA)
+301-223-2300 (outside of the USA)
+
+  - Manage Cookie Preferences
+
+  - [Privacy Policy (Updated December 15, 2022)](https://journals.lww.com/annals-of-medicine-and-surgery/_layouts/oaks.journals/privacy.aspx)
+
+  - [Legal Disclaimer](https://journals.lww.com/annals-of-medicine-and-surgery/_layouts/oaks.journals/disclaimer.aspx)
+
+  - [Terms of Use](https://journals.lww.com/annals-of-medicine-and-surgery/_layouts/oaks.journals/terms.aspx)
+
+  - [Open Access Policy](https://www.wolterskluwer.com/en/solutions/lippincott-journals/lippincott-open-access)
+
+- Copyright © 2023
+
+- [Wolters Kluwer Health, Inc. and/or its subsidiaries. All rights reserved.](https://www.wolterskluwer.com/en/health)
+
+# **September 2022 - Volume 81 - Issue :** **Annals of Medicine and Surgery**
+
+[Home > September 2022 - Volume 81 - Issue](https://journals.lww.com/annals-of-medicine-and-surgery/pages/default.aspx)
+
+ [Previous Issue | Next Issue ](https://journals.lww.com/annals-of-medicine-and-surgery/toc/2022/08000)
+
+September 2022 - Volume 81 - Issue
+ [Table of Contents Outline](javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl28$g_55213adf_6fa8_45d5_ab70_f1ef0eef6e4f$ctl00$lnkbtnTOC", "", true, "", "", false, true)))
+ [eTOC Alerts](javascript:javascript: alerts_ShowSubscribeeTOCPopup('Annals of Medicine and Surgery','annals-of-medicine-and-surgery','eTOC', 'eTOC');;)
+ [Contributor Index](https://journals.lww.com/annals-of-medicine-and-surgery/pages/contributorindex.aspx?year=2022&issue=09000)
+###### **Cross-sectional Study**
+
+**[Irritable bowel syndrome in adults: Prevalence and risk factors](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Irritable_bowel_syndrome_in_adults__Prevalence_and.89.aspx)**
+
+Zeeshan, Muhammad Hamayl; Vakkalagadda, Naga Praneeth; Sree, Gummadi Sai; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Irritable_bowel_syndrome_in_adults__Prevalence_and.89.aspx)
+
+**[Practice towards perioperative care of cesarean delivery in Debre Tabor](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Practice_towards_perioperative_care_of_cesarean.90.aspx)**
+**[Comprehensive Specialized Hospital, North Central Ethiopia: Cross-sectional study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Practice_towards_perioperative_care_of_cesarean.90.aspx)**
+
+Alle, Yewlsew Fentie; Taye, Moges Gelaw; Tegegne, Shimelis Seid
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Practice_towards_perioperative_care_of_cesarean.90.aspx)
+
+**[Trend of social media use by undergraduate medical students; a comparison between](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Trend_of_social_media_use_by_undergraduate_medical.100.aspx)**
+**[medical students and educators](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Trend_of_social_media_use_by_undergraduate_medical.100.aspx)**
+
+Nisar, Sumera; Alshanberi, Asim Muhammad; Mousa, Ahmed Hafez; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Trend_of_social_media_use_by_undergraduate_medical.100.aspx)
+
+**[The dilemma of incidental findings in abdominal surgery: A cross-sectional study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_dilemma_of_incidental_findings_in_abdominal.146.aspx)**
+
+Shebli, Baraa; Rahmeh, Ahmad Rami; Khalili, Joud; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_dilemma_of_incidental_findings_in_abdominal.146.aspx)
+
+**[The relationship between oxytocin levels with empathy and breastfeeding intention in](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_relationship_between_oxytocin_levels_with.159.aspx)**
+**[female medical students: A cross-sectional study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_relationship_between_oxytocin_levels_with.159.aspx)**
+
+Permatasari, Tria Astika Endah; Syafruddin, Amir
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_relationship_between_oxytocin_levels_with.159.aspx)
+
+**[The inclination of undergraduate students at King Edward Medical University towards](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_inclination_of_undergraduate_students_at_King.173.aspx)**
+**[research and its perceived barriers and facilitators; a cross-sectional study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_inclination_of_undergraduate_students_at_King.173.aspx)**
+
+Fida, Tooba; ul abiddin, Zain; Yasin, Fatima; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_inclination_of_undergraduate_students_at_King.173.aspx)
+
+**[Perception of primary caregiver toward virtual pediatric clinics for type 1 diabetes](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Perception_of_primary_caregiver_toward_virtual.199.aspx)**
+**[mellitus during COVID-19 pandemic in Jeddah, Saudi Arabia: A cross-sectional study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Perception_of_primary_caregiver_toward_virtual.199.aspx)**
+
+Alzahrani, Abdullah M.; Magliah, Sultan F.; Turkistani, Haneen A.; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Perception_of_primary_caregiver_toward_virtual.199.aspx)
+
+**[Patient experience and decisional satisfaction with the informed consent process for](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Patient_experience_and_decisional_satisfaction.200.aspx)**
+**[elective gynecologic surgeries: A cross-sectional study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Patient_experience_and_decisional_satisfaction.200.aspx)**
+
+de Guzman, Glaiza S.; Amosco, Melissa D.L.
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Patient_experience_and_decisional_satisfaction.200.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Cohort Study**
+
+**[Analysis of hepatic markers and lipid profile of patients submitted to gastric by-pass](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Analysis_of_hepatic_markers_and_lipid_profile_of.4.aspx)**
+**[after 2 years – Cohort retrospective](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Analysis_of_hepatic_markers_and_lipid_profile_of.4.aspx)**
+
+Pedron, Flaviana Freitas; de Moura, Deise Silva; Calcing, Aline; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Analysis_of_hepatic_markers_and_lipid_profile_of.4.aspx)
+
+**[Trans-pedal access for endovascular revascularization in complex infra-popliteal](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Trans_pedal_access_for_endovascular.5.aspx)**
+
+**[lesions in critically ischemic limb: A cohort study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Trans_pedal_access_for_endovascular.5.aspx)**
+
+Abdelgawad, Mohamed S.; Wahba, Adel; Elshafie, Amr M.; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Trans_pedal_access_for_endovascular.5.aspx)
+
+**[Evaluation of mini-PCNL and RIRS for renal stones 1–2 cm in an economically](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Evaluation_of_mini_PCNL_and_RIRS_for_renal_stones.12.aspx)**
+**[challenged setting: A prospective cohort study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Evaluation_of_mini_PCNL_and_RIRS_for_renal_stones.12.aspx)**
+
+Mahmood, Sarwar Noori; Ahmed, Choman J.; Tawfeeq, Hewa; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Evaluation_of_mini_PCNL_and_RIRS_for_renal_stones.12.aspx)
+
+**[A retrospective cohort report of single-incision laparoscopic cholecystectomies in Saudi](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/A_retrospective_cohort_report_of_single_incision.13.aspx)**
+**[Arabia: Postoperative outcomes and patient satisfaction](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/A_retrospective_cohort_report_of_single_incision.13.aspx)**
+
+Terro, Khalil; Baroudi, Mohanad; Alsaoud, Rawan; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/A_retrospective_cohort_report_of_single_incision.13.aspx)
+
+**[Is cancer significant comorbid condition in COVID 19 infected patients? -A retrospective](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Is_cancer_significant_comorbid_condition_in_COVID.15.aspx)**
+**[analysis experienced in a tertiary care center in Eastern India](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Is_cancer_significant_comorbid_condition_in_COVID.15.aspx)**
+
+Mukherjee, Kalyan K.; Dam, Aniruddha; Chakrabarti, Deepa; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Is_cancer_significant_comorbid_condition_in_COVID.15.aspx)
+
+**[Choice of medicine program: A single-institution study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Choice_of_medicine_program__A_single_institution.91.aspx)**
+
+Ikram, Nadeem; Mousa, Ahmed Hafez; Alshanberi, Asim Muhammad; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Choice_of_medicine_program__A_single_institution.91.aspx)
+
+**[Effect of primary balloon angioplasty on draining vein diameter and volume flow in](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effect_of_primary_balloon_angioplasty_on_draining.106.aspx)**
+**[patients with arteriovenous fistula: A cohort study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effect_of_primary_balloon_angioplasty_on_draining.106.aspx)**
+
+Suhartono, R.; Suhendro, ; Rahardjo, Harrina Erlianti; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effect_of_primary_balloon_angioplasty_on_draining.106.aspx)
+
+**[COVID-19 effects on operating room cancellations at a pediatric tertiary care hospital: A](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/COVID_19_effects_on_operating_room_cancellations.107.aspx)**
+**[retrospective cohort study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/COVID_19_effects_on_operating_room_cancellations.107.aspx)**
+
+Jiang, Wen; Carvalho, Daniela
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/COVID_19_effects_on_operating_room_cancellations.107.aspx)
+
+**[The quality of life of parents of children with down syndrome in a tertiary care hospital:](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_quality_of_life_of_parents_of_children_with.108.aspx)**
+**[A qualitative research study at Saudi Arabia](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_quality_of_life_of_parents_of_children_with.108.aspx)**
+
+AlAhmari, Fatimah Saeed; Alageel, Ahmed Fawzi; Aldosari, Maha Abdullah; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_quality_of_life_of_parents_of_children_with.108.aspx)
+
+**[Intratympanic injection of dexamethasone for management of labyrinthitis associated](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Intratympanic_injection_of_dexamethasone_for.109.aspx)**
+**[with COVID-19 disease resistant cases](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Intratympanic_injection_of_dexamethasone_for.109.aspx)**
+
+Ismaiel, Wael F.; Abdelazim, Mohamed H.; Wahba, Ashraf A.; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Intratympanic_injection_of_dexamethasone_for.109.aspx)
+
+**[A retrospective cohort study of bladder cancer following the COVID-19 pandemic: Are](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/A_retrospective_cohort_study_of_bladder_cancer.110.aspx)**
+**[patients presenting with more aggressive disease?](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/A_retrospective_cohort_study_of_bladder_cancer.110.aspx)**
+
+Anderson, Steven; Rigney, Kate; Hayes, Leah; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/A_retrospective_cohort_study_of_bladder_cancer.110.aspx)
+
+**[Investigation of the clinical features and recurrence patterns of acute right-sided](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Investigation_of_the_clinical_features_and.111.aspx)**
+**[colonic diverticulitis: A retrospective cohort study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Investigation_of_the_clinical_features_and.111.aspx)**
+
+Oh, Moon Young; Shin, Rumi; Heo, Seung Chul; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Investigation_of_the_clinical_features_and.111.aspx)
+
+**[Outcomes of laparoscopic repair in complicated groin hernia: A single institutional](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Outcomes_of_laparoscopic_repair_in_complicated.142.aspx)**
+**[based cohort study in Nepal](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Outcomes_of_laparoscopic_repair_in_complicated.142.aspx)**
+
+Khanal, Bhawani; Agrawal, Sunit; Adhikari, SashiShekhar; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Outcomes_of_laparoscopic_repair_in_complicated.142.aspx)
+
+**[Short term recurrence and survival rate of breast cancer patients post surgical](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Short_term_recurrence_and_survival_rate_of_breast.209.aspx)**
+**[treatment; north borneo experience](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Short_term_recurrence_and_survival_rate_of_breast.209.aspx)**
+
+Kumilau, Raynee; Hayati, Firdaus; Liew, Jerry ES.; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Short_term_recurrence_and_survival_rate_of_breast.209.aspx)
+
+**[Diagnostic accuracy of Alvarado scoring system relative to histopathological diagnosis](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Diagnostic_accuracy_of_Alvarado_scoring_system.210.aspx)**
+**[for acute appendicitis: A retrospective cohort study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Diagnostic_accuracy_of_Alvarado_scoring_system.210.aspx)**
+
+Naeem, Muhammad Tayyab; Jamil, Muhammad Amir; Anwar, Muhammad Imran; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Diagnostic_accuracy_of_Alvarado_scoring_system.210.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Review**
+
+**[Children in detention amidst COVID-19 in Africa: A wound untreated](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Children_in_detention_amidst_COVID_19_in_Africa__A.6.aspx)**
+
+Ahmad, Shahzaib; Aborode, Abdullahi Tunde; Oluwatomisin, Sanni Lateefat; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Children_in_detention_amidst_COVID_19_in_Africa__A.6.aspx)
+
+**[Landscape, barriers, and facilitators of scientific productivity in schizophrenia research](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Landscape,_barriers,_and_facilitators_of.31.aspx)**
+**[in Southeast Asia: A bibliometric analysis](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Landscape,_barriers,_and_facilitators_of.31.aspx)**
+
+Uy, Mary Nadine Alessandra R.; Tantengco, Ourlad Alzeus G.
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Landscape,_barriers,_and_facilitators_of.31.aspx)
+
+**[Acute hepatitis of unknown origin in Europe—Adding fuel to already burning pandemic](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Acute_hepatitis_of_unknown_origin_in_Europe_Adding.75.aspx)**
+
+Tahir, Maliha; Lund, Sejal; Hamdana, Amatul Hadi; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Acute_hepatitis_of_unknown_origin_in_Europe_Adding.75.aspx)
+
+**[Hyperoxia in the management of respiratory failure: A literature review](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Hyperoxia_in_the_management_of_respiratory.76.aspx)**
+
+Lius, Elvina Elizabeth; Syafaah, Irmi
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Hyperoxia_in_the_management_of_respiratory.76.aspx)
+
+**[Congenital talipes equinovarus: A literature review](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Congenital_talipes_equinovarus__A_literature.77.aspx)**
+
+Mustari, Nasser M.; Faruk, Muhammad; Bausat, Arman; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Congenital_talipes_equinovarus__A_literature.77.aspx)
+
+**[Elective surgeries during and after the COVID-19 pandemic: Case burden and physician](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Elective_surgeries_during_and_after_the_COVID_19.78.aspx)**
+**[shortage concerns](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Elective_surgeries_during_and_after_the_COVID_19.78.aspx)**
+
+Mehta, Aashna; Awuah, Wireko Andrew; Ng, Jyi Cheng; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Elective_surgeries_during_and_after_the_COVID_19.78.aspx)
+
+**[A review on acute, severe hepatitis of unknown origin in children: A call for concern](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/A_review_on_acute,_severe_hepatitis_of_unknown.134.aspx)**
+
+Uwishema, Olivier; Mahmoud, Ashraf; Wellington, Jack; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/A_review_on_acute,_severe_hepatitis_of_unknown.134.aspx)
+
+**[SARS-CoV-2 vaccination and uveitis: Are they linked?](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/SARS_CoV_2_vaccination_and_uveitis__Are_they.147.aspx)**
+
+Waseem, Summaiyya; Ahmed, Syed Hassan; Fatima, Sharmeen; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/SARS_CoV_2_vaccination_and_uveitis__Are_they.147.aspx)
+
+**[Effect of MLC901 on MIR30C–5P expression, TGF-B expression, VEGF receptor](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effect_of_MLC901_on_MIR30C_5P_expression,_TGF_B.162.aspx)**
+**[expression, degree of axon demyelination and changes in neuropathic pain behaviour](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effect_of_MLC901_on_MIR30C_5P_expression,_TGF_B.162.aspx)**
+**[in experimental animals experiencing neuropathic pain with circumferential spinal](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effect_of_MLC901_on_MIR30C_5P_expression,_TGF_B.162.aspx)**
+**[stenosis method](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effect_of_MLC901_on_MIR30C_5P_expression,_TGF_B.162.aspx)**
+
+Priyanto, Bambang; Islam, Andi Asadul; Hatta, Mochammad; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effect_of_MLC901_on_MIR30C_5P_expression,_TGF_B.162.aspx)
+
+**[Management of lymph nodes in medullary thyroid carcinoma: A review](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Management_of_lymph_nodes_in_medullary_thyroid.191.aspx)**
+
+Shaghaghi, Ali; Salari, Abolfazl; Jalaeefar, Amirmohsen; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Management_of_lymph_nodes_in_medullary_thyroid.191.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Systematic Review / Meta-analysis**
+
+**[Contributing factors to pediatric COVID-19 and MIS-C during the initial waves: A](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Contributing_factors_to_pediatric_COVID_19_and.9.aspx)**
+**[systematic review of 92 case reports](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Contributing_factors_to_pediatric_COVID_19_and.9.aspx)**
+
+Sarfraz, Muzna; Sarfraz, Azza; Sarfraz, Zouina; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Contributing_factors_to_pediatric_COVID_19_and.9.aspx)
+
+**[Comparative efficacy and safety of holmium laser enucleation of the prostate (HoLEP)](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Comparative_efficacy_and_safety_of_holmium_laser.17.aspx)**
+**[using moses technology and standard HoLEP: A systematic review, meta-analysis, and](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Comparative_efficacy_and_safety_of_holmium_laser.17.aspx)**
+**[meta-regression](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Comparative_efficacy_and_safety_of_holmium_laser.17.aspx)**
+
+Ramadhani, Muhammad Zaniar; Kloping, Yudhistira Pradnyan; Rahman, Ilham Akbar; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Comparative_efficacy_and_safety_of_holmium_laser.17.aspx)
+
+**[Prognostic value of neutrophil-to-lymphocyte ratio (NLR) in penile cancer: A systematic](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Prognostic_value_of_neutrophil_to_lymphocyte_ratio.34.aspx)**
+**[review and meta-analysis](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Prognostic_value_of_neutrophil_to_lymphocyte_ratio.34.aspx)**
+
+Saputra, Haviv Muris; Hidayatullah, Furqan; Kloping, Yudhistira Pradnyan; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Prognostic_value_of_neutrophil_to_lymphocyte_ratio.34.aspx)
+
+**[Quality of life after extraction of mandibular wisdom teeth: A systematic review](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Quality_of_life_after_extraction_of_mandibular.70.aspx)**
+
+Hallab, Lamiae; Azzouzi, Asma; Chami, Bassima
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Quality_of_life_after_extraction_of_mandibular.70.aspx)
+
+**[In vivo and in vitro inhibition effect of propolis onKlebsiella pneumonia](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/In_vivo_and_in_vitro_inhibition_effect_of_propolis.71.aspx)** **e** **[: A review](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/In_vivo_and_in_vitro_inhibition_effect_of_propolis.71.aspx)**
+
+Taufik, Feni Fitriani; Natzir, Rosdiana; Patellongi, Ilhamjaya; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/In_vivo_and_in_vitro_inhibition_effect_of_propolis.71.aspx)
+
+**[Is there a need to be worried about the new monkeypox virus outbreak? A brief review](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Is_there_a_need_to_be_worried_about_the_new.79.aspx)**
+**[on the monkeypox outbreak](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Is_there_a_need_to_be_worried_about_the_new.79.aspx)**
+
+Shaheen, Nour; Diab, Rehab Adel; Meshref, Mostafa; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - PDF
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Is_there_a_need_to_be_worried_about_the_new.79.aspx)
+
+**[Effectiveness of endovascular repair versus open surgery for the treatment of](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effectiveness_of_endovascular_repair_versus_open.152.aspx)**
+**[thoracoabdominal aneurysm: A systematic review and meta analysis](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effectiveness_of_endovascular_repair_versus_open.152.aspx)**
+
+Ellahi, Aayat; Shaikh, Fahd Niaz; Kashif, Haider; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Effectiveness_of_endovascular_repair_versus_open.152.aspx)
+
+**[Perioperative management of the thyrotoxic patients: A systematic review](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Perioperative_management_of_the_thyrotoxic.160.aspx)**
+
+Terefe, Misganew; Bizuneh, Yosef Belay; Nigatu, Yonas Addisu; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Perioperative_management_of_the_thyrotoxic.160.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Perspective**
+
+**[Measles outbreak in sub-Saharan Africa amidst COVID-19: A rising concern, efforts,](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Measles_outbreak_in_sub_Saharan_Africa_amidst.16.aspx)**
+**[challenges, and future recommendations](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Measles_outbreak_in_sub_Saharan_Africa_amidst.16.aspx)**
+
+Nchasi, Goodluck; Paul, Innocent Kitandu; Sospeter, Sospeter Berling; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Measles_outbreak_in_sub_Saharan_Africa_amidst.16.aspx)
+
+**[Cholera outbreak amidst urban flooding in Karachi: An emergency condition](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Cholera_outbreak_amidst_urban_flooding_in_Karachi_.52.aspx)**
+
+Taseen, Shafaq; Jawed, Sara; Ameen, Aqleema Mohammad
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Cholera_outbreak_amidst_urban_flooding_in_Karachi_.52.aspx)
+
+**[Increasing challenges of malaria control in sub-Saharan Africa: Priorities for public](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Increasing_challenges_of_malaria_control_in.53.aspx)**
+**[health research and policymakers](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Increasing_challenges_of_malaria_control_in.53.aspx)**
+
+Oladipo, Habeebullah Jayeola; Tajudeen, Yusuf Amuda; Oladunjoye, Iyiola Olatunji; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Increasing_challenges_of_malaria_control_in.53.aspx)
+
+**[High-altitude illness: Menace in Himalayas of Nepal](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/High_altitude_illness__Menace_in_Himalayas_of.166.aspx)**
+
+Lamichhane, Saral; Ghimire, Ishwor; Pokhrel, Amrit; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/High_altitude_illness__Menace_in_Himalayas_of.166.aspx)
+
+**[Should we predict poor prognosis in autotransplantation of teeth with completed root](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Should_we_predict_poor_prognosis_in.172.aspx)**
+**[formation?](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Should_we_predict_poor_prognosis_in.172.aspx)**
+
+Al-Khanati, Nuraldeen Maher; Beit, Zafin Kara
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Should_we_predict_poor_prognosis_in.172.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Policy Review**
+
+**[Vaping and smokeless tobacco control in South Asia: A policy review](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Vaping_and_smokeless_tobacco_control_in_South.18.aspx)**
+
+Azeem, Nishwa; Sarfraz, Zouina; Sarfraz, Azza; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Vaping_and_smokeless_tobacco_control_in_South.18.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Experimental Research**
+
+**[The effect of plastic tape seal to reduce face seal leak in respirator N-95 type 1860](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_effect_of_plastic_tape_seal_to_reduce_face.19.aspx)**
+
+Reksodiputro, Mirta Hediyati; Priyono, Harim; Wibowo, Luthfi Ari; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_effect_of_plastic_tape_seal_to_reduce_face.19.aspx)
+
+**[Antibacterial effects and cellular mechanisms of iron oxide magnetic nanoparticles](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Antibacterial_effects_and_cellular_mechanisms_of.21.aspx)**
+**[coated by piroctone olamine against some cariogenic bacteria](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Antibacterial_effects_and_cellular_mechanisms_of.21.aspx)**
+
+Ghorbanizadeh, Sajad; Karami, Fatemeh; Delfani, Somayeh; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Antibacterial_effects_and_cellular_mechanisms_of.21.aspx)
+
+**[The role of diphenhydramine HCl on tumor necrosis factor-α levels in wistar rats with](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_role_of_diphenhydramine_HCl_on_tumor_necrosis.81.aspx)**
+**[traumatic brain injury: An in vivo study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_role_of_diphenhydramine_HCl_on_tumor_necrosis.81.aspx)**
+
+Kurniawan, Venansius Ratno; Islam, Andi Asadul; Adhimarta, Willy; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_role_of_diphenhydramine_HCl_on_tumor_necrosis.81.aspx)
+
+**[Stem cell therapy for type1 diabetes with transplantation of stem cells into the Omental](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Stem_cell_therapy_for_type1_diabetes_with.144.aspx)**
+**[pouch, peritoneum, and blood, experimental study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Stem_cell_therapy_for_type1_diabetes_with.144.aspx)**
+
+Jawale, Sagar
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - PDF
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Stem_cell_therapy_for_type1_diabetes_with.144.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Quality Improvement Study**
+
+**[Impact of a same day admission project in reducing the preoperative bed occupancy](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Impact_of_a_same_day_admission_project_in_reducing.25.aspx)**
+**[demand in a pediatric inpatient hospital](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Impact_of_a_same_day_admission_project_in_reducing.25.aspx)**
+
+Almutairi, Anqaa; Alkhalaf, Hamad; Caswell, Angela; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Impact_of_a_same_day_admission_project_in_reducing.25.aspx)
+
+**[Surgical safety checklist compliance: The clinical audit](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Surgical_safety_checklist_compliance__The_clinical.80.aspx)**
+
+Gul, Fahad; Nazir, Maheen; Abbas, Khawar; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Surgical_safety_checklist_compliance__The_clinical.80.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Correspondence**
+
+**[Advancing surgical setting: A paradigm for healthcare workers during the monkeypox](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Advancing_surgical_setting__A_paradigm_for.37.aspx)**
+**[outbreak](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Advancing_surgical_setting__A_paradigm_for.37.aspx)**
+
+Teymouri Athar, Mohammad Mobin; Sarvipour, Nastaran; Shafiee, Arman
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Advancing_surgical_setting__A_paradigm_for.37.aspx)
+
+**[Clinical outcomes of fasting in patients with chronic heart failure with preserved](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Clinical_outcomes_of_fasting_in_patients_with.56.aspx)**
+**[ejection fraction: A prospective analysis](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Clinical_outcomes_of_fasting_in_patients_with.56.aspx)**
+
+Alam, Shafiq; Hussain, Shoukat; Abbas, Jawad; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Clinical_outcomes_of_fasting_in_patients_with.56.aspx)
+
+**[Cholera outbreak amidst an economic crisis and Covid-19 pandemic in Pakistan](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Cholera_outbreak_amidst_an_economic_crisis_and.57.aspx)**
+
+Tabassum, Shehroze; Naeem, Aroma; Iqbal, Haris; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Cholera_outbreak_amidst_an_economic_crisis_and.57.aspx)
+
+**[Robotics in surgery: Current trends](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Robotics_in_surgery__Current_trends.58.aspx)**
+
+Chopra, Hitesh; Baig, Atif Amin; Cavalu, Simona; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Robotics_in_surgery__Current_trends.58.aspx)
+
+**[Coronavirus pandemic and pregnant mothers](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Coronavirus_pandemic_and_pregnant_mothers.59.aspx)**
+
+Khezri, Rozhan; Shojaie, Layla; Nikbakht, Hossein-Ali; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Coronavirus_pandemic_and_pregnant_mothers.59.aspx)
+
+**[The discrepancy of Crimean-Congo hemorrhagic fever-related tick vectors: An urgent](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_discrepancy_of_Crimean_Congo_hemorrhagic.92.aspx)**
+**[need for boosted surveillance](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_discrepancy_of_Crimean_Congo_hemorrhagic.92.aspx)**
+
+Keikha, Masoud
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_discrepancy_of_Crimean_Congo_hemorrhagic.92.aspx)
+
+**[BA.5 and Monkeypox: A wakeup call for public health in Pakistan](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/BA_5_and_Monkeypox__A_wakeup_call_for_public.93.aspx)**
+
+Islam, Muhammad Bilal; Jawed, Shizra; Zeeshan, Muhammad Hamayl
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/BA_5_and_Monkeypox__A_wakeup_call_for_public.93.aspx)
+
+**[Challenges of addressing neglected tropical diseases amidst the COVID-19 pandemic in](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Challenges_of_addressing_neglected_tropical.94.aspx)**
+**[Africa: A case of Chagas Disease](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Challenges_of_addressing_neglected_tropical.94.aspx)**
+
+Pradhan, Aishwarya Umesh; Uwishema, Olivier; Wellington, Jack; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Challenges_of_addressing_neglected_tropical.94.aspx)
+
+**[Chikungunya, zika, and dengue: Three neglected re-emerging Aedes-borne diseases](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Chikungunya,_zika,_and_dengue__Three_neglected.95.aspx)**
+
+Karbalaei, Mohsen; Keikha, Masoud
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Chikungunya,_zika,_and_dengue__Three_neglected.95.aspx)
+
+**[Epidemiological trends o](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Epidemiological_trends_ofAedes_borne_diseases_in.96.aspx)** **f** **[Aedes-borne diseases in European countries during](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Epidemiological_trends_ofAedes_borne_diseases_in.96.aspx)**
+
+**[2015–2020](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Epidemiological_trends_ofAedes_borne_diseases_in.96.aspx)**
+
+Karbalaei, Mohsen; Keikha, Masoud
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Epidemiological_trends_ofAedes_borne_diseases_in.96.aspx)
+
+**[Public health emergencies of international concernin the 21st century](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Public_health_emergencies_of_international.97.aspx)**
+
+Sah, Ranjit; Reda, Abdullah; Lashin, Basant Ismail; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  -  Favorite
+
+  - PDF
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Public_health_emergencies_of_international.97.aspx)
+
+**[Anthrax outbreak amidst the COVID-19 pandemic in Africa: Challenges and possible](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Anthrax_outbreak_amidst_the_COVID_19_pandemic_in.98.aspx)**
+**[solutions](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Anthrax_outbreak_amidst_the_COVID_19_pandemic_in.98.aspx)**
+
+Badri, Rawa; Uwishema, Olivier; Wellington, Jack; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Anthrax_outbreak_amidst_the_COVID_19_pandemic_in.98.aspx)
+
+**[The resurfacing of hand, foot, and mouth disease: Are we on the verge of another](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_resurfacing_of_hand,_foot,_and_mouth_disease_.99.aspx)**
+**[epidemic?](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_resurfacing_of_hand,_foot,_and_mouth_disease_.99.aspx)**
+
+Farahat, Ramadan Abdelmoez; Shaheen, Nour; Kundu, Mrinmoy; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_resurfacing_of_hand,_foot,_and_mouth_disease_.99.aspx)
+
+**[The future of robotic surgery for inflammatory bowel diseases](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_future_of_robotic_surgery_for_inflammatory.151.aspx)**
+
+Gul, Fahad; Kazmi, Syed Naqash Haider; Abbas, Khawar; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_future_of_robotic_surgery_for_inflammatory.151.aspx)
+
+**[Dostarlimab: The miracle drug for the treatment of colorectal cancer](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Dostarlimab__The_miracle_drug_for_the_treatment_of.165.aspx)**
+
+Shuvo, Pollob Ahmed; Tahsin, Anika; Rahman, Md. Mominur; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Dostarlimab__The_miracle_drug_for_the_treatment_of.165.aspx)
+
+**[Wastewater surveillance in Pakistan: Preventing future epidemics](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Wastewater_surveillance_in_Pakistan__Preventing.167.aspx)**
+
+Marfani, Wajeeha Bilal; Vohra, Laiba Imran; Sahito, Abdul Moiz; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Wastewater_surveillance_in_Pakistan__Preventing.167.aspx)
+
+**[Suicide in Egypt: Should it Be prevented or disregarded?](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Suicide_in_Egypt__Should_it_Be_prevented_or.168.aspx)**
+
+Farahat, Ramadan Abdelmoez; Shaheen, Nour; Abdelazeem, Basel
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Suicide_in_Egypt__Should_it_Be_prevented_or.168.aspx)
+
+**[The art of prevention and advocacy: A virtual art exhibition for the European Week](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_art_of_prevention_and_advocacy__A_virtual_art.169.aspx)**
+**[Against Cancer amid the pandemic](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_art_of_prevention_and_advocacy__A_virtual_art.169.aspx)**
+
+Tsagkaris, Christos; Gozderesi, Yakup; Barlassina, Adele; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_art_of_prevention_and_advocacy__A_virtual_art.169.aspx)
+
+**[Climate change and its implications on health and the healthcare system: A perspective](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Climate_change_and_its_implications_on_health_and.176.aspx)**
+**[from Pakistan](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Climate_change_and_its_implications_on_health_and.176.aspx)**
+
+Riaz, Kainat; Ahmad, Mohammad; Gul, Saqib; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Climate_change_and_its_implications_on_health_and.176.aspx)
+
+**[Monkeypox: A potential pandemic at door of Asia](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Monkeypox__A_potential_pandemic_at_door_of_Asia.177.aspx)**
+
+Sah, Ranjit; Mohanty, Aroop; Reda, Abdullah; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Monkeypox__A_potential_pandemic_at_door_of_Asia.177.aspx)
+
+**[Suicide prevention in Bangladesh: Hope and hype](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Suicide_prevention_in_Bangladesh__Hope_and_hype.178.aspx)**
+
+Farahat, Ramadan Abdelmoez; Kadir, Shafiul A.K.M.
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Suicide_prevention_in_Bangladesh__Hope_and_hype.178.aspx)
+
+**[The emergence of tomato flu: Another pandemic in making?](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_emergence_of_tomato_flu__Another_pandemic_in.185.aspx)**
+
+Kundu, Mrinmoy; Ghosh, Shankhaneel; Das, Soumyajit
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_emergence_of_tomato_flu__Another_pandemic_in.185.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Articles**
+
+**[Impact of water insecurity amidst endemic and pandemic in Pakistan: Two tales](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Impact_of_water_insecurity_amidst_endemic_and.39.aspx)**
+**[unsolved](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Impact_of_water_insecurity_amidst_endemic_and.39.aspx)**
+
+Ahmad, Shahzaib; Zahra, Jaudat; Ali, Mohsan; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Impact_of_water_insecurity_amidst_endemic_and.39.aspx)
+
+**[Delivering quality health care to people in low-income countries such as Pakistan; the](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Delivering_quality_health_care_to_people_in.163.aspx)**
+**[clear link between AMR and UHC](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Delivering_quality_health_care_to_people_in.163.aspx)**
+
+Muzzamil, Muhammad; Hasan, Mohammad Mehedi; Nisa, Maryam; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Delivering_quality_health_care_to_people_in.163.aspx)
+
+**[Targeting the wrong enemies: Monkeys are not responsible for the current outbreak of](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Targeting_the_wrong_enemies__Monkeys_are_not.183.aspx)**
+**[monkeypox](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Targeting_the_wrong_enemies__Monkeys_are_not.183.aspx)**
+
+Oladipo, Habeebullah Jayeola; Tajudeen, Yusuf Amuda; Inaolaji, Yusuff Sodiq; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Targeting_the_wrong_enemies__Monkeys_are_not.183.aspx)
+
+**[Covid re-emergence: Do we have to mask up again?](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Covid_re_emergence__Do_we_have_to_mask_up_again_.192.aspx)**
+
+Basit, Jawad; Fatima, Sumia; Akbar, Usman Ali; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Covid_re_emergence__Do_we_have_to_mask_up_again_.192.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Commentary**
+
+**[Marburg virus outbreak in Ghana: An impending crisis](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Marburg_virus_outbreak_in_Ghana__An_impending.60.aspx)**
+
+Wellington, Jack; Nur, Ayça; Nicholas, Aderinto; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Marburg_virus_outbreak_in_Ghana__An_impending.60.aspx)
+
+**[Behind the curtain: Workplace violence against nurses in Pakistan](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Behind_the_curtain__Workplace_violence_against.61.aspx)**
+
+Khan, Imaan Ghalib; Abbas, Soha; Waseem, Summaiyya
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Behind_the_curtain__Workplace_violence_against.61.aspx)
+
+**[The possibility of the emergence of Crimean-Congo virus cases during Eid ul Adha: A](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_possibility_of_the_emergence_of_Crimean_Congo.62.aspx)**
+**[troubling situation during a blessed festival](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_possibility_of_the_emergence_of_Crimean_Congo.62.aspx)**
+
+Sahito, Abdul Moiz; Mir, Syeda Lamiya; Waseem, Maria; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_possibility_of_the_emergence_of_Crimean_Congo.62.aspx)
+
+**[Maternal mortality in Pakistan: Challenges, efforts, and recommendations](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Maternal_mortality_in_Pakistan__Challenges,.63.aspx)**
+
+Shaeen, Sean Kaisser; Tharwani, Zoaib Habib; Bilal, Wajeeha; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Maternal_mortality_in_Pakistan__Challenges,.63.aspx)
+
+**[Monkeypox during COVID-19 era in Africa: Current challenges and recommendations](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Monkeypox_during_COVID_19_era_in_Africa__Current.64.aspx)**
+
+Okonji, Osaretin Christabel; Okonji, Emeka Francis
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Monkeypox_during_COVID_19_era_in_Africa__Current.64.aspx)
+
+**[The outbreak of Crimean-Congo hemorrhagic fever in Iraq - Challenges and way](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_outbreak_of_Crimean_Congo_hemorrhagic_fever_in.65.aspx)**
+**[forward](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_outbreak_of_Crimean_Congo_hemorrhagic_fever_in.65.aspx)**
+
+Jafar, Uzair; Usman, Muhammad; Ehsan, Muhammad; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_outbreak_of_Crimean_Congo_hemorrhagic_fever_in.65.aspx)
+
+**[Resurgence of the COVID-19 cases in Northern Afghanistan: Are we closer to fifth wave?](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Resurgence_of_the_COVID_19_cases_in_Northern.66.aspx)**
+
+Asady, Abdullah; Sediqi, Mohammad Faiq; Shirzada, Haseebullah; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Resurgence_of_the_COVID_19_cases_in_Northern.66.aspx)
+
+**[Undergraduate students’ involvement in research: Values, benefits, barriers and](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Undergraduate_students__involvement_in_research_.67.aspx)**
+**[recommendations](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Undergraduate_students__involvement_in_research_.67.aspx)**
+
+Adebisi, Yusuff Adebayo
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Undergraduate_students__involvement_in_research_.67.aspx)
+
+**[Prospects of malaria vaccination in Nigeria: Anticipated challenges and lessons from](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Prospects_of_malaria_vaccination_in_Nigeria_.68.aspx)**
+**[previous vaccination campaigns](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Prospects_of_malaria_vaccination_in_Nigeria_.68.aspx)**
+
+Effiong, Fortune Benjamin; Makata, Victor Chisom; Elebesunu, Emmanuel Ebuka; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Prospects_of_malaria_vaccination_in_Nigeria_.68.aspx)
+
+**[Accessing Mental Health Services in Africa: Current state, efforts, challenges and](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Accessing_Mental_Health_Services_in_Africa_.101.aspx)**
+**[recommendation](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Accessing_Mental_Health_Services_in_Africa_.101.aspx)**
+
+Nicholas, Aderinto; Joshua, Opanike; Elizabeth, Oladipo
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Accessing_Mental_Health_Services_in_Africa_.101.aspx)
+
+**[Diabetes and depression in Africa: Causality, relationship and clinical implications](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Diabetes_and_depression_in_Africa__Causality,.102.aspx)**
+
+Olaoye, Damilola Quazeem; Amusile, Olayemi; Tonuewa, Sejoro Sehubo; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Diabetes_and_depression_in_Africa__Causality,.102.aspx)
+
+**[Neglecting antibiotic stewardship in prisons: A concern for antimicrobial resistance](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Neglecting_antibiotic_stewardship_in_prisons__A.103.aspx)**
+
+**[response](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Neglecting_antibiotic_stewardship_in_prisons__A.103.aspx)**
+
+Adebisi, Yusuff Adebayo; Jimoh, Nafisat Dasola; Faid, Adeleke Adekunle; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Neglecting_antibiotic_stewardship_in_prisons__A.103.aspx)
+
+**[Malaria in Afghanistan: Challenges, efforts and recommendations](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Malaria_in_Afghanistan__Challenges,_efforts_and.104.aspx)**
+
+Siddiqui, Javeria Arif; Aamar, Humna; Siddiqui, Amna; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Malaria_in_Afghanistan__Challenges,_efforts_and.104.aspx)
+
+**[Digital health and telemedicine in Pakistan: Improving maternal healthcare](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Digital_health_and_telemedicine_in_Pakistan_.105.aspx)**
+
+Bilal, Wajeeha; Qamar, Khulud; Siddiqui, Amna; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Digital_health_and_telemedicine_in_Pakistan_.105.aspx)
+
+**[The rise in HIV cases in Pakistan: Prospective implications and approaches](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_rise_in_HIV_cases_in_Pakistan__Prospective.164.aspx)**
+
+Marfani, Wajeeha Bilal; Khan, Hira Anas; Sadiq, Mahnoor; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/The_rise_in_HIV_cases_in_Pakistan__Prospective.164.aspx)
+
+**[Mental health impacts of earthquake on Afghans amidst humanitarian crisis](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Mental_health_impacts_of_earthquake_on_Afghans.184.aspx)**
+
+Hussaini, Sayed Jawad; Ali, Syed Hasham; Rahmat, Zainab Syyeda; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Mental_health_impacts_of_earthquake_on_Afghans.184.aspx)
+
+**[Transcriptomics and the hunt for Disease X; A view point from Ebola and COVID-19](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Transcriptomics_and_the_hunt_for_Disease_X__A_view.201.aspx)**
+**[outbreaks](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Transcriptomics_and_the_hunt_for_Disease_X__A_view.201.aspx)**
+
+Siddiqui, Amna; Adnan, Alishba
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+|Favorite|Col2|
+|---|---|
+|PDF||
+
+
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Transcriptomics_and_the_hunt_for_Disease_X__A_view.201.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Case-controlled Study**
+
+**[Obstetrics mortality and associated factors in intensive care unit of Addis Ababa public](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Obstetrics_mortality_and_associated_factors_in.135.aspx)**
+**[hospital in, 2020/21: A hospital based case control study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Obstetrics_mortality_and_associated_factors_in.135.aspx)**
+
+Tasew, Asaminew; Melese, Eyayalem; Jemal, Suleman; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Obstetrics_mortality_and_associated_factors_in.135.aspx)
+
+**[Pre-Cerclage cervical length predicts long-term pregnancy sustenance: A case-control](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Pre_Cerclage_cervical_length_predicts_long_term.143.aspx)**
+**[study](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Pre_Cerclage_cervical_length_predicts_long_term.143.aspx)**
+
+Kondo, Emi; Shibata, Eiji; Sakuragi, Toshihide; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Pre_Cerclage_cervical_length_predicts_long_term.143.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+###### **Case Series**
+
+**[Study of variation glycated haemoglobin in diabetic patients using PCA method. Case](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Study_of_variation_glycated_haemoglobin_in.136.aspx)**
+**[study: Moroccan eastern region](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Study_of_variation_glycated_haemoglobin_in.136.aspx)**
+
+Oujidi, Wissale; Sekhsoukh, Rachid; Harrar, Youssef; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Study_of_variation_glycated_haemoglobin_in.136.aspx)
+
+**[Intra-abdominal cystic lymphangioma in adults: A case series of 32 patients and](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Intra_abdominal_cystic_lymphangioma_in_adults__A.137.aspx)**
+**[literature review](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Intra_abdominal_cystic_lymphangioma_in_adults__A.137.aspx)**
+
+Maghrebi, Houcine; Yakoubi, Chaima; Beji, Hazem; More
+
+Annals of Medicine & Surgery. 81:, September 2022.
+
+  - [](javascript:void(0);) [Abstract](javascript:void(0);)
+
+  - [Permissions](javascript:)
+
+  - [Free](https://journals.lww.com/annals-of-medicine-and-surgery/Fulltext/2022/09000/Intra_abdominal_cystic_lymphangioma_in_adults__A.137.aspx)
+
+[Table of Contents Outline | Back to Top](javascript:anavShowTOC();)
+
+  
+  - [1](javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl28$g_4cf81fc1_6d28_491e_94de_690e9fe4ceeb$ctl03$listItemActionToolbarControlBottom$pagingControl$pagingControl$pageno1", "", true, "", "", false, true)))
+
+  - [2](javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl28$g_4cf81fc1_6d28_491e_94de_690e9fe4ceeb$ctl03$listItemActionToolbarControlBottom$pagingControl$pagingControl$pageno2", "", true, "", "", false, true)))
+
+[• 3](javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl28$g_4cf81fc1_6d28_491e_94de_690e9fe4ceeb$ctl03$listItemActionToolbarControlBottom$pagingControl$pagingControl$pageno3", "", true, "", "", false, true)))
+
+  
+100 results per page
+
+
+Back to Top
+
+**Never Miss an Issue**
+
+Get new journal Tables of Contents sent right to your email inbox Type your email
+
+Get New Issue Alerts
+
+**Browse Journal Content**
+
+  [Register on the website](https://journals.lww.com/annals-of-medicine-and-surgery/pages/register.aspx?ContextUrl=%2fannals-of-medicine-and-surgery%2ftoc%2f2022%2f09000)
+
+**Customer Service**
+
+  - Contact us at:
+◦ Support:
+
+[Submit a Service Request](https://www.tfaforms.com/4966570)
+◦ TEL:
+800-638-3030 (within the USA)
+301-223-2300 (outside of the USA)
+
+- Manage Cookie Preferences
+
+[Privacy Policy (Updated December 15, 2022)](https://journals.lww.com/annals-of-medicine-and-surgery/_layouts/oaks.journals/privacy.aspx)
+
+[Legal Disclaimer](https://journals.lww.com/annals-of-medicine-and-surgery/_layouts/oaks.journals/disclaimer.aspx)
+
+- [Terms of Use](https://journals.lww.com/annals-of-medicine-and-surgery/_layouts/oaks.journals/terms.aspx)
+
+[Open Access Policy](https://www.wolterskluwer.com/en/solutions/lippincott-journals/lippincott-open-access)
+
+- Copyright © 2023
+
+[Wolters Kluwer Health, Inc. and/or its subsidiaries. All rights reserved.](https://www.wolterskluwer.com/en/health)
+
+[Annals of Medicine and Surgery 81 (2022) 104335](https://doi.org/10.1016/j.amsu.2022.104335)
+
+Contents lists available at ScienceDirect
+###### Annals of Medicine and Surgery
+
+[journal homepage: www.elsevier.com/locate/amsu](https://www.elsevier.com/locate/amsu)
+
+Systematic Review / Meta-analysis
+
+Prognostic value of neutrophil-to-lymphocyte ratio (NLR) in penile cancer:
+A systematic review and meta-analysis
+
+Haviv Muris Saputra [a] [,] [b], Furqan Hidayatullah [a] [,] [b], Yudhistira Pradnyan Kloping [a] [,] [b],
+Johan Renaldo [a] [,] [b], Eric Chung [c], Lukman Hakim [a] [,] [d] [,] [* ]
+
+a *Department of Urology, Faculty of Medicine, Universitas Airlangga, Surabaya, East Java, Indonesia*
+b *Dr. Soetomo General-Academic Hospital, Surabaya, East Java, Indonesia*
+c *Department of Urology, Princess Alexandra Hospital, University of Queensland, Brisbane, Qld, Australia*
+d *Universitas Airlangga Teaching Hospital, Surabaya, East Java, Indonesia*
+
+
+A R T I C L E I N F O
+
+*Keywords:*
+
+*Penile cancer*
+
+*Neutrophil to lymphocyte ratio*
+
+*Overall survival*
+*Cancer-specific survival*
+*Cancer*
+
+**1. Introduction**
+
+
+A B S T R A C T
+
+*Background:* Penile cancer is rare among male malignancies. Various biomarkers have been used to predict the
+prognosis of cancer, one of which is the neutrophil to lymphocyte ratio (NLR). Therefore, we conducted this
+systematic review and meta-analysis to evaluate the prognostic value of NLR in penile cancer.
+*Methods:* This review was conducted following the PRISMA guideline. Several databases, including Scopus,
+Science-direct, and PubMed, were systematically searched. The primary outcomes were lymph node metastasis
+(LNM), cancer-specific survival (CSS), and overall survival (OS). All statistical analyses were processed using
+Review Manager (RevMan) version 5.4.
+*Results:* A total of six retrospective studies were included in the analysis. The cut-off values of NLR in the included
+studies ranged from 2.6 to 3.59. Meta-analysis showed that penile cancer patients with high NLR had worse LNM
+and CSS based on the univariate analysis (OR 3.56, 95% CI 2.38, 5.32, p *<* 0.01; HR 4.19, 95% CI 2.19, 8.01, p =
+0.0; respectively). Furthermore, the meta-analysis revealed that NLR is an independent predictor of LNM and CSS
+(OR 6.67, 95% CI 2.44, 18.22, p *<* 0.01; HR 2.15, 95% CI 1.23, 3.73, p *<* 0.01; respectively). However, NLR
+failed to show as independent predictor for OS (HR 1.69,95% CI 0.95,3.00, p = 0.07).
+*Conclusion:* NLR is an independent predictor of LNM and CSS. However, NLR is not proven to be an independent
+predictor of OS in this study.
+
+
+Penile cancer is rare among male malignancies and causes a sub-­
+stantial psychological effect on the patient. In the United States and
+
+–
+Europe, penile cancer only accounts for 0.4agnoses [1,2]. On the contrary, the Brazilian state of Maranh0.6% of malignant di-­˜ao has the
+world’s highest incidence of penile cancer (ASR of 6.1 cases per 100,000
+people) [3]. Patients with inguinal lymph node involvement have a poor
+prognosis [4,5]. Predictors of inguinal lymph node metastasis consisted
+of the pathological stage of the primary tumor, grade, and lymphovas-­
+cular invasion. Penile cancer is likely incurable once systemic metastasis
+has occurred. Local lymphatic dissemination to regional lymph nodes in
+the inguinal area occurs stepwise, with the superficial inguinal lymph
+nodes usually the first primary points of cancer metastasis [6].
+
+
+Recent literature highlights that the association between systemic
+inflammation and tumor development is confirmed in various solid
+organ cancers [7]. Since complete blood count can signify underlying
+systemic inflammation, the Neutrophil to Lymphocyte Ratio (NLR)
+invariably serves as an indicator of tissue inflammation in cancer [8].
+The NLR measures the systemic inflammatory and immunological re-­
+sponses. Several studies have evaluated the predictive use of
+pre-treatment NLR as an independent predictor of overall survival (OS)
+in patients with penile squamous cell carcinoma and inguinal lymph
+node. NLR also corresponds to the nodal stage of the tumor. Published
+data showed a positive association between systemic inflammation and
+survival/prognosis [9–12]. This systematic review and meta-analysis
+evaluated the prognostic value of NLR in penile cancer.
+
+
+
+ - Corresponding author. Department of Urology, Faculty of Medicine, Universitas Airlangga, Surabaya, East Java, 60131, Indonesia.
+*E-mail addresses:* [haviv.saputra@gmail.com (H.M. Saputra), furqanhidayatullah26@gmail.com (F. Hidayatullah), yudhistira.pradnyan.kloping-2020@fk.unair.ac.](mailto:haviv.saputra@gmail.com)
+[id (Y.P. Kloping), joeurologi@gmail.com (J. Renaldo), lukman-h@fk.unair.ac.id (L. Hakim).](mailto:yudhistira.pradnyan.kloping-2020@fk.unair.ac.id)
+
+[https://doi.org/10.1016/j.amsu.2022.104335](https://doi.org/10.1016/j.amsu.2022.104335)
+Received 2 July 2022; Received in revised form 30 July 2022; Accepted 31 July 2022
+
+Available online 5 August 2022
+2049-0801/© 2022 The Authors. Published by Elsevier Ltd on behalf of IJS Publishing Group Ltd. This is an open access article under the CC BY license
+[(http://creativecommons.org/licenses/by/4.0/).](http://creativecommons.org/licenses/by/4.0/)
+
+*H.M. Saputra et al.* *Annals of Medicine and Surgery 81 (2022) 104335*
+
+
+**2. Methods**
+
+*2.1. Study design*
+
+This systematic review and meta-analysis study was conducted by
+following the guideline of PRISMA (Preferred Reporting Items for Sys-­
+tematic Reviews and Meta-Analyses) [13]. Self-evaluation of this study
+was assessed and in accordance with AMSTAR 2 criteria [14]. The study
+protocol was registered in PROSPERO (CRD42022271381) and research
+[registry (reviewregistry1415).](https://www.researchregistry.com/browse-the-registry)
+
+*2.2. Systematic Search strategy*
+
+A comprehensive online literature search was performed to select the
+potential studies on PubMed, Scopus, and ScienceDirect library database
+inception of December 2021. The following keyword was used (“NLR” or
+“Neutrophils-to-Lymphocyte Ratio” or “neutrophil to lymphocyte
+ratio”) and (“penile cancer” or “carcinoma of the penis” or “malignancy
+of penis”). A complete search strategy for included studies is provided in
+Table 1.
+
+*2.3. Eligibility criteria*
+
+The study enrolled in this systematic review and meta-analysis
+should meet these inclusion criteria: (1) studies which compared
+penile cancer patients with high NLR to patients with low NLR before
+surgery to determine predictor of oncological and metastatic outcomes;
+(2) Required data can be extracted; (3) Publication articles were avail-­
+able on PubMed, ScienceDirect, and Scopus database. The studies were
+excluded following these exclusion criteria: (1) case report, case series,
+and article review, (2) In vitro research, (3) animal studies, and (4)
+unpublished article.
+
+*2.4. Data extraction and quality assessment*
+
+Three investigators (HMS, FH and YPK) independently extracted the
+following items: study characteristics (authors, years of publication,
+location of studies, sample size); baseline characteristics of the sample
+(type of histopathology, age of the samples, modality of treatment, and
+follow up duration); NLR cut-off values; cut off values methods; outcome
+(lymph node metastasis (LNM), cancer-specific survival (CSS), and
+
+**Table 1**
+
+Keywords used as literature search strategy.
+
+Search- Keywords Article
+engine (n)
+
+
+overall survival (OS). The Newcastle-Ottawa Scale (NOS), which in-­
+cludes selection, comparability, and exposure, was used to assess the risk
+of bias in each enrolled literature [15]. The score classification was
+described in 0–3 as a low-quality study, while 4–6 as a medium quality
+
+–
+study, and 7 9 as a high-quality study. When there were discrepancies
+between the two investigators, the decision was made after being dis-­
+cussed with the third investigator.
+The outcomes of this study were LNM, CSS, and OS. LNM was
+calculated from the result of the clinicopathology data. Pooled Odd
+Ratio (OR) was extracted directly if reported in the studies. In survival
+analysis, the HRs and 95% confidence intervals (CIs) were extracted and
+used to calculate pooled hazard ratio (HR). I [2 ] statistics were used to
+assess the heterogeneity among the included studies. If significant het-­
+erogeneity existed (I [2 ] *>* 50% and/or p *<* 0.10), the pooled HRs and 95%
+CIs were calculated by a random-effect model; otherwise, the fixedeffect model was performed (I [2 ] *<* 50% and/or p *>* 0.10). All the anal-­
+ysis was performed with RevMan 5.4 for windows.
+
+**3. Results**
+
+*3.1. Systematic Search results*
+
+PRISMA Flow diagram [13] (Fig. 1) demonstrates the article
+searching and selection process. Our initial search from multiple data-­
+bases yielded a total of 122 records. Sixteen articles were removed due
+to duplicates and other reasons (non-original article and animal study),
+leaving 106 articles to be screened through the Mendeley reference
+manager. After the primary screening process, fourteen studies were
+further evaluated in full text. The final analysis included seven articles
+
+[7,9–12,16,17] for the systematic review, six of which [7,9–12,16] were
+eligible to be included in the meta-analysis.
+
+*3.2. Study characteristics*
+
+All the included studies were single-institutional retrospective co-­
+horts, except for a multi-institutional retrospective cohort by Li et al.
+
+[16]. Studies were mostly conducted in the Asian population, except for
+Azizi et al. [10], which was conducted in the American population.
+Participants from the included studies had an average age ranging from
+50.6 years to 68.2 years. The median study follow-up ranged from 18
+months to 35.5 months, as summarized in Table 2. All the participants in
+the included studies had undergone inguinal lymph node dissection
+(ILND), with pathological confirmation of penile squamous cell carci-­
+noma (SCC). Table 3 summarizes the outcome assessment in the
+included studies, while Table 4 summarizes the results of the oncological
+outcome for penile SCC with high NLR compared to low NLR. Studies
+used different cut-off values to determine high and low NLR, ranging
+from 2.6 to 3.59. There were various methods for determining optimal
+NLR cut-off values, including the area under the curve (AUC), receiver
+operating characteristic (ROC), and Contal and O’Quigley methods. The
+median OS was not described in many of the included studies, and only
+Azizi et al. [10] and Chen Hu et al. [12] reported the median patients’
+OS of 89 months and 34 months, respectively.
+Additionally, Chen Hu et al. [12] found that patients with high NLR
+had a shorter OS than patients with low NLR, with a median of 30
+months and 158 months, respectively. In addition, the median CSS was
+also not described in the results of most of the studies. However, Chen
+Hu et al. [12] and Jindal et al. [7] reported that the penile cancer pa-­
+tients in their cohort had a median CSS of 33 months and 18 months,
+respectively. The value of NLR was obtained from a complete blood
+count examination taken from peripheral blood samples prior to the
+surgical procedure which the course varied from 1 month to 3 days
+before inguinal lymph node dissection surgery.
+
+
+PubMED (“neutrophil-to-lymphocyte ratio"[All Fields] OR
+“neutrophil-to-lymphocyte ratio"[All Fields] OR “nlr"[All
+Fields]) AND (((“penil"[All Fields] OR “penis"[MeSH
+Terms] OR “penis"[All Fields] OR “penile"[All Fields])
+AND (“carcinoma"[MeSH Terms] OR “carcinoma"[All
+
+Fields] OR “carcinomas"[All Fields] OR “carcinoma s"[All
+
+Fields])) OR (“penile neoplasms"[MeSH Terms] OR
+(“penile"[All Fields] AND “neoplasms"[All Fields]) OR
+“penile neoplasms"[All Fields] OR (“penile"[All Fields]
+AND “cancer"[All Fields]) OR “penile cancer"[All Fields])
+OR (“penile neoplasms"[MeSH Terms] OR (“penile"[All
+Fields] AND “neoplasms"[All Fields]) OR “penile
+neoplasms"[All Fields] OR (“penis"[All Fields] AND
+“neoplasms"[All Fields]) OR “penis neoplasms"[All
+Fields]))
+
+Scopus TITLE-ABS-KEY ((“neutrophil two lymphocyte ratio” OR
+“neutrophil-two-lymphocyte ratio” OR nlr) AND (penile
+AND carcinoma OR penile AND cancer OR penis AND
+neoplasms))
+
+Science- (“neutrophil to lymphocyte ratio” OR “neutrophil-todirect lymphocyte ratio” OR nlr) AND (penile carcinoma OR
+penile cancer OR Penis neoplasms)
+
+
+12
+
+18
+
+92
+
+122
+
+
+2
+
+*H.M. Saputra et al.* *Annals of Medicine and Surgery 81 (2022) 104335*
+
+**Fig. 1.** Systematic Search and Screening based on the 2020 PRISMA flow diagram.
+
+
+*3.3. Risk of bias*
+
+All the included studies in the meta-analysis were retrospective co-­
+horts, and the quality of these studies was assessed using the NOS [15],
+which was designed explicitly for observational studies. This scale
+evaluates each article’s selection, comparability, and outcome domain.
+Since available data from medical records and control populations were
+selected from the same population as the exposed population, all studies
+were scored with a good score in the NOS selection domain. Most studies
+had controlled for various factors that could affect the outcomes such as
+age, based on multivariate analysis and fulfilled a good comparability
+score on NOS. Similarly, most of the included articles in this review had
+reported adequate follow-up duration and description, so the NOS
+outcome domain was also good. In general, the overall NOS evaluation
+revealed that all the included studies had a good quality, as presented in
+Table 5.
+
+*3.4. Meta-analysis results on the lymph node invasion*
+
+The meta-analysis included five studies [7,9–12], totalling 482 pa-­
+tients with penile cancer who underwent inguinal node dissection.
+Based on the forest plot analysis, patients with high NLR values had a
+higher incidence of lymph node invasion compared to patients with low
+NLR (OR 3.56, 95% CI 2.38, 5.32, p *<* 0.01) (Fig. 2). Furthermore, a
+meta-analysis performed on the multivariate analysis by Azizi et al. [10]
+
+
+and Hu Jiao et al. [9] (Fig. 3) showed that penile cancer with high NLR
+had a significantly worse lymph node invasion than patients with low
+NLR (OR 6.67, 95% CI 2.44, 18.22, p *<* 0.01). The heterogeneity be-­
+value of 24% and 11% for
+tween studies was non-significant, with an I [2 ]
+univariate analysis and multivariate analysis, respectively. Therefore,
+the analysis model used for this outcome was fixed effects.
+
+*3.5. Meta-analysis results on the cancer-specific survival*
+
+Three articles [9,10,16] with a total of 446 patients with penile
+carcinoma were analysed for CSS. According to the combined
+meta-analysis of univariate analysis, penile carcinoma patients with
+high NLR scores had significantly worse CSS than those with low NLR,
+with a HR of 4.19 (95% CI 2.19, 8.01, p = 0.01) (Fig. 4). Furthermore,
+the combined analysis of the three studies’ multivariate analysis also
+revealed similar findings (HR 2.15, 95% CI 1.23, 3.73, p *<* 0.01) (Fig. 5).
+The chi-square and I [2 ] tests used to analyse heterogeneity between
+studies revealed low heterogeneity (I [2 ] = 0%). Thus, the fixed-effects
+model was selected.
+
+*3.6. Meta-analysis results on the overall survival*
+
+Meta-analysis on the OS comprised two studies [10,12] with 309
+penile cancer patients. Based on the forest plot results shown in Fig. 6,
+penile cancer patients with high NLR had a similar OS to those with low
+
+
+3
+
+*H.M. Saputra et al.* *Annals of Medicine and Surgery 81 (2022) 104335*
+
+**Table 2**
+
+Baseline characteristics of the included study.
+
+
+No Author &
+
+years of
+publication
+
+
+Years of
+
+Data
+
+Collection
+
+
+Patient’s
+
+TNM
+
+Staging
+
+
+Group Allocated
+Allocation patients
+(n)
+
+
+Cancer Age in years Follow-up
+Pathology (mean ± SD) duration
+
+
+Country Study Design Total
+patients
+(n)
+
+
+41 High NLR 20 Penile SCC 68.5 ± 11.4 34.7
+Low NLR 21 (2.3–271.7)
+months [b ]
+
+
+1 Kasuga 1999–2015 T1, T2, T3,
+et al., 2016 T4 N0, N +
+
+M0, M+
+
+
+Japan Single
+
+Institutional
+
+Retrospective
+
+Cohort
+
+
+2 Tan et al., 2007–2015 Ta, T1a, Singapore Single
+2017 T1b, T2, T3 Institutional
+
+N0, N1, Retrospective
+N2, N3 Cohort
+
+
+39 High NLR NR Penile SCC 65.
+(59–72.5) [b ]
+
+
+N0, N1, Retrospective Low NLR NR
+N2, N3 Cohort
+
+
+3 Azizi et al., 1994–2014 Tx, Tis/Ta/
+2018 T1a, T1b,
+
+T2, T3, T4
+
+
+USA Single
+
+Institutional
+
+Retrospective
+
+Cohort
+
+
+84 High NLR 38 Penile SCC 63.6
+(54–68.7) [a ]
+
+
+34 (16.5–66)
+months [b ]
+
+35.5
+
+(19.4–89.6)
+months [b ]
+
+
+N0, N+ Cohort Low NLR 30
+4 Li et al., 2002–2015 ≤T1, ≥T2 China Multi- 228 High NLR 105
+2019 N0, N+ Institutional Low NLR 123
+
+Retrospective
+
+cohort
+
+
+68.2
+
+(53.4–73.6) [a ]
+
+
+≤T1, ≥T2 China Multi- 228 High NLR 105 Penile SCC 52(24–85) [a ] 25 (1–140)
+
+N0, N+ Institutional Low NLR 123 months [a ]
+
+
+5 Jiao Hu 2010–2018 Tis, Ta/ China Single
+et al., 2020 T1a, ≥T1b Institutional
+
+No, N+ Retrospective
+
+Cohort
+
+6 Chen Hu 2002–2017 T0, T1, T2, China Single
+et al., 2020 T3, T4 Institutional
+
+N0, N1, Retrospective
+N2, N3 M0, Cohort
+
+M1
+
+
+134 High NLR 32 Penile SCC 54.95 ± 10.6 32.1(2–94)
+month [a ]
+
+
+No, N+ Retrospective Low NLR 47
+
+
+6 Chen Hu 2002–2017 T0, T1, T2, China Single
+et al., 2020 T3, T4 Institutional
+
+N0, N1, Retrospective
+N2, N3 M0, Cohort
+
+
+7 Jindal et al., 2012–2020 T1, T2, T3, India Single
+
+2021 T4 Institutional
+
+N0, N1, Retrospective
+N2, N3 Cohort
+
+
+225 High NLR 68 Penile SCC 50.6 ± 13.4 30 (16–63.5)
+months [b ]
+
+Low NLR 157
+
+69 High NLR 40 Penile SCC NR 18 (2–74)
+months [a ]
+
+
+N0, N1, Retrospective Low NLR 29
+N2, N3 Cohort
+
+
+a Data expressed as median and range.
+b Data expressed as median and interquartile (IQR) range, SCC = Squamous cell carcinoma.
+
+**Table 3**
+
+Outcome assessment and treatment received in the included studies.
+
+
+No Author & years Surgical Intervention NLR (mean ± NLR
+of publication SD) Cut
+off
+
+
+Cut-off point Median OS Median CSS Primary Secondary
+
+calculation Outcome Outcome
+
+
+1 Kasuga et al., Radical Penectomy 5.03 ± 4.99 2.82 AUC NR NR OS, CSS LNM
+
+2016
+
+
+2 Tan et al., 2017 Bilateral modified inguinal
+lymph node dissection or
+dynamic sentinel node biopsy
+
+
+2.99
+
+(0.76–5.22)**
+
+
+2.8 AUC NR NR CSS, PFS, LNM
+
+
+3 Azizi et al., Bilateral/unilateral inguinal 4.51 ± 3.95 3 Contal and
+2018 lymph node dissection O’Quigley
+
+method
+
+
+89 (31.2–123.6)
+
+months**
+
+
+NR OS, CSS, LNM
+
+RFS
+
+
+4 Li et al., 2019 Bilateral inguinal lymph node 2.4 (0.1–44.2)* 2.6 ROC NR NR CSS LNM
+
+dissection
+
+
+5 Jiao Hu et al., Bilateral inguinal lymph node
+2020 dissection after primary
+tumor procedure
+
+
+NR 3.59 ROC NR NR CSS LNM
+
+
+6 Chen Hu et al., Inguinal lymph node NR 2.94 AUC 34 (18–84)
+
+2020 dissection months**
+
+
+33 (18–85.25)
+
+months**
+
+
+OS, PFS LNM
+
+CSS LNM
+
+
+7 Jindal et al., Penectomy with bilateral NR 3 Following
+2021 inguinal node dissection previous study by
+
+Azizi et al.
+
+
+NR 18 (2–74)
+
+months*
+
+
+NLR = Neutrophil-lymphocyte ratio, ROC = Receiver operating characteristic curve, AUC = Area under the curve, OS = Overall Survival, CSS = Cancer specificsurvival, PFS = Progression-free survival, LNM = Lymph-Node Metastasis.
+
+ - Data expressed as median and range.
+** Data expressed as median and interquartile (IQR) range.
+
+
+NLR (HR 1.69, 95% CI 0.95, 3, p = 0.07). The I [2 ] index analysis on the
+forest plot shows no significant heterogeneity between the included
+studies (I [2 ] = 19%), implying that the analysis model used for
+meta-analysis was fixed-model effects.
+
+
+**4. Discussion**
+
+The presence of lymph node involvement signifies locoregional
+cancer metastasis. Although the presence of metastatic disease in the
+lymph nodes has been found as an independent predictor of survival in
+penile cancer, lymphadenectomy for penile cancer does not always
+procure positive cancer cells and can be associated with false-negative
+
+
+4
+
+*H.M. Saputra et al.* *Annals of Medicine and Surgery 81 (2022) 104335*
+
+
+**Table 4**
+
+Oncological outcomes results summary for penile SCC with high NLR compared
+to low NLR.
+
+Outcome Analysis Reference Result *p* value
+
+methods
+
+Overall Univariate Kasuga et al., NR 0.076
+Survival Analysis 2016
+
+Chen Hu HR: 2.97 (95% *<* 0.001
+
+et al., 2020 CI 1.74 to 5.06)
+
+Multivariate Chen Hu HR: 1.28 (95% 0.516
+Analysis et al., 2020 CI 0.61 to 2.72)
+
+Azizi et al., HR: 2.48 (95% 0.046
+
+2018 CI 1.02 to 6.03)
+
+
+CancerSpecific
+Survival
+
+
+Univariate Kasuga et al., NR 0.023
+Analysis 2016
+
+Azizi et al., HR: 6.16 (95% 0.014
+
+2018 CI 2.1 to 18.07)
+
+Jiao Hu et al., HR: 3.36 (95% *<* 0.01
+
+2020 CI 1.49 to 7.58)
+
+Jindal et al., NR 0.05
+
+2021
+
+Multivariate Tan et al., NR *<* 0.01
+Analysis 2017
+
+Azizi et al., HR: 2.58 (95% 0.116
+
+2018 CI 0.79 to 8.43)
+
+Li et al., 2019 HR: 2.25 (95% 0.023
+
+CI 1.12 to 4.51)
+
+Jiao Hu et al., HR: 1.27 (95% 0.76
+
+2020 CI 0.28 to 5.70)
+
+Jindal et al., NR 0.94
+
+2021
+
+
+Lymph-Node Univariate Azizi et al., OR: 3.75 (95%
+Metastasis Analysis 2018 CI 1.30 to
+10.81)
+
+
+0.014
+
+
+Chen Hu OR: 2.21 (95% 0.008
+
+et al., 2020 CI 1.23 to 3.99)
+
+
+Jiao Hu et al., OR: 6.92 (95%
+
+2020 CI 2.46 to
+
+19.43)
+
+Jindal et al., OR: 6.13 (95%
+
+2021 CI 2.13 to
+
+17.65)
+
+Kasuga et al., OR: 5.12 (95%
+
+2016 CI 0.91 to
+
+28.64)
+
+Multivariate Azizi et al., OR: 3.66 (95%
+Analysis 2018 CI 0.82 to
+16.34)
+
+Jiao Hu et al., OR: 10.93 (95%
+
+2020 CI 2.81 to
+
+42.51)
+
+
+*<* 0.01
+
+0.001
+
+0.049
+
+0.091
+
+*<* 0.01
+
+
+Jindal et al., NR 0.09
+
+2021
+
+OR = Odds ratio, HR = Hazard Ratio, NR = Not reported.
+
+**Table 5**
+
+Risk of bias assessment using the Newcastle-Ottawa Scale.
+
+Authors Selection Comparability Outcome Total Score
+
+Tindal et al., 2021 *** ** ** 7
+Hu Jiao et al., 2020 *** ** *** 8
+Zaishang et al., 2020 **** ** *** 9
+Hu Chen et al., 2020 *** ** *** 8
+Azizi et al., 2018 **** ** *** 9
+Kasuga et al., 2016 *** ** *** 8
+
+results. Considering all these findings, the beneficial and harmful effects
+of lymph node examination should be cautiously interpreted. Studies
+have reported that PD-L1, squamous cell antigen, C-reactive protein, and
+P53 are all possible predictors for LNM in penile cancer [12]. Platelet to
+Lymphocyte Ratio (PLR) is another putative biomarker that can be
+detected by a simple complete blood count (CBC) examination [12].
+NLR, on the other hand, has additional advantages as a useful predictor
+because it is affordable, repeatable, and can be utilized in remote
+
+
+locations.
+
+NLR was found to be associated with LNM in this study, and it was
+also found to be an independent predictor for lymph node involvement.
+Forest plot analyses revealed that high NLR was associated with an
+increased probability of LNM. The Forest plot of the adjusted OR also
+showed that high NLR was an independent predictor for LNM. However,
+given that only two studies were included in this analysis, the conclusion
+should be taken cautiously.
+Cancer patient with LNM has a poorer prognosis than those without
+the nodal disease. Tumor cells released substances that interact with
+
+stromal, myeloid, and lymphoid cells in primary tumors and the
+lymphatic system, lowering antitumor immunity and encouraging
+tumor growth, thus increasing the metastatic process [18]. The early
+detection of nodal invasion from the primary tumor is a critical point to
+adjust sufficient management. Previous studies have shown that NLR is a
+potential predictor for lymph node involvement during cancer pro-­
+gression. Higher pre-treatment NLR was identified as a predictor of LNM
+in endometrial cancers [19]. A study by Zhou et al. highlighted the role
+of NLR in association with LNM that is determinate on multivariable
+analysis (NLR ≥1.80) for patients with pancreatic neuroendocrine tu-­
+mors and similarly in pancreatic ductal adenocarcinoma [20]. Xu et al.
+investigated that preoperative peripheral blood NLR concentration
+confers a higher risk of LNM in medullary thyroid carcinoma patients
+
+[21]. Other evidence of NLR as a useful complementary diagnostic tool
+for predicting pathological node involvement is observed in gastric
+cancer, notably because of its higher sensitivity and negative predictive
+value [22,23]. While most studies support the theory that NLR is asso-­
+ciated with LNM, several studies demonstrated contradictive results. A
+study in 2016 by Maeda et al. discussed the lack of an association be-­
+tween NLR and PSA failure in prostate cancer patients who underwent
+Radical Prostatectomy. At the end of their study, they found no signif-­
+icant correlations of NLR with LNM (p = 0.062) [24]. A study by Yersal
+et al. (2017) about NLR and PLR in breast cancer subtypes also stated
+that there were no significant correlations between NLR or PLR and LNM
+count (p = 0.276). The different results of all this evidence should be
+cautiously interpreted, and the tumor burden might result in different
+tumor micro-environment and immune responses that affect NLR [25].
+High NLR is also associated with worse outcomes in some malig-­
+nancies, including urology malignancies. A meta-analysis by Wei et al.
+demonstrated that NLR was a predictor for worse CSS in bladder cancer,
+prostate cancer, and renal cell carcinoma [26]. Similar result by Shao
+et al. in renal cell carcinoma [27]. The Forest plot of this study showed
+that high NLR was an independent predictor for worse CSS in penile
+cancer. Nevertheless, our study shows no significant difference in OS
+based on NLR stratification. The latest study suggested that increasing
+pre-treatment neutrophil-to-lymphocyte ratio is related to the more se-­
+vere clinical and pathological outcome as an independent predictor,
+including in testicular cancer. Staging of the tumors, the tendency to
+recurrence, and CSS are worse with higher NLR [28]. Higher
+post-orchiectomy NLR was found independently associated with recur-­
+rence in testicular cancer patients [29]. Among advanced/metastatic
+bladder cancer patients, NLR could independently improve the predic-­
+tion of survival outcomes. Higher NLR is strongly linked to a poorer OS,
+with a HR of 5.06 in one study and the CSS of 36% lower in another
+study [30,31]. The patients with an NLR of ≤3.0 are likely to have better
+cancer outcomes and attain greater survival improvement from
+chemotherapy compared to the group with NLR of *>* 3.0.
+Several malignancies in different sites of system organs have been
+associated with poor clinical outcomes in the presence of increased NLR.
+A meta-analysis evaluating patients with breast cancer found a worse OS
+amongst greater NLR than the cut-off value [32]. An increased NLR
+indicated poor outcomes in patients with hepatocellular carcinoma,
+reflected in both OS and recurrence-free survival (RFS), according to one
+meta-analysis [33]. This finding has been confirmed in other prognostic
+studies on gastrointestinal cancer, head and neck cancer, and gynaeco-­
+logical cancer [34–37]. Quantitative studies presented suggest an
+
+
+5
+
+*H.M. Saputra et al.* *Annals of Medicine and Surgery 81 (2022) 104335*
+
+**Fig. 2.** Forest plot comparison of unadjusted OR of node invasion in penile cancer patients with high NLR versus low NLR.
+
+**Fig. 3.** Forest plot comparison of adjusted OR of lymph node invasion in penile cancer patients with high NLR versus low NLR.
+
+**Fig. 4.** Forest plot comparison of unadjusted HR of CSS in penile cancer patients with high NLR versus low NLR.
+
+**Fig. 5.** Forest plot comparison of adjusted HR of CSS in penile cancer patients with high NLR versus low NLR.
+
+**Fig. 6.** Forest plot comparison of adjusted HR of OS in penile cancer patients with high NLR versus low NLR.
+
+
+association between elevated NLR and poor clinical and survival out-­
+comes across a wide spectrum of diagnoses, stages of the disease, and
+course of treatment.
+
+However, several studies have found a different outcome pattern for
+NLR. Ojerholm et al. conducted a study about NLR as a bladder cancer
+biomarker, assessing prognostic and predictive values in SWOG 8710,
+and reported that NLR was neither a prognostic (p = 0.24) nor predictive
+(p = 0.86) biomarker for OS in muscle-invasive bladder cancer [38]. In
+contrast, Marchioni et al. demonstrated that a high NLR was associated
+
+
+with poorer oncological outcomes in patients affected by UTUC in terms
+of OS and RFS but not in cancer-specific survival (p = 0.77) based on a
+systematic review and meta-analysis study on high NLR as a prognostic
+factor in patients affected by Upper Tract Urothelial Cancer (UTUC)
+
+[39]. The different results of NLR as a prognostic factor in survival might
+be correlated to the indiscriminate role in tissue inflammation, the di-­
+chotomy of value measurement, and that most studies reporting NLR
+were observational in nature that were exposed to potential biases
+including the heterogeneous dataset.
+
+
+6
+
+*H.M. Saputra et al.* *Annals of Medicine and Surgery 81 (2022) 104335*
+
+
+The NLR has potential role to predict lymph node involvement in
+penile cancer. However, the difference in the NLR cut-off value was
+observed in this study. On the one hand, NLR indicators that are
+dichotomously distinct can have strong predictive significance for LNM
+and CSS, while in the other hand, the variations in cut-off values among
+published studies indicates that there are several variables which may
+influence the determination of NLR cut-off value. The determination of
+NLR mostly came from AUROC (Area Under Receiver Operating Char-­
+acteristic) curve analysis. Each study assigned a different cut-off value
+
+’
+based on ROC curve result which was influenced by study own s pop-­
+ulation. Since NLR value was derived from complete blood count ex-­
+amination, the patient’s laboratory parameter and patient’s
+demographic characteristic play significant role in affecting the result.
+The influence of race and age of the patients are important attributes in
+determination of NLR value. Furthermore, comorbidities and the degree
+of systemic inflammation in study’s population may also contribute to
+the value.
+
+Our systematic review and meta-analysis are not without limitations.
+First, all the included studies were retrospective in nature and will be
+susceptible to certain biases from a lack of standardized inclusion
+criteria, treatment schemes, and follow-up schedules. Second, there was
+no established (or standardised) cut-off value of NLR. Each study
+assigned a cut-off value with various methods based on the highest
+sensitivity and specificity from AUROC curve or used predefined cut-off
+values derived from other studies. Third, the population of this study are
+mostly Asian patients which does not represent the world population.
+Nonetheless, the inclusion of all published studies and critical analysis of
+the effect of NLR while controlling for other variables in LNM, CSS, and
+OS are strengths of this study. It is likely that large-scale prospective
+studies with a well-designed methodology are needed to establish the
+role of NLR in penile cancer.
+
+**5. Conclusion**
+
+This study demonstrated the value of NLR as an independent pre-­
+dictor for LNM and CSS in penile cancer. However, NLR in not proven to
+be an independent predictor for OS.
+
+**Ethics committee approval**
+
+This systematic review and meta-analysis do not require an ethical
+approval.
+
+**Funding source**
+
+None.
+
+**Author contribution**
+
+ - Haviv Muris Saputra (H.M.S.) is involved in the concept and project
+design, materials, literature search, data collection and/or process-­
+ing, analysis and/or interpretation, writing the manuscript, and final
+approval of the version to be submitted.
+
+ - Furqan Hidayatullah (F.H.) is involved in the materials, literature
+search, data collection and/or processing, analysis and/or interpre-­
+tation, writing the manuscript, and final approval of the version to be
+submitted.
+
+ - Yudhistira Pradnyan Kloping (Y.P.K.) is involved in the materials,
+literature search, data collection and/or processing, analysis and/or
+interpretation, writing the manuscript, and final approval of the
+version to be submitted.
+
+ - Johan Renaldo (J.R.) is involved in the concept and project design,
+supervision, resources, materials, literature search, data collection
+and/or processing, analysis and/or interpretation, writing the
+manuscript, and final approval of the version to be submitted.
+
+
+
+ - Eric Chung (E.C.) is involved in the supervision, resources, materials,
+writing the manuscript, and final approval of the version to be
+submitted.
+
+ - Lukman Hakim (L.H.) is involved in the concept and project design,
+supervision, resources, materials, literature search, data collection
+and/or processing, analysis and/or interpretation, writing the
+manuscript, and final approval of the version to be submitted.
+
+**Guarantor**
+
+Lukman Hakim, Department of Urology, Faculty of Medicine, Uni-­
+versitas Airlangga, Universitas Airlangga Teaching Hospital, Indonesia.
+[Email: lukman-h@fk.unair.ac.id.](mailto:lukman-h@fk.unair.ac.id)
+
+**Informed consent**
+
+This systematic review and meta-analysis do not need an informed
+
+consent statement.
+
+**Provenance and peer review**
+
+Not commissioned, externally peer-reviewed.
+
+**Declaration of competing interest**
+
+The authors declare that they have no conflict of interest.
+
+**Acknowledgement**
+
+None.
+
+**Appendix A. Supplementary data**
+
+[Supplementary data to this article can be found online at https://doi.](https://doi.org/10.1016/j.amsu.2022.104335)
+[org/10.1016/j.amsu.2022.104335.](https://doi.org/10.1016/j.amsu.2022.104335)
+
+**References**
+
+[1] B.J. Morris, R.H. Gray, X. Castellsague, F.X. Bosch, D.T. Halperin, J.H. Waskett, C.
+A. Hankins, The strong protective effect of circumcision against cancer of the penis,
+[Adv. Urol. 2011 (2011) 1–21, https://doi.org/10.1155/2011/812368.](https://doi.org/10.1155/2011/812368)
+
+[2] D. Heller, Lesions and neoplasms of the penis: a review, Internet, J. Lower Genital
+[Tract Dis. 20 (1) (2016) 107–111. Available from: https://scholarship.libraries.](https://scholarship.libraries.rutgers.edu/discovery/delivery/01RUT_INST:ResearchRepository/12643417590004646?l#13643521460004646Heller)
+[rutgers.edu/discovery/delivery/01RUT_INST:ResearchRepository/126434](https://scholarship.libraries.rutgers.edu/discovery/delivery/01RUT_INST:ResearchRepository/12643417590004646?l#13643521460004646Heller)
+[17590004646?l#13643521460004646Heller. https://doi.org/10.7282/](https://scholarship.libraries.rutgers.edu/discovery/delivery/01RUT_INST:ResearchRepository/12643417590004646?l#13643521460004646Heller)
+T3P84DXNPublishedVersion:https://doi.org/10.1097/LGT.0000000000000159.
+
+[[3] R.W.P. Coelho, J.D. Pinho, J.S. Moreno, D.V.E.O. Garbis, A.M.T. do Nascimento, J.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref3)
+[Moura Feitoza, G.E.B. Silva, Penile cancer in MaranhS. Larges, J.R.R. Calixto, L.N.Z. Ramalho, A.A.M. da Silva, L.R. Nogueira, L. de ao, Northeast Brazil: the ˜](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref3)
+
+[[4] O.W. Hakenberg, E.M. Comphighest incidence globally? BMC Urol. 18 (1) (2018). May 29´erat, S. Minhas, A. Necchi, C. Protzel, N. Watkins, EAU .](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref3)
+[Guidelines on Penile Cancer, 2021.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref4)
+
+[[5] S. Culine, A. Kramar, C. ThJ.F. H´eron, P. Kerbrat, A. Caty, R. Delva, P. Fargeot, K. Fizazi, J. Bouzy, J.P. Droz, ´eodore, L. Geoffrois, C. Chevreau, P. Biron, B.B. Nguyen,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref5)
+[Randomized trial comparing bleomycin/etoposide/cisplatin with alternating](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref5)
+[cisplatin/cyclophosphamide/doxorubicin and vinblastine/bleomycin regimens of](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref5)
+[chemotherapy for patients with intermediate- and poor-risk metastatic](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref5)
+[nonseminomatous germ cell tumors: genito-Urinary Group of the French](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref5)
+[Federation of Cancer Centers Trial T93MP, J. Clin. Oncol. 26 (3) (2008 Jan 20)](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref5)
+
+[421–427.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref5)
+
+[[6] O.W. Hakenberg, C. Protzel, Chemotherapy in penile cancer, Therap. Adv. Urol. 4](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref6)
+[(3) (2012) 133–138.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref6)
+
+[[7] T. Jindal, P. Pawar, S. Agarwal, P. Jain, M. Meena, A. Sarwal, M. Dhanalakshmi,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref7)
+[The use of preoperative neutrophil-lymphocyte ratio and lymphocyte-monocyte](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref7)
+[ratio in predicting survival and groin node involvement of patients with squamous](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref7)
+[cell carcinoma of penis, Urol. Ann. 13 (4) (2021 Oct 1) 391–396.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref7)
+
+[[8] S. Çalıs¸kan, S. Kaba, E. Ozsoy, O. Koca, M. Akyüz,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref8) [¨] Oztürk M [¨] I. The hematological [˙]
+[parameters in testicular cancer, J. Oncol. Sci. 3 (3) (2017) 117–119.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref8)
+
+[[9] J. Hu, H. Li, T. He, H. Deng, G. Gong, Y. Cui, P. Liu, W. Ren, C. Li, J. Chen, X. Zu,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref9)
+[A nomogram incorporating PD-L1, NLR, and clinicopathologic features to predict](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref9)
+[inguinal lymph node metastasis in penile squamous cell carcinoma. Urologic](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref9)
+[Oncology, Sem. Orig. Investig. 38 (7) (2020). Jul 1, 641.e19-641.e29.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref9)
+
+[[10] M. Azizi, C.C. Peyton, D.C. Boulware, J. Chipollini, T. Juwono, J.M. Pow-Sang, P.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref10)
+[E. Spiess, Prognostic value of neutrophil-to-lymphocyte ratio in penile squamous](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref10)
+
+
+7
+
+*H.M. Saputra et al.* *Annals of Medicine and Surgery 81 (2022) 104335*
+
+
+[cell carcinoma patients undergoing inguinal lymph node dissection, European](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref10)
+[Urology Focus 5 (6) (2019) 1085–1090. Nov 1.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref10)
+
+[[11] J. Kasuga, T. Kawahara, D. Takamoto, S. Fukui, T. Tokita, T. Tadenuma,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref11)
+[M. Narahara, S. Fusayasu, H. Terao, K. Izumi, H. Ito, Y. Hattori, J.I. Teranishi,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref11)
+[T. Sasaki, K. Makiyama, Y. Miyoshi, M. Yao, Y. Yumura, H. Miyamoto, H. Uemura,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref11)
+[Increased neutrophil-to-lymphocyte ratio is associated with disease-specific](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref11)
+[mortality in patients with penile cancer, BMC Cancer 16 (1) (2016). Jul 7.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref11)
+
+[[12] C. Hu, Y. Bai, J. Li, G. Zhang, L. Yang, C. Bi, B. Zhao, Y. Yang, R. Li, H. Wu,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref12)
+[Q. Wang, Y. Qin, Prognostic value of systemic inflammatory factors NLR, LMR, PLR](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref12)
+[and LDH in penile cancer, BMC Urol. 20 (1) (2020). May 27.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref12)
+
+[[13] M.J. Page, J.E. McKenzie, P.M. Bossuyt, I. Boutron, T.C. Hoffmann, C.D. Mulrow, et](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref13)
+[al., The PRISMA 2020 statement: an updated guideline for reporting systematic](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref13)
+[reviews, Int. J. Surg. 88 (2021), 105906.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref13)
+
+[14] B.J. Shea, B.C. Reeves, G. Wells, M. Thuku, C. Hamel, J. Moran, D. Moher,
+P. Tugwell, V. Welch, E. Kristjansson, D.A. Henry, AMSTAR 2: a critical appraisal
+tool for systematic reviews that include randomised or non-randomised studies of
+[healthcare interventions, or both, Internet, BMJ 358 (2017). Sep. 21, : http://www](http://www.bmj.com/content/358/bmj.j4008.abstract)
+[.bmj.com/content/358/bmj.j4008.abstract. j4008. Available from.](http://www.bmj.com/content/358/bmj.j4008.abstract)
+
+[[15] G.A. Wells, D.O. Connell, J. Peterson, V. Welch, M. Losos, B.S. P Tugwell,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref15)
+[Newcastle-ottawa quality assessment scale. Ottawa hospital research institute,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref15)
+[OHRI 3 (2014) 2–4.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref15)
+
+[[16] Z. Li, X. Li, X. Zhang, P. Chen, B. Wang, X. Chen, H. Han, F. Zhou, Prognostic](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref16)
+[significance of common preoperative laboratory variables in penile squamous cell](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref16)
+[carcinoma, Int. J. Urol. 27 (1) (2020) 76–82.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref16)
+
+[[17] T.W. Tan, S.J. Chia, K.T. Chong, Management of penile cancer in a Singapore](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref17)
+[tertiary hospital, Arab J Urol 15 (2) (2017) 123–130.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref17)
+
+[[18] D. Jones, E.R. Pereira, T.P. Padera, Growth and immune evasion of lymph node](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref18)
+[metastasis, Front. Oncol. 8 (FEB) (2018).](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref18)
+
+[[19] T. Aoyama, M. Takano, M. Miyamoto, T. Yoshikawa, K. Kato, T. Sakamoto,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref19)
+[K. Takasaki, H. Matsuura, H. Soyama, J. Hirata, A. Suzuki, H. Sasa, H. Tsuda,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref19)
+[K. Furuya, Pretreatment neutrophil-to-lymphocyte ratio was a predictor of lymph](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref19)
+[node metastasis in endometrial cancer patients, Oncology 96 (5) (2019) 259–267.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref19)
+
+[[20] B. Zhou, J. Deng, L. Chen, S. Zheng, Preoperative neutrophil-to-lymphocyte ratio](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref20)
+[and tumor-related factors to predict lymph node metastasis in nonfunctioning](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref20)
+[pancreatic neuroendocrine tumors, Sci. Rep. 7 (1) (2017) 1–10.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref20)
+
+[[21] K. Jiang, J. Lei, W. Chen, Y. Gong, H. Luo, Z. Li, R. Gong, J. Zhu, Association of the](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref21)
+[preoperative neutrophil-tolymphocyte and platelet-to-lymphocyte ratios with](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref21)
+[lymph node metastasis and recurrence in patients with medullary thyroid](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref21)
+[carcinoma, Medicine 95 (40) (2016) 1–6.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref21)
+
+[[22] D. Zheng, Y. Lin, Y. Yu, K. Wang, X. Ouyang, Y. Dang, Q. Huang, The value of](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref22)
+[preoperative neutrophil to lymphocyte ratio in indicating lymph node metastasis in](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref22)
+[patients with resectable T2 stage gastric adenocarcinoma, Clin. Lab. 62 (4) (2016)](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref22)
+[659–665.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref22)
+
+[[23] T. Kosuga, T. Konishi, T. Kubota, K. Shoda, H. Konishi, A. Shiozaki, K. Okamoto,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref23)
+[H. Fujiwara, M. Kudou, T. Arita, R. Morimura, Y. Murayama, Y. Kuriu, H. Ikoma,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref23)
+[M. Nakanishi, E. Otsuji, Clinical significance of neutrophil-to-lymphocyte ratio as a](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref23)
+[predictor of lymph node metastasis in gastric cancer, BMC Cancer 19 (1) (2019)](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref23)
+[1–7.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref23)
+
+[[24] Y. Maeda, T. Kawahara, M. Koizumi, H. Ito, Y. Kumano, M. Ohtaka, T. Kondo,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref24)
+[T. Mochizuki, Y. Hattori, J.I. Teranishi, Y. Yumura, Y. Miyoshi, M. Yao,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref24)
+[H. Miyamoto, H. Uemura, Lack of an association between neutrophil-to-](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref24)
+[lymphocyte ratio and PSA failure of prostate cancer patients who underwent](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref24)
+[radical prostatectomy, BioMed Res. Int. (2016) 2016.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref24)
+
+[[25] Çetinkünar S. Yersal O, R. Aktimur, M. Aziret, S.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref25) [¨] Ozdas, H. Erdem, K. Yildirim, [¨]
+[Neutrophil/lymphocyte and platelet/lymphocyte ratios are not different among](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref25)
+
+
+[breast cancer subtypes, Asian Pac. J. Cancer Prev. APJCP 18 (8) (2017)](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref25)
+[2227–2231.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref25)
+
+[[26] Y. Wei, Y.Z. Jiang, W.H. Qian, Prognostic role of NLR in urinary cancers: a meta-](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref26)
+[analysis, PLoS One 9 (3) (2014) 1–6.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref26)
+
+[[27] Y. Shao, B. Wu, W. Jia, Z. Zhang, Q. Chen, D. Wang, Prognostic value of](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref27)
+[pretreatment neutrophil-to-lymphocyte ratio in renal cell carcinoma: a systematic](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref27)
+[review and meta-analysis, BMC Urol. 20 (1) (2020).](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref27)
+
+[[28] Y.G. Tan, J. Sia, H.H. Huang, W.K.O. Lau, Neutrophil-to-lymphocyte ratio](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref28)
+[independently predicts advanced pathological staging and poorer survival](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref28)
+
+[[29] J.L. Bauzoutcomes in testicular cancer, Investig. Clin. Urol. 60 (3) (2019) 176J. Guimer´a Quetglas, A. Tienza Fern`a García, V. Tubau Vidana, G. Frontera Juan, E. Pieras Ayala, The ˜](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref28) [´andez, R. Bertolo, X.A. Sabat´e Arroyo, –183.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref28)
+[prognostic value of the neutrophil-to-lymphocyte ratio in patients with testicular](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref29)
+[cancer. Progres en urologie, Journal De l’Association Francaise D’urologie Et De La](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref29)
+[Societe Francaise D’urologie 30 (5) (2020 Apr) 273–280.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref29)
+
+[[30] Y.G. Tan, E.W.C. Eu, H.H. Huang, W.K.O. Lau, High neutrophil-to-lymphocyte ratio](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref30)
+[predicts worse overall survival in patients with advanced/metastatic urothelial](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref30)
+[bladder cancer. International journal of urology, Off. J. Jpn. Urol. Assoc. 25 (3)](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref30)
+[(2018 Mar) 232–238.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref30)
+
+[[31] Y.G. Tan, E. Eu, W. Lau Kam On, H.H. Huang, Pretreatment neutrophil-to-](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref31)
+[lymphocyte ratio predicts worse survival outcomes and advanced tumor staging in](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref31)
+[patients undergoing radical cystectomy for bladder cancer, Asian J Urol 4 (4)](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref31)
+[(2017 Oct) 239–246.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref31)
+
+[[32] J.L. Ethier, D. Desautels, A. Templeton, P.S. Shah, E. Amir, Prognostic role of](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref32)
+[neutrophil-to-lymphocyte ratio in breast cancer: a systematic review and meta-](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref32)
+[analysis, Breast Cancer Res. 19 (1) (2017) 1–13.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref32)
+
+[[33] J. Zheng, J. Cai, H. Li, K. Zeng, L. He, H. Fu, J. Zhang, L. Chen, J. Yao, Y. Zhang,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref33)
+[Y. Yang, Neutrophil to lymphocyte ratio and platelet to lymphocyte ratio as](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref33)
+[prognostic predictors for hepatocellular carcinoma patients with various](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref33)
+[treatments: a meta-analysis and systematic review. Cellular physiology and](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref33)
+[biochemistry : international journal of experimental cellular physiology,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref33)
+[biochemistry, Pharmacology 44 (3) (2017) 967–981.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref33)
+
+[[34] A. Haram, M.R. Boland, M.E. Kelly, J.C. Bolger, R.M. Waldron, M.J. Kerin, The](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref34)
+[prognostic value of neutrophil-to-lymphocyte ratio in colorectal cancer: a](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref34)
+[systematic review, J. Surg. Oncol. 115 (4) (2017 Mar) 470–479.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref34)
+
+[[35] M.A. Mascarella, E. Mannard, S.D. Silva, A. Zeitouni, Neutrophil-to-lymphocyte](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref35)
+[ratio in head and neck cancer prognosis: a systematic review and meta-analysis,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref35)
+[Head Neck 40 (5) (2018 May) 1091–1100.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref35)
+
+[[36] Q.T. Huang, L. Zhou, W.J. Zeng, Q.Q. Ma, W. Wang, M. Zhong, Y.H. Yu, Prognostic](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref36)
+[significance of neutrophil-to-lymphocyte ratio in ovarian cancer: a systematic](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref36)
+[review and meta-analysis of observational studies, Cell. Physiol. Biochem. 41 (6)](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref36)
+[(2017) 2411–2418.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref36)
+
+[[37] L. Ni, J. Tao, J. Xu, X. Yuan, Y. Long, N. Yu, R. Wu, Y. Zhang, Prognostic values of](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref37)
+[pretreatment neutrophil-to-lymphocyte and platelet-to-lymphocyte ratios in](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref37)
+[endometrial cancer: a systematic review and meta-analysis, Arch. Gynecol. Obstet.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref37)
+[301 (1) (2020) 251–261.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref37)
+
+[[38] E. Ojerholm, A. Smith, W ting Hwang, B.C. Baumann, K.N. Tucker, S.P. Lerner,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref38)
+[R. Mamtani, B. Boursi, J.P. Christodouleas, Assessing Prognostic and Predictive](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref38)
+[Value in SWOG 8710, vol. 123, 2018, pp. 794–801, 5.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref38)
+
+[[39] M. Marchioni, L. Cindolo, R. Autorino, G. Primiceri, D. Arcaniolo, M. De Sio,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref39)
+[L. Schips, High neutrophil-to-lymphocyte ratio as prognostic factor in patients](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref39)
+[affected by upper Tract urothelial cancer: a systematic review and meta-analysis,](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref39)
+[Clin. Genitourin. Cancer 15 (3) (2017) 343–349, e1.](http://refhub.elsevier.com/S2049-0801(22)01095-0/sref39)
+
+
+8
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

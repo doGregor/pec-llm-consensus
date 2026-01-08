@@ -1,0 +1,777 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    BJU Int 2024; 133: 442–450 doi:10.1111/bju.16231
+## Original Article
+# Efficacy of indocyanine green fluorescence-guided inguinal lymph node dissection for penile cancer: a randomised trial
+
+Peng Yuan [1], Yu Xie [3], Ran Xu [4], Yuanwei Li [7], Kun Yao [1], Jianye Liu [1], Bin Yan [4], Shusuan Jiang [3], Qiang Lu [7],
+Qian Chen [2], Hongjing Zang [5], Wei Xiong [1], Yongxiang Tang [6], Shuo Hu [6] and Long Wang [1]
+
+1 Department of Urology, The Third Xiangya Hospital, Central South University, 2 Department of Pathology, The Third
+Xiangya Hospital, [3] Department of Urology, Hunan Cancer Hospital, The Affiliated Cancer Hospital of Xiangya School of
+Medicine, Central South University, [4] Department of Urology, The Second Xiangya Hospital, Central South University,
+5 Department of Pathology, The Second Xiangya Hospital, 6 Department of Nuclear Medicine, Xiangya Hospital, Central
+South University, and [7] Department of Urology, Hunan Provincial People’s Hospital, The First Affiliated Hospital of Hunan
+Normal University, Changsha, China
+
+
+
+Introduction
+
+Lymph metastasis accounts for increased disease-related
+mortality and poor survival in patients with penile cancer [1].
+
+
+Regardless of therapeutic efforts, the prognosis remains
+unsatisfactory in patients with positive pelvic lymph nodes
+(LNs) or distant metastasis [2]. Considering that the disease
+progresses in a stepwise metastatic pattern such that inguinal
+
+
+© 2023 BJU International.
+
+wileyonlinelibrary.com Published by John Wiley & Sons Ltd. www.bjui.org
+
+LN (ILN) metastasis usually occurs first, followed by
+metastases of the pelvic LNs and distant organs, early
+diagnosis, and prompt treatment of ILNs remains important
+for patients with penile cancer [3]. Surgical staging of ILNs is
+important in the management of penile cancer and there are
+different modalities for achieving it, which include videoendoscopic or open modified ILN dissection (ILND) and
+dynamic sentinel LN sampling.
+
+Accurate surgical staging of ILNs aids comprehensive
+evaluation and treatment and is recommended for selected
+
+patients with penile cancer (T1b-T4N0 or N1–3) [4].
+Moreover, increasing the number of dissected ILNs might
+contribute to improved survival outcomes in patients who
+receive an ILND [5]. However, the possibility of
+complications after ILND is generally high, which may
+
+’
+worsen patients quality of life and overall survival [6].
+Therefore, many patients, including surgeons, are inclined to
+refuse or delay the procedure, which may result in erroneous
+assessment and disease progression. In recent years, surgical
+techniques such as video-endoscopic and robot-assisted
+laparoscopic ILND have been optimised to promote surgical
+safety and reduce morbidity [7]. In addition, the extent of the
+LND is curtailed, and the saphenous vein and some fascia
+can be preserved in the modified ILND. The modified ILND
+is performed as a staging or prophylactic surgery that can not
+only achieve effective dissection of the ILNs but also reduce
+surgical complications [8].
+
+Dynamic sentinel LN sampling may also be recommended for
+the surgical staging of the ILNs with the consideration of
+minimising complications and avoiding the resection
+of unnecessary ILNs. Compared to ILND, it appears to be
+less invasive and associated with fewer complications. In
+high-volume and centralised penile cancer centres dynamic
+sentinel LN sampling is highly effective in clinically LNnegative patients. However, concerns of high false-negative
+rates and limited technique availability in some centres
+should be emphasised when choosing the management
+approach for ILNs. Generally, dynamic sentinel LN sampling
+is rarely performed on patients with penile cancer in China,
+as it is unavailable in many centres and few urologists have
+experience using this technique.
+
+A good balance between improving the clinical efficacy of
+ILND and reducing the risk of surgical complications is
+required for individual treatment. Indocyanine green (ICG)
+fluorescence imaging has been applied in LND for many
+malignancies, and it achieves distinct detection of LNs and
+precise removal of lesions [9]. However, the role of ICG
+fluorescence-guided ILND in patients with penile cancer
+remains unclear. Hence, we conducted this multicentre
+randomised controlled trial (RCT) to investigate the efficacy
+and safety of ICG fluorescence-guided ILND for patients with
+penile cancer. This study may establish the positive role of
+
+
+Efficacy of ICG-guided ILND for penile cancer
+
+ICG fluorescence imaging in ILND for patients with penile
+
+cancer.
+
+Patients and Methods
+
+Study Design and Participants
+
+This was a multicentre RCT registered in the Chinese Clinical
+[Trial Registry (identifier: ChiCTR2100044584; https://www.](https://www.chictr.org.cn/showproj.aspx?proj=121913)
+[chictr.org.cn/showproj.aspx?proj=121913). The trial protocol](https://www.chictr.org.cn/showproj.aspx?proj=121913)
+was reviewed and approved by the Institutional Review Board
+of The Third Xiangya Hospital of Central South University
+(R21061). Written informed consent was obtained from all
+patients. This study was conducted in accordance with the
+Declaration of Helsinki and the Clinical Trials Act. In
+addition, this study was performed according to the
+Consolidated Standards of Reporting Trials (CONSORT)
+guidelines.
+
+We enrolled patients with penile cancer who underwent
+bilateral ILND from 1 April 2021 to 31 June 2022 at the
+Department of Urology at four centres: The Third Xiangya
+Hospital of Central South University, The Second
+Xiangya Hospital of Central South University, Hunan Cancer
+Hospital, and Hunan Provincial People’s Hospital. The
+
+–
+inclusion criteria were as follows: aged 18 80 years at the
+time of enrolment; diagnosed squamous cell carcinoma
+confirmed by pathological examination (pT1b–4); clinically
+staged cN0M0; no indication for radical penectomy;
+indication for ILND; no history of inguinal and pelvic
+surgery, chemotherapy or radiotherapy; no contraindication
+for surgery; and no allergy to ICG or iodine.
+
+Randomisation and Masking
+
+The study used a paired design in which each patient was
+randomised to ICG fluorescence-guided ILND in one groin
+(ICG side) and non-ICG fluorescence-guided ILND in the
+other groin (non-ICG side). Randomisation was achieved by a
+single researcher using on-line software without stratification.
+This study used a single-blind design. The randomised results
+were open to the surgeons but masked to the patients until
+the end of the study.
+
+Procedures
+
+All patients underwent surgical resection of the penile tumour
+for pathological evaluation and recovered properly before
+undergoing ILND. Patients underwent bilateral modified
+ILND through a hypogastric subcutaneous approach;
+however, the surgical technique (either laparoscopic or robotassisted laparoscopic ILND) was decided upon based on the
+patients’ willingness. ICG (2.5 mg/mL) was dissolved in water
+for injection (Eisai China Inc., Shanghai, China) and prepared
+on the day of surgery. Afterward, 5 mL ICG was
+
+� 2023 BJU International. 443
+
+Yuan et al.
+
+subcutaneously injected through the root of the penis at
+multiple points 15 min before dissection of the ILNs. A
+fluorescence surgical system equipped with the fluorescence
+mode was used in the surgical procedure, wherein ICG
+fluorescence imaging was obtained by changing the mode
+from visible light to near-infrared fluorescence. The
+fluorescence mode was turned on for the ICG groin and
+turned off for the non-ICG groin.
+
+Previous studies have described the surgical procedures for
+ILND in detail [10,11]. The anatomical boundaries of
+modified ILND in the present study were specified as follows:
+superior to 2 cm above the inguinal ligament, lateral to the
+lateral border of the femoral artery (without reaching to
+the sartorius muscle), and medial to the adductor longus
+muscle. In addition, the greater saphenous vein was
+preserved. During dissection, the superficial and deep ILNs
+were removed and placed separately. Superficial ILNs were
+further divided into five subgroups (central, superolateral,
+inferolateral, superomedial, and inferomedial), according to
+their anatomical regions [12]. At the end of the surgery, the
+researchers re-checked the fluorescence status of all dissected
+ILNs, which were imaged using fluorescence in vitro.
+Afterward, the ILNs in each group were separately labelled
+and bagged, followed by the pathological examinations.
+Frozen sections were not involved, and patients were to
+receive radical ILND or pelvic LND on another day if
+necessitated by the pathological results. A radical ILND or
+pelvic LND was performed without ICG fluorescence
+imaging, and the number of dissected ILNs in the radical
+ILND were not compared between the two groins.
+
+The follow-up schedule lasted for 6 months, with three visits
+at the first-, third- and sixth-month after surgery. All patients
+scored their personal satisfaction with aesthetic appearance
+and sensation in each groin using a visual analogue scale
+(VAS) score at the last follow-up visit. Two items (aesthetic
+appearance and sensory function) were rated on a scale of
+score 0–10, with a score of 0 being ‘least satisfied’ and 10
+being ‘most satisfied’.
+
+Outcome Measures
+
+The primary outcome measure was the total number of ILNs
+retrieved. Secondary outcome measures included
+complications and the rate of LN non-compliance. LN noncompliance was defined as the inadequate removal of ILNs.
+ILNs from six groups (one deep and five superficial groups)
+were dissected, and pathological examination was performed
+on both sides. Hence, the LN non-compliance rate was
+determined by dividing the number of dissected groups
+without LNs by the total number of dissected
+groups (n = six). Baseline characteristics and
+clinicopathological items were recorded and evaluated.
+Human papillomavirus status was detected by polymerase
+
+444 � 2023 BJU International.
+
+
+chain reaction of penile tumour tissue. The results of some
+items (operative time, estimated blood loss, drainage volume,
+in situ drain duration, unpreserved branches of the great
+saphenous vein, the number of positive LNs, VAS scores of
+groin aesthetic appearance and sensory function, and
+recurrence and metastasis in inguinal regions) were recorded
+from unilateral dissection of ILNs in one groin. Meanwhile,
+items including postoperative hospital stay, pathological stage
+of ILNs, follow-up time, distant metastasis, and survival were
+described based on the patient’s condition. The complications
+(including local and systemic complications) were classified
+
+–
+by Clavien Dindo grade. And only the local complications in
+the groins or lower extremities were compared between the
+two sides.
+
+Statistical Analysis
+
+The sample size was estimated, and ~40 patients were
+required for enrolment. Based on the preliminary results of
+our previous study, the number of ILNs retrieved from ICG
+fluorescence-guided and conventional unilateral ILND was
+14.75 and 12.5 (SD 2.825), respectively. A two-sided error
+probability (a level) of 0.05 and the power (1-b) of 0.9 were
+set with sampling ratio of 1. The sample size was calculated
+as 34; finally, at least 38 participants were needed for this
+trial with the consideration of 10% loss to follow-up.
+
+A per protocol (PP) analysis was applied in this study to
+patients who completed the entire study. Meanwhile, an
+intention-to-treat (ITT) analysis was conducted for all
+patients who underwent randomisation. Data analysis was
+conducted using the Statistical Package for the Social Sciences
+(SPSS�) software, version 24.0 (IBM Corp., Armonk, NY,
+USA). Categorical variables were compared using Pearson’s
+chi-square test or Fisher’s exact test. Continuous variables
+were analysed by paired t-test or Wilcoxon signed-rank test.
+The difference in total number of ILNs retrieved on the ICG
+vs non-ICG side was reported with a 95% CI. All tests were
+two-sided and a P < 0.05 was considered to indicate
+statistical significance.
+
+Results
+
+In this study, 45 patients were randomised. One patient was
+lost to follow-up after discharge. Therefore, for this patient,
+only demographic characteristics and clinical outcomes
+during the hospitalisation were available. Two patients
+dropped out because of a failure of ICG fluorescence, but
+they still received ILND without ICG fluorescence imaging.
+No intraoperative complications or death occurred in any of
+the patients. There were no complications associated with the
+ICG injections. In all, 45 patients who were randomised in
+this trial were included in the ITT analysis, and 42 who
+completed the entire study were included in the PP analysis.
+The case flow is shown in a CONSORT diagram (Fig. 1).
+
+Fig. 1 The CONSORT flow diagram for this trial.
+
+The results of the ITT analysis on demographics and
+clinicopathological characteristics, surgical and pathological
+characteristics, and postoperative complications in the groins
+are shown in Tables 1–3, respectively. The results on the
+number of retrieved ILNs in the 45 patients in ITT analysis
+are given in Table S1. The total number of ILNs retrieved
+was higher on the ICG side than on the non-ICG side (mean
+
+[ SD ] 13 [2.4] vs 9 [1.9] LNs, respectively; difference 4 LNs
+
+[95% CI 2.7–4.4], P = 0.007), and there was a significant
+difference in the number of deep and superficial ILNs
+between the two sides (mean [ SD ] 3 [0.9] vs 1 [0.8] LNs,
+respectively, P = 0.038; mean [ SD ], 10 [2.1] vs 8 [1.8] LNs,
+respectively, P = 0.011). In addition, the LN non-compliance
+rate was higher on the non-ICG side than on the ICG side
+(mean [ SD ] 0.03 [0.06] vs 0.08 [0.13] LNs, respectively;
+P = 0.018). Also, there was no significant difference in local
+complications in the groins between the ICG side and the
+non-ICG side (17.8% vs 15.6%, P = 0.777).
+
+In the PP analysis, demographics and clinicopathological
+characteristics of the 42 patients are given in Table S2. ICG
+fluorescence-guided ILND was performed on 42 groins (22
+
+
+Efficacy of ICG-guided ILND for penile cancer
+
+Table 1 Demographic and clinicopathological characteristics of the 45
+patients in the ITT analysis.
+
+
+
+
+� 2023 BJU International. 445
+
+Yuan et al.
+
+Table 2 Surgical and pathological characteristics of the 45 patients in the ITT analysis.
+
+
+
+
+Table 3 Postoperative complications in the groins of the 45 patients in the ITT analysis.
+
+
+
+
+left and 20 right groins). In all, 24 patients underwent
+laparoscopic ILND and 18 patients underwent robot-assisted
+ILND, without any conversion to open surgeries. A schema of
+the study procedures is shown in Fig. 2. Table S3 shows the
+outcomes of the comparison of surgical and pathological
+characteristics in the PP analysis. There was no significant
+difference in operative time, estimated blood loss, drainage
+volume, in situ drain duration, unpreserved branches of the
+great saphenous vein, groins with positive ILNs, and VAS
+score for groin aesthetic appearance and sensory function
+between the ICG and non-ICG sides (P > 0.05). The LN
+non-compliance rate was higher on the non-ICG side than on
+the ICG side (mean [ SD ] 0.02 [0.06] vs 0.07 [0.13],
+P = 0.032).
+
+The results for the number of ILNs retrieved in the PP
+analysis are shown in Fig. 3. The total number of ILNs
+retrieved was higher on the ICG side than on the non-ICG
+side (mean [ SD ] 13 [2.4] vs 9 [1.9] ILNs; difference 4 ILNs
+(95% CI 2.8–4.5), P = 0.006). Moreover, we confirmed that
+the number of deep and superficial ILNs differed between
+both sides (mean [ SD ] 3 [1.0] vs 1 [0.8] ILNs, respectively,
+P = 0.021; mean [ SD ] 10 [2.3] vs 8 [1.8], respectively,
+P = 0.011). And by analysing the number of ILNs in the five
+superficial ILN subgroups, we found that the number of ILNs
+
+446 � 2023 BJU International.
+
+
+dissected in the superomedial and central groups was
+significantly higher on the ICG side than on the non-ICG
+side (P = 0.009 and P = 0.018, respectively). The results of
+the PP analysis showed that there was no significant
+difference between the two sides for local complications in
+the groin (Table S4). Only four patients had systemic
+complications in non-groin areas after surgery (infection of
+abdominal wall, two; pneumonia, one; gastrorrhagia, one),
+and all of these complications were resolved.
+
+When the infection could not be resolved by drugs, patients
+would undergo vacuum-scaling drainage treatment. All
+postoperative complications resolved, and there were no
+complaints of postoperative complications at the last followup visit. In addition, two patients underwent pelvic LND.
+Pathological results showed no pelvic LN metastasis, and two
+patients recovered well. None of the patients received
+adjuvant therapy, and there was no tumour recurrence,
+metastasis, or death during follow-up.
+
+Discussion
+
+
+Thorough and meticulous ILND serves as an important
+procedure for staging, planning, treatment, and prognosis,
+and plays a significant role in the management of penile
+
+Efficacy of ICG-guided ILND for penile cancer
+
+Fig. 2 Schema of the study procedures. (A) Important steps during the surgery. (B) Procedures performed in this study. Four trocars were placed (1:
+
+umbilicus; 2, 3: lateral side of rectus abdominis with the level of 5 mm below the first trocar; 1, 2, 4: forming an equilateral shape). Each patient was
+
+randomised to ICG fluorescence-guided ILND in one groin and non-ICG fluorescence-guided ILND in the other groin.
+
+
+cancer [13]. A comprehensive assessment of ILNs can be
+achieved by the pathological evaluation of laterality, location,
+number, metastasis, and extranodal extension after ILND. It
+has been verified that the survival rate reaches as high as
+>95% in patients with pN0 staged penile cancer, whereas the
+survival rate is unsatisfactory among patients with regional
+LN metastasis in penile cancer [14].
+
+Inconsistency between the clinical and pathological stage of
+ILNs inevitably misleads the judgement of regional LN status.
+Approximately 24% of occult ILN metastases were detected in
+men with cN0 penile cancer [15]. Early excision of clinically
+occult ILN metastases led to the improvement in 3-year
+cancer-specific survival from 35% to 84% when compared
+with delayed excision [16]. Moreover, an increased number of
+retrieved ILNs was associated with improved survival in
+patients with penile cancer [17]. The 5-year survival rate
+could be improved if more than eight ILNs were harvested
+during a unilateral ILND [18]. A higher ILN yield with ILND
+led to improved overall survival, which was possibly
+associated with the removal of micrometastases [19]. And the
+probability of accurate LN staging was increased by a higher
+LN yield that might optimise the treatment decision and
+generate better outcomes, which could be described as a ‘Will
+Rogers Phenomenon’ [20]. Hence, the role of surgical staging
+in the management of penile cancer cannot be
+underestimated.
+
+Dynamic sentinel LN biopsy is a surgical staging technique
+with a low complication rate for patients with penile cancer.
+And it has been found that ICG fluorescence imaging
+
+
+contributed to improve intraoperative optical identification of
+sentinel LNs [21]. Additionally, the application of hybrid
+ICG-99mTc-nanocolloid during dynamic sentinel LN biopsy
+is safe and reliable, which could increase the detection rate of
+sentinel LNs [22]. However, the disadvantages of false
+negatives, reported at a higher rate in some parts of the
+world, and inadequate removal of LNs may lead to
+misdiagnoses [23].
+
+An ILND using the hypogastric subcutaneous approach is a
+routine procedure in the four centres, and all surgeons had
+extensive experience with the procedure. We formulated the
+project on the site of ICG injection, ICG dosage, waiting time
+for observation, repeated administration of ICG, and
+meticulous dissociation of lymphatic vessels to improve the
+successful development of ILNs as much as possible.
+However, when the lymphatic vessels were obstructed by
+tumours or squeezed by enlarged ILNs, ICG could not access
+positive ILNs. The effect of ICG fluorescence imaging on
+distinguishing malignant from normal LNs is still not optimal
+and was not explored in this study.
+
+Generally, all fatty and nodal tissues are usually removed en
+bloc to ensure that all LN tissues can be removed in the
+standard practice of completing a modified or radical ILND.
+However, a good balance between efficacy (improving the
+number of LNs dissected) and safety (reducing the excision of
+non-lymphocytic tissues that might contribute to decreased
+complications) is momentous especially in clinically LNnegative patients. In this study, either ICG or non-ICG
+modified groin dissection was performed in a specific area
+
+� 2023 BJU International. 447
+
+Yuan et al.
+
+Fig. 3 The number of retrieved ILNs in ICG and non- ICG side in the PP analysis. (A) The total number of ILNs, and number of deep and superficial ILNs.
+
+(B) The number of superficial ILNs according to different anatomical groups. The comparisons between the ICG and non-ICG side were analysed using
+
+a paired t-test or Wilcoxon signed-rank test. The mean total number of ILNs retrieved was higher in the ICG than in the non-ICG side (13 vs 9 ILNs,
+
+difference 4 ILNs [95% CI 2.8–4.5], P = 0.006).
+
+
+based on anatomical markings. However, when removing all
+possible ILNs and lymphatic tissues, the surgeons attempted
+preserving some non-lymphatic tissues, especially in some
+areas that were unlikely to contain ILNs according to the
+visual identification. The results of this study showed that the
+number of ILNs harvested was higher and the LN noncompliance rate was lower in the ICG procedure than in the
+non-ICG procedure. ICG fluorescence-guided surgery had
+unique advantages in identifying ILNs and lymphatic tissues.
+As a result, more ILNs were harvested, with fewer nonlymphatic tissues removed in the ICG procedure.
+Additionally, it was found that there was no difference
+between the groins in terms of local complications, which was
+most likely because the surgeons had tried to preserve the
+non-lymphatic tissues during ILND in both groins. However,
+the potential benefits of ICG in a standard modified LND
+removing all fatty and nodal tissues and the practical value of
+ICG fluorescence-guided ILND on clinically LN-positive
+
+448 � 2023 BJU International.
+
+
+patients remain unknown; these can be explored in future
+studies.
+
+Researchers have increasingly attempted to optimise this
+procedure by reducing surgical complications [24]. Previous
+studies have shown a reduced rate of surgical complications
+after laparoscopic or robot-assisted ILND compared with that
+of open ILND [25,26]. The attractive features of threedimensional views, precise identification and flexibility benefit
+the reduction of tissue and vascular damage in robot-assisted
+ILND [27]. Effective dissection using ICG fluorescence
+imaging could minimise the damage in the groin. Based on
+the results of this study, ICG was safe for application in
+patients. Furthermore, we confirmed that the complication
+rate of ICG fluorescence-guided ILND was similar to that of
+conventional surgery. ICG fluorescence-guided ILND did not
+affect inguinal sensory function or aesthetic appearance
+compared with the conventional surgery. Other studies have
+
+explored the effect of ICG fluorescence-guided surgery in
+LND during prostatectomy, gastrectomy, and gynaecological
+surgery for malignancies, demonstrating that ICG
+fluorescence-guided LND is safe and feasible, can contribute
+to identification of LNs, and may be useful intraoperatively
+for removing all necessary LNs [28–30]. It has been found
+that during D2 LND for the patients with gastric cancer, ICG
+fluorescence imaging improved the number of LNs dissected
+and reduced the LN non-compliance rate.
+
+Although the sample size was limited owing to the rarity of
+penile cancer, a multicentre RCT evaluating ICG
+fluorescence-guided ILND in patients with penile caner is
+significant in clinical practice and technological innovation. In
+addition, the total number of ILNs harvested was compared
+between the two groins of the patients. Using the paired
+design with patients acting as their own control and
+conducting bilateral ILND on one patient by the same
+surgeon, the risk of the results being affected by differences in
+baseline characteristics, surgeons’ skills, and surgical approach
+could be reduced. However, the observation and comparison
+of oncological outcomes and survival were not available in
+the present study design. Besides that, this study had other
+limitations. A large sample size and long-term follow-up are
+needed to strengthen the evidence. And the value of increased
+number of ILNs harvested on survival should be further
+evaluated. We hope that there will be more high-quality
+studies on ILND for patients with penile cancer in the future,
+and that the use of ICG imaging will make a difference in
+this procedure.
+
+Conclusion
+
+The ICG fluorescence-guided technique significantly
+improved the efficacy of ILND in patients with penile cancer.
+This study demonstrates that ICG fluorescence-guided ILND
+in patients with penile cancer is safe and beneficial to
+efficiently retrieve more ILNs. In addition, the procedure can
+effectively reduce the LN non-compliance rate without
+increasing the risk of surgical complications.
+
+Acknowledgements
+
+None.
+
+Disclosure of Interests
+
+None declared.
+
+Funding
+
+This study was funded by grant 82100809 from the National
+Natural Science Foundation of China, grant 2022JJ40757 from
+the Natural Science Foundation of Hunan Province, and
+grant 2021SK53710 from Science and Technology Program of
+Hunan Province.
+
+
+Efficacy of ICG-guided ILND for penile cancer
+
+Author Contributions
+
+Long Wang had full access to all of the data in the study and
+takes responsibility for the integrity of the data and the
+accuracy of the data analysis. Study concept and design: Long
+Wang; Yu Xie; Ran Xu; Yuanwei Li. Acquisition, analysis, or
+interpretation of data: Long Wang; Yu Xie; Ran Xu; Yuanwei
+Li; Peng Yuan; Kun Yao; Bin Yan; Shusuan Jiang; Qiang Lu;
+Qian Chen; Wei Xiong; Yongxiang Tang. Drafting of the
+manuscript: Peng Yuan; Jianye Liu; Wei Xiong; Hongjing
+Zang. Critical revision of the manuscript for scientific and
+factual content: Long Wang; Shuo Hu; Yu Xie; Ran Xu;
+Yuanwei Li. Statistical analysis: Peng Yuan; Kun Yao; Jianye
+Liu; Hongjing Zang; Wei Xiong. Supervision: Long Wang;
+Peng Yuan; Yu Xie; Ran Xu; Yuanwei Li.
+
+Data Availability Statement
+
+The data that support the findings of this study are available
+from the corresponding author upon reasonable request
+[(wanglong@csu.edu.cn).](mailto:wanglong@csu.edu.cn)
+
+References
+
+1 Chahoud J, Kohli M, Spiess PE. Management of advanced penile cancer.
+Mayo Clin Proc 2021; 96: 720–32
+2 Aydin AM, Chahoud J, Adashek JJ et al. Understanding genomics and
+the immune environment of penile cancer to improve therapy. Nat Rev
+Urol 2020; 17: 555–70
+
+3 Leone A, Diorio GJ, Pettaway C, Master V, Spiess PE. Contemporary
+management of patients with penile cancer and lymph node metastasis.
+Nat Rev Urol 2017; 14: 335–47
+
+4 Thomas A, Necchi A, Muneer A et al. Penile cancer. Nat Rev Dis
+
+Primers 2021; 7: 11
+
+5 Chadha J, Chahoud J, Spiess PE. An update on treatment of penile
+cancer. Ther Adv Med Oncol 2022; 14: 17588359221127254
+
+6 Gopman JM, Djajadiningrat RS, Baumgarten AS et al. Predicting
+postoperative complications of inguinal lymph node dissection for penile
+cancer in an international multicentre cohort. BJU Int 2015; 116: 196–
+
+201
+
+7 Tobias-Machado M. Video endoscopic inguinal lymphadenectomy
+(VEIL): is a new standard ready to be accepted? BJU Int 2017; 119:
+
+504–5
+
+8 Azizi M, Chipollini J, Peyton CC, Cheriyan SK, Spiess PE. Current
+controversies and developments on the role of lymphadenectomy for
+penile cancer. Urol Oncol 2019; 37: 201–8
+9 Kaplan-Marans E, Fulla J, Tomer N, Bilal K, Palese M. Indocyanine
+green (ICG) in urologic surgery. Urology 2019; 132: 10–7
+10 Yuan P, Zhao C, Liu Z et al. Comparative study of video endoscopic
+inguinal lymphadenectomy through a hypogastric vs leg subcutaneous
+approach for penile cancer. J Endourol 2018; 32: 66–72
+11 Master V, Ogan K, Kooby D, Hsiao W, Delman K. Leg endoscopic groin
+lymphadenectomy (LEG procedure): step-by-step approach to a
+straightforward technique. Eur Urol 2009; 56: 821–8
+12 Daseler EH, Anson BJ, Reimann AF. Radical excision of the inguinal and
+iliac lymph glands: a study based upon 450 anatomical dissections
+and upon supportive clinical observations. Surg Gynecol Obstet 1948; 87:
+
+679–94
+
+13 Sali AP, Prakash G, Murthy V et al. Updates in staging of penile cancer:
+the evolution, nuances, and issues. Hum Pathol 2022; 133: 76–86
+
+� 2023 BJU International. 449
+
+Yuan et al.
+
+14 Djajadiningrat RS, Graafland NM, van Werkhoven E et al.
+Contemporary management of regional nodes in penile cancerimprovement of survival? J Urol 2014; 191: 68–73
+15 Unadkat P, Fleishman A, Olumi AF et al. Contemporary incidence and
+predictors of occult inguinal lymph node metastases in men with
+clinically node-negative (cN0) penile cancer. Urology 2021; 153: 221–7
+16 Kroon BK, Horenblas S, Lont AP, Tanis PJ, Gallee MP, Nieweg OE.
+Patients with penile carcinoma benefit from immediate resection of
+clinically occult lymph node metastases. J Urol 2005; 173: 816–9
+17 Soodana-Prakash N, Koru-Sengul T, Miao F et al. Lymph node yield as
+a predictor of overall survival following inguinal lymphadenectomy for
+penile cancer. Urol Oncol 2018; 36: e19–27
+18 Johnson TV, Hsiao W, Delman KA, Jani AB, Brawley OW, Master VA.
+Extensive inguinal lymphadenectomy improves overall 5-year survival in
+penile cancer patients: results from the surveillance, epidemiology, and
+end results program. Cancer 2010; 116: 2960–6
+19 Chipollini J, Azizi M, Lo Vullo S et al. Identifying an optimal lymph
+node yield for penile squamous cell carcinoma: prognostic impact of
+surgical dissection. BJU Int 2020; 125: 82–8
+20 Gofrit ON, Zorn KC, Steinberg GD, Zagaja GP, Shalhav AL. The Will
+Rogers phenomenon in urological oncology. J Urol 2008; 179: 28–33
+21 Brunckhorst O, Ahmed K, Alnajjar HM, Muneer A. Sentinel lymph node
+biopsy using indocyanine green in penile cancer. Nat Rev Urol 2020; 17: 541–2
+22 Dell’Oglio P, de Vries HM, Mazzone E et al. Hybrid indocyanine Green99mTc-nanocolloid for single-photon emission computed tomography
+and combined radio- and fluorescence-guided sentinel node biopsy in
+penile cancer: results of 740 inguinal basins assessed at a single
+institution. Eur Urol 2020; 78: 865–72
+
+23 Aydin AM, Chakiryan NH, Spiess PE. Will dynamic sentinel lymph node
+biopsy become the new international standard for evaluating high-risk
+penile cancer in patients with clinically negative lymph nodes? Eur Urol
+2020; 78: 873–4
+
+24 Protzel C, Alcaraz A, Horenblas S, Pizzocaro G, Zlotta A, Hakenberg
+OW. Lymphadenectomy in the surgical management of penile cancer. Eur
+Urol 2009; 55: 1075–88
+
+25 Elsamra SE, Poch MA. Robotic inguinal lymphadenectomy for penile
+cancer: the why, how, and what. Transl Androl Urol 2017; 6: 826–32
+26 Kumar V, Sethia KK. Prospective study comparing video-endoscopic
+radical inguinal lymph node dissection (VEILND) with open radical
+ILND (OILND) for penile cancer over an 8-year period. BJU Int 2017;
+
+119: 530–4
+
+27 Bjurlin MA, Zhao LC, Kenigsberg AP, Mass AY, Taneja SS, Huang WC.
+Novel use of fluorescence lymphangiography during robotic groin
+dissection for penile cancer. Urology 2017; 107: 267
+
+450 � 2023 BJU International.
+
+
+28 Ramirez-Backhaus M, Mira Moreno A, Gomez Ferrer A et al.
+Indocyanine green guided pelvic lymph node dissection: an
+efficient technique to classify the lymph node status of patients with
+prostate cancer who underwent radical prostatectomy. J Urol 2016; 196:
+
+1429–35
+
+29 Chen QY, Xie JW, Zhong Q et al. Safety and efficacy of indocyanine
+green tracer-guided lymph node dissection during laparoscopic radical
+gastrectomy in patients with gastric cancer: a randomized clinical trial.
+JAMA Surg 2020; 155: 300–11
+30 Zapardiel I, Alvarez J, Barahona M et al. Utility of intraoperative
+fluorescence imaging in gynecologic surgery: systematic review and
+consensus statement. Ann Surg Oncol 2021; 28: 3266–78
+
+Correspondence: Long Wang, Department of Urology, The
+Third Xiangya Hospital, Central South University, 138
+Tongzipo Road, Yuelu District, Changsha, Hunan 410013,
+China.
+
+[e-mail: wanglong@csu.edu.cn](mailto:wanglong@csu.edu.cn)
+
+Abbreviations: CONSORT, Consolidated Standards of
+Reporting Trials; ICG, indocyanine green; ILN(D), inguinal
+lymph node (dissection); ITT, intention to treat; LN(D),
+lymph node (dissection); PP, per protocol; RCT, randomised
+controlled trial; VAS, visual analogue scale.
+
+Supporting Information
+
+Additional Supporting Information may be found in the
+online version of this article:
+
+Table S1 The number of retrieved ILNs in the 45 patients in
+the ITT analysis.
+
+Table S2 Demographic and clinicopathological characteristics
+of the 42 patients in the PP analysis.
+
+Table S3 Surgical and pathological characteristics in the PP
+analysis.
+
+Table S4 Summary and comparison of postoperative
+complications in the groins in the PP analysis.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

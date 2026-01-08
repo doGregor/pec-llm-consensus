@@ -1,0 +1,59 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=556 candidates_tokens_details=None prompt_token_count=12495 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=11205), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=1290)] thoughts_token_count=1778 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=14829 traffic_type=None
+
+
+**Summarizing the Glansectomy Treatment Recommendations**
+
+Alright, let's get down to business. I've got this systematic review on glansectomy for penile cancer, and my goal is to distill the treatment recommendations into a usable format. Here's how I see it:
+
+First, I need to methodically comb through this paper – abstract, intro, methods, results, the whole shebang – to pinpoint any statements that are essentially clinical recommendations or strong suggestions. Keywords like "should," "recommended," and "is the standard" will be my bread and butter. I'm also going to trust strong statements about the suitability of a treatment as recommendations in their own right.
+
+My next step is to break down each recommendation into its core components. I'm going to look at the aspect of care – is this primary treatment, follow-up, a surgical technique, or something else? Then, I'll dive into the specifics: the clinical indications, any stage or grading details, anatomical specifics like the glans or corporal tips, and so on. Of course, I'll identify the treatment itself and any conditions or caveats – "wherever possible," that sort of thing. I'll also note anything about lymph node status or follow-up that the paper touches on.
+
+Finally, I'll synthesize all this information into a clear, concise statement for the "Recommendation" column of my table. I'm aiming for a structured output, and I'll create a Markdown table with "Aspect of Care" and "Recommendation" columns, just as requested.
+
+Now, here's what I've gleaned from the paper:
+
+*   **Primary Treatment:** For invasive penile cancer confined to the glans, glansectomy is commonly performed. Invasive lesions confined to the glans can be safely treated with glansectomy. Penile-preserving surgery (PPS) should be performed wherever possible. PPS is now the standard treatment to preserve penile length and function without compromising oncological outcomes in suitable cases. Glansectomy is suitable for PeCa invading the glans spongiosum (T2).
+*   **Surgical Technique/ Primary Treatment:** In cases with tumor extension into the distal corporal tips, glansectomy should be combined with distal corporectomy. Acceptable surgical margins for penile-preserving surgery should be less than 5mm.
+*   **Salvage Treatment:** Local recurrence or positive surgical margins after initial treatment (e.g., glansectomy) warrants salvage penectomy.
+*   **Follow-Up Care/ Patient Selection:** Patients undergoing PPS require strict follow-up protocols. Furthermore, clinicians should ensure that patients will be able to self-examine and attend regular follow-up appointments.
+*   **Surgical Technique:** Frozen section analysis of proximal margins should be considered during glansectomy/PPS in some cases. Following glansectomy, deep separate tunical biopsies from the corpora can aid with accurate pathological assessment of surgical margins.
+*   **Diagnosis/Staging:** Formal staging with MRI is crucial to differentiate T2 from T3 disease before selecting patients for glansectomy (alone or with distal corporectomy).
+*   **Setting of Care/Surgical Practice:** Penile cancer surgery should be performed in high-volume specialist centers by experienced surgeons.
+
+
+
+**Summarizing the Glansectomy Treatment Recommendations**
+
+Alright, let's get down to business. I've got this systematic review on glansectomy for penile cancer, and my goal is to distill the treatment recommendations into a usable format. Here's how I see it:
+
+First, I need to methodically comb through this paper – abstract, intro, methods, results, the whole shebang – to pinpoint any statements that are essentially clinical recommendations or strong suggestions. Keywords like "should," "recommended," and "is the standard" will be my bread and butter. I'm also going to trust strong statements about the suitability of a treatment as recommendations in their own right.
+
+My next step is to break down each recommendation into its core components. I'm going to look at the aspect of care – is this primary treatment, follow-up, a surgical technique, or something else? Then, I'll dive into the specifics: the clinical indications, any stage or grading details, anatomical specifics like the glans or corporal tips, and so on. Of course, I'll identify the treatment itself and any conditions or caveats – "wherever possible," that sort of thing. I'll also note anything about lymph node status or follow-up that the paper touches on.
+
+Finally, I'll synthesize all this information into a clear, concise statement for the "Recommendation" column of my table. I'm aiming for a structured output, and I'll create a Markdown table with "Aspect of Care" and "Recommendation" columns, just as requested.
+
+Now, here's what I've gleaned from the paper:
+
+*   **Primary Treatment:** For invasive penile cancer confined to the glans, glansectomy is commonly performed. Invasive lesions confined to the glans can be safely treated with glansectomy. Penile-preserving surgery (PPS) should be performed wherever possible. PPS is now the standard treatment to preserve penile length and function without compromising oncological outcomes in suitable cases. Glansectomy is suitable for PeCa invading the glans spongiosum (T2).
+*   **Surgical Technique/ Primary Treatment:** In cases with tumor extension into the distal corporal tips, glansectomy should be combined with distal corporectomy. Acceptable surgical margins for penile-preserving surgery should be less than 5mm.
+*   **Salvage Treatment:** Local recurrence or positive surgical margins after initial treatment (e.g., glansectomy) warrants salvage penectomy.
+*   **Follow-Up Care/ Patient Selection:** Patients undergoing PPS require strict follow-up protocols. Furthermore, clinicians should ensure that patients will be able to self-examine and attend regular follow-up appointments.
+*   **Surgical Technique:** Frozen section analysis of proximal margins should be considered during glansectomy/PPS in some cases. Following glansectomy, deep separate tunical biopsies from the corpora can aid with accurate pathological assessment of surgical margins.
+*   **Diagnosis/Staging:** Formal staging with MRI is crucial to differentiate T2 from T3 disease before selecting patients for glansectomy (alone or with distal corporectomy).
+*   **Setting of Care/Surgical Practice:** Penile cancer surgery should be performed in high-volume specialist centers by experienced surgeons.
+ Based on the systematic review provided, the following explicit treatment recommendations for penile cancer are extracted and organized as requested.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment** | **Penile-Preserving Surgery (PPS):** Should be performed wherever possible as it is the standard treatment to preserve penile length and function without compromising oncological outcomes. |
+| **Primary Treatment** | **Glansectomy:** Is the indicated treatment for invasive penile cancer (PeCa) confined to the glans penis, including lesions invading the glans spongiosum (T2). |
+| **Primary Treatment / Surgical Technique** | **Glansectomy with Distal Corporectomy:** For tumors extending into the distal corporal tips, a distal corporectomy should be performed in addition to glansectomy. |
+| **Surgical Technique** | **Surgical Margins:** A resection margin of less than 5 mm is acceptable for achieving oncological control in penile-preserving surgery (PPS). |
+| **Surgical Technique** | **Intraoperative Margin Assessment:** Frozen section analysis of proximal margins should be considered during surgery to reduce the risk of positive margins, local recurrence, and subsequent penectomy. |
+| **Surgical Technique / Staging** | **Intraoperative Biopsies:** Following glansectomy, deep separate tunical biopsies should be obtained from the corpora to ensure an accurate pathological assessment of the deep surgical margins. |
+| **Diagnosis / Staging** | **Preoperative Imaging:** Formal staging with magnetic resonance imaging (MRI) is important before surgery to distinguish between T2 (spongiosum invasion) and T3 (cavernosa involvement) disease. This helps in selecting the correct patients for glansectomy alone versus glansectomy with distal corporectomy. |
+| **Salvage Treatment** | **Salvage Penectomy:** Patients who experience a local recurrence or are found to have positive surgical margins after initial organ-sparing surgery can be offered a salvage penectomy. |
+| **Follow-up Care** | **Strict Follow-up:** A strict follow-up protocol is necessary after penile-preserving surgery (PPS) due to a higher incidence of local recurrence compared to more radical procedures. |
+| **Patient Selection & Follow-up Care** | **Patient Education and Compliance:** Before performing PPS, clinicians must ensure that patients are capable of and will commit to regular self-examination and attending scheduled follow-up appointments. |
+| **Setting of Care** | **Referral to Specialist Centers:** As penile cancer is a rare disease, surgery should be performed in high-volume specialist centers by experienced surgeons to optimize outcomes. |

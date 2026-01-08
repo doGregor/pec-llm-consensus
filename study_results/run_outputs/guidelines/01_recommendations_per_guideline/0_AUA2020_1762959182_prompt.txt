@@ -1,0 +1,897 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided guideline on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Guideline (context):
+    
+    ## AUA
+### 2020
+# ** Update Series**
+###### Lesson 8 Volume 39
+##### Treatment of Early Stage Squamous Cell Carcinoma of the Penis*
+
+*Learning Objective:* At the conclusion of this continuing medical education activity, the
+participant should be able to evaluate early stage penile cancer, and be familiar with the
+epidemiology, risk factors and variety of options and algorithms used to treat early stage penile
+
+cancer.
+###### *Reza Nabavizadeh, MD *
+
+Disclosures: Nothing to disclose
+###### *Asser Shahin, MD *
+
+Disclosures: Nothing to disclose
+###### *and* *Viraj A. Master, MD *
+
+Disclosures: Nothing to disclose
+
+Department of Urology
+Emory University
+Atlanta, Georgia
+
+***This AUA Update addresses the Core Curriculum topic of Oncology - Adult and the American Board of Urology Module:**
+**Oncology, Urinary Diversion and Adrenal.**
+
+
+Off-label or Unapproved Use of Drugs or Devices: The
+audience is advised that this continuing medical education
+activity may contain reference(s) to off-label or unapproved
+uses of drugs or devices. Please consult the prescribing
+information for full disclosure of approved uses.
+
+Disclaimer: The opinions and recommendations expressed
+by faculty, authors and other experts whose input is
+included in this program are their own and do not
+necessarily represent the viewpoint of the AUA.
+
+Reproduction Permission: Reproduction of written
+materials developed for this AUA activity is prohibited
+without the written permission from individual authors and
+the American Urological Association.
+
+Release date: March 2020
+
+
+Education Conflict of Interest Review Committee or
+its subgroup.
+y y Limit content to evidence with no recommendations
+
+y y Introduction of a debate format with an unbiased
+moderator (point-counterpoint)
+y y Inclusion of moderated panel discussion
+
+y y Publication of a parallel or rebuttal article for an
+article that is felt to be biased
+y y Limit equipment representatives to providing
+logistics and operation support only in procedural
+demonstrations
+y y Divestiture of the relationship by faculty
+
+
+This self-study continuing medical education activity is
+designed to provide urologists, Board candidates and/or
+residents affordable and convenient access to the most
+recent developments and techniques in urology.
+
+Accreditation: The American Urological Association (AUA)
+is accredited by the Accreditation Council for Continuing
+Medical Education (ACCME) to provide continuing medical
+education for physicians.
+
+Credit Designation: The American Urological Association
+designates this enduring material for a maximum of 1.0
+*AMA PRA Category 1 Credits* [TM] . Physicians should claim
+only the credit commensurate with the extent of their
+participation in the activity.
+
+Other Learners: The AUA is not accredited to offer credit to
+participants who are not MDs or DOs. However, the AUA will
+issue documentation of participation that states that the
+activity was certified for *AMA PRA Category 1 Credit* ™.
+###### American Urological Association
+
+
+Evidence-Based Content: It is the policy of the AUA to
+ensure that the content contained in this CME enduring
+material activity is valid, fair, balanced, scientifically
+rigorous, and free of commercial bias.
+
+AUA Disclosure Policy: All persons in a position to control
+the content of an educational activity (i.e., activity
+planners, presenters, authors) provided by the AUA are
+required to disclose to the provider any relevant financial
+relationships with any commercial interest. The AUA must
+determine if the individual’s relationships may influence the
+educational content and resolve any conflicts of interest
+prior to the commencement of the educational activity.
+The intent of this disclosure is not to prevent individuals
+with relevant financial relationships from participating, but
+rather to provide learners information with which they can
+make their own judgments.
+
+Resolution of Identified Conflict of Interest: All disclosures
+will be reviewed by the program/course directors or editors
+for identification of conflicts of interest. Peer reviewers,
+working with the program directors and/or editors, will
+document the mechanism(s) for management and
+resolution of the conflict of interest and final approval of
+the activity will be documented prior to implementation.
+Any of the mechanisms below can/will be used to resolve
+conflict of interest:
+
+
+y y Peer review for valid, evidence-based content of all
+materials associated with an educational activity
+by the course/program director, editor and/or
+
+
+Expiration date: March 2023
+
+
+Education and Research, Inc. Expiration date: March 2023
+1000 Corporate Boulevard
+Linthicum, MD 21090 *© 2020 American Urological Association Education and Research, Inc., Linthicum, MD*
+
+
+**73**
+
+Key Words: penile neoplasms; carcinoma, squamous cell;
+administration, topical; conservative treatment; laser therapy
+
+**EPIDEMIOLOGY, RISK FACTORS AND NATURAL**
+**HISTORY**
+
+Penile cancers are rare but often aggressive neoplasms that
+affect less than 1% (0.4% to 0.6%) of the total male population
+in Europe and the United States. [1 ] However, the prevalence of
+the disease varies in different geographical regions with rates
+as high as 10% in some developing countries. [2-4] Prevalence is
+lower in countries that practice neonatal circumcision, promote
+HPV vaccination, and have high levels of health care awareness
+and socioeconomic standards that allow for routine hygiene to
+prevent phimosis. [5] The tumor most commonly develops at the
+penile foreskin or glans. [2] The incidence of primary malignant
+penile cancer increases with age, especially after the 6th decade
+of life.
+Epidemiological analysis using the SEER (Surveillance,
+Epidemiology, and End Results) database indicates that
+black men have a significantly higher incidence of primary
+malignant penile cancer (0.90/100,000) compared to white
+men (0.70/100,000) or men of other races (0.34/100,000). Risk
+factors for squamous cell carcinoma of the penis include HPV
+infection, poor genital hygiene, multiple sexual partners, malewith-male anal intercourse, lack of circumcision, [2] tobacco use [6]
+and heavy alcohol consumption. [7] The risk of a penile tumor is
+proportionate with a higher median duration of HPV infection. [8] The Centers for Disease Control and Prevention recently
+found that HPV associated penile cancers are more likely to
+develop in black and Hispanic men than in white and nonHispanic men. [9]
+
+**DIAGNOSIS**
+
+Diagnosis begins with a thorough physical examination. The
+lesion is assessed for size, location and involvement of the
+corporal body or urethra. Inguinal lymph nodes must be palpated for lymphadenopathy. Examination of the scrotum and
+base of the penis is also required to evaluate for possible tumor
+involvement. Definitive diagnosis is achieved through tissue
+sampling/excision, as penile cancers might be confused with
+non-cancerous lesions. Imaging is often required to determine
+the extent of tumor invasion and inguinal lymph nodes, as
+relying only on palpation and physical examination can result
+in false-negative findings, [10] especially in obese patients.
+de Vries et al recommend combining physical examination
+with Doppler ultrasound to determine whether organ sparing
+techniques can be performed in potential candidates. [11] Magnetic resonance imaging with or without artificial erection is also
+used for local staging in cases of organ preserving surgery. [12]
+Computerized tomography of the chest, abdomen and pelvis
+is typically performed to evaluate the spread of cancer to the
+lymph nodes and more distant locations. [13] It is important that
+the scan go through the mid thigh to ensure the groin is included on the radiology interpretation.
+
+
+**TOPICAL THERAPIES**
+
+Topical treatments, cryotherapy, circumcision, laser and photodynamic therapy are often used as first line treatment options
+for non-invasive and early stage penile malignancies (carcinoma in situ, Ta and T1). [14] Topical treatment has been suggested
+to be the most effective for early stage penile cancer given that
+surgical resection and systemic chemotherapy may be unnecessary. [15] The most common chemotherapeutic compounds for
+topical application for early stages of penile cancers are fluorouracil and imiquimod.
+The use of 5-FU is widely accepted for treatments involving early stage penile condylomas and carcinoma in situ. [16] Its
+mechanism of action is through interference with DNA replication, principally as an inhibitor of the enzyme thymidylate
+synthase. Once administered topically 5-FU enters the cells
+where it undergoes ribosylation and phosphorylation, resulting
+in an end product that resembles a nucleotide. 5-FU then binds
+to thymidylate synthase through cofactor 5,10-methylene tetrahydrofolate, thus inhibiting the methylation process of deoxyuridine monophosphate to thymidine monophosphate. This
+process leads to scarcity of available thymidine, which limits
+DNA synthesis, reduces cell growth and eventually causes cell
+death. [17] In terms of treatment outcomes there is no superior
+topical treatment modality. The treatment of choice depends
+on patient tolerance of treatment and physician level of
+comfort with the available therapeutic options. [16] Side effects of
+topical 5-FU are usually rare and mild, and include application
+site reactions (such as redness, dryness, burning, erosion, pain,
+irritation and swelling), headache, allergy and upper respiratory infection. [15]
+
+Imiquimod is a 5% topical that can be used topically due to
+its molecular size and hydrophobic nature. [18] It primarily inhibits
+tumor growth through activating Toll-like receptor 7, which is
+expressed on hematopoietic cells such as plasmacytoid dendritic cells and B cells. Upon activation imiquimod promotes secretion of cytokines, interleukin 6 and tumor necrosis factor-α, and
+acts by reducing interleukin 10 signals, [19, 20] thereby inhibiting
+tonic anti-inflammatory signals. [21] Evidence for the use of topical IQ for penile cancer is scarce and outcomes are mixed.
+Deen and Burdon-Jones conducted a review of 22 case
+reports and 7 small case series in which IQ was used to treat
+penile intraepithelial neoplasia. [22] Of a total of 48 patients
+32 presented with Erythroplasia of Queyrat, 8 with Bowen’s
+disease and 8 with bowenoid papulosis. Complete and partial
+response occurred in 30 (62.5%) and in 4 (8%) patients, respectively, and 14 (29%) had no response. Treatments given fewer
+than 4 times weekly appeared to bestow a longer duration
+of complete response (81%), although the duration of treatment was extended (mean 113 days). Treatments given more
+than 4 times weekly (mean duration 53 days) resulted in a
+complete response rate of 68%. The number of studies in this
+review were heterogeneous in terms of duration of treatment,
+frequency of application and follow-up. This heterogeneity and
+the variations in outcomes make drawing unbiased conclusions
+on the efficacy of IQ difficult. The most common adverse reactions associated with IQ are skin irritation at the application
+
+
+**ABBREbbrevIATIONiationS** : 5-FU ( fluorouracil ), HPV ( human p a p illomavirus ), IQ ( imi q uimod ), PDT (p hotod y namic thera py), YAG
+~~(~~ yttrium-aluminum-garnet ~~)~~
+
+**74**
+
+site, headache, flu-like symptoms and myalgia. The U.S. Food
+and Drug Administration has approved the use of imiquimod
+under the name Aldara™ for the treatment of external genital
+and anal warts in adults.
+
+Alnajjar et al retrospectively reviewed 44 cases of penile
+carcinoma in situ treated with topical agents. [15] First line therapy
+was 5-FU and the second line topical agent was IQ. At a mean
+follow-up of 34 months complete resolution was reported in
+25 cases (57%), partial response in 6 (13.6%) and no improvement in size or visibility in the remaining 13 (29.5%). In addition, adverse events were reported in 12% of the subjects after
+the administration of 5-FU and local toxicity in 10%. In a retrospective study of 86 patients with penile carcinoma in situ and
+follow-up greater than 10 years the complete response rate was
+50% for topical 5-FU vs 44% for IQ, partial response rate with
+5-FU was 31% and the no response rate with IQ was 56%.
+
+Patients should be monitored closely after using topical
+agents because there is some evidence that exposure might
+increase the risk of local melanoma. [23] Exposure can also lead
+to vitiligo or vitiligo-like hypopigmentation [24-26 ] which might be
+associated with the development of local or distant autoimmune disorders. [27, 28] Autoimmune disorders were not frequently
+observed after use of topical agents by transplant recipients
+on immunosuppression. [29-32] It is important to note that topical treatment is ineffective for more advanced stages of penile
+cancer [33] and, therefore, early and accurate diagnosis is critical
+before prescribing topical chemotherapy.
+
+**LASER THERAPY**
+
+Laser therapy can be performed as monotherapy or in conjunction with local margin excision. According to current
+guidelines a margin of 5 mm is considered oncologically safe. [14, ]
+
+34, 35 However, multiple recent studies indicate that even tighter
+margins can be safe and are not associated with worse overall
+survival. As with all organ sparing techniques, appropriate
+patient selection for laser therapy is key to maximizing its
+efficacy. [36] The 4 commonly used lasers are CO 2, argon, potassium titanyl phosphate and YAG. [37-45] The CO 2 and YAG lasers
+are used most frequently for penile cancer (see Appendix).
+However, the superficial depth of penetration (limited to 0.1
+mm) of the CO 2 laser makes it a suboptimal choice. Microsurgery involves tumor resection with laser by incising lateral
+and deep margins, followed by peripheral vaporization of the
+wound to promote collagen formation. [46-48]
+The efficacy of CO 2 laser treatment for early stage penile
+squamous cell carcinoma and carcinoma in situ was assessed
+in a study of 224 patients. [37] The retrospective analysis excluded cases of pretreated or recurrent lesions, urethral extensions beyond the meatus, regional lymph node involvement
+and previous concomitant occurrence of other malignancies.
+Forty patients received reductive systemic chemotherapy with
+vincristine, bleomycin and methotrexate followed by CO 2 laser
+tumor excision. The remaining patients were treated with tumor
+excision using CO 2 laser and no chemotherapy. The technical
+success rate was approximately 97% with no intraoperative
+complications and only negligible postoperative complications
+that ranged from local edema to mild bleeding. The 10-year
+recurrence rate was 17.5% (95% CI 16.4-18.6) and only 9
+patients (5.5%, 95% CI 5.2-5.7) required penile amputation in
+the 10-year period. Given that this was a retrospective analysis,
+the decision to administer neoadjuvant chemotherapy was not
+
+
+standardized and likely depended on case specific clinical decision making. Thus, a clear conclusion regarding the efficacy of
+neoadjuvant chemotherapy before laser treatment cannot be
+drawn based on this study.
+In a study on the histopathological nature of the tumor and
+correlations with local recurrence Colecchia et al examined
+56 cases after CO 2 laser therapy with a median follow-up of
+66 months. [38] Among these patients 3 (5.3%) died of unrelated
+causes, 13 (23.2%) had local tumor recurrence and 4 (7.1%)
+experienced multiple recurrences with only 1 (1.8%) patient
+requiring amputation. A strong correlation between histopathology (margin status, depth of invasion, extent of tumor
+extension) and local recurrence was confirmed.
+The YAG laser has an increased depth of penetration (up to
+6 mm), and cell death is caused by high wavelength laser beams
+followed by coagulation of the affected area. [44, 49] Results from
+newer series on the Nd:YAG laser have been more encouraging compared to those for the CO 2 laser. The efficacy of the
+Tm:YAG laser for early stage penile cancer was assessed in 26
+patients, of whom 11 (47.8%) presented with pTis and 7 with
+pT1a (30.4%) disease. [44] Invasive cancer recurred postoperatively in 2 cases after a mean follow-up of 6.5 months (IQR 4
+to 8). The recurrences were histopathologically classified as
+grade 3 and were re-treated with Tm:YAG laser. At 12-month
+follow-up both patients were disease-free. In another retrospective study the efficacy of the Nd:YAG laser was assessed
+in 32 patients, of whom 25 had stage T1 disease. [49] At a median
+follow-up of 70 months (range 6 to 120) there were no reported
+recurrences in any patient with pT1 disease and no significant
+postoperative limitations in sexual function or micturition.
+In a systematic review Maranda et al pooled data from 8
+studies to evaluate the efficacy of CO 2 and YAG laser, and
+photodynamic therapy as first line treatment of Erythroplasia
+of Queyrat. [50] The CO 2 laser was used in 27 cases and the YAG
+laser in 7. One patient who underwent Mohs micrographic
+surgery and CO 2 laser therapy experienced recurrence 4 years
+after therapy. Treatment was administered in 1 to 3 sessions and
+follow-up ranged from 4 weeks to 6 months. Complete remission was reported in 33 of the 34 cases (97%).
+PDT has been used to treat basal cell carcinomas, squamous
+cell carcinoma and other skin cancers. Use of a photosensitizer,
+such as 5-aminolevulinic acid or 5-methyl-aminolevulinic acid,
+causes accumulation of protoporphyrin IX in tumor cells, which
+is subsequently activated by visible light and causes selective
+destruction of abnormal cells. A wide range of treatment durations and hybrid outcomes has been described, generating
+uncertainty regarding the efficacy of PDT. However, Maranda
+et al found that use of methyl-aminolevulinic acid as a sensitizer was slightly more effective than aminolevulinic acid as
+monotherapy, with a 62.5% remission rate for MAL-PDT vs
+58.3% for ALA-PDT. The majority of patients maintain an
+active sexual life after laser therapy with preserved erectile
+function [37] and no significant sexual dysfunction. [51]
+
+The high rate of local recurrence after laser therapy, which is
+48% in some studies, [41, 52, 53] remains a primary limitation of its
+use. However, the majority of reported recurrences were higher
+stage penile cancer, emphasizing the importance of carefully
+assessing the stage and histopathology of the tumor before
+proceeding with laser as first line treatment. The majority of
+local recurrences develop within 6 months after laser therapy,
+beyond which the rate of recurrence rapidly declines to only
+
+**75**
+
+2% after 4 years. [54] To improve outcomes from laser surgery,
+some have argued for the concomitant use of fluorescence
+guidance, [55] or neoadjuvant/adjuvant radiotherapy or chemotherapy. [37-39] However, more data are required to clearly elucidate the role of these additional treatments in combination
+
+with laser therapy.
+
+**SURGERY**
+
+Because there is no level I evidence guiding treatment of penile
+cancer, current management guidelines are largely based on
+retrospective studies. Most experts consider R0 surgical excision of the penile tumor to be the gold standard of treatment.
+While for higher stage/grade tumors this would mean partial
+or total penectomy, there has been a shift towards organ preserving techniques for patients with low volume disease of
+favorable histopathology (stages Tis, Ta, T1 and grades 1, 2).
+The 4 commonly used surgical approaches for the treatment
+of early stage penile cancer are 1) organ and sexual function
+preservation including circumcision, 2) tumor-only excision,
+3) Mohs surgery and 4) glansectomy for tumors on the glans
+penis. More aggressive surgical approaches such as partial
+and total penectomy are acceptable options for patients with
+unfavorable histopathology or recurrent disease, or those who
+would not be surgical candidates in the event of recurrence.
+Foreskin circumcision is indicated for preputial disease in
+uncircumcised men and for acquired phimosis secondary to
+preputial tumors, and can be curative for low grade and low
+stage disease. [56, 57] However, close postoperative follow-up
+is crucial. Higher rates of recurrence have been reported in
+patients treated with circumcision, especially those with tumors
+located more proximal and closer to the coronal sulcus. In
+such cases the circumcision margin will need to be extended to
+ensure adequate oncologic resection. Similarly, close follow-up
+is critical for patients with moderately or poorly differentiated
+tumors (grades 2 and 3), as these will require inguinal node
+dissection. [56, 57]
+
+Mohs surgery is not widely performed by urologists and
+to date only 2 retrospective studies of outcomes have been
+published. [58, 59] The procedure involves sequential excision of
+tissue layers with concurrent microscopic examination of the
+undersurface of each layer to ensure negative margins. The aim
+of this approach is to achieve negative margins while maximally
+sparing tissues uninvolved by tumorous growth. Mohs surgery
+can be considered for disease of favorable histopathology and
+when the affected area is within the distal penis or glans penis. [60]
+In the original series Mohs surgery efficacy was based on Jackson stage. [58] In 29 patients with Jackson stage I or II disease the
+5-year recurrence-free survival rate was 79.3%. Shindel et al
+reported results of their retrospective study of 33 patients with
+stage Tis (26), T1 (4), T2 (7) and T3 (4) penile cancer. [59 ] Five
+procedures were terminated with positive margins because of
+urethral involvement in 3 and defect size in 2.
+
+Follow-up data were available for 25 patients, of whom 8
+(32%) had recurrence, which was managed by repeat Mohs
+micrographic surgery in 7 and penectomy in 1. Tumor progressed
+from T1 to T3 (meatal involvement) in 1 case and from T1 to
+inguinal lymph node involvement in 1 case. One patient died
+of metastatic disease. At a mean follow-up of almost 5 years
+the recurrence-free survival rate was 68%, overall survival was
+92% and disease specific survival was 96%. Currently there is
+no evidence to suggest Mohs surgery is superior to negative
+
+**76**
+
+
+intraoperative frozen section margins in terms of oncologic
+
+outcomes.
+
+Total and partial glansectomy, and glans resurfacing have
+gained interest since nearly 80% of penile squamous cell carcinoma occurs distally, [57, 61] with the majority (48%) of lesions
+developing on the glans penis (figs. 1 to 3). [2, 62] However, this
+surgical approach can result in significant side effects including
+wound contraction and growth of the skin graft over or around
+the urethral meatus. [53, 55, 63] Further postoperative assessment
+of functional and sexual outcomes is required, [64] as even after
+successful surgical resection, cancer specific survival rates are
+dependent on tumor pattern of invasion and stage. Tumors of
+an infiltrating pattern and/or higher stage are strongly correlated with a decrease in survival. [65] More frequent follow-up
+is recommended for these higher risk cases to assess for local
+recurrence, especially when 2 or more risk factors are present. [66]
+In experienced hands tumor excision with negative intraoperative frozen section margins can be performed safely in well
+selected patients. In light of more evidence, the previous goal
+of a 2 cm surgical margin is no longer applicable. Histological
+analysis of 64 penectomy specimens by Agrawal et al confirmed
+that microscopic tumor spread is highly correlated with tumor
+grade. [67] The maximum proximal histological extent was 5 mm
+for grade 1 and 2 tumors and 10 mm for grade 3 tumors. In
+another study higher tumor grade correlated with a greater
+likelihood of disease recurrence following penile preserving
+surgery. [35] There was no recurrence in 9 of 88 patients with
+T1 tumors and histopathological grade 1, 1 of 19 with histopathological grade 2 and 5 of 60 with histopathological grade
+3 disease.
+
+In a retrospective study based on tumor stage the 5-year
+recurrence-free survival rates following penile sparing surgery
+were 75% for stage Ta/Tis disease, 71.4% for stage T1 disease
+and an overall rate of 88.1%. [68] Moreover, positive margins were
+associated with a higher rate of recurrence on multivariate
+analysis but this did not correlate with disease stage. The rate
+of positive margins ranged from 28.7% for T2 tumors to 30.9%
+and 35.9% for Ta/Tis and T1 tumors, respectively (p=0.214).
+Recurrences developed in the first year in 39.1% of the cases.
+Overall, penile preserving techniques are feasible options
+and should be considered for low volume, low stage penile
+cancer with favorable histopathology. The choice of therapy
+should involve a shared decision making process between the
+patient and the surgeon highlighting the risks and benefits of
+each approach. Close follow-up for at least 5 years is required
+to detect and re-treat any potential recurrences.
+
+**RADIATION**
+
+Traditionally, radiation therapy via external beams or radiation emitting implants was promoted as an efficient approach
+to early stage penile cancers. The American Brachytherapy
+Society and European Society of Therapeutic Radiation Oncology reported outcomes of brachytherapy primarily focused on
+stages T1 and T2 disease. [69-73] A recent study concluded that
+radiotherapy was associated with more local complications and
+lower control rates. [45] Possible complications include urethral
+stricture, glans necrosis and late onset fibrosis of the corpora
+cavernosa. [70, 73, 74] Urologists may consider radiation for patients
+who are unfit for surgery and are willing to accept the late onset
+side effects associated with it. Given the higher success rates of
+surgical approaches, surgery remains the preferred approach to
+
+**Figure 1** . Partial glansectomy with concomitant partial thickness skin grafting.
+
+*Fi* *2
+ Gl* *f* *i* *i h* *i* *i l
+ hi k* *ki* *f i*
+**Figure 2** . Glans resurfacing with concomitant partial thickness skin grafting.
+
+
+**77**
+
+**Figure 3** . Total glansectomy.
+
+penile cancer, and should be performed with the patient under
+light sedation with a penile block for early stage tumors (fig. 4).
+
+**CONCLUSION**
+
+Organ preserving approaches are safe and feasible for early
+stage, low grade squamous cell carcinoma of the penis.
+
+
+Accurate pathological diagnosis is necessary before initiating therapy, and inguinal lymph nodes must be evaluated for
+lymphadenopathy. Topical therapies with 5-FU and IQ are
+safe for non-bulky tumors, whereas bulkier tumors that do not
+respond to topical therapy can be managed with laser therapy
+and surgical excision (excisional biopsy, circumcision, glans
+resurfacing, partial and total glansectomy).
+
+
+
+
+
+
+
+
+
+
+
+
+**Figure 4** . Treatment algorithm for early/low stage penile squamous cell carcinoma. Asterisk indicates lesions located on glans
+penis. Double asterisks indicate partial or radical penectomy reserved for high risk of recurrent lesions in cases in which follow-up
+after treatment with other possible organ preserving approaches is unreliable.
+
+**78**
+
+**DID YOU KNOW?**
+
+  - Topical treatments, cryotherapy, circumcision, laser
+treatment and photodynamic therapy can be considered
+first line treatment options for non-invasive and early
+stage penile malignancies (carcinoma in situ, Ta and T1).
+
+  - It is important to note that topical treatment is inef~~fective~~ ~~for~~ ~~more~~ ~~advanced~~ ~~stages~~ ~~of~~ ~~penile~~ ~~cancer~~ ~~and~~,
+therefore, early and accurate diagnosis is critical prior to
+prescribing topical chemotherapy.
+
+  - Laser therapy can lead to good cosmesis and function.
+However, the high rate of local recurrence remains a
+primary limitation to this mode of treatment. The majority of local recurrences develop within the first 6 months
+
+
+after laser therapy. Therefore, close follow-up especially
+during the first 6 months is recommended.
+
+- The 4 commonly performed surgical approaches for
+treatment of early stage penile cancer (Tis, Ta, T1, and
+grades 1 and 2) with a focus on organ and sexual function preservation are circumcision, tumor only excision,
+Mohs surgery and glansectomy for tumors on the glans
+penis. Regardless of the surgical approach, the goal
+should be to obtain R0 resection with negative margins.
+
+- More aggressive surgical approaches such as partial and
+total penectomy are acceptable options for unfavorable
+histopathology or recurrent disease, or patients who
+would not be surgical candidates in the event of recur
+rence.
+
+
+
+|Appendix. Dif|fferent laser modalitie|es used for treatment of earl|ly stage penile canc|cer|Col6|
+|---|---|---|---|---|---|
+|Type|Characteristics|Technique|Follow-up|Recovery|Indications|
+|Carbon dioxide laser|• Most com- monly used. • Superfci ial depth of penetration limited to 0.1 mm. • Continuous wave and super-pulsed wave modest at recommend- ed setting of 15-20 W.|1. Acetic acid preparation can make visualization of lesions more accurate and should be considered. 2. Most commonly, vaporization of the lesion, defocused beam at peripheral distance of 3-5 mm and continue to the reach depth of 0.5 mm at the wound bed. 3. Laser resection possible by incising lateral and deep margin. 4. Incision depth shall be 2.5 mm within lamina propria and 5 mm from visible tumor border.|Post-procedural follow-up after 2 months, then every 3 months for the fri st 3 years, and biannually thereafter.|Typically within 6 weeks.|1. Lesions less than 20 mm. in diameter. 2. Superfci ial tumors with shallow depth usually 1-2 mm. 3. Photodynamic control in conjunction with CO laser 2 is possible, but rarely used. 4. Multimodality therapy with adjuvant or neo-adjuvant radiotherapy possible, but very rarely indicated. 5. Even more rarely, and not practiced this way in the USA, multimodality therapy with adjuvant or neo-adjuvant chemo- therapy in cupuliform, papillomatous warty like with plurifocal exophytic lesions +/- ulcers or lesions > 20 mm. in size.|
+|Nd:YAG laser|• Deeper depth of penetration. • Wavelength 1064 nm. • Power and energy is adjustable with continuous wave mode at 30-50 W.|1. Examining and mapping with 5% acetic acid for 20 min. 2. Local and continu- ous‐wave mode at 30–50 W of console power in air (wave length: 1064 nm). 3. Intermittent cooling by locally administered saline, especially cold saline solution. 4. Visualization improved by photo- dynamic diagnosis.|Post-procedural follow-up every 3 months for the fri st 2 years, biannually thereafter.|Typically within 2 months.|1. Tumors up to 6 mm. in size. 2. Sizeable and deeper tumors. 3. Multimodality therapy with adjuvant or neo-adjuvant brachytherapy.|
+
+
+*continued*
+
+**79**
+
+
+
+
+
+**Appendix** *, continued*
+
+
+
+
+
+
+
+|Argon laser|Wavelength 488-514 nm.|1. Argon laser targets photosensitive agents (chromo- phobes) that are administered within the skin lesion. 2. Tumor cells absorb the agent more than surrounding tissue. 3. Argon laser, sub- sequently, activates the medicated area that destroys the tumor cells.|Within 1 week, then 2 months of treatment. Every 3 months thereafter.|Can take as long as 6-8 weeks.|Unlike Nd:YAG and carbon dioxide lasers, argon laser shall be restricted to macular, popular and pigmented lesions.|
+|---|---|---|---|---|---|
+|Potassium titanyl phos- phate laser (KTP/532)|• Wavelength 532 nm. • Power setting at 10 to 15 W.|Potassium-titanyl-phos- phate (KTP/532) laser is delivered at a power setting of 10 to 15 W.|Initially at 3-month and later at 6- to 12-month intervals.|Can take up to 2 months.|Not used frequently anymore.|
+
+
+**REFERENCES**
+
+1. Siegel RL, Miller KD and Jemal A: Cancer statistics, 2015.
+CA Cancer J Clin 2015; **65:** 5.
+2. Barnholtz-Sloan JS, Maldonado JL, Pow-Sang J et al:
+Incidence trends in primary malignant penile cancer. Urol
+Oncol 2007; **25:** 361.
+3. Brady KL, Mercurio MG and Brown MD: Malignant
+tumors of the penis. Dermatol Surg 2013; **39:** 527.
+4. Pow-Sang MR, Ferreira U, Pow-Sang JM et al: Epidemiology and natural history of penile cancer. Urology, suppl.,
+2010; **76:** S2.
+5. Douglawi A and Masterson TA: Penile cancer epidemiology and risk factors: a contemporary review. Curr Opin
+Urol 2019; **29:** 145.
+6. Daling JR, Madeleine MM, Johnson LG et al: Penile
+cancer: importance of circumcision, human papillomavirus
+and smoking in in situ and invasive disease. Int J Cancer
+2005; **116:** 606.
+7. Schabath MB, Thompson ZJ, Egan KM et al: Alcohol consumption and prevalence of human papillomavirus (HPV)
+infection among US men in the HPV in Men (HIM) study.
+Sex Transm Infect 2015; **91:** 61.
+8. Giuliano AR, Lee JH, Fulp W et al: Incidence and clearance of genital human papillomavirus infection in men
+(HIM): a cohort study. Lancet 2011; **377:** 932.
+9. Centers for Disease Control and Prevention: HPV and
+Cancer: HPV-associated cancers rates by race and ethnicity. August 2, 2019. Available at https://www.cdc.gov/cancer/
+hpv/statistics/race.htm.
+10. Horenblas S: Lymphadenectomy for squamous cell carcinoma of the penis. Part 1: diagnosis of lymph node metastasis. BJU Int 2001; **88:** 467.
+11. de Vries HM, Brouwer OR, Heijmink S et al: Recent
+developments in penile cancer imaging. Curr Opin Urol
+2019; **29:** 150.
+12. Barua SK, Kaman PK, Baruah SJ et al: Role of diffusionweighted magnetic resonance imaging (DWMRI) in
+assessment of primary penile tumor characteristics and its
+
+**80**
+
+
+correlations with inguinal lymph node metastasis: a prospective study. World J Oncol 2018; **9:** 145.
+13. Graafland NM, Leijte JA, Valdes Olmos RA et al: Scanning with 18F-FDG-PET/CT for detection of pelvic nodal
+involvement in inguinal node-positive penile carcinoma.
+Eur Urol 2009; **56:** 339.
+14. Hakenberg OW, Compérat E, Minhas S et al: EAU Guidelines on Penile Cancer. Arnhem, The Netherlands: European Urological Association 2016.
+15. Alnajjar HM, Lam W, Bolgeri M et al: Treatment of carcinoma in situ of the glans penis with topical chemotherapy
+agents. Eur Urol 2012; **62:** 923.
+16. Leung AK, Barankin B, Leong KF et al: Penile warts:
+an update on their evaluation and management. Drugs
+Context 2018; **7:** 212563.
+17. Longley DB, Harkin DP and Johnston PG: 5-Fluorouracil: mechanisms of action and clinical strategies. Nat Rev
+Cancer 2003; **3:** 330.
+18. Gerster JF, Lindstrom KJ, Miller RL et al: Synthesis and
+structure-activity-relationships of 1H-imidazo[4,5-c]
+quinolines that induce interferon production. J Med Chem
+2005; **48:** 3481.
+19. Schiller M, Metze D, Luger TA et al: Immune response
+modifiers—mode of action. Exp Dermatol 2006; **15:** 331.
+20. Stanley MA: Imiquimod and the imidazoquinolones:
+mechanism of action and therapeutic potential. Clin Exp
+Dermatol 2002; **27:** 571.
+21. Huang SJ, Hijnen D, Murphy GF et al: Imiquimod enhances IFN-gamma production and effector function of T cells
+infiltrating human squamous cell carcinomas of the skin. J
+Invest Dermatol 2009; **129:** 2676.
+22. Deen K and Burdon-Jones D: Imiquimod in the treatment
+of penile intraepithelial neoplasia: an update. Australas J
+Dermatol 2017; **58:** 86.
+23. Paul SP: Melanoma arising after imiquimod use. Case Rep
+Med 2014; **2014:** 267535.
+24. Garcia-Montero P, Repiso Jimenez JB, Fernandez Morano
+MT et al: Genital vitiligo-like hypopigmentation after
+
+treatment with 5% imiquimod. Actas Dermosifiliogr 2017;
+**108:** 378.
+25. Kim NH, Lee JB and Yun SJ: Development of vitiligo-like
+depigmentation after treatment of lentigo maligna melanoma with 5% imiquimod cream. Ann Dermatol 2018; **30:**
+454.
+26. Long FQ, Zhao LS and Qian YH: Vitiligo or vitiligo-like
+hypopigmentation associated with imiquimod treatment of
+condyloma acuminatum: not a casual event. Chin Med J
+(Engl) 2017; **130:** 503.
+27. Benson E: Imiquimod: potential risk of an immunostimulant. Australas J Dermatol 2004; **45:** 123.
+28. Mashiah J and Brenner S: Possible mechanisms in the
+induction of vitiligo-like hypopigmentation by topical
+imiquimod. Clin Exp Dermatol 2008; **33:** 74.
+29. Brown VL, Atkins CL, Ghali L et al: Safety and efficacy of
+5% imiquimod cream for the treatment of skin dysplasia in
+high-risk renal transplant recipients: randomized, doubleblind, placebo-controlled trial. Arch Dermatol 2005; **141:**
+985.
+30. Khatun A, Lotery H and Sundaram S: Successful treatment of high-grade vulval intra-epithelial neoplasia with
+imiquimod 5% in a renal transplant recipient. Int J STD
+AIDS 2019; **30:** 198.
+31. Markowitz O and Schwartz M: The use of noninvasive
+optical coherence tomography to monitor the treatment
+progress of vismodegib and imiquimod 5% cream in a
+transplant patient with advanced basal cell carcinoma of
+the nose. J Clin Aesthet Dermatol 2016; **9:** 37.
+32. Ulrich C, Bichel J, Euvrard S et al: Topical immunomodulation under systemic immunosuppression: results of a multicentre, randomized, placebo-controlled safety and efficacy
+study of imiquimod 5% cream for the treatment of actinic
+keratoses in kidney, heart, and liver transplant patients. Br
+J Dermatol, suppl., 2007; **157:** 25.
+33. van Delft LCJ, Nelemans PJ, Jansen MHE et al: Histological subtype of treatment failures after noninvasive therapy
+for superficial basal-cell carcinoma: an observational study.
+J Am Acad Dermatol 2019; **80:** 1022.
+34. Ornellas AA, Kinchin EW, Nobrega BL et al: Surgical
+treatment of invasive squamous cell carcinoma of the
+penis: Brazilian National Cancer Institute long-term experience. J Surg Oncol 2008; **97:** 487.
+35. Philippou P, Shabbir M, Malone P et al: Conservative
+surgery for squamous cell carcinoma of the penis: resection
+margins and long-term oncological control. J Urol 2012;
+**188:** 803.
+36. Raskin Y, Vanthoor J, Milenkovic U et al: Organ-sparing
+surgical and nonsurgical modalities in primary penile
+cancer treatment. Curr Opin Urol 2019; **29:** 156.
+37. Bandieramonte G, Colecchia M, Mariani L et al: Peniscopically controlled CO2 laser excision for conservative
+treatment of in situ and T1 penile carcinoma: report on 224
+patients. Eur Urol 2008; **54:** 875.
+38. Colecchia M, Nicolai N, Secchi P et al: pT1 Penile squamous cell carcinoma: a clinicopathologic study of 56 cases
+treated by CO2 laser therapy. Anal Quant Cytol Histol
+2009; **31:** 153.
+39. Piva L, Nicolai N, Di Palo A et al: [Therapeutic alternatives
+in the treatment of class T1N0 squamous cell carcinoma
+of the penis: indications and limitations]. Arch Ital Urol
+
+
+Androl 1996; **68:** 157.
+40. Frimberger D, Hungerhuber E, Zaak D et al: Penile carcinoma. Is Nd:YAG laser therapy radical enough? J Urol
+2002; **168:** 2418.
+41. Meijer RP, Boon TA, van Venrooij GE et al: Long-term follow-up after laser therapy for penile carcinoma. Urology
+2007; **69:** 759.
+42. Rothenberger KH and Hofstetter A: [Laser therapy of
+penile carcinoma]. Urologe A 1994; **33:** 291.
+43. Zreik A, Rewhorn M, Vint R et al: Carbon dioxide laser
+treatment of penile intraepithelial neoplasia. Surgeon
+2017; **15:** 321.
+44. Musi G, Russo A, Conti A et al: Thulium-yttrium-aluminium-garnet (Tm:YAG) laser treatment of penile cancer:
+oncological results, functional outcomes, and quality of life.
+World J Urol 2018; **36:** 265.
+45. Hakenberg OW and Protzel C: [Focal therapy for penile
+cancer]. Urologe A 2016; **55:** 616.
+46. Bandieramonte G, Santoro O, Boracchi P et al: Total resection of glans penis surface by CO2 laser microsurgery. Acta
+Oncol 1988; **27:** 575.
+47. Bandieramonte G, Lepera P, Marchesini R et al: Laser
+microsurgery for superficial lesions of the penis. J Urol
+1987; **138:** 315.
+48. Goldman MP, Marchell N and Fitzpatrick RE: Laser skin
+resurfacing of the face with a combined CO2/Er:YAG
+laser. Dermatol Surg 2000; **26:** 102.
+49. Tewari M, Kumar M and Shukla HS: Nd:YAG laser treatment of early stage carcinoma of the penis preserves form
+and function of penis. Asian J Surg 2007; **30:** 126.
+50. Maranda EL, Nguyen AH, Lim VM et al: Erythroplasia of
+Queyrat treated by laser and light modalities: a systematic
+review. Lasers Med Sci 2016; **31:** 1971.
+51. van Bezooijen BP, Horenblas S, Meinhardt W et al: Laser
+therapy for carcinoma in situ of the penis. J Urol 2001; **166:**
+1670.
+52. Bissada NK, Yakout HH, Fahmy WE et al: Multi-institutional long-term experience with conservative surgery for
+invasive penile carcinoma. J Urol 2003; **169:** 500.
+53. Pietrzak P, Corbishley C and Watkin N: Organ-sparing
+surgery for invasive penile cancer: early follow-up data.
+BJU Int 2004; **94:** 1253.
+54. Tang DH, Yan S, Ottenhof SR et al: Laser ablation as
+monotherapy for penile squamous cell carcinoma: a multicenter cohort analysis. Urol Oncol 2018; **36:** 147.
+55. Schlenker B, Gratzke C, Seitz M et al: Fluorescence-guided
+laser therapy for penile carcinoma and precancerous
+lesions: long-term follow-up. Urol Oncol 2011; **29:** 788.
+56. Li J, Zhu Y, Zhang SL et al: Organ-sparing surgery for
+penile cancer: complications and outcomes. Urology 2011;
+**78:** 1121.
+57. Martins FE, Rodriques RN and Lopes TM: Organ-preserving surgery for penile carcinoma. Adv Urol 2008; doi:
+10.1155/2008/634216.
+58. Mohs FE, Snow SN and Larson PO: Mohs micrographic
+surgery for penile tumors. Urol Clin North Am 1992; **19:**
+291.
+59. Shindel AW, Mann MW, Lev RY et al: Mohs micrographic
+surgery for penile cancer: management and long-term followup. J Urol 2007; **178:** 1980.
+60. Wells MJ and Taylor RS: Mohs micrographic surgery for
+
+**81**
+
+penoscrotal malignancy. Urol Clin North Am 2010; **37:** 403.
+61. McDougal WS: Phallic preserving surgery in patients with
+invasive squamous cell carcinoma of the penis. J Urol 2005;
+**174:** 2218.
+62. Marchionne E, Perez C, Hui A et al: Penile squamous
+cell carcinoma: a review of the literature and case report
+treated with Mohs micrographic surgery. An Bras Dermatol 2017; **92:** 95.
+63. Shabbir M, Muneer A, Kalsi J et al: Glans resurfacing for
+the treatment of carcinoma in situ of the penis: surgical
+technique and outcomes. Eur Urol 2011; **59:** 142.
+64. Parnham AS, Albersen M, Sahdev V et al: Glansectomy
+and split-thickness skin graft for penile cancer. Eur Urol
+2018; **73:** 284.
+65. Aita G, da Costa WH, de Cassio Zequi S et al: Pattern of
+invasion is the most important prognostic factor in patients
+with penile cancer submitted to lymph node dissection and
+pathological absence of lymph node metastasis. BJU Int
+2015; **116:** 584.
+66. Albersen M, Parnham A, Joniau S et al: Predictive factors
+for local recurrence after glansectomy and neoglans reconstruction for penile squamous cell carcinoma. Urol Oncol
+2018; **36:** 141.
+67. Agrawal A, Pai D, Ananthakrishnan N et al: The histologi
+**82**
+
+
+cal extent of the local spread of carcinoma of the penis and
+its therapeutic implications. BJU Int 2000; **85:** 299.
+68. Baumgarten A, Chipollini J, Yan S et al: Penile sparing
+surgery for penile cancer: a multicenter international retrospective cohort. J Urol 2018; **199:** 1233.
+69. Crook J, Jezioranski J and Cygler JE: Penile brachytherapy:
+technical aspects and postimplant issues. Brachytherapy
+2010; **9:** 151.
+70. Crook J, Ma C and Grimard L: Radiation therapy in the
+management of the primary penile tumor: an update.
+World J Urol 2009; **27:** 189.
+71. de Crevoisier R, Slimane K, Sanfilippo N et al: Long-term
+results of brachytherapy for carcinoma of the penis confined to the glans (N- or NX). Int J Radiat Oncol Biol Phys
+2009; **74:** 1150.
+72. Gotsadze D, Matveev B, Zak B et al: Is conservative organsparing treatment of penile carcinoma justified? Eur Urol
+2000; **38:** 306.
+73. Ozsahin M, Jichlinski P, Weber DC et al: Treatment of
+penile carcinoma: to cut or not to cut? Int J Radiat Oncol
+Biol Phys 2006; **66:** 674.
+74. Azrif M, Logue JP, Swindell R et al: External-beam radiotherapy in T1-2 N0 penile carcinoma. Clin Oncol 2006; **18:**
+320.
+
+#### *Stud uestions Volume 39 Lesson 8* *y Q*
+
+
+1. A 59-year-old active smoker with a history of pTa squamous cell carcinoma of the distal penile shaft previously
+treated with laser ablation presents with a 2 cm lesion near
+the edge of the site of the previous lesion. Which option is
+recommended to achieve optimum oncologic outcome?
+a. Local chemotherapy with imiquimod
+b. Repeat laser ablation
+c. Surgical excision
+d. Radiotherapy
+
+2. In patients with low volume, favorable histopathology
+penile cancer who wish to proceed with organ preserving
+surgery the highest rate of recurrence is seen with
+a. surgical excision with a 2 cm negative margin
+b. surgical excision with a 1 cm negative margin
+c. laser therapy
+d. Mohs surgery
+
+3. A 55-year-old man presents with a 5 mm raised erythematous lesion on the glans penis. Imaging is negative for
+lymphadenopathy. The next step is
+a. surveillance
+b. prescribe 5-fluorouracil
+c. surgical excision of the lesion
+d. partial or radical penectomy
+
+
+4. A major drawback of the CO 2 laser for treating penile
+cancer is that it
+a. requires photosensitizing agents
+b. causes tissue necrosis and organ loss
+c. is associated with systemic autoimmune disorders
+d. has a superficial depth of penetration and high rate of
+
+recurrence
+
+5. The most acceptable treatment strategy for a 50-year-old
+uncircumcised man with a non-invasive 5 cm penile cancer
+(Tis) involving the coronal sulcus is
+a. Mohs surgery
+b. laser therapy followed by 5 mm local margin excision
+c. topical application of 5% imiquimod and 5-fluorouracil cream
+d. circumcision followed by tumor excision with a 5 mm
+oncologic safety margin with regular follow-up
+
+
+*Take this test online and claim CME at http://university.auanet.org.*
+
+
+**83**
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the guideline are listed.

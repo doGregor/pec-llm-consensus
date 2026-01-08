@@ -1,0 +1,848 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [Pathology 57 (2025) 276–284](https://doi.org/10.1016/j.pathol.2024.11.006)
+
+Contents lists available at ScienceDirect
+# Pathology
+
+[journal homepage: www.pathologyjournal.rcpa.edu.au](http://www.pathologyjournal.rcpa.edu.au)
+
+REVIEW
+## The prognostic value of p53 and Ki-67 expression status in penile cancer: a systematic review and meta-analysis
+
+Freja Lærke Sand [1] [,] [y], Sofie Lindquist [1] [,] [y], Gitte Lerche Aalborg [2], Susanne K. Kjaer [1] [,] [3] [,] [*]
+
+1 Unit of Virus, Lifestyle and Genes, Danish Cancer Institute, Strandboulevarden, Copenhagen, Denmark
+2 Unit of Statistics and Data Analysis, Danish Cancer Institute, Strandboulevarden, Copenhagen, Denmark
+3 Department of Gynecology, Rigshospitalet, University of Copenhagen, Blegdamsvej, Copenhagen, Denmark
+
+
+A R T I C L E I N F O
+
+Key words:
+penile cancer
+
+survival
+
+p53
+
+Ki-67
+
+prognostic marker
+
+1. Introduction
+
+
+A B S T R A C T
+
+This meta-analysis aimed to explore penile cancer survival based on p53 and Ki-67 status. A systematic literature
+search identified studies assessing overall and cancer-specific survival after penile cancer with p53 or Ki-67
+expression. Pooled hazard ratios (HRs) and restricted mean survival time (RMST) differences were calculated
+using a random-effects model. The analysis included 930 and 391 men for p53 expression in overall survival (OS)
+and cancer-specific survival (CSS), respectively. Those with the p53 mutant pattern exhibited significantly worse
+OS and CSS compared to the p53 wild-type pattern (HR OS ¼2.42, 95% CI 1.75–3.34; HR CSS ¼4.18, 95% CI
+1.87–9.35). The 5-year RMST difference for OS, according to p53 status, was –10.62 months (95% CI –16.20 to
+–5.03). We included 202 men with penile cancer tested for Ki-67 expression and found an HR of CSS of 1.96 (95%
+CI 1.15–3.32). In conclusion, men with the p53 mutant pattern penile cancer have worse OS and CSS than men
+with p53 wild-type pattern penile cancer. Evidence regarding Ki-67 status was sparse, but the pooled estimate
+indicated that penile cancers with high Ki-67 expression may have a slightly worse CSS than those with low Ki-67
+expression. These findings may inform clinicians when planning the best management and follow-up strategy for
+penile cancer patients.
+
+
+Penile cancer is a rare malignancy, with approximately 36,000 new
+cases diagnosed and 13,000 deaths globally in 2020. [1] The incidence
+varies by geographical region, with a higher incidence in less developed
+countries. [2] Most penile cancers are squamous cell carcinomas (SCC), and
+
+–
+the mean age at diagnosis is around 60 68 years. [3][–][5] Penile carcinogenesis consists of two major aetiological pathways, one involving oncogenic
+human papillomavirus (HPV), and the other associated with non-viral
+mechanisms, including inflammatory conditions, smoking and lack of
+circumcision. [6][–][8]
+
+In studies of anogenital and oropharyngeal cancer, it has been found
+that tumours positive for HPV have superior survival compared to HPV
+negative. [9][–][12] In addition, we have previously found that the detection of
+p16 expression by immunohistochemical (IHC) staining is a marker of
+prognostic value in patients with penile, vulva, vaginal and oropharyngeal cancer. [9][,][11][–][13] In addition to p16, some other IHC markers seem to be
+of interest in the prediction of survival after penile cancer, including p53
+
+
+and Ki-67 expression. Both p53 and Ki-67 are cell cycle-associated proteins. Ki-67 is a marker of cell proliferation and predicts malignant
+behaviour in some cancer types. [14][–][17] The tumour suppressor protein p53
+is often mutated in cancers, leading to an accumulation of the protein in
+malignant cells. In some anogenital SCC, it has been found that HPV E6
+protein inactivates p53, causing downregulation of expression. [18] Because
+of small study populations, existing studies examining survival after
+penile cancer according to p53 and Ki-67 expression status are often
+inconclusive. Identifying prognostic biomarkers in penile cancer, as in
+other cancers, would allow for better patient stratification based on the
+risk of cancer progression, ultimately guiding treatment decisions.
+The aim of this study was to examine the association of p53 and Ki-67
+expression status with overall survival (OS) and cancer-specific survival
+(CSS) in men diagnosed with penile cancer. In this systematic review and
+meta-analysis, we conducted a comprehensive literature search using
+multiple electronic databases to identify relevant studies to estimate OS,
+CSS, and restricted mean survival time (RMST) difference for men with
+penile cancer with p53 mutant pattern compared with p53 wild-type, and
+
+
+
+ - Address for correspondence: Unit of Virus, Lifestyle and Genes, Danish Cancer Institute, Strandboulevarden 49, 2100 Copenhagen, Denmark.
+[E-mail address: susanne@cancer.dk (S.K. Kjaer).](mailto:susanne@cancer.dk)
+y These authors contributed equally to this work.
+
+[https://doi.org/10.1016/j.pathol.2024.11.006](https://doi.org/10.1016/j.pathol.2024.11.006)
+Received 5 January 2024; Received in revised form 27 October 2024; Accepted 26 November 2024
+Available online 17 January 2025
+0031-3025/© 2025 Published by Elsevier B.V. on behalf of Royal College of Pathologists of Australasia.
+
+F.L. Sand et al. Pathology 57 (2025) 276–284
+
+
+penile cancers with high Ki-67 expression compared with low Ki-67
+expression.
+
+2. Material and methods
+
+We followed the Preferred Reporting Items for Systematic Reviews
+and Meta Analyses (PRISMA) guidelines, [19] and the study protocol was
+registered at PROSPERO (CRD42022373058).
+
+2.1. Search strategy and selection criteria
+
+A systematic literature search of the electronic databases PubMed,
+Embase and Cochrane was conducted using a combination of search terms
+for penile cancer, p53, Ki-67 and survival. We used text words and Medical
+Subject Headings (PubMed, Cochrane Library) or Emtree headings
+(EMBASE); detailed search terms are provided in Supplementary Table 1.
+Studies published between 1 January 2000 and 17 November 2023 were
+included. The search was restricted to English-language publications, and
+only peer-reviewed studies were included. The reference lists of the
+included studies were reviewed to identify other relevant studies. All titles, abstracts and full texts were reviewed independently by two authors
+(FLS and SL), and any inconsistencies in the selection process were discussed with a third reviewer (SKK) until a consensus was reached.
+Studies were eligible for inclusion if they examined OS or CSS after
+penile cancer, comparing p53 mutant pattern or high Ki-67 expression
+with p53 wild-type pattern or low Ki-67 expression, respectively. Studies
+using IHC staining to detect p53 and/or Ki-67 expression from histologically verified samples of penile cancer were eligible for inclusion. In
+case of overlapping study populations, the study with the most comprehensive data was included.
+
+2.2. Definition of p53 and Ki-67 status
+
+Evaluation of p53 and Ki-67 status was based on IHC staining. As
+molecular TP53 status and IHC staining have shown close accordance,
+strong nuclear positivity was defined as a p53 mutant pattern, and
+heterogenous nuclear staining was defined as a p53 wild-type
+pattern. [20][,][21] Most studies defined p53-null tumours as mutant/positive,
+though earlier studies often excluded null tumours from mutant cases due
+to evolving definitions. Complete p53 negativity in tumour cells is now
+widely recognised as mutant status, but in some studies, tumours were
+only classified as mutant if a defined percentage of cells showed staining,
+thereby excluding null tumours. Ki-67 status was defined as either low or
+high expression based on the individual cut-off limits reported in the
+
+papers.
+
+2.3. Data extraction
+
+Two authors (FLS and SL) independently extracted the data, and inconsistencies were discussed with a third author (SKK) until a consensus
+was reached. We extracted the following variables from each study: first
+author, year of publication, year of sample collection, country, continent,
+age (mean, median, range), follow-up time, histology of the tumour,
+tumour stage and grade, treatment modality, tissue type, definition of
+p53 mutant and wild-type pattern and/or high and low Ki-67 expression,
+number of reviewers of IHC staining, sample size, number of p53 cases
+with wild-type/mutant pattern and/or low/high Ki-67 expression and
+survival endpoints.
+
+2.4. Quality assessment
+
+Based on guidelines from Reporting Recommendations for Tumor
+Marker Prognostic Studies (REMARK), we evaluated the quality of the
+included studies. [22][,][23] The studies were assessed by two authors (FLS and
+SL) independently, and in case of inconsistencies, the studies were discussed with a third author (SKK). The studies were evaluated based on
+
+
+predefined criteria (Supplementary Table 2) and scored between zero
+and seven, with a high score indicating a high study quality.
+
+2.5. Statistical analysis
+
+We used a random effects model to estimate the pooled hazard ratios
+(HRs) with corresponding 95% confidence intervals (CIs) of OS and CSS
+comparing penile cancer between cases exhibiting p53 mutant expression and p53 wild-type expression patterns. In the same way, we examined the CSS according to Ki-67 status. However, too few studies were
+available to calculate the pooled HR of OS for Ki-67 status.
+In studies where Kaplan–Meier curves were available, individual
+patient data were reconstructed using the method described by Liu
+et al. [24] Based on the individual patient data, we estimated the HR and
+RMST difference. The HR was estimated by applying a Cox proportional
+hazard model, applying fixed-effects models for pooling. We estimated
+the 5-year HR for p53 studies and the 3-year HR for Ki-67 studies. In
+studies where the follow-up period was shorter than 5 or 3 years,
+respectively, the HR was estimated based on the available follow-up
+time. Supplementary Table 3 presents an overview of the estimates
+extracted from the individual studies. The proportional hazards
+assumption was tested based on weighted Schoenfeld residuals, and the
+assumption was met. In studies where Kaplan–Meier curves were unavailable, the study-specific 5-year HRs were estimated using a previously described method by Moodie et al. [25] This method allowed us to
+perform meta-analysis, including studies with different lengths of
+follow-up time. The results from the pooled analyses are presented
+graphically with forest plots, including confidence intervals.
+The RMST is an alternative method for comparison across groups.
+Individual patient data from studies presenting Kaplan–Meier curves
+were used to calculate RMST. [24] For p53 expression status, we estimated
+the overall RMST difference after 3 and 5 years of follow-up and the
+cancer-specific RMST difference after 5 years of follow-up. For Ki-67
+expression status, the cancer-specific RMST difference after 2 years of
+follow-up was estimated.
+Statistical heterogeneity across the studies was evaluated by the I [2]
+
+statistic, which describes the percentage of variation between studies. [26]
+
+A value of 0% indicates no observed heterogeneity, whereas values of 25,
+50, and 75% correspond to low, moderate and high levels of heterogeneity, respectively. In addition, the significance of the heterogeneity
+across the studies was determined using the Cochran Q test, with a p
+value <0.05 considered statistically significant. [27] Publication bias was
+assessed using funnel plots and the Egger regression test.
+All analyses were conducted using the statistical software R version
+4.2.1, [28] with the packages IPDfromKM, [29] SurvRM2 [30] and meta. [31]
+
+3. Results
+
+3.1. Search results
+
+Fig. 1 shows the flowchart of the study selection process. We identified 264 records in the electronic databases and after removing duplicates, 219 unique records were screened for potential relevance. We
+excluded 127 and 38 studies based on titles and abstracts, respectively.
+Thus, 54 studies were included for review of the full text. After a review
+of full texts, 34 studies were excluded, leaving 20 studies eligible for
+inclusion in the meta-analyses. Among the included studies, 15 reported
+survival according to p53 status, [32][–][46] and seven examined survival according to Ki-67 status. [32][,][45][,][47][–][51] Studies excluded due to reporting of
+other survival estimates than OS and CSS are presented in Supplementary
+Table 4 (n¼3). [52][–][54] Two of the included studies had partly overlapping
+study populations. [33][,][38] They included penile samples from the same
+hospital from 1980 until 1992. However, samples collected during a
+period of 39 years (1953–1980 and 1992–2009) were not overlapping,
+and therefore both studies were included in the meta-analysis. No studies
+were identified upon review of reference lists.
+
+
+277
+
+F.L. Sand et al. Pathology 57 (2025) 276–284
+
+Fig. 1. Flowchart of the study selection process. The literature search was conducted on 17 November 2023.
+
+
+3.2. Survival according to p53 expression status
+
+3.2.1. Study characteristics
+Characteristics and quality assessment of the studies examining survival after penile cancer according to p53 status are presented in Table 1.
+The studies were published between 2002 and 2023, all were retrospective observational studies, and the penile cancer samples were
+collected between 1953 and 2022. Six studies originated from
+Europe, [35][,][40][–][42][,][44][,][46] four from South America, [33][,][37][,][38][,][43] and four from
+
+
+Asia. [32][,][34][,][36][,][39] One study came from North America. [45] The mean or
+median age of the men with penile cancer ranged from 51 years to 70
+years. The majority of studies (n¼14) included only penile SCC histology, [32][,][34][–][46] and one study included various histological types, of which
+64% were SCC. [33] Most studies included tumours of stages 1–4
+(n¼7) [32][,][36][,][37][,][39][,][42][,][43][,][46] or 1–3 (n¼5). [35][,][40][,][41][,][44][,][45] For p53 IHC testing, the
+majority of studies used fixed tissue (n¼13). [32][,][34][–][38][,][40][–][46] The definition
+of the p53 mutant pattern varied between studies with the study-specific
+IHC cut-off limits described in Table 1. The number of men with penile
+
+
+278
+
+Table 1
+
+Study characteristics for studies reporting overall or cancer-specific survival after penile cancer according to p53 status
+
+
+Immunohistochemical nuclear staining cut-off limits: Men with p53 status Survival Quality
+definition of expression status penile outcomes assessment
+cancer, N reported score [a]
+
+p53 mutant p53 wild-type pattern No. No. %
+pattern mutant wild-type mutant
+
+
+Author, year, reference Year of sample Country Age (range), years Histology Tumour Tumour Treatment Immunohistochemical nuclear staining cut-off limits: Men with
+collection grade stage definition of expression status penile
+
+cancer, N
+
+
+p53 status Survival
+
+outcomes
+
+reported
+
+
+Gil et al., 2002 [43] 1979–1995 Brazil Mean 57 (23–80) SCC G1–3 1–4 [b] Surgery >75% of tumour cells <25% of tumour cells 11 [c] 4 7 25% OS 2
+Lopes et al., 2002 [38][,][g] 1953–1992 Brazil Mean 52 (27–77) SCC G1–2 2–4 Surgery >20% of tumour cells <20% of tumour cells 82 34 48 41% OS 7
+Martins et al., 2002 [37] 1978–1995 Brazil Median 59 [d] SCC G1–3 [d] 1–4 [d] Mixed [e] >10% of tumour cells <10% of tumour cells 36 14 22 39% CSS 6
+Zhu et al., 2007 [32] 1990–2005 China Median 55 (27–75) SCC G1–4 [f] 1–4 [f] Surgery >20% of tumour cells <20% of tumour cells 73 24 49 33% CSS 5
+Guerrero et al., 2008 [42] 1988–2007 Spain Mean 68 (28–81) SCC G1–3 1–4 Surgery >20% of tumour cells <20% of tumour cells 24 11 13 46% OS 4
+Bethune et al., 2012 [45] 1997–2009 Canada Mean 63 (36–95) SCC G1–3 1–3 Mixed [e] >5% of tumour cells <5% of tumour cells 43 17 26 40% OS, CSS 5
+Gunia et al., 2012 [41] 1993–2010 Germany Mean 68 SCC G1–3 1–3 Surgery At least moderately strong Absent or weak expression 92 30 62 33% CSS 6
+expression in basal and restricted to basal cells
+suprabasal cells
+
+Rocha et al., 2012 [33][,][g] 1980–2009 Brazil NA Various [h] G1–3 NA NA NA NA 297 NA NA NA OS, CSS 2
+Ferrandiz-Pulido 1987–2010 Spain Median 70 (40–96) SCC G1–4 1–3 Surgery >5% of tumour cells <5% of tumour cells 67 32 35 48% CSS 6
+et al., 2013 [44]
+
+Liu et al., 2013 [39] 1998–2011 China Mean 51 (24–82) SCC G1–3 1–4 Mixed [e] >20% of tumour cells <20% of tumour cells 146 56 90 38% OS 4
+Kashofer et al., 2017 [40] NA Austria Mean 60 (41–85) SCC G1–3 1–3 Surgery Continuous strong staining None or only individual 26 15 11 58% OS 2
+of basal keratinocyte nuclei basal keratinocyte showed
+
+a reaction
+
+Prapiska et al., 2019 [34] 2018 Indonesia Mean 51 SCC NA 2–4 Mixed [e] >60% of tumour cells <60% of tumour cells 33 13 20 39% OS 2
+Mohanty et al., 2021 [36] 2009–2017 India Median 65 (49–80) SCC G1–3 1–4 Mixed [e] �75% of tumour cells <75% of tumour cells 123 70 53 57% OS, CSS 7
+Panic et al., 2021 [35] 2009–2018 Germany Mean 63 (39–90) [d] SCC G1–4 [d] 1–3 [d] Mixed [e] �80% of tumour cells <80% of tumour cells [i] 36 10 26 28% OS 4
+Hrudka et al., 2023 [46] 2002–2022 Czech Mean 66 (31–92) SCC G1–3 1–4 Mixed [e] Diffuse strong nuclear Heterogeneous nuclear 152 27 125 18% OS, CSS 5
+Republic staining staining
+
+
+Absent or weak expression 92 30 62 33% CSS 6
+
+restricted to basal cells
+
+
+1987–2010 Spain Median 70 (40–96) SCC G1–4 1–3 Surgery >5% of tumour cells <5% of tumour cells 67 32 35 48% CSS 6
+
+
+26 15 11 58% OS 2
+
+
+CSS, cancer-specific survival; NA, not available; OS, overall survival; SCC, squamous cell carcinoma.
+a The studies were scored between 0 and 7, with a high score indicating a high study quality.
+b The study used the criteria by Jackson to analyse the clinical stage of the penile cancers.
+c Tumours with grade 2 and 3 immunohistochemical nuclear staining are not included.
+d The information is for the overall study population and not exclusively for the penile cancer cases included in the survival analysis.
+e Mixed treatment includes surgery and/or radiotherapy and/or chemotherapy.
+f Tumour grade is reported as G1 and �G2 and tumour stage is reported as T1 and �T2.
+g Studies by Lopes et al. 38 and Rocha et al. 33 have partly overlapping study populations.
+h Among 297 penile cancers, a total of 189 were squamous cell carcinomas.
+i Tumours with loss of p53 expression were not included.
+
+F.L. Sand et al. Pathology 57 (2025) 276–284
+
+
+cancer included in the studies ranged from 11 to 297, and the prevalence
+of the p53 mutant pattern varied between 18% and 58%. The studies
+scored between two and seven points in the quality assessment, with half
+of the studies scoring five points or above. [32][,][36][–][38][,][41][,][44][–][46]
+
+3.2.2. Overall survival
+
+Fig. 2A presents the study-specific and pooled unadjusted HR of OS
+for men with penile cancers with a p53 mutant pattern compared with
+a p53 wild-type pattern. Ten studies [33][–][36][,][38][–][40][,][42][,][43][,][46] reported information to be included in the meta-analysis, comprising a total of 930
+men with penile cancer. All study-specific HRs were above 1, ranging
+from 1.24 to 8.99. Men with penile cancers with the p53 mutant
+pattern had significantly worse survival compared to those with the
+p53 wild-type pattern with a pooled HR of 2.42 (95% CI 1.75–3.34).
+The across-study heterogeneity was moderate (I [2] ¼29%). The funnel
+plot and Egger regression test indicated no strong evidence of publication bias (Supplementary Table 5). We performed two sensitivity
+analyses. In the first sensitivity analysis, we excluded Gil et al. because
+an artificial cause of death among penile cancers with wild-type p53
+pattern was assumed in the main analysis, and Liu et al. as they did not
+report an HR at a specific follow-up time, but only the mean HR of OS
+during the entire follow-up period (median follow-up 42 months,
+range 13–108 months) [39][,][43] and the results were similar (HR¼2.22,
+95% CI 1.62–3.04) (Supplementary Table 6). In the second sensitivity
+analysis, we only included the four studies where p53 mutant pattern
+was defined as strong staining, �75% staining or complete
+absence, [35][,][36][,][40][,][46] and the results were similar to the overall analyses
+
+
+(HR¼2.33, 95% CI 1.23–4.38) (Supplementary Table 7). Bethune et al.
+only reported a p value for the association between p53 status and OS
+and therefore could not be included in the pooled analysis. Based on
+43 men with penile cancer, they reported that p53 status was not a
+predictor of OS. [45]
+
+The three largest studies, including respectively 297, 152 and 146
+men with penile cancer, [33][,][39][,][46] conducted multivariate analysis of OS for
+p53 mutant tumours compared with cancers with p53 wild-type patterns,
+taking into account other prognostic factors for survival, including e.g.
+tumour stage, grade, lympho-vascular invasion and budding (Supplementary Table 8). They found that men with tumours with mutant p53
+patterns had significantly worse survival compared with cancers with
+p53 wild-type pattern, as Rocha et al. reported a HR of 1.83 (95% CI
+1.11–3.04), Hrudka et al. 2.0 (95% CI 1.09–4.35), and Liu et al. found a
+HR of 6.0 (95% CI 1.62–22.28). [33][,][39][,][46]
+
+We also estimated the RMST difference after 3- and 5-years of followup comparing OS of men with p53 mutant pattern penile cancer to those
+with p53 wild-type pattern based on the studies where Kaplan–Meier
+curves were available [33][–][36][,][38][,][46] (Supplementary Table 9). The 3-year
+RMST ranged from 18.0 to 29.8 months for men with the p53 mutant
+pattern, and 26.45 to 31.81 months for the p53 wild-type pattern. Thus,
+the difference in RMST at 3 years for the p53 mutant pattern compared
+with the p53 wild-type pattern was –6.00 months (95% CI –9.32 to
+
+–
+2.68). The 5-year RMST ranged from 24.6 to 45 months and 43.3 to 51
+months for men with penile cancers with p53 mutant pattern and p53
+wild-type pattern, respectively, with a 5-year RMST difference of –10.62
+months (95% CI –16.20 to –5.03).
+
+
+Fig. 2. Forest plot of (A) overall survival and (B) cancer-specific survival in men with penile cancers with p53 mutant pattern compared with p53 wild-type pattern.
+
+280
+
+F.L. Sand et al. Pathology 57 (2025) 276–284
+
+3.2.3. Cancer-specific survival
+
+Fig. 2B shows the study-specific and pooled unadjusted HR of CSS for
+p53 men with penile cancers with a p53 mutant pattern compared with
+p53 wild-type pattern. Five studies were included in the meta-analysis,
+comprising a total of 391 men with penile cancer, of which 170 and 221
+cases showed p53 mutant and wild-type pattern,
+respectively. [32][,][36][,][37][,][41][,][44] All study-specific HRs were above one, ranging
+from 1.58 to 13.30. The pooled 5-year HR of CSS was 4.18 (95% CI
+1.87–9.35). The heterogeneity observed across studies was moderate
+(I [2] ¼71%) and no strong evidence of publication bias was found (Supplementary Table 5B). In a sensitivity analysis excluding one study where
+an artificial cause of death among men with a p53 wild-type pattern was
+assumed, we found no substantial change in the pooled HR (Supplementary Table 10). [44] Two studies only reported a p value for the association between CSS and p53 status among men with penile cancer. [33][,][45]
+
+In one study by Rocha et al., they included 297 men with penile cancer.
+They found that men with p53 wild-type pattern had a significantly
+better CSS than men with p53 mutant pattern (p¼0.003), [33] and another
+smaller study from Canada, including 43 men with penile cancer, reported no association between CSS and p53 status. [45] Hrudka et al. [46] also
+found that men with p53 wild-type had a significantly better CSS
+(HR¼3.33; 95% CI 1.47–7.69) than men with a p53 mutated pattern.
+However, Hrudka et al. [46] could not be included in the pooled estimate
+due to missing information on the CSS for p53-mutated and wild-type
+
+men.
+
+Three smaller studies, including between 36 and 92 penile cancer
+cases, performed multivariable analyses and found a significant association between p53 expression status and CSS after adjusting for e.g. stage
+and grade of the tumour (p¼0.02, 0.011, and 0.041). [32][,][37][,][41] Gunia et al.
+included 92 men with penile SCC, of which 62 showed a p53 mutant
+pattern. [41] They reported a HR of 3.20 (95% CI 1.05–9.76) after adjusting
+for tumour stage, grade, lymphovascular invasion and corpus spongiosum invasion and corpus cavernosa invasion. [41] An overview of studies
+conducting multivariate analysis of CSS survival after penile cancer according to p53 status is provided in Supplementary Table 8.
+We estimated the 5-year RMST difference comparing CSS in men with
+penile cancers with the p53 mutant pattern to those with the p53 wildtype pattern. The RMST difference was –12.44 months (95% CI –19.41
+to –5.47) after 5 years of follow-up. However, this was based on only two
+studies where Kaplan–Meier curves were available. [36][,][37]
+
+3.3. Survival according to Ki-67 expression status
+
+3.3.1. Study characteristics
+
+Table 2 presents an overview of study characteristics and quality
+assessment of the seven studies examining OS or CSS according to Ki-67
+expression status after penile cancer. The studies were published between 2007 and 2013. Most of the studies originated from Europe
+(n¼3), [47][,][48][,][50] followed by Asia (n¼2). [32][,][49] All studies were retrospective
+observational studies. The samples were collected between 1953 and
+2011, and the histology of the penile cancers was SCC. The mean or
+median age of the men with penile cancer ranged from 56 to 69 years.
+The majority of studies included cancers of grade 1–3 (n¼5). [45][,][47][,][48][,][50][,][51]
+
+Four studies comprised cancers of stage 1–4. [32][,][47][,][48][,][51] All studies used
+fixed tissue for Ki-67 IHC testing. The definition of high and low Ki-67
+staining varied between studies (study-specific cut-off limits are
+described in Table 2), reflecting the varying Ki-67 prevalence between
+studies. The size of the study population ranged from 28 to 148 men with
+penile cancer. Most studies scored five in the quality assessment
+(n¼5). [32][,][45][,][47][,][48][,][50]
+
+3.3.2. Overall survival
+
+Supplementary Table 11 presents an overview of the results reported
+in studies examining OS according to Ki-67 status. Five studies examined
+OS after penile cancer according to Ki-67 status. [45][,][47][,][49][–][51] Two of the
+largest studies by Guimaraes et al. (n¼125) and Stankiewicz et al.
+
+281
+
+F.L. Sand et al. Pathology 57 (2025) 276–284
+
+
+(n¼148) found that Ki-67 status was not significantly associated with OS
+(p>0.05 and p¼0.5538). [47][,][51] Similar results were reported in two smaller
+studies by Bethune et al. (p>0.05) and Li et al. (RR¼1.182; 95% CI
+0.40–3.47; p¼0.761). [45][,][49] A study from England including 118 men with
+penile SCC found that Ki-67 status was a predictor for OS in univariate
+analysis (HR¼1.023; 95% CI 1.00–1.05); however, when adjusting for
+other prognostic factors, including age, stage, nodal status and vascular
+invasion, Ki-67 status was not an independent predictor for OS
+(p>0.05). [50]
+
+3.3.3. Cancer-specific survival
+Four studies examined CSS according to Ki-67 status among men with
+penile cancer, [32][,][45][,][47][,][48] of which three studies were included in the pooled
+analysis, comprising a total of 202 penile cancers (N high Ki-67 expression ¼76,
+N low Ki-67 expression ¼126). [32][,][47][,][48] Men with high Ki-67 expression tumours
+had a slightly statistically non-significant worse CSS compared with those
+with low Ki-67 expression with a pooled HR of 1.96 (95% CI 1.15–3.32)
+(Fig. 3). The study heterogeneity was low (I [2] ¼0%). Bethune et al. could
+not be included in the pooled analysis, as they only provided a p value for
+the association between Ki-67 status and CSS. [45] They had 43 men with
+penile SCC and reported no significant association between Ki-67 status
+and CSS (p>0.05). [45] One study conducted multivariate analysis adjusting
+for age, stage, grade, lymphatic and vascular embolisation, E-cadherin
+status, and MMP-9 status and found that Ki-67 status was not a prognostic
+factor for CSS (p¼0.323). [32] The funnel plot showed no strong publication
+bias (Supplementary Table 5c).
+Finally, we estimated the 2-year RMST difference for penile cancers
+with high Ki-67 expression compared with low Ki-67 expression. Based
+
+–
+on two studies where Kaplan Meier curves were provided, the RMST
+difference was –3.44 months (95% CI –7.97 to 1.10). [47][,][48]
+
+4. Discussion
+
+To our knowledge, this is the first meta-analysis examining survival
+after penile cancer according to p53 and Ki-67 expression status. We
+found that men with penile cancer with a p53 mutant pattern had
+significantly worse OS and CSS compared with p53 wild-type tumours. In
+addition, studies adjusting for other prognostic factors, including stage,
+grade and lympho-vascular invasion, concluded that p53 status could be
+an independent prognostic factor for survival after penile cancer. We
+found that 5 years after the penile cancer diagnosis, men with a p53 wildtype pattern, on average, had lived approximately 11 months longer than
+men with a p53 mutant pattern. In contrast, the included studies reported
+no association between Ki-67 status and OS but seem to suggest that men
+with penile cancers with high Ki-67 expression might have a slightly
+worse CSS compared with cancers with low Ki-67 expression. However,
+this result was based on relatively few studies.
+The p53 expression status as a prognosticator for survival has been
+suggested in other anogenital and head and neck cancers. [9][,][13][,][55][,][56] We
+have previously reported that women with p53 wild-type vulvar tumours
+have superior survival compared with p53 mutant tumours. [13] Studies
+have also suggested that p53 expression has prognostic value in vaginal
+
+
+cancer. [9] The possible prognostic value of Ki-67 expression status in malignancies differs between cancer sites. [57][,][58] Ki-67 expression has been
+shown to be a reliable marker for survival in patients with e.g. breast,
+tongue, cervical, prostate, renal and neuroendocrine cancer. [14][,][15][,][17][,][59][–][62]
+
+Our results indicated that Ki-67 expression status might be associated with
+CSS in men diagnosed with penile cancer. However, the results were
+limited by few and smaller studies, and therefore, larger studies are still
+warranted.
+
+A recent review examined p53 and Ki-67 status in predicting lymph
+node metastasis and CSS in men diagnosed with penile cancer and
+concluded that p53 expression has prognostic value for CSS, but more
+studies are needed for Ki-67 status. [63] The present study is the first
+meta-analysis to calculate a pooled estimate for OS and CSS for penile
+cancers with a p53 mutant pattern compared with p53 wild-type pattern
+cancers, and CSS for high Ki-67 expression compared with low Ki-67
+expression. In addition, we also examined RMST differences according
+to p53 and Ki-67 expression status detected by IHC staining. It is a
+strength of the study that two authors independently assessed titles,
+abstracts and full texts and extracted the data after conducting a thorough literature search of relevant studies in several electronic databases.
+The studies examining OS or CSS survival after penile cancer according to
+p53 were generally limited by small study population. However, by
+combining the studies, we were able to include 930 and 391 men with
+penile cancer tested for p53 expression and examined OS and CSS after
+cancer diagnosis, respectively. In addition, by extracting individual pa
+–
+tient data from Kaplan Meier curves, we performed a standard survival
+analysis and were able to get estimates that were based on more information and thereby considered more accurate than estimates obtained
+using the method described by Moodie et al. [25]
+
+Some limitations should also be considered. Due to the available data,
+we were not able to take into account other prognostic factors such as the
+stage of the tumours in the analyses. Therefore, it remains uncertain to
+what extent p53 status alone influences the survival after penile cancer.
+The definition of p53 mutant/wild-type expression pattern and high/low
+Ki-67 expression varied between studies, which we were unable to
+consider in the analyses. The definition of p53 mutant is currently more
+often characterised as strong nuclear staining or total absence of nuclear
+expression, while the definition of wild-type is heterogeneous nuclear
+staining. [21] We did a sensitivity analysis using only four of the most recent
+studies that used a similar criterion for p53 status and found a similar
+result. Finally, the survival analysis according to Ki-67 status was based
+on only a few studies.
+Survival according to p53 and Ki-67 expression status is of clinical
+interest, as testing for p53 expression in penile tumour tissue could help
+in planning the management and follow-up strategy. Our results indicate
+that men with penile cancers with p53 mutant patterns might need to be
+followed more closely compared with men with a p53 wild-type pattern.
+It has been suggested that combined testing for multiple markers,
+including HPV, p16 and p53, increases the accuracy in predicting patient
+survival compared with individual markers alone. In head and neck
+cancer, the tumour is tested for a group of markers that influence the
+treatment regime and follow-up program offered to the patients. [56]
+
+
+Fig. 3. Forest plot and funnel plot of cancer-specific survival in men with penile cancers with positive Ki-67 expression compared with negative Ki-67 expression.
+
+282
+
+F.L. Sand et al. Pathology 57 (2025) 276–284
+
+
+However, studies on combined testing of markers are still needed for
+penile cancer.
+
+5. Conclusion
+
+In conclusion, in this systematic review and meta-analysis, we found
+that p53 status in penile cancer had a significant prognostic value for
+both OS and CSS. This was also apparent in studies taking into account
+known prognostic markers. Few studies with smaller study populations
+limited the interpretation of the results for Ki-67. However, it indicated
+that men with high Ki-67 expression might have a worse CSS compared
+to those with low Ki-67 expression. These findings suggest that testing for
+p53 and possibly Ki-67 expression may be useful when planning the
+management and follow-up strategy of men with penile cancer.
+
+Data availability
+
+The data that support the findings of this study are available from the
+corresponding author upon reasonable request.
+
+Conflicts of interest and sources of funding
+
+The authors state that there are no conflicts of interest to disclose.
+
+SKK has received research grants through her institution from Merck, not
+related to the present study.
+
+Supplementary data
+
+[Supplementary data to this article can be found online at https](https://doi.org/10.1016/j.pathol.2024.11.006)
+[://doi.org/10.1016/j.pathol.2024.11.006.](https://doi.org/10.1016/j.pathol.2024.11.006)
+
+References
+
+[1. Sung H, Ferlay J, Siegel RL, et al. Global cancer statistics 2020: GLOBOCAN estimates](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref1)
+[of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref1)
+[Clin 2021;71(3):209–49.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref1)
+[2. Bleeker MC, Heideman DA, Snijders PJ, et al. Penile cancer: epidemiology,](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref2)
+[pathogenesis and prevention. World J Urol 2009;27(2):141–50.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref2)
+[3. Cubilla A, Dillner J, Schellhammer P. Malignant epithelial tumors. In: Eble J,](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref3)
+[Sauter G, Epstein J, et al., editors. World Health Organization classification of tumours.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref3)
+[Pathology and genetics of tumours of the urinary system and male genital organs. Lyon:](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref3)
+[IARC; 2004. p. 281–90.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref3)
+[4. Hernandez BY, Barnholtz-Sloan J, German RR, et al. Burden of invasive squamous](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref4)
+[cell carcinoma of the penis in the United States, 1998-2003. Cancer 2008;113(10](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref4)
+[Suppl):2883–91.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref4)
+[5. Goodman MT, Hernandez BY, Shvetsov YB. Demographic and pathologic differences](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref5)
+[in the incidence of invasive penile cancer in the United States, 1995-2003. Cancer](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref5)
+[Epidemiol Biomarkers Prev 2007;16(9):1833–9.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref5)
+[6. Powell J, Robson A, Cranston D, et al. High incidence of lichen sclerosus in patients](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref6)
+[with squamous cell carcinoma of the penis. Br J Dermatol 2001;145(1):85–9.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref6)
+[7. Velazquez EF, Cubilla AL. Lichen sclerosus in 68 patients with squamous cell](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref7)
+[carcinoma of the penis: frequent atypias and correlation with special carcinoma](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref7)
+[variants suggests a precancerous role. Am J Surg Pathol 2003;27(11):1448–53.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref7)
+[8. Perceau G, Derancourt C, Clavel C, et al. Lichen sclerosus is frequently present in](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref8)
+[penile squamous cell carcinomas but is not always associated with oncogenic human](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref8)
+[papillomavirus. Br J Dermatol 2003;148(5):934–8.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref8)
+[9. Rasmussen CL, Bertoli HK, Sand FL, et al. The prognostic significance of HPV, p16,](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref9)
+[and p53 protein expression in vaginal cancer: a systematic review. Acta Obstet](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref9)
+[Gynecol Scand 2021;100(12):2144–56.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref9)
+[10. Rasmussen CL, Sand FL, Hoffmann Frederiksen M, et al. Does HPV status influence](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref10)
+[survival after vulvar cancer? Int J Cancer 2018;142(6):1158–65.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref10)
+[11. Urbute A, Rasmussen CL, Belmonte F, et al. Prognostic significance of HPV DNA and](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref11)
+[p16(INK4a) in anal cancer: a systematic review and meta-analysis. Cancer Epidemiol](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref11)
+[Biomarkers Prev 2020;29(4):703–10.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref11)
+[12. Garnaes E, Frederiksen K, Kiss K, et al. Double positivity for HPV DNA/p16 in](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref12)
+[tonsillar and base of tongue cancer improves prognostication: insights from a large](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref12)
+[population-based study. Int J Cancer 2016;139(11):2598–605.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref12)
+[13. Sand FL, Nielsen DMB, Frederiksen MH, et al. The prognostic value of p16 and p53](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref13)
+[expression for survival after vulvar cancer: a systematic review and meta-analysis.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref13)
+[14. Almangush A, Heikkinen I, MGynecol Oncol 2019;152(1):208€akitie AA, et al. Prognostic biomarkers for oral tongue–17.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref13)
+[squamous cell carcinoma: a systematic review and meta-analysis. Br J Cancer 2017;](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref14)
+[117(6):856–66.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref14)
+
+
+[15. Tarighati E, Keivan H, Mahani H. A review of prognostic and predictive biomarkers](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref15)
+[in breast cancer. Clin Exp Med 2023;23(1):1–16.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref15)
+[16. Zeng M, Zhou J, Wen L, et al. The relationship between the expression of Ki-67 and](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref16)
+[the prognosis of osteosarcoma. BMC Cancer 2021;21(1):210.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref16)
+[17. Berlin A, Castro-Mesta JF, Rodriguez-Romo L, et al. Prognostic role of Ki-67 score in](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref17)
+[localized prostate cancer: a systematic review and meta-analysis. Urol Oncol 2017;](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref17)
+[35(8):499–506.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref17)
+[18. Scheffner M, Werness BA, Huibregtse JM, et al. The E6 oncoprotein encoded by](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref18)
+[human papillomavirus types 16 and 18 promotes the degradation of p53. Cell 1990;](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref18)
+[63(6):1129–36.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref18)
+[19. Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref19)
+[reviews and meta-analyses: the PRISMA statement. J Clin Epidemiol 2009;62(10):](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref19)
+[1006–12.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref19)
+
+[20. Singh N, Piskorz AM, Bosse T, et al. p53 immunohistochemistry is an accurate](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref20)
+[surrogate for TP53 mutational analysis in endometrial carcinoma biopsies. J Pathol](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref20)
+[2020;250(3):336–45.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref20)
+[21. Kortekaas KE, Solleveld-Westerink N, Tessier-Cloutier B, et al. Performance of the](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref21)
+[pattern-based interpretation of p53 immunohistochemistry as a surrogate for TP53](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref21)
+[mutations in vulvar squamous cell carcinoma. Histopathology 2020;77(1):92–9.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref21)
+[22. Altman DG, McShane LM, Sauerbrei W, et al. Reporting recommendations for Tumor](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref22)
+[Marker Prognostic studies (REMARK): explanation and elaboration. PLoS Med 2012;](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref22)
+[9(5):e1001216.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref22)
+[23. McShane LM, Altman DG, Sauerbrei W, et al. REporting recommendations for tumor](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref23)
+[MARKer prognostic studies (REMARK). Nat Clin Pract Oncol 2005;2(8):416–22.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref23)
+[24. Liu N, Zhou Y, Lee JJ. IPDfromKM: reconstruct individual patient data from](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref24)
+[published Kaplan-Meier survival curves. BMC Med Res Methodol 2021;21(1):](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref24)
+[111.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref24)
+
+[25. Moodie PF, Nelson NA, Koch GG. A non-parametric procedure for evaluating](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref25)
+[treatment effect in the meta-analysis of survival data. Stat Med 2004;23(7):1075–93.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref25)
+[26. Higgins JP, Thompson SG, Deeks JJ, et al. Measuring inconsistency in meta-analyses.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref26)
+[BMJ 2003;327(7414):557–60.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref26)
+[27. Cochran W. The combination of estimates from different experiments. Biometrics](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref27)
+[1954;10(1):101–29.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref27)
+28. R Core Team. R: a language and environment for statistical computing. Vienna: R
+[Foundation for Statistical Computing; 2022. https://www.R-project.org/.](https://www.R-project.org/)
+29. Liu N, Lee J. IPDfromKM: map digitized survival curves back to individual patient
+[data. R package version 0.1.10 2020. https://CRAN.R-project.org/packa](https://CRAN.R-project.org/package=IPDfromKM)
+[ge¼IPDfromKM.](https://CRAN.R-project.org/package=IPDfromKM)
+30. Uno H, Tian L, Horiguchi M, et al. SurvRM2: comparing restricted mean survival
+[time. R package version 1.0-4 2022. https://CRAN.R-project.org/package¼survRM2.](https://CRAN.R-project.org/package=survRM2)
+[31. Balduzzi S, Rücker G, Schwarzer G. How to perform a meta-analysis with R: a](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref31)
+[practical tutorial. Evidence-Based Ment Health 2019;22:153–60.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref31)
+[32. Zhu Y, Zhou XY, Yao XD, et al. The prognostic significance of p53, Ki-67, epithelial](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref32)
+[cadherin and matrix metalloproteinase-9 in penile squamous cell carcinoma treated](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref32)
+[with surgery. BJU Int 2007;100(1):204–8.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref32)
+[33. Rocha RM, Ignacio JA, Jordan J, et al. A clinical, pathologic, and molecular study of](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref33)
+[p53 and murine double minute 2 in penile carcinogenesis and its relation to](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref33)
+[prognosis. Hum Pathol 2012;43:481. 12.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref33)
+[34. Prapiska FF, Warli SM. P53 and survival rate in penile cancer. Open Access Maced J](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref34)
+[Med Sci 2019;7(7):1170–3.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref34)
+[35. Panic A, Reis H, Wittka A, et al. The biomarker potential of caveolin-1 in penile](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref35)
+[cancer. Front Oncol 2021;11:606122.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref35)
+[36. Mohanty SK, Mishra SK, Bhardwaj N, et al. p53 and p16(ink4a) as predictive and](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref36)
+[prognostic biomarkers for nodal metastasis and survival in a contemporary cohort of](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref36)
+[penile squamous cell carcinoma. Clin Genitourin Cancer 2021;19(6):510–20.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref36)
+[37. Martins AC, Faria SM, Cologna AJ, et al. Immunoexpression of p53 protein and](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref37)
+[proliferating cell nuclear antigen in penile carcinoma. J Urol 2002;167(1):89–92.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref37)
+[discussion 92-3.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref37)
+
+[38. Lopes A, Bezerra AL, Pinto CA, et al. p53 as a new prognostic factor for lymph node](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref38)
+[metastasis in penile carcinoma: analysis of 82 patients treated with amputation and](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref38)
+[bilateral lymphadenectomy. J Urol 2002;168(1):81–6.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref38)
+[39. Liu JY, Li YH, Zhang ZL, et al. The risk factors for the presence of pelvic lymph node](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref39)
+[metastasis in penile squamous cell carcinoma patients with inguinal lymph node](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref39)
+[dissection. World J Urol 2013;31(6):1519–24.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref39)
+[40. Kashofer K, Winter E, Halbwedl I, et al. HPV-negative penile squamous cell](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref40)
+[carcinoma: disruptive mutations in the TP53 gene are common. Mod Pathol 2017;](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref40)
+[30(7):1013–20.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref40)
+[41. Gunia S, Kakies C, Erbersdobler A, et al. Expression of p53, p21 and cyclin D1 in](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref41)
+[penile cancer: p53 predicts poor prognosis. J Clin Pathol 2012;65(3):232–6.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref41)
+[42. Guerrero D, Guarch R, Ojer A, et al. Hypermethylation of the thrombospondin-1 gene](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref42)
+[is associated with poor prognosis in penile squamous cell carcinoma. BJU Int 2008;](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref42)
+[102(6):747–55.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref42)
+[43. Gil AO, Pompeo ACL, Sarkis AS, et al. Evaluation of the influence of protein p53 in](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref43)
+[penile carcinoma. Int Braz J Urol 2002;28(1):33–9.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref43)
+[44. Ferrandiz-Pulido C, Masferrer E, Toll A, et al. mTOR signaling pathway in penile](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref44)
+[squamous cell carcinoma: pmTOR and peIF4E over expression correlate with](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref44)
+[aggressive tumor behavior. J Urol 2013;190(6):2288–95.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref44)
+[45. Bethune G, Campbell J, Rocker A, et al. Clinical and pathologic factors of prognostic](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref45)
+[significance in penile squamous cell carcinoma in a North American population.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref45)
+[46. Hrudka J, ProuzovUrology 2012;79(5):1092�a Z, Kendall B–7.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref45) [�artů M, et al. Immune cell infiltration, tumour](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref46)
+[budding, and the p53 expression pattern are important predictors in penile](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref46)
+[squamous cell carcinoma: a retrospective study of 152 cases. Pathology 2023;](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref46)
+[55(5):637–49.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref46)
+
+
+283
+
+F.L. Sand et al. Pathology 57 (2025) 276–284
+
+
+[47. Stankiewicz E, Ng M, Cuzick J, et al. The prognostic value of Ki-67 expression in](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref47)
+[penile squamous cell carcinoma. J Clin Pathol 2012;65(6):534–7.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref47)
+[48. Protzel C, Knoedel J, Zimmermann U, et al. Expression of proliferation marker Ki67](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref48)
+[correlates to occurrence of metastasis and prognosis, histological subtypes and HPV](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref48)
+[DNA detection in penile carcinomas. Histol Histopathol 2007;22(11):1197–204.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref48)
+[49. Li D, Han Z, Liu J, et al. Upregulation of nucleus HDGF predicts poor prognostic](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref49)
+[outcome in patients with penile squamous cell carcinoma bypass VEGF-A and Ki-67.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref49)
+[Med Oncol 2013;30(4):702.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref49)
+[50. Kayes OJ, Loddo M, Patel N, et al. DNA replication licensing factors and aneuploidy](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref50)
+[are linked to tumor cell cycle state and clinical outcome in penile carcinoma. Clin](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref50)
+[Cancer Res 2009;15(23):7335–44.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref50)
+[51. Guimaraes GC, de Oliveira Leal ML, Sousa Madeira Campos R, et al. Do proliferating](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref51)
+[cell nuclear antigen and MIB-1/Ki-67 have prognostic value in penile squamous cell](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref51)
+[carcinoma? Urology 2007;70(1):137–42.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref51)
+[52. Teixeira Júnior AAL, da Costa Melo SP, Pinho JD, et al. A comprehensive analysis of](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref52)
+[penile cancer in the region with the highest worldwide incidence reveals new](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref52)
+[insights into the disease. BMC Cancer 2022;22(1):1063.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref52)
+[53. Kim SK, Kim JH, Han JH, et al. TERT promoter mutations in penile squamous cell](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref53)
+[carcinoma: high frequency in non-HPV-related type and association with favorable](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref53)
+[clinicopathologic features. J Cancer Res Clin Oncol 2021;147(4):1125–35.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref53)
+[54. Berdjis N, Meye A, Nippgen J, et al. Expression of Ki-67 in squamous cell carcinoma](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref54)
+[of the penis. BJU Int 2005;96(1):146–8.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref54)
+
+
+[55. Geisler SA, Olshan AF, Weissler MC, et al. p16 and p53 Protein expression as](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref55)
+[prognostic indicators of survival and disease recurrence from head and neck cancer.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref55)
+[Clin Cancer Res 2002;8(11):3445–53.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref55)
+[56. Smith EM, Rubenstein LM, Hoffman H, et al. Human papillomavirus, p16 and p53](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref56)
+[expression associated with survival of head and neck cancer. Infect Agent Cancer](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref56)
+[2010;5:4.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref56)
+[57. Li LT, Jiang G, Chen Q, et al. Ki67 is a promising molecular target in the diagnosis of](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref57)
+[cancer (review) Mol Med Rep 2015;11(3):1566–72.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref57)
+[58. Brown DC, Gatter KC. Ki67 protein: the immaculate deception? Histopathology 2002;](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref58)
+[40(1):2–11.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref58)
+[59. Davey MG, Hynes SO, Kerin MJ, et al. Ki-67 as a prognostic biomarker in invasive](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref59)
+[breast cancer. Cancers (Basel) 2021;13(17):4455.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref59)
+[60. Xie Y, Chen L, Ma X, et al. Prognostic and clinicopathological role of high Ki-67](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref60)
+[expression in patients with renal cell carcinoma: a systematic review and meta-](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref60)
+[analysis. Sci Rep 2017;7:44281.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref60)
+[61. Pan D, Wei K, Ling Y, et al. The prognostic role of Ki-67/MIB-1 in cervical cancer: a](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref61)
+[systematic review with meta-analysis. Med Sci Monit 2015;21:882–9.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref61)
+[62. Richards-Taylor S, Ewings SM, Jaynes E, et al. The assessment of Ki-67 as a](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref62)
+[prognostic marker in neuroendocrine tumours: a systematic review and meta-](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref62)
+[analysis. J Clin Pathol 2016;69(7):612–8.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref62)
+[63. Bowie J, Singh S, O'Hanlon C, et al. A systematic review of non-HPV prognostic](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref63)
+[biomarkers used in penile squamous cell carcinoma. Turk J Urol 2021;47(5):358–65.](http://refhub.elsevier.com/S0031-3025(25)00034-0/sref63)
+
+
+284
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

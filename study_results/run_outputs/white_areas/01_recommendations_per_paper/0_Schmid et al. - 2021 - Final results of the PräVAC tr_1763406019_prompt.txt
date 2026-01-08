@@ -1,0 +1,666 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    World Journal of Urology (2021) 39:613–620
+https://doi.org/10.1007/s00345-020-03221-z
+
+
+# **Final results of the PräVAC trial: prevention of wound complications ** **following inguinal lymph node dissection in patients with penile ** **cancer using epidermal vacuum‑assisted wound closure**
+
+**Sebastian C. Schmid** **[1]** **[· Anna K. Seitz](http://orcid.org/0000-0002-3575-0747)** **[2]** **· Bernhard Haller** **[3]** **· Hans‑Martin Fritsche** **[4]** **· Toni Huber** **[4]** **·**
+**Maximilian Burger** **[4]** **· Jürgen E. Gschwend** **[1]** **· Tobias Maurer** **[1,5]**
+
+Received: 24 March 2020 / Accepted: 21 April 2020 / Published online: 5 May 2020
+© The Author(s) 2020
+
+**Abstract**
+**Purpose** Inguinal lymphadenectomy in penile cancer is associated with a high rate of wound complications. The aim of this
+trial was to prospectively analyze the effect of an epidermal vacuum wound dressing on lymphorrhea, complications and
+reintervention in patients with inguinal lymphadenectomy for penile cancer.
+**Patients and methods**
+Prospective, multicenter, randomized, investigator-initiated study in two German university hospitals (2013–2017). Thirty-one patients with penile cancer and indication for bilateral inguinal lymph node dissection were
+included and randomized to conventional wound care on one side (CONV) versus epidermal vacuum wound dressing (VAC)
+
+on the other side.
+
+**Results**
+A smaller cumulative drainage fluid volume until day 14 (CDF) compared to contralateral side was observed in 15
+patients (CONV) vs. 16 patients (VAC), with a median CDF 230 ml (CONV) vs. 415 ml (VAC) and a median maximum
+daily fluid volume (MDFV) of 80 ml (CONV) vs. 110 ml (VAC). Median time of indwelling drainage: 7 days (CONV) vs.
+8 days (VAC). All grade surgery-related complications were seen in 74% patients (CONV) vs. 74% patients (VAC); grade
+3 complications in 3 patients (CONV) vs. 6 patients (VAC). Prolonged hospital stay occurred in 32% patients (CONV) vs.
+48% patients (VAC); median hospital stay was 11.5 days. Reintervention due to complications occurred in 45% patients
+(CONV) vs. 42% patients (VAC).
+**Conclusions**
+In this prospective, randomized trial we could not observe a significant difference between epidermal vacuum
+treatment and conventional wound care.
+
+**Keywords** Inguinal surgery · Penile cancer · Lymphorrhea · PraeVac · Closed incision negative pressure
+
+**Introduction**
+
+
+Sebastian C. Schmid and Anna K. Seitz have equally contributed.
+
+- Sebastian C. Schmid
+sebastian.schmid@tum.de
+
+1 Department of Urology, Rechts der Isar Medical Center,
+Technical University of Munich, Ismaningerstr. 22,
+81375 Munich, Germany
+
+2 Department of Urology, Universitätsklinikum Würzburg,
+Würzburg, Germany
+
+3 Institute of Medical Informatics, Statistics and Epidemiology,
+Technical University of Munich, Munich, Germany
+
+4 Department of Urology, Universitätsklinikum Regensburg,
+Regensburg, Germany
+
+5 Department of Urology and Martini-‑Klinik, University
+Medical Center Hamburg-Eppendorf, Hamburg, Germany
+
+
+Penile cancer is a rare disease with an incidence of
+
+1/100.000/year in Europe, with an age peak around the
+sixth decade. Invasive penile cancer is an aggressive disease with a high risk of metastasis, with local treatment
+adapted to tumor extension [1]. The primary landing site
+for metastasis are inguinal lymph nodes. Even in the case
+of clinically normal inguinal lymph nodes, the risk for
+micrometastasis is around 25% in patients with intermediate or high-risk penile cancer (≥ pT1 G2). In these
+patients, a surgical lymph node staging is recommended
+using inguinal lymphadenectomy [2]. It can be performed
+either as dynamic sentinel node biopsy or as modified
+(limited) inguinal lymphadenectomy. In patients with
+clinically suspicious (palpable or visible) inguinal lymph
+## Vol.:(0123456789) 1 3
+
+614 World Journal of Urology (2021) 39:613–620
+
+
+nodes, a radical inguinal lymphadenectomy is advised [3].
+Although inguinal lymphadenectomy is a life-saving procedure, there is a relevant fraction of patients that does not
+undergo this procedure. Even in specialized centers, 25%
+of patients are not treated according to guideline recommendations leading to a significantly higher risk of death
+compared to guideline-adherent treatment [4, 5]. While
+the reasons for avoiding inguinal lymphadenectomy are
+unclear, the associated high morbidity is likely to contribute to this situation. Common wound problems include
+prolonged lymph secretion, lymphocele formation and
+wound dehiscence with secondary healing. These problems are observed in 25–70% of patients [6–11]. There
+have been different attempts to reduce the morbidity of
+this procedure. With regard to surgical technique, ligation is preferred over diathermic coagulation [12]. Another
+approach to reduce surgical trauma is dynamic sentinel
+node biopsy during or after primary surgery [13] to selectively identify the first draining nodes of the primary
+tumor [14]. For this method, a high negative predictive
+value of 99% and a sensitivity of 88% in regard to inguinal
+metastasis were reported in a recent metaanalysis [15].
+Another method to prevent wound problems is the use
+of subatmospheric pressure or vacuum therapy in the
+form of an epidermal vacuum wound dressing. Epidermal vacuum therapy is applied on the closed wound and
+generates negative pressure in the wound thus stabilizing
+the wound and inducing healing processes. In 2012, our
+group presented the results of a retrospective analysis of
+24 patients treated with epidermal vacuum wound dressing
+or conventional wound care after inguinal lymphadenectomy due to penile cancer [16]. This retrospective analysis
+showed promising results, with epidermal vacuum treatment (VAC) resulting in significantly fewer complications
+such as the formation of lymphoceles (62% vs. 20%), persistent lymphorrhea (45% vs. 7%) or lymphedema of the
+lower extremity (46% vs. 0%) ( *p* = 0.032). In the retrospective analysis, reinterventions had to be performed in
+23% of inguinal wounds (four patients) treated with conventional wound care and for 7% of inguinal wounds (one
+patient) treated with epidermal VAC ( *p* = 0.631). To confirm this retrospective data, we conducted a prospective,
+randomized, multicenter trial of epidermal vacuum wound
+dressing (VAC) versus conventional wound care (CONV)
+following inguinal lymph node dissection to prospectively
+analyze the effect on lymphorrhea, complications and reinterventions in patients with penile cancer. The rationale for
+choosing epidermal vacuum treatment was the hypothesis
+that sub-atmospheric pressure might lead to compression
+and closure of lymphatic vessels as well as stabilization of
+the wound and removal of wound fluid, thereby reducing
+wound complications.
+## 1 3
+
+
+**Patients and methods**
+
+The study was planned as a prospective, randomized, multicenter, investigator-initiated trial in Germany. The trial
+was registered in the German clinical trials register DRKS
+[(https ​://www.drks.de; DRKS00005257) and approved by the](https://www.drks.de)
+relevant legal authority (EUDAMED CIV-12-07-008204).
+The trial was approved by the ethics committee of the faculty of medicine (5543/12), Technical University Munich,
+Munich, Germany. The trial was performed in accordance
+
+with the Declaration of Helsinki. Patients were included
+
+after information and signing of the informed consent form.
+For each participating patient, intervention and control side
+were randomly allocated based on a computer-generated
+
+randomization list with a block size of ten. Planned accrual
+
+was 100 patients, with preplanned interim analyses after 25
+and 50 patients. Participating centers included the Department of Urology, Rechts der Isar Medical Center, Technical
+University of Munich, Munich, Germany and Department
+of Urology, Universitätsklinikum Regensburg, Regensburg,
+Germany.
+Aim of the study was to prospectively analyze the effect
+of an epidermal vacuum wound dressing on lymphorrhea,
+complications and reinterventions in patients with inguinal
+lymphadenectomy for penile cancer. Inclusion/exclusion
+criteria and endpoints are shown in Table 1.
+
+**Study treatment**
+
+Included penile cancer patients were treated by inguinal lymphadenectomy by experienced surgeons only in accordance
+with the EAU guideline [3] either as (modified) bilateral
+inguinal lymphadenectomy or as bilateral dynamic sentinel
+node biopsy. Subsequently, postoperative wound dressings
+were applied. Conventional wound care (CONV) treatment
+consisted of a subcutaneous suction drain as well as pressure
+dressings over the stapled closed wound while the epidermal vacuum (VAC) treatment consisted of a subcutaneous
+suction drain and a stapled closed wound and an epidermal
+vacuum wound dressing (PREVENA™ Incision Dressing,
+KCI, an Acelity company, San Antonio, Texas, USA) over
+the stapled closed wound (Fig. 1). To analyze the effect of
+epidermal vacuum therapy after bilateral inguinal lymphadenectomy and to reduce patient inherent confounders, both
+conventional wound treatment as well as epidermal vacuum
+treatment were applied within the same patient. The side
+of each treatment was determined by a computer-generated
+randomization list designed by a biostatistician prior to the
+
+start of the trial.
+
+World Journal of Urology (2021) 39:613–620 615
+
+**Table 1** Table of inclusion/exclusion criteria and trial endpoints
+
+Inlcusion criteria Exclusion criteria
+
+Patients with penile cancer Status post inguinal surgery (e.g. vascular surgery) or any medical
+conditions leading to an impaired inguinal lymph drainage. Status
+post repair of inguinal hernia was no exclusion criterion, if date of
+surgery was > 3 months in the past and no swelling or edema was
+detectable
+
+Indication for inguinal lymphadenectomy according to EAU guideline: Allergy to acrylic adhesive
+tumor stage ≥ pT1 G2 or palpable inguinal lymph nodes
+
+Patients who are not able to give informed consent
+Age < 18 years
+Primary endpoint
+Cumulative drainage fluid volume (CDF) in milliliter (ml) until removal of the drainage (at the latest up to day 14 post surgery)
+Secondary endpoints
+Maximum of daily fluid volume (MDFV)
+Days until removal of drainage
+
+Length of hospital stay
+
+Wound-associated complications during study treatment
+Need for reintervention due to wound complications within the first 90 postoperative days
+Postoperative pain and patient satisfaction (determined by visual analogue scale)
+
+on a visual analogue scale from 0 to 10 (0—very unhappy;
+10—very happy). The study treatment ended after discharge
+from the hospital. After 90 days, patients were contacted for
+follow-up using a structured questionnaire to account for
+wound associated complications and reinterventions.
+
+**Statistical analysis**
+
+
+**Fig. 1** Epidermal vacuum treatment of the groin with the
+“PREVENA™ Incision Dressing” system, which is applied on the
+closed wound
+
+**Post‑surgery assessment**
+
+After surgery, the epidermal vacuum dressing was removed
+after 7–8 days on the intervention side. On the control side,
+the pressure dressing was removed after 24 h. The suction
+drainage was removed if daily fluid volume was < 25 ml, but
+not earlier than three pod. Before discharge, bilateral inguinal sonography was performed. Wound associated complications were documented during the hospital stay. At time
+of discharge from hospital, patients were asked to score
+their maximum pain level on each side on a visual analogue
+scale from 0 to 10 (0—no pain; 10—maximum pain) and
+satisfaction level in regard to wound treatment on each side
+
+
+Primary aim of the study was to show, that—within a
+patient-intervention—VAC leads to a smaller cumulative
+drainage fluid volume of the respective side compared to
+CONV. It was planned to test, whether the probability for
+a smaller CDF observed on the side treated by VAC as
+compared to the side with CONV is larger than 70%. For
+the primary analysis, an exact binomial test comparing the
+observed proportion of patients with a smaller CDF by VAC
+to a probability of 70% was planned and performed. Two
+interim analyses were planned after 25 and 50 included
+
+*α*
+patients with a two-sided significance level of - = 1% and
+the final statistical test was intended to be performed on a
+
+*α*
+significance level of = 3%. A true probability for a lower
+CDF under VAC as compared to CONV within a patient
+of 85% was assumed, so 100 patients were planned to be
+included to reject the null hypothesis with a probability
+(= power) of 90%. Sample size calculation was performed
+using the software nQuery Advisor version 7.0.
+For categorical data, absolute and relative frequencies
+are shown. Quantitative data are described by medians and
+interquartile ranges (IQR, 1st–3rd quartile) as most variables
+follow a skewed distribution. For comparisons of quantitative data, Wilcoxon-signed rank tests were performed,
+## 1 3
+
+616 World Journal of Urology (2021) 39:613–620
+
+
+for binary data the exact McNemar test was conducted. To
+investigate associations between relevant patient character
+istics and need for reintervention or occurrence of relevant
+
+complications (grade 3 or 4) on any side, Fisher’s exact test
+(for diabetes and smoking) or univariate binary logistic
+regression models (age, BMI) were used. A multivariable
+linear regression model was fitted to the data to investigate
+associations between potential prognostic factors (diabetes,
+smoking, age, BMI) and the mean cumulative drainage fluid
+over both sides. All secondary endpoints were analyzed in
+an exploratory manner using two-sided tests on a significance level of 5%. Statistical analysis was performed using
+IBM SPSS Statistics for Windows, version 25 (IBM Corp.,
+Armonk, N.Y., USA) and R version 3.4.4 (R Foundation for
+Statistical Computing, Vienna, Austria).
+
+**Results**
+
+The trial was conducted from 2013 to 2017 and stopped
+early after the results of the first planned interim analysis,
+which was started after the inclusion of 25 patients. During interim analysis, recruiting continued. After evaluation of the interim analysis, it was decided to stop the
+
+**Table 2** Patient characteristics
+
+Patient characteristics
+
+
+study early for futility, as there was no significant effect
+or tendency in favor of study treatment. The study was
+stopped permanently after 31 included patients. Three
+patients had previous inguinal surgery while two patients
+had neoadjuvant systemic therapy for penile cancer. The
+patient characteristics are shown in Table 2. One patient
+died in the follow-up phase due to pulmonary embolism
+while being treated for wound complications in an external
+hospital. All other patients were alive at the end of the
+follow-up phase.
+
+**Primary endpoint: cumulative drainage fluid**
+
+In 16 patients, the intervention side (VAC) had a smaller
+CDF compared to the control side (CONV), while in 15
+patients the control side had a smaller CDF compared to
+the intervention side. Consequently, the estimated probability for a smaller CDF by VAC as compared to CONV
+is 52% (95% confidence interval: 33–70%), which is relevantly smaller than the hypothesized 70% ( *p* = 0.031; exact
+binomial test with *P* 0 = 70%). Median CDF was 230 ml
+(IQR: 115–940) for CONV vs. 415 ml (150–1120) for VAC
+( *p* = 0.673) (Fig. 2).
+
+
+Patient number ( *n* ) 31
+
+Smoker (%) 45
+
+Sentinel-node-dissection (%) 27
+
+Diabetes (%) 10
+
+Median Range IQR
+
+Age (years) 62 34–82 57–70
+BMI (kg/m [2] ) 28 19–43 24–32
+
+Lymphadenectomy VAC CONV
+
+Median Range IQR Median Range IQR
+
+Number of dissected LN 9 1–20 4–13 7 1–19 6–11
+
+Weight of dissected tissue (g) 52 8–162 39–83 50 5–165 32–81
+
+Tumor stage (final) pT1 pT2 pT3
+
+Number of patients (%) pT1 G1 pN0 cM0 1 (3%) pT2 pN0 cM0 8 (27%) pT3 pN0 cM0 2 (7%)
+
+pT1 G2 pN0 cM0 9 (30%) pT2 pN1-3 cM0 5 (17%) pT3 pN1-3 cM0 2 (7%)
+
+pT1 G3 pN0 cM0 1 (3%)
+
+pT1 pN1-3 cM0-1 2 (7%)
+
+Lymph nodes (pN) pN0 pN1 pN2 pN3
+
+% of patients 70 13 7 10
+
+Distant metastasis (cM) cM0 (%) cM1 (%)
+
+97 3
+## 1 3
+
+World Journal of Urology (2021) 39:613–620 617
+
+**Fig. 2** Box plot (left) and scatter
+plot (right) of cumulative drainage fluid in the VAC vs. CONV
+group
+
+
+**Secondary endpoints**
+
+The median maximum daily fluid volume (MDFV) was
+80 ml (IQR: 50–200 ml) for CONV vs. 110 ml (IQR:
+30–230 ml) for VAC (Fig. 3). Median time of indwelling drainage was 7 days (5–9 days) for CONV vs. 8 days
+(5–11 days) for VAC. All grade surgery-related complications were seen in 74% (23/31) patients on the conventional side vs. 74% (23/31) on the VAC side, while
+grade 3 complications occurred in 3 patients (CONV) vs.
+6 patients (VAC) (Table 3; Fig. 4). Prolonged hospital stay
+due to wound problems occurred in 10 patients (CONV)
+vs. 15 patients (VAC) ( *p* = 0.125) with a median hospital
+
+**Fig. 3** Box plot (left) and scatter
+plot (right) of maximum daily
+fluid volume in the VAC vs.
+CONV group
+
+
+stay of 11.5 days (8–20 days). A reintervention due to
+complications was needed in 14 patients (45%) receiving CONV and 13 patients (42%) receiving VAC. The
+median pain and satisfaction levels were 1 (0–3) and 9
+(8–10) under CONV vs. 2 (0–2) and 9 (7–10) under VAC
+( *p* = 0.527 for pain and *p* = 0.255 for satisfaction), showing that both wound treatments had a low pain score and
+excellent satisfaction level for the patients.
+We performed uni- and multivariate analyses investigating the association of potential risk factors (smoking,
+age, obesity, diabetes) with cumulative drainage fluid, the
+necessity of reinterventions and occurrence of relevant
+complications. We did not observe any statistically significant associations, which is likely due to the case number.
+## 1 3
+
+618 World Journal of Urology (2021) 39:613–620
+
+**Table 3** Postoperative complications
+
+Complication per side/patient Grade 1 Grade 2 Grade 3
+
+VAC CONV Overall VAC CONV Overall VAC CONV Overall
+
+Lymphedema (%) 7 (23%) 8 (26%) 9 (29%) 0 (0%) 1 (3%) 1 (3%) 0 (0%) 0 (0%) 0 (0%)
+
+Lymphocele (%) 5 (16%) 10 (33%) 10 (33%) 3 (10%) 2 (6%) 3 (10%) 5 (16%) 3 (10%) 5 (16%)
+
+Lymph leakage (%) 1 (3%) 1 (3%) 1 (3%) 2 (6%) 1 (3%) 3 (10%) 2 (6%) 1 (3%) 3 (10%)
+
+Wound dehiscence/infection (%) 2 (6%) 1 (3%) 2 (6%) 0 (0%) 2 (6%) 2 (6%) 3 (10%) 2 (6%) 3 (10%)
+
+Thromboembolic event (%) 0 (0%) 1 (3%) 1 (3%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%) 0 (0%)
+
+One patient died due to pulmonary embolism in the follow up period
+
+
+**Fig. 4** Frequency of complications by grade (CTCAE 4.0) in the
+VAC vs. CONV group
+
+**Discussion**
+
+We present the results of a prospective, randomized trial
+to analyze the effect of epidermal vacuum therapy on
+wound complications after inguinal lymphadenectomy in
+patients with penile cancer. We did not observe a substantial difference between epidermal vacuum treatment
+and conventional wound treatment after a planned interim
+analysis. As the preplanned interim analysis showed that
+the primary endpoint was highly unlikely to be met after
+the inclusion of more patients, the study was stopped early
+for futility.
+When designing the study protocol we tried to minimize
+bias. To exclude patient inherent factors contributing to
+wound problems, we directly compared both treatments
+within the same patient, applying the study intervention
+to one groin and conventional treatment to the other groin.
+Therefore, if epidermal vacuum therapy would reduce
+wound problems in reality, it should be evident irrespective of surgical technique, surgeon skill or patient predisposition to complications.
+The observed complications and reinterventions are
+in line with published studies, although more recent
+## 1 3
+
+
+publications (including our own retrospective analysis
+from 2012) have reported fewer complications [16, 17].
+In the authors` opinion, this might be in part due to the retrospective design of these reports; showing that we might
+underestimate complication rates in clinical practice if it
+is not prospectively and actively assessed. This is especially true as a relevant part of reinterventions was after
+discharge.
+Outside of penile cancer therapy, inguinal incisions are
+common in vascular surgery to access the femoral vessels.
+A recent prospective randomized single-center trial evaluated 119 femoral incisions after elective vascular surgery
+
+[18]. Wound care was either a gauze dressing or an epidermal vacuum therapy like the one used in our study. They
+stratified their patients in a low and high-risk cohort. The
+rate of major wound complications in the high-risk group
+was 25% in the control group and 8.5% in the epidermal
+vacuum group ( *p* < 0.001), while reoperation/readmission
+rate was 18.3%/16.7% in the control group vs 8.5%/6.8%
+in the intervention group, showing a statistically significant benefit for the use of epidermal vacuum dressing
+in the high-risk group. Another recent prospective randomized trial in vascular surgery found similar results
+in their analysis [19]. They analyzed 188 patients after
+vascular surgery of the groin for surgical site infections.
+Overall, the rate of wound infections was 22.8%. The control group developed more surgical site infections (33.3%)
+compared to the intervention group (13.2%; *p* = 0.0015). A
+prospective, controlled trial with a comparable setting to
+the above-mentioned studies in vascular surgery showed
+a strong trend in favor of epidermal vacuum dressing but
+20].
+missed statistical significance by a narrow margin [
+These results seem to contradict the findings in our trial
+at first glance. But although inguinal lymphadenectomy
+for penile cancer and femoral vascular surgery share the
+same anatomical region, they are substantially different
+in the extent of trauma to lymphatic vessel and removal
+of lymphatic and fatty tissue. The extended trauma to
+the lymphatic system could be the reason that the suction, which is generated by an epidermal vacuum system,
+is just not sufficient to prevent wound complications in
+
+World Journal of Urology (2021) 39:613–620 619
+
+
+this situation. Therefore, these findings are probably not
+directly comparable.
+The results for epidermal vacuum therapy in other anatomical regions are heterogeneous [21], which is probably
+due to the fact that different regions are under different stress
+by movements and extent of lymphatic drainage, thus making it difficult to directly compare the efficacy of epidermal vacuum therapy in different indications and anatomical
+regions.
+Limitations of the study are a long recruitment time and
+a relatively low patient number, which is a general problem
+in rare diseases like penile cancer. Other limitations, like
+the use of different surgery techniques (DSNB vs. modified
+vs. radical lymphadenectomy) or the number or experience
+of surgeons performing the surgery should not be relevant
+for the comparison of both treatment arms, due to our study
+design. On the other hand, these factors may influence the
+overall complication rate, which was high in both arms. We
+also reported pain score and satisfaction results per side. Due
+to the non-blinded application of wound dressing, which was
+obvious for the patients, these results may be biased.
+
+**Conclusions**
+
+There is no obvious solution to reduce the high complication
+rate of inguinal lymphadenectomy. So far, perfecting surgical technique with meticulous ligation of lymphatic vessels
+and reducing surgical trauma by using dynamic sentinel
+node biopsy whenever possible seem to be—in our opinion—the most promising approaches to reduce the morbidity
+
+of this intervention.
+
+**Acknowledgements** Open Access funding provided by Projekt DEAL.
+The epidermal vacuum wound dressing (PREVENA™ Incision Management System) used was provided by KCI, an Acelity company. The
+design, conduction and analysis of the PräVAC trial were completely
+independent of KCI.
+
+**Author contributions** SCS: protocol/project development, data collection, data analysis, manuscript writing. AKS: data collection, data
+analysis, manuscript writing. BH: data analysis, manuscript writing.
+HMF, TH, MB: data collection, data analysis. JEG: protocol/project
+development, manuscript writing. TM: protocol/project development,
+data collection, data analysis, manuscript writing.
+
+**Compliance with ethical standards**
+
+**Conflict of interest** All authors declare no conflict of interest.
+
+**Research involving human participants and/or animals** The trial was
+[registered in the German clinical trials register DRKS (https ​://www.](https://www.drks.de)
+[drks.de; DRKS00005257) and approved by the relevant legal authority](https://www.drks.de)
+(EUDAMED CIV-12-07-008204). The trial was approved by the ethics
+committee of the faculty of medicine (5543/12), Technical University
+Munich, Munich, Germany.
+
+
+**Informed consent** The trial was performed in accordance to the Declaration of Helsinki. Patients were included after information and signing
+of the informed consent form.
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source,
+provide a link to the Creative Commons licence, and indicate if changes
+were made. The images or other third party material in this article are
+included in the article’s Creative Commons licence, unless indicated
+
+otherwise in a credit line to the material. If material is not included in
+
+the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will
+need to obtain permission directly from the copyright holder. To view a
+[copy of this licence, visit http://creat ​iveco ​mmons ​.org/licen ​ses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+
+**References**
+
+1. Lindner AK, Schachtner G, Steiner E, Kroiss A, Uprimny C,
+Steinkohl F et al (2020) Organ-sparing surgery of penile cancer:
+higher rate of local recurrence yet no impact on overall survival.
+World J Urol 38(2):417–424
+2. Protzel C, Alcaraz A, Horenblas S, Pizzocaro G, Zlotta A, Hakenberg OW (2009) Lymphadenectomy in the surgical management
+of penile cancer. Eur Urol 55(5):1075–1088
+3. Hakenberg OW, Comperat EM, Minhas S, Necchi A, Protzel C,
+Watkin N (2018) EAU guidelines on penile cancer update march
+2018
+4. Cindolo L, Spiess PE, Bada M, Chipollini JJ, Nyirady P, Chiodini
+P et al (2019) Adherence to EAU guidelines on penile cancer
+translates into better outcomes: a multicenter international study.
+World J Urol 37(8):1649–1657
+5. Distler FA, Pahernik S, Gakis G, Hutterer G, Lebentrau S, Rink M
+et al (2019) Adherence to the EAU guideline recommendations for
+systemic chemotherapy in penile cancer: results of the E-PROPS
+study group survey. World J Urol
+6. Bevan-Thomas R, Slaton JW, Pettaway CA (2002) Contemporary
+morbidity from lymphadenectomy for penile squamous cell carcinoma: the M.D. Anderson Cancer Center Experience. J Urol
+167(4):1638–1642
+7. Caliendo MV, Lee DE, Queiroz R, Waldman DL (2001) Sclerotherapy with use of doxycycline after percutaneous drainage of
+postoperative lymphoceles. J Vasc Interv Radiol 12(1):73–77
+8. Han LY, Schimp V, Oh JC, Ramirez PT (2004) A gelatin matrixthrombin tissue sealant (FloSeal) application in the management
+of groin breakdown after inguinal lymphadenectomy for vulvar
+cancer. Int J Gynecol Cancer 14(4):621–624
+9. Kretschmer L, Thoms KM, Peeters S, Haenssle H, Bertsch HP,
+Emmert S (2008) Postoperative morbidity of lymph node excision
+for cutaneous melanoma-sentinel lymphonodectomy versus complete regional lymph node dissection. Melanoma Res 18(1):16–21
+10. Ornellas AA, Kinchin EW, Nobrega BL, Wisnescky A, Koifman
+N, Quirino R (2008) Surgical treatment of invasive squamous cell
+carcinoma of the penis: Brazilian National Cancer Institute longterm experience. J Surg Oncol 97(6):487–495
+11. Perdona S, Autorino R, De Sio M, Di Lorenzo G, Gallo L, Damiano R et al (2005) Dynamic sentinel node biopsy in clinically
+node-negative penile cancer versus radical inguinal lymphadenectomy: a comparative study. Urology 66(6):1282–1286
+12. La-Touche S, Ayres B, Lam W, Alnajjar HM, Perry M, Watkin
+N (2012) Trial of ligation versus coagulation of lymphatics in
+## 1 3
+
+620 World Journal of Urology (2021) 39:613–620
+
+
+dynamic inguinal sentinel lymph node biopsy for staging of
+squamous cell carcinoma of the penis. Ann R Coll Surg Engl
+94(5):344–346
+13. Omorphos S, Saad Z, Arya M, Freeman A, Malone P, Nigam R
+et al (2016) Feasibility of performing dynamic sentinel lymph
+node biopsy as a delayed procedure in penile cancer. World J Urol
+34(3):329–335
+14. Brouwer OR, van den Berg NS, Matheron HM, van der Poel HG,
+van Rhijn BW, Bex A et al (2014) A hybrid radioactive and fluorescent tracer for sentinel node biopsy in penile carcinoma as a
+potential replacement for blue dye. Eur Urol 65(3):600–609
+15. Zou ZJ, Liu ZH, Tang LY, Wang YJ, Liang JY, Zhang RC et al
+(2016) Radiocolloid-based dynamic sentinel lymph node biopsy
+in penile cancer with clinically negative inguinal lymph node: an
+updated systematic review and meta-analysis. Int Urol Nephrol
+48(12):2001–2013
+16. Tauber R, Schmid S, Horn T, Thalgott M, Heck M, Haller B et al
+(2013) Inguinal lymph node dissection: epidermal vacuum therapy
+for prevention of wound complications. J Plast Reconstr Aesthet
+Surg 66(3):390–396
+17. Koifman L, Hampl D, Koifman N, Vides AJ, Ornellas AA (2013)
+Radical open inguinal lymphadenectomy for penile carcinoma:
+surgical technique, early complications and late outcomes. J Urol
+190(6):2086–2092
+18. Kwon J, Staley C, McCullough M, Goss S, Arosemena M, Abai
+B et al (2018) A randomized clinical trial evaluating negative
+## 1 3
+
+
+pressure therapy to decrease vascular groin incision complications. J Vasc Surg 68(6):1744–1752
+19. Gombert A, Babilon M, Barbati ME, Keszei A, von Trotha KT,
+Jalaie H et al (2018) Closed incision negative pressure therapy
+reduces surgical site infections in vascular surgery: a prospective randomised trial (AIMS trial). Eur J Vasc Endovasc Surg
+56(3):442–448
+20. Engelhardt M, Rashad NA, Willy C, Muller C, Bauer C, Debus S
+et al (2018) Closed-incision negative pressure therapy to reduce
+groin wound infections in vascular surgery: a randomised controlled trial. Int Wound J 15(3):327–332
+21. De Vries FE, Wallert ED, Solomkin JS, Allegranzi B, Egger M,
+Dellinger EP et al (2016) A systematic review and meta-analysis
+including GRADE qualification of the risk of surgical site infections after prophylactic negative pressure wound therapy compared with conventional dressings in clean and contaminated
+surgery. Medicine 95(36):e4673
+
+**Publisher’s Note** Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

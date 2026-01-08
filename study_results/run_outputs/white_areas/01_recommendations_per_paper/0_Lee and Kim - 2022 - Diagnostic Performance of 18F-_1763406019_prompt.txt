@@ -1,0 +1,665 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    #### **Lieferschein **
+
+Universitaets- und Stadtbibliothek Koeln
+
+ - Dokumentlieferung –
+
+Universitaetsstr. 33
+
+D-50931 Koeln
+
+
+Tel.:
+
+Fax:
+
+Email:
+
+
+0221/470 2437
+
+0221/470 5053
+
+fernleihe@ub.uni-koeln.de
+
+
+**Empfänger**
+
+Klinik fuer Urologie
+
+Caritas-Krankenhaus St. Josef
+
+Landshuter Str. 65
+
+D-93053 Regensburg
+
+**Angaben zur Bestellung** **:**
+
+
+Bestelldatum:
+
+Bestellnummer:
+
+Name des Bestellers:
+Benutzerkennung: HSL17X00507
+
+Lieferdatum:
+Lieferpriorität: NORMAL
+Aktueller Lieferweg: Email
+E-Mail Adresse:
+
+Bemerkungen zur Auslieferung:
+
+
+
+
+
+**Angaben zum Dokument:**
+
+Signatur:
+Autor:
+
+Titel:
+
+Jahr: 2022
+Band / Jahrgang: 47 / 5
+Seiten: 402-408
+
+Aufsatzautor:
+
+Aufsatztitel:
+
+ISSN: 1536-0229
+
+ISBN:
+
+CODEN:
+
+Ihre Bemerkung zur Bestellung:
+
+
+
+[ONL] ND:2045053-9
+
+
+Clinical nuclear medicine
+
+2022
+
+47 / 5
+
+402-408
+
+Lee, Sang Woo; Kim, Seong-Jang;
+Diagnostic Performance of 18F-FDG PET/CT for Lymph Node Staging in Penile Cancer
+
+1536-0229
+
+## **subito Urheberrechtshinweis **
+
+Die Bestellung und Nutzung der über subito gelieferten Aufsatzkopien
+unterliegen urheberrechtlichen Bestimmungen. Mit der Registrierung
+bei subito verpflichten Sie sich, diese einzuhalten.
+
+Kopien von subito sind grundsätzlich zum eigenen Gebrauch bestimmt
+und dürfen, außer, wenn sie durch eine Hilfsperson bestellt worden sind,
+nicht an Dritte weitergegeben werden. Für kommerzielle Nutzer der von subito gelieferten
+Kopien ist die gemeinsame Verwendung ausgelieferter Kopien innerhalb einer Firma oder
+eines Unternehmens allerdings ausdrücklich gestattet.
+
+Die Kopien sind mit einem Wasserzeichen versehen, welches einen
+Urheberrechtsvermerk enthält. Das von subito e.V. angebrachte Wasserzeichen darf nicht
+
+entfernt werden.
+
+Weiterverwendet werden können innerhalb Deutschlands durch deutsche Bibliotheken
+
+ausgelieferte Kopien unter Beachtung der urheberrechtlichen Schrankenregelungen. So
+können sie zum Beispiel unter Einhaltung der nach § 60a UrhG geltenden Bestimmungen
+für den Unterricht und die Lehre an Bildungseinrichtungen, etwa auch für
+Semesterapparate und in Schulen genutzt werden. Dies gilt nicht nur für analoge, sondern
+auch für digitale Plattformen für Unterrichts- und Lehrmedien. Unter Beachtung von § 45
+UrhG können analoge und digitale Kopien auch in Verfahren vor einem Gericht, einem
+Schiedsgericht oder einer Behörde verwendet werden.
+
+Für Kopienlieferungen mit dem Ziel außerhalb Deutschlands sind alle einschlägigen
+urheberrechtlichen Bestimmungen des Landes zu beachten, in dem der Nutzer seinen
+
+(Wohn-) Sitz hat.
+
+Im Zweifel wenden Sie sich bitte an die Rechtsabteilung Ihres Unternehmens oder an
+
+einen Rechtsanwalt.
+
+### O RIGINAL A RTICLE
+##### [18]
+## Diagnostic Performance of F-FDG PET/CT for Lymph Node Staging in Penile Cancer
+
+Sang Woo Lee, MD, PhD,* and Seong-Jang Kim, MD, PhD†‡§
+
+
+Objective: The purpose of the current study was to evaluate the diagnostic
+accuracies of [18] F-FDG PET/CT for detection of lymph node (LN) metastasis in
+penile cancer (PeCA) patients through a systematic review and meta-analysis.
+Patients and Methods: The PubMed, Cochrane database, and Embase database, from the earliest available date of indexing through August 31, 2021,
+were searched for studies evaluating diagnostic performance of [18] F-FDG
+PET/CT for detection of metastatic LN in PeCA patients. We determined
+the sensitivities and specificities across studies, calculated positive and negative likelihood ratios (LR+ and LR−, respectively), and constructed summary receiver operating characteristic curves.
+Results: Across 12 studies (479 patients), the pooled sensitivity of [18] F-FDG
+
+–
+PET/CTwas 0.87 (95% confidence interval [CI], 0.79 0.92) and the pooled
+
+–
+specificity was 0.88 (95% CI, 0.79 0.93). Likelihood ratio syntheses gave an
+
+– − –
+overall LR+ of 7.2 (95% CI, 3.9 13.1) and LR of 0.15 (95% CI, 0.1 0.24).
+
+–
+The pooled diagnostic odds ratio was 47 (95% CI, 19 116). In metaregression analysis, no variable was the source of the study heterogeneity.
+Conclusions: [18] F-FDG PET/CT showed a good diagnostic performances
+for detection of metastatic LN in PeCA patients. Also, [18] F-FDG PET/CT revealed similar diagnostic accuracy for detection of inguinal and pelvic LN
+metastasis in PeCA patients.
+
+Key Words: [18] F-FDG, PET/CT, penile cancer, lymph node
+
+(Clin Nucl Med 2022;47: 402–408)
+# P enile cancer (PeCA) is rare in the Western countries includingthe United States, Europe, and other industrialized counties. Pe
+nile cancer accounts for less than 1% of cancers in men in the
+United States, with approximately 2200 new cases and less than
+500 deaths annually. [1] Squamous cell carcinoma and its variants account for approximately 95% of cases of PeCA. [2] The prevalence of
+PeCAvaries by race. [3,4] A recent study showed that the incidence of
+PeCA was similar in White and Black men, but was significantly
+higher among Hispanic men and lower in Asian/Pacific Islander men. [3]
+
+Received for publication November 12, 2021; revision accepted December
+2, 2021.
+From the *Department of Nuclear Medicine, Kyungpook National University
+Chilgok Hospital and School of Medicine, Daegu; †Department of Nuclear
+Medicine, Pusan National University School of Medicine; ‡BioMedical Research Institute for Convergence of Biomedical Science and Technology, and
+§Department of Nuclear Medicine, Pusan National University Yangsan Hospital, Yangsan, South Korea.
+Authors' contribution: S.J.K. and S.W.L. contributed to the protocol/project
+development; data collection or management; and manuscript writing/
+editing. S.J.K. contributed to the data analysis.
+Conflicts of interest and sources of funding: none declared.
+Ethical approval: Institutional review board approval was not required because
+we only performed data analysis based on the published studies.
+Informed consent: Written informed consent was not required for this study
+because it is a meta-analysis based on the studies that have been published.
+Correspondence to: Seong-Jang Kim, MD, PhD, Department of Nuclear
+Medicine, Pusan National University School of Medicine, Geumo-ro
+20, Mulgeum-eup, Yangsan-si, Gyeongsangnam-do, 50612, South Korea.
+[E-mail: growthkim@daum.net & growthkim@pusan.ac.kr.](mailto:growthkim@daum.net)
+Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+ISSN: 0363-9762/22/4705–0402
+DOI: 10.1097/RLU.0000000000004081
+
+
+Lymph node (LN) metastasis is the major prognostic factor
+for survival of PeCA. [5] Accurate assessment of regional LNs is essential for proper management because resection of small-volume,
+pathologically involved regional LNs can be curative. [6] Inguinal
+and pelvic LNs consist of regional LNs of the penis. Thus, therapeutic radical inguinal LN dissection and pelvic LN dissection are important treatments for PeCA. [7]
+18 F-FDG PET or PET/CT has been reported to be functional
+and useful imaging modalities for tumor staging in different cancers. [8] Also, [18] F-FDG PET/CT had an improved diagnostic accuracy
+and is now considered an important technique in cancer imaging. [9]
+A meta-analysis showed that [18] F-FDG PET/CT imaging has relatively low sensitivity for detection of inguinal LN involvement in
+PeCA patients, which does not justify its routine application in
+PeCA, especially true for clinically node-negative patients. [10] They
+also concluded that patients with clinically palpable LNs may benefit from [18] F-FDG PET/CT because the sensitivity in this subgroup
+of patients is fairly high. [10] However, this meta-analysis did not evaluated the diagnostic test accuracy of [18] F-FDG PET/CT for pelvic
+LN staging in PeCA patients.
+The purpose of the current study is to meta-analyze the published data on the diagnostic performance of [18] F-FDG PET/CT for detection of LN metastasis PeCA, in order to provide more evidencebased data and to address further studies in the evaluation of diagnostic
+value of [18] F-FDG PET/CT for LN staging in PeCA patients.
+
+PATIENTS AND METHODS
+
+We used the Preferred Reporting Items for Systematic Reviews and Meta-Analyses statement to improve the reporting of
+our research. [11]
+
+Data Sources and Search Strategy
+A structured approach was followed to identify the patient
+PICOS (population, interventions, comparators, outcomes, and
+study design) criteria. [11] We conducted electronic English-language
+literature searches of PubMed, Cochrane database, and Embase from
+the earliest available date of indexing through August 31, 2021. We
+also hand-searched the reference lists of identified publications for
+additional studies. The search strategy included both subject headings
+(MeSH terms) and keywords for the target condition (PeCA), the imaging techniques under investigation ( [18] F-FDG PET/CT), and the interventions (LN staging). We used a search algorithm based on a
+combination of terms: (1) “PET” OR “positron emission tomography” OR “positron emission tomography/computed tomography”
+OR “PET/CT” OR “positron emission tomography-computed tomography” OR “PET-CT” AND (2) “Penile Neoplasms” OR “Penile
+cancer” OR “Penile carcinoma” AND (3) “Lymph node” AND (4)
+“Metastasis” OR “Staging.”
+
+Criteria for Inclusion in the Current Study
+Studies were eligible if the following PICOS criteria were
+met: (a) patient population consisted of primary PeCA confirmed
+histologically; (b) the imaging staging with [18] F-FDG PET/CT; (c)
+
+
+402 www.nuclearmed.com Clinical Nuclear Medicine • Volume 47, Number 5, May 2022
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+Clinical Nuclear Medicine • Volume 47, Number 5, May 2022 Diagnostic Performance of [18] F-FDG PET/CT for PeCA
+
+histopathologic analysis of LN status was available as a reference
+standard; and (d) the study outcome described LN metastasis.
+We excluded studies if a 2 � 2 table could not be extracted
+from the data, if there were fewer than 5 patients, and if multiple reports were published for the same study population. In the latter
+case, the most detailed or recent publication was extracted. Duplicate publications were excluded, as were publications such as review articles, case reports, conference papers, and letters, which
+do not contain the original data. Two researchers independently reviewed titles and abstracts of the retrieved articles, applying the
+aforementioned selection criteria. Articles were rejected if clearly
+ineligible. The same 2 researchers then independently evaluated
+the full-text version of the included articles to determine their eligibility for inclusion.
+
+Data Extraction and Quality Assessment
+Information about basic study (authors, year of publication, and country of origin), study design (prospective or retrospective), patients' characteristics, and technical aspects were
+collected. Each study was analyzed to retrieve the number of
+true-positive, true-negative, false-positive, and false-negative
+findings of [18] F-FDG PET/CT for LN staging in PeCA patients
+according to the reference standard. Only studies providing such
+complete information were finally included in the meta-analysis.
+Quality of the included studies was assessed based on 15-item
+modified QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies). [12] Two reviewers independently assessed each potentially eligible study and assigned them as a quality rating of “good,”
+“fair,” or “poor.” Quality assessment was conducted based on following criteria: study design and presence of bias including selection, performance, recording, and reporting bias. Studies with
+high risk of bias were defined as poor quality, presence of moderate risk (did not affect the results) as fair quality, and those with
+minimal risk as good quality. Disagreements were settled with
+consensus decision. Disagreement between the 2 authors was resolved by discussion.
+
+
+Data Synthesis and Analysis
+All data from each eligible study were extracted. Categorical
+variables are presented as frequencies or percentages, and continuous variables are presented as mean values unless stated otherwise.
+Measures of the diagnostic performance, including sensitivity, specificity, and diagnostic odds ratios (DORs), are reported as point estimates with 95% confidence intervals (CIs). A DOR can be calculated as the ratio of the odds of positivity in a disease state relative to
+the odds of positivity in the nondisease state, with higher values indicating better discriminatory test performance. [13] Between-study
+statistical heterogeneity was assessed using I [2] and the Cochrane Q
+test on the basis of the random-effects analysis. [14] Publication bias
+was examined using the effective sample size funnel plot and associated regression test of asymmetry described by Deeks and colleagues. [15] We used the bivariate random-effects model for analysis and pooling of the diagnostic performance measures across
+studies, as well as comparisons between different index tests. [16,17]
+The bivariate model estimates pairs of logit transformed sensitivity and specificity from studies, incorporating the correlation that
+might exist between sensitivity and specificity. We also used the
+model to create hierarchical summary receiver operating characteristic curves and to estimate the area under the curve. [18] When
+statistical heterogeneity was substantial, we performed metaregression to identify potential sources of bias. [19] Two-sided
+P ≤ 0.05 was considered statistically significant. Statistical analyses were performed with commercial software programs (STATA,
+version 13.1; StataCorp LP, College Station, TX) and Meta-disc
+
+© 2022 Wolters Kluwer Health, Inc. All rights reserved. www.nuclearmed.com 403
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+Lee and Kim Clinical Nuclear Medicine • Volume 47, Number 5, May 2022
+
+FIGURE 1. Flow diagram of the search for eligible studies on the comparison of diagnostic performances of [18] F-FDG PET/CT for
+LN staging in PeCA patients.
+
+FIGURE 2. Results of Deeks's funnel plot of asymmetry test for publication bias. Nonsignificant slope indicates that no significant
+bias was found. ESS, effective sample size.
+
+404 www.nuclearmed.com © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+Clinical Nuclear Medicine • Volume 47, Number 5, May 2022 Diagnostic Performance of [18] F-FDG PET/CT for PeCA
+
+
+[(version 1.4) downloadable freely from http://www.hrc.es/](http://www.hrc.es/investigacion/metadisc_en.htm)
+[investigacion/metadisc_en.htm.](http://www.hrc.es/investigacion/metadisc_en.htm)
+
+RESULTS
+
+Literature Search and Selection of Studies
+
+After the comprehensive computerized search was performed
+and references lists were extensively cross-checked, our research
+yielded 89 records, of which 23 records of duplicated abstracts were
+excluded after reviewing the title and abstract. Also, 32 nonrelevant
+studies, 12 conference abstracts, and 8 review articles were excluded. The remaining 14 full-text articles were assessed for eligibility, and 2 articles were excluded due to insufficient data for the
+calculation of sensitivity and specificity of [18] F-FDG PET/CT for
+detection of LN metastasis in PeCA patients. Finally, 12 studies
+were selected and were eligible for the systematic review and
+meta-analysis, and no additional studies were found screening the
+references of these articles. [20][–][31] The characteristics of the included
+studies are presented in Table 1. The detailed procedure of study selection in the current meta-analysis is shown in Figure 1.
+
+FIGURE 3. Risk of bias and applicability concerns summary.
+
+
+Study Description, Quality, and Publication Bias
+We conducted all analyses based on per-patient data analysis. There was a total of 479 patients in the included studies, and
+the age ranged from 25 to 94 years. Of all 12 studies, 7 studies
+enrolled patients retrospectively [20][–][23,26,29,30] ; the remaining 5
+studies [24,25,27,28,31] enrolled patients prospectively. Eight
+studies [20,21,23][–][25,28][–][30] evaluated the diagnostic accuracy of [18] FFDG PET/CT for detection of inguinal LN metastasis, and 4
+studies [22,26,27,31] investigated pelvic LN metastasis. The principal
+characteristics of 12 studies included in the meta-analysis are included in Table 1. To assess a possible publication bias, Deeks's
+funnel plot asymmetry tests were designed. The nonsignificant
+slope indicates that no significant bias was found. The P value
+was 0.45 (Fig. 2).
+
+Methodological Quality Assessment
+Figure 3 shows the risk of bias and applicability concerns summary, and overall, the quality of the studies was
+deemed satisfactory.
+
+
+© 2022 Wolters Kluwer Health, Inc. All rights reserved. www.nuclearmed.com 405
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+Lee and Kim Clinical Nuclear Medicine • Volume 47, Number 5, May 2022
+
+FIGURE 4. Forest plot of pooled sensitivity and specificity of [18] F-FDG PET/CT for LN staging in PeCA patients.
+
+
+Diagnostic Accuracies of [18] F-FDG PET/CT for
+Detection of LN Metastasis
+The results of [18] F-FDG PET/CT for the diagnosis of LN metastasis of the 12 included studies in the current meta-analysis are
+presented in Figure 4. The pooled sensitivity of [18] F-FDG PET/CT
+was 0.87 (95% CI, 0.79–0.92) with heterogeneity (I [2] = 68.0; 95%
+CI, 48.8–87.3; P < 0.001) and a pooled specificity of 0.88 (95%
+CI, 0.79–0.93) with heterogeneity (I [2] = 84.5; 95% CI, 76.7–92.2;
+P < 0.001). Likelihood ratio (LR) syntheses gave an overall positive
+
+–
+likelihood ratio (LR+) of 7.2 (95% CI, 3.9 13.1) and negative like
+− –
+lihood ratio (LR ) of 0.15 (95% CI, 0.10 0.24). The pooled DOR
+
+–
+was 47 (95% CI, 19 116).
+Figure 5 shows hierarchical summary receiver operating
+characteristic (ROC) curve and indicates that the areas under the
+
+–
+curve (AUC) was 0.93 (95% CI, 0.90 0.95).
+
+Heterogeneity Evaluation and MetaRegression Analysis
+Between-study heterogeneity was present among studies. A
+meta-regression analysis was performed to explore the potential
+sources of heterogeneity in the current studies (Table 2). Metaregression analysis showed that no variable was the potent source
+of heterogeneity.
+
+Subgroup Analysis of Diagnostic Performances of
+18 F-FDG PET/CT According to Inguinal and Pelvic LN
+Table 3 showed the subgroup analysis of diagnostic performances according to inguinal and pelvic LN for detection of LN
+metastasis in PeCA patients. [18] F-FDG PET/CT showed similar diagnostic performances regardless of LN station. The comparison
+of AUC of [18] F-FDG PET/CT for detection of inguinal and pelvic
+LN metastasis shows no statistical differences (area difference,
+−0.0435; SE, 0.0456; z statistic, −0.954; P = 0.3401).
+
+
+DISCUSSION
+
+It is generally accepted that LN involvement is the most
+important prognostic factor for survival in PeCA patients. [32]
+The standard treatment option for PeCA patients with palpable
+LNs is a bilateral inguinal lymphadenectomy. Therefore, accurate
+
+FIGURE 5. Summary receiver operating characteristic
+(SROC) curves for diagnostic performances of [18] F-FDG
+PET/CT for LN staging in PeCA patients.
+
+
+406 www.nuclearmed.com © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+Clinical Nuclear Medicine • Volume 47, Number 5, May 2022 Diagnostic Performance of [18] F-FDG PET/CT for PeCA
+
+TABLE 2. Effects of Moderators
+
+Variables Coefficient* SE DOR 95% CI of DOR P†
+
+Ethnicity (White vs Asian) −0.243 1.1961 0.78 0.05 13.26 0.8445
+Study design (prospective vs retrospective) 0.837 0.9008 2.31 0.27 19.43 0.3840
+LN (inguinal vs pelvic) −0.895 0.9875 0.41 0.04 4.22 0.3951
+
+*Regression coefficient.
+
+  - P value of random-effect meta-regression using maximum likelihood estimation between study variances and the weighted least squares of study size for regression model
+estimation.
+
+Ethnicity (1, White vs 0, Asian); study design (1, prospective vs 0, retrospective); LN (1, inguinal vs 0, pelvic).
+
+
+detection and complete resection of inguinal LN are pivotal for
+treatment of PeCA.
+Traditional anatomical imaging modalities, such as CT and/
+or MRI has high rate of false-positive findings of LNs in PeCA patients. [33] Because PeCA is known to cause inflammatory changes in
+local LNs. [34] Graafland et al [35] showed the diagnostic performances
+of CT imaging to detect metastatic inguinal and pelvic LNs using
+different radiologic criteria. In patients with low risk for inguinal
+LN involvement, an 8-mm cutoff of nodal size provided a sensitivity of 87% and specificity of 81%. [35] For high-risk patients, a cutoff
+of 8 mm or greater revealed a sensitivity of 95% but at the expense
+of low specificity. [35] MRI may not provide significant additional information over CT for detection of inguinal LN metastasis, but MRI
+might provide additional information for primary tumor staging. [36]
+However, with advanced technology of lymphotrophic nanoparticles combined with MRI, a recent study has revealed a sensitivity,
+specificity, positive predictive value, and negative predictive value
+of 100%, 97%, 81.2%, and 100%, respectively, for detection of
+LN metastasis in 7 patients with PeCA. [37]
+The current meta-analysis showed a good sensitivity and
+specificity of [18] F-FDG PET/CT for the detection of inguinal and
+pelvic LN metastasis in PeCA patients. Previous meta-analysis
+demonstrated that [18] F-FDG PET/CT imaging has relatively low
+sensitivity for detection of inguinal LN involvement in PeCA patients. [10] However, they only evaluated the diagnostic performances
+of [18] F-FDG PET/CT for inguinal LN staging in PeCA patients. The
+current study simultaneously investigated the diagnostic performances of [18] F-FDG PET/CT for detection of inguinal and pelvic
+
+
+LN metastasis in PeCA patients, resulting in similar sensitivity
+and specificity. Also, comparison of AUC of [18] F-FDG PET/CT
+for detection of inguinal and pelvic LN metastasis shows no
+statistical differences in the current study. Graafland et al [22]
+found a sensitivity of 91% and specificity of 100% for pelvic
+LN spread and concluded that [18] F-FDG PET/CT scanning appears promising for detecting pelvic LN metastases with great
+accuracy, and it identifies distant metastases in PeCA patients
+with inguinal LN metastasis. Ottenhof et al [26] investigated diagnostic value for pelvic and distant staging in patients with high-risk 61
+PeCA patients. In their study, for staging of pelvic LNs, sensitivity
+was 85%, specificity was 75%, negative predictive value was 90%,
+and positive predictive value was 65%. [26] For the detection of distant
+metastases, [18] F-FDG PET/CT had a positive predictive value
+of 93%. [26]
+The current meta-analysis showed a considerable heterogeneity of sensitivity and specificity between studies. The included studies were statistically heterogeneous in their estimates of sensitivity
+and specificity. This heterogeneity is likely to arise through diversity in methodological aspects between different studies, and the basic differences among the patients in the included studies may have
+contributed to the observed heterogeneity of the results too. To minimize bias in the selection of studies and in the data extraction, reviewers who were blinded to the journal, author, institution, and
+date of publication independently selected articles based on the inclusion criteria, and scores were assigned to study design characteristics and examination results by using a standardized form that was
+based on the QUADAS-2 tool.
+
+
+TABLE 3. Subgroup Analysis of Diagnostic Performances of [18] F-FDG PET/CT According to Inguinal and Pelvic LN
+
+Pooled Estimate 95% CI Cochrane Q I [2] Index P
+
+Inguinal LN
+Sensitivity 0.84 0.76–0.89 17.4 59.7% 0.015
+Specificity 0.79 0.75–0.82 39.3 82.2% <0.001
+
+LR+ 4.48 2.62–7.68 20.1 65.1% 0.005
+
+LR− 0.23 0.09–0.58 42.0 83.3% <0.001
+
+DOR 22.4 8.42–59.72 13.9 49.9% 0.052
+
+Pelvic LN
+
+Sensitivity 0.89 0.81–0.95 1.36 0% 0.716
+Specificity 0.83 0.75–0.89 11.7 74.3% 0.009
+
+LR+ 5.81 2.47–13.63 6.0 50.1% 0.111
+
+LR− 0.14 0.08–0.26 1.5 0% 0.681
+
+DOR 47.2 13.7–162.9 4.5 32.5% 0.217
+
+© 2022 Wolters Kluwer Health, Inc. All rights reserved. www.nuclearmed.com 407
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+Lee and Kim Clinical Nuclear Medicine • Volume 47, Number 5, May 2022
+
+
+CONCLUSIONS
+18 F-FDG PET/CT showed a good diagnostic performances
+for detection of metastatic LN in PeCA patients. Also, [18] F-FDG
+PET/CT revealed similar diagnostic accuracy for detection of inguinal and pelvic LN metastasis in PeCA patients.
+
+REFERENCES
+
+1. Siegel RL, Miller KD, Fuchs HE, et al. Cancer statistics, 2021. CA Cancer J
+Clin. 2021;71:7–33.
+
+2. Cubilla AL, Dillner J, Schellhammer PF, et al. Tumours of the penis. In: Eble
+JN, Sauter G, Epstein JI, et al, eds. Tumors of the Urinary System and Mail
+Genital Organs. Lyon, France: World Health Organization; 2010:279.
+3. Hernandez BY, Barnholtz-Sloan J, German RR, et al. Burden of invasive
+squamous cell carcinoma of the penis in the United States, 1998–2003. Cancer. 2008;113:2883–2891.
+
+4. Rippentrop JM, Joslyn SA, Konety BR. Squamous cell carcinoma of the penis: evaluation of data from the surveillance, epidemiology, and end results
+program. Cancer. 2004;101:1357–1363.
+5. Ficarra V, Akduman B, Bouchot O, et al. Prognostic factors in penile cancer.
+Urology. 2010;76:S66–S73.
+6. Marconnet L, Rigaud J, Bouchot O. Long-term followup of penile carcinoma
+with high risk for lymph node invasion treated with inguinal lymphadenectomy. J Urol. 2010;183:2227–2232.
+7. Protzel C, Alcaraz A, Horenblas S, et al. Lymphadenectomy in the surgical
+management of penile cancer. Eur Urol. 2009;55:1075–1088.
+8. Blodgett TM, Meltzer CC, Townsend DW. PET/CT: form and function. Radiology. 2007;242:360–365.
+9. Bar-Shalom R, Yefremov N, Guralnik L, et al. Clinical performance of PET/
+CT in evaluation of cancer: additional value for diagnostic imaging and patient management. J Nucl Med. 2003;44:1200–1209.
+10. Sadeghi R, Gholami H, Zakavi SR, et al. Accuracy of [18] F-FDG PET/CT for
+diagnosing inguinal lymph node involvement in penile squamous cell carcinoma: systematic review and meta-analysis of the literature. Clin Nucl Med.
+2012;37:436–441.
+
+11. Moher D, Liberati A, Tetzlaf J, et al. Preferred reporting items for systematic
+reviews and meta-analyses: the PRISMA statement. PLoS Med. 2009;
+6:e1000097.
+
+12. Whiting PF, Rutjes AW, Westwood ME, et al. QUADAS-2: a revised tool for
+the quality assessment of diagnostic accuracy studies. Ann Intern Med. 2011;
+155:529–536.
+
+13. Glas AS, Lijmer JG, Prins MH, et al. The diagnostic odds ratio: a single indicator of test performance. J Clin Epidemiol. 2003;56:1129–1135.
+14. Thompson SG. Why sources of heterogeneity in meta-analysis should be investigated. BMJ. 1994;309:1351–1355.
+15. Deeks JJ, Macaskill P, Irwig L. The performance of tests of publication bias
+and other sample size effects in systematic reviews of diagnostic test accuracy was assessed. J Clin Epidemiol. 2005;58:882–893.
+16. Reitsma JB, Glas AS, Rutjes AW, et al. Bivariate analysis of sensitivity and
+specificity produces informative summary measures in diagnostic reviews.
+J Clin Epidemiol. 2005;58:982–990.
+17. Hamza TH, van Houwelingen HC, Stijnen T. The binomial distribution of
+meta-analysis was preferred to model within-study variability. J Clin
+Epidemiol. 2008;61:41–51.
+18. Rutter CM, Gatsonis CA. A hierarchical regression approach to meta-analysis
+of diagnostic test accuracy evaluations. Stat Med. 2001;20:2865–2884.
+19. Lijmer JG, Mol BW, Heisterkamp S, et al. Empirical evidence of designrelated bias in studies of diagnostic tests. JAMA. 1999;282:1061–1066.
+
+
+20. Dou Y, Buckley J, Pinkus E, et al. Evaluation of inguinal lymph node metastasis in penile cancer patient with [18] F-FDG PET/CT. J Nucl Med. 2010;
+51:1264.
+21. Dräger DL, Heuschkel M, Protzel C, et al. [18] F FDG PET/CT for assessing
+inguinal lymph nodes in patients with penile cancer-correlation with histopathology after inguinal lymphadenectomy. Nuklearmedizin. 2018;57:26–30.
+22. Graafland NM, Leijte JA, Valdés Olmos RA, et al. Scanning with [18] F-FDGPET/CT for detection of pelvic nodal involvement in inguinal node-positive
+penile carcinoma. Eur Urol. 2009;56:339–345.
+23. Graafland NM, Valdés Olmos RA, Teertstra HJ, et al. [18] F-FDG PET/CT for
+monitoring induction chemotherapy in patients with primary inoperable
+penile carcinoma: first clinical results. Eur J Nucl Med Mol Imaging.
+2010;37:1474–1480.
+
+24. Jakobsen JK, Frahm Nielsen T, et al. DaPeCa-7: comparative assessment of
+fluorodeoxyglucose positron emission tomography/computed tomography
+(CT) and conventional diagnostic CTin diagnosis of lymph node metastases,
+distant metastases and incidental findings in patients with invasive penile
+cancer. BJU Int. 2021;127:254–262.
+
+25. Leijte JA, Graafland NM, Valdés Olmos RA, et al. Prospective evaluation of
+hybrid [18] F-fluorodeoxyglucose positron emission tomography/computed tomography in staging clinically node-negative patients with penile carcinoma.
+BJU Int. 2009;104:640–644.
+
+26. Ottenhof SR, Djajadiningrat RS, Versleijen MWJ, et al. F-18 Fluorodeoxyglucose positron emission tomography with computed tomography has high
+diagnostic value for pelvic and distant staging in patients with high-risk penile carcinoma. Eur Urol Focus. 2021;S2405–4569:55–59. doi:10.1016/j.
+euf.2021.02.012.
+27. Scher B, Seitz M, Reiser M, et al. [18] F-FDG PET/CT for staging of penile
+cancer. J Nucl Med. 2005;46:1460–1465.
+
+28. Schlenker B, Scher B, Tiling R, et al. Detection of inguinal lymph node involvement in penile squamous cell carcinoma by [18] F-fluorodeoxyglucose
+PET/CT: a prospective single-center study. Urol Oncol. 2012;30:55–59.
+
+29. Souillac I, Rigaud J, Ansquer C, et al. Prospective evaluation of (18)F-fluorodeoxyglucose positron emission tomography-computerized tomography to
+assess inguinal lymph node status in invasive squamous cell carcinoma of the
+penis. J Urol. 2012;187:493–497.
+
+30. Thyavihally YB, Tongaonkar HB, Rangarajan V, et al. The role of positron
+emission tomography (PET) scan in detecting inguinal nodal metastasis in
+carcinoma penis: a prospective study. J Urol. 2009;181:201–202.
+
+31. Zhang S, Li W, Liang F. Clinical value of fluorine-18 2-fluoro-2-deoxy-Dglucose positron emission tomography/computed tomography in penile cancer. Oncotarget. 2016;7:48600–48606.
+
+32. Solsona E, Algaba F, Horenblas S, et al. EAU guidelines on penile cancer.
+Eur Urol. 2004;46:1–8.
+
+33. Lont AP, Besnard AP, Gallee MP, et al. A comparison of physical examination and imaging in determining the extent of primary penile carcinoma.
+BJU Int. 2003;91:493–495.
+
+34. Hughes B, Leijte J, Shabbir M, et al. Non-invasive and minimally invasive
+staging of regional lymph nodes in penile cancer. World J Urol. 2009;27:
+197–203.
+
+35. Graafland NM, Teertstra HJ, Besnard AP, et al. Identification of high risk
+pathological node positive penile carcinoma: value of preoperative computerized tomography imaging. J Urol. 2011;185:881–887.
+
+36. Heyns CF, Mendoza-Valdes A, Pompeo AC. Diagnosis and staging of penile
+cancer. Urology. 2010;76:S15–S23.
+
+37. Tabatabaei S, Harisinghani M, McDougal WS. Regional lymph node staging
+using lymphotropic nanoparticle enhanced magnetic resonance imaging with
+ferumoxtran-10 in patients with penile cancer. J Urol. 2005;174:923–927.
+
+
+408 www.nuclearmed.com © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

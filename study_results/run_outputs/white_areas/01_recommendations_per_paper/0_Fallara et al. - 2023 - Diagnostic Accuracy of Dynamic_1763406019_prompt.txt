@@ -1,0 +1,1763 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [E U R O P E A N U R O L O G Y F O C U S 9 ( 2 0 2 3 ) 5 0 0 – 5 1 2](https://doi.org/10.1016/j.euf.2022.11.018)
+
+a v a i l a b l e a t w w w . s c i e n c e d i r e c t . c o m
+
+j o u r n a l h o m e p a g e : w w w . e u r o p e a n u r o l o g y . c o m / e u f o c u s
+
+Review – Penile Cancer
+# Diagnostic Accuracy of Dynamic Sentinel Lymph Node Biopsy for Penile Cancer: A Systematic Review and Meta-analysis
+
+Giuseppe Fallara [a][,][b][,][y], Edoardo Pozzi [a][,][b][,][y], Omer Onur Cakir [c][,][y], Zafer Tandogdu [a],
+Fabio Castiglione [a][,][b][,][c], Andrea Salonia [b], Hussain M. Alnajjar [a], Asif Muneer MD FRCS(Urol) [a][,][d][,][e][,] [*],
+In collaboration with the EAU-YAU Penile and Testis Cancer Working Group
+
+a Male Genital Cancer Centre, University College London Hospital, London, UK; b Division of Experimental Oncology/Unit of Urology, URI, IRCCS Ospedale San
+Raffaele, Milan, Italy; [c] Department of Urology, King’s College Hospital NHS Foundation Trust, London, UK; [d] NIHR Biomedical Research Centre University
+College London Hospital, London, UK; [e] Division of Surgery and Interventional Science, UCL, London, UK
+
+
+Article info
+
+Article history:
+Accepted November 16, 2022
+Available online 2 December
+
+2022
+
+Associate Editor: Christian Gratzke
+
+Keywords:
+Penile cancer
+Inguinal lymphadenectomy
+Groin dissection
+Dynamic sentinel lymph node
+biopsy
+Accuracy
+
+
+Abstract
+
+Context: A dynamic sentinel lymph node biopsy (DSNB) is used for inguinal lymph node
+staging in patients presenting with primary penile cancer with clinically impalpable
+inguinal lymph nodes (cN0). Further completion radical inguinal lymph node dissection
+(RLND) is offered to patients diagnosed with metastatic inguinal nodes following a
+DSNB.
+
+Objective: To identify the diagnostic accuracy of a DSNB and RLND to detect lymph node
+metastasis.
+
+Evidence acquisition: A systematic literature search was performed on PubMed
+Medscape, EMBASE, Google Scholar, and Cochrane database for relevant studies between
+January 1, 2000 and April 30, 2022. Studies were included if a DSNB was offered to cN0
+patients and if RLND was offered to patients with positive histology at the DSNB. Risk of
+bias and confounding assessments were performed. Diagnostic odds ratio, pooled sensitivity/specificity, and heterogeneity analyses were displayed.
+Evidence synthesis: Overall, 2893 patients in the 28 studies analysed underwent a DSNB.
+Twenty-one studies reported patients undergoing RLND for a positive DSNB. A DSNB
+showed pooled weighted sensitivity of 0.87 (95% confidence interval [CI]: 0.82–0.91)
+and pooled log diagnostic odds ratio of 6.17 (95% CI: 5.47–6.87). A DSNB showed pooled
+weighted sensitivity of 0.50 (95% CI: 0.24–0.59), specificity of 0.82 (95% CI: 0.78–0.87),
+and a log diagnostic odds ratio of 1.18 (95% CI: 0.29–2.97) for detecting further positive
+lymph nodes at RLND. High heterogeneity, mostly caused by study design, characteristics of the included patients, DSNB technique used, surgical experience/centre case volumes, and follow-up schedule, represents the main limitation of this meta-analysis.
+Several sensitivity analyses to address these issues support our findings.
+Conclusions: A positive DSNB is poorly able to discriminate which patients will have further metastatic involvement at completion RLND. Better stratification of these patients
+would avoid unnecessary overtreatment and possible postoperative comorbidities.
+Patient summary: This analysis of the data from the published literature provides evidence that the diagnostic accuracy of a dynamic sentinel lymph node biopsy (DSNB)
+
+- Corresponding author at: Male Genital Cancer Centre, Department of Urology, University College
+London Hospital, 235 Euston Road, London NW1 2BU, UK, 0203 456 7890.
+[E-mail address: asif.muneer@nhs.net (A. Muneer).](mailto:asif.muneer@nhs.net)
+
+
+[https://doi.org/10.1016/j.euf.2022.11.018](https://doi.org/10.1016/j.euf.2022.11.018)
+2405-4569/� 2022 Published by Elsevier B.V. on behalf of European Association of Urology.
+
+E U R O P E A N U R O L O G Y F O C U S 9 ( 2 0 2 3 ) 5 0 0 – 5 1 2 501
+
+requires further improvement. Moreover, a high proportion of patients with a positive
+DSNB undergo unnecessary radical lymph node dissection; better stratification of these
+patients might help determine avoidable overtreatment and postoperative
+comorbidities.
+� 2022 Published by Elsevier B.V. on behalf of European Association of Urology.
+
+
+1. Introduction
+
+Penile cancer accounts for <1% of cancers with an overall
+incidence of <1.00/100 000 males in Europe and the USA,
+with India, south-east Asia, South America, and SubSaharan Africa being the areas with the highest incidence
+
+[1–3]. Tumour cells from primary penile cancer follow a
+stepwise predictable pattern of spread, firstly into the inguinal lymph nodes followed by the pelvic lymph nodes [4].
+Preoperative cross-sectional staging scans such as computed tomography (CT) and magnetic resonance imaging
+(MRI) are still unreliable regarding the detection of micrometastatic disease and/or lymph node invasion <10 mm in
+size [4]. Historical series that have carried out radical lymph
+node dissection (RLND) in an unselected population with
+penile cancer showed that patients with cN0 disease have
+a 15–20% risk of harbouring micrometastatic disease in
+the inguinal lymph nodes [5]. To reduce the morbidity of
+RLND in cN0 patients, risk-stratified approaches combined
+with a dynamic sentinel lymph node biopsy (DSNB) have
+been proposed [1,2,6]. Completion RLND is performed
+whenever metastatic disease is detected at a DSNB. In this
+context, the added value of proceeding with completion
+RLND is still unclear, especially in the case of micrometastatic disease regarding the risk of further metastatic disease in the remaining inguinal lymph nodes. The aim of
+this systematic review and meta-analysis was to determine
+the diagnostic accuracy of a DSNB to detect inguinal lymph
+node metastases in patients with cN0 penile cancer. The
+secondary aim was to determine the diagnostic accuracy
+of a DSNB in predicting further metastasis in the remaining
+inguinal lymph nodes when patients proceed to completion
+RLND after a positive DSNB.
+
+2. Evidence acquisition
+
+2.1. Search strategy
+
+A systematic review of the literature was performed to
+select cohort studies or randomised controlled trials on sen
+tinel lymph node biopsy for penile cancer according to the
+Preferred Reporting Items for Systematic Reviews and
+Meta-analyses (PRISMA) statement (Supplementary material) [7]. A literature search of full-text English-language
+articles on DSNB was performed using PubMed, Medscape,
+EMBASE, and Google Scholar on the April 30, 2022, with
+the search terms ((((((((penile AND (sentinel AND (lymph
+node OR biopsy) OR lymph nodes)) ‘‘English‘‘ [Language]))
+AND (‘‘2000’’ [Date - Publication]: ‘‘2022‘‘ [Date - Publication]))) NOT ‘‘review’’ [Publication Type]) NOT ‘‘letter‘‘
+
+[Publication Type]) NOT ‘‘meta-analysis’’ [Publication
+Type]) AND cancer (see the Supplementary material) for
+all studies published between January 1, 2000 and April
+
+
+30, 2022. A literature search using the Cochrane database
+up to the April 30, 2022 was performed post hoc with the
+same search criteria.
+
+2.2. Study selection and data collection
+
+The PICO protocol used the following combinations:
+
+1. Participants: patients with penile cancer and impalpable
+bilateral inguinal lymph nodes (cN0).
+2. Interventions: DSNB ± completion radical inguinal lymph
+node dissection.
+3. Comparison: null.
+4. Outcomes: cancer lymph node involvement at DSNB
+(first meta-analysis) and RLND (second meta-analysis).
+
+The inclusion criteria were full-text English-only articles
+with exclusion of conference abstracts, editorials, cover letters, and reviews.
+The inclusion criteria for the first meta-analysis on diagnostic accuracy of a DSNB were as follows: (1) DSNB offered
+to all cN0 patients, (2) data regarding the numbers of total
+procedures, true positives, true negatives, and false negatives (see the Supplementary material), (3) more than five
+participants in a single suitable study, and (4) use of radiotracers and/or blue dyes for sentinel lymph node mapping.
+True positives for a DSNB were defined as histological
+confirmation of cancer spread to groin sentinel lymph
+node(s). True negatives were defined as histological confirmation of absence of cancer spread to groin sentinel lymph
+node(s) and no evidence (at clinical examination and/or
+imaging and/or histological evaluation) of lymph nodes
+metastasis within a 12-month period from a DSNB. The
+12-month cut-off was chosen as a commonly accepted
+threshold for persistent versus recurrent disease [1]. If
+follow-up data on inguinal lymph-node metastasis after a
+DSNB were not specifically reported at the 12-month
+follow-up after the DSNB but at a longer follow-up time
+point, no evidence of lymph nodes metastasis within the
+12-months period was considered for the analysis. False
+negatives were defined as the occurrence of groin lymph
+node(s) metastasis (at clinical examination and/or imaging
+and/or histological evaluation after a further DSNB or RLND)
+after a negative DSNB within a 12-month period from the
+DSNB. False positives are not possible for a DSNB and by
+definition specificity is 100%. In fact, a histological confirmation of cancer spread to groin lymph node(s) at a DSNB
+cannot be falsified. In addition, if the node was positive only
+on lymphoscintigraphy and/or intraoperative staining and
+not on histopathological testing, this would have been a
+false positive for the lymphoscintigraphy and/or intraoperative staining (which however are not cancer specific and
+
+502 E U R O P E A N U R O L O G Y F O C U S 9 ( 2 0 2 3 ) 5 0 0 – 5 1 2
+
+
+thus suggest only the first draining lymph-node[s] from the
+penis), but not for the DSNB.
+The second meta-analysis on the diagnostic accuracy of
+the DSNB in finding further metastatic lymph nodes at
+RLND was conducted on the same studies of the first
+meta-analysis that fulfilled the inclusion criteria for this
+second meta-analysis. The inclusion criteria for the second
+meta-analysis were the following: (1) RLND offered to all
+patients with positive cancer spread to the sentinel inguinal
+lymph node/s (positive histology at a DSNB); (2) data
+regarding the numbers of total procedures, number of true
+positives, number of true negatives, and number of false
+negatives at the DSNB (see the Supplementary material);
+(3) more than five participants undergoing a DSNB in a single suitable study; and (4) precise data regarding the number of total procedures, and number of patients with
+negative and/or positive histology after RLND.
+True positives for the second meta-analysis were defined
+as positive histological confirmation of cancer spread to
+groin lymph node/s after a positive DSNB other than the
+nodes already known to be positive at a DSNB. True negatives were defined as histological confirmation of absence
+of cancer spread to groin sentinel lymph node(s) and no evidence (at clinical examination and/or imaging and/or histological evaluation after a further DSNB or RLND) of lymph
+node metastasis within a 12-month period from the DSNB.
+False negatives were defined as the occurrence of groin
+lymph node(s) metastasis (at clinical examination and/or
+imaging and/or histological evaluation after a further DSNB
+or RLND) after a negative DSNB within a 12-month period
+from the DSNB. False positives were defined as patients
+with positive histological confirmation at a DSNB but with
+negative histology at RLND.
+
+2.3. Study selection and data collection
+
+Each title and each abstract were screened independently
+by three authors (E.P., O.O.C., and G.F.). Full-text articles
+were reviewed for inclusion, and data were extracted by
+three authors independently (E.P., O.O.C., and G.F.). Data
+extracted were the numbers of true positives, true negatives, false positives, false negatives, and patients for each
+outcome, and the year of publication. Information about
+immunohistochemistry staining and usage of lymphoscintigraphy for preoperative sentinel lymph node visualisation was also assessed. In addition, data on DSNB
+procedure, patients’ characteristics, and surgeon’s expertise
+in DSNB and RLND (if available) were collected. A complete
+list of items collected is given in Supplementary Table 1.
+Disagreements were resolved by discussion and consensus
+with all the other authors (G.F., Z.T., H.M.A., A.S., and A.M.).
+
+2.4. Assessment of risk of bias
+
+Three authors evaluated the quality of the studies independently (E.P., O.O.C., and G.F.). Literature quality was evaluated according to guideline recommendation using Quality
+Assessment of Diagnostic Accuracy Studies—2 (QUADAS-2)
+
+[8]. It evaluates two sections: the risk of bias that uses four
+domains regarding patient selection, index test (DSNB), reference standard (pathology report), and flow/timing of
+patients through the studies, and the risks of applicability
+that uses three domains regarding patient selection, index
+
+
+test (DSNB), and reference standard (pathology report) of
+the studies. Any disagreement between the three reviewers
+was resolved via consensus with the help of a third reviewer
+(either H.M.A. or A.M.).
+
+2.5. Data analysis
+
+A univariate meta-analysis was used to estimate pooled
+sensitivity, specificity, and log diagnostic odds ratio (DOR)
+for both DSNB and RLND procedures. Given that false positives are by definition zero for a DSNB, specificity is always
+100% and therefore it has not been reported in the first
+meta-analysis on DSNB diagnostic accuracy. DOR was used
+as a global measure for determining the diagnostic accuracy
+and discriminative power of a DSNB and RLND. Chi-square
+and I [2] tests were used to assess the heterogeneity of sensitivities and specificities, respectively. A sensitivity analysis
+to assess the robustness of the results in the case of accuracy (area under the curve) >0.70 was performed by excluding the studies with the worst and the best performance [9].
+To address the problem of the high-volume centre and
+learning curve, a sensitivity analysis was performed including centres reporting at least 30 procedures, with 30 procedures being an accepted cut-off for a DSNB learning curve
+
+[10]. In addition, given the risk of possible overlapping in
+case series, especially in case of multicentric studies, we
+performed a sensitivity analysis excluding those studies
+that the authors believed might be duplicated. Finally, a
+sensitivity analysis including only prospective studies was
+performed. Forest plots were used for graphical representation, while funnel plots were used to assess the publication
+bias. Statistical analysis was performed using R studio Inc.
+(2016; Boston, MA, USA) integrated development environment for R software version 3.5.3. Forest plots for weighted
+sensitivity, specificity, and DOR were plotted using the
+package ‘‘mada’’.
+
+3. Evidence synthesis
+
+3.1. Results
+
+Overall, 6026 works were found through the literature
+search; 28 studies were finally included in the review
+(Fig. 1) [10–37]. The study by Dell’Oglio et al [37] was added
+post hoc. Details are provided in Table 1. The earliest study
+was published in 2000 and the latest in 2022. Overall, 2893
+patients underwent a DSNB. Of these patients, 518 had positive histology at the pathological report after a DSNB. Fourteen studies were prospective and 14 retrospective,
+including patients from all over the world (mostly from Europe and North/South America). The median age of the
+patients included in the studies ranged from 48 to 69 years.
+All patients had high-risk penile cancer with impalpable
+lymph nodes apart from 15.7% of the patients from the work
+of Lee et al [36], who had palpable lymph nodes but with
+negative fine needle aspiration histology. In one study by
+Rohan and Tankshali [22], only blue dye was used; in all
+the other studies, 99 [m] Tc-nanocolloid radiotracer was used
+either alone or in combination with blue dye, whereas in
+two studies fluorescent indocyanine green was used
+
+[26,37].
+
+E U R O P E A N U R O L O G Y F O C U S 9 ( 2 0 2 3 ) 5 0 0 – 5 1 2 503
+
+Fig. 1 – PRISMA flow chart—study selection based on the inclusion and exclusion criteria of the reviewed studies. PRISMA = Preferred Reporting Items for
+Systematic Reviews and Meta-analyses.
+
+
+3.1.1. Risk of bias assessment
+The risk of bias and risk of applicability are described in
+Supplementary Table 3. The first section of QUADAS-2 evaluating the risk of bias showed 35.7% (n = 10) studies at a
+high risk and 35.7% (n = 10) studies at an unclear risk. The
+second section evaluating the applicability risk identified
+28.6% (n = 8) at a high risk and 25.0% (n = 7) at an unclear
+risk (Supplementary Table 4 and Fig. 2).
+
+3.1.2. Meta-analysis of the diagnostic accuracy of sentinel
+lymph node metastatic disease to detect at least one inguinal
+lymph node metastasis
+The meta-analysis for the accuracy of a DSNB in finding a
+metastatic lymph node included 27 studies overall. The
+pooled weighted sensitivity was 0.87 (95% confidence
+
+
+interval [CI]: 0.82–0.91; Fig. 3A). Heterogeneity for sensitivity, measured with v [2] tests ( v [2] = 55.15; p = 0.009) and I [2]
+
+statistic (29.6%), was moderate. The pooled log DOR was
+6.17 (95% CI: 5.47–6.87; Fig. 3B). Heterogeneity for log
+DOR, measured with I [2] statistic (20.9%), was low. At the sensitivity analysis conducted by excluding the studies with
+lowest (ie, studies by Gonzaga-Silva et al [17] and Rohan
+and Tankshali [22]) or with highest accuracy (study by Lee
+et al [36]), pooled sensitivity did not vary significantly
+(0.88 [95% CI: 0.84–0.91] and 0.86 [95% CI: 0.81–0.90],
+respectively; Supplementary Fig. 1). At the sensitivity analysis on high-volume centres, pooled sensitivity was similar
+to that of the main analysis (0.89 [95% CI: 84–92]; Supplementary Fig. 2A). Considering only nonoverlapped studies,
+sensitivity was similar (0.88 [95% CI: 0.83–0.91];
+
+Table 1 – Characteristics of selected original articles on DSNB and RLND identified by systematic review of the published literature
+
+
+
+
+
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+
+NA Initial 22 mo n = 1 (1.8%) wound The
+experience (4.1–61) abscess Netherlands
+
+
+Horenblas et al
+
+[11]
+
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+
+
+2000 Prospective 55 Median
+monocentric 65 (28–
+88)
+
+
+
+122 Initial 36 mo n = 5 (5.5%) wound
+experience (5–95) infection
+n = 2 (2.2%) wound
+abscess
+
+n = 1 (1.1%) skin
+edge necrosis
+n = 1 (1.1%) wound
+dehiscence
+
+n = 1 (1.1%) seroma
+
+
+The
+
+Netherlands
+
+
+Tanis et al [13] 2002 Prospective 90 Mean
+monocentric 64 (28–
+90)
+
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+
+
+Yes Yes T2 only and Low risk: NA
+G1/G2/G3 Intermediate
+risk: NA
+
+High risk: NA
+
+Yes Yes T2/T3 and Low risk: NA
+G1/G2/G3 Intermediate
+risk: NA
+
+High risk: NA
+
+No Yes T2/T3 and Low risk: 0
+G1/G2/G3 Intermediate
+risk: 0
+
+High risk: 22
+
+
+
+
+
+
+
+
+Perdonà et al
+
+[15]
+
+
+2005 Retrospective 22 Mean DSNB and
+monocentric 63 modified
+RLND to all
+
+patients
+
+
+NA Initial 98 mo n = 2 (9.1%) seroma
+experience (52–115) n = 1 (4.5%) wound
+infection
+
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+
+Italy
+
+
+
+
+
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+
+Yes Yes T1/T2 Low risk: NA
+Intermediate
+
+risk: NA
+
+High risk: NA
+
+
+Gonzaga-Silva
+et al [17]
+
+
+2007 Prospective 25 Mean
+monocentric 59.6
+
+(41–80)
+
+
+50 Initial 37 mo No complications Brazil
+experience (24–62)
+
+DSNB and
+
+modified
+RLND to all
+
+patients
+
+DSNB and
+
+modified
+RLND to all
+
+patients
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+
+
+
+99m Technetium 26 Initial 28 mo NA Brazil
+
+nanocolloid experience (8–58)
+
+
+No Yes T1/T2/T3 Low risk: 14
+and G1/G2 Intermediate
+risk: 4
+
+High risk: NA
+
+
+Ferreira et al
+
+[19]
+
+Heyns and
+Theron [20]
+
+Jensen et al
+
+[21]
+
+
+2008 Prospective 18 Mean
+monocentric 57.7
+
+(44–81)
+
+2008 Prospective 23 Mean
+monocentric 53 (33–
+84)
+
+2009 Prospective 52 Mean
+monocentric 62 (40–
+76)
+
+
+Yes Yes T1/T2/T3/
+T4 and G1/
+G2/G3
+
+No Yes T1/T2/T3/
+T4 and G1/
+G2/G3
+
+
+NA Initial 29 mo n = 4 (8%) seroma Denmark
+experience (5–75)
+
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+
+Low risk: 6
+
+Intermediate
+
+risk: 13
+
+High risk: 4
+
+Low risk: NA
+
+Intermediate
+
+risk: NA
+
+High risk: NA
+
+
+NA NA 16 mo
+
+(1–95)
+Mean *
+
+
+NA South Africa
+
+
+
+
+
+
+
+n = 4 (18.1%) India
+wound infection
+
+
+No No T1/T2 and Low risk: NA
+G1/G2/G3 Intermediate
+risk: NA
+
+High risk: NA
+
+
+
+Patent blue dye only NA Initial 2–17 mo
+experience (only
+
+range
+reported)
+
+
+Rohan and
+
+Tankshali
+
+[22]
+
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+
+
+
+
+
+2009 Prospective 22 Mean
+monocentric 52.7
+
+(33–74)
+
+
+(continued on next page)
+
+116 Experienced
+(number of
+procedures
+
+per surgeon
+
+not
+
+reported)
+
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+
+Low risk: 5
+
+Intermediate
+
+risk: 17
+
+High risk: 36
+
+
+
+Sweden
+
+
+Yes Yes TIS/Ta/T2/
+T3/T4 and
+G1/G2/G3
+
+
+21 mo n = 4 (6.8%)
+(4–143) haematoma
+n = 1 (1.7%) wound
+infection
+
+n = 2 (3.4%)
+lymphoedema
+
+
+Kirrander et al
+
+[24]
+
+
+2013 Retrospective 58 Mean
+monocentric 60 (37–
+84)
+
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+
+
+
+
+
+Hybrid fluorescentradioactive tracer
+
+indocyanine green
+and [99m] technetium
+
+nanocolloid
+
+
+No Yes T1/T2 and Low risk: 6
+G1/G2/G3 Intermediate
+risk: 2
+
+High risk: 6
+
+
+Markuszewski
+
+et al [26]
+
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB, but
+
+data not
+
+available)
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+
+
+25 Initial 50 mo NA Poland
+
+experience (1–50)
+
+
+
+
+
+
+
+30.5 mo n = 1 (3.1%) wound
+(5–95) infection
+n = 2 (6.3%)
+lymphocele
+
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+
+Schubert et al
+
+[28]
+
+
+2015 Prospective 14 Mean
+monocentric 59.3
+
+(42–87)
+
+2015 Retrospective 32 Median
+monocentric 67 (39–
+78)
+
+
+Low risk: 0
+
+Intermediate
+
+risk: 16
+
+High risk: 16
+
+
+Germany
+
+
+NA Experienced
+(number of
+procedures
+
+per surgeon
+
+not
+
+reported)
+
+
+
+No Yes T1/T2/T3
+and G1/G2/
+
+G3
+
+
+
+409 Experienced
+(number of
+procedures
+
+per surgeon
+
+not
+
+reported)
+
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+
+Low risk: 64
+
+Intermediate
+
+risk: 44
+
+High risk: 114
+
+
+Low risk: NA
+
+Intermediate
+
+risk: NA
+
+High risk: NA
+
+
+Denmark
+
+
+73 mo n = 15 (7%)
+(53–102) lymphocele
+n = 11 (5%) wound
+infection
+
+n = 7 (3%)
+
+spontaneous
+wound dehiscence
+
+n = 3 (1%)
+lower extremity
+lymphoedema
+n = 3 (1%)
+haematoma
+
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+
+DSNB and
+
+RLND (only
+to patients
+with positive
+DSNB)
+
+
+Jakobsen et al
+
+[30]
+
+
+
+Lonergan et al
+
+[32]
+
+
+
+Low risk: NA
+
+Intermediate
+
+risk: NA
+
+High risk: NA
+
+
+18 Initial 12.8 mo
+
+experience (2.7–
+31.3)
+
+
+
+99m Technetium
+
+nanocolloid + patent
+blue dye
+
+
+n = 1 (9%) Ireland
+hematoma
+
+
+
+
+Dell’Oglio et al
+
+[37]
+
+
+2016 Retrospective 222 Median
+multicentric 64.3
+
+(58–71)
+
+2017 Retrospective 11 Mean
+63 (39–
+78)
+
+2020 Retrospective 400 Median
+monocentric 69 (60–
+76)
+
+2021 Retrospective 119 Median
+monocentric 59 (50–
+71)
+
+
+
+Low risk: NA
+
+Intermediate
+
+risk: NA
+
+High risk: NA
+
+
+
+99m Technetium
+
+nanocolloid + hybrid
+indocyanine green +
+blue dye
+
+
+The
+
+Netherlands
+
+
+36 mo n = 7 (1.8%)
+(15–62) intraoperative
+bleeding
+n = 86 (22%)
+developed a 30-d
+complication
+
+
+740 Experienced
+(number of
+procedures
+
+per surgeon
+
+not
+
+reported)
+
+
+
+
+Chavarriaga
+et al [35]
+
+
+
+
+99m Technetium NA NA 96 mo NA South
+
+nanocolloid (49–133) America
+
+(continued on next page)
+
+
+Yes Yes T1/T2/T3/
+T4 and G1/
+G2/G3
+
+No Yes T1/T2/T3
+and G1/G2/
+
+G3
+
+No Yes T1/T1/T2/
+T3 and G1/
+G2/G3
+
+NA Yes TIS/Ta/T2/
+T3/T4 and
+G1/G2/G3
+
+508 E U R O P E A N U R O L O G Y F O C U S 9 ( 2 0 2 3 ) 5 0 0 – 5 1 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2 – Overall summary of risk of bias and applicability concerns across
+studies based on a modified Quality Assessment of Diagnostic Accuracy
+Studies—2 checklist. The numbers shown on the bars are the number of
+
+studies with low, intermediate, and high risks, respectively.
+
+Supplementary Fig. 3A). Considering prospective trials only,
+sensitivity was similar as well (0.84 [95% CI: 0.72–0.91];
+Supplementary Fig. 4A). Finally, a publication bias was unlikely (Supplementary Fig. 5A).
+
+3.1.3. Meta-analysis of the diagnostic accuracy of sentinel
+lymph node metastatic disease to detect further inguinal lymph
+node involvement at completion RLND
+Among the 27 studies in the meta-analysis, 21 reported the
+histological findings of the completion RLND in patients
+with lymph node metastatic disease diagnosed on a DSNB.
+These included 1691 patients, and 65 of them had metastatic inguinal lymph nodes at RLND other than the one(s)
+found at the DSNB. The pooled weighted sensitivity was
+0.50 (95% CI: 0.24–0.59; Fig. 4A). Heterogeneity for sensitivity, measured with v [2] tests ( v [2] = 48.14; p = 0.004) and I [2]
+
+statistic (10.2%), was low. The pooled weighted specificity
+was 0.82 (95% CI: 0.78–0.87; Fig. 4B). Heterogeneity for
+specificity, measured with v [2] tests ( v [2] = 78.18; p < 0.001)
+and I [2] statistic (58.7%), was moderate. The pooled log DOR
+was 1.18 (95% CI: 0.29–2.97; Fig. 4C). Heterogeneity for
+log DOR measured with I [2] statistic (65.4%) was substantial.
+At the sensitivity analysis on high-volume centres, pooled
+sensitivity was similar to that of the main analysis (0.53
+
+[95% CI: 0.33–0.73]; Supplementary Fig. 2B). Considering
+only nonoverlapped studies, sensitivity was slightly higher
+(0.57 [95% CI: 0.32–0.80]; Supplementary Fig. 3B). When
+considering prospective trials only, sensitivity was similar
+as well (0.57 [95% CI: 0.34–0.75]; Supplementary Fig. 4A).
+Finally, publication bias was unlikely (Supplementary
+Fig. 5B).
+
+E U R O P E A N U R O L O G Y F O C U S 9 ( 2 0 2 3 ) 5 0 0 – 5 1 2 509
+
+**A** **Sensitivity - DSNB** **B** **Diagnostic odds ratio - DSNB**
+
+
+6.53 (3.26, 9.79)
+3.56 (–0.69, 7.80)
+5.99 (3.05, 8.93)
+6.89 (3.99, 9.80)
+5.03 (1.72, 8.34)
+
+6.20 (2.19, 10.22)
+3.00 (–0.39, 6.39)
+8.36 (4.40, 12.31)
+
+3.37 (0.05, 6.69)
+3.75 (0.61, 6.89)
+6.22 (3.13, 9.30)
+8.19 (5.29, 11.08)
+3.15 (–0.31, 6.61)
+
+6.91 (2.91,10.91)
+5.76 (2.63, 8.88)
+
+8.58 (5.64, 11.52)
+3.89 (0.47, 7.31)
+6.85 (3.58, 10.13)
+6.33 (2.30, 10.36)
+
+6.07 (3.14, 8.99)
+7.60 (4.74, 10.47)
+4.61 (1.21'8.00)
+
+4.14 (–0.13, 8.42)
+5.23 (2.10, 8.35)
+8.86 (5.97, 11.75)
+
+7.95 (4.89, 11.02)
+6.35 (3.48, 9.21)
+9.95 (6.73, 13.16)
+
+
+
+
+
+0.07 0.53
+
+**Sensitivity**
+
+
+1.00 –0.69 6.24
+
+**Log(DOR)**
+
+
+13.16
+
+
+Fig. 3 – Forest plots for (A) weighted sensitivity (CI) and (B) logarithmic diagnostic odds ratio (logDOR) for a dynamic sentinel node biopsy (DSNB).
+CI = confidence interval.
+
+
+3.2. Discussion
+
+In this meta-analysis, we aimed to identify the diagnostic
+accuracy of a DSNB in detecting lymph node metastasis in
+cN0 penile cancer patients. The weighted pooled sensitivity
+of a DSNB to detect a positive lymph node was 0.87 (95% CI:
+0.82–0.91), thus bearing a slight risk of having false negative results. False negatives translate into underdetection
+of metastatic disease, leading to cancer undertreatment;
+in this regard, our results support the importance of careful
+follow-up after a negative DSNB. In addition, we aimed to
+identify the accuracy of a DSNB in finding further metastatic
+disease in inguinal lymph nodes when patients are submitted to completion RLND after a positive DSNB. We identified
+that the sensitivity of detecting further metastasis at completion RLND was poor (0.50; 95% CI: 0.24–0.59), while
+specificity was higher (0.82; 95% CI: 0.78–0.87). This means
+that it is difficult to predict further lymph node metastases
+at completion RLND after a positive DSNB; as such, a positive sentinel lymph node is poorly informative regarding a
+further lymph node spread.
+In this context, several studies have demonstrated that
+surgical removal of regional lymph nodes ameliorates
+patients’ survival [38–40]. A DSNB has emerged as an extremely valuable tool to identify early inguinal metastatic disease in penile cancer patients with cN0 inguinal nodes. In
+fact, over the past two decades, compelling evidence has
+accumulated regarding the feasibility and diagnostic accuracy of a DSNB. As nomograms are unreliable to predict
+
+
+inguinal lymph node invasion, a DSNB plays a fundamental
+role in tumour staging [41,42]. In more detail, two systematic reviews and meta-analyses, published in 2011 and in
+2016, respectively, evaluated the diagnostic accuracy of a
+DSNB among published studies, showing pooled sensitivities of 88% and 92%, respectively, which are in line with
+our findings [43,44]. Of note, meta-analyses on diagnostic
+accuracy can be challenging to conduct and be interpreted;
+this is mainly due to the high heterogeneity of the included
+studies. One of the main sources of heterogeneity is the definition of false negatives at a DSNB. This definition can be
+difficult to address; here, we defined a false negative result
+as an inguinal node recurrence within 12 months after a
+negative DSNB, even though a proper consensus on this definition is still not met. Most of the included studies reported
+different diagnostic and follow-up schemes, contributing to
+a large source of heterogeneity. Other factors contributing
+to data heterogeneity were the surgeons’ learning curve
+and the use of immunohistochemical staining techniques
+to detect micrometastatic disease (<2 mm) at a DSNB [45].
+In this context, the surgeon learning curve was analysed
+by Leijte et al [46] who demonstrated that a DSNB was a
+suitable procedure to stage cN0 penile cancer with a low
+complication rate and more importantly with no learning
+curve. On the contrary, Zou et al [44] performed a metaregression and subgroup analysis, which revealed that the
+use of a preoperative ultrasound scan combined with fineneedle aspiration cytology of morphologically abnormal
+lymph nodes, immunohistochemistry, and surgeons’ expe
+510 E U R O P E A N U R O L O G Y F O C U S 9 ( 2 0 2 3 ) 5 0 0 – 5 1 2
+
+**A** **Sensitivity** **B** **Specificity** **C** **Diagnostic odds ratio**
+
+
+2000 Horen bias et al
+
+2001 Akduman et al
+
+2002 Tanis et al
+
+2004 Kroon et al
+
+2005 Perdonà et al
+
+2007 Gonzaga-Silva et al
+
+2007 Hadway et al
+
+2008 Ferreira et al
+
+2008 Heyns et al
+
+2009 Jensen et al
+
+2009 Leijte et al
+
+2009 Vinayak et al
+
+2010 Graafland et al
+
+2012 Kirrander et al
+
+2012 Lam et al
+
+Shubert et al2015
+
+2016 Jakobsen et al
+
+2016 Lützen et al
+
+2017 Lonergan et al
+
+2018 Sedigh et al
+
+2021 Nazzani et al
+
+
+
+
+
+
+0.50 (–1.53, 2.53)
+
+–3.56 (–7.80, 0.69)
+
+1.21 (–0.16, 2.58)
+
+1.56 (0.43, 2.701
+
+–3.15 (–5.38, –0.92)
+
+0.72 (–2.68, 4.11)
+
+3.26 (0.24, 6.27)
+
+0.15 (–3.17, 3.47)
+
+1.55 (–0.55, 3.65)
+
+1.91 (0.35, 3.48)
+
+2.19 (1.09, 3.30)
+
+3.15 (–0.31, 6.61)
+
+2.74 (–0.57, 6.05)
+
+1.97 (0.03, 3.90)
+
+0.14 (–1.73, 2.01)
+
+2.83 (–0.52, 6.19)
+
+1.67 (0.72, 2.62)
+
+–4.61 (–8.00, –1.21)
+
+1.95 (–2.33, 6.22)
+
+1.18 (–0.75, 3.12)
+
+4.10 (2.63, 5.57)
+
+
+
+0.00 0.49
+
+**Sensitivity**
+
+
+0.99 0.02 0.51
+
+**Specificity**
+
+
+1.00 –8.00 –0.69
+
+**Log(DOR)**
+
+
+6.61
+
+
+Fig. 4 – Forest plots for (A) weighted sensitivity, (B) specificity, and (C) logarithmic diagnostic odds ratio (DOR) for a dynamic sentinel node biopsy in finding
+further metastatic diseases at completion radical inguinal node dissection.
+
+
+rience were significantly associated with improved sensitivity at a DSNB. In addition, other sources of heterogeneity are
+the different radiotracers and dyes used in the included
+studies and differences in scintigraphy protocols. Regarding
+the studies included in this meta-analysis, most of them
+came from tertiary referral centres where expertise on the
+DSNB procedure is supposed to be solid. Of note, at the sensitivity analysis focused on high-volume centres only,
+pooled sensitivity was not different from that of the main
+analysis.
+In this systematic review and meta-analysis, we also
+selected studies that presented data on completion RLND
+after positive histology at a DSNB (n = 21). We aimed to
+determine DSNB sensitivity and specificity for finding further metastatic lymph nodes at completion RLND other
+than the one(s) positive at a DSNB. In routine clinical practice, positive histology at a DSNB is followed by a completion inguinal lymphadenectomy to diagnose and remove
+metastatic disease in the remaining inguinal lymph node
+packet [46–48]. It should be noted that the postoperative
+morbidity after RLND can be up to 50% [39,47,49,50],
+including wound infections (1.2–1.4%), skin necrosis (0.6–
+4.7%), lymphoedema (5–13.9%), and lymphocele formation
+(2.1–4%) [38,39,49,50]. Negative histology at RLND gives a
+favourable prognosis, but RLND might drastically decrease
+the patients’ quality of life [49]. Several studies have tried
+to assess the feasibility and outcomes of RLND by using
+laparoscopic or robotic surgical techniques, but no substantial differences have been found compared with the standard surgery [51–53]. Moreover, it has been demonstrated
+
+
+that patients with a single metastatic inguinal lymph node
+(pN1) achieved comparable 5-year survival of patients with
+pN0 [54]. In our study, the pooled weighted sensitivity for a
+DSNB in finding further positive lymph nodes at completion
+RLND was 0.50 (95% CI: 0.24–0.59), with a pooled log DOR
+of 1.18 (95% CI: 0.29–2.97) indicating low sensitivity and
+poor diagnostic accuracy. In other terms, our findings highlight a possible overtreatment of a certain subpopulations of
+cN0 patients undergoing completion RLND after a positive
+DSNB. Considering the high morbidity rate after RLND, better methods to stratify patients who deserve completion
+RLND following a DSNB are warranted. Indeed, a large proportion of patients with a positive DSNB are likely undergoing unnecessary completion RLND, whereas strict
+surveillance might be a strategy in very selected groups of
+patients. In this regard, new markers for lymph node invasion at RLND (among cN0 patients) to guide clinicians
+towards a more precise indication for completion RLND
+are certainly needed. Apart from well-known features associated with cancer aggressiveness (tumour grade, stage,
+lymphovascular invasion, perineural invasion, and histological subtypes), some authors suggested to incorporate
+biomarkers such as p53, Ki-67, E-cadherin, matrix
+metalloproteinase-9, and squamous cell carcinoma antigen
+to improve the prediction of lymph node involvement.
+However, none of these has been implemented in the current clinical practice [55–57].
+As previously discussed, the main limitations of our
+meta-analysis are the heterogeneity in study design, characteristics of the included patients, DSNB technique, surgi
+E U R O P E A N U R O L O G Y F O C U S 9 ( 2 0 2 3 ) 5 0 0 – 5 1 2 511
+
+
+cal experience/centre case volume, and follow-up set-up. In
+addition, the definition used for a false negative is not standardised; however, the use of a 12-month cut-off represents
+a good endpoint to differentiate the false negative finding at
+a DSNB from recurrence considering the aggressiveness of
+penile cancer. It was impossible to use earlier cut-off, for
+example, 6 months, because of the lack of data at this time
+point. Finally, the risk of bias of the studies included in this
+meta-analysis is not negligible. This is mainly due to the retrospective nature of some of the included studies, absence
+of randomisation, absence of blinding to results, differences
+in instrumental issues and surgical technique for both DSNB
+and RLND, presence of loss to follow-up, and missing data.
+To our knowledge, this is the most up-to-date systematic
+review and meta-analysis investigating the diagnostic accuracy of a DSNB and the first to assess its diagnostic accuracy
+in finding other lymph node metastases at completion
+RLND in the context of men with cN0 penile cancer.
+
+4. Conclusions
+
+False negatives after a DSNB are still an issue, thus highlighting the importance of strict follow-up following DSNB.
+In addition, a DSNB is poorly informative in detecting further lymph node metastases at completion RLND despite
+good specificity, meaning that a high proportion of patients
+with no additional lymph node metastasis undergo unnecessary RLND. To avoid overtreatment and severe postoperative comorbidities, better stratification of patients with
+positive metastatic inguinal lymph node(s) at a DSNB is
+needed. Unfortunately, heterogeneity of the included studies might weaken the certainty of our results.
+
+Author contributions: Asif Muneer had full access to all the data in the
+
+study and takes responsibility for the integrity of the data and the accu
+racy of the data analysis.
+
+Study conception and design: Muneer.
+
+Acquisition of data: Fallara, Pozzi, Cakir.
+
+Analysis and interpretation of data: Fallara, Pozzi, Tandogdu.
+
+Drafting of the manuscript: Fallara, Pozzi.
+
+Critical revision of the manuscript for important intellectual content: All
+
+authors.
+
+Statistical analysis: Fallara, Tandogdu.
+
+Obtaining funding: None.
+
+Supervision: All authors.
+
+Other: None.
+
+Financial disclosures: Professor Asif Muneer certifies that all conflicts of
+
+interest, including specific financial interests and relationships and affili
+ations relevant to the subject matter or materials discussed in the manu
+script (eg, employment/affiliation, grants or funding, consultancies,
+
+honoraria, stock ownership or options, expert testimony, royalties, or
+
+patents filed, received, or pending), are the following: None.
+
+Funding/Support and role of the sponsor: Professor Asif Muneer
+
+acknowledges support from the NIHR Biomedical Research Centre,
+
+University College London Hospital.
+
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at
+[https://doi.org/10.1016/j.euf.2022.11.018.](https://doi.org/10.1016/j.euf.2022.11.018)
+
+References
+
+[1] Hakenberg OW, Compérat E, Minhas S, et al. EAU guidelines on
+penile cancer. Amsterdam, The Netherlands: EAU.
+
+[[2] NCCN guidelines version 2.2022. Penile cancer 2022. https://www.](https://www.nccn.org/guidelines/category_1)
+[nccn.org/guidelines/category_1.](https://www.nccn.org/guidelines/category_1)
+
+[3] Global Cancer Observatory. Estimated age-standardized incidence
+[rates (World) in 2020, penis, males, all ages. https://gco.iarc.](https://gco.iarc.fr/today/online-analysis-map?v=2020%26mode=population%26mode_population=continents%26population=900%26populations=900%26key=asr%26sex=1%26cancer=26%26type=0%26statistic=5%26prevalence=0%26population_group=0%26ages_group%255B%255D=0%26ages_group%255B%255D=17%26nb_items=10%26group_cancer=1%26include_nmsc=0%26include_nmsc_other=0%26projection=natural-earth%26color_palette=default%26map_scale=quantile%26map_nb_colors=5%26continent=0%26show_ranking=0%26rotate=%25255B10%25252C0%25255D)
+[fr/today/online-analysis-map?v=2020&mode=population&mode_](https://gco.iarc.fr/today/online-analysis-map?v=2020%26mode=population%26mode_population=continents%26population=900%26populations=900%26key=asr%26sex=1%26cancer=26%26type=0%26statistic=5%26prevalence=0%26population_group=0%26ages_group%255B%255D=0%26ages_group%255B%255D=17%26nb_items=10%26group_cancer=1%26include_nmsc=0%26include_nmsc_other=0%26projection=natural-earth%26color_palette=default%26map_scale=quantile%26map_nb_colors=5%26continent=0%26show_ranking=0%26rotate=%25255B10%25252C0%25255D)
+[population=continents&population=900&populations=900&key=](https://gco.iarc.fr/today/online-analysis-map?v=2020%26mode=population%26mode_population=continents%26population=900%26populations=900%26key=asr%26sex=1%26cancer=26%26type=0%26statistic=5%26prevalence=0%26population_group=0%26ages_group%255B%255D=0%26ages_group%255B%255D=17%26nb_items=10%26group_cancer=1%26include_nmsc=0%26include_nmsc_other=0%26projection=natural-earth%26color_palette=default%26map_scale=quantile%26map_nb_colors=5%26continent=0%26show_ranking=0%26rotate=%25255B10%25252C0%25255D)
+[asr&sex=1&cancer=26&type=0&statistic=5&prevalence=0&](https://gco.iarc.fr/today/online-analysis-map?v=2020%26mode=population%26mode_population=continents%26population=900%26populations=900%26key=asr%26sex=1%26cancer=26%26type=0%26statistic=5%26prevalence=0%26population_group=0%26ages_group%255B%255D=0%26ages_group%255B%255D=17%26nb_items=10%26group_cancer=1%26include_nmsc=0%26include_nmsc_other=0%26projection=natural-earth%26color_palette=default%26map_scale=quantile%26map_nb_colors=5%26continent=0%26show_ranking=0%26rotate=%25255B10%25252C0%25255D)
+[population_group=0&ages_group%5B%5D=0&ages_group%5B%5D=](https://gco.iarc.fr/today/online-analysis-map?v=2020%26mode=population%26mode_population=continents%26population=900%26populations=900%26key=asr%26sex=1%26cancer=26%26type=0%26statistic=5%26prevalence=0%26population_group=0%26ages_group%255B%255D=0%26ages_group%255B%255D=17%26nb_items=10%26group_cancer=1%26include_nmsc=0%26include_nmsc_other=0%26projection=natural-earth%26color_palette=default%26map_scale=quantile%26map_nb_colors=5%26continent=0%26show_ranking=0%26rotate=%25255B10%25252C0%25255D)
+[17&nb_items=10&group_cancer=1&include_nmsc=0&include_](https://gco.iarc.fr/today/online-analysis-map?v=2020%26mode=population%26mode_population=continents%26population=900%26populations=900%26key=asr%26sex=1%26cancer=26%26type=0%26statistic=5%26prevalence=0%26population_group=0%26ages_group%255B%255D=0%26ages_group%255B%255D=17%26nb_items=10%26group_cancer=1%26include_nmsc=0%26include_nmsc_other=0%26projection=natural-earth%26color_palette=default%26map_scale=quantile%26map_nb_colors=5%26continent=0%26show_ranking=0%26rotate=%25255B10%25252C0%25255D)
+[nmsc_other=0&projection=natural-earth&color_palette=default&](https://gco.iarc.fr/today/online-analysis-map?v=2020%26mode=population%26mode_population=continents%26population=900%26populations=900%26key=asr%26sex=1%26cancer=26%26type=0%26statistic=5%26prevalence=0%26population_group=0%26ages_group%255B%255D=0%26ages_group%255B%255D=17%26nb_items=10%26group_cancer=1%26include_nmsc=0%26include_nmsc_other=0%26projection=natural-earth%26color_palette=default%26map_scale=quantile%26map_nb_colors=5%26continent=0%26show_ranking=0%26rotate=%25255B10%25252C0%25255D)
+[map_scale=quantile&map_nb_colors=5&continent=0&show_](https://gco.iarc.fr/today/online-analysis-map?v=2020%26mode=population%26mode_population=continents%26population=900%26populations=900%26key=asr%26sex=1%26cancer=26%26type=0%26statistic=5%26prevalence=0%26population_group=0%26ages_group%255B%255D=0%26ages_group%255B%255D=17%26nb_items=10%26group_cancer=1%26include_nmsc=0%26include_nmsc_other=0%26projection=natural-earth%26color_palette=default%26map_scale=quantile%26map_nb_colors=5%26continent=0%26show_ranking=0%26rotate=%25255B10%25252C0%25255D)
+[ranking=0&rotate=%255B10%252C0%255D.](https://gco.iarc.fr/today/online-analysis-map?v=2020%26mode=population%26mode_population=continents%26population=900%26populations=900%26key=asr%26sex=1%26cancer=26%26type=0%26statistic=5%26prevalence=0%26population_group=0%26ages_group%255B%255D=0%26ages_group%255B%255D=17%26nb_items=10%26group_cancer=1%26include_nmsc=0%26include_nmsc_other=0%26projection=natural-earth%26color_palette=default%26map_scale=quantile%26map_nb_colors=5%26continent=0%26show_ranking=0%26rotate=%25255B10%25252C0%25255D)
+
+[[4] Leijte JAP, Olmos RAV, Nieweg OE, Horenblas S. Anatomical](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0020)
+[mapping of lymphatic drainage in penile carcinoma with SPECT-](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0020)
+[CT: implications for the extent of inguinal lymph node dissection.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0020)
+[Eur Urol 2008;54:885–92.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0020)
+
+[[5] Ficarra V, Akduman B, Bouchot O, Palou J, Tobias-Machado M.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0025)
+[Prognostic factors in penile cancer. Urology 2010;76:S66–73.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0025)
+
+[[6] Mueller-Lisse UG, Scher B, Scherr MK, Seitz M. Functional imaging](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0030)
+[in penile cancer: PET/computed tomography, MRI, and sentinel](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0030)
+[lymph node biopsy. Curr Opin Urol 2008;18:105–10.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0030)
+
+[[7] Liberati A, Altman DG, Tetzlaff J, et al. The PRISMA statement for](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0035)
+[reporting systematic reviews and meta-analyses of studies that](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0035)
+[evaluate healthcare interventions: explanation and elaboration.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0035)
+[BMJ 2009;339:b2700.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0035)
+
+[[8] Whiting PF, Rutjes AWS, Westwood ME, et al. QUADAS-2: a revised](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0040)
+[tool for the quality assessment of diagnostic accuracy studies. Ann](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0040)
+[Intern Med 2011;155:529.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0040)
+
+[[9] Swets JA. Measuring the accuracy of diagnostic systems. Science](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0045)
+[1988;240:1285–93.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0045)
+
+[[10] Leijte JAP, Hughes B, Graafland NM, et al. Two-center evaluation of](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0050)
+[dynamic sentinel node biopsy for squamous cell carcinoma of the](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0050)
+[penis. J Clin Oncol 2009;27:3325–9.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0050)
+
+[[11] Horenblas S, Jansen L, Meinhardt W, Hoefnagel CA, de Jong D,](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0055)
+[Nieweg OE. Detection of occult metastasis in squamous cell](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0055)
+[carcinoma of the penis using a dynamic sentinel node procedure.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0055)
+[J Urol 2000;163:100–4.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0055)
+
+[[12] Akduman B, Fleshner NE, Ehrlich L, Klotz L. Early experience in](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0060)
+[intermediate-risk penile cancer with sentinel node identification](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0060)
+[using the gamma probe. Urology 2001;58:65–8.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0060)
+
+[[13] Tanis PJ, Lont AP, Meinhardt W, Olmos RAV, Nieweg OE, Horenblas](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0065)
+[S. Dynamic sentinel node biopsy for penile cancer: reliability of a](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0065)
+[staging technique. J Urol 2002;1:76–80.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0065)
+
+[[14] Kroon BK, Horenblas S, Meinhardt W, et al. Dynamic sentinel node](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0070)
+[biopsy in penile carcinoma: evaluation of 10 years’ experience. Eur](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0070)
+[Urol 2005;47:601–6.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0070)
+
+[[15] Perdonà S, Autorino R, Sio MD, et al. Dynamic sentinel node biopsy](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0075)
+[in clinically node-negative penile cancer versus radical inguinal](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0075)
+[lymphadenectomy: a comparative study. Urology 2005;66:1282–6.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0075)
+
+[[16] Brennhovd B, Johnsrud K, Berner A, et al. Sentinel node procedure in](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0080)
+[low-stage/low-grade penile carcinomas. Scand J Urol Nephrol](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0080)
+[2006;40:204–7.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0080)
+
+[[17] Gonzaga-Silva LF, Tavares JM, Freitas FC, Filho MET, Oliveira VP,](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0085)
+[Lima MV. The isolated gamma probe technique for sentinel node](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0085)
+penile carcinoma detection [is](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0085) unreliable. Int Braz J Urol
+[2007;33:58–67.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0085)
+
+[[18] Hadway P, Smith Y, Corbishley C, Heenan S, Watkin NA. Evaluation](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0090)
+[of dynamic lymphoscintigraphy and sentinel lymph-node biopsy](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0090)
+[for detecting occult metastases in patients with penile squamous](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0090)
+[cell carcinoma. BJU Int 2007;100:561–5.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0090)
+
+[[19] Ferreira U, Ribeiro MAV, Reis LO, Prudente A, Matheus WE. Sentinel](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0095)
+[lymph node biopsy in penile cancer: a comparative study using](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0095)
+[modified inguinal dissection. Int Braz J Urol 2008;34:725–33.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0095)
+
+[[20] Heyns CF, Theron PD. Evaluation of dynamic sentinel lymph node](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0100)
+[biopsy in patients with squamous cell carcinoma of the penis and](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0100)
+[palpable inguinal nodes. BJU Int 2008;102:305–9.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0100)
+
+512 E U R O P E A N U R O L O G Y F O C U S 9 ( 2 0 2 3 ) 5 0 0 – 5 1 2
+
+
+
+[[21] Jensen JB, Jensen KM, Ulhøi BP, Nielsen SS, Lundbeck F. Sentinel](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0105)
+[lymph-node biopsy in patients with squamous cell carcinoma of](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0105)
+[the penis. BJU Int 2009;103:1199–203.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0105)
+
+[[22] Rohan V, Tankshali R. Sentinel node biopsy in carcinoma penis](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0110)
+[using methylene blue dye technique. Urology Ann 2009;1:18.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0110)
+
+[[23] Graafland NM, Olmos RAV, Meinhardt W, et al. Nodal staging in](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0115)
+[penile carcinoma by dynamic sentinel node biopsy after previous](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0115)
+[therapeutic primary tumour resection. Eur Urol 2010;58:748–51.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0115)
+
+[[24] Kirrander P, Andrén O, Windahl T. Dynamic sentinel node biopsy in](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0120)
+[penile cancer: initial experiences at a Swedish referral centre. BJU](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0120)
+[Int 2013;111:E48–53.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0120)
+
+[[25] Lam W, Alnajjar HM, La-Touche S, et al. Dynamic sentinel lymph](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0125)
+[node biopsy in patients with invasive squamous cell carcinoma of](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0125)
+[the penis: a prospective study of the long-term outcome of 500](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0125)
+inguinal basins assessed at [a](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0125) single institution. Eur Urol
+[2013;63:657–63.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0125)
+
+[[26] Markuszewski M, Polom W, Cytawa W, Czapiewski P, Lass P,](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0130)
+[Matuszewski M. Comparison of real-time fluorescent indocyanine](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0130)
+[green and 99mTc-nanocolloid radiotracer navigation in sentinel](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0130)
+lymph node biopsy of penile cancer. Clin Genitourin Canc
+[2015;13:574–80.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0130)
+
+[[27] Omorphos S, Saad Z, Arya M, et al. Feasibility of performing](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0135)
+[dynamic sentinel lymph node biopsy as a delayed procedure in](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0135)
+[penile cancer. World J Urol 2016;34:329–35.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0135)
+
+[[28] Schubert T, Uphoff J, Henke R-P, Wawroschek F, Winter A.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0140)
+[Reliability of radioisotope-guided sentinel lymph node biopsy in](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0140)
+penile cancer: verification in consideration of the European
+[guidelines. BMC Urol 2015;15:98.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0140)
+
+[[29] Dimopoulos P, Christopoulos P, Shilito S, et al. Dynamic sentinel](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0145)
+[lymph node biopsy for penile cancer: a comparison between 1- and](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0145)
+[2-day protocols. BJU Int 2016;117:890–6.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0145)
+
+[[30] Jakobsen JK, Krarup KP, Sommer P, et al. DaPeCa-1: diagnostic](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0150)
+[accuracy of sentinel lymph node biopsy in 222 patients with penile](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0150)
+[cancer at four tertiary referral centres—a national study from](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0150)
+[Denmark. BJU Int 2016;117:235–43.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0150)
+
+[[31] Lützen U, Zuhayra M, Marx M, et al. Value and efficacy of sentinel](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0155)
+[lymph node diagnostics in patients with penile carcinoma with](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0155)
+[nonpalpable inguinal lymph nodes. Clin Nucl Med 2016;41:621–5.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0155)
+
+[[32] Lonergan PE, Riogh ANA, O’Kelly F, et al. Dynamic sentinel node](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0160)
+[biopsy for penile cancer: an initial experience in an Irish hospital. Ir](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0160)
+[J Med Sci 2017;186:841–5.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0160)
+
+[[33] Sedigh O, Preto M, Soleimanzadeh F, et al. Role of perioperative](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0165)
+[dynamic sentinel node biopsy for cN0 penile cancer management:](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0165)
+[experience from an Italian tertiary referral center. Tumori J](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0165)
+[2017;104:66–70.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0165)
+
+[[34] Nazzani S, Catanzaro M, Biasoni D, et al. Clinical outcomes in](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0170)
+[clinical N0 squamous cell carcinoma of the penis according to nodal](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0170)
+management: early, delayed [or selective](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0170) (following dynamic
+[sentinel node biopsy) inguinal lymph-node dissection. J Urol](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0170)
+[2021;206:354–63.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0170)
+
+[[35] Chavarriaga J, Pardo J, Suso-Palau D, et al. Real world data of penile](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0175)
+[cancer treatment at a high-volume center in South America:](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0175)
+[insights and survival trends. Urology 2021;156:199–204.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0175)
+
+[[36] Lee EWC, Issa A, Oliveira P, et al. High diagnostic accuracy of](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0180)
+[inguinal ultrasonography and fine-needle aspiration followed by](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0180)
+[dynamic sentinel lymph node biopsy in men with impalpable and](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0180)
+[palpable inguinal lymph nodes. BJU Int 2022;130:331–6.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0180)
+
+[[37] Dell’Oglio P, de Vries HM, Mazzone E, et al. Hybrid indocyanine](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0185)
+[green–99mTc-nanocolloid for single-photon emission computed](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0185)
+[tomography and combined radio- and fluorescence-guided sentinel](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0185)
+[node biopsy in penile cancer: results of 740 inguinal basins](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0185)
+[assessed at a single institution. Eur Urol 2020;78:865–72.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0185)
+
+[[38] Yao K, Tu H, Li Y-H, et al. Modified technique of radical inguinal](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0190)
+[lymphadenectomy for penile carcinoma: morbidity and outcome. J](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0190)
+[Urol 2010;184:546–52.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0190)
+
+[[39] Koifman L, Hampl D, Koifman N, Vides AJ, Ornellas AA. Radical open](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0195)
+inguinal lymphadenectomy [for](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0195) penile carcinoma: surgical
+
+
+technique, early [complications](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0195) and late outcomes. J Urol
+[2013;190:2086–92.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0195)
+
+[[40] Lughezzani G, Catanzaro M, Torelli T, et al. Relationship between](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0200)
+[lymph node ratio and cancer-specific survival in a contemporary](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0200)
+[series of patients with penile cancer and lymph node metastases.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0200)
+[BJU Int 2015;116:727–33.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0200)
+
+[[41] Skeppner E, Windahl T, Andersson S-O, Fugl-Meyer KS. Treatment-](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0205)
+[seeking, aspects of sexual activity and life satisfaction in men with](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0205)
+[laser-treated penile carcinoma. Eur Urol 2008;54:631–9.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0205)
+
+[[42] Schlenker B, Tilki D, Gratzke C, et al. Intermediate-differentiated](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0210)
+[invasive (pT1 G2) penile cancer—oncological outcome and follow-](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0210)
+[up. Urol Oncol 2011;29:782–7.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0210)
+
+[[43] Sadeghi R, Gholami H, Zakavi SR, Kakhki VRD, Tabasi KT, Horenblas](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0215)
+[S. Accuracy of sentinel lymph node biopsy for inguinal lymph node](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0215)
+[staging of penile squamous cell carcinoma: systematic review and](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0215)
+[meta-analysis of the literature. J Urol 2012;187:25–31.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0215)
+
+[[44] Zou Z, Liu Z, Tang L, et al. Radiocolloid-based dynamic sentinel](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0220)
+[lymph node biopsy in penile cancer with clinically negative](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0220)
+[inguinal lymph node: an updated systematic review and meta-](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0220)
+[analysis. Int Urol Nephrol 2016;48:2001–13.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0220)
+
+[[45] Izawa J, Kedar D, Wong F, Pettaway CA. Sentinel lymph node biopsy](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0225)
+[in penile cancer: evolution and insights. Can J Urol 2005;12(1):24.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0225)
+
+[[46] Leijte JAP, Kirrander P, Antonini N, Windahl T, Horenblas S.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0230)
+[Recurrence patterns of squamous cell carcinoma of the penis:](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0230)
+[recommendations for follow-up based on a two-centre analysis of](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0230)
+[700 patients. Eur Urol 2008;54:161–9.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0230)
+
+[[47] Hegarty PK, Dinney CP, Pettaway CA. Controversies in ilioinguinal](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0235)
+[lymphadenectomy. Urol Clin N Am 2010;37:421–34.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0235)
+
+[[48] Ornellas AA, Chin EWK, Nóbrega BLB, Wisnescky A, Koifman N,](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0240)
+[Quirino R. Surgical treatment of invasive squamous cell carcinoma](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0240)
+of the penis: Brazilian [national](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0240) cancer institute long-term
+[experience. J Surg Oncol 2008;97:487–95.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0240)
+
+[[49] Stuiver MM, Djajadiningrat RS, Graafland NM, Vincent AD, Lucas C,](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0245)
+Horenblas S. Early wound complications after inguinal
+[lymphadenectomy in penile cancer: a historical cohort study and](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0245)
+[risk-factor analysis. Eur Urol 2013;64:486–92.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0245)
+
+[[50] Tsaur I, Biegel C, Gust K, et al. Feasibility, complications and](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0250)
+[oncologic results of a limited inguinal lymph node dissection in the](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0250)
+[management of penile cancer. Int Braz J Urol 2015;41:486–95.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0250)
+
+[[51] Pahwa HS, Misra S, Kumar A, Kumar V, Agarwal A, Srivastava R.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0255)
+[Video endoscopic inguinal lymphadenectomy (VEIL)—a prospective](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0255)
+[critical perioperative assessment of feasibility and morbidity with](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0255)
+[points of technique in penile carcinoma. World J Surg Oncol](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0255)
+[2013;11:42.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0255)
+
+[[52] Sotelo R, Cabrera M, Carmona O, de Andrade R, Martin O, Fernandez](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0260)
+[G. Robotic bilateral inguinal lymphadenectomy in penile cancer,](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0260)
+[development of a technique without robot repositioning: a case](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0260)
+[report. Ecancermedicalscience 2013;7:356.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0260)
+
+[[53] Rodrigues GJ, Guglielmetti GB, Orvieto M, Bhat KRS, Patel VR,](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0265)
+[Coelho RF. Robot-assisted endoscopic inguinal lymphadenectomy:](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0265)
+[a review of current outcomes. Asian J Urol 2021;8:20–6.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0265)
+
+[[54] Aita G, Costa WH, Zequi SC, et al. Pattern of invasion is the most](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0270)
+important prognostic factor [in](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0270) patients with penile cancer
+[submitted to lymph node dissection and pathological absence of](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0270)
+[lymph node metastasis. BJU Int 2015;116:584–9.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0270)
+
+[[55] Azizi M, Chipollini J, Peyton CC, Cheriyan SK, Spiess PE. Current](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0275)
+[controversies and developments on the role of lymphadenectomy](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0275)
+[for penile cancer. Urol Oncol 2018;37:201–8.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0275)
+
+[[56] Zhu Y, Zhou XY, Yao XD, Dai B, Ye DW. The prognostic significance](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0280)
+[of p53, Ki-67, epithelial cadherin and matrix metalloproteinase-9 in](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0280)
+[penile squamous cell carcinoma treated with surgery. BJU Int](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0280)
+[2007;100:204–8.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0280)
+
+[[57] Zhu Y, Ye D-W, Yao X-D, et al. The value of squamous cell carcinoma](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0285)
+[antigen in the prognostic evaluation, treatment monitoring and](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0285)
+[followup of patients with penile cancer. J Urol 2008;180:2019–23.](http://refhub.elsevier.com/S2405-4569(22)00277-2/h0285)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,22 @@
+# Task:
+You are given two texts:
+* Treatment Recommendation - a proposed approach or method for treating penile cancer.
+* Guideline - an comprehensive clinical guideline on penile cancer treatment.
+
+Your task is to analyze the stance of the guideline toward the recommendation and classify it using one of the following labels:
+* R (Recommended) - The guideline supports or aligns with the treatment recommendation.
+* DR (Different Recommendation) - The guideline suggests a different treatment or approach compared to the recommendation.
+* NA (Not Addressed) - The guideline does not mention or address the treatment recommendation at all.
+
+Additionally, provide a concise justification (2–4 sentences) summarizing why you selected that stance, referencing key elements from both the recommendation and the guideline.
+    
+    
+# Treatment Recommendation:
+RECOMMENDATION_TEXT
+    
+# Guideline (context):
+GUIDELINE_TEXT
+
+
+# Formatting Instructions:
+Provide a classification code that can be one out of [R (Recommended); DR (Different Recommendation); NA (Not Addressed)] and a summary that justifies that classification referencing key elements from both the recommendation and the guideline.

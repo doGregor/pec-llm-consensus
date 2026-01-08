@@ -1,0 +1,724 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    # **Diagnostic Accuracy of MRI in Local Staging (T Category) of ** **Penile Cancer and the Value of Artificial Erection: A Systematic ** **Review and Meta-Analysis**
+
+Satheesh Krishna, MD [1], Nicola Schieda, MD [2], Girish S. Kulkarni, MD, PhD [3], Krishna Shanbhogue, MD [4],
+Ronaldo H. Baroni, MD, PhD [5], Sungmin Woo, MD [6]
+
+**Evidence Synthesis and Decision Analysis · Systematic Review/Meta-Analysis**
+
+**Keywords**
+
+
+carcinoma, corpora cavernosa, MRI, penile
+cancer, penis, staging, systematic review
+
+Submitted: Oct 30, 2021
+Revision requested: Nov 22, 2021
+Revision received: Jan 2, 2022
+Accepted: Feb 4, 2022
+First published online: Feb 23, 2022
+
+The authors declare that they have no
+disclosures relevant to the subject matter of
+this article.
+
+An electronic supplement is available
+[online at doi.org/10.2214/AJR.21.27063.](https://doi.org/10.2214/AJR.21.27063)
+
+Krishna et al.
+
+MRI and Artificial Erection in Penile Cancer
+Evidence Synthesis and Decision Analysis
+
+Systematic Review/Meta-Analysis
+
+Krishna S, Schieda N, Kulkarni GS, Shanbhogue
+K, Baroni RH, Woo S
+
+doi.org/10.2214/AJR.21.27063
+
+*AJR* 2022; 219:28–36
+
+ISSN-L 0361–803X/22/2191–28
+
+© American Roentgen Ray Society
+
+
+**BACKGROUND.** Treatment recommendations of penile cancers are determined primarily by the local extent of the primary tumor. Clinical palpation is used for local staging.
+
+**OBJECTIVE.** We reviewed diagnostic performance of MRI in local staging of penile
+cancer in three clinical scenarios (questions [Qs] 1 through 3, Q1–Q3) and one imaging
+scenario (Q4). Q1 asked whether MRI reliably distinguishes ≤ T1 from ≥ T2 disease. Q2
+asked whether clinical staging reliably identifies ≤ T1 versus ≥ T2 disease and how clinical staging compares to MRI. Q3 asked if MRI is accurate for diagnosis of T3 disease. Q4
+asked if artificial erection (by intracavernosal injection of prostaglandin E 1 ) improved accuracy of MRI in T categorization.
+
+**EVIDENCE ACQUISITION.** MEDLINE, EMBASE, and Cochrane Library databases
+were searched through September 13, 2021, for studies evaluating local staging of penile
+cancer using MRI with surgical pathology as the reference standard. Diagnostic accuracy was calculated using a bivariate random-effects model and hierarchic summary ROC
+mode Meta-regression was performed to test for covariate effects of MRI and artificial
+erection in Q3 and Q4, respectively.
+
+**EVIDENCE SYNTHESIS.** Eight studies and 481 patients were included. The sensitivity and specificity of MRI for Q1 were 86% (95% CI, 73–94%) and 89% (95% CI, 77–95%),
+respectively. AUC for MRI (0.94; 95% CI, 0.92–0.96) did not differ from clinical staging
+(0.87; 95% CI, 0.84–0.90; *p* = .83). For Q3, MRI had sensitivity and specificity of 80% (95%
+CI, 70–87%) and 96% (95% CI, 85–99%), respectively. For Q4, sensitivity and specificity for
+MRI with versus without artificial erection were 85% (95% CI, 71–92%) and 93% (95% CI,
+77–98%) versus 86% (95% CI, 68–95%) and 84% (95% CI, 70–93%), respectively ( *p* = .50).
+
+**CONCLUSION.** MRI staging of penile cancer may be considered for ≤ T1 versus ≥ T2
+disease but did not appear more accurate than clinical staging. High specificity of MRI
+for diagnosis of ≥ T3 disease suggests that MRI may be useful when organ-sparing approaches are planned. MRI with and without artificial erection showed similar accuracy
+in local staging.
+
+**CLINICAL IMPACT.** MRI, with or without artificial erection, may be valuable in routine preoperative evaluation of local staging of penile cancer, particularly when organ-sparing options are considered.
+
+Penile cancer is the third most common male-specific cancer with an incidence of 0.1–1 per
+100,000 men [1]. Treatment recommendations in major clinical practice guidelines are driven
+primarily by the extent of the primary tumor (i.e., clinical T category) [2–4]. The clinical T category is mainly determined by physical examination, in line with international guidelines [4, 5].
+However, establishing T category purely by clinical palpation is expectedly limited [6–8]. In a
+few studies, sonography has been reported to be better than physical examination, but it has
+poor diagnostic accuracy because of limited contrast resolution [9, 10]. MRI has superior contrast resolution and is ideally suited for evaluation of local stage in penile cancer.
+The 8th edition of the American Joint Committee on Cancer (AJCC) TNM classification
+
+[11] contains revised staging for penile cancers. In the 7th edition, invasion of either corpora cavernosa (CC) or corpus spongiosum (CS) was considered T2 disease, and invasion
+
+1 Department of Medical Imaging, University of Toronto, 263 McCaul St, 4th Fl, Toronto, ON M5T 1W7, Canada. Address
+correspondence to S. Krishna (satheeshkrishna.jeyaraj@utoronto.ca).
+
+2 Department of Radiology, University of Ottawa, Ottawa, ON, Canada.
+
+3 Departments of Surgery and Surgical Oncology, Division of Urology, University of Toronto, Toronto, ON, Canada.
+
+4 Department of Radiology, NYU Langone Medical Center, New York, NY.
+
+5 Department of Diagnostic Imaging, Hospital Israelita Albert Einstein, São Paulo, Brazil.
+
+6 Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY.
+
+
+**28** | *www.ajronline.org* AJR:219, July 2022
+
+**MRI and Artificial Erection in Penile Cancer**
+
+of the urethra was considered T3 disease. In the 8th edition, invasion of CS is deemed T2 disease, invasion of CC is now considered T3 disease, and urethral invasion is no longer relevant to local staging [12]. With these revisions, MRI may be expected to be
+more clinically important in local staging because it has been
+shown to be accurate for identifying invasion of CC and because
+the lower accuracy of MRI for detection of urethral involvement
+has become less critical [13].
+Intracavernosal injection of prostaglandin E 1 to induce artificial erection has been variably used in penile MRI. This technique
+results in a distended, uniformly T2-hyperintense CC, which increases contrast resolution. An erect penis is also easier to position, implying an additional technical advantage for optimal
+image quality [14]. However, intracavernosal injection can be associated with pain at the injection site, hematoma, and priapism
+and may not be well tolerated by all patients; therefore, it is used
+variably in penile MRI across institutions [15].
+To our knowledge, studies evaluating MRI for staging of penile
+cancer and the added value of intracavernosal injection in staging are restricted to relatively small, single-center studies. Thus,
+a more formal evaluation is warranted. The purpose of this study
+was to meta-analytically evaluate the diagnostic accuracy of MRI
+for local T categorization of penile cancer using the revised 8th
+edition AJCC TNM classification and to assess the value of intracavernosal injection for cancer staging with penile MRI.
+
+**Evidence Acquisition**
+
+The study protocol was registered in the International Prospec[tive Register of Systematic Reviews (PROSPERO CRD42020164001).](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=164001)
+Best practices for diagnostic accuracy of systematic reviews were
+used for conduct and reporting of the study [16, 17]. The ­PRISMA
+framework for diagnostic test accuracy was followed [17, 18]. A
+multidisciplinary multiinstitutional group with expertise both in
+diagnostic accuracy meta-analyses and in management of patients with penile cancer (medical-radiation oncology, urology, pathology, and radiology) drafted the clinical scenarios and
+­meta-analysis methodology. T categorization of penile cancer
+was based on the revised 8th edition AJCC TNM definitions [11].
+
+***Study Questions***
+
+The study used three questions to evaluate clinical scenarios
+with respect to T category thresholds. Question 1 (Q1) asked if MRI
+can reliably identify ≤ T1 versus ≥ T2 disease, the latter of which
+may warrant concurrent prophylactic inguinal lymph node dissection or dynamic sentinel node biopsy even in patients with nonpalpable lymph nodes. Question 2 (Q2) asked if clinical staging can
+reliably identify ≤ T1 versus ≥ T2 disease and whether staging on
+MRI is better than clinical staging. Question 3 (Q3) asked whether
+MRI is accurate for diagnosis of T3 disease (e.g., tunica albuginea
+or CC invasion), which precludes organ-sparing approaches and
+warrants penectomy. A fourth question, Q4, was included to identify the optimal technique of penile MRI; it asked whether artificial
+erection by intracavernosal injection of prostaglandin E 1 significantly improves the accuracy of MRI in T categorization.
+
+***Search Strategy***
+
+A librarian assisted with searches of MEDLINE, EMBASE, and
+Cochrane Central Register of Controlled Trials without any lan
+
+
+
+
+guage restrictions [19]. Two authors (S.K. and S.W.) independently screened titles and abstracts through September 13, 2021, and
+retrieved relevant full texts for inclusion. References from includ
+ed studies were reviewed. One author (S.K.) queried clinical trial
+registries and conference proceedings (July 2018 to June 2021)
+for unpublished studies.
+
+***Inclusion and Exclusion Criteria***
+
+To be included in the meta-analysis, a study needed to involve
+penile MRI for local staging of penile cancer in humans using surgical pathology as the reference standard. Data had to be either
+provided or retrievable to allow calculation of a 2 × 2 contingency table for a minimum of one study question. Studies with patients who had penile surgery, neoadjuvant chemotherapy, or radiation therapy before penile MRI were excluded, as were studies
+classified as case reports, editorials, reviews, systematic reviews,
+or commentaries.
+
+***Data Extraction***
+
+Two authors (S.K. and S.W.) independently extracted the following data: first author; country of publication; journal of publication; publication year; recruitment dates; study design; number of patients with each T category; mean age and age range of
+patients; lesion size; index test interpretation details (number of
+readers, experience); exclusions (study overlap, insufficient test,
+no reference standard); imaging technique (field strength, resolution of T2-weighted imaging); gadolinium (administered or
+not); DWI (performed or not); artificial erection (performed or
+not); definition of positivity; number of true-positive, true-negative, false-positive, and false-negative studies; and reference
+standard applied. Disagreements were resolved by consensus.
+The 8th edition of the AJCC manual definitions for T categories
+were followed [11]. For Q1, true-positive was defined as a positive
+index test (invasion of the CC or CS by tumor on MRI) and diagnosis of ≥ T2 disease by the reference standard; true-negative was
+defined as a negative index test (CS and CC not invaded by tumor
+on MRI) and diagnosis of ≤ T1 disease by the reference standard;
+false-positive was defined as a positive index test not confirmed
+by the reference standard; and false-negative was defined as a
+negative index test disproven by the reference standard. Similar definitions were used for Q2 and Q3 as well as for urethral involvement. In light of the assumption that nondiagnostic tests
+occur randomly, they were excluded from the analysis [20]. When
+independent data for multiple readers were provided, we used
+
+
+AJR:219, July 2022 **29**
+
+**Krishna et al.**
+
+[mean data [21]. Appendix S1 (available in the online supplement)](https://www.ajronline.org/doi/suppl/10.2214/AJR.21.27063)
+sets out the modified QUADAS-2 tool for diagnostic accuracy
+studies that was used for this systematic review [22].
+
+***Data Analysis***
+
+For each study, we extracted 2 × 2 contingency table data
+(true-positive, false-negative, false-positive, and true-negative)
+by using values directly provided from the included study or by
+calculating them from the provided sensitivity and specificity
+values. Sensitivity and specificity were pooled using a bivariate
+random-effects and hierarchic summary ROC (HSROC) modeling
+and visualized using HSROC curves [23]. Heterogeneity was evaluated using several methods. A Cochran *Q* test was performed
+with *p* < .05 signifying heterogeneity. A Higgins inconsistency index ( *I* [2] ) test was conducted, and the following criteria for inconsistency index were used to interpret the degree of heterogeneity:
+0–40%, heterogeneity might not be important; 30–60%, moderate heterogeneity may be present; 50–90%, substantial heterogeneity may be present; and 75–100%, considerable heterogeneity is present [24]. Meta-regression analysis was performed to
+test for covariate effect of MRI in identification of ≤ T1 versus ≥ T2
+disease compared with clinical staging and covariate effect of artificial erection with intracavernosal injection of prostaglandin Ecompared with MRI without artificial erection. We also planned 1
+to perform subgroup analyses for field strength, value of DWI,
+and gadolinium enhancement.
+Data extraction was performed using Microsoft Excel (version
+2022). We planned to assess publication bias using the Deeks
+funnel plot and asymmetry test. However, the test was not performed because the meta-analysis included fewer than 10 studies [25]. Data analysis was done using STATA software (version
+13.0, StataCorp).
+
+**Evidence Synthesis**
+***Search***
+
+Figure 1 depicts the nature of the search, screening, and inclusion process according to the search strategy presented in
+Appendix S2 (available in the [online supplement). One of the](https://www.ajronline.org/doi/suppl/10.2214/AJR.21.27063)
+studies, Scardino et al. [14], was excluded because of significant
+overlap of patient population with another subsequent study
+(Petralia et al. [8]) from the same institution. Overall, eight studies
+were included in the analysis [7, 8, 13, 26–30].
+
+**TABLE 1: Characteristics of the Included Studies**
+
+
+***Characteristics of Included Studies***
+
+Table 1 depicts the characteristics of included studies: eight
+studies (studies included per question: Q1 = 5, Q2 = 4, Q3 = 6, and
+Q4 = 8) involving 481 patients (patients included per question:
+Q1 = 153, Q2 = 77, Q3 = 408, and Q4 = 481); Table 2 summarizes the
+MRI protocols reported in the studies. Tables S1–S3 (available in the
+[online supplement) summarize 2 × 2 data for Q1–Q3. For studies](https://www.ajronline.org/doi/suppl/10.2214/AJR.21.27063)
+that used TNM definitions other than those in the 8th edition, patients were reclassified according to 8th edition definitions for purposes of the current study and to construct 2 × 2 tables [11].
+
+***Data Analysis***
+
+*Question 1 (diagnostic accuracy of MRI for ≤ T1 vs ≥ T2 disease)—*
+The sensitivity and specificity of MRI for diagnosis of ≤ T1 versus ≥
+T2 disease were 86% (95% CI, 73–94%) and 89% (95% CI, 77–95%),
+respectively, with AUC of 0.94 (95% CI, 0.92–0.96) for MRI (Figs. 2A
+and 3A and Table 3).
+*Question 2 (diagnostic accuracy of MRI vs clinical staging for ≤ T1*
+*vs ≥ T2 disease)—* The sensitivity and specificity of clinical staging
+for diagnosis of ≤ T1 versus ≥ T2 disease were 86% (95% CI, 70–
+95%) and 91% (95% CI, 16–100%), respectively, with AUC of 0.87
+(95% CI, 0.84–0.90) for MRI (Figs. 2B and 3B and Table 3). The AUC
+for identification of ≤ T1 versus ≥ T2 disease on MRI versus clinical staging was 0.94 versus 0.87 with overlapping 95% CIs (Fig. 3).
+Meta-regression analysis using MRI as a covariate did not show a
+statistically significant difference ( *p* = .83). However, clinical staging for identification of ≤ T1 versus ≥ T2 disease had significant
+heterogeneity based on Cochran *Q* ( *p* = .004), was moderate for
+sensitivity ( *I* [2] = 59.93%), and was substantial for specificity ( *I* [2] =
+87.74%), whereas MRI staging did not have significant heterogeneity ( *p* = .50 for Cochran *Q*, *I* [2] = 22.15% for sensitivity, and *I* [2] =
+1.39% for specificity) (Fig. 2).
+*Question 3 (diagnostic accuracy of MRI for T3 disease)—* MRI had
+a sensitivity of 80% (95% CI, 70–87%) and specificity of 96% (95%
+CI, 85–99%) in the identification of T3 disease with AUC of 0.86
+(95% CI, 0.83–0.89) (Fig. 4 and Table 3).
+Although it was not a primary objective, we also assessed the
+accuracy of MRI in identification of urethral involvement. MRI
+had a sensitivity of 86% (95% CI, 64–95%), specificity of 93%
+(95% CI, 83–97%), and AUC of 0.95 (0.93–0.97) for identification
+of urethral involvement, according to meta-analysis of six studies and 253 patients.
+
+
+|First Author|Journal of Publication|Year|Country of Publication|Prospective or Retrospective|Recruitment Dates|Mean (Range) Age (y)|
+|---|---|---|---|---|---|---|
+|Ghosh [26] Lucchesi [27] Hanchanale [13] Bozzini [28] Petralia [8] Kayes [29] Lont [30] de Kerviler [7]|Abdom Radiol (NY) J Magn Reson Imaging BJU Int Urology Radiol Med Eur Urol BJU Int Br J Radiol|2021 2017 2016 2016 2008 2007 2003 1995|India Brazil UK Europe (multicenter) Italy UK The Netherlands France|Retrospective Prospective Prospective Prospective Prospective Unclear Unclear Unclear|Jan 2012–Apr 2018 Apr 2011–Jul 2014 Not mentioned Jan 2012–Dec 2014 Jun 2001–Oct 2006 2000–2006 1995–1997 1989–1994|57.5 (26–85) 58.9 (43–89) 65 (39–88) 67.4 (51–82) 55.4 (47–79) 61 (32–85) Not mentioned 57 (42–68)|
+
+
+**30** AJR:219, July 2022
+
+**MRI and Artificial Erection in Penile Cancer**
+
+**TABLE 2: Study Characteristics Based on MRI Parameters**
+
+
+
+
+
+
+
+
+
+|First Author|Mean (Range) Lesion Size (cm)|No. of Readers (Independent vs Consensus Reads)|Experience (y)|Field Strength (T)|Gadolinium Enhanced|DWI Performed|Artificial Erection|No. of Patients With MRI|
+|---|---|---|---|---|---|---|---|---|
+|Ghosh [26] Lucchesi [27] Hanchanale [13] Bozzini [28] Petralia [8] Kayes [29] Lont [30] de Kerviler [7]|NM 3.0 (1.0–7.4) NM 3.1 (1.2–6.1) NM NM NM NM|2 (independent) 2 (consensus) 1 of 2 (consensus) 1 of 6 (one from each hospital) 1 2 (unclear if separate or consensus) 1 2 (consensus)|7 and 11 12 and 16 ≥ 10 ≥ 5 10 NM NM NM|3 1.5 and 3 NM 1.5 1 1.5 1.5 0.5|Yes Yes Yes Yes Yes Yes Yes Yes|Yes No No Yes No No No No|No No Yes (n = 56) and no (n = 44) Yes Yes Yes No No|54 25 100 200 13 55 28 6|
+
+
+Note—NM = not mentioned.
+
+
+**TABLE 3: Bivariate Random-Effects Meta-Analysis for All Studies With Corresponding Sensitivity,**
+
+|TABLE 3: Bivariate Random-Effects Meta-A ­Specificity, and AUC Values|Analysis for All Studi|es With Correspondi|ng Sensitivity,|
+|---|---|---|---|
+|Study Question|Sensitivity (%)|Specificity (%)|AUC|
+|Q1: to identify ≤ T1 vs ≥ T2 disease on MRI Q2: to identify ≤ T1 vs ≥ T2 disease clinically Q3: to identify T3 disease on MRI|86 (73–94) 86 (70–95) 80 (70–87)|89 (77–95) 91 (16–100) 96 (85–99)|0.94 (0.92–0.96) 0.87 (0.84–0.90) 0.86 (0.83–0.89)|
+
+
+Note—Values in parentheses are 95% CI. Q = question.
+
+*Question 4 (diagnostic accuracy of MRI with versus without artifi-*
+*cial erection)—* Pooled sensitivity and specificity for MRI with versus without artificial erection was 85% (95% CI, 71–92%) and 93%
+(95% CI, 77–98%) versus 86% (95% CI, 68–95%) and 84% (95%
+CI, 70–93%), respectively, with overlapping 95% CIs. AUC of MRI
+with versus without artificial erection was 0.93 (0.90–0.95) versus
+0.92 (0.89–0.94) (Fig. 5). Meta-regression analysis using artificial
+erection as a covariate did not show statistically significant difference ( *p* = .50).
+Subgroup analyses for field strength and value of DWI in accuracy of T categorization by MRI was not possible because of the
+low number of included studies. Subgroup analysis of need for
+gadolinium enhancement was not possible because all studies
+used gadolinium-enhanced MRI.
+[Table S4 (available in the online supplement) lists results of the](https://www.ajronline.org/doi/suppl/10.2214/AJR.21.27063)
+assessment for risk of bias. Unclear risk of bias in the patient selection domain was mainly because some studies did not specify
+if patient selection was consecutive. Unclear risk of bias in the index test domain was mainly because some studies did not specify whether reference standard results were known before MR
+images were interpreted. Most studies showed an unclear risk of
+bias in the reference standard domain because they did not report whether reference standard interpretation included MRI results. The flow and timing domain showed unclear risk of bias because most studies did not specify the time duration between
+MRI and the reference standard.
+
+
+**Discussion**
+
+This systematic review and meta-analysis provides diagnostic
+accuracy data for three pertinent clinical questions for management of penile cancer and addresses the value of artificial erection for MRI in T categorization of penile cancer.
+Our results indicate that MRI is accurate for differentiation
+of ≤ T1 from ≥ T2 disease (AUC, 0.94) and may be comparable
+with clinical staging (AUC, 0.87), but with overlapping 95% CIs
+and no statistically significant difference between MRI and clinical staging. Comparison was limited in particular by the low number of included patients and presence of considerable heterogeneity in the clinical staging group, although the MRI staging
+group did not have significant heterogeneity.
+Differentiating ≤ T1 from ≥ T2 disease is crucial in the management of penile cancer. For example, presence of T2 disease may
+warrant prophylactic inguinal lymph node dissection or dynamic sentinel node biopsy, even in patients with nonpalpable lymph
+nodes, rather than staged or delayed lymph node dissection [4,
+5]. Studies have reported that early inguinal lymph node dissection may be associated with better cancer control [31, 32]. Therefore, MRI staging may warrant consideration in this scenario either
+to routinely complement clinical staging or to serve as an alternative when clinical assessment is equivocal or challenging. MRI
+staging is especially important in patients opting for penile preservation. For patients opting for a primary radiation-based therapy approach, lack of pathologic staging makes MRI staging even
+
+
+AJR:219, July 2022 **31**
+
+**Krishna et al.**
+
+more relevant and crucial. There are no clinical practice guidelines
+in this clinical scenario, and multicenter prospective studies with
+large patient populations are required to confirm our findings.
+In our study, MRI was highly specific (96%) for identification of
+tunica albuginea/CC invasion (e.g., T3 disease). Presence of CC invasion usually precludes organ-sparing approaches and warrants
+complete or partial penectomy depending on the location of the
+tumor [4, 5]. The high specificity of MRI for T3 disease supports
+the recently published European Association of Urology guidelines, which recommend MRI staging in all patients for whom organ-sparing surgery is planned [4].
+We evaluated the need for artificial erection by intracavernosal
+injection of prostaglandin E 1 and whether this technique improves the accuracy of MRI for T categorization of penile cancer.
+The pooled sensitivities of MRI with and without artificial erection were similar (85% and 86%), and although pooled specificity of MRI with artificial erection (93%) was higher than MRI without artificial erection (84%), we again found overlapping 95% CIs
+and no statistically significant difference. AUCs of MRI with and
+without artificial erection were similar (0.93 vs 0.92). Overall, our
+results indicate that MRI with and without artificial erection may
+both be considered as reasonable options for local staging of penile cancer. Institutions may opt to omit artificial erection from
+MRI protocols because the added time, expense, and intervention of achieving artificial erection adds no additional value to
+MRI evaluation of penile cancer.
+We did not have sufficient data to compare MRI technique by
+system field strength or use of gadolinium. The accuracy of MRI
+for evaluation of small structures, such as the penis, relies on
+high spatial resolution. A higher field strength (e.g., 3 T) would
+therefore be expected to be superior to lower field strengths.
+T2-weighted imaging is considered the fundamental sequence
+for local staging of penile cancer [33, 34]. The value of additional parametric sequences in local staging of penile cancer is unknown. Gadolinium-enhanced MRI was used in all of the includ
+ed studies, so we could not evaluate the accuracy of unenhanced
+MRI for staging purposes. Similarly, the added benefit, if any, of
+DWI could not be evaluated. MRI has been suggested to offer additional benefits in preoperative staging by allowing assessment
+of vertical tumor depth, pattern of invasion, proximal resection
+margin, fat-pad thickness over the pubic symphysis, and residual
+penile length [33].
+The results of our study add to published results in this domain
+
+[35]. This meta-analysis included the most up-to-date literature
+on the topic, excluded an overlapping study (Scardino et al. [14]),
+evaluated the role of artificial erection for penile MRI staging, and
+addressed multiple pertinent management questions regarding clinical staging versus MRI staging. In addition, we uniformly applied the 8th edition AJCC TNM classification to the older
+literature, which helps specifically address some previously unanswered questions related to important clinical and imaging-related issues in the context of the most recent edition.
+
+One of the major limitations of this meta-analysis was the small
+number of included studies ( *n* = 8) and the consequent small
+number of included patients ( *n* = 481) that had uneven distribution of T categories. However, this situation is expected given the
+relatively low incidence of penile cancer and the current lower
+utilization rate of penile MRI for staging of penile cancer. Large
+
+
+multicenter trials comparing staging strategies in a prospective
+cohort to confirm our findings would be optimal. The 8th edition
+of the AJCC TNM classification emphasizes evaluation of penile
+cancers separately in the foreskin, glans, and shaft; however, this
+additional criterion could not be separately assessed because
+most published studies did not provide this anatomic distinction.
+All included studies had an unclear risk of bias in at least one do
+main, which could have introduced variability.
+
+**Conclusion**
+
+MRI staging of penile cancer may be considered for distinguishing ≤ T1 from ≥ T2 disease, but it did not outperform clinical
+staging. High specificity of MRI for diagnosis of ≥ T3 disease indicates MRI may be particularly useful when organ-sparing surgery
+is planned. MRI without artificial erection shows similar accuracy
+to MRI with artificial erection. Therefore, institutions may choose
+to omit artificial erection in MRI protocols in preoperative local
+staging of penile cancer.
+
+**References**
+1. Thomas A, Necchi A, Muneer A, et al. Penile cancer. *Nat Rev Dis Primers*
+
+2021; 7:11
+2. Van Poppel H, Watkin NA, Osanto S, Moonen L, Horwich A, Kataja V; ESMO
+
+Guidelines Working Group. Penile cancer: ESMO clinical practice guide
+lines for diagnosis, treatment and follow-up. *Ann Oncol* 2013; 24(suppl
+
+6):vi115–vi124
+3. Richter S, Ruether JD, Wood L, et al. Management of carcinoma of the pe
+nis: consensus statement from the Canadian Association of Genitourinary
+
+Medical Oncologists (CAGMO). *Can Urol Assoc J* 2013; 7:E797–E811
+4. Hakenberg OW, Minhas ES, Necchi A, Protzel C, Watkin N, Compérat E. EAU
+
+guidelines on penile cancer. In: *European Association of Urology Guidelines*,
+2018 edition. European Association of Urology Guidelines Office, 2018
+5. National Comprehensive Cancer Network. NCCN clinical practice guide
+lines in oncology: penile cancer, version 2. www.nccn.org/professionals/
+
+physician_gls/PDF/penile.pdf. Published 2020. Accessed September 13, 2021
+6. Koifman L, Vides A, Koifman N, Carvalho J, Ornellas A. Epidemiological as
+pects of penile cancer in Rio de Janeiro: evaluation of 230 cases. *Int Braz J*
+
+*Urol* 2011; 37:231–240; discussion, 240
+7. de Kerviler E, Ollier P, Desgrandchamps F, et al. Magnetic resonance imag
+ing in patients with penile carcinoma. *Br J Radiol* 1995; 68:704–711
+8. Petralia G, Villa G, Scardino E, et al. Local staging of penile cancer using
+
+magnetic resonance imaging with pharmacologically induced penile erec
+tion. *Radiol Med* 2008; 113:517–528
+9. Agrawal A, Pai D, Ananthakrishnan N, Smile SR, Ratnakar C. Clinical and sonographic findings in carcinoma of the penis. *J Clin Ultrasound* 2000;
+
+28:399–406
+10. Horenblas S, Kröger R, Gallee MPW, Newling DWW, van Tinteren H. Ultra
+sound in squamous cell carcinoma of the penis: a useful addition to clinical
+
+staging? A comparison of ultrasound with histopathology. *Urology* 1994;
+
+43:702–707
+11. Amin MB, Edge S, Greene F, et al. *AJCC cancer staging manual.* Springer In
+ternational Publishing, 2017:701–714
+12. Khalil MI, Kamel MH, Dhillon J, et al. What you need to know: updates in
+
+penile cancer staging. *World J Urol* 2021; 39:1413–1419
+13. Hanchanale V, Yeo L, Subedi N, et al. The accuracy of magnetic resonance im
+aging (MRI) in predicting the invasion of the tunica albuginea and the urethra
+
+during the primary staging of penile cancer. *BJU Int* 2016; 117:439–443
+14. Scardino E, Villa G, Bonomo G, et al. Magnetic resonance imaging com
+
+**32** AJR:219, July 2022
+
+**MRI and Artificial Erection in Penile Cancer**
+
+bined with artificial erection for local staging of penile cancer. *Urology*
+
+2004; 63:1158–1162
+15. Linet OI, Ogrinc FG. Efficacy and safety of intracavernosal alprostadil in
+
+men with erectile dysfunction *.* *N Engl J Med* 1996; 334:873–877
+16. McInnes MD, Bossuyt PM. Pitfalls of systematic reviews and meta-analyses
+
+in imaging research. *Radiology* 2015; 277:13–21
+17. McGrath TA, Alabousi M, Skidmore B, et al. Recommendations for report
+ing of systematic reviews and meta-analyses of diagnostic test accuracy: a
+
+systematic review. *Syst Rev* 2017; 6:194
+18. McInnes MDF, Moher D, Thombs BD, et al.; PRISMA-DTA Group. Preferred
+
+reporting items for a systematic review and meta-analysis of diagnostic
+
+test accuracy studies: the PRISMA-DTA statement. *JAMA* 2018; 319:388–396
+19. Sampson M, McGowan J, Cogo E, Grimshaw J, Moher D, Lefebvre C. An ev
+idence-based practice guideline for the peer review of electronic search
+
+strategies. *J Clin Epidemiol* 2009; 62:944–952
+20. Whiting P, Rutjes AWS, Reitsma JB, Bossuyt PMM, Kleijnen J. The develop
+ment of QUADAS: a tool for the quality assessment of studies of diagnostic
+
+accuracy included in systematic reviews. *BMC Med Res Methodol* 2003; 3:25
+21. McGrath TA, McInnes MDF, Langer FW, Hong J, Korevaar DA, Bossuyt PMM.
+
+Treatment of multiple test readers in diagnostic accuracy systematic re
+views-meta-analyses of imaging studies. *Eur J Radiol* 2017; 93:59–64
+22. Whiting PF, Rutjes AW, Westwood ME, et al.; QUADAS-2 Group. QUADAS-2:
+
+a revised tool for the quality assessment of diagnostic accuracy studies.
+
+*Ann Intern Med* 2011; 155:529–536
+23. McGrath TA, McInnes MD, Korevaar DA, Bossuyt PM. Meta-analyses of diag
+nostic accuracy in imaging journals: analysis of pooling techniques and
+their effect on summary estimates of diagnostic accuracy. *Radiology* 2016;
+
+281:78–85
+24. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency
+
+in meta-analyses. *BMJ* 2003; 327:557–560
+25. Deeks JJ, Macaskill P, Irwig L. The performance of tests of publication bias
+
+
+and other sample size effects in systematic reviews of diagnostic test accu
+racy was assessed. *J Clin Epidemiol* 2005; 58:882–893
+26. Ghosh P, Chandra A, Mukhopadhyay S, et al. Accuracy of MRI without intra
+cavernosal prostaglandin E1 injection in staging, preoperative evaluation,
+
+and operative planning of penile cancer. *Abdom Radiol (NY)* 2021; 46:4984–
+
+4994
+27. Lucchesi FR, Reis RB, Faria EF, et al. Incremental value of MRI for preopera
+tive penile cancer staging. *J Magn Reson Imaging* 2017; 45:118–124
+28. Bozzini G, Provenzano M, Romero Otero J, et al. Role of penile Doppler US
+
+in the preoperative assessment of penile squamous cell carcinoma pa
+tients: results from a large prospective multicenter European study. *Urolo-*
+
+*gy* 2016; 90:131–135
+29. Kayes O, Minhas S, Allen C, Hare C, Freeman A, Ralph D. The role of magnet
+ic resonance imaging in the local staging of penile cancer. *Eur Urol* 2007;
+
+51:1313–1318; discussion, 1318–1319
+30. Lont AP, Besnard AP, Gallee MP, van Tinteren H, Horenblas S. A comparison
+
+of physical examination and imaging in determining the extent of primary
+
+penile carcinoma. *BJU Int* 2003; 91:493–495
+31. Chipollini J, Tang DH, Gilbert SM, et al. Delay to inguinal lymph node dis
+section greater than 3 months predicts poorer recurrence-free survival for
+
+patients with penile cancer. *J Urol* 2017; 198:1346–1352
+32. Cindolo L, Spiess PE, Bada M, et al. Adherence to EAU guidelines on penile
+
+cancer translates into better outcomes: a multicenter international study.
+
+*World J Urol* 2019; 37:1649–1657
+33. Krishna S, Shanbhogue K, Schieda N, et al. Role of MRI in staging of penile
+
+cancer. *J Magn Reson Imaging* 2020; 51:1612–1629
+34. Singh AK, Saokar A, Hahn PF, Harisinghani MG. Imaging of penile neo
+plasms. *RadioGraphics* 2005; 25:1629–1638
+35. Flammia RS, Tufano A, Antonelli L, et al. Diagnostic performance of mag
+netic resonance imaging for preoperative local staging of penile cancer: a
+
+systematic review and meta-analysis. *Appl Sci* 2021; 11:7090
+
+
+
+
+
+
+
+
+**Fig. 1—** Study flow diagram shows search, screening,
+and inclusion process.
+
+
+AJR:219, July 2022 **33**
+
+**Krishna et al.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**A**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**B**
+
+**Fig. 2—** Forest plots of sensitivity and specificity with 95% CIs and Higgins inconsistency index ( *I* [2] ) statistics. Dashed lines indicate overall meta-analyzed measure
+of effect, boxes with dots represent point estimates of sensitivity and specificity for each corresponding individual study, whiskers represent 95% CIs for sensitivity
+and specificity of corresponding individual study, and diamonds at combined results represents pooled estimate of sensitivity and specificity with associated 95% CI
+(widest point of diamond). ID = identification, *Q* = Cochrane *Q* .
+**A,** Question 1 asked, can MRI identify category ≤ T1 versus ≥ T2 disease?
+**B,** Question 2 asked, can clinical staging identify category ≤ T1 versus ≥ T2 disease?
+
+**34** AJR:219, July 2022
+
+**A**
+
+**Fig. 3—** Summary ROC (SROC) plot of bivariate meta-analysis. SENS = sensitivity, SPEC = specificity.
+**A,** Question 1 asked, can MRI identify category ≤ T1 versus ≥ T2 disease?
+**B,** Question 2 asked, can clinical staging identify category ≤ T1 versus ≥ T2 disease? Ellipse around point estimates represents 95% CI region.
+
+
+**B**
+
+
+
+
+
+
+
+
+
+
+
+
+
+**A**
+
+**Fig. 4—** Graphs for question 3 (Q3), which asked, can MRI identify T3 disease?
+**A,** Forest plots show sensitivity and specificity with 95% CIs and *I* [2] statistics for Q3. Dashed lines indicate overall meta-analyzed measure of effect, boxes with
+dots represent point estimates of sensitivity and specificity for each corresponding individual study, whiskers represent 95% CIs for sensitivity and specificity of
+corresponding individual study, and diamonds at combined results represents pooled estimate of sensitivity and specificity with associated 95% CI (widest point of
+diamond). ID = identification, *Q* = Cochrane *Q* .
+**(Fig. 4 continues on next page)**
+
+AJR:219, July 2022 **35**
+
+**Krishna et al.**
+
+
+
+**Fig. 4 (continued)—** Graphs for question 3 (Q3), which asked, can MRI identify T3
+disease?
+**B,** Summary ROC (SROC) plot shows bivariate meta-analysis for Q3. Ellipse around
+point estimates represents 95% CI region. SENS = sensitivity, SPEC = specificity.
+
+
+
+
+
+
+**B**
+
+
+
+
+
+
+
+
+
+
+
+**A**
+
+**Fig. 5—** Summary ROC (SROC) plots. SENS = sensitivity, SPEC = specificity.
+**A** and **B,** SROC plots show accuracy of MRI with artificial erection ( **A** ) and MRI without artificial erection ( **B** ).
+
+
+**B**
+
+
+**36** AJR:219, July 2022
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

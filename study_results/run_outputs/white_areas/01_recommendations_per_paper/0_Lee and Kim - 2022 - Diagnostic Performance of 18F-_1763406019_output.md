@@ -1,0 +1,7 @@
+Based on a thorough review of the provided scientific paper, "Diagnostic Performance of 18F-FDG PET/CT for Lymph Node Staging in Penile Cancer," only one explicit treatment recommendation is stated. The paper's primary focus is on evaluating a diagnostic modality, not on providing comprehensive treatment guidelines.
+
+The single recommendation found is detailed in the table below.
+
+| Aspect of Care              | Recommendation                                                                                                                                                                                                                                                                                                 |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lymph Node Management**   | **Specific Clinical Indication:** Penile cancer (PeCA) patients with palpable lymph nodes (LNs).<br><br>**Treatment Modality:** The standard treatment option is a bilateral inguinal lymphadenectomy.<br><br>**Additional Clinical Clarification:** This recommendation specifically applies to patients with palpable (as opposed to non-palpable) lymph nodes. |

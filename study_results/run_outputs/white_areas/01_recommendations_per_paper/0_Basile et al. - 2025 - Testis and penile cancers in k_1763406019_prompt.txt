@@ -1,0 +1,1386 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Actas Urológicas [Españolas](https://doi.org/10.1016/j.acuroe.2025.501683) 49 (2025) 501683
+# **Actas Urol´ogicas Espa˜nolas**
+
+[www.elsevier.es/actasuro](http://www.elsevier.es/actasuro)
+
+
+REVIEW ARTICLE
+
+## **Testis and cancers in** **penile kidney transplant** **recipients: A systematic review of epidemiology,** **treatment and outcomes**
+
+## **Testis**
+
+## **treatment options and oncological outcomes by the** **EAU-YAU Penile and Testis Cancer Working Group**
+
+## **options**
+
+
+**G.** **Basile** **[a][,][∗]** **,** **G.** **Fallara** **[b]** **,** **M.** **Bandini** **[a]** **,** **W.** **Cazzaniga** **[c]** **,** **F.** **Negri** **[a]** **,** **L.** **Dieguez** **[d]** **,**
+**F.** **Montorsi** **[a]** **,** **A.** **Salonia** **[a]** **,** **A.** **Breda** **[d]** **,** **C.** **Fankhauser** **[e]** **,** **A.** **Territo** **[d]**
+
+a *Departamento* *de* *Urología,* *Instituto* *de* *Investigación* *Urológica,* *Instituto* *Científico* *San* *Raffaele,* *Milán,* *Italy*
+b *División* *de* *Urología,* *Instituto* *Europeo* *de* *Oncología* *IRCCS,* *Milán,* *Italy*
+c *The* *Royal* *Marsden* *NHS* *Foundation* *Trust,* *Londres,* *United* *Kingdom*
+d *Servicio* *de* *Urología,* *Fundación* *Puigvert,* *Universidad* *Autónoma* *de* *Barcelona,* *Barcelona,* *Spain*
+e *Luzerner* *Kantonsspital,* *Lucerna,* *Switzerland*
+
+
+Received
+
+
+Received 4 September 2024; accepted 3 October 2024
+
+Available online 12 2025
+
+
+online 12 February 2025
+
+
+**KEYWORDS**
+
+Penile cancer;
+Testis cancer;
+
+Kidney transplant
+
+
+**Abstract**
+
+*Introduction:* Kidney transplant (KT) recipients are at an elevated risk of developing de novo
+cancers. However, penile (PeCa) and testis cancers have received limited attention in this
+
+setting.
+*Objective:* To summarize the epidemiology, treatment options, and oncological outcomes of
+
+penile and testis cancer in KT recipients.
+
+
+penile and testis cancer in KT recipients.
+
+*Evidence* We conducted a
+
+
+*Evidence* *acquisition:* We conducted a systematic review of prospective, retrospective and
+
+national transplant registries studies published up to December 2023. Data on the incidence
+of penile and testis cancers among KT recipients, diagnostic protocols, screening recommen
+dations, and therapeutic strategies tailored for KT recipients were collected. The risk of bias
+
+(RoB) of included studies was determined using the Newcastle and Ottawa scale.
+*Evidence* *synthesis:* Overall, 21 studies involving 67924 KT male recipients were included. PeCa
+
+was diagnosed in 33 patients, yielding an incidence ranging from 0.04% to 0.3%. Additionally, 67
+
+cases of testicular cancer were recorded, with an incidence ranging from 0.03% to 0.55%. Most
+
+tumors were localized, and histology variants were uncommon. While the surgical treatment
+
+of the primary tumor remains consistent with that of the general population, the use of radio
+therapy and cytotoxic treatments are less frequently reported in this setting. These therapies
+
+should be considered on an individualized basis to minimize the risk of
+
+
+be considered on an individualized basis to minimize the risk of graft injury.
+
+
+DOI of original article: [https://doi.org/10.1016/j.acuro.2025.501683](https://doi.org/10.1016/j.acuro.2025.501683)
+∗ Corresponding author.
+*E-mail* *addresses:* [basile.giuseppe@hsr.it,](mailto:basile.giuseppe@hsr.it) [g.basile0984@gmail.com](mailto:g.basile0984@gmail.com) (G. Basile).
+
+[https://doi.org/10.1016/j.acuroe.2025.501683](https://doi.org/10.1016/j.acuroe.2025.501683)
+2173-5786/© 2025 AEU. Published by Elsevier Espa˜na, S.L.U. All rights are reserved, including those for text and data mining, AI training,
+and similar technologies.
+
+G. Basile, G. Fallara, M. Bandini et al.
+
+
+*Conclusions:* Penile and testis cancers are relatively uncommon among KT recipients. General
+screening protocols and deviation from current treatment guidelines are not recommended in
+
+localized diseases. Given the risk of graft damage, any non-cytotoxic option should be preferred
+
+in advanced cases.
+
+
+in locally advanced cases.
+
+© 2025 AEU. Published
+
+
+© 2025 AEU. Published by Elsevier Espa˜na, S.L.U. All rights are reserved, including those for
+
+text and data AI and similar
+
+
+and data mining, AI training, and similar technologies.
+
+
+**PALABRAS** **CLAVE**
+
+Cáncer de pene;
+Cáncer de testículo;
+
+Trasplante renal
+
+
+**Cáncer** **de** **pene** **y** **testículo** **en** **receptores** **de** **trasplante** **renal:** **revisión** **sistemática**
+**sobre** **la** **epidemiología,** **las** **opciones** **de** **tratamiento** **y** **los** **resultados** **oncológicos**
+
+**realizada** **por** **el** **grupo** **de** **trabajo** **de** **cáncer** **de** **pene** **y** **testículo** **de** **la** **Asociación**
+**Europea** **de** **Urología** **(EAU-YAU)**
+
+
+**Resumen**
+
+*Introducción:* Aunque los receptores de trasplante renal tienen un riesgo elevado de desarrollar
+cáncer *de* *novo*, los cánceres de pene (CaPe) y de testículo apenas han sido estudiados en este
+
+contexto.
+*Objetivo:* Resumir la epidemiología, las opciones de tratamiento y los resultados oncológicos
+
+del cáncer de testículo en de TR.
+
+
+del cáncer de pene y testículo en receptores de TR.
+
+*Adquisición* *de* *la* *evidencia:* Se realizó una revisión
+
+
+*Adquisición* *de* *la* *evidencia:* Se realizó una revisión sistemática de estudios prospectivos, ret
+rospectivos y de registros nacionales de trasplantes publicados hasta diciembre de 2023. Se
+
+recopilaron datos sobre la incidencia del cáncer de pene y el cáncer de testículo entre los
+
+receptores de TR, los protocolos de diagnóstico, las recomendaciones para el cribado y las
+
+estrategias terapéuticas adaptadas a los receptores de TR. El riesgo de sesgo (RoB) de los
+
+estudios incluidos se determinó mediante la escala Newcastle-Ottawa.
+
+*Síntesis* *de* *la* *evidencia:* En total, se incluyeron 21 estudios con 67924 receptores de TR de sexo
+
+masculino. Se diagnosticó CaPe en 33 pacientes, con una incidencia de entre el 0,04% y el 0,3%.
+
+Hubo 67 casos registrados de cáncer testicular, con una incidencia de entre el 0,03% y el 0,55%.
+
+La mayoría de los tumores estaban localizados y las variantes histológicas eran infrecuentes.
+Si bien el tratamiento quirúrgico del tumor primario en pacientes con TR es el mismo que el
+
+de la población general, el uso de radioterapia y tratamientos citotóxicos es menos frecuente
+
+en este contexto. Estas terapias deben considerarse de forma individualizada para minimizar
+
+el de lesión del
+
+
+el riesgo de lesión del injerto.
+
+*Conclusiones:* El cáncer de
+
+
+*Conclusiones:* El cáncer de pene y testículo es relativamente infrecuente entre receptores de
+
+TR. En el caso de enfermedad localizada no se recomiendan los protocolos generales de cribado
+
+ni las desviaciones de las pautas actuales de tratamiento. En los casos localmente avanzados
+deberían priorizarse las opciones no citotóxicas, dado el riesgo de da˜no del injerto.
+
+© 2025 AEU. Publicado por Elsevier España, S.L.U. Se reservan todos los derechos, incluidos
+los de minería de texto y datos, entrenamiento de IA y tecnologías similares.
+
+
+En el
+
+
+**Introduction**
+
+
+Kidney
+
+
+Kidney transplant (KT) is the preferred treatment option in
+
+patients diagnosed with end-stage renal disease (ESRD) due
+to significant enhancements in both survival rates and qual
+ity of life compared to dialysis. [1] Although both grafts and
+recipients’ outcomes have improved dramatically over time
+due to advances in immunosuppression therapies and refined
+
+surgical procedures, [2] KT recipients still face significant chal
+lenges, with cardiovascular disease and de-novo cancers
+
+emerging as primary sources of morbidity and mortality. [3]
+
+Registry analyses have reported a cancer incidence of twoto fourfold higher in solid organ recipients than the age
+and gender-matched individuals in the general population,
+with a cumulative incidence of newly diagnosed cancers
+
+increasing from 5% after 5 years to >25% after 20 years
+
+of [4,5] Decreased immunosurveillance, acti
+
+a
+
+
+transplantation. [4,5] Decreased immunosurveillance, acti
+
+vation of oncogenic viruses, and chronic stimulation of the
+immune system have been considered as the main drivers
+
+of carcinogenesis in transplanted patients, however, additional contributing factors may include underlying medical
+conditions or medication toxicity. [6] Moreover, the increased
+
+cancer-related mortality reported in this high-risk popula
+tion has been associated with differences in the timing of
+clinical presentation, tumor biology, and/or availability of
+
+treatments compared to the general population. Genitouri
+nary (GU) tumors are the third most frequent cancers in KT
+recipients, with an incidence ranging from 0.4% to 5.5%. [7]
+
+Data on other urological cancers such as kidney, urothelial,
+and prostate cancers have been more frequently reported,
+offering relevant information to healthcare providers on
+
+available treatment options and related outcomes, con
+versely, the impact of rare GU tumors, such as penile and
+testis cancer remains controversial and sparsely reported. [8]
+
+
+2
+
+Actas Uroló g icas Es p añolas 49 ( 2025 ) 501683
+
+
+Thus, a clear understanding of the pattern of these cancers’
+development, outcomes, and treatment options is required
+
+in this high-risk population. This review aims to provide an
+
+overview of epidemiology, treatment options, and oncolog
+ical outcomes of KT recipients diagnosed with penile and
+testis cancers and address possible prevention strategies
+
+tailored to this vulnerable population.
+
+**Evidence** **acquisition**
+
+**Search** **strategy**
+
+
+**Data** **analysis**
+
+
+We conducted a systematic review in line with the
+Preferred Reporting Items for Systematic Reviews and
+Meta-analyses (PRISMA) guidelines. This protocol was
+
+registered in the International Prospective Register of
+
+Systematic Reviews (PROSPERO) database (Registration
+
+Number: CRD42022327568). The PubMed, EMBASE and Scopus databases were searched for studies indexed up to
+
+December 2023. The search strategy used the combination
+
+of the following terms grouped according to the Boolean
+operators (AND, OR, NOT): penile cancer, penis tumor, tes
+ticular cancer, testis tumor, kidney transplantation, kidney
+
+transplant, and renal transplantation. A full search strategy is provided in Appendix A (Supplementary material).
+
+The titles and abstracts of the manuscripts obtained from
+the search were used to screen for initial study inclusion.
+Full-text review was performed when the abstract was insufficient to determine study inclusion. Reference lists of the
+
+included studies were hand-searched for completeness and
+if a study was suitable for inclusion, it was included in
+our systematic review. Retrospective or prospective studies
+were included. Two authors completed the study selection
+
+independently (G.B., A.T.). Potential disagreements were
+resolved by a third co-author (F.N.).
+
+**Study** **inclusion**
+
+
+The risk of bias (RoB) was determined using the Newcastle
+and Ottawa scale for non-randomized studies independently
+by two authors (G.B; A.T.). Studies scored ≥ 7 were consid
+ered of high-quality, 4---6 moderate quality, and < 4 poor
+quality. Only a qualitative synthesis of the included studies
+was possible given the a priori expected high inconsistency
+
+of data and the lack of comparative studies that hindered
+any quantitative meta-analysis.
+
+**Evidence** **synthesis**
+
+**Study** **selection** **and** **characteristics**
+
+Of 814 articles identified, 21 were eligible according to our
+inclusion criteria, involving 86704 KT recipients (Fig. 1 --Prisma flow chart). The oldest study was published in 1986
+
+and the most recent in 2022. There were 6 national trans
+plant registries studies included, while the remnant studies
+
+were retrospective.
+
+**Risk** **of** **bias**
+
+
+Quality and RoB assessment are summarized in Supplementary eTable 1. Three studies (14%) were assessed as having a
+low RoB, seventeen (81%) an intermediate risk and one study
+
+(5%) had a high RoB.
+
+**Penile** **cancer**
+
+Overall, seven studies reported data on PeCa incidence and
+outcomes in a total of 38713 KT recipients (Table 1). [9---15]
+
+
+Of
+
+
+Studies were deemed eligible if they included renal transplant recipients in prospective and retrospective studies and
+
+national transplant registries. Reviews, meta-analyses, editorials, commentaries, authors’ replies, meeting abstracts
+
+of unpublished studies and case reports were excluded, but
+
+the reference section was checked not to omit relevant arti
+cles. No restriction on the publication date was applied. Only
+articles in English were evaluated for eligibility.
+
+**Data** **extraction**
+
+Data were collected according to predefined variables which
+included the year of publication, first author’ name; study
+
+period; study design; number of included recipients; time
+from KT to tumor diagnosis; histology of the tumor; clinical
+
+stage; tumor treatment; recurrence and progression rates,
+
+cancer-specific mortality rates and duration of follow-up. All
+time-dependent outcomes were collected at the last follow
+up available.
+
+
+Of these, 23766 (61.4%) were men who developed 33 PeCa
+
+cases with an incidence ranging from 0.04% to 0.3% among
+included studies. All tumors were organ-confined except one
+case harboring regional lymph node involvement at diagno
+sis. Time from KT to PeCa diagnosis was reported in 3 studies
+
+and ranged from 3 mo to 18.7 years. Three studies reported
+
+data on tumor histology. The majority were squamous cell
+
+carcinomas, while one case of well-differentiated epider
+moid carcinoma was also diagnosed. Only Reinholdt et al.
+provided data on the risk of PeCa development in KT recipi
+ents vs. the general population with an age-adjusted hazard
+
+ratio of 9.5 (95% CI 4.1---22.3) and an increased risk of grade
+2---3 penile intraepithelial neoplasia (PeIN) (HR 21.9, 95% CI
+
+11.1---43.5). [11] Two studies reported data on oncological outcomes of PeCa after treatment. Penn et al. reported the
+
+outcomes of 4 patients of which two were treated with wide
+
+local excision of the tumor, one with partial penectomy and
+
+one case required partial penectomy with inguinal lymph
+
+node dissection as primary treatment. Of these, only one
+cancer-related death was recorded. [14] Conversely, Antunes
+
+et al. reported a case of a well-differentiated epidermoid
+carcinoma treated with glansectomy that was disease-free
+
+at 34 mo [10]
+
+
+34 mo follow-up. [10]
+
+
+3
+
+**Table** **1** Epidemiology, histopathological, treatment and oncological outcomes of penile carcinoma in kidney transplant recipients.
+
+
+First Author Study design Study period Country Total N.
+of recipi
+ents
+
+
+Male
+
+recipi
+ents
+
+
+Incidence Time to
+
+diagnosis
+from KT
+
+
+N. of
+
+penile
+
+cancers
+
+
+Histology
+
+
+Clinical Treatment Follow- Recurrence/ Cancer
+stage up Progresion specific
+mortality
+
+
+Besarani 2007 Nationwide 1999---2006
+
+cohort study
+
+
+UK 10847 6685 10 0.15 NA NA NA NA NA NA NA
+
+
+Kim JH 2014 Retrospective 1989---2009 Korea 2365 1443 1 0.07 NA NA NA NA NA NA NA
+
+Penn I 1986 1985 US 2150 1373 4 0.3 NA SCC cN0 WLE NA 1/4 1/4
+
+
+Kim
+
+
+I 1986 Retrospective 1985 US 2150 1373 4 0.3 NA SCC [-]3 cN0
+
+                                                                       
+
+
+[-]2 WLE
+
+
+
+- 1 PP
+
+
+
+cN0 [-]2
+
+1 cN+ - 1
+
+
+NA
+
+
+1/4 1/4
+
+
+1
+
+PP
+
+
++ ILND
+
+
+Vajdic 2006 Nationwide 1982---2003
+cohort study
+
+
+Australia
+
+and New
+
+Zeland
+
+
+10180
+
+
+5966 6 0.1 11.4 NA
+
+(7.3) yrs
+
+
+NA NA NA NA NA
+
+
+cN0 [-]1 PP 34 mo 0 0
+
+
+Antunes 2018 Retrospective 1987---2016 Portugal 2729 1910 1 0.04 3 mo Well-diff
+epidermoid
+
+carci
+noma
+
+
+
+[-]1
+
+
+Reinholdt
+
+
+1990---2015
+
+study
+
+
+2019 Nationwide
+
+cohort
+
+
+Denmark 4270 2673 6 0.2 NA NA NA NA NA NA NA
+
+
+Jiang 2020 Retrospective 1984---2019 US 6172 3716 5 0.13 6.27
+
+(5.69)
+
+
+SCC
+
+yrs
+
+
+NA NA NA NA NA
+
+
+ILND: inguinal lymph node dissection; KT: kidney transplant; PP: partial penectomy; SCC: squamous cell carcinoma.
+
+**Table** **2** Epidemiology, histopathological, treatment and oncological outcomes of testis carcinoma in kidney transplant recipients.
+
+
+First Author Study design Study period Country Total N.
+of recipi
+ents
+
+
+Male
+
+recipi
+ents
+
+
+Inci- Time to
+
+dence diagnosis
+from KT
+
+
+N. of
+
+testis
+
+cancers
+
+
+Clinical Treatment Follow-up Recurrence/ Cancerstage Progresion specific
+mortality
+
+
+Histology
+
+
+Aoki 2021 Retrospective 1975---2009 Japan 375 212 1 0.5 29.8 yrs NA NA NA 15.2 0
+(10.6---29.6) yrs
+
+
+0
+
+
+2007 Nationwide
+
+cohort
+
+
+UK 10847 6685 28 0.4 NA NA NA NA NA NA NA
+
+
+Australia
+
+and New
+
+Zeland
+
+
+Besarani
+
+
+1999---2006
+
+study
+
+1982---2003
+
+study
+
+
+Vajdic
+
+
+2006 Nationwide
+
+cohort
+
+
+NA
+
+yrs
+
+GCC
+
+yrs
+
+
+10180
+
+
+5966 4 0.07 8.5
+
+(4.3)
+
+
+NA NA NA NA NA
+
+
+
+[-]1
+cN0/1
+
+cN+
+
+
+
+[-]1
+orchidectomy
+
+
+
+1 orchidec
+tomy + CHT
+
+
+Diller 2005 Retrospective 1979---2001 Germany 1804 1262 2 0.15 0.7
+
+(0.4)
+
+
+NA
+
+
+0 0
+
+
++ CHT
+
+
+Einollahi 2009 Retrospective 1984---2008 Iran 5532 3310 1 0.03 NA GCC [-]1 cN0 [-]1 NA 0 0
+orchidectomy
+
+
+et al. Nationwide
+
+2022 cohort
+
+
+Korea 12634 8310 4 0.05 1.59 NA
+
+(0.41---2.49) yrs
+
+
+Jung
+
+
+NA NA NA NA NA
+
+
+Hall
+
+
+2007---2017
+
+study
+
+1987---2008
+
+study
+
+
+US 318 181 1 0.55 3.6 yrs GCC NA NA NA NA NA
+
+
+2013 Nationwide
+
+cohort
+
+
+Kim JH 2014 Retrospective 1989---2009 Korea 2365 1443 1 0.07 NA NA NA NA NA NA NA
+
+Lizakowski Retrospective 1995---2015 Poland 3069 1842 3 0.2 47 GCC NA NA NA 0 0
+2018 mo
+
+
+Kim
+
+
+1995---2015 Poland 3069 1842 3 0.2 47
+
+(34)
+
+
+GCC
+
+mo
+
+
+NA NA NA 0 0
+
+
+Melchior
+
+
+orchidec- 54
+
++ RT
+
+
+mo 0 0
+
+
+2010 Retrospective 1988---2009 Germany 802 471 2 0.4 78 mo GCC [-]2 cN0 [-]2 orchidectomy + RT
+
+
+Nafar
+
+
+Nafar 2005 Retrospective 1984---2004 Iran 2117 1270 1 0.08 35 mo GCC NA NA 38 mo 0 0
+
+Piselli 2012 Nationwide 1997---2009 7217 4633 5 0.1 NA NA NA NA NA NA
+
+
+2012 Nationwide
+
+cohort
+
+
+1997---2009
+
+study
+
+
+Italy 7217 4633 5 0.1 NA NA NA NA NA NA NA
+
+
+Popov 2007 Retrospective 1994---2007 Macedonia 185 111 1 0.9 NA GCC NA NA NA NA NA
+
+Tsaur 2010 1979---2009 1990 1250 2 0.2 60.5 GCC NA ochidec- 42 mo 1/2 1/2
+
+
+Popov
+
+
+2010 Retrospective 1979---2009 Germany 1990 1250 2 0.2 60.5
+(37.5)
+
+
+GCC
+
+mo
+
+
+NA [-]1 ochidectomy + CHT
+
+
+tomy + CHT
+
+
+
+42
+
+
+mo 1/2 1/2
+
+
+1 orchidec
+tomy
+
+
+Wisgerhof
+
+
+Wisgerhof 2011 Retrospective 1966---2006 Netherlands1906 1175 3 0.3 NA NA NA NA NA NA 2/3
+
+Yunus 2012 1986---2008 Pakistan 1816 1089 1 0.09 68 GCC NA NA NA NA NA
+
+
+2012 Retrospective 1986---2008 Pakistan 1816 1089 1 0.09 68
+(47)
+
+
+GCC
+
+mo
+
+
+NA NA NA NA NA
+
+
+Zavos 2015 Retrospective 1983---2013 Greece 2054 1232 1 0.08 96.4 mo GCC NA NA NA NA NA
+
+Jiang 2020 Retrospective 1984---2019 US 6172 3716 6 0.2 6.27 NA NA NA NA NA NA
+(5.69) yrs
+
+
+Zavos
+
+
+NA
+
+yrs
+
+
+NA NA NA NA NA
+
+
+GCC: germ cell carcinoma; CHT: chemotherapy; RT: radiotherapy.
+
+G. Basile, G. Fallara, M. Bandini et al.
+
+**Figure** **1** Prisma Flow Chart - Study Selection with inclusion and exclusion criteria of the reviewed studies.
+
+
+**Testis** **cancer**
+
+
+Overall, eighteen studies reported data on testis cancer
+incidence and outcomes in a total of 71383 KT recipi
+ents (Table 2). [9,12,13,15---29] Of these, 44158 (61.8%) were men
+
+who developed 67 testis cancers with an incidence ranging
+from 0.03% to 0.55% with a Standardized Incidence Ratio
+
+(SIR) of 4.1 (95% CI 1.3---9.6, p-value <0.05) reported in
+
+the study by Piselli et al. Eleven studies reported data
+on the time from KT to tumor diagnosis that ranged from
+
+3 mo to 29.8 years. Ten studies reported data on tumor
+
+histology, with all cases being germ cell carcinomas. Of
+
+these, most cases were organ-confined and required radical
+
+orchidectomy as primary treatment, with only two harboring
+
+metastatic disease at diagnosis. Only three cases required
+
+adjuvant treatment. Notably, Diller et al. reported the case
+
+of a patient who underwent systemic chemotherapy and lost
+
+the graft because of treatment toxicity. [17] Similarly, Tsaur
+et al. effectively used cisplatin-based chemotherapy with
+out any deterioration of the kidney graft function. [26] Finally,
+
+
+Melchior et al. reported the use of adjuvant radiotherapy
+of the paraaortic/caval region in two cases. None of these
+
+cases experienced tumor relapse at the last follow-up. [22]
+
+Three cancer-related deaths were recorded.
+
+**Discussion**
+
+
+The significance of cancer development among KT recipients has long been underestimated, with graft survival
+
+and cardiovascular diseases traditionally considered the pri
+mary drivers of morbidity and mortality in these patients. [1]
+
+However, as graft survival rates have improved and both
+donors and recipients are aging, along with the influences of
+
+immunosuppressive medications and environmental factors,
+
+cancers are currently emerging as a relevant determinant of
+transplanted patients’ morbidity. While several studies have
+
+offered relevant information on the incidence and treat
+ment outcomes of more frequent GU tumors such as kidney,
+
+urothelial, and prostate cancers, the impact of penile and
+
+
+6
+
+Actas Uroló g icas Es p añolas 49 ( 2025 ) 501683
+
+
+testis cancers is sparsely reported in this setting. [30,31] In
+this regard, the European Association of Urology on Kidney
+Transplantation, Penile, and Testis cancer guidelines do not
+
+provide any recommendation or refinement in the treatment
+algorithm of these patients. [30,32,33] Thus, the data provided
+
+in this study may help to shed light on the actual incidence,
+treatment options, and burden derived from these tumors
+
+in the KT recipient population.
+According to our findings, penile and testis cancers are
+
+rare diseases among KT recipients, with incidence rates
+comparable to those observed in the general population.
+In this regard, while registry studies observed that renal
+
+graft recipients have an increased risk of developing de
+novo penile and testis cancer two to fourfold higher com
+pared with the general population, [11,13] other observational
+studies reported no increased risk. [9] Such variability in incidence estimates may be related to several factors. First,
+
+the transplant population usually undergoes rigorous clinical
+monitoring and screening, including routine laboratory tests
+
+and imaging, which may contribute to higher cancer detection rates and prompt treatment of precancerous lesions,
+
+as for PeCa. However, discrepancies in follow-up strategies
+
+across countries can lead to differences in tumors incidence
+
+and time to diagnosis. Second, while observational studies
+
+are generally too small to compare cancer rates after transplantation with those in the general population, a major
+
+limitation of registry studies is the relatively short followup that may inconsistently report events that occur late
+
+after transplantation. In this regard, the primary strength
+of this study lies in its integration of data sourced from both
+registries and observational studies with relatively large
+
+follow-ups. This approach offers a more comprehensive perspective, potentially providing a more accurate depiction of
+
+the incidence of these tumors in KT recipients. Furthermore,
+
+this study serves as a faithful reflection of global incidence
+trends, given that the included studies span different con
+tinents.
+
+Our study also highlights important findings regarding risk
+
+factors associated with penile and testis cancer develop
+ment in KT recipients. Prolonged immunosuppression has
+
+been considered one of the most relevant risk factors since
+
+transplanted patients were found at a higher risk of cancer
+development compared to those in dialysis. In this regard,
+inflammatory skin diseases such as lichen planus, phimosis,
+
+balanitis, and genital warts are common risk factors for PeCa
+
+development in the general population, however, immunosuppressive therapy may increase the incidence of such
+inflammatory skin diseases in the KT population. Indeed,
+
+Grulich and colleagues reported that although the HPV sub
+types detected in the KT recipients were similar to those
+described in immunocompetent population, immunodefi
+ciency is an important risk factor for de novo appearance
+
+of HPV-related malignancies such as PeCa (OR 15.79, CI
+5.79---34.4). [34] Consequently, quadrivalent HPV vaccines have
+been tested in this group of patients. Although an adequate
+
+response has been reported, a suboptimal immune response
+has been recorded after 12 mo, suggesting that KT patients
+
+should complete vaccination before transplant to achieve a
+higher antibody response. [35]
+
+Regarding histological data, all reported cases exhibited
+common histologies, with squamous cell carcinoma (SCC)
+
+being the most frequent in PeCa and germ cell carcinoma
+
+
+(GCC) in testicular cancer. [18,26,36] Notably, Reinholdt et al.
+also found that grade 2---3 penile intraepithelial neoplasia
+(PeIN) are more frequent (HR 21.9, 95% CI 11.1---43.5) in
+
+comparison to non-transplanted patients. [11] Conversely, the
+
+evidence regarding non-seminomatous germ cell tumors and
+
+testicular lymphoma in the setting of KT is scarce and limited
+to a few cases. [37,38]
+
+Finally, in terms of clinical characteristics, most tumors
+were localized, with a minority (1/33 PeCa and 3/67 testis
+cancers) presenting as locally advanced at the time of
+
+diagnosis. These findings hold significance as they influ
+ence potential treatment approaches. While the surgical
+
+treatment of primary tumors remains consistent with that
+
+of the general population for both penile and testis cancers, the management of locally advanced cases may
+differ because of the graft. [32,33,39] Specifically, while inguinal
+
+nodal disease doesn’t pose added risks for transplanted
+
+patients with PeCa, the management of testis cancer
+with abdominal/retroperitoneal diseases does. Prophylac
+tic radiotherapy to retroperitoneal nodes or retroperitoneal
+
+lymphnode dissection for treatment of disseminated seminoma can present a problem with injury to pelvic kidney
+
+grafts and the development of radiotherapy-induced nephri
+tis. Nevertheless, Melchior et al. reported a safe use of
+adjuvant radiotherapy of the paraaortic/caval region in two
+
+testis cancer cases, with no tumor relapse at the last followup. However, chemotherapy has been reported as a safer
+
+option in such cases. A few reports described the use of
+
+chemotherapy in transplant recipients for the management
+of metastatic diseases. Vogelzang et al. and Tsaur et al.
+effectively used cisplatin-based chemotherapy without any
+deterioration of the kidney graft function in two different
+
+cases. [26,40] Conversely, Diller et al. reported the case of a
+patient who underwent systemic chemotherapy and lost the
+graft because of treatment toxicity.
+This study is not devoid of limitations. Specifically, the
+assessment of the quality of the included studies revealed
+
+that the risk of bias was moderate-high, so definitive recommendations cannot be drawn from our systematic review and
+all the reported data should be read in light of this scientific
+
+weakness. Moreover, the absence of detailed data regarding
+the types of immunosuppressants used hinders our ability
+to draw definitive conclusions regarding the potential risks
+
+associated with chronic immunosuppressive therapy. Finally,
+
+the lack of information on cancer risk before transplant, particularly during the dialysis period, represents a drawback of
+
+this study, since uncertainty exists as to the quantification of
+
+the increased cancer risk attributable to immunosuppression
+
+--- in contrast with risk factors
+
+
+a few cases. [37,38]
+
+
+contrast with pre-existing risk factors
+
+
+antibody response. [35]
+
+
+Regarding histological data, all reported cases exhibited
+common with cell carcinoma
+
+
+**Conclusions**
+
+The escalating incidence of cancers among transplant
+recipients has prompted healthcare professionals and policymakers to address the development of screening and
+
+treatment strategies tailored to this vulnerable population.
+According to our study, owing to a lack of direct evidence
+
+and the low incidence of penile and testis cancers in kidney
+
+transplant recipients, general screening protocols are currently not recommended in this setting. There is insufficient
+
+data to guide clinicians to deviate from current treatment
+
+
+7
+
+G. Basile, G. Fallara, M. Bandini et al.
+
+
+guidelines in penile and testis cancer. Still, given the risk
+of graft damage, especially in locally-advanced cases, any
+
+non-cytotoxic option should be preferred.
+
+**Funding**
+
+None.
+
+**Appendix** **A.** **Supplementary** **data**
+
+Supplementary material related to this article can be
+found, in the online version, at [doi:https://doi.org/10](https://doi.org/10.1016/j.acuroe.2025.501683)
+
+[.1016/j.acuroe.2025.501683.](https://doi.org/10.1016/j.acuroe.2025.501683)
+
+**Declaration** **of** **competing** **interest**
+
+None.
+
+**References**
+
+
+12. Jiang S, Regmi S, Jackson S, Calvert C, Jarosek S, Pruett T,
+et al. Risk of genitourinary malignancy in the renal transplant patient. Urology. 2020;145:152---8, http://dx.doi.org/10
+.1016/J.UROLOGY.2020.06.077.
+
+13. Vajdic CM, McDonald SP, McCredie MRE, van Leeuwen
+MT, Stewart JH, Law M, et al. Cancer incidence before
+and after kidney transplantation. JAMA. 2006;296:2823---31,
+http://dx.doi.org/10.1001/JAMA.296.23.2823.
+14. Cancers of the anogenital region in renal transplant recipients.
+Analysis of 65 cases   - PubMed. [Accessed May 4, 2024]. Available
+from: [https://pubmed.ncbi.nlm.nih.gov/3524788/.](https://pubmed.ncbi.nlm.nih.gov/3524788/)
+
+15. Kim JH, Kim SO, Han DJ, Park SK. Post-transplant malignancy: a burdensome complication in renal allograft
+recipients in Korea. Clin Transplant. 2014;28:434---42,
+http://dx.doi.org/10.1111/CTR.12328.
+16. Aoki Y, Satoh H, Hamasaki Y, Hamada R, Harada R, Hataya
+H, et al. Incidence of malignancy after pediatric kidney
+transplantation: a single-center experience over the past
+three decades in Japan. Clin Exp Nephrol. 2022;26:294---302,
+http://dx.doi.org/10.1007/S10157-021-02143-3.
+17. Diller R, Gruber A, Wolters H, Senninger N, Spiegel HU. Therapy and prognosis of tumors of the genitourinary tract after
+kidney transplantation. Transplant Proc. 2005;37:2089---92,
+http://dx.doi.org/10.1016/J.TRANSPROCEED.2005.03.061.
+18. Einollahi B, Simforoosh N, Lessan-Pezeshki M, Basiri A,
+
+
+1. Hariharan S, Israni AK, Danovitch G. Long-term survival
+after kidney transplantation. N Engl J Med. 2021;385:729---43,
+http://dx.doi.org/10.1056/NEJMRA2014530.
+2. Basile G, Pecoraro A, Gallioli A, Territo A, Berquin C, Robalino J.
+Robotic kidney transplantation. Nat Rev Urol. 2024;21:521---33,
+
+http://dx.doi.org/10.1038/S41585-024-00865-Z.
+3. Park B, Yoon J, Choi D, Kim HJ, Jung YK, Kwon OJ, et al.
+
+De novo cancer incidence after kidney and liver transplantation: results from a nationwide population based
+data. Sci Rep. 2019;9(1):17202, http://dx.doi.org/10.
+1038/S41598-019-53163-9.
+
+4. Butler AM, Olshan AF, Kshirsagar AV, Edwards JK, Nielsen
+ME, Wheeler SB, et al. Cancer incidence among US
+Medicare ESRD patients receiving hemodialysis, 1996-2009.
+Am J Kidney Dis. 2015;65:763---72, http://dx.doi.org/10.
+1053/J.AJKD.2014.12.013.
+
+5. Au EH, Chapman JR, Craig JC, Lim WH, Teixeira-Pinto A, Ullah
+S, et al. Overall and site-specific cancer mortality in patients
+on dialysis and after kidney transplant. J Am Soc Nephrol.
+2019;30:471---80, http://dx.doi.org/10.1681/ASN.2018090906.
+6. Au E, Wong G, Chapman JR. Cancer in kidney transplant recipients. Nat Rev Nephrol. 2018;14:508---20,
+http://dx.doi.org/10.1038/S41581-018-0022-6.
+7. Rodríguez Faba O, Breda A, Gausa L, Palou J,
+Villavicencio H. novo tumors in
+
+
+following kidney transplantation: a multicenter study.
+
+Transplant Proc. 2009;41:2848---9, http://dx.doi.org/10.
+1016/J.TRANSPROCEED.2009.07.056.
+
+19. Jung SW, Lee H, Cha JM. Risk of malignancy in kidney
+transplant recipients: a nationwide population-based cohort
+study. BMC Nephrol. 2022;23(1):160, http://dx.doi.org/10.
+1186/S12882-022-02796-6.
+
+20. Hall EC, Engels EA, Montgomery RA, Segev DL. Cancer
+risk after ABO-incompatible living-donor kidney transplantation. Transplantation. 2013;96:476---9, http://dx.doi.org/10.
+1097/TP.0B013E318299DC0E.
+
+21. Lizakowski S, Kolonko A, Imko-Walczuk B, KomorowskaJagielska K, Rutkowski B, Wiecek A, et al. Solid organ
+cancer and melanoma in kidney transplant recipients: tumorTx
+base preliminary results. Transplant Proc. 2018;50:1881---8,
+http://dx.doi.org/10.1016/J.TRANSPROCEED.2018.02.146.
+22. Melchior S, Franzaring L, Shardan A, Schwenke C,
+Plümpe A, Schnell R, et al. Urological de novo malignancy after kidney transplantation: a case for the
+urologist. J Urol. 2011;185:428---32, http://dx.doi.org/10.
+1016/J.JURO.2010.09.091.
+
+23. Nafar M, Einollahi B, Hemati K, Poor Reza Gholi F,
+Firouzan A. Development of malignancy following living
+donor kidney transplantation. Transplant Proc. 2005;37:3065---7,
+http://dx.doi.org/10.1016/J.TRANSPROCEED.2005.08.011.
+24. Piselli P, Serraino D, Segoloni GP, Sandrini S, Piredda GB,
+
+Scolari MP, et al. Risk of de novo cancers after transplantation: results from a cohort of 7217 kidney transplant
+recipients, Italy 1997-2009. Eur J Cancer. 2013;49:336---44,
+http://dx.doi.org/10.1016/J.EJCA.2012.09.013.
+25. Popov Z, Ivanovski O, Kolevski P, Stankov O, Petrovski D,
+Cakalaroski K, et al. De novo malignancies after renal
+transplantation-a single-center experience in the Balkans.
+Transplant Proc. 2007;39:2589---91, http://dx.doi.org/10
+.1016/J.TRANSPROCEED.2007.08.022.
+
+26. Tsaur I, Karalis A, Probst M, Blaheta RA, Scheuermann
+EH, Gossmann J, et al. Development of urological cancers
+in renal transplant recipients: 30-year experience at the
+Frankfurt Transplant Center. Cancer Sci. 2010;101:2430---5,
+http://dx.doi.org/10.1111/J.1349-7006.2010.01676.X.
+27. Wisgerhof HC, van der Geest LGM, de Fijter JW, Haasnoot GW, Claas FH, le Cessie S, et al. Incidence of
+
+
+Einollahi B, Simforoosh N, Lessan-Pezeshki M, Basiri A,
+
+Nafar M, Pour-Reza Gholi F, et al. Genitourinary tumor
+
+following kidney transplantation: a multicenter study.
+
+
+M, Pour-Reza
+
+
+kidney transplantation.
+
+
+Villavicencio H. [De novo urologic tumors in kidney
+
+transplant patients]. Actas Urol Esp. 2015;39:122---7,
+http://dx.doi.org/10.1016/J.ACURO.2014.05.002.
+8. D’Arcy ME, Castenson D, Lynch CF, Kahn AR, Morton LM,
+Shiels MS, et al. Risk of rare cancers among solid organ
+transplant recipients. J Natl Cancer Inst. 2021;113:199---207,
+http://dx.doi.org/10.1093/JNCI/DJAA078.
+9. Besarani D, Cranston D. Urological malignancy after renal transplantation. BJU Int. 2007;100:502---5, http://dx.doi.org/10.
+1111/J.1464-410X.2007.07049.X.
+
+10. Antunes H, Tavares-da-Silva E, Oliveira R, Carvalho J, Parada
+B, Bastos C, et al. De novo urologic malignancies in
+renal transplant recipients. Transplant Proc. 2018;50:1348---54,
+http://dx.doi.org/10.1016/J.TRANSPROCEED.2018.02.086.
+11. Reinholdt K, Thomsen LT, Dehlendorff C, Larsen HK, Sørensen
+SS, Haedersdal M, et al. Human papillomavirus-related anogenital premalignancies and cancer in renal transplant recipients:
+a Danish nationwide, registry-based cohort study. Int J Cancer.
+2020;146:2413---22, http://dx.doi.org/10.1002/IJC.32565.
+
+
+8
+
+Actas Uroló g icas Es p añolas 49 ( 2025 ) 501683
+
+
+cancer in kidney-transplant recipients: a long-term cohort
+study in a single center. Cancer Epidemiol. 2011;35:105---11,
+http://dx.doi.org/10.1016/J.CANEP.2010.07.002.
+28. Yunus M, Aziz T, Mubarak M. Posttransplant malignancies in
+renal transplant recipients: 22-years experience from a single
+center in Pakistan. Asian Pac J Cancer Prev. 2012;13:575---8,
+http://dx.doi.org/10.7314/APJCP.2012.13.2.575.
+29. De Novo Visceral Malignancies in Renal Transplant Recipients:
+A Single Center Experience of 2054 Recipients for More Than
+30 Years  - PubMed. [Accessed May 4, 2024]. Available from:
+[https://pubmed.ncbi.nlm.nih.gov/26295181/.](https://pubmed.ncbi.nlm.nih.gov/26295181/)
+30. Rodríguez Faba O, Boissier R, Budde K, Figueiredo A, Taylor
+CF, Hevia V, et al. European Association of Urology Guidelines on renal transplantation: update 2018. Eur Urol Focus.
+2018;4:208---15, http://dx.doi.org/10.1016/J.EUF.2018.07.014.
+31. Hevia V, Boissier R, Rodríguez-Faba Ó, Fraser-Taylor C, HassanZakri R, Lledo E, et al. Management of localised prostate cancer
+in kidney transplant patients: a systematic review from the
+EAU guidelines on renal transplantation panel. Eur Urol Focus.
+2018;4:153---62, http://dx.doi.org/10.1016/J.EUF.2018.05.010.
+32. Brouwer OR, Rumble RB, Ayres B, Sánchez Martínez DF, Oliveira
+P, Spiess PE, et al. Penile cancer: EAU-ASCO collaborative
+guidelines update Q and A. JCO Oncol Pract. 2024;20:33---7,
+http://dx.doi.org/10.1200/OP.23.00585.
+33. Patrikidou A, Cazzaniga W, Berney D, Boormans J, de Angst
+I, Di Nardo D. European Association of urology guidelines on
+testicular cancer: 2023 update. Eur Urol. 2023;84:289---301,
+
+http://dx.doi.org/10.1016/J.EURURO.2023.04.010.
+34. Grulich AE, van Leeuwen MT, Falster MO, Vajdic CM. Incidence of cancers in people with HIV/AIDS compared
+
+
+with immunosuppressed transplant recipients: a metaanalysis. Lancet. 2007;370:59---67, http://dx.doi.org/10
+.1016/S0140-6736(07)61050-2.
+35. Krueger KM, Ison MG, Ghossein C. Practical guide to vaccination in all stages of CKD, including patients treated by dialysis
+or kidney transplantation. Am J Kidney Dis. 2020;75:417---25,
+http://dx.doi.org/10.1053/J.AJKD.2019.06.014.
+36. Kasiske BL, Snyder JJ, Gilbertson DT, Wang C. Cancer after kidney transplantation in the United States.
+Am J Transplant. 2004;4:905---13, http://dx.doi.org/10.
+
+1111/J.1600-6143.2004.00450.X.
+
+37. Dean C, Bloomfield D, Holt S. The challenge of germ cell tumour
+therapy in dialysis and transplantation. Nephrol Dial Transplant.
+2005;20:2867---8, http://dx.doi.org/10.1093/NDT/GFI108.
+38. Juric I, Basic-Jukic N. Testicular seminoma occurring after
+kidney transplantation in a patient previously treated for
+Teratoma: de novo malignancy or recurrence in a different histologic form? Transplant Proc. 2016;48:3128---9, http://dx.doi
+.org/10.1016/J.TRANSPROCEED.2016.03.032.
+39. Fallara G, Basile G, Poterek A, Tozzi M, Pang KH, Cakir
+OO, et al. Oncological and functional outcomes of penile
+shaft sparing surgery for localised penile cancer: a systematic review. Eur Urol Focus. 2024, http://dx.doi.org
+/10.1016/J.EUF.2024.05.004, s2405-4569(24)00068-3.
+40. Vogelzang NJ. Cisplatin and etoposide for metastatic testis cancer in a renal transplant recipient. J Urol. 1990;143:1235---6,
+
+http://dx.doi.org/10.1016/S0022-5347(17)40237-0.
+
+
+9
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,3364 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4](https://doi.org/10.1016/j.euros.2022.04.002)
+
+available at www.sciencedirect.com
+
+journal homepage: www.eu-openscience.europeanurology.com
+
+Review – Penile Cancer
+# What Is the Most Effective Management of the Primary Tumor in Men with Invasive Penile Cancer: A Systematic Review of the Available Treatment Options and Their Outcomes
+
+Vasileios I. Sakalis [a][,] [*], Riccardo Campi [b], Lenka Barreto [c], Herney Andres Garcia-Perdomo [d],
+Isabella Greco [e], Łukasz Zapala [f], Mithun Kailavasan [g], Tiago Antunes-Lopes [h], Jack David Marcus [i],
+Kenneth Manzie [j], John Osborne [j], Benjamin Ayres [k], Luc M.F. Moonen [l], Andrea Necchi [m],
+Juanita Crook [n], Pedro Oliveira [o][,][p][,][q], Lance C. Pagliaro [r], Chris Protzel [s], Arie S. Parnham [o],
+Maarten Albersen [t], Curtis A. Pettaway [u], Philippe E. Spiess [v], Scott T. Tagawa [w], R. Bryan Rumble [x],
+Oscar R. Brouwer [y]
+
+a Department of Urology, Agios Pavlos General Hospital, Thessaloniki, Greece; b Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi
+University Hospital, San Luca Nuovo, Florence, Italy; [c] Department of Urology, University Hospital Nitra, Nitra, Slovakia; [d] Division of Urology/Urooncology,
+Department of Surgery, School of Medicine, Universidad Del Valle, Cali, Colombia; [e] Department of Urological Minimally Invasive and Robotic Surgery and
+Kidney Transplantation, Careggi Hospital, University of Florence, Florence, Italy; [f] Department of Urology, Medical University of Warsaw, Warsaw, Poland;
+g Royal Derby Hospital, Derby, UK; h Department of Urology, Hospital de S. João, Porto, Portugal; i Multicancer Fighter Patient Advocate, Us TOO, New York, NY,
+USA; [j] Patient Advocate, ORCHID, UK; [k] Department of Urology, St George’s University Hospitals NHS Foundation Trust, London, UK; [l] Department of
+Radiotherapy, The Netherlands Cancer Institute, Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands; [m] Department of Urology and Medical
+Oncology, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy; [n] University of British Columbia, British Columbia Cancer Agency, Kelowna, British
+Columbia, Canada; [o] Department of Urology, The Christie NHS Foundation Trust, Manchester, UK; [p] Centre for the Research and Technology of AgroEnvironmental and Biological Sciences (CITAB), University of Trás-os-Montes and Alto Douro, UTAD, Vila Real, Portugal; [q] Veterinary Sciences Department,
+University of Trás-os-Montes and Alto Douro, UTAD, Vila Real, Portugal; [r] Department of Oncology, Mayo Clinic, Rochester, MN, USA; [s] Helios Clinics Schwerin,
+Schwerin, Germany; [t] Department of Urology, University Hospitals Leuven, Leuven, Belgium; [u] The University of Texas MD Anderson Cancer Center, Houston,
+TX, USA; [v] Department of Genitourinary Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL, USA; [w] Division of Hematology and Medical
+Oncology, Weill Cornell Medical College, New York, NY, USA; [x] American Society of Clinical Oncology, Alexandria, VA, USA; [y] The Netherlands Cancer Institute,
+Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands
+
+
+Article info
+
+Article history:
+Accepted April 6, 2022
+
+Associate Editor:
+
+M. Carmen Mir
+
+Keywords:
+Penile cancer
+
+Surgery
+
+
+Abstract
+
+Context: The primary lesion in penile cancer is managed by surgery or radiation.
+Surgical options include penile-sparing surgery, amputative surgery, laser excision,
+and Moh’s micrographic surgery. Radiation is applied as external beam radiotherapy (EBRT) and brachytherapy. The treatment aims to completely remove the primary lesion and preserve a sufficient functional penile stump.
+Objective: To assess whether the 5-yr recurrence-free rate and other outcomes,
+such as sexual function, quality of life, urination, and penile preserving length, vary
+between various treatment options.
+
+- Corresponding author. Department of Urology, Agios Pavlos General Hospital, Ethnikis Antistaeos
+161, Kalamaria, Thessaloniki, Greece. Tel. +302313 304 545.
+[E-mail address: vsakkalis@hotmail.com (V.I. Sakalis).](mailto:vsakkalis@hotmail.com)
+
+
+[https://doi.org/10.1016/j.euros.2022.04.002](https://doi.org/10.1016/j.euros.2022.04.002)
+2666-1683/� 2022 The Authors. Published by Elsevier B.V. on behalf of European Association of Urology. This is an open access article
+[under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Penile sparing
+Amputation
+Laser
+Moh’s micrographic surgery
+Brachytherapy
+External beam radiation
+
+Recurrence
+Quality of life
+Sexual function
+Psychological well-being
+
+1. Introduction
+
+
+E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4 59
+
+Evidence acquisition: The EMBASE, MEDLINE, Cochrane Database of Systematic
+Reviews, Cochrane Central Register of Controlled Trials (CENTRAL; Cochrane HTA,
+[DARE, HEED), Google Scholar, and ClinicalTrials.gov were searched for publications](http://ClinicalTrials.gov)
+from 1990 through May 2021. Randomized controlled trials, nonrandomized comparative studies (NRCSs), and case series (CSs) were included.
+Evidence synthesis: The systematic review included 88 studies, involving 9578
+men from 16 NRCSs and 72 CSs. The cumulative mean 5-yr recurrence-free rates
+were 82.0% for penile-sparing surgery, 83.9% for amputative surgery, 78.6% for
+brachytherapy, 55.2% for EBRT, 69.4% for lasers, and 88.2% for Moh’s micrographic
+surgery, as reported from CSs, and 76.7% for penile-sparing surgery and 93.3% for
+amputative surgery, as reported from NRCSs. Penile surgery affects sexual function,
+but amputative surgery causes more appearance concerns. After brachytherapy,
+25% of patients reported sexual dysfunction. Both penile-sparing surgery and
+amputative surgery affect all aspects of psychosocial well-being.
+Conclusions: Despite the poor quality of evidence, data suggest that penile-sparing
+surgery is not inferior to amputative surgery in terms of recurrence rates in
+selected patients. Based on the available information, however, broadly applicable
+recommendations cannot be made; appropriate patient selection accounts for the
+relative success of all the available methods.
+
+Patient summary: We reviewed the evidence of various techniques to treat penile
+tumor and assessed their effectiveness in oncologic control and their functional
+outcomes. Penile-sparing as well as amputative surgery is an effective treatment
+option, but amputative surgery has a negative impact on sexual function. Penilesparing surgery and radiotherapy are associated with a higher risk of local recurrence, but preserve sexual function and quality of life better. Laser and Moh’s
+micrographic surgery could be used for smaller lesions.
+� 2022 The Authors. Published by Elsevier B.V. on behalf of European Association of
+[Urology. This is an open access article under the CC BY-NC-ND license (http://creative-](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+[commons.org/licenses/by-nc-nd/4.0/).](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+Penile cancer is a rare neoplasm representing 1% of male
+cancers [1]. Its peak incidence is in the 6th and 7th decades
+of life, and the most common histologic type is squamous
+cell carcinoma (SCC) [2]. A large epidemiologic study
+revealed that 65.4% of penile cancer cases are diagnosed
+as localized, 26.5% as regional, and 3.5% as distant disease
+
+[3]. Penile cancer patients should receive treatment for
+the primary tumor and lymph node disease burden. Most
+penile primary tumors are located on the glans and prepuce,
+and are well to moderately differentiated, rendering the disease amenable to penile-sparing techniques [2].
+The aim of primary tumor treatment is complete
+removal, while ensuring organ and functional preservation,
+without compromising the oncologic outcome [4]. Partial or
+total penectomy is considered the standard oncologic treatment, based on the extent/size of the lesion [4]. Despite its
+therapeutic effectiveness, amputative surgery is a disfiguring procedure that affects patient’s quality of life (QoL),
+sexual function, self-image, and self-esteem [5]. To improve
+well-being, penile-preservation techniques such as penilesparing surgery, radiotherapy, laser excision/ablation, and
+Moh’s micrographic surgery have been developed. Penilesparing surgery includes the following: wide local excision,
+circumcision, glans resurfacing, glansectomy, and distal corporectomy. Typically, penile-sparing surgery is followed by
+neoglans reconstruction using grafts or vascularized flaps.
+
+
+Radiotherapy techniques that are used to treat primary
+lesion include brachytherapy and external beam radiotherapy (EBRT).
+According to the European Association of Urology guidelines, penile-sparing surgery should be offered whenever
+possible [4]. Large retrospective series from European centers of excellence have reported local recurrence rates after
+penile-sparing surgery that range from 4% to 27.7% [6,7].
+However, there is no consensus as to whether local recurrence influences survival outcomes [4].
+We aimed to systematically review the evidence for the
+clinical effectiveness of the various treatment options available for the management of the primary tumor in men with
+penile cancer. The results will be used by the corresponding
+guideline development group. Consequently, the review
+addresses multiple research questions that have been formulated by the panel.
+
+2. Evidence acquisition
+
+2.1. Search strategy
+
+The EMBASE, MEDLINE, Cochrane Database of Systematic
+Reviews, Cochrane Central Register of Controlled Trials
+(CENTRAL; Cochrane HTA, DARE, HEED), Google Scholar,
+and ClinicalTrials.gov were searched up to May 30, 2021.
+The study protocol was published on PROSPERO
+(CRD42021270148). Only English-language articles
+
+60 E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4
+
+
+
+
+
+
+
+
+
+Fig. 1 – PRISMA flow diagram of the study selection process. PRISMA = Preferred Reporting Items for Systematic Reviews and Meta-analyses.
+
+
+published from 1990 were included. The detailed search
+strategy is provided in the Supplementary material. Additional sources were articles from reference lists of the
+
+included studies, and systematic and literature reviews.
+Seven reviewers (R.C., L.B., H.G., A.L., M.K., L.Z., and I.G.;
+Fig. 1) screened abstracts and full-text articles independently. Any potential conflicts were reviewed independently by a senior author (V.S.) who acted as an arbiter.
+Data extraction was performed by the same reviewers and
+corroborated by the senior author.
+
+2.2. Types of study designs included
+
+All types of peer-reviewed publications addressing the
+coprimary outcomes after primary tumor treatment in
+men with invasive penile cancer were eligible for inclusion.
+The minimum cohort size was 15 men. Conference
+
+abstracts, case reports, and reviews were excluded from
+the review, as were studies on noninvasive penile cancer
+or verrucous carcinoma unless those included data on eligible patients and results were reported separately.
+
+2.3. Types of participants included
+
+The study population included men with invasive SCC of the
+penis at any stage, with or without nodal involvement, who
+were subjected to any type of treatment with curative
+
+
+intent for the primary lesion. Table 1 provides an overview
+of the patients, interventions, comparators, and outcomes
+(PICO) for this review.
+
+2.4. Types of interventions included
+
+All treatment options for the management of primary tumor
+were included. Potential interventions, such as surgery,
+radiotherapy, laser, and Moh’s micrographic surgery with
+any pair-wise comparisons were allowed.
+
+2.5. Outcome measures
+
+The primary outcome was the 5-yr recurrence-free rate.
+Recurrence was defined as the evidence of any histologically documented tumor relapse on the penis. Additional
+coprimary endpoints were post-treatment sexual function
+and QoL scores as measured by validated questionnaires.
+Secondary outcomes were 1- and 3-yr recurrence-free rate,
+penile-preservation rate, post-treatment urinary function,
+and treatment-related complications.
+
+2.6. Assessment of risk of bias
+
+The risk of bias (RoB) of nonrandomized controlled trial
+studies (NRCSs) was assessed using the Cochrane ROBINSI tool, including additional items to assess confounding bias
+
+E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4 61
+
+Table 1 – Patients, interventions, comparators, and outcomes (PICO)
+
+Population/participants
+Inclusion criteria
+
+Men with invasive penile cancer (pT1-T4, N+/–, M0) who underwent any type of treatment with curative intent for the primary lesion (with or without
+treatment of regional nodal disease)
+Men with invasive penile cancer who underwent palliative treatment for the primary lesion
+Men with local recurrence after organ-preserving surgery who underwent any further treatment
+Exclusion criteria
+
+Premalignancy or noninvasive (verrucous) penile cancer (PeIN, Ta)
+Secondary penile cancer
+Nonsquamous cell cancer (ie, sarcoma, melanoma, Paget’s disease, etc.)
+Urethral squamous cell carcinoma (unless outcomes reported separately)
+Interventions
+
+Patients were eligible for inclusion if they received any of these interventions
+Laser (including excision, vaporization)
+Photodynamic therapy
+Moh’s micrographic surgery
+Organ-preserving penile surgery with reconstruction (total or partial glans resurfacing, total or partial glansectomy, penile shaft skin excision)
+Amputating penile surgery with or without reconstruction (partial penectomy, subtotal penectomy, radical or total penectomy)
+Radiotherapy, including brachytherapy (interstitial and surface mold)
+Combined modality treatment for primary disease, in case data on any of the coprimary outcomes were provided
+Comparator
+Any of the abovementioned (included) interventions according to the disease stage
+
+Outcomes
+
+Coprimary endpoints
+Recurrence-free rates at 5 yr. Recurrence is defined as the ‘‘evidence of any histologically-documented tumor relapse in the penis or evidence of any distant
+relapse’’
+QoL following primary lesion management as measured by validated questionnaires or validated QoL scale, or any measure of QoL, at time points defined by
+the trialist
+
+Sexual function following primary lesion management as measured by validated questionnaires such as IIEF or similar questionnaires, any measure of sexual
+function, or at time points as defined by the trialist
+Secondary endpoints
+Recurrence-free rates at 1 and 3 yr (or at other time points, as defined by the trialist)
+Penile-preservation rate
+Complications related to primary lesion management (examples include but not limited to poor graft take, infection, and donor site problems such as
+infection, bleeding, meatal stenosis, soft tissue ulceration/necrosis, etc.)
+Urinary function following primary lesion management measured by validated questionnaires such as IPSS or similar questionnaires, and any measure of
+urinary function
+
+IIEF = International Index of Erectile Function; IPSS = International Prostate Symptom Score; PeIN = penile intraepithelial neoplasia; QoL = quality of life.
+
+
+risk [8]. Five confounders were identified a priori: tumor
+stage, tumor grade, nodal stage, tumor margins, and previous radiotherapy or chemotherapy. For case series (CSs), a
+five-criterion quality appraisal checklist was used [9].
+
+2.7. Data analysis
+
+Owing to the lack of randomized controlled trials (RCTs), a
+quantitative analysis was not appropriate, so a quantitative
+synthesis approach was used. A subgroup analysis was
+planned for disease stage for outcomes at specific time
+points, which proved impossible due to the low data quality, and therefore a narrative synthesis of outcomes was
+performed.
+
+3. Evidence synthesis
+
+3.1. Quantity of evidence identified
+
+Overall 3283 abstracts were screened and 235 studies were
+
+retrieved for full-text screening. Eighty-eight studies
+including 9758 patients were eligible for assessment: 16
+NRCSs (1911 patients) [10–25] and 72 CSs (7864 patients)
+
+[6,7,26–95].
+
+3.2. Characteristics of the studies included
+
+The baseline characteristics of NRCSs and CSs are presented
+in Tables 2 and 3. All 16 NRCSs were retrospective studies,
+
+
+12 comparing penile-sparing surgery with amputative surgery [11–17,20–22,24,25] and four comparing radiotherapy
+with penile surgery [10,18,19,23]. All 72 CSs were retrospective, with 39 studies addressing penile surgery
+
+[6,7,56–92], 20 reporting on radiotherapy [26–45], ten
+reporting on lasers [46–55], and three reporting on Moh’s
+micrographic surgery [93–95].
+
+3.3. RoB and confounding assessment for the studies
+included
+
+All NRCSs were assessed to have a high RoB (summarized in
+Fig. 2). For most selected studies, performance, detection,
+and attrition biases were assessed to be high, while reporting bias was either unclear or high. All CSs had a high RoB.
+
+3.4. Narrative synthesis of the results
+
+3.4.1. Primary outcomes
+3.4.1.1. Five-year recurrence-free rate.
+3.4.1.1.1. Surgery. The outcomes of 7841 men who underwent any type of surgery for their primary tumor are
+reported herein [6,7,11–25,56–92]. The overall 5-yr
+recurrence-free rates ranged between 33.3% and 98.2%.
+The studies reporting poor recurrence-free rates involve
+cohorts with advanced disease who received penilesparing surgery, while those that report higher
+recurrence-free rates involve cohorts who were submitted
+
+to amputative surgery due to less advanced disease.
+
+Table 2 – Baseline characteristics and primary and secondary outcome scores for nonrandomized comparative studies
+
+
+NR Assessed
+
+
+
+
+Garisto et al.
+
+(202) [10]
+
+
+
+NR NR NR 7/35
+Urethral
+
+stenosis (BT
+group 7/35:
+20%, PP group 1/
+16: 6.25%)
+Glans necrosis
+
+(BT group 4/35:
+11.43%; treated
+
+with PP
+
+Infection (BT
+group 1/35:
+2.9%)
+
+
+BT (n = 35) vs PP NR At 3 yr:
+(n = 16) PP: 100.0%
+(16/16)
+
+BT: 80.0%
+
+(28/35)
+
+
+
+
+
+
+Sosnowski et al.
+
+(2017) [12]
+
+
+PSS: 13/51 (25.5%;
+circumcision, WLE)
+AS: 38/51 (74.51%;
+PP 27/38, TP 11/38)
+
+
+NR NR NR NR Assessed
+
+
+NR NR EORTC QLQ-C30 v3.0
+Social functioning (PSS 82,
+AS 75–85)
+Cognitive functioning (PSS
+85, AS 75–82)
+Emotional functioning (PSS
+78, AS 66–69)
+Role functioning (PSS 78, AS
+75–83)
+Physical functioning (PSS
+83, AS 67–81)
+Global health status (PSS 63,
+AS 50–56)
+
+
+
+
+Retrosp. 51
+comparative T1: 8/51
+(15.7%)
+T2: 8/51
+(15.7%)
+Tx: 35/51
+(68.63%)
+N+: 3/51
+(5.9%)
+
+Retrosp. 55
+comparative Tx: 4 (7.3%)
+
+T1–4: 51
+
+(92.7%)
+
+
+
+Veeratterapillay Retrosp. 203 PSS: 99/196 (50.51%; PSS: 89% (88/99) NR NR NR
+et al. (2015) comparative Tx/Tis: 46/ WLE, glansectomy, AS: 96% (93/97)
+
+[14] 203(22.66%) distal corporectomy)
+
+
+Assessed
+
+
+PSS: 89% (88/99) NR NR NR NR NR Penile
+AS: 96% (93/97) preserving
+rate: 85/99
+(85.86%)
+
+
+PSS: 99/196 (50.51%;
+WLE, glansectomy,
+distal corporectomy)
+AS: 97/196 (49.49%;
+PP or TP)
+
+
+
+
+
+
+Retrosp. 203
+comparative Tx/Tis: 46/
+203(22.66%)
+T1: 59/157
+(37.58%)
+T2: 73/157
+(46.50%)
+T3: 22/157
+(14.01%)
+T4: 3/157
+(1.9%)
+N+: 31/203
+(15.27%)
+
+
+
+(continued on next page)
+
+
+Assessed
+
+
+
+
+
+
+
+Sedigh et al. Retrosp. 41 PSS: 35/41 (85.37%) PSS: 34/35(97.1%) NR IIEF-15 score:
+(2015) [16] comparative T1: 20 (49%) WLE: 12/35 (34.29%) AS: 6/6 (100%) Group A (preop:
+
+
+NR Soft tissue
+
+necrosis 1/6
+(PP)
+Meatal stenosis:
+
+3/35 (8.6%;
+glansectomy)
+
+
+PSS: 34/35(97.1%) NR IIEF-15 score:
+AS: 6/6 (100%) Group A (preop:
+erectile function 17.2 ±
+
+1.75, postop 16.5 ± 2.0,
+p = 0.3)
+Orgasmic function:
+preop 6.0 ± 1.5, postop
+5.3 ± 1.25 (p = 0.25)
+Sexual desire: preop
+
+
+Retrosp. 41
+comparative T1: 20 (49%)
+T2: 21 (51%)
+
+
+PSS: 35/41 (85.37%)
+WLE: 12/35 (34.29%)
+Glansectomy: 23/35
+(65.71%)
+
+
+AS: 6/41 (14.63%)
+PP: 6/6 (100%)
+
+B postop = 31.8%
+
+
+
+(continued on next page)
+
+NR Assessed
+
+
+Mistry et al. Retrosp. 58 (61) PPS vs RT vs AS RT: RT: 60% (6/10) RT: NR NR
+(2007) [18] comparative Tx/Tis/Ta: 18/ 10/50 (20%; 50–55 PSS: 76.9% (10/13) 1 yr: 100%
+
+
+RT:
+
+1 yr: 100%
+(10/10)
+3 yr: 90%
+(9/10)
+
+
+Retrosp. 58 (61)
+comparative Tx/Tis/Ta: 18/
+61 (29.5%)
+T1: 29/50
+(58%)
+T2: 13/50
+(26%)
+T3: 1/50 (2%)
+N+: 8/61
+(13.1%)
+M+: 1/61
+(1.7%)
+
+
+PPS vs RT vs AS RT:
+
+10/50 (20%; 50–55
+Gy)
+PSS: 13/50 (26%)
+WLE: 10, Gx: 3
+AS: 20/50 (40%; PP
+14, TP 6)
+Unclear data: 7/50
+(14%)
+
+
+RT: 60% (6/10)
+PSS: 76.9% (10/13)
+AS: 85% (17/20)
+
+
+NR NR NR RT
+
+Necrosis: 2/10
+(20%)
+Urethral
+
+stricture: 1/10
+(10%)
+ED: 1/10 (10%)
+
+
+Penectomy
+Wound
+
+infection: 1/20
+(5%)
+Meatal stenosis:
+
+1/20 (5%)
+
+(continued on next page)
+
+
+PSS:
+
+1 yr: 100%
+(13/13)
+3 yr: 85%
+(11/13)
+
+AS:
+
+1 yr: 95%
+(19/20)
+3 yr: 65%
+(13/20)
+
+
+
+
+Perez et al.
+
+(2020) [20]
+
+
+
+PSS
+
+Glans resurfacing:
+20/57 (35.1%)
+Glansectomy: 14/57
+(24.56%) vs PP: 23/
+57 (40.36%)
+
+
+ICIQ-MLUTS
+questionnaire
+Median VS
+
+was 4 (IQR 1–
+15) and
+median
+
+impact on QoL
+was 2 (IQR 0–
+36)
+
+
+SHIM/IIEF-5, median
+score was 19 (IQR
+10.75–25)
+TGR: 17.5 (5–24)
+Gx: 18 (11–23)
+PP: 19 (5–25)
+
+
+PSS
+
+Local excision: 24/
+157 (15.29%)
+RT: 17/157 (10.83%)
+Local surgery + RTX:
+12/157 (7.64%)
+Excision/ND:YAG:
+60/157 (38.22%)
+Excision/CO 2 : 44/
+157 (28.03%)
+AS
+
+PP: 96/100 (96.00%)
+Unknown: 4/100
+(4.0%)
+
+
+
+PSS
+
+Meatal stenosis:
+
+3/44 (6.82%)
+Graft loss: 2/44
+(4.54%)
+AS
+
+Meatal stenosis:
+
+1/44 (2.3%)
+
+
+NR Assessed
+
+
+Only 32 patients replied
+EuroQol 5D-3L, EQ-VAS
+tool:
+
+Mean global health score of
+82.5%, 81% had no problems
+with mobility, 94% had no
+problems with self-care,
+87.5% were able to do their
+
+usual activities, 72% had no
+pain or discomfort, 28%
+reported moderate pain on
+daily activities, 94% did not
+consider themselves
+
+anxious or depressed
+
+
+98.25%
+
+PSS: 97.00% (33/34)
+AS: 69.56% (16/23)
+
+
+
+
+
+
+
+Lont et al.
+
+(2006) [22]
+
+
+NR Assessed
+
+
+PSS: 63% (99/157) NR NR NR NR Urethral
+AS: 88% (88/100) stenosis: 20/157
+(12.74%)
+Infection: 10/
+157 (6.4%)
+Bleeding: 1/104
+(1%) after laser
+
+
+
+
+
+Retrosp, 44 (57)
+comparative Tx/Tis/Ta: 21/
+57 (36.8%)
+T1: 14/44
+(31.8%)
+T2: 18/44
+(40.9%)
+T3: 12/44
+(27.27%)
+N+: 8/57
+(14%)
+
+Retrosp. 257
+comparative T1: 72/257
+(28%)
+T2: 185/257
+(72%)
+
+
+Kieffer et al.
+
+(2014) [24]
+
+
+
+Retrosp. 90 PPS (54) vs PP (36) NR NR SF-36
+comparative Physical component
+Mental component
+Physical function (0–100)
+PSS: mean 48.59; SD 9.42
+
+PP: mean 49.56; SD 9.59
+
+Role physical (0–100)
+PSS: mean 53.34; SD 8.78
+
+PP: mean 53.70; SD 8.93
+
+Bodily pain (0–100)
+PSS: mean 81.52; SD 21.94
+
+PP: mean 91.14; SD 22.28
+
+General health (0–100)
+PSS: mean 68.37; SD 22.93
+
+PP: mean 67.06; SD 23.29
+
+Vitality (0–100)
+PSS: mean 69.66; SD 18.92
+
+PP: mean 69.35; SD 19.21
+
+Social functioning (0–100)
+PSS: mean 86.12; SD 19.34
+
+PP: mean 88.2; SD 19.64
+
+Role emotional (0–100)
+PSS: mean 82.58; SD 31.77
+
+PP: mean 86.83; SD 32.25
+
+Mental health (0–100)
+PSS: mean 79.52; SD 16.88
+
+PP: mean 80.81; SD 17.16
+
+IOCv2
+
+Positive impact scale
+PSS: mean 49.10; SD 11.10
+
+PP: mean 47.99; SD 11.27
+
+Negative impact scale
+PSS: mean 42.08; SD 13.54
+
+PP: mean 45.50; SD 13.76
+
+Altruism and empathy
+PSS: mean 12.18; SD 3.14
+
+PP: mean 12.14; SD 3.19
+
+
+
+IIEF-15
+
+Erectile function
+
+PSS: mean 14.34; SD
+
+9.07
+
+PP: mean 11.3; SD 9.32
+
+Orgasmic function
+PSS: mean 5.48; SD
+
+3.21
+
+PP: mean 3.76; SD 3.29
+
+Sexual desire
+
+PSS: mean 5.93; SD 2.2
+
+PP: mean 3.63; SD 4.8
+
+Intercourse satisfaction
+
+PSS: mean 5.37; SD
+
+4.67
+
+PP: mean 11.3; SD 9.32
+
+Overall satisfaction
+
+PSS: mean 5.35; SD
+
+2.62
+
+PP: mean 4.54; SD 2.69
+
+
+
+
+NR NR Assessed
+
+(continued on next page)
+
+
+Urine
+
+spraying
+43% of men
+
+after PSS
+
+83% of men
+
+after AS
+
+Table 3 – Baseline characteristics and primary and secondary outcome scores for case series
+
+
+62% (25/41) High risk
+
+
+
+Radiotherapy
+
+Azrif et al.
+
+(2006) [27]
+
+
+
+EBRT
+
+50–52.5 Gy
+administered in 16
+
+fractions (22 d)
+
+
+
+
+NR NR NR NR Penile ulceration 8%
+
+(4/41; GR 1)
+Urethral stenosis
+
+29% (12/41; GR 1)
+
+
+58.5% (24/41)
+T1: 12/37
+(32.4%)
+T2: 2/4 (50%)
+
+
+
+
+
+
+1 yr: 86.2% NR NR NR CTCAE-NCI 4.0 score
+Late toxicity: 15
+(20.5%)
+Late dermatitis: 9
+
+(12.3%)
+Dysuria: 4 (5.5%)
+Meatal stricture: 5
+
+(6.8%)
+Sexual pain: 2 (2.1%)
+
+
+Cordoba et al.
+
+(2016) [29]
+
+
+Low dose of interstitial 65.8% (48/73)
+BT with iridium-192 NR results per
+disease stage
+
+
+72.6% (53/ High risk
+73)
+
+(continued on next page)
+
+
+
+Retrosp. 41
+case series T1: 37/41
+(90.2%)
+T2: 4/41
+(9.8%)
+N+: 1/41
+(2.4%)
+
+Retrosp. 73
+case series Tis: 6 (8.2%)
+
+T1–4: 67
+
+(91.8%)
+N+: 13/73
+(17.8%)
+
+
+
+
+
+88% (59/67) Low risk
+
+69.23% (18/ High risk
+26)
+
+
+NR NR NR Soft tissue necrosis:
+
+8/67 (12%)
+Urethral stenosis
+
+rate: 6/67 (9%)
+
+
+Crook et al.
+
+(2009) [31]
+
+
+
+71.0% (48/67)
+NR results per
+disease stage
+
+
+Primary interstitial BT
+PDR (60 Gy, range 55–
+65Gy) at a rate of 50–
+65 cGy/h
+BT (n = 41), iridium
+wire (n = 26)
+
+
+At 10 yr:
+58.8% (39/
+67)
+
+
+
+
+
+
+50.0% (13/26)
+T1: 12/19
+(63.2%)
+T2: 2/4
+(50.0%)
+T3: 1/2 (50%)
+
+
+At 1 yr:
+61.54% (16/
+26)
+At 3 yr:.
+57.7% (15/
+26)
+
+
+McLean et al.
+
+(1993) [33]
+
+
+EBRT 25–60 Gy (50 Gy
+in 20 fractions over 4
+
+wk was mostly used)
+
+
+NR NR NR Meatal stricture: 7/
+26 (26.9%)
+Telangiectasia/
+ulceration: 7/26
+(26.9%)
+
+
+
+
+
+
+NR NR NR NR Erythema, edema:
+51/51 (100%)
+Urethral stenosis:
+
+17/51 (33.34%)
+Foreskin sclerosis: 3/
+51 (5.89%)
+ED: 1/51 (2.0%)
+Delayed local
+necrosis: 9/51
+(17.65%)
+
+
+86.27% (44/
+51; unknown
+
+time of
+
+recurrence)
+T1–2: 38/42
+(90.5%)
+T3: 1/6
+(16.7%)
+
+
+Delannes et al.
+
+(1992) [35]
+
+
+Retrosp. 67
+case series Tx: 2 (3%)
+T1: 37/67
+(56%)
+T2: 22/67
+(33%)
+T3: 6/67
+(8%)
+
+Retrosp. 26 (37)
+case series T1: 19/26
+(73.1%)
+T2: 4/26
+(15.4%)
+T3: 2/26
+(7.7%)
+T4: 1/26
+(3.8%)
+N+: 7/26
+(26.9%)
+
+Retrosp. 51
+case series Tis: 3/51
+(5.9%)
+T1: 14/51
+(27.45%)
+T2: 28/51
+(54.91%)
+T3: 6/51
+(11.76%)
+N+: 8/51
+(15.7%)
+
+
+BT iridium-192
+
+interstitial therapy
+(50–65 Gy, mean 60
+Gy)
+
+
+75% (38/51) High risk
+
+Escande et al.
+
+(2017) [37]
+
+
+
+Retrosp. 201 BT
+case series N+: 9.95% Either LDR BT or pulsedose rate BT (60 Gy)
+
+
+
+
+
+
+
+
+
+High risk
+
+
+85% (95% CI
+79–91)
+32 patients
+required
+surgery for
+relapse (11
+pGx, 14 Gx,
+7 total
+
+penectomy)
+
+
+NR NR NR NR Acute local toxicity
+(mucositis/
+urethritis): 100%
+(201/201)
+Late painful
+ulceration: 43% (87/
+201)
+Meatal stenosis:
+
+25.9% (52/201)
+Stenosis more
+
+frequent in radiation
+doses >60 Gy (10.3%
+vs 37.2%, p = 0.037)
+Painful ulceration:
+
+higher risk when
+dose rate >0.43 Gy/h
+(6.5% vs 30.7%,
+p = 0.021)
+
+
+70.15% (160/
+201)
+NR results per
+disease stage
+
+
+
+
+
+
+
+(continued on next page)
+
+
+Martz et al.
+
+(2021) [39]
+
+
+
+28/29 High risk
+(96.55%)
+
+85.19% (23/ High risk
+27)
+
+
+Acute local toxicity
+(mucositis/
+urethritis): 100% (29/
+29)
+Telangiectasia: 17%
+(5/29)
+Necrosis: 10.3% (3/
+29)
+Urethral meatus
+
+stenosis: 2/29 (6.7%)
+
+
+25/29 (86%)
+reported mild
+LUTS before
+
+therapy
+No change
+reported after
+therapy
+
+
+NR NR 14/29 (54%) were
+sexually active before BT
+14/14 reported no
+change after surgery
+
+
+Multicatheter HDR BT 82.76% (24/
+35 or 39 Gy 29)
+NR results per
+disease stage
+
+
+
+
+
+
+Kamsu-Kom
+
+et al. (2015)
+
+[41]
+
+
+Circumcision and pulse
+dose rate interstitial BT
+
+(60 Gy, range 60–70)
+
+
+NR At 3 yr:
+77.78% (21/
+27)
+
+
+
+
+
+Retrosp. 28(29)
+case series Tx: 1/29
+(3.45%)
+T1: 22/29
+(75.9%)
+T2: 6/29
+(20.7%)
+N0: 26/29
+(89.7%)
+
+Retrosp. 27
+case series T1: 1/27
+(4%)
+T2: 26/27
+(96%)
+
+
+
+
+NR NR NR Acute local toxicity
+(mucositis,
+urethritis): 22/27
+(81%) such as glans
+ulceration: 2/27
+(7.4%)
+Meatal stenosis: 5/
+27(18.5%)
+Meatal stenosis and
+
+ulcerations were
+
+reported in 60% of
+patients with treated
+volume >25 cm [3] vs
+
+17% of patients with
+treated volume <25
+cm [3] (p < 0.05)
+
+
+Kiltie et al. Retrosp. 31 BT iridium-191 80.6% (25/31) NR NR NR NR
+(2000) [43] case series Median dose 63.5 Gy
+
+
+High risk
+
+
+74.2% (23/
+31, 95% CI
+56.8–92.7)
+
+
+Retrosp. 31 BT iridium-191
+case series Median dose 63.5 Gy
+(range: 60–66.5 Gy)
+
+
+80.6% (25/31) NR NR NR NR Urethral stricture:
+11/31 (35.5%)
+Glans ulcerations: 9/
+31 (29.03%)
+Telangiectasia: 8/31
+(25.8%)
+Necrosis: 1/31
+(3.22%)
+Fibrosis: 1/31
+(3.22%)
+12 treated with <63
+
+Gy, 5 needed (41.7%)
+dilatations
+
+13 treated by >63 Gy,
+7 needed (53.8%)
+dilatation or
+
+developed necrosis
+requiring penectomy
+(p = 0.68)
+
+
+
+
+
+
+39.1% (9/23) NR NR NR NR Meatal stenosis: 2/ 36% (8/23) High risk
+23 (9%)
+
+
+Not reached 83.3% (10/
+12; median
+FU 24 [15–
+30] mo)
+
+
+Zouhair et al.
+
+(2011) [45]
+Data only on
+23 patients
+who had BT
+
+Laser
+
+Musi et al.
+
+(2018) [46]
+
+
+Retrosp. 41
+case series T1: 12/41
+(29.0%)
+T2: 24/41
+(59.0%)
+T3: 4/41
+(10.0%)
+Tx: 1/41
+(2%)
+N+: 12/41
+(29.0%)
+
+Retrosp. 12(23)
+case series Tx/Ta/Tis:
+11/23
+(47.8%)
+T1: 7/12
+(58.33%)
+T2: 3/12
+(25%)
+T3: 2/12
+(16.67%)
+
+
+BT in 23 patients (data
+presented)
+Range of dose: 45–
+74Gy
+The rest of the cohort
+
+received surgery plus
+
+RT
+
+Laser therapy
+Thulium-yttriumaluminum garnet
+
+
+100% High risk
+
+(continued on next page)
+
+
+NR Preputial edema: 12/
+12 (100%)
+Dysuria: 12/12
+(100%)
+
+
+NR 56.5% of patients felt that
+laser had impact on their
+sexual life
+
+Schlenker et al.
+
+(2010) [48]
+
+
+
+Laser therapy (yttriumaluminum garnet [Nd:
+YAG]) combined with
+radical circumcision
+
+
+
+
+
+69.77% (30/ NR NR NR NR NR 86.05% (37/ High risk
+43) 43)
+
+
+
+
+Retrosp. 54
+case series Tis: 11/54
+(20%)
+T1: 39/43
+(90.7%)
+T2: 4/43
+(8.3%)
+
+
+
+
+80% (37/46) NR NA PROM34 men have been
+sexually active; 27 (80%)
+resumed sexual life;
+
+10 patients report
+decrease in erectile
+
+function (22%); 33 (72%)
+men report no change in
+erections; 3 (6%) men
+report improvement;
+Sexual dysfunction: 50%
+(23/46) report satisfied
+or very satisfied by sex,
+72% or 33/36 report
+sexual life as they
+wanted
+
+
+Windahl et al.
+
+(2004) [50]
+Same population as for
+
+Lindner et al.
+
+[25] but provides data on
+
+sexual out
+comes
+
+
+Retrosp. 46 (67) Laser treatment (CO 2 /
+case series Nd:YAG laser;CO 2
+laser; Nd:YAG laser)
+
+
+NA NR 100% (46/ High risk
+46)
+
+
+
+
+
+
+Tewari et al.
+
+(2007) [52]
+
+
+
+
+
+NR NR NR NR NR 96.8% (31/ High risk
+32)
+
+
+Laser treatment Nd: 94% (30/32)
+YAG 100 W Local
+
+recurrence: 1/
+32 (3%)
+Distant
+
+recurrence: 1/
+32 (3%)
+
+
+
+
+
+Retrosp. 106
+case series Tx/Ta/Tis:
+74 (69.8%)
+T1: 25/32
+(78.13%)
+T2: 7/32
+(21.87%)
+
+Retrosp. 46
+case series Tis: 13
+
+(28.2%)
+
+T1–2: 33
+
+(71.74%)
+
+
+
+
+NR NR NR High risk
+
+
+Life satisfaction-11
+sexual life:
+
+23/43 (54%) satisfied pts
+29/30 had intercourse
+13 men were sexually
+inactive
+
+
+Skeppner et al.
+(2008) [54]
+
+
+Laser treatment NR NR LiSat-11-life as
+
+whole: 35/46 satisfied
+pts (76%)
+
+
+
+
+
+
+Surgery
+
+Bissada et al.
+
+(2003) [57]
+
+
+Retrosp. 30 PSS 70% (21/30)
+case series N+: 12/30 NR results per
+disease stage
+
+
+
+NR NR NR NR NR 80% (24/30) High risk
+
+
+
+
+
+
+
+
+
+
+
+(continued on next page)
+
+87.7% (157/ High risk
+179)
+
+
+
+Philippou et al.
+(2012) [59]
+
+
+
+NR NR NR NR Wound infection: 1/
+179 (0.6%)
+Neoglans necrosis: 1/
+179 (0.6%)
+Graft loss: 3/179
+(1.8%)
+
+
+86.3% (154/
+179)
+T1: 93.2% (82/
+88)
+T2: 89.7% (61/
+68)
+T3: 87.0% (20/
+23)
+
+
+PSS
+
+Circumcision: 13 (7.3%)
+WLE ± grafting: 29
+(16.2%)
+Glansectomy: 87
+(48.6%)
+Glansectomy and distal
+corporectomy: 50
+(27.9%)
+
+
+
+
+Retrosp. 179
+case series T1: 88/179
+(49.1%)
+T2: 68/179
+(38.0)
+T3: 23/179
+(12.8%)
+
+Retrosp. 44
+case series Ta: 5(11%)
+
+T1–4: 39
+
+(89%)
+N+: 18/40
+(45%)
+
+Prospective 72
+case series T1: 35/72
+(49%)
+T2: 37/72
+(51%)
+
+N+: 1
+
+
+
+Chen et al.
+
+(2004) [61]
+
+
+PP: 34
+
+Total penectomy: 5
+Conservative: 5
+
+
+89.74% (35/ NR NR NR NR 1: urethra stenosis 13.6% (6/ High risk
+39) 2: wound infection 44)
+
+
+
+
+
+
+
+
+95.8% (69/72) NR NR NR NR Partial graft loss: 2/
+72 (3%)
+Graft overgrowth
+over the external
+
+urethral meatus: 1/
+72 (1%)
+
+
+Smith et al.
+
+(2007) [63]
+
+
+Glansectomy with
+split-thickness skin
+graft reconstruction
+
+
+100% (72/ High risk
+72)
+
+Circumcision: 1/20 (5%)
+Partial/total
+penectomy: 7/20 (35%)
+Penectomy plus LND:
+10/20 (50%)
+RT: 2/20 (10%)
+
+
+
+
+
+PSS
+
+Glansectomy and
+glanuloplasty: 34/50
+(68%)
+Partial glansectomy
+and reconstruction: 1/
+50 (2%)
+Glansectomy and distal
+corporectomy and
+reconstruction: 15/50
+(30%)
+
+
+
+
+Szeto et al.
+
+(2016) [64]
+
+
+44.4% (9/20) NR NR NR NR NR NR High risk
+
+
+
+
+
+
+High risk
+
+
+Overall:
+
+98.4% (62/
+63)
+
+
+Veeratterapillay
+et al. (2012)
+
+[66]
+
+
+Retrosp. 30
+case series 20 men
+
+radical Rx
+
+Tx/Tis: 5/30
+(16.7%)
+T1: 7/25
+(28%)
+T2: 8/25
+(32%)
+T3: 9/25
+(36%)
+T4: 1/25
+(4%)
+N+: 11/30
+(36.6%)
+M+: 1/30
+(3.3%)
+
+Retrosp. 65
+case series Tx/Tis: 15
+(23.08%)
+T1: 31/50
+(62%)
+T2: 19/50
+(38%)
+
+
+NR NR NR Graft loss: 1/50 (2%)
+Graft contractures:
+
+3/50 (6%)
+Meatal stenosis: 5/50
+(10%)
+
+
+NR At 3 yr:
+overall: 94%
+
+(4/50)
+
+
+(continued on next page)
+
+NR NR NR NR NR High risk
+
+
+75.8% (47/62) At 1 yr:
+80.6% (52/
+62)
+At 3 yr:
+75.8% (47/
+62)
+
+
+Sakai et al.
+
+(2010) [68]
+
+
+AS: 59/62
+PP: 43/59
+Total penectomy: 13/
+
+59
+
+Emasculation: 3/59
+Local excision: 3/62
+
+
+
+
+Retrosp. 62
+case series T1: 28
+
+(45.16%)
+
+T2: 22
+
+(35.48%)
+
+T3: 9
+
+(14.5%)
+T4: 3 (4.8%)
+N+: 43/62
+(69.36%)
+
+
+Schlenker et al. Retrosp. 38 PP: 11/38 (28.9%) PP: 9/11 NR NR NR
+(2011) [70] case series T1G2: 38/ Tumor excision: 5/38 (81.82%)
+
+
+High risk
+
+
+NR NR NR NR NR 16/22
+(72.73%;
+laser only)
+
+
+PP: 9/11
+(81.82%)
+Circumcision:
+
+4/5 (80%)
+Laser: 13/22
+(59.09%)
+
+
+Retrosp. 38
+case series T1G2: 38/
+38 (100%)
+
+
+PP: 11/38 (28.9%)
+Tumor excision: 5/38
+(13.16%)
+Laser therapy (Nd:YAG
+laser): 22/38 (57.9%)
+
+
+(continued on next page)
+
+
+
+
+
+Minhas et al.
+
+(2005) [72]
+
+
+
+
+Low risk
+
+
+NR NR NR NR 95.8% (46/
+48)
+1st year
+data only
+
+
+PSS (WLE, partial or NR At 1 yr:
+total glansectomy) 95.8% (46/
+48)
+T1: 19/20
+(95%)
+T2: 25/26
+(96.16%)
+
+
+PSS: glansectomy Not reached At 2 yr: 84% NR 11 patients evaluated
+(16/19) with regard to sexual
+function
+
+81.8% (9/11) had good
+erectile functions to
+
+achieve erections
+
+6/11 patients continued
+to be sexually active
+
+PSS: total glans Not reached At 1 y:. 95% NR 14 patients were
+resurfacing median (18/19) sexually active
+14/14 resumed sexual
+activity within 6 mo
+
+
+
+
+
+92.3% (12/ Low risk
+13)
+
+
+NR Partial graft loss: 2/
+13 (15.4%)
+Meatal stenosis: 2/
+13 (15.4%).
+
+
+NR All patients maintained
+their erectile function,
+orgasm, and ejaculation
+All patients reported
+reduced glans sensitivity
+
+
+Morelli et al.
+
+(2009) [74]
+
+
+PSS surgery: 92.3% (12/13) At 3 yr:
+glansectomy 92.3% (12/
+13)
+
+
+
+
+
+
+NR Meatal stenosis: 2/ 100% High risk
+19 (10.52%)
+
+NR Graft loss: 1/19 100% High risk
+(5.3%)
+
+
+O’Kane et al.
+
+(2011) [76]
+
+O’Kelly et al.
+(2017) [77]
+
+
+Retrosp. 48(51)
+case series Tx: 3/51
+(5.9%)
+T1: 20/48
+(41.67%)
+T2: 26/48
+(54.17%)
+T3: 2/48
+(4.17%)
+
+Retrosp. 13 (15)
+case series Tx: 2/15
+(13.3%)
+T1–3: 13/15
+(86.7%)
+
+Retrosp. 19 (25)
+case series Tis: 6/25
+(24%)
+T1: 15/19
+(78.9%)
+T2: 3/19
+(15.8%)
+T3: 1/19
+(5.2%)
+
+Retrosp. 10 (19)
+case series Tx/Tis/Ta:
+9/19
+(47.37%)
+
+Opjordsmoen Retrosp. 27 (30) Various treatments NR 100% EORTC QLQ-C30 and Those treated with
+and Fossa case series Tx/Ta: 3/30 WLE: 4/27 (14.82%) General Health amputative surgery had
+(1994) [78] (10.0%) RT: 11/27 (40.74%) Questionnaire and worst outcome in sexual
+
+
+NR NR NR Unclear
+
+
+Those treated with
+
+amputative surgery had
+worst outcome in sexual
+
+outcome compared with
+those treated
+
+conservatively. There
+was no difference in
+
+domains of QoL between
+
+groups
+
+
+Retrosp. 27 (30)
+case series Tx/Ta: 3/30
+(10.0%)
+T1: 22/27
+(81.5%)
+T2–4: 5/27
+(18.5%)
+
+
+Various treatments
+
+WLE: 4/27 (14.82%)
+RT: 11/27 (40.74%)
+PP: 8/27 (29.62%)
+Total penectomy: 4/27
+(14.82%)
+
+
+NR 100% EORTC QLQ-C30 and
+General Health
+
+Questionnaire and
+Impact of Events
+Scale. The treatment
+
+was not related to
+
+overall well-being or
+social contact and
+
+activity
+
+
+
+Penile surgery
+WLE: 27/688 (3.92%)
+Circumcision: 41/688
+(5.95%)
+PP: 522/688 (75.9%)
+Total penectomy: 83
+(12.1%)
+Unclear: 15/688 (2.2%)
+
+
+
+
+NR NR NR NR NR High risk
+
+
+Ornellas et al.
+
+(2008) [80]
+
+
+
+
+Retrosp. 688
+case series Tx: 53/688
+(7.7%)
+T1: 93/688
+(13.5%)
+T2: 323/688
+(46.95%)
+T3: 176/688
+(25.58%)
+T4: 43/688
+(6.25%)
+
+Retrosp. 177
+case series T1: 58/177
+(33%)
+T2: 99/177
+(56%)
+T3: 20/177
+(11%)
+
+
+
+89.39% (615/
+688)
+10-yr DFS 71%
+in patients
+with
+
+immediate
+
+LND
+
+In those with
+
+delayed LND,
+this
+
+percentage
+decreased to
+
+30%
+
+
+100% Low risk
+
+(continued on next page)
+
+
+95% at 1 yr NR NR NR Complete or near90% at 3 yr complete graft loss:
+35/177 (20.34%)
+Meatal stenosis: 4/
+177 (2.3%)
+
+
+Parnham et al.
+
+(2018) [82]
+
+
+PSS 90.69% (156/
+Glansectomy 172), median
+
+FU 41 mo
+
+Falcone et al.
+
+(2020) [84]
+
+
+
+PSS NR At 1 yr:
+Glans resurfacing 96.1% (25/26
+
+men may
+include CIS
+
+patients)
+At 2 yr:
+88.5% (23/
+26)
+At 3 yr: 80%
+(12/15)
+
+
+
+
+
+100% at 2 yr High risk
+
+
+NR NR NR Overall rate: 3.8%
+
+(wound
+complication)
+Wound infection: 1/
+26 (3.8%)
+Partial graft loss: 4/
+26 (15.3%)
+
+
+
+
+Retrosp. 15 (26)
+case series Tx/Tis/Ta:
+11/26
+(42.31%)
+T1–2: 15/26
+(57.69%)
+
+
+
+
+NR NR NR NR NR High risk
+
+
+Pietrzak et al.
+
+(2004) [86]
+
+
+Prospective 69
+case series Tis/Ta: 2/69
+(2.9%)
+T1: 19/69
+(27.54%)
+T2: 17/69
+(24.64%)
+T3: 1/69
+(1.5%)
+
+
+PSS: 39
+
+Partial glansectomy: 5/
+39 (12.8%)
+Glansectomy and
+reconstruction: 21/39
+(53.85%)
+Glansectomy and distal
+corporectomy and
+reconstruction: 8/39
+
+
+NR Results at 1
+yr FU
+
+PSS: 97.4%
+
+(38/39)
+Amputative
+
+surgery:
+100% (10/10)
+
+NR NR NR NR NR High risk
+
+
+Albersen et al.
+
+(2018) [88]
+
+
+82.4% (97/ At 1 yr: 105/
+117) 117 (89.5%)
+At 3 yr: 97/
+117 (82.4%)
+
+
+PSS
+
+Glansectomy and glans
+reconstruction (117/
+117)
+
+
+
+
+
+
+
+NR NR NR NR NR High risk
+
+
+86.4% (775/ At 1 yr: 840/
+897) 897 (93.6%)
+At 3 yr: 799/
+897 (89.1%)
+
+
+Roussel et al.
+
+(2021) [90]
+
+
+Penile-sparing surgery
+Glansectomy: 657/897
+(73%)
+Glansectomy and distal
+corporectomy: 240/897
+(27%)
+
+
+
+
+Retrosp. 117
+case series T1: 31/117
+(26.5%)
+T2: 70/117
+(59.7%)
+T3: 16/117
+(13.7%)
+
+Retrosp. 897
+case series T1: 230/897
+(26%)
+T2: 534/897
+(60%)
+T3: 108/897
+(12%)
+Tx: 25/897
+(2.8%)
+
+
+(continued on next page)
+
+Leijte et al.
+(2008) [6]
+
+
+
+
+Wide local excision:
+
+105/700 (15.0%)
+Laser (Nd:YAG or CO 2 ):
+289/700 (41.28%)
+RT: 21/700 (3%)
+PP: 214/700 (30.57%)
+Total penectomy: 71/
+700 (10.14%)
+
+
+70.7% (495/ NR NR NR NR NR NR High risk
+700)
+
+
+
+
+Retrosp. 580 (700)
+case series Tis/Ta: 120/
+
+700
+
+(17.14%)
+T1: 207/580
+(35.7%)
+T2: 289/580
+(49.83%)
+T3: 45/580
+(7.76%)
+T4: 39/580
+(6.72%)
+
+
+
+
+
+Moh’s micrographic surgery
+
+
+
+Response rate:
+66% (27/41;
+questionnaires)
+27/27 reported
+no change
+
+postop
+
+
+Lukowiak et al.
+
+(2021) [94]
+
+
+Moh’s microsurgery 100% (22/22) NR NR Response rate: 57.5%
+(23/40; questionnaires)
+23/23 reported no
+change postop
+
+
+NR NR High risk
+
+
+
+Retrosp. 22 (119)
+case series Tx/Tis: 87/
+119 (73.2%)
+T1: 18/22
+(81.8%)
+T2–3: 4/22
+(18.2%)
+
+
+
+E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4 87
+
+86.4% of whom were T1-T2 [63,65,74,82,88,90]. The 5-yr
+recurrence-free rates ranged from 78.0% to 95.8%.
+Amputative surgery is reserved for more advanced disease. Five trials reported on 243 men; 71.6% were staged
+as T1-T2, who underwent partial or total penectomy
+
+[61,64,68,71,73]. The cumulative mean 5-yr recurrencefree rate was 83.9% (204/243; range 75.8–95.4%). Two CSs
+including T1 and T2 men reported 5-yr recurrence-free
+rates of 92% and 95.4% after partial penectomy [71,73].
+A handful of single-center studies reported overall 5-yr
+recurrence-free rates from 70.7% to 96.6%, irrespective of
+the surgical approach or disease stage [6,60,79–81,87,91].
+Three studies including men who received radiotherapy or
+laser were excluded to prevent contamination of data
+
+[6,79,92].
+Seven NRCSs retrospectively compared 5-yr recurrencefree rates of penile-sparing surgery versus amputative surgery [11,14,16,20–22,25]. Of the men, 41.1% were staged
+as T1, 49.6% as T2, and 9.3% as �T3. Data on 785 men
+who received any type of penile-sparing surgery and 699
+men who had amputative surgery are presented. The cumulative recurrence-free rates were 76.7% (602/785) for
+penile-sparing surgery and 93.3% (652/699) for amputative
+surgery (Fig. 3). Two NRCSs reviewed T1 and T2 cases only,
+and reported a 5-yr recurrence-free rate of 69.3% (133/192)
+after penile-sparing surgery as compared with 88.7%
+(94/106) after amputative surgery [16,22]. An NRCS compared 5-yr recurrence-free rates of penile-sparing surgery,
+amputative surgery, and radiotherapy, and reported rates
+of 76.9%, 85%, and 60%, respectively [18]. A small cohort
+study, which included men with T1G2 penile SCC, reported
+comparable 5-ar recurrence-free rates for circumcision and
+partial penectomy (80.0% vs 81.8%) [70].
+
+
+Fig. 2 – Risk of bias graph and summary of nonrandomized comparative
+studies using Cochrane tool ROBINS-I, including additional items to assess
+confounding bias risk. The five confounders were identified a priori: tumor
+stage, tumor grade, nodal stage, tumor margins, and previous radiotherapy
+or chemotherapy.
+
+Eleven studies reported on 3438 men after penilesparing surgery, with 42.1% of men were staged as T1,
+50.1% as T2, and 7.8% as T3
+
+[7,56,57,59,63,65,74,82,85,88,90]. The 5-yr recurrence-free
+rates across all cases ranged from 70% to 95.8%. The cumulative mean 5-yr recurrence-free rate was 82.0%
+(2820/3438). Glansectomy, with or without distal corporectomy, was reported in six studies involving 1681 men,
+
+
+3.4.1.1.2. Radiotherapy. Twenty-one studies evaluated the
+efficacy of radiotherapy in the management of primary
+tumor in men with penile cancer. A total of 1222 men had
+low-, pulse-, or high-dose-rate brachytherapy after circumcision [10,26,28–32,34–45]. Two studies reported the outcomes of EBRT in 67 men showing 5-yr recurrence-free
+rates for all cases ranging from 39.1% to 92% [27,33]. The
+cumulative mean 5-yr recurrence-free rates were 78.6%
+(861/1096) after brachytherapy and 55.2% (37/67) after
+EBRT. Seven studies reported recurrence-free rates per disease stage, with 5-yr recurrence-free rates ranging from
+32.4% to 100% in T1, 50% to 80% in T2, and 0% to 80% in
+T3 disease [26–28,33,35,42,44].
+
+3.4.1.1.3. Laser treatment. Nine studies reported the outcomes of 389 men, 81.2% (316/389) with T1 and 18.5%
+(71/389) with T2 disease [45–49,51–53,55]. The cumulative
+mean 5-yr recurrence-free rate was 69.4% (270/389; range
+34.2–94%). Three studies reported 5-yr recurrence-free
+rates per disease stage: 42.9–73.9% for T1 and 23.5–84.2%
+for T2 disease [47,49,51].
+
+3.4.1.1.4. Moh’s micrographic surgery. Three studies
+reported 5-yr recurrence-free rates in 51 men, most diagnosed with T1 disease [93–95]. The cumulative mean 5-yr
+recurrence-free rate was 88.2% (45/51; range 71.4–100%).
+
+3.4.1.2. Post-treatment sexual function. Sexual function was
+assessed in 27 studies involving 991 men. The five- or 15
+88 E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4
+
+Fig. 3 – Recurrence rates at 5 yr following penile-sparing surgery (PSS) versus amputative surgery (AS). CI = confidence interval; M-H = Mantel-Haenszel test.
+
+Fig. 4 – International Index of Erectile Function-15 questionnaire (IIEF-15) score, presented per questionnaire domain. AS = amputative surgery,
+CI = confidence interval; M-H = Mantel-Haenszel test; PSS = penile-sparing surgery; SD = standard deviation; Std. = standard.
+
+
+question International Index of Erectile Function (IIEF)
+scores were used most often. Nearly all studies reported
+either post-treatment scores only or the mean difference
+from retrospectively collected pretreatment scores.
+Three NRCSs and one CS (n = 202) compared the impact
+of penile-sparing surgery versus amputative surgery on sexual function [13,15,24,78]. Two studies, using the IIEF-15
+questionnaire, reported significant post-treatment changes
+in erectile and orgasmic function domains in favor of
+penile-sparing surgery (p = 0.033 and p = 0.033; Fig. 4)
+
+[15,24]. Two studies, using the IIEF-5 questionnaire,
+reported no difference between treatments [13,20]. A study
+comparing the impact of penile-sparing surgery, amputative surgery, and radiotherapy reported worst sexual outcome after penectomy [78]. Three trials retrospectively
+compared penile-sparing surgery techniques [16,17,62].
+Wide local excision was superior to glansectomy in each
+
+
+IIEF domain [16]. Partial glansectomy scored similar to total
+glansectomy [62].
+Findings from CSs were similar to those from NRCSs. Five
+studies on patients after penile-sparing surgery and reconstruction reported that 85.0–100% of men were sexually
+active, but reduced glans sensitivity was consistently
+reported [74,76,77,81,92]. Four studies on 167 men treated
+by partial penectomy reported significant changes in IIEF
+scores [58,67,69,73]. In a single trial, 61.7% of men reported
+erectile dysfunction after partial penectomy [73].
+Five studies assessed sexual function after brachytherapy [30,36,38–40]. Among sexually active men, 58.8–
+70.0% still had intercourse [36,40] and potency was maintained in 81.5–100% of men [30,36,38–40]. Altered sensitivity of the glans area is reported by 52.6% in one study [36].
+Three studies assessed sexual function after laser treat
+ment [46,50,54], with 46.0–56.5% of men reporting an
+
+E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4 89
+
+
+impact on their sexual life in two trials [50,54]. In the third
+trial (n = 46), 72% of men reported no change in erectile
+function, while 22% reported decreased erectile function
+
+[46].
+No change in sexual function after Moh’s micrographic
+surgery treatment was reported by 57.5% of men in one trial
+
+[94].
+
+3.4.1.3. Post-treatment QoL. QoL was assessed in ten studies including 346 men [12,15,20,24,40,54,62,78,83,89]. The
+European Organisation for Research and Treatment of Cancer (EORTC) Core Quality of Life (EORTC QLQ-C30) questionnaire was used most frequently. Two studies compared QoL
+scores between treatments as the primary outcome [12,78].
+One study reported that treatment itself was not related to
+the overall well-being or to social contact and activity; however, 53% patients reported mental symptoms at follow-up
+
+[78].
+A retrospective study compared the EORTC QLQ-C30
+scores in a cohort of men after penile-sparing surgery with
+those in an age-matched reference population and reported
+that surgery significantly impacts every domain of the questionnaire (p < 0.05) except physical functioning (p = 0.157)
+
+[83]. Another study using the Bigelow’s questionnaire compared the postoperative QoL scores with those at 2 wk
+before surgery, and reported significant improvements in
+the scores relating to unpleasant feeling, sexual pleasure,
+and familial/partner relations (p < 0.01) [89].
+Two NRCSs compared QoL after penile-sparing surgery
+and amputative surgery based on the EORTC QLQ-C30 questionnaire, with contradictory results; the first study demonstrated an inverse correlation between aggressiveness of
+surgery and global health status, while the second found
+no difference in QoL between treatments [12,15]. Two studies, using the EQ-5D and Short Form Health Survey (SF-36)
+tools, reported comparable QoL scores for penile-sparing
+surgery and amputative surgery [20,24]. However, after
+amputative surgery, men reported more appearance concerns (p = 0.008) and more life interference (p = 0.032)
+depending on the degree of disfigurement caused by the
+procedure.
+
+3.4.2. Secondary outcomes
+Data regarding secondary outcomes were unreported across
+studies. The available evidence is described below.
+
+3.4.2.1. Recurrence-free rates at 1 and 3 yr. Recurrence-free
+rates at 1 and 3 yr were reported in 26 CSs [10,18,19,29,33,
+41,42,44,46,51,56,58,62,65,66,72,74,76,77,81,82,84,86,88,90,
+92]. In men who underwent penile-sparing surgery, the 1-yr
+mean recurrence-free rate was 95.6% (range 84–100%) and
+the 3-yr mean recurrence-free rate was 88.8% (range
+80.0–94.0%) [15,56,65,66,72,74,76,77,81,82,84,86,88,90,92].
+In men after amputative surgery, the mean 1-yr
+recurrence-free rate was 90.3% (range 80.6–100%) and the
+mean 3-yr recurrence-free rate was 88.5% (range 59.7–
+100%) [10,15,18,19,68,86]. The 1- and 3-yr mean
+recurrence-free rates after radiotherapy were 77.6% (range
+61.5–86.2%) and 74.7% (range 57.7–85.8%), respectively
+
+[10,29,33,41,42,44].
+
+
+3.4.2.2. Penile-preservation rate. Thirteen studies on 2166
+men reported a mean penile-preservation rate after
+penile-sparing surgery of 79.7% (range 67.0–100%)
+
+[11,14,17,56,57,61,63,65,66,72,74,76,92]. Eighteen studies
+reported a mean penile-preservation rate after brachytherapy of 86.3% (range 69.5–96.5%) and a penile-preservation
+rate ranging from 62.0% to 69.2% after EBRT [26–39,41–
+44]. In ten studies of 512 men, the mean penilepreservation rate following laser therapy was 89.2% (range
+50–100%) [46–55]. A study on Moh’s micrographic surgery
+reported 100% penile-preservation rate.
+
+3.4.2.3. Post-treatment urinary function. Urinary function
+has been evaluated in eight studies. Two CSs reported
+improved urinary function and high satisfaction after penile
+surgery [58,62]. Two NRCSs reported no difference in urination between penile-sparing surgery or amputative surgery.
+The first study reported a comparable maximum flow rate
+(19.5 vs 20.8 ml/s) for penile-sparing surgery and amputative surgery, and the second study found no difference in
+ICIQ-MLUTS scores between glans resurfacing, glansectomy,
+and partial penectomy [15,20]. Urine spraying was reported
+to be more common after partial penectomy (83% vs 43%) in
+one study [24]. Three CSs reported that neither brachytherapy nor Moh’s micrographic surgery affected urinary function [39,40,94].
+
+3.4.2.4. Treatment-related complications. Eighteen studies
+reported on surgery-related complications [16–18,20,22,23
+,45,58–61,63,66,67,76,77,82,84]. Graft-related problems
+(loss, contraction, or overgrowth) were reported in 10.5%
+(range 1.6–20.4%) of patients [17,20,59,63,66,74,77,82,84].
+Neomeatus stenosis was reported in 6.3% (range 1–15.4%)
+
+[16,17,20,22,23,58,61,66,67,74,76,82]; wound-related complications (dehiscence or bleeding) were reported in 3.96%
+(range 0.6–6.9%) [17,22,59,60] and wound infection in
+5.2% (range 0.6–10%) of cases [17,22,58–61,84].
+Twenty studies reported on radiotherapy-related complications [10,26–43,45]. Acute reactions limited to implant
+site were frequent and consistently reported. Local toxicities such as mucositis and urethritis were reported in 82–
+100% of cases. Glans or penile ulceration incidence was
+reported in 24.2% (range 2.6–43%) [26,27,34,36,37,40,41–4
+3] and meatal stenosis in 20.0% (range 1.3–40.0%)
+
+[10,27,28,30–37,39–43,45]. One study suggested a dosedepended stenosis risk (10.3% in doses >60 Gy vs 37.2% in
+doses <60 Gy) [37], while another described the treated
+area–depended risk (60% in treated area >25 cm [3] vs 17%
+in <25 cm [3] ) [41]. Pain was reported between 3.2% and
+40%. Less frequent complications were bleeding, necrosis,
+atrophy, and fibrosis.
+Three studies reported on laser-related complications,
+with preputial edema and dysuria occurring more frequently [46,49,55]. Meatal stenosis was reported in 7.4%
+and postoperative bleeding in 1–7%. Meatal stenosis was
+reported in 13.3% of Moh’s micrographic surgery cases [93].
+
+3.5. Discussion
+
+Penile cancer is a rare neoplasm that in many cases, upon
+presentation, is confined to the prepuce or glans, and it is
+
+90 E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4
+
+
+well to moderately differentiated. These characteristics render the primary tumor amenable to treatment by penile
+conservative techniques, rather than by amputative surgery. In order to assess whether this translates to a clinically
+meaningful benefit, we conducted this systematic review to
+provide a higher level of evidence. A Cochrane protocol on
+the surgical management of localized penile cancer was
+previously submitted but withdrawn 1 yr later due to lack
+of progress and low prioritization [96,97].
+
+3.5.1. Principal findings
+This systematic review includes 88 studies and 9758 men
+with invasive penile cancer who underwent any type of
+treatment for their primary tumor. Treatment modalities
+included are surgery, radiotherapy, laser, and Moh’s micrographic surgery. Since the bulk of the presented evidence
+relies on retrospective CS, results need to be interpreted
+with caution. However, some conclusions regarding primary and secondary outcomes of this study can be drawn.
+The review includes 16 NRCSs, with an overall unclear to
+high RoB, while the remaining studies have a high RoB and
+therefore the quality of evidence is poor.
+Most CSs report similar recurrence-free rates between
+penile-sparing surgery and amputative surgery. In a series
+of T1 and T2-only disease, 5-yr recurrence-free rates after
+amputative surgery were superior to those after penilesparing surgery, which are in line with the findings of a
+recent systematic review [98]. The cumulative 5-yr
+recurrence-free rates of penile-sparing surgery are reported
+to be 82% in CS and 76.7% in NRCSs. Similarly, the cumulative 5-yr recurrence-free rates of amputative surgery are
+reported to be 83.9% in CS and 93.3% in NRCSs. These variations reflect the differences of study design as well as the
+different cohorts included in the analysis. The higher
+recurrence-free rates observed after amputative surgery
+need to be weighed against the impact on sexual function
+and QoL. The 5-yr recurrence-free rate after brachytherapy
+is superior to that after EBRT and comparable with that after
+penile-sparing surgery (78.6% vs 82%). Laser treatment and
+Moh’s micrographic surgery are associated with worthy
+recurrence-free rates, but the majority of treated patients
+were T1, making a comparison with other modalities
+impossible.
+The impact on sexual function is related to the aggressiveness of treatment. Wide local excision is superior to
+glansectomy, and penile-sparing surgery is superior to partial penectomy. Most men after penile-sparing surgery
+achieved erection, maintained sexual function, and scored
+better at IIEF questionnaires as compared with those after
+amputative surgery. Studies after partial penectomy
+reported significant changes in IIEF-15 scores and erectile
+dysfunction in 61.7% of men. Brachytherapy affects a third
+of sexually active men, while laser treatment and Moh’s
+micrographic surgery do not influence erectile function,
+although reduced glans sensitivity was consistently
+reported across studies.
+Surgery has a negative impact on QoL without significant
+difference between treatments. However, after amputative
+surgery, men report more appearance concerns and life
+interference due to disfigurement.
+
+
+Data show that 1- and 3-yr recurrence-free rates were
+close to 5-yr recurrence-free rate, indicating that most
+recurrences occur within the first years after treatment.
+Moh’s micrographic surgery is associated with a better
+penile-preservation rate than laser therapy (100% vs
+89.2%), brachytherapy (86.3%), or penile-sparing surgery
+(79.7%). Urine spraying was frequently reported after partial
+penectomy, even though no other difference was recognized between treatments. Frequent complications include
+graft and wound problems after surgery, local toxicity and
+ulceration after brachytherapy, edema, and bleeding after
+laser treatment, and meatal stenosis after Moh’s micrographic surgery.
+
+3.5.2. Implications for clinical practice
+Penile-sparing surgery should be considered, when possible, to treat primary penile lesions, aiming to preserve functional penile length, avoid disfigurement, and maintain QoL.
+The benefits must be weighed against the potential risk of
+residual disease and positive surgical margins, two factors
+that are correlated with an increased risk of local recurrence
+
+[98]. Evidence from CSs showed similar 5-yr cumulative
+recurrence-free rates between penile-sparing surgery and
+amputative surgery (82.0% vs 83.9%), thus strengthening
+the role of penile-sparing surgery in many cases. In addition, studies coming from large-volume centers present
+the lowest recurrence-free rates, supporting the concept of
+centralization of penile cancer care [7]. Evidence from
+NRCSs showed the superiority of amputative surgery over
+penile-sparing surgery in 5-yr recurrence-free rates (93.3%
+vs 76.7%), reflecting the different study designs. The results
+should be interpreted with caution since patients who
+underwent amputative surgery have more advanced disease than penile-sparing surgery patients (�T3: 29.4% vs
+7.8%). Two NRCSs on T1-T2 men only confirmed the superiority of amputative surgery over penile-sparing surgery
+(88.7% vs 69.3%), at a cost of sacrificing sexual function
+and psychological well-being [16,22].
+Evidence from radiotherapy studies shows that compared with EBRT, brachytherapy results in better 5-yr
+recurrence-free rates with comparable results to penilesparing surgery. An NRCS comparing amputative surgery,
+penile-sparing surgery, and radiotherapy reported that the
+5-yr recurrence-free rates were 85%, 76.9%, and 60%, respectively [18]. The results are in accordance with the literature,
+reporting comparable 5-yr recurrence-free rates for penilesparing surgery and brachytherapy (84% vs 79% and 85% vs
+84% in T1-T2 cohorts) [99,100]. Laser treatment and Moh’s
+micrographic surgery are effective in T1 men, but conclusions are difficult to draw. The 1- and 3-yr recurrence-free
+rate patterns indicate that local recurrences occur soon after
+
+treatment.
+
+Penile cancer surgery impacts QoL and sexuality, hence
+the interest in penile-sparing surgery. It should be noted
+that patient-reported outcome measures have never been
+validated in penile cancer patients. Evidence from NRCSs
+show that penile-sparing surgery resulted in better sexual
+function, intercourse confidence, partner satisfaction, and
+IIEF-15 scores than amputative surgery [15,24,101]. In addition, penile cancer treatment affects mental well-being and
+
+E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4 91
+
+
+increases the risk of mental symptom development
+
+[12,71,78]. Literature reports that following penile cancer
+treatment, the risk of depression is 6–39% and the risk of
+anxiety is 31–58% [71,102]. A systematic review identified
+the need for standardized tools and interventional pathways to adequately assess the psychological and sexual dysfunction in penile cancer patients [5,103].
+
+3.5.3. Implications for further research
+The lack of well-designed, prospective trials highlights the
+need for further research. It is important to promote highquality trials to allow comparison of different treatment
+options of primary tumors. Trial accrual and funding remain
+challenging in rare disease areas.
+
+3.5.4. Limitations and strengths
+The limitations of this systematic review relate to the weaknesses of the evidence analyzed. All studies were retrospective and of lower quality. It is therefore impossible to draw
+any firm conclusions, but only to observe trends and narratively report data. An additional limitation is data duplication. Data originating from high-volume centers may
+circulate in multiple publications, and thus influence the
+results to be skewed toward the means of those large centers that publish a lot and treat a high number of patients.
+Another limitation is the retrospective collection of data
+from relevant questionnaires such as sexual function or
+QoL, making the results open to a recall bias. Finally, we
+identified that all studies failed to report on censoring at
+5-yr out.
+The strengths of this review include adherence to Preferred Reporting Items for Systematic Reviews and Metaanalyses (PRISMA) guidelines, an a priori written protocol,
+a well-designed methodology, and a systematic and transparent approach.
+
+4. Conclusions
+
+We systematically reviewed studies assessing the efficacy
+of surgery, radiotherapy, laser, and Moh’s micrographic surgery in the treatment of the primary tumor in penile cancer
+patients, using standard methods for evidence acquisition
+and synthesis. The findings and clinical relevance were
+interpreted using an appropriate clinical context provided
+by the expert panel. Even though the quality of evidence
+is poor, there are data to support that penile-sparing surgery is not inferior to amputative surgery and should be
+offered whenever possible. Limitations relate to the weak
+evidence base, and the lack of large prospective studies
+and RCTs. Despite these limitations, this review provides
+up-to-date evidence of the predefined variables and can
+help provide clinical guidance.
+
+Author contributions: Vasileios I. Sakalis had full access to all the data in
+
+the study and takes responsibility for the integrity of the data and the
+
+accuracy of the data analysis.
+
+Study concept and design: Sakalis, Brouwer, Tagawa.
+
+Acquisition of data: Sakalis, Antunes-Lopes, Barreto, Campi, Garcia
+Perdomo, Greco, Kailavasan, Zapala.
+
+
+Analysis and interpretation of data: Sakalis, Brouwer, Tagawa, Antunes
+Lopes. Barreto, Campi, Garcia-Perdomo, Greco, Kailavasan, Zapala.
+
+Drafting of the manuscript: Sakalis.
+
+Critical revision of the manuscript for important intellectual content: Saka
+lis, Brouwer, Tagawa, Albersen, Ayres, Crook, Moonen, Necchi, Oliveira,
+
+Parnham, Pagliaro, Pettaway, Protzel, Rumble, Spiess, Manzie, Marcus,
+
+Osborne.
+
+Statistical analysis: None.
+
+Obtaining funding: None.
+
+Administrative, technical, or material support: None.
+
+Supervision: Sakalis, Brouwer, Tagawa.
+
+Other: None.
+
+Financial disclosures: Vasileios I. Sakalis certifies that all conflicts of inter
+est, including specific financial interests and relationships and affiliations
+
+relevant to the subject matter or materials discussed in the manuscript
+
+(eg, employment/affiliation, grants or funding, consultancies, honoraria,
+
+stock ownership or options, expert testimony, royalties, or patents filed,
+
+received, or pending), are the following: Maarten Albersen received
+
+research grants from Ipsen and Pfizer. Benjamin Ayres received speaker
+
+honorarium from Olympus KeyMed, is a company consultant for Cepheid
+
+UK Ltd, and participates is a trial by MSD. Juanita Crook received company
+
+consultancy fees for Ferring and Tersera. Arie Parnham received company
+
+speaker honorarium from Boston Scientific and participated in a trial by
+
+VELRAD. Curtis A. Pettaway received company consultant fees from
+
+Wolters Kluwer, contributing to their ‘Up to date’ Penile Cancer series.
+
+Philippe E. Spiess is President of the Global Society of Genitourinary
+
+Tumours, Vice-chair of the NCCN Bladder and Penile Cancer Guidelines,
+
+and Chair of the AUA Core-Curriculum Committee. Scott T. Tagawa, Oscar
+
+R. Brouwer, Pedro Oliveira, Lance C. Pagliaro, R. Bryan Rumble, Andrea
+
+Necchi, Chris Protzel, Tiago Antunes-Lopes, Lenka Barreto, Riccardo Campi,
+
+Herney Andres Garcia-Perdomo, Isabella Greco, Luc M.F. Moonen, Mithun
+
+Kailavasan, Vasileios I. Sakalis, Łukasz Zapala, Kenneth Manzie, Jack David
+
+Marcus, and John Osborne have nothing to disclose.
+
+Funding/Support and role of the sponsor: None.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at
+[https://doi.org/10.1016/j.euros.2022.04.002.](https://doi.org/10.1016/j.euros.2022.04.002)
+
+References
+
+[[1] Verhoeven RH, Janssen-Heijnen ML, Saum KU, et al. Population-](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0005)
+[based survival of penile cancer patients in Europe and the United](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0005)
+[States of America: no improvement since 1990. Eur J Cancer](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0005)
+[2013;49:1414–21.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0005)
+
+[[2] Hernandez BY, Barnholtz-Sloan J, German RR, et al. Burden of](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0010)
+[invasive squamous cell carcinoma of the penis in the United States,](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0010)
+[1998–2003. Cancer 2008;113:2883–91.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0010)
+
+[3] Barnholtz-Sloan J, Maldonado JL, Pow-Sang J, Giuliano AR.
+Incidence in primary [malignant](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0015) penile cancer. Urol Oncol
+[2007;25:361–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0015)
+
+[[4] Hakenberg OW, Comperat E, Minhas S, Necchi A, Protzel C, Watkin](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0020)
+[N. EAU guidelines on penile cancer. Presented at EAU Annul](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0020)
+[Meeting, Barcelona, Spain, 2001.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0020)
+
+[[5] Maddineni SB, Lau MM, Sangar VK. Identifying the needs of penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0025)
+[cancer sufferers: a systematic review of the quality of life,](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0025)
+[psychosexual and psychosocial literature in penile cancer. BMC](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0025)
+[Urol 2009;9:1–8.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0025)
+
+[[6] Leijte JA, Kirrander P, Antonini N, Windahl T, Horenblas S.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0030)
+[Recurrence patterns of squamous cell carcinoma of the penis:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0030)
+[recommendations for follow-up based on a two-renter analysis of](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0030)
+[700 patients. Eur Urol 2008;54:161–8.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0030)
+
+92 E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4
+
+
+
+[[7] Sri D, Sujenthiran A, Lam W, et al. A study into the association](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0035)
+[between local recurrence rates and surgical resection margins in](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0035)
+organ sparing surgery for penile squamous. BJU Int
+[2018;122:576–82.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0035)
+
+[[8] Sterne JA, Hernan MA, Reeves BC, et al. ROBINS-I: a tool for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0040)
+assessing the risk of bias [in](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0040) non-randomised studies of
+[interventions. BMJ 2016;355:i4919.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0040)
+
+[[9] Knoll T, Omar MI, Maclennan S, et al. Key steps in conducting](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0045)
+[systematic reviews for underpinning clinical practice guidelines:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0045)
+[methodology of the European Association of Urology. Eur Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0045)
+[2018;73:290–300.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0045)
+
+[[10] Garisto J, Nayan M, Fadaak K, et al. Oncological outcomes in the](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0050)
+[management of T1z–T2 cN0 penile squamous cell carcinoma. Can](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0050)
+[Urol Assoc J 2021;15:187–91.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0050)
+
+[[11] Brkovic D, Kalble T, Dorsam J, et al. Surgical treatment of invasive](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0055)
+[penile cancer—the Heidelberg experience from 1968 to 1994. Eur](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0055)
+[Urol 1997;31:339–42.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0055)
+
+[[12] Sosnowski R, Wolski JK, Kulpa M, et al. Assessment of quality of life](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0060)
+in patients surgically treated for penile cancer: impact of
+[aggressiveness in surgery. Eur J Oncol Nurs 2017;31:1–5.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0060)
+
+[[13] Sosnowski R, Wolski JK, Kulpa M, et al. Assessment of selected](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0065)
+quality of life domains in [patients](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0065) who have undergone
+[conservative or radical surgical treatment for penile cancer: an](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0065)
+[observational study. Sex Health 2019;16:32–8.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0065)
+
+[[14] Veeratterapillay R, Teo L, Asterling S, Greene D. Oncologic outcome](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0070)
+[of penile cancer treatment at a UK supraregional center. Urology](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0070)
+[2015;85:1097–103.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0070)
+
+[[15] Wan X, Zheng D, Liu C, et al. A comparative study of two types](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0075)
+[of organ sparing surgeries for early stage penile cancer: wide](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0075)
+[local excision vs partial penectomy. Eur J Surg Oncol 2018;44:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0075)
+[1425–31.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0075)
+
+[[16] Sedigh O, Falcone M, Ceruti C, et al. Sexual function after surgical](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0080)
+[treatment for penile cancer: which organ-sparing approach gives](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0080)
+[the best results? Can Urol Assoc J 2015;9:E423–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0080)
+
+[[17] Yang J, Chen J, Wu XF, et al. Glans reconstruction wit preputial flap](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0085)
+[is superior to primary closure for post-surgical restoration of male](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0085)
+sexual function in glans [preserving](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0085) surgery. Andrology
+[2014;2:729–33.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0085)
+
+[[18] Mistry T, Jones RWA, Dannatt E, Prasad KK, Stockdale AD. A 10-](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0090)
+[year retrospective audit of penile cancer management in the UK.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0090)
+[BJU Int 2007;100:1277–81.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0090)
+
+[[19] Ozsahin M, Jichlinski P, Weber DC, et al. Treatment of penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0095)
+[carcinoma: to cut or not to cut? Int J Radiat Oncol Biol Phys](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0095)
+[2006;66:674–9.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0095)
+
+[[20] Perez J, Chavarriaga J, Ortiz A, et al. Oncological and functional](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0100)
+[outcomes after organ sparing plastic reconstructive surgery for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0100)
+[penile cancer. Urology 2020;142:161–5.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0100)
+
+[[21] Djajadiningrat RS, van Werkhoven E, Meinhardt W, et al. Penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0105)
+[sparing surgery for penile cancer—does it affect survival? J Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0105)
+[2014;192:120–6.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0105)
+
+[[22] Lont AP, Gallee MPW, Meinhardt W, van Tinteren H, Horenblas S.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0110)
+[Penis conserving treatment for T1 and T2 penile carcinoma:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0110)
+[clinical implications of a local recurrence. J Urol 2006;176:575–80.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0110)
+
+[[23] Gotsadze D, Matveen B, Zak B, Mamaladze V. Is conservative](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0115)
+[organ-sparing treatment of penile carcinoma justified? Eur Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0115)
+[2000;38:306–12.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0115)
+
+[[24] Kieffer JM, Rosa S, Djajadiningrat RS, et al. Quality of life in patients](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0120)
+[treated for penile cancer. J Urol 2014;192:1105–10.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0120)
+
+[[25] Lindner AK, Schachtner G, Steiner E, et al. Organ sparing surgery of](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0125)
+[penile cancer: higher rate of local recurrence yet no impact on](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0125)
+[overall survival. World J Urol 2020;38:417–24.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0125)
+
+[[26] Akimoto T, Mitsuhashi N, Takahashi I, et al. Brachytherapy for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0130)
+[penile cancer during silicon old. Oncology 1997;54:23–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0130)
+
+[[27] Azrif M, Logue JP, Swindell R, Cowan RA, Wylie JP, Livsey JE.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0135)
+[External beam radiation in T1–2N0 penile carcinoma. Clin Oncol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0135)
+[2006;18:320–5.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0135)
+
+[[28] Chaudhary AJ, Ghosh S, Bhalavat RL, Kulkarni JN, Sequeira BVE.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0140)
+[Interstitial brachytherapy in carcinoma of penis. Strahlenther](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0140)
+[Onkol 1999;175:17–20.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0140)
+
+[[29] Cordoba A, Escande A, Lopez S, et al. Low-dose brachytherapy for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0145)
+[early stage penile cancer: a 20 year single institution study (73](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0145)
+[patients). Radiat Oncol 2016;11:1–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0145)
+
+[[30] Crook JM, Jezioranski J, Math M, Grimard L, Esche B, Pond G. Penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0150)
+[brachytherapy: results for 49 patients. Int J Radiat Oncol Biol Phys](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0150)
+[2005;62:460–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0150)
+
+
+
+[[31] Crook J, Ma C, Grimard L. Radiation therapy in the management of](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0155)
+[the primary penile tumor. World J Urol 2009;27:189–96.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0155)
+
+[[32] Pimenta A, Gutierrez C, Mosquera D, et al. Penile brachytherapy—](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0160)
+retrospective review of a [single](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0160) institution. Brachytherapy
+[2015;14:525–30.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0160)
+
+[33] McLean M, Akl AM, Warde P, Bissett R, Panzarella T,
+[Gospodarowicz M. The results of primary radiation therapy in](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0165)
+[the management of squamous cell carcinoma of the penis. Int J](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0165)
+[Radiat Oncol Biol Phys 1993;25:623–8.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0165)
+
+[[34] De Crevoisier R, Slimane K, Sanfilippo N, et al. Long term results of](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0170)
+[brachytherapy for carcinoma of the penis confined to the glans (N-](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0170)
+[or Nx). Int J Radiat Oncol Biol Phys 2009;74:1150–6.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0170)
+
+[[35] Delannes M, Malavaud B, Douchez J, Bonnet J, Daly NJ. Iridium-192](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0175)
+[interstitial therapy for squamous cell carcinoma of the penis. Int J](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0175)
+[Radiat Oncol Biol Phys 1992;24:479–83.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0175)
+
+[[36] Delaunay B, Soh PN, Delannes M, et al. Brachytherapy for penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0180)
+[cancer: efficacy and impact on sexual function. Brachytherapy](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0180)
+[2014;13:380–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0180)
+
+[[37] Escande A, Haie-Meder C, Mazeron R, et al. Brachytherapy for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0185)
+[conservative treatment of invasive penile carcinoma: prognostic](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0185)
+[factors and long term analysis of outcome. Int J Radiat Oncol Biol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0185)
+[Phys 2017;99:563–70.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0185)
+
+[[38] Makarewicz R, Lebioda A, Terlikiewicz J, Kabacinska R. Interstitial](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0190)
+[brachytherapy for penile cancer. The experience of oncology](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0190)
+[centre in Bydgoszcz. J Contemp Brachyther 2010;2:157–9.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0190)
+
+[[39] Martz N, Bodokh Y, Gautier M, et al. High-dose rate brachytherapy](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0195)
+[in localised penile cancer: 5-year clinical outcome analysis. Clin](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0195)
+[Transl Radiat Oncol 2021;27:89–95.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0195)
+
+[[40] Gambachidze D, Lebacle C, Maroun P, et al. Long-term evaluation](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0200)
+[of urinary, sexual and quality of life outcomes after brachytherapy](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0200)
+[for penile carcinoma. Brachytherapy 2017;17:221–6.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0200)
+
+[[41] Kamsu-Kom L, Bidault F, Mazeron R, et al. Clinical experience with](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0205)
+[pulse dose rate brachytherapy for conservative treatment of penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0205)
+[carcinoma and comparison with historical data of low dose rate](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0205)
+[brachytherapy. Clin Oncol 2015;27:387–93.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0205)
+
+[[42] Kellas-Sleczka S, Bialas B, Fijalkiwski M, et al. Nineteen-year](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0210)
+[single-center experience in 76 patients with penile cancer treated](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0210)
+with high doe rate [brachytherapy.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0210) Brachytherapy
+[2009;18:493–502.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0210)
+
+[[43] Kiltie AE, Elwell C, Close HJ, Ash DV. Iridium-192 implantation for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0215)
+[node-negative carcinoma of the penis: the Cookridge Hospital](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0215)
+[experience. Clin Oncol 2000;12:25–31.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0215)
+
+[[44] Rozan R, Albuisson E, Giraud B, et al. Interstitial brachytherapy for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0220)
+[penile carcinoma: a multi centric survey (259 patients). Radiother](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0220)
+[Oncol 1995;36:83–93.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0220)
+
+[[45] Zouhair A, Coucke PA, Jeanneret W, et al. Radiation therapy alone](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0225)
+[or combined surgery and radiation therapy in squamous-cell](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0225)
+[carcinoma of the penis. Eur J Cancer 2011;37:198–203.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0225)
+
+[[46] Musi G, Russo A, Conti A, et al. Thulium-yttrium-aluminium-](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0230)
+[garnet (Tm:YAG) laser treatment of penile cancer: oncological](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0230)
+[results, functional outcomes and quality of life. World J Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0230)
+[2018;36:265–70.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0230)
+
+[[47] Meijer RP, Boon TA, Van Venrooij GEPM, Wijburg CJ. Long term](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0235)
+[follow up after laser therapy for penile carcinoma. Urology](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0235)
+[2007;69:759–62.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0235)
+
+[[48] Schlenker B, Tilki D, Seitz M, et al. Organ-preserving neodymium-](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0240)
+[yttrium-aluminium-garnet laser therapy for penile carcinoma: a](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0240)
+[long term follow up. BJU Int 2010;106:786–90.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0240)
+
+[[49] Windahl T, Andersson SO. Combined laser treatment for penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0245)
+carcinoma: results after [long](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0245) term follow up. J Urol
+[2003;169:2118–21.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0245)
+
+[[50] Windahl T, Sleppner E, Andersson SO, Fugl-Meyer KS. Sexual](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0250)
+[function and satisfaction in men after laser treatment from penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0250)
+[carcinoma. J Urol 2004;172:648–51.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0250)
+
+[[51] Tang DH, Yan S, Ottenhof SR, et al. Laser ablation as mono therapy](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0255)
+[for penile squamous cell carcinoma: a multicenter cohort analysis.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0255)
+[Urol Oncol 2018;36:147–52.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0255)
+
+[[52] Tewari M, Kumar M, Shukla HS. Nd:YAG Laser treatment of early](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0260)
+[stage carcinoma of the penis preserves form and function of penis.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0260)
+[Asian J Surg 2007;30:126–30.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0260)
+
+[[53] Tietjen DN, Malek RS. Laser therapy of squamous cell dysplasia](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0265)
+[and carcinoma of the penis. Urology 1998;52:559–65.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0265)
+
+[[54] Skeppner E, Windahl T, Andersson SO, Fulg-Meyer KS. Treatment-](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0270)
+[seeking, aspects of sexual activity and life satisfaction unman with](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0270)
+[laser-treated penile carcinoma. Eur Urol 2008;54:631–9.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0270)
+
+E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4 93
+
+
+
+[[55] Bandieramonte G, Colecchia M, Mariani L, et al. Peniscopically](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0275)
+[controlled CO2 laser excision for conservative treatment of in situ](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0275)
+[and T1 penile carcinoma: report on 224 patients. Eur Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0275)
+[2008;54:875–84.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0275)
+
+[[56] Baumgarten AS, Chipollini J, Yan S, et al. Penile sparing surgery for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0280)
+[penile cancer: a multicenter international retrospective cohorts. J](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0280)
+[Urol 2018;199:1233–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0280)
+
+[[57] Bissada NK, Yakout HH, Fahmy WE, et al. Multi-institutional long](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0285)
+[term experience with conservative surgery for invasive penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0285)
+[carcinoma. J Urol 2003;169:500–2.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0285)
+
+[[58] Carver BS, Mata JA, Venable DD, Eastham JA. Squamous cell](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0290)
+[carcinoma of the penis: a retrospective review of forty-five](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0290)
+[patients. South Med J 2002;95:822–5.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0290)
+
+[59] Philippou P, Shabbir M, [Malone](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0295) P, Nigam R, Muneer A.
+[Conservative surgery for squamous cell carcinoma of the penis:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0295)
+[resection margins and long-term oncological control. J Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0295)
+[2012;188:803–8.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0295)
+
+[[60] Chalya PL, Rambau PF, Masalu N, Simbila S. Ten year surgical](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0300)
+[experiences with penile cancer at a tertiary care hospital in north](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0300)
+[west stern Tanzania: a retrospective study of 236 patients. World J](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0300)
+[Surg Oncol 2015;13:71.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0300)
+
+[[61] Chen MF, Chen WC, Wu CT, Chuang CK, Ng KW, Change JTC.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0305)
+[Contemporary management of penile cancer including surgery](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0305)
+[and adjuvant radiotherapy: an experience in Taiwan. World J Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0305)
+[2004;22:60–6.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0305)
+
+[[62] Croghan SM, Compton N, Danoels AE, Fitzgibbon DPI, Cullen IM.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0310)
+[Phallus preservation in penile cancer surgery: patient-reported](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0310)
+[aesthetic and functional outcomes. Urology 2021;152:60–6.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0310)
+
+[[63] Smith Y, Hadaway P, Biedrzycki O, Perry MJA, Corbishle C, Watkin](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0315)
+NA. Reconstructive surgery for invasive. Eur Urol
+[2007;52:1179–85.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0315)
+
+[[64] Szeto OY, Cheng HC, Ng WS, Ngan KC. Squamous cell carcinoma of](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0320)
+[the penis: fourteen-year experience from a tertiary institution.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0320)
+[Hong Kong J Radiol 2016;19:111–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0320)
+
+[[65] Tang DH, Yan S, Oteenhof SR, et al. Glansectomy as primary](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0325)
+[management of penile squamous cell carcinoma: an international](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0325)
+[study collaboration. Urology 2017;109:140–4.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0325)
+
+[[66] Veeratterapillay R, Sahadevan K, Aluru P, Asterling S, Rao GS,](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0330)
+[Greene D. Organ-preserving surgery for penile cancer: description](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0330)
+[of techniques and surgical outcomes. BJU Int 2012;110:1792–5.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0330)
+
+[[67] Romero FR, Romero KR, Mattos MA, Garcia CR, Fernandes Rde C,](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0335)
+[Perez MD. Sexual function after partial penectomy for penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0335)
+[cancer. Urology 2005;66:1292–5.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0335)
+
+[[68] Sakai I, Miyake H, Terakawa T, Mutotsugu M, Takenaka A, Fujisawa](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0340)
+M. Oncological outcomes [following](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0340) surgical treatment for
+[Japanese men with squamous cell carcinoma of the penis. Curr](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0340)
+[Urol 2010;4:125–30.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0340)
+
+[[69] Sansalone S, Silvani M, Leonardi R, Vespasiani G, Iacovelli V. Sexual](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0345)
+[outcomes after partial penectomy for penile cancer: results from a](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0345)
+[multi-institutional study. Asian J Androl 2017;19:57–61.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0345)
+
+[[70] Schlenker B, Tilki D, Gratzke C, et al. Intermediate-differentiated](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0350)
+[invasive (pT1G2) penile cancer—oncological outcome and follow-](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0350)
+[up. Urol Oncol 2011;29:782–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0350)
+
+[[71] Yu C, Hequn C, Longfei L, et al. Sexual function after partial](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0355)
+penectomy: a prospectively study from China. Sci Rep
+[2016;6:21862.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0355)
+
+[[72] Minhas S, Kayes O, Hegarty P, Kumar P, Freeman A, Ralph D. What](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0360)
+[surgical resection margins are required to achieve oncological](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0360)
+control in men with [primary](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0360) penile cancer? BJU Int
+[2005;96:1040–3.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0360)
+
+[[73] Monteiro LL, Skowronski R, Brimo F, et al. Erectile function after](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0365)
+partial penectomy for [penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0365) cancer. Int Braz J Urol
+[2021;47:515–22.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0365)
+
+[[74] Morelli G, Pagni R, Mariani C, et al. Glansectomy with split-](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0370)
+[thickness skin graft for the treatment of penile carcinoma. Int J](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0370)
+[Impotence Res 2009;21:311–4.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0370)
+
+[[75] Moses KA, Winer A, Sfakianos JP, et al. Contemporary management](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0375)
+[of penile cancer: greater than 15-year MSKCC experience. Can J](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0375)
+[Urol 2014;21:7201–6.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0375)
+
+[[76] O’Kane HF, Ho AP, Thwaini A, Nambirajan T, Keane P. Outcome of](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0380)
+[glansectomy and skin grafting in the management of penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0380)
+[cancer. Adv Urol 2011;2011:240824.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0380)
+
+[[77] O’Kelly F, Lonergan P, Lundon D, et al. A prospective study of total](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0385)
+[glans resurfacing for localised penile cancer to maximise oncologic](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0385)
+[and functional outcomes in a tertiary referral network. J Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0385)
+[2017;197:1258–63.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0385)
+
+
+
+[[78] Opjordsmoen S, Fossa SD. Quality of life in patients treated for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0390)
+[penile cancer. a follow-up study. Br J Urol 1994;74:652–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0390)
+
+[[79] Opjordsmoen S, Waehere H, Aass N, Fossa SD. Sexuality in patients](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0395)
+[treated for penile cancer: patient’s experience and doctors’](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0395)
+[judgement. Br J Urol 1994;73:554–60.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0395)
+
+[[80] Ornellas AA, Kinchin EW, Nobrega BL, Wisnescky A, Koifman N,](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0400)
+[Quirino R. Surgical treatment of invasive squamous cell carcinoma](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0400)
+of the penis: Brazilian [National](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0400) Cancer Institute long-term
+[experience. J Surg Oncol 2008;97:487–95.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0400)
+
+[[81] Palminteri E, Fusco F, Berdondini E, Salonia A. Aesthetic neo-glans](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0405)
+reconstruction after [penis-sparing](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0405) surgery for benign,
+premalignant or malignant penile lesions. Arab J Urol
+[2011;9:115–20.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0405)
+
+[[82] Parnham AS, Albersen M, Sahdev V, et al. Glansectomy and](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0410)
+[split-thickness skin graft for penile cancer. Eur Urol 2018;73:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0410)
+[284–9.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0410)
+
+[[83] Draeger DL, Sievert KD, Hakenberg OW. Cross-sectional patient](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0415)
+[reported outcome measuring of health-related quality of life with](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0415)
+[establishment of cancer and related treatment-specific functional](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0415)
+[and symptom scales inpatients with penile cancer. Clin Genitourin](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0415)
+[Cancer 2018;16:e1215–20.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0415)
+
+[[84] Falcone M, Preto M, Oderda M, et al. Total glans resurfacing for the](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0420)
+[management of superficial penile cancer: a retrospective cohort](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0420)
+[analysis in a tertiary referral center. Urology 2020;145:281–6.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0420)
+
+[[85] Feldman AS, McDougal WS. Long-term outcome of excision organ](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0425)
+sparing surgery for [carcinoma](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0425) of the penis. J Urol
+[2011;186:1303–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0425)
+
+[[86] Pietrzak P, Corbishley C, Watkin N. Organ-sparing surgery for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0430)
+invasive penile cancer: [early](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0430) follow up data. BJU Int
+[2004;94:1253–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0430)
+
+[[87] Ficarra V, D’Amico A, Cavalleri S, et al. Surgical treatment of penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0435)
+carcinoma: our experience [from](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0435) 1976 to 1997. Urol Int
+[1999;62:234–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0435)
+
+[[88] Albersen M, Parnham A, Joniau S, et al. Predictive factors for local](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0440)
+[recurrence after glansectomy and neoglans reconstruction for](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0440)
+[penile squamous cell carcinoma. Urol Oncol 2018;36:141–6.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0440)
+
+[[89] Gulino G, Sasso F, Palermo G, et al. Sexual outcomes after organ](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0445)
+[potency-sparing surgery and glans reconstruction in patients with](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0445)
+[penile carcinoma. Indian J Urol 2013;29:119–23.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0445)
+
+[[90] Roussel E, Peeters E, Vanthoor J, et al. Predictors of local recurrence](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0450)
+[and its impact on survival after glansectomy for penile cancer:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0450)
+[time to challenge the dogma? BJU Int 2021;127:606–13.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0450)
+
+[[91] Kokorovic A, Duplisea J, Qiao W, et al. Oncologic outcomes and](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0455)
+[subsequent treatment following organ sparing surgery for penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0455)
+[carcinoma: the University of Texas M.D. Anderson Cancer Center](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0455)
+[experience. Urol Oncol 2021;39:302.e19–27.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0455)
+
+[[92] Li J, Zhu Y, Zhang SL, et al. Organ-sparing surgery for penile cancer:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0460)
+[complications and outcomes. Urology 2011;78:1121–4.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0460)
+
+[[93] Shindel AW, Mann MW, Lev RY, et al. Mohs micrographic surgery](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0465)
+[for penile cancer: management and long term follow up. J Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0465)
+[2007;178:1980–5.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0465)
+
+[[94] Lukowiak TM, Perz AM, Aizman L, et al. Mohs micrographic](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0470)
+[surgery for male genital tumors: local recurrence rates and](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0470)
+[patient-reported outcomes. J Am Acad Dermatol 2021;84:1030–6.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0470)
+
+[[95] Machan M, Brodland D, Zitelli J. Penile squamous cell carcinoma:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0475)
+[penis-preserving treatment with Mohs micrographic surgery.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0475)
+[Dermatol Surg 2016;42:936–44.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0475)
+
+[[96] Imamura M, MacLennan S, Lam TBL, et al. Surgical management](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0480)
+[for localised penile cancer. Cochrane Database Syst Rev 2015;3:](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0480)
+[CD011533.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0480)
+
+[97] Dimitropoulos K, Stewart F, Imamura M, et al. Surgical
+[management for localised penile cancer (protocol). Cochrane](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0485)
+[Database Syst Rev 2017;3:CD011533.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0485)
+
+[[98] Kamel MH, Bissada N, Warford R, Farias J, Davis R. Organ sparing](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0490)
+surgery for penile cancer: [a](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0490) systematic review. J Urol
+[2017;198:770–9.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0490)
+
+[[99] Hasan S, Francis A, Hagenauer A, et al. The role of brachytherapy in](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0495)
+[organ preservation for penile cancer: a meta-analysis and review](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0495)
+[of the literature. Brachytherapy 2015;14:517–24.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0495)
+
+[[100] Hu X, Huang J, Wen S, Fu J, Chen M. Comparison of efficacy](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0500)
+[between brachytherapy and penectomy in patients with penile](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0500)
+[cancer: a meta-analysis. Oncotarget 2017;8:100469–77.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0500)
+
+[[101] Yang J, Chen J, Wu XF, Song NJ, Xu XY, Quan L. Glans preservation](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0505)
+[contributes to postoperative restoration of male sexual function: a](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0505)
+[multicenter clinical study of glans preserving surgery. J Urol](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0505)
+[2014;192:1410–7.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0505)
+
+94 E U R O P E A N U R O L O G Y O P E N S C I E N C E 4 0 ( 2 0 2 2 ) 5 8 – 9 4
+
+
+
+[[102] Ficarra V, Righetti R, D’Amico A, et al. General state of health and](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0510)
+[psychological well-being in patients after surgery for urological](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0510)
+[malignant neoplasms. Urol Int 2000;65:130–4.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0510)
+
+
+
+[[103] Drager DL, Milerski S, Sievert KD, Hakenberg OW. Psychosocial](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0515)
+[effects in patients with penile cancer: a systematic review.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0515)
+[Urology A 2018;57:444–52.](http://refhub.elsevier.com/S2666-1683(22)00077-5/h0515)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

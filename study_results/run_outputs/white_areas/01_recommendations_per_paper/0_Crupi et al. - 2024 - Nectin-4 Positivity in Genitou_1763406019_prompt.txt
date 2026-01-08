@@ -1,0 +1,1642 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Review Articles
+# Nectin-4 Positivity in Genitourinary Malignancies: A Systematic Review
+
+Emanuele Crupi, MD [1,2] ; Tiago Costa de Padua, MD [1] ; Laura Marandino, MD [1] ; Giuseppe Fallara, MD [3] ; Filippo Pederzoli, MD [4] ;
+Alessia Cimadamore, MD [5] ; Emanuele C. Goetz, MD [6] ; Antonio Cigliola, MD [1] ; Damiano A. Patan´e, MD [1] ; Chiara Mercinelli, MD [1] ;
+Valentina Tateo, MD [1] ; Andrea Salonia, MD [2,7] ; Alberto Briganti, MD [2,7] ; Francesco Montorsi, MD [2,7] ; Joshua J. Meeks, MD [8] ;
+Philippe E. Spiess, MD [9] ; Omar Alhalabi, MD [10] ; Jianjun Gao, MD [10] ; Ashish M. Kamat, MD [11] ; Petros Grivas, MD [12,13] ;
+Andrea Necchi, MD [1,2] ; and Daniele Raggi, MD [1]
+
+[DOI https://doi.org/10.1200/PO-24-00470](https://doi.org/10.1200/PO-24-00470)
+
+
+ABSTRACT
+
+PURPOSE Aberrant expression of nectin-4 (N4) has been observed in several malignancies
+emerging as new target for antibody-drug conjugates, especially in urothelial
+carcinoma of the bladder (UBC). Limited data on N4 positivity in nonurothelial
+genitourinary (GU) cancers are available. This systematic-review aimed to
+investigate N4 positivity among GU malignancies.
+
+METHODS A systematic literature review was performed on March 2023 using PubMed,
+MEDLINE, and Embase databases according to Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses statement. Protocol was amended to
+incorporate a new updated search on March 2024.
+
+RESULTS Twenty-five studies evaluating N4 positivity in GU tumors were included, 14 on
+UBC, three on upper tract urothelial carcinoma (UTUC), six on histologic
+subtypes (HS) and divergent histology of the bladder, one on papillary renal cell
+carcinoma (pRCC), one in chromophobe RCC (chRCC), two on penile cancer, one
+in prostate cancer (PCa). Among UBC, stratifying per stage N4 positivity was
+
+–
+higher in metastatic (weighted mean [WM], 90.8; range, 59.6-100) and in non
+muscle-invasive (WM, 87.4; range, 86.7-88.3) than in muscle-invasive UC
+(WM, 83.1; range, 68.2-100). The N4 positivity of UBC was higher than UTUC
+(WM, 62.9; range, 44.4-65.7). Immunohistochemistry N4 positivity was reported to be lower in non-UC malignancies, including pRCC (WM, 44.1; range,
+44.1-44.1), HS (WM, 63.5; range, 0-100), PCa (WM0; range, 0-0), chRCC (WM,
+18.5; range, 18.5-18.5), and penile cancer (WM, 86.5; range, 61.4-98.3), compared with UBC overall (WM, 87.1; range, 59.6-100).
+
+CONCLUSION Non-UC malignancies seem to have a lower N4 positivity rate than UC. N4
+positivity in bladder cancer appears to vary according to stage and presence of
+HS. The predictive and prognostic role of N4 must be further characterized in
+larger and prospective studies.
+
+
+ACCOMPANYING CONTENT
+
+[Editorial, 10.1200/PO-](https://ascopubs.org/doi/full/10.1200/PO-24-00766)
+[24-00766](https://ascopubs.org/doi/full/10.1200/PO-24-00766)
+
+Appendix
+
+[Data Supplement](https://ascopubs.org/doi/suppl/10.1200/PO-24-00470)
+
+[Protocol](https://ascopubs.org/doi/suppl/10.1200/PO-24-00470)
+
+Accepted September 25, 2024
+
+Published December 3, 2024
+
+JCO Precis Oncol 8:e2400470
+
+© 2024 by American Society of
+
+Clinical Oncology
+
+
+INTRODUCTION
+
+In past few years, targeted therapies, immunotherapy, and
+antibody-drug conjugates (ADCs) have revolutionized the
+urothelial carcinoma (UC) treatment landscape. Despite
+encouraging developments, several patients with advancedstage still experience poor responses, leading to unfavorable
+outcomes. Identifying reliable biomarkers to guide patient
+selection is crucial for improving clinical outcomes.
+
+Several tissue-based biomarkers have been studied as
+
+prognostic and predictive factors. [1][-][3] Nectin-4 (N4), a
+transmembrane protein of the nectin family, plays a crucial
+
+
+role in migration, cell adhesion, and proliferation. [1] Aberrant
+expression of N4 has been observed in several malignancies,
+including breast, ovarian, lung, and pancreatic cancers, with
+prevalence ranging from 40% to 80%. [4][,][5] N4 immunohistochemistry (IHC) positivity has been reported in over 70%
+of UC specimens, making it a potential target for ADCs
+(Fig 1), contrary to what has been observed in normal
+urothelial tissue. [5] In metastatic UC (mUC), prospective and
+retrospective studies reported conflicting data regarding N4
+positivity. [5][-][9]
+
+However, a gap exists in understanding N4 expression’s
+relevance in non-UC genitourinary (GU) cancers, such as
+
+[ascopubs.org/journal/po | 1](http://ascopubs.org/journal/po)
+
+Crupi et al
+
+
+
+
+
+
+
+
+
+
+FIG 1. Proof of concept of anti-N4 ADC: this proof-of-concept image shows the intricate journey of
+anti-N4 ADC. The drug is internalized (1-2) after binding to N4 on the cancer cell’s surface. After
+internalization, the ADC is cleaved, and the payload is released (3), leading to intracellular toxicity. EV
+is a third-generation ADC approved by EMA and the FDA for treating adult patients with locally
+advanced or metastatic urothelial cancer after progression to platinum-based chemotherapy and
+ICIs and for cisplatin-ineligible patients previously treated with ICIs. In December 2019, EV received
+FDA accelerated approval on the basis of the pivotal phase II study, followed by regular approval in
+September 2021 on the basis of the multicenter open-label, randomized phase III study (EV-301). EV
+comprises a fully human anti-N4 IgG1 kappa monoclonal antibody (AGS-22C3) linked to MMAE, a
+microtubule-disrupting agent via a protease-cleavable linker. ADC, antibody-drug conjugate; APC,
+antigen-presenting cell; EMA, European Medicines Agency; ER, endoplasmic reticulum; EV, enfortumab vedotin; FDA, US Food and Drug Administration; ICIs, immune checkpoint inhibitors; MMAE,
+monomethyl auristatin E; N4, nectin-4.
+
+
+kidney, penile, and prostate cancers (PCa). Exploring N4
+expression across a broader spectrum of GU tumors could
+provide valuable insights into its potential role as a predictive and prognostic biomarker.
+
+Enfortumab vedotin (EV), a N4-directed ADC, is approved by
+the US Food and Drug Administration and European Medicines Agency for patients with locally advanced (la) or mUC
+(la/mUC) after the failure of platinum-based chemotherapy
+and immunotherapy or for cisplatin-unfit patients after
+immunotherapy or for treatment-na [¨] ıve patients in upfront
+combination with pembrolizumab. [10][,][11] In the pivotal EV-101
+trial, N4 determination was mandatory. However, the subsequent EV-201 trial showed no correlation between N4
+positivity and outcomes, and the EV-301trial led to the
+approval regardless of N4 positivity. [12][-][17] EV-201, EV-301,
+EV-103, and EV-302 trials did not require N4 expression for
+eligibility (Fig 2).
+
+In this systematic review, we aim to shed light on the N4
+positivity rate among UC and other non-UC GU malignancies.
+
+2 | © 2024 by American Society of Clinical Oncology
+
+
+METHODS
+
+Search Strategy
+
+The study protocol was registered in the International
+Prospective Register of Systematic Reviews (PROSPERO;
+Registration ID CRD42023403988). According to the Preferred Reporting Items for Systematic Reviews and MetaAnalyses statement, we conducted a systematic literature
+search using PubMed and MEDLINE databases on March 14,
+2023, to identify studies reporting N4 positivity, histo-score
+(H-score), and/or expression profiles in a specimen of patients with GU malignancies. Additional search of reference
+lists and review articles was performed to ensure literature
+saturation. After the initial screening, protocol was amended
+to incorporate an updated search on March 1, 2024, using the
+same search strategy, to identify any additional relevant
+studies.
+
+Search strategy and inclusion/exclusion criteria are detailed
+in the protocol.
+
+Nectin-4 Positivity in Genitourinary Malignancies
+
+FIG 2. The evolution of anti-N4 therapies in GU malignancies: a timeline of trials and advancements. [a] [ClinicalTrials.gov identifier: NCT01409135.](https://www.clinicaltrials.gov/ct2/show/NCT01409135) [b] [ClinicalTrials.gov identifier: NCT04724018.](https://www.clinicaltrials.gov/ct2/show/NCT04724018)
+
+c [ClinicalTrials.gov identifier: NCT05014139.](https://www.clinicaltrials.gov/ct2/show/NCT05014139) d [ClinicalTrials.gov identifier: NCT04960709.](https://www.clinicaltrials.gov/ct2/show/NCT04960709) e Clini[calTrials.gov identifier: NCT04754191.](https://www.clinicaltrials.gov/ct2/show/NCT04754191) f [ClinicalTrials.gov identifier: NCT05756569.](https://www.clinicaltrials.gov/ct2/show/NCT05756569) g Clinical[Trials.gov identifier: NCT06104618.](https://www.clinicaltrials.gov/ct2/show/NCT06104618) [h] [ClinicalTrials.gov identifier: NCT05868265.](https://www.clinicaltrials.gov/ct2/show/NCT05868265) [i] ClinicalTrials.gov
+[identifier: NCT06302569.](https://www.clinicaltrials.gov/ct2/show/NCT06302569) [j] [ClinicalTrials.gov identifier: NCT05656235.](https://www.clinicaltrials.gov/ct2/show/NCT05656235) [k] ClinicalTrials.gov identifier:
+
+l m
+[NCT06356155.](https://www.clinicaltrials.gov/ct2/show/NCT06356155) ClinicalTrials.gov identifier: [NCT05775471.](https://www.clinicaltrials.gov/ct2/show/NCT05775471) ClinicalTrials.gov identifier:
+[NCT05879653.](https://www.clinicaltrials.gov/ct2/show/NCT05879653) [n] [ClinicalTrials.gov identifier: NCT06470282. ALX148, evorpacept; Atezo, atezoli-](https://www.clinicaltrials.gov/ct2/show/NCT06470282)
+zumab; CDDP, cisplatin; Durva, durvalumab; EV, enfortumab vedotin; FDA, US Food and Drug
+Administration; GU, genitourinary; HS, histologic subtypes; la, locally advanced; mCRPC, metastatic castration-resistant prostate cancer; MIBC, muscle invasive bladder cancer; mPSCC, metastatic penile squamous cell carcinoma; mUC, metastatic urothelial carcinoma; N4, Nectin-4;
+NMIBC, non–muscle-invasive bladder cancer; PEMBRO, pembrolizumab; pos, positive; RT, radiotherapy; SG, sacituzumab govitecan; Treme, tremelimumab; UC, urothelial carcinoma; UTUC,
+upper tract urothelial carcinoma.
+
+JCO Precision Oncology [ascopubs.org/journal/po | 3](http://ascopubs.org/journal/po)
+
+Crupi et al
+
+
+Three authors (E.C., D.R., and T.C.d.P.) independently
+completed study selection. Potential disagreements were
+resolved by consensus among all coauthors. Titles and abstracts were used for initial screening, and duplicated articles were removed. When abstracts were insufficient for
+
+inclusion determination, a full-text review was performed.
+
+–
+Review articles, commentaries, editorials, and non peerreviewed articles were excluded.
+
+Study Quality Assessment
+
+Risk of bias and quality assessment were performed using
+ROBINS-I tool (Appendix Table A1) for interventional
+nonrandomized trials and Joanna Briggs Institute criticalappraisal tools for retrospective case series [18][,][19] (Appendix
+Table A2).
+
+Data Collection, Variables, Outcome Definitions,
+and Assessment
+
+Data were collected using a proforma, including first author,
+year of publication, study design, IHC assays, antibodies
+used for IHC, and number of included patients. N4 positivity
+and H-score were presented for each study and grouped
+according to the histotype in UC, upper tract urothelial
+carcinoma (UTUC), renal cell carcinoma (RCC), PCa, and
+penile cancer. Regarding UC, considered settings were mUC,
+non–muscle-invasive bladder cancer (NMIBC), and muscleinvasive bladder cancer (MIBC), along with presence of
+histologic subtypes (HS) and non-UC bladder cases. To
+ensure transparency and reliability, authors involved in
+selection and data extraction had no relevant conflicts of
+
+interest.
+
+H-score assigns a grade to staining intensity (0 5 absent, 1 5
+weak, 2 5 moderate, 3 5 strong) and calculates the percentage of N4-positive cells (0%-100%). Scores are multiplied to yield the H-score, ranging from 0 to 300, and
+categorized as negative (0-14), weak (15-99), moderate
+(100-199), or strong (200-300). [5] Across studies, N4positivity assessments vary with different cutoffs, antibodies, or median values as thresholds. Depending on the
+study, pathologists considered membrane/cytoplasm only or
+membrane and cytoplasm stainings (Table 1).
+
+Assessed outcomes included N4-positivity rates across
+different histologies, stages, and sites, and H-scores between prospective and retrospective studies. We aimed to
+identify N4-positivity patterns and clinical significance, and
+address methodologic impacts. To explore N4 predictive and
+prognostic role, outcomes included objective response rate
+(ORR), recurrence-free survival (RFS), disease-free survival,
+progression-free survival (PFS), and overall survival (OS).
+
+For continuous variables reported as the median (range),
+results were converted to mean 6 standard deviation (SD)
+using a dedicated formula. [36] After obtaining the SD, 95% CIs
+were computed. For continuous variables (ie, H-score), the
+
+4 | © 2024 by American Society of Clinical Oncology
+
+
+weighted mean (WM) was calculated by multiplying each
+value by its weight (ie, number of patients), summing these
+products, and then dividing by the sum of weights. Proportions were used for categorical variables. For categorical
+variable (ie, N4-positivity rate), WM was calculated by
+weighting each study’s proportion by its sample size and
+then dividing the sum of weighted proportions by the total
+sample size across all studies. For one-study subgroups,
+study proportion was used directly as the WM. Data were
+represented using the RStudio v.0.98 for R software v.3.0.2
+with the Metafor package.
+
+Given the high heterogeneity in study designs, H-score
+techniques, N4-positivity rates, and reporting criteria, we
+did not perform quantitative analyses. The protocol describes these aims and discontinued preplanned subgroup
+analyses.
+
+RESULTS
+
+Literature Search and Study Selection
+
+From the database search, 170 records were identified. After
+removing duplicates (n 5 86), 25 studies were included in the
+final review: one on PCa, one on papillary RCC (pRCC), one on
+chromophobe RCC (chRCC), and 16 on UC, six on HS and
+non-UC of the bladder (Appendix Fig A1). Study characteristics are summarized in Table 1.
+
+Among included studies, 2,930 patients with UC, 230 with
+non-UC of the bladder, 85 with HS of the bladder, 297 with
+pRCC, 224 with UTUC, 178 with penile cancer, 81 with PCa,
+and 82 with chRCC were assessed. Most studies used IHC to
+
+evaluate N4 positivity, using different antibodies and
+quantifying results with the H-score.
+
+Overall Results
+
+N4-positivity rates in GU malignancies are summarized in
+Figure 3. UC showed the highest positivity rate, ranging from
+a mean of 83.1% (range, 68.2-100) in MIBC to 90.8% (range,
+59.6-100) in mUC. Other rates were 62.9% (range, 44.465.7) for UTUC, 63.5% (range, 44.4-65.7) for HS, and 69.6%
+for non-UC of the bladder (range, 35.5-85.8). N4 positivity in
+non-UC tumors was 44.1% for pRCC, 18.5% for chRCC, and
+86.5% for penile cancer (range, 61.4-98.3). The WM H-score
+from prospective trials in UC was 281.6 (279.5-283.7), while
+from retrospective studies was 109.6 (103.4-115.9; Fig 4;
+Appendix Table A3).
+
+Correlation between N4-positivity rate and treatment response or outcomes was not assessed because of high data
+heterogeneity (Data Supplement, Table S1).
+
+Figure 5 presents N4 IHC WMs among HS and non-UC of the
+bladder, ranging from squamous cell carcinoma (SCC;
+83.6%) to sarcomatoid feature (9.1%).
+
+TABLE 1. Included Studies
+
+Data
+Author, Year Tumor Type Assessment Specimen Origin
+
+
+Previous Exposition to
+Therapy Before Sampling (details)
+
+
+Site of N4
+IHC Antibody (type; No. (tested UC IHC1 PaEvaluation species) N4) tients (rate%)
+
+
+N4 Positivity
+Cutoff
+
+Definition
+
+
+Challita Eid et al, [5] 2016 UC (NMIBC and Retrospective TMAs from FFPE tumor tissue NOS M 1 C M22-321b41.1
+MIBC) [a] NOS (monoclonal;
+mouse)
+
+
+Hoffman-Censits et al, [9] UC (NMIBC) Retrospective TMA from primary tumor (TURB) No M 1 C EPR 15613-68,
+
+2021 Abcam (monoclonal; rabbit)
+
+Choi et al, [20] 2022 UC (NMIBC) Retrospective TMAs of FFPE of primary tumor No M EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+Garczyk et al, [21] 2022 UC (NMIBC) Retrospective TMAs from FFPE from primary No M 1 C; M EPR 15613-68,
+tumor (TURBT) Abcam (monoclonal; rabbit)
+
+
+467 389/467 (83.3) H-score >14
+
+83 72/83 (87) H-score >14
+
+60 53/60 (89) H-score >14
+
+
+225 patients,
+437
+samples
+
+
+NA H-score >14
+
+
+Chu et al, [8] 2021 UC (MIBC) Retrospective TMAs from FFPE tumor tissue of
+primary from post-NAC radical
+cystectomy or TURBT
+
+
+Yes (NAC in the post- M 1 C EPR 15613-68,
+NAC cohort) Abcam (monoclonal; rabbit)
+
+
+Hoffman-Censits et al, [9] UC (MIBC) Retrospective TMA from primary tumor (TURB) No M 1 C EPR 15613-68,
+
+2021 Abcam (monoclonal; rabbit)
+
+
+Fan et al, [22] 2022 UC (MIBC) Retrospective FFPE specimens from radical
+cystectomy and radical
+nephroureterectomy
+
+
+No M 1 C EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+
+Miyake et al, [23] 2022 UC (MIBC) Retrospective TURBT specimen No M 1 C HPA010775
+SIGMA (rabbit;
+polyclonal)
+
+Challita Eid et al, [5] 2016 mUC Retrospective TMAs from FFPE tumor tissue NOS M 1 C M22-321b41.1
+NOS (monoclonal;
+mouse)
+
+Rosenberg et al, [12] 2020 (EV- mUC Phase I Tumor tissue biopsy samples NOS M 1 C M22-321b41.1
+101) from FFPE (monoclonal;
+mouse)
+
+
+Ueki et al, [24] 2021 mUC Retrospective Radical cystectomy (28/47) Yes, neoadj platinumTURBT (19/47) based CT (18/47;
+38.3%)
+
+
+NOS EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+
+80 NA NOS
+
+22 15/22 (68.2) H-score >14
+
+72 57/72 (79.2) H-score >14
+
+36 36/36 (100) H-score pos if
+>median H
+
+score
+
+25 23/25 (92) H-score >14
+
+152 147/152 (96.7) H-score >14
+
+47 28/47 (59.6) H-score >14
+
+20 18/20 (90) H-score >14
+
+137 110/137 (80.3) H-score >14
+
+
+Ghali et al, [25] 2023 mUC Retrospective Primary autopsy and metastases
+sampling (evaluation performed independently)
+
+
+Yes (CT, IO) M 1 C EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+
+
+
+Kl¨umper et al, [26] 2022 mUC Retrospective FFPE from radical cystectomy (N No M 1 C EPR 15613-68,
+5 96) and TURB (n 5 41) Abcam (monoclonal; rabbit)
+
+(continued on following page)
+
+TABLE 1. Included Studies (continued)
+
+Data
+Author, Year Tumor Type Assessment Specimen Origin
+
+
+Previous Exposition to
+Therapy Before Sampling (details)
+
+
+Site of N4
+IHC Antibody (type; No. (tested UC IHC1 PaEvaluation species) N4) tients (rate%)
+
+
+N4 Positivity
+Cutoff
+
+Definition
+
+
+Rosenberg et al, [13] 2022 (EV- mUC Phase Ib/II TURBT specimen No M 1 C M22-321b41.1
+201 cohort 1) (monoclonal;
+mouse)
+
+Yu et al, [16] 2022 (EV-201 mUC Phase II Archival or fresh tumor speci- NOS NOS M22-321b41.1
+cohort 2) mens at baseline NOS (monoclonal;
+mouse)
+
+
+Tomiyama et al, [27] 2020 UTUC Retrospective TMAs from radical nephroureter- Yes (26/99, 26.3%, reectomy samples ceived adjuvant
+platinum-based CT)
+
+
+120 120/120 (100) H-score >14
+
+80 79/80 (99) H-score >14
+
+99 65/99 (65.7) H-score >14
+
+27 12/27 (44.4) H-score >14
+
+98 64/98 (65) H-score >14
+
+33 11/33 (33.3) H-score >14
+
+
+Calandrella et al, [28] 2022 UTUC Retrospective Radical nephroureterectomy or
+biopsy of primary or metastases NOS
+
+
+Yes (18,4% received
+ADJ platinum-based
+CT)
+
+
+M EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+M 1 C EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+
+Hashimoto et al, [29] 2023 UTUC Retrospective TMAs of primary samples from NOS NOS EPR 15613-68,
+radical nephroureterectomy Abcam (monoclonal; rabbit)
+
+
+Hoffman-Censits et al, [9] HS of the Retrospective TMA from primary tumor (TURB) No M 1 C EPR 15613-68,
+
+2021 bladder [b] Abcam (monoclonal; rabbit)
+
+Rodler et al, [30] 2022 HS of the Retrospective TMAs from radical cystectomy NOS NOS HPA010775
+bladder [b] SIGMA (rabbit;
+polyclonal)
+
+Miyake et al, [23] 2022 HS of the Retrospective TURBT specimen No M 1 C HPA010775
+bladder [b] SIGMA (rabbit;
+polyclonal)
+
+
+26 See the Data
+Supplement
+(Table S1)
+
+
+H-score >14
+
+
+Fan et al, [22] 2022 HS of the Retrospective FFPE specimens from radical
+bladder [b] cystectomy and radical
+nephroureterectomy
+
+Ghali et al, [25] 2023 HS of the Retrospective Primary autopsy and metastases
+bladder [b] sampling (evaluation performed independently)
+
+
+No M 1 C EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+Yes (CT, IO) M 1 C EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+
+10 7/10 (70) H-score pos if
+>median H
+
+score
+
+37 31/37(83.8) H-score >14
+
+5 5/5 (100) H-score >14
+
+31 11/31 (35.4) H-score >14
+
+120 103/120 (85.8) H-score >14
+
+
+Hoffman-Censits et al, [9] Non-UC of the Retrospective TMA from primary tumor (TURB) No M 1 C EPR 15613-68,
+
+2021 bladder [b] Abcam (monoclonal; rabbit)
+
+Wucherpfennig et al, [31] 2021 Non-UC of the Retrospective TMAs from radical cystectomy NOS NOS EPR 15613-68,
+bladder [b] (105) and TURB (22) Abcam (monoclonal; rabbit)
+
+Rodler et al, [30] 2022 Non-UC of the Retrospective TMAs from radical cystectomy NOS NOS HPA010775
+bladder [b] SIGMA (rabbit;
+polyclonal)
+
+Miyake et al, [23] 2022 Non-UC of the Retrospective TURBT specimen No M 1 C HPA010775
+bladder [b] SIGMA (rabbit;
+polyclonal)
+
+(continued on following page)
+
+
+84 See the Data
+Supplement
+(Table S1)
+
+
+H-score >14
+
+
+20 14/20 (70) H-score pos if
+>median H
+
+score
+
+TABLE 1. Included Studies (continued)
+
+Data
+Author, Year Tumor Type Assessment Specimen Origin
+
+Fan et al, [22] 2022 Non-UC of the Retrospective FFPE specimens from radical
+bladder [b] cystectomy and radical
+nephroureterectomy
+
+Ghali et al, [25] 2023 Non-UC of the Retrospective Primary autopsy and metastases
+bladder [b] sampling (evaluation performed independently)
+
+
+No M 1 C EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+Yes (CT, IO) M 1 C EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+
+Previous Exposition to
+Therapy Before Sampling (details)
+
+
+Site of N4
+IHC Antibody (type; No. (tested UC IHC1 PaEvaluation species) N4) tients (rate%)
+
+
+N4 Positivity
+Cutoff
+
+Definition
+
+
+Mikuteit et al, [32] 2023 Chromophobe Retrospective TMAs from primary tumor FFPE NOS M 1 C Ab192033, Abcam
+RCC specimen (polyclonal,
+goat)
+
+Zsch¨abitz et al, [33] 2022 Papillary RCC Retrospective TMAs from radical nephrectomy No M 1 C EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+Grass et al, [34] 2023 Penile cancer Retrospective TMA from surgically resected No NOS AF2659; R&D Sysprimary tumor tems (polyclonal;
+goat)
+
+
+Tekin et al, [35] 2023 Penile cancer Retrospective FFPE from partial or total Adjuvant or neoadjupenectomy vant treatment was
+given to 30 patients
+(24.8%)
+
+
+M 1 C EPR 15613-68,
+Abcam (monoclonal; rabbit)
+
+
+Ordu et al, [52] 2023 Prostate cancer Retrospective FFPE from primary tumor obtained through TRUS-guided
+prostate biopsy or TUR-P
+
+
+No M 1 C Ab192033, Abcam
+(polyclonal,
+goat)
+
+
+52 27/52 (52) H-score >14
+
+7 5/7 (71.4) H-score >14
+
+81 15/81 (18.5) H-score pos if
+>median H
+
+score
+
+297 131/297 (44.1) H-score pos if
+>median H
+
+score
+
+57 35/57 (61.4) H-score >14
+
+121 119/121 (98) H-score >14
+
+82 0/82 H-score >14
+
+800 NA H-score >14
+
+
+Powles et al, [17] 2024 (EV- mUC Prospective Tumor tissue biopsy samples No M 1 C M22-321b41.1
+302) phase III from FFPE (monoclonal;
+mouse)
+
+
+NOTE. The following are notes on studies regarding the types of cancer found in patients. For further details, refer to Appendix Table A1. Rodler et al [30] : all patients had either pure SCC or pure
+adenocarcinoma. Fan et al [22] : all patients had a predominant HS, defined as the presence of at least 50% of the subtypes considered.
+Abbreviations: C, cytosol; CT, chemotherapy; EV, enfortumab vedotin; FFPE, formalin-fixed paraffin embedded; HS, histologic subtypes; H-score, Histo-score; IHC, immunohistochemistry; IO, immunooncology; MIBC, muscle-invasive bladder cancer; M, membrane; mUC, metastatic urothelial carcinoma; N4, nectin-4; NA, not available; NAC, neoadjuvant chemotherapy; NMIBC, non–muscle-invasive
+bladder cancer; NOS, not otherwise specified; pos, positive; RCC, renal cell carcinoma; SCC, squamous cell carcinoma; TMAs, tissue microarrays; TRUS, transrectal ultrasound; TURBT, transurethral
+resection of bladder tumor; TUR-P, transurethral resection of the prostate; UC, urothelial carcinoma; UTUC, upper tract urothelial carcinoma.
+
+Crupi et al
+
+
+
+
+
+
+
+
+FIG 3. Forest plot of WM overall N4 IHC positivity among different subgroups and GU malignancies. Non-UC of the bladder includes squamous, neuroendocrine, glandular subtypes; HS
+includes sarcomatoid, micropapillary, and nested plasmacytoid subtypes. UC overall is a WM of
+mUC, MIBC, and NMIBC groups, and includes also the study by Challita Eid et al, [5] where the
+subtypes of UC is not specified. GU, genitourinary; HS, histologic subtypes; IHC, immunohistochemistry; MIBC, muscle-invasive bladder cancer; mUC, metastatic urothelial carcinoma; N4,
+nectin-4; NMIBC, non–muscle-invasive bladder cancer; UC, urothelial carcinoma; UTUC, upper
+tract urothelial carcinoma; WM, weighted mean.
+
+
+UC
+
+We identified 15 studies on N4 positivity in UC, including four
+prospective (EV-101, 103, 302, and 201) and 11 retrospective
+studies in different settings (n 5 3 in NMIBC, n 5 4 in MIBC,
+and n 5 4 in mUC).
+
+NMIBC
+
+
+Three studies involving 368 patients were analyzed.
+
+The cohort of Hoffman-Censits [9] of 83 patients with NMIBC
+showed an N4-positivity (H-score >14) rate of 87%, with
+
+
+variation by stage and grade (pTa papillary: 97%; pT1
+papillary: 80%; carcinoma in situ [CIS]: 87.5%).
+
+Choi et al [20] performed RNA sequencing and IHC in 60
+samples showing N4 gene expression in most paired preand post-Bacillus Calmette-Guerin (BCG) tumor tissues. IHC [´]
+positivity (H-score >14) was 89% in BCG-exposed tumors,
+with a median H-score of 117. [20]
+
+Garczyk et al [21] studied a large cohort of high-grade NMIBC
+(437 samples, from 225 patients) and reported an N4positivity rate (H-score >14) of 89.5%, with 77% of samples
+showing moderate-to-strong positivity. Ninety-six percent of
+
+
+
+
+
+
+
+
+FIG 4. Forest plot of weighted mean H-score values among prospective clinical trials (EV 101, EV 201 cohort
+1) and retrospective studies. EV, enfortumab vedotin; H-score, Histo-score.
+
+8 | © 2024 by American Society of Clinical Oncology
+
+Nectin-4 Positivity in Genitourinary Malignancies
+
+
+
+
+
+
+FIG 5. Forest plot of weighted mean overall N4 IHC positivity among HS and non-UC of the
+bladder. HS, histologic subtypes; IHC, immunohistochemistry; N4, nectin-4; SCC, squamous cell
+carcinoma; UC, urothelial carcinoma.
+
+
+patients with CIS or high-grade pT1 were positive, with a
+median H-score of 255 (180-300) and 72% presented a strong
+positivity. [21]
+
+MIBC
+
+
+cases detected by tissue microarrays versus whole sections
+(87% v 68.2%; P 5 .08). [9]
+
+mUC
+
+
+Miyake et al [23] investigated the N4 positivity in 64 patients
+with MIBC using the antibody HPA010775 (SIGMA),
+matching N4 tumor positivity of patients who underwent
+radical cystectomy (RC). Cutoff values for defining low/high
+expression for IHC were based on median H-scores. Median
+baseline N4 H-score was 100 (33-160), with 52% of patients
+presenting strong staining (H-score >100). No significant
+difference in N4 positivity was found between baseline
+transurethral resection of bladder tumor (TURBT) specimens and RC specimens in 22 patients not receiving neoadjuvant chemotherapy (P 5 .59). However, in the cohort
+receiving neoadjuvant chemotherapy (n 5 23), a significant
+reduction in the median H-score at RC was observed com
+pared with baseline (P 5 .008). [23]
+
+Chu et al [8] evaluated N4 expression from seven MIBC clinical
+cohorts (1,915 specimens). N4 expression varied across
+molecular subtypes and was significantly enriched in luminal subtypes. No significant association between N4
+positivity and OS was found. [8]
+
+In the MIBC cohort of Fan et al, [22] 57/72 (79.2%) patients
+were N4-positive (H-score >14). After grouping by molecular classification, 41/53 (77.35%) luminal subtypes and 7/8
+(87.5%) basal/squamous subtypes were N4-positive. [22]
+
+In the MIBC cohort of Hoffman et al, [9] 15 of 22 patients
+(68.2%) had N4-positive tumors (H-score >14), including 12
+(80%) specimens with strong positivity (H-score >200). No
+significant difference was found in the proportion of positive
+
+
+Challita-Eid et al [5] used the M22-244b3 antibody to retrospectively assess 524 bladder tumor samples. The IHC assay
+showed an 83% positivity rate (H-score >14), with
+moderate-to-strong positivity in 60% of cases. [5] The EV
+trials, used the same assay. The EV-101 phase I trial [12] showed
+a 96.7% N4-positivity rate, with a median H-score of 290
+(0-300). In the EV-302 and EV-103 combination trials of EV
+1 pembrolizumab [13][,][14] and the EV-201 trial of EV
+monotherapy [13][,][14] (Appendix Table A4), N4-positivity rate
+(H-score >14) ranged from 96.7% to 100%, with a median
+H-score of 275-290. In the EV-201 trial, N4-positivity was
+not associated with response, with a median H-score of 270
+and 280 in responders versus nonresponders. [16] Preliminary
+results from EV 1 pembrolizumab trial suggest that N4
+positivity is not predictive. [13] In EV-302, 394 N4-tested patients in the experimental versus 406 in the control arm,
+with a median H-score 280 versus 270, respectively, confirmed high N4 expression. In the case series of Klumper [¨]
+et al, [26] N4 positivity (H-score >14) in primary tumors and
+metastatic sites (N 5 137) was assessed using EPR-15613-68
+antibody before starting first-line treatment. The positivity
+rate was 80.3%, with a median-H-score of 110 (25-200), and
+25.5% of samples showed strong positivity. [23] In the same
+study, analyses of the EV-treated multicenter cohort (n 5
+47) suggested that nonprogressing patients had higher
+baseline N4 positivity. At multivariable analyses (MVA),
+negative (0-14) or weak positivity (15-99) was associated
+with shorter PFS (log-rank P ≤ .001). N4 positivity was higher
+in the primary tumor (median H-score 5 110; IQR, 25-200)
+than on metastases (median H-score 5 40; IQR, 0-140), with
+over 30% of metastatic sites analyzed. [26]
+
+
+JCO Precision Oncology [ascopubs.org/journal/po | 9](http://ascopubs.org/journal/po)
+
+Crupi et al
+
+
+Ueki et al [24] assessed N4 positivity (H-score >14) and response to pembrolizumab in 47 patients with la/mUC using
+the EPR-15613-68 antibody. Positivity rate was 59.6%, with
+weak (11), moderate (21), and strong (31) positivity in
+21.3%, 19.1%, and 19.1%, respectively. Strong positivity
+correlated with objective response (odds ratio, 11.8; P 5 .007).
+At univariate analysis, N4 positivity was associated with
+better OS (hazard ratio [HR], 0.58 [CI, 0.22 to 1.51]; P 5 .263)
+and PFS (HR, 0.499 [CI, 0.25 to 1.01]; P 5 .053). [24]
+
+UTUC
+
+N4 positivity in UTUC was investigated in three small retrospective studies. Positivity ranged from 44.4% to 65.7%,
+mainly weak to moderate. In the study by Tomiyama et al [27],
+65/99 (65.7%) UTUC samples were positive (H-score >14),
+with predominantly low-medium positivity, still significantly higher than non-neoplastic urothelial tissue (P <
+.001). Patients with strong N4 positivity (31) had lower PFS
+(P 5 .031) and cancer-specific survival (CSS; P 5 .036)
+compared with 0, 11, or 21. However, in MVA, N4 positivity
+was not confirmed as an independent prognostic factor for
+OS and PFS, despite being associated with shorter PFS (HR,
+3.32; P 5 .027) in the high-risk UTUC subgroup (n 5 50; pT3,
+evidence of lymphovascular invasion or node metastases).
+
+Calandrella et al [28] among 27 evaluable patients, found N4
+positivity (H-score >14) in 44% of cases (high 0%; medium
+17.8%; low 25.9%; negative 51.9%; not evaluable 3.7%).
+
+In the study by Hashimoto et al, [29] 64/98 (65%) patients were
+N4-positive (H-score >14). The study evaluated coexpression of human epidermal growth factor receptor 2
+(HER2), EGFR, and N4, with 63 (64%) and 48 (49%) patients
+coexpressing N4 with HER2 and EGFR, respectively. [29]
+
+HS and Non-UC of the Bladder
+
+Six retrospective studies investigated N4 positivity in HS and
+in non-UC of the bladder (Data Supplement, Table S2).
+
+Rodler et al [30] reported a single-center study of 110 patients
+who underwent RC, including 61 pureSCC, 23 with pure
+adenocarcinoma (AC), and 26 with sarcomatoid features.
+The N4 positivity reported as the median H-score was 150
+(0-265) in patients with SCC, 140.5 (30-270) in AC, and 10
+(0-165) in sarcomatoid. In the latter subgroup, 66.7% of
+specimens presented weak positivity (H-score >14). In this
+study, N4 positivity did not correlate with OS or PFS. [30]
+
+Fan et al [22] investigated the positivity of N4, TROP-2, and
+HER2 in 161 samples from patients with UC, HS, and non-UC
+(UC 5 72; SCC 5 10; AC 5 23; neuroendocrine [NE] 5 19;
+micropapillary 5 19; nested variant 5 18). All specimens were
+collected from RC without perioperative treatments. N4 was
+assessed with IHC using EPR-15613-68 antibody. The results
+showed different patterns of N4 positivity according to the
+histology, being positive (H-score >14) in 79.2% UC, 100%
+
+10 | © 2024 by American Society of Clinical Oncology
+
+
+SCC, 56.5% AC, 21.1% NE, 83.3% nested, and 78.9%
+micropapillary samples. N4 positivity in HS and non-UC was
+lower than UC and ranged from low to moderate (8/10 SCC,
+14/15 AC, 3/4 small cell carcinoma, 15/16 nested variants, and
+14/15 micropapillary variants). [22]
+
+Hoffman-Censits et al [9] investigated N4 positivity (H-score >14)
+in 169 patients, including 83 NMIBC and 86 MIBC, with IHC
+assays on the basis of EPR-15613-68 antibody. In the MIBC
+cohort, 58% were positive. N4 positivity was 68.2% in UC, 70%
+in SCC, 28% in micropapillary, 66% in AC, 50% in nested
+carcinoma, 63% in plasmacytoid, 10% in sarcomatoid, and 0%
+in NE. In NE and sarcomatoid carcinoma, whole-transcriptome
+RNA sequencing was also performed. Compared with UC,
+sarcomatoid and NE samples expressed very low N4 mRNA
+expression levels. [9]
+
+In a retrospective study, Wucherpfennig et al [31] assessed the
+expression of PDL1, N4, and other targets in a cohort of 183
+patients, including small cell carcinoma (n 5 18), AC and
+urachal carcinomas (AC/UrCs; n 5 37), and SCC (n 5 128; 77
+of which were pureSCC). N4 positivity (H-score >14), tested
+with EPR-15613-68 antibody, was 100% in small cell carcinoma, 91% in AC/UrCs, and 82% in SCC. Forty-three
+percent of small cell carcinoma, 18% of AC/UrCs, and 11%
+of SCC had a H-score >200. [31]
+
+Miyake et al [23] analyzed N4 positivity in a cohort of 30 patients with HS and non-UC of the bladder (SCC 5 12, AC 5 3,
+sarcomatoid 5 1, NE 5 5, micropapillary 5 5, and nested 5 4).
+Post hoc analysis demonstrated lower N4 H-scores in the
+small-cell NE variant compared with UC (129 6 79 v 20 6 44;
+P 5 .015). Other HS and non-UC histologies did not show
+lower N4 positivity. [23]
+
+Ghali et al [25] evaluated membrane N4 positivity (H-score >14)
+and mRNA expression within matched primary and mUC
+samples in a cohort of 20 patients: eight with UC, five with
+SCC, five with NE, and five with plasmacytoid treated with
+immunotherapy and/or chemotherapy. The samples were
+collected immediately after death. All the histologies except
+NE expressed moderate-high levels of N4 by both IHC and
+RNA sequencing. N4 demonstrated prominent cytoplasmatic
+staining in metastatic when compared with membranous in
+plasmacytoid and SCC samples. N4 positivity was largely
+conserved among primary and matched metastatic samples. [25]
+
+Kidney Cancer
+
+No data regarding the N4 positivity in clear cell RCC were
+found.
+
+N4 positivity (H-score >median H-score) was assessed in a
+cohort of patients with pRCC, including 190 cases of type 1
+and107 cases of type 2 pRCC. The used antibody was EPR15613-68 antibody. Overall, N4 was positive in 44.1% (131/297)
+of samples, with moderate or strong value in 48.4% of type 1
+and 36.4% of type 2. In this study, N4-positivity data were
+
+Nectin-4 Positivity in Genitourinary Malignancies
+
+
+dichotomized using the median of observed distribution as
+cutoff. N4 positivity was not prognostic (5-year OS; P 5 .185). [33]
+
+Mikuteit et al [32] analyzed N4 positivity in 81 patients with
+chRCC: 18.5% (15) were N4-positive (H-score >median
+H-score). No significant associations between N4 expression
+and clinical attributes, and no correlation with outcomes
+were found in patients with chRCC. [32]
+
+Penile Cancer
+
+The study by Grass et al [34] retrospectively assessed N4 expression in penile SCC (PSCC) through gene expression in 25
+samples of surgically resected tumors, with subsequent
+validation in an independent cohort of 35 PSCC. This study
+compared N4 tumoral gene expression with normal tissue, [34]
+
+present in 70.3% of tumors (two-fold higher than the
+control group). IHC was also performed in a cohort of 57
+invasive PSCC. The study revealed that 89.4% of samples
+presented N4 positivity (H-score >14) in more than 25% of
+cells, with intensity from moderate to strong in 61% of
+samples. In this subset of patients, N4 positivity was not
+prognostic (P 5 .14 for OS; P 5 .7 for RFS; P 5 .14 for CSS).
+Interestingly, N4 positivity (analyzed by using IHC and gene
+expression profile) was significantly higher in HPV-positive
+tumors (P < .001 and P 5 .03, respectively).
+
+Tekin et al [35] retrospectively evaluated the associations between N4 positivity (H-score >14), HPV status, clinicopathologic findings, and outcomes in 121 patients with PSCC.
+Median N4 H-score was 140 (IQR, 100-180), with 79% of the
+cases demonstrating intermediate-to-high expression.
+H-scores were higher in high-risk HPV-positive patients
+compared with high-risk HPV-negative tumors (P < .001). [35]
+
+DISCUSSION
+
+To our knowledge, this is the first systematic review evaluating the N4 positivity among different GU malignancies,
+histotypes, and clinical stages.
+
+However, several limitations related to the exploratory
+nature of the review, the absence of comparative studies, the
+heterogeneity in clinical characteristics of the included
+patients, and the methodologies used to evaluate outcomes
+need to be stated. These factors contribute to potential biases
+and variability, making it challenging to compare findings
+reliably. Therefore, our results highlight the need for validation through larger, prospective studies.
+
+Despite already explored in several cancer types, N4 positivity was not universally found as predictive or prognostic in
+GU malignancies.
+
+Although it was not possible to make a direct comparison, our
+exploratory findings show that UC seems to have a higher N4IHC positivity rate than non-UC GU malignancies. In bladder
+cancer, the positivity rate seems to vary among different
+
+
+stages and sites of disease (primary v metastasis). Conflicting
+results regarding N4 positivity in the metastatic setting were
+found. UTUC did not seem to have as high N4 positivity as UC
+of the bladder, further suggesting potential differences in
+tumor biology. Data on the UTUC subgroup derived from
+EV201/301 trials are inconclusive regarding the putative
+predictive role of N4 expression.
+
+Among HS and non-UC of the bladder, SCC and nested
+variants were found often N4-positive, while NE-negative.
+In the UNITE study, for example, sarcomatoid and plasmacytoid demonstrated responses to EV, while NE and all
+others pure HS showed no benefit. [37] Such findings require
+validation but may lead to new therapeutic approaches in HS.
+
+Among non-UC GU malignancies, PSCC appeared to present
+an elevated N4 positivity, especially in HPV1 tumors, although a correlation with outcomes was generally not found.
+On the contrary, Tekin et al [35] found that high expression of
+N4 seems to be prognostic. In this study, the expression of
+N4 was significantly elevated in high-risk HPV1 tumors
+compared with negative ones. Similar findings among HPVdependent SCCs have been reported at other anatomic sites
+(head and neck SCC). [38] In HPV1 tumors, E6/7-mediated
+oncogenic activity or PI3K pathway alterations may upregulate N4 expression. [34] Without valid therapeutic options,
+this orphan disease could be an ideal candidate to explore
+anti-N4 therapies in trials.
+
+Our review did not find a clear predictive and prognostic role
+of N4 in non-UC malignancies. In UTUC, N4 positivity
+correlated with shorter PFS only in high-risk disease. [27] In
+retrospective mUC studies, elevated N4 positivity was suggested as potentially predictive, and low N4 positivity was
+associated with shorter PFS. However, prospective trials of
+EV did not specifically examine the potential of N4 positivity
+as a predictive marker.
+
+EV is approved regardless of N4 positivity. [12][,][16] Data from the
+EV-101 study granted the assumption that N4 is widely
+expressed in UC without performing a pretreatment assessment. In this trial, nearly all specimens were reported to
+strongly express N4, with an elevated H-score. [12] The positivity rate and H-score were also elevated in subsequent
+trials, including EV alone or in combination. [13][-][16] Otherwise,
+several retrospective cohorts reported lower IHC positivity
+rates and H-score.
+
+In a multicenter EV-treated mUC cohort, N4 gene amplification (approximately 25% of cases) was linked to high N4expression levels, a high ORR of over 90%, and long-term
+survival rates. [39] These data suggest that there could be a
+linear association between N4 targetability and EV response,
+which may help to optimize the inclusion of new treatments
+(ie, EV/pembro) into regular care. [40]
+
+Previous treatments could reduce N4 positivity and could be
+linked to resistance to EV. [8][,][26][,][41][,][42] Miyake et al [23] reported a
+
+
+JCO Precision Oncology [ascopubs.org/journal/po | 11](http://ascopubs.org/journal/po)
+
+Crupi et al
+
+
+significant reduction in the mean H-score in postchemotherapy RC compared with baseline. By contrast, Ghali
+et al [25] found that N4 positivity remained predominantly
+conserved in both primary and matched metastatic samples
+in the postchemotherapy and postimmunotherapy settings
+for patients with conventional UC and non-NE HS. Ongoing
+perioperative clinical trials, such as MK3475-B15 and
+Keynote-905, offering EV 1 pembrolizumab in MIBC, represent an opportunity to compare the N4-positivity baseline
+expression and changes in responders versus nonresponders, and assess correlation with outcomes.
+
+Klumper et al [¨] [26] also showed that the N4 positivity significantly decreases during metastatic spread, with over 30% of
+patient-matched distant metastases being N4-negative. In
+their multicenter EV cohort, absent/weak N4 positivity
+(Appendix Table A3) was associated with significantly
+shortened PFS. Because of the complexity of N4 dynamics
+and the intralesional and temporal heterogeneity, relying
+solely on IHC from a single biopsy may not be fully representative, especially for patients undergoing multiple lines
+of therapy. Several studies reported the intratumoral heterogeneity regarding N4 expression. [25][,][26] Conversely, a
+bystanding effect for EV between N41 and N4- tumor cells
+was proposed to explain a therapeutic effect despite the
+positivity. [43][,][44]
+
+Regarding N4 IHC, we know that beyond the antibody and
+staining protocol used, the use of tissue microarray, the
+interpretation (membrane only or membrane 1 cytoplasm
+staining), the H-score’s cutoff chosen, preanalytical issue,
+that is, sample age and fixation, and the type of tissue
+(TURBT, cystectomy, and metastasis) are confounders.
+
+Variations of N4 positivity may reflect differences in the
+sensitivity and specificity of antibodies used for IHC staining.
+The antibodies differed in their species origin (mouse, rabbit,
+or goat) and type (monoclonal v polyclonal). Monoclonal
+antibodies are produced by identical immune cells, all clones
+of a unique parent cell, are more specific, and have less batchto-batch variability than polyclonal antibodies. [45]
+
+The M22-244b3 clone was used in EV trials. However, direct
+comparisons among different antibodies have yet to be
+extensively investigated, potentially affecting the H-scores.
+Further research and validation efforts are mandatory to
+enhance reliability and reproducibility. Given the absence of
+normative data on the cell membrane or cell cytoplasm
+staining intensity in the literature, the assessment of N4
+positivity in series and clinical trial data was arbitrary
+(Appendix Table A3).
+
+Regarding the correlation between N4 and different biomarkers, the HLAA2-restricted cytotoxic T lymphocyte
+(CTL) epitope of N4 has been identified. [46] The strong expression of N4 in tumor cells might induce N4-specific CTLs,
+potentially activated by immunotherapy. Ueki et al [24] investigated the association between N4 positivity and
+
+12 | © 2024 by American Society of Clinical Oncology
+
+
+response to pembrolizumab in a small, retrospective cohort
+of patients with la/mUC. Although the mechanism of action
+of pembrolizumab for targeting N4 protein is unclear, further studies on the correlation between N4 expression and
+PD-1/PD-L1 are needed.
+
+In a recent post hoc analysis of a cohort of patients with
+MIBC, almost 50% of patients showed negative to weak
+membranous N4 expression, exhibiting significant TROP2
+expression. [47] Similarly, Bertucci et al [48] reported data on the
+IHC expression of N4 and TROP2 in a cohort of 407 patients
+with mUC. Almost 50% of the patients were N4-negative and
+TROP2-positive. [48] Both authors suggested that this expression pattern likely contributed to the high ORR of 70%
+reported for the combination of EV and sacituzumab govitecan in a phase I trial. [49] Further data are warranted to
+understand better the heterogeneity of N4 expression and
+the mutual expression with TROP2, particularly in the
+context of ADC combination strategies.
+
+Emerging data for noninvasive N4 assessment holds promise
+for selection and dynamic treatment response evaluation.
+Uan et al [50] conducted a first-in-human study using the
+radioligand 68Ga-N188 for positron emission tomographychemotherapy imaging targeting N4 in advanced UC. Their
+study presented a clear correlation between SUV value and
+N4 expression. [50] Future trials exploring different tracers,
+imaging protocols, and patient cohorts will contribute to a
+better understanding of the strengths and limitations of N4
+imaging techniques.
+
+N4 positivity in UC seems dynamic, with high levels in
+NMIBC. This might lead to a targeted treatment when an
+organ-sparing approach is planned, especially in BCGunresponsive NMIBC. The EV-104 trial (ClinicalTrials.gov
+[identifier: NCT05014139) in high-risk BCG-unresponsive](https://www.clinicaltrials.gov/ct2/show/NCT05014139)
+NMIBC is highly relevant. [51]
+
+Our review has several limitations, including its retrospective and exploratory nature, selection and confounding
+biases, the heterogeneity of the studies, clinical characteristics, tumor types, methodologies, and included data sets.
+Most findings came from retrospective studies, which introduced potential variability in the methods, reported results, and follow-up times, also limiting interstudy
+comparability. Variations in antibody specificity, staining
+protocols, and assessment criteria contribute to inconsistencies in reported N4-positivity rates. Additionally, publication bias may have influenced the results.
+
+Given these limitations, future research should focus on
+conducting comparative studies with standardized methodologies to enhance the reliability of N4-expression data.
+Investigations should comprehensively address critical
+questions regarding the role of N4, evaluate the impact of N4
+expression on treatment response, and explore the mechanisms of resistance.
+
+Nectin-4 Positivity in Genitourinary Malignancies
+
+
+In the era of anti-N4 ADCs, our review tries to shed light on
+the unmet need to assess N4 expression in non-UC GU
+malignancies, including rare diseases. The N4 positivity is an
+attractive biomarker for selecting patients to enroll in desirable basket trials. Because of their rarity, this approach
+can offer a biomarker-selected treatment.
+
+In conclusion, data on N4 positivity in non-UC GU malignancies are limited, whereas more robust data exist for UC.
+
+AFFILIATIONS
+
+1 Department of Medical Oncology, IRCCS San Raffaele Hospital, Milan,
+Italy
+2 Vita-Salute San Raffaele University, Milan, Italy
+3 Department of Urology, IRCCS Istituto Europeo di Oncologia, IEO,
+Milan, Italy
+4 Department of Pathology and Laboratory Medicine, Weill Cornell
+Medicine, New York, NY
+5 Department of Medicine, Institute of Pathological Anatomy, University
+of Udine, Udine, Italy
+6 SDA Bocconi School of Management University, Milan, Italy
+7 Department of Urology, IRCCS San Raffaele Hospital, Milan, Italy
+8 Departments of Urology and Biochemistry, Molecular Genetics,
+Northwestern University, Feinberg School of Medicine, Chicago, IL
+9 Department of Genitourinary Oncology, H. Lee Moffitt Cancer Center,
+
+Tampa, FL
+10 Department of Genitourinary Medical Oncology, Division of Cancer
+Medicine, The University of Texas MD Anderson Cancer Center,
+
+Houston, TX
+11 Department of Urology, Division of Cancer Medicine, The University of
+Texas MD Anderson Cancer Center, Houston, TX
+12 Department of Medicine, Division of Hematology Oncology, University
+of Washington, Seattle, WA
+13 Clinical Research Division, Fred Hutchinson Cancer Center, Seattle,
+
+WA
+
+CORRESPONDING AUTHOR
+
+[Emanuele Crupi, MD; Twitter: @emanuele_crupi; e-mail: crupi.](mailto:crupi.emanuele@hsr.it)
+[emanuele@hsr.it.](mailto:crupi.emanuele@hsr.it)
+
+EQUAL CONTRIBUTION
+
+A.N. and D.R. are co-last authors.
+
+AUTHOR CONTRIBUTIONS
+
+Conception and design: Emanuele Crupi, Antonio Cigliola, Chiara
+Mercinelli, Valentina Tateo, Philippe E. Spiess, Ashish M. Kamat, Daniele
+Raggi
+Administrative support: Philippe E. Spiess
+Provision of study materials or patients: Andrea Salonia
+Collection and assembly of data: Emanuele Crupi, Tiago Costa de
+Padua, Emanuele C. Goetz, Antonio Cigliola, Damiano A. Patan´e,
+Valentina Tateo, Daniele Raggi
+Data analysis and interpretation: Emanuele Crupi, Tiago Costa de
+Padua, Laura Marandino, Giuseppe Fallara, Filippo Pederzoli, Alessia
+Cimadamore, Emanuele C. Goetz, Antonio Cigliola, Valentina Tateo,
+Andrea Salonia, Alberto Briganti, Francesco Montorsi, Joshua J. Meeks,
+
+
+Recent evidence suggests that N4 positivity varies with
+clinical stage and tumor site. N4 predictive and prognostic
+roles in UC and non-UC malignancies remain unclear. UTUC,
+HS, penile cancer, and pRCC show varying N4-positivity
+rates, indicating a potential role for N4-targeting agents.
+Future studies are needed to explore N4-positivity clinical
+utility, provide practice-changing treatments for rare nonUC GU cancers, and optimize patient selection for newly
+approved treatments.
+
+Philippe E. Spiess, Omar Alhalabi, Jianjun Gao, Petros Grivas, Andrea
+Necchi, Daniele Raggi
+Manuscript writing: All authors
+Final approval of manuscript: All authors
+Accountable for all aspects of the work: All authors
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS
+
+OF INTEREST
+
+The following represents disclosure information provided by authors of
+this manuscript. All relationships are considered compensated unless
+otherwise noted. Relationships are self-held unless noted. I 5
+Immediate Family Member, Inst 5 My Institution. Relationships may
+not relate to the subject matter of this manuscript. For more information
+[about ASCO’s conflict of interest policy, please refer to www.asco.org/](http://www.asco.org/rwc)
+[rwc or ascopubs.org/po/author-center.](http://www.asco.org/rwc)
+Open Payments is a public database containing information reported by
+[companies about payments made to US-licensed physicians (Open](https://openpaymentsdata.cms.gov/)
+[Payments).](https://openpaymentsdata.cms.gov/)
+
+Laura Marandino
+
+Speakers’ Bureau: Gilead Sciences, Merck
+Research Funding: AstraZeneca
+Travel, Accommodations, Expenses: Janssen
+
+Alessia Cimadamore
+
+Honoraria: AstraZeneca
+
+Consulting or Advisory Role: Amgen
+Travel, Accommodations, Expenses: AstraZeneca/Merck
+
+Chiara Mercinelli
+
+Travel, Accommodations, Expenses: Johnson & Johnson/Janssen
+
+Andrea Salonia
+
+Consulting or Advisory Role: Sanofi
+Speakers’ Bureau: Astellas Pharma
+Travel, Accommodations, Expenses: Konpharma
+
+Alberto Briganti
+Consulting or Advisory Role: Astellas Pharma, Janssen-Cilag, OPKO Health,
+MDxHealth, Ferring, Bayer, AstraZeneca, Hauora, Pfizer
+Speakers’ Bureau: Astellas Pharma
+Research Funding: Sandoz-Novartis, Merck Sharp & Dohme
+
+Joshua J. Meeks
+
+Honoraria: Janssen, Merck, AstraZeneca, Urogen Pharma, Prokarium, Imvax,
+Astellas Pharma, Pfizer, Ferring, Protara Therapeutics
+Research Funding: Epizyme, Merck Sharp & Dohme
+Patents, Royalties, Other Intellectual Property: NMIBC Genetic Classifier
+(Inst), TCGA Classifier (Inst)
+Other Relationship: Olympus
+
+Philippe E. Spiess
+Leadership: NCCN, Global Society of Rare Genitourinary Tumors, Soci´et´e
+Internationale d’Urologie Journal, President of Global Society of Rare GU
+
+Tumors
+
+Honoraria: UptoDate
+Other Relationship: NCCN
+
+
+JCO Precision Oncology [ascopubs.org/journal/po | 13](http://ascopubs.org/journal/po)
+
+Crupi et al
+
+
+Uncompensated Relationships: Moffitt Cancer Center
+
+Omar Alhalabi
+
+Consulting or Advisory Role: Seagen, Silverback Therapeutics, Cardinal
+Health, Adaptimmune, Bicycle Therapeutics
+Research Funding: Ikena Oncology (Inst), AstraZeneca (Inst), Arcus
+Biosciences (Inst), Genentech (Inst)
+[Open Payments Link: https://openpaymentsdata.cms.gov/physician/](https://openpaymentsdata.cms.gov/physician/1253897)
+
+[1253897](https://openpaymentsdata.cms.gov/physician/1253897)
+
+Jianjun Gao
+Consulting or Advisory Role: AstraZeneca, CRISPR Therapeutics, Pfizer,
+Seagen, Janssen, Infinity Pharmaceuticals, AstraZeneca
+Travel, Accommodations, Expenses: AstraZeneca
+
+Ashish M. Kamat
+
+Consulting or Advisory Role: Photocure, Merck, Theralase, US Biotest, Eisai,
+Imagin Medical, Medac, Bristol Myers Squibb, Janssen, FerGene, Biological
+Dynamics, Roche, Urogen Pharma, Protara Therapeutics, Astellas Pharma,
+Incyte, Cystotech, Imvax, Nonagen Bioscience, Pfizer, Ferring, Genentech,
+ImmunityBio, Valar Labs, Vivet Therapeutics, enGene, CG Oncology, Carisma
+Therapeutics, Seagen
+Research Funding: FKD Therapies (Inst), Photocure (Inst), SWOG (Inst),
+Patient-Centered Outcomes Research Institute (PCORI) (Inst), enGene (Inst),
+Arquer Diagnostics (Inst), Seagen (Inst)
+Patents, Royalties, Other Intellectual Property: Patent: CyPRIT (Cytokine
+Predictors of Response to Intravesical Therapy) joint with UT MD Anderson
+
+Cancer Center
+
+REFERENCES
+
+
+Other Relationship: International Bladder Cancer Group (IBCG), European
+Urology Oncology, Journal of Urology, UroToday, Bladder Cancer Advocacy
+Network
+
+Petros Grivas
+
+Consulting or Advisory Role: Merck, Bristol Myers Squibb, AstraZeneca,
+EMD Serono, Pfizer, Janssen, Roche, Astellas Pharma, Gilead Sciences,
+Fresenius Kabi, G1 Therapeutics, AADi, CG Oncology, Strata Oncology,
+ImmunityBio, Asieris Pharmaceuticals, AbbVie, Bicycle Therapeutics
+Research Funding: Bristol Myers Squibb (Inst), Merck (Inst), QED
+Therapeutics (Inst), Mirati Therapeutics (Inst), EMD Serono (Inst), G1
+Therapeutics (Inst), Gilead Sciences (Inst), Acrivon Therapeutics (Inst), ALX
+Oncology (Inst), Genentech (Inst)
+
+Andrea Necchi
+
+Employment: Bayer (I)
+Stock and Other Ownership Interests: Bayer (I)
+Consulting or Advisory Role: Merck Sharp & Dohme, AstraZeneca, Incyte,
+Seattle Genetics/Astellas, Bristol Myers Squibb, Catalym, Gilead Sciences,
+Genenta Science, Johnson & Johnson/Janssen, PeerView, PeerVoice, Merck
+Serono, Samsung Bioepis, Bicycle Therapeutics
+Research Funding: Merck Sharp & Dohme (Inst), Gilead Sciences (Inst),
+Bristol Myers Squibb/Celgene (Inst)
+Travel, Accommodations, Expenses: Merck Sharp & Dohme, AstraZeneca,
+Janssen, Gilead Sciences
+
+No other potential conflicts of interest were reported.
+
+
+1. Liu Y, Han X, Li L, et al: Role of Nectin-4 protein in cancer (review). Int J Oncol 59:93, 2021
+2. Chatterjee S, Sinha S, Kundu CN: Nectin cell adhesion molecule-4 (NECTIN-4): A potential target for cancer therapy. Eur J Pharmacol 911:174516, 2021
+3. Zhang Y, Zhang J, Shen Q, et al: High expression of Nectin-4 is associated with unfavorable prognosis in gastric cancer. Oncol Lett 15:8789-8795, 2018
+4. Kl¨umper N, Tran NK, Zsch¨abitz S, et al: NECTIN4 amplification is frequent in solid tumors and predicts enfortumab vedotin response in metastatic urothelial cancer. J Clin Oncol 42:2446-2455,
+2024
+5. Challita-Eid PM, Satpayev D, Yang P, et al: Enfortumab vedotin antibody–drug conjugate targeting Nectin-4 is a highly potent therapeutic agent in multiple preclinical cancer models. Cancer Res
+76:3003-3013, 2016
+6. Lin X, Hu H, Pan Y, et al: The prognostic role of expression of Nectin-4 in esophageal cancer. Med Sci Monit Int Med J Exp Clin Res 25:10089-10094, 2019
+7. M-Rabet M, Cabaud O, Josselin E, et al: Nectin-4: A new prognostic biomarker for efficient therapeutic targeting of primary and metastatic triple-negative breast cancer. Ann Oncol 28:769-776,
+2017
+8. Chu CE, Sj¨ostr¨om M, Egusa EA, et al: Heterogeneity in NECTIN4 expression across molecular subtypes of urothelial cancer mediates sensitivity to enfortumab vedotin. Clin Cancer Res 27:
+5123-5130, 2021
+9. Hoffman-Censits JH, Lombardo KA, Parimi V, et al: Expression of Nectin-4 in bladder urothelial carcinoma, in morphologic variants, and nonurothelial histotypes. Appl Immunohistochem Mol
+Morphol 29:619-625, 2021
+[10. Research C for DE and drug trials snapshots: PADCEV. FDA. https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-padcev](https://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-padcev)
+[11. Research C for DE and FDA approves enfortumab vedotin-ejfv with pembrolizumab for locally advanced or metastatic urothelial cancer. FDA. https://www.fda.gov/drugs/resources-information-](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-enfortumab-vedotin-ejfv-pembrolizumab-locally-advanced-or-metastatic-urothelial-cancer)
+[approved-drugs/fda-approves-enfortumab-vedotin-ejfv-pembrolizumab-locally-advanced-or-metastatic-urothelial-cancer](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-enfortumab-vedotin-ejfv-pembrolizumab-locally-advanced-or-metastatic-urothelial-cancer)
+12. Rosenberg J, Sridhar SS, Zhang J, et al: EV-101: A phase I study of single-agent enfortumab vedotin in patients with Nectin-4-positive solid tumors, including metastatic urothelial carcinoma. J Clin
+Oncol 38:1041-1049, 2020
+13. Rosenberg JE, Milowsky M, Ramamurthy C, et al: LBA73—Study EV-103 cohort K: Antitumor activity of enfortumab vedotin (EV) monotherapy or in combination with pembrolizumab (P) in
+[previously untreated cisplatin-ineligible patients (pts) with locally advanced or metastatic urothelial cancer (la/mUC). https://oncologypro.esmo.org/meeting-resources/esmo-congress/study-ev-](https://oncologypro.esmo.org/meeting-resources/esmo-congress/study-ev-103-cohort-k-antitumor-activity-of-enfortumab-vedotin-ev-monotherapy-or-in-combination-with-pembrolizumab-p-in-previously-untreated-c)
+[103-cohort-k-antitumor-activity-of-enfortumab-vedotin-ev-monotherapy-or-in-combination-with-pembrolizumab-p-in-previously-untreated-c](https://oncologypro.esmo.org/meeting-resources/esmo-congress/study-ev-103-cohort-k-antitumor-activity-of-enfortumab-vedotin-ev-monotherapy-or-in-combination-with-pembrolizumab-p-in-previously-untreated-c)
+14. Hoimes CJ, Flaig TW, Milowsky MI, et al: Enfortumab vedotin plus pembrolizumab in previously untreated advanced urothelial cancer. J Clin Oncol 41:22-31, 2023
+15. Rosenberg JE, O’Donnell PH, Balar AV, et al: Pivotal trial of enfortumab vedotin in urothelial carcinoma after platinum and anti-programmed death 1/programmed death ligand 1 therapy. J Clin
+Oncol 37:2592-2600, 2019
+16. Yu EY, Petrylak DP, O’Donnell PH, et al: Enfortumab vedotin after PD-1 or PD-L1 inhibitors in cisplatin-ineligible patients with advanced urothelial carcinoma (EV-201): A multicentre, single-arm,
+phase 2 trial. Lancet Oncol 22:872-882, 2021
+17. Powles TB, Valderrama BP, Gupta S, et al: LBA6 EV-302/KEYNOTE-A39: Open-label, randomized phase III study of enfortumab vedotin in combination with pembrolizumab (EV1P) vs
+chemotherapy (Chemo) in previously untreated locally advanced metastatic urothelial carcinoma (la/mUC). Ann Oncol 34:S1340, 2023
+18. Munn Z, Moola S, Lisy K, et al: Methodological guidance for systematic reviews of observational epidemiological studies reporting prevalence and cumulative incidence data. Int J Evid Based
+Healthc 13:147-153, 2015
+19. Sterne JA, Hernan MA, Reeves BC, et al: ROBINS-I: A tool for assessing risk of bias in non-randomised studies of interventions. BMJ 355:i4919, 2016 [´]
+20. Choi W, Lombardo K, Patel S, et al: A molecular inquiry into the role of antibody-drug conjugates in Bacillus Calmette-Gu´erin-exposed non-muscle-invasive bladder cancer. Eur Urol 81:138-142,
+2022
+21. Garczyk S, Degener S, Bischoff F, et al: Heterogenous NECTIN4 expression in urothelial high-risk non-muscle-invasive bladder cancer. Virchows Arch Int J Pathol 481:83-92, 2022
+22. Fan Y, Li Q, Shen Q, et al: Head-to-head comparison of the expression differences of NECTIN-4, TROP-2, and HER2 in urothelial carcinoma and its histologic variants. Front Oncol 12:858865, 2022
+23. Miyake M, Miyamoto T, Shimizu T, et al: Tumor expression of nectin-1-4 and its clinical implication in muscle invasive bladder cancer: An intra-patient variability of Nectin-4 expression. Pathol Res
+Pract 237:154072, 2022
+24. Ueki H, Hinata N, Kitagawa K, et al: Expressions of PD-L1 and Nectin-4 in urothelial cancer patients treated with pembrolizumab. Clin Transl Oncol 24:568-577, 2022
+25. Ghali F, Vakar-Lopez F, Roudier MP, et al: Metastatic bladder cancer expression and subcellular localization of Nectin-4 and trop-2 in variant histology: A rapid autopsy study. Clin Genitourin Cancer
+21:669-678, 2023
+26. Kl¨umper N, Ralser DJ, Ellinger J, et al: Membranous NECTIN-4 expression frequently decreases during metastatic spread of urothelial carcinoma and is associated with enfortumab vedotin
+resistance. Clin Cancer Res 29:1496-1505, 2023
+27. Tomiyama E, Fujita K, Rodriguez Pena MDC, et al: Expression of Nectin-4 and PD-L1 in upper tract urothelial carcinoma. Int J Mol Sci 21:5390, 2020
+
+14 | © 2024 by American Society of Clinical Oncology
+
+Nectin-4 Positivity in Genitourinary Malignancies
+
+28. Calandrella ML, Francesconi S, Caprera C, et al: Nectin-4 and DNA mismatch repair proteins expression in upper urinary tract urothelial carcinoma (UTUC) as a model for tumor targeting
+approaches: An ImGO pilot study. BMC Cancer 22:168, 2022
+29. Hashimoto H, Tanaka Y, Murata M, et al: Nectin-4: A novel therapeutic target for skin cancers. Curr Treat Options Oncol 23:578-593, 2022
+30. Rodler S, Eismann L, Schlenker B, et al: Expression of Nectin-4 in variant histologies of bladder cancer and its prognostic value-need for biomarker testing in high-risk patients? Cancers 14:4411,
+2022
+31. Wucherpfennig S, Rose M, Maurer A, et al: Evaluation of therapeutic targets in histological subtypes of bladder cancer. Int J Mol Sci 22:11547, 2021
+32. Mikuteit M, Zsch¨abitz S, Autenrieth M, et al: Expression of Nectin-4 in chromophobe renal cell carcinoma in a multicenter cohort: Early prognostic and therapeutic considerations. Oncology 102:
+503-509, 2024
+33. Zschabitz S, Mikuteit M, St [¨] ohr C, et al: Expression of Nectin-4 in papillary renal cell carcinoma. Discov Oncol 13:90, 2022 [¨]
+34. Grass GD, Chahoud J, Lopez A, et al: An analysis of Nectin-4 (PVRL4) in penile squamous cell carcinoma. Eur Urol Open Sci 49:1-5, 2023
+35. Tekin B, Cheville JC, Herrera Hernandez L, et al: Assessment of PD-L1, TROP2, and Nectin-4 expression in penile squamous cell carcinoma. Hum Pathol 142:42-50, 2023
+36. Hozo SP, Djulbegovic B, Hozo I: Estimating the mean and variance from the median, range, and the size of a sample. BMC Med Res Methodol 5:13, 2005
+37. Jindal T, Jiang CY, Alhalabi O, et al: Outcomes with enfortumab vedotin in patients with advanced urothelial carcinoma and histology variants: Analysis of the UNITE study. J Clin Oncol 42:652,
+2024 (suppl 4)
+38. Sanders C, Lau JF, Dietrich D, et al: Nectin-4 is widely expressed in head and neck squamous cell carcinoma. Oncotarget 13:1166-1173, 2022
+39. Kl¨umper N, Tran NK, Zschaebitz S, et al: Occurrence of NECTIN4 amplification in solid tumors and enfortumab vedotin response in metastatic urothelial cancer. J Clin Oncol 42, 2024 (suppl 4; abstr
+673)
+40. Ascione L, Crimini E, Trapani D, et al: Predicting response to antibody drug conjugates: A focus on antigens’ targetability. Oncologist 28:944-960, 2023
+41. Aggen DH, Chu CE, Rosenberg JE: Scratching the surface: NECTIN-4 as a surrogate for enfortumab vedotin resistance. Clin Cancer Res 29:1377-1380, 2023
+42. Chou J, Trepka K, Sjostr [¨] om M, et al: TROP2 expression across molecular subtypes of urothelial carcinoma and enfortumab vedotin-resistant cells. Eur Urol Oncol 5:714-718, 2022 [¨]
+43. Carosino C, Olson D, Snead K, et al: Enfortumab vedotin, a Nectin-4 directed ADC, demonstrates compelling tolerability and anti-tumor activity with intravesical instillation in preclinical models of
+non-muscle invasive bladder cancer. Cancer Res 82, 2022 (suppl 12; abstr 1140)
+44. Tang M, Garg A, Bonate PL, et al: Clinical pharmacology of the antibody–drug conjugate enfortumab vedotin in advanced urothelial carcinoma and other malignant solid tumors. Clin
+Pharmacokinet 63:423-438, 2024
+45. Lipman NS, Jackson LR, Trudel LJ, et al: Monoclonal versus polyclonal antibodies: Distinguishing characteristics, applications, and information resources. ILAR J 46:258-268, 2005
+46. Lopez M, Ghidouche A, Rochas C, et al: Identification of a naturally processed HLA-A*02:01-restricted CTL epitope from the human tumor-associated antigen Nectin-4. Cancer Immunol
+Immunother 65:1177-1188, 2016
+47. Kl¨umper N, Bragelmann J, Bahlinger V, et al: Membranous expression of target protein is required for ADC response in urothelial cancer. Eur Urol [¨] [10.1016/j.eururo.2024.06.023 [epub ahead of print](http://10.1016/j.eururo.2024.06.023)
+on July 31, 2024]
+48. Bertucci F, de Nonneville A, Finetti P, et al: The co-expression of antigen targets as a rationale for ADC combination in urothelial cancer. Ann Oncol 35:477-478, 2024
+49. McGregor BA, Sonpavde GP, Kwak L, et al: The double antibody drug conjugate (DAD) phase I trial: Sacituzumab govitecan plus enfortumab vedotin for metastatic urothelial carcinoma. Ann Oncol
+35:91-97, 2024
+50. Duan X, Xia L, Zhang Z, et al: First-in-human study of the radioligand 68Ga-N188 targeting Nectin-4 for PET/CT imaging of advanced urothelial carcinoma. Clin Cancer Res 29:3395-3407, 2023
+51. Kamat AM, Lotan Y, Roupret M, et al: A first-in-human trial of intravesical enfortumab vedotin (EV), an antibody-drug conjugate (ADC), in patients with non-muscle invasive bladder cancer (NMIBC):
+Interim results of a phase 1 study (EV-104). J Clin Oncol 41, 2023 (suppl 16; abstr 4596)
+52. Ordu M, Karaaslan M, Sirin ME, et al: Expression of nectin-4 in prostate cancer. North Clin Istanb 10:583-588, 2023
+
+JCO Precision Oncology [ascopubs.org/journal/po | 15](http://ascopubs.org/journal/po)
+
+APPENDIX
+
+TABLE A1. ROBIN-I of Included Studies
+
+Participant Classification of
+Author Confounding Selection Interventions
+
+
+Crupi et al
+
+Deviation From
+Intended Missing Measurement of
+Intervention Data Outcomes
+
+
+Selection of the
+Reported
+Result Overall
+
+
+Hoimes et al [14] Low Low Low Low Low Low Low Low
+
+Yu et al [16] Low Low Low Low Low Low Low Low
+
+Rosenberg et al [15] Low Low Low Low Low Low Low Low
+
+Rosenberg et al [15] Low Low Low Low Low Low Low Low
+
+© 2024 by American Society of Clinical Oncology
+
+TABLE A2. JBI of the Included Studies
+
+
+Clear Reporting of the
+Presenting Site(s)/
+
+Clear Inclusion Reliability of Con- Validity of Identifi- Consecutive Inclu- Complete Inclusion Clear Clear Outcomes Clinic(s) Statistical Analysis
+Author Criteria dition Measure cation Method sion of Participant of Participant Demographic Reported Demographic Appropriate
+
+Calandrella et al [28] Yes Yes Yes Unclear NA Yes NA Yes Yes
+
+Ueki et al [24] Yes Yes Yes Unclear NA Yes Yes Yes Yes
+
+Choi et al [20] Yes Yes Yes No NA Yes NA Yes NA
+
+Miyake et al [23] Yes Yes Yes Unclear NA Yes Yes Yes Yes
+
+Hashimoto et al [29] Yes Yes Yes Unclear NA Yes Yes Yes Yes
+
+Tomiyama et al [27] Yes Yes Yes Unclear NA Yes Yes Yes Yes
+
+Rodler et al [30] Yes Yes Yes No NA Yes Yes Yes Yes
+
+
+Wucherpfennig et
+al [31]
+
+
+Yes Yes Yes No NA Yes Yes Yes NA
+
+
+Fan et al [22] Yes Yes Yes Yes NA Yes NA Yes NA
+
+Zsch¨abitz et al [33] Yes Yes Yes Unclear NA Yes Yes Yes Yes
+
+Garczyk et al [21] Yes Yes Yes Unclear NA Yes Yes Yes NA
+
+Challita Eid et al [5] Yes Yes Yes Unclear NA No NA Yes NA
+
+Chu et al [8] Yes Yes Yes No NA No NA Yes NA
+
+Grass et al [34] Yes Yes Yes No NA Yes NA Yes NA
+
+
+Hoffman-Censits et
+al [9]
+
+
+Yes Yes Yes No NA Yes NA Yes NA
+
+
+Ghali et al [25] Yes Yes Yes No Yes Yes NA Yes NA
+
+Klumper et al [26] Yes Yes Yes Yes NA Yes Yes Yes Yes
+
+Abbreviation: JBI, Joanna Briggs Institute.
+
+Crupi et al
+
+
+
+
+
+
+FIG A1. PRISMA flow diagram of the study selection procedure for the systematic review and meta-analysis. GU, genitourinary; PRISMA, Preferred Reporting Items for Systematic Reviews and Meta-Analyses.
+
+© 2024 by American Society of Clinical Oncology
+
+Nectin-4 Positivity in Genitourinary Malignancies
+
+TABLE A3. Median H-Score in Urothelial Carcinoma
+
+Study No. Low IQR Median H-Score High IQR Antibody
+
+EV-101 152 0 290 300 M22-321b41.1
+
+EV-201 cohort 1 [a] 120 14 290 300 M22-321b41.1
+
+EV-201 cohort 2 [a] 80 230 275 296 M22-321b41.1
+
+Kl¨umper et al [26] 137 25 110 300 EPR 15613-68, Abcam
+
+Miyake et al [23] 64 33 100 160 HPA010775 (SIGMA)
+
+EV-302 EV arm 394 0 280 300 M22-321b41.1
+
+EV-302 Cht arm 406 0 270 300 M22-321b41.1
+
+Abbreviations: Cht, chemotherapy; EV, enfortumab vedotin; H-score, Histo-score.
+
+a In EV-201: cohort 1 enrolled patients previously treated with both platinum chemotherapy and anti–PD-1/L1 therapy. Cohort 2 enrolled
+cisplatin-ineligible patients previously treated with anti–PD-1/L1 therapy only.
+
+JCO Precision Oncology [ascopubs.org/journal/po](http://ascopubs.org/journal/po)
+
+Crupi et al
+
+TABLE A4. N4 IHC Evaluation Using Clone M22-321b41.1 in EV Clinical Trial in the Setting of mUC
+
+Author, Study Type Tested, No. Positive, No. (%) Median H (range) N4 Positivity Definition
+
+Rosenberg et al [12] (EV-101) Phase I 152 147 (96.7) 290 (0-300) H-score >14
+
+
+Hoimes et al, [14] EV-103 Dose Escalation Phase and Dose Expansion
+Cohort A
+
+
+Phase Ib/II 39 38 (97.4) Not reported H-score >0
+
+
+EV-103 cohort K Phase Ib/II 74 70 (94.6) Not reported H-score >0
+
+Rosenberg et al [13] (EV-201 cohort 1 [a] ) Phase II 120 120 (100) 290 (14-300) H-score >14
+
+Yu et al [16] (EV-201 cohort 2 [a] ) Phase II 80 79 (99) 275 (230-296) H-score >14
+
+Abbreviations: EV, enfortumab vedotin; H-score, Histo-score; IHC, immunohistochemistry; mUC, metastatic urothelial carcinoma; N4, nectin-4.
+
+a In EV-201: cohort 1 enrolled patients who were previously treated with both platinum chemotherapy and an anti–PD-1/L1 therapy, whereas cohort
+2 enrolled patients who were previously treated only with an anti–PD-1/L1 therapy.
+
+© 2024 by American Society of Clinical Oncology
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

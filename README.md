@@ -6,6 +6,9 @@ A LLM-based framework for automated extraction, harmonization, and consensus ana
 
 This framework uses state-of-the-art LLMs to systematically analyze clinical guidelines and white area papers in a case study on penile cancer treatment. The pipeline extracts treatment recommendations, identifies consensus and disagreements across multiple guidelines, and generates comprehensive comparative analyses.
 
+## Experimental Results
+
+The results from applying the framework to penile cancer (clinical guidelines and "white area" literature) can be found in the `study_results/` directory of this repository. For more details, please check out [this description](study_results/description.md).
 
 ## Installation
 

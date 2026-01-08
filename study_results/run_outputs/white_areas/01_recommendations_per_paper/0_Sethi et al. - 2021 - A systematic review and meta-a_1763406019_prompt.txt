@@ -1,0 +1,1456 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Received: 25 August 2020 | Revised: 4 May 2021 | Accepted: 7 May 2021
+
+DOI: 10.1111/jop.13201
+
+**R E V I E W**
+# **A systematic review and meta- ­analysis of the prevalence of ** **human papillomavirus infection in Indigenous populations – ­ ** **A Global Picture**
+
+**[Sneha Sethi](mailto:﻿)** **[[1]](mailto:﻿)** | **Anna Ali** **[2]** | **Xiangqun Ju** **[1]** | **Annika Antonsson** **[3]** | **Richard Logan** **[4]** |
+**Karen Canfell** **[5]** | **Megan Smith** **[5]** | **Gail Garvey** **[6]** | **Joanne Hedges** **[1]** | **Lisa Jamieson** **[1]**
+
+
+1 Australian Research Centre for
+
+Population Oral Health, Adelaide Dental
+
+School, University of Adelaide, Adelaide,
+
+SA, Australia
+
+2 Robinson Research Institute, University
+
+of Adelaide, Adelaide, SA, Australia
+
+3 QIMR Berghofer Medical Research
+
+Institute, QIMR Berghofer Medical
+
+Research Institute, Brisbane, Qld,
+
+Australia
+
+4 Adelaide Dental School, University of
+
+Adelaide, Adelaide, SA, Australia
+
+5 Cancer Council of New South Wales,
+
+Sydney, NSW, Australia
+
+6 Menzies School of Health Research,
+
+Charles Darwin University, Darwin, NT,
+
+Australia
+
+**Correspondence**
+
+Sneha Sethi, Australian Research Centre
+
+of Population Oral Health, Adelaide
+
+Dental School, University of Adelaide,
+
+Adelaide, SA 5000, Australia.
+
+[Email: sneha.sethi@adelaide.edu.au](mailto:sneha.sethi@adelaide.edu.au)
+
+**Funding information**
+
+This research received no specific grant
+
+from any funding agency in the public,
+commercial or not- ­for- ­profit sectors.
+
+
+**Abstract**
+
+**Background and Aim:** Recent trends have shown a decline in the rates of human pap
+illomavirus (HPV)- ­associated cervical cancer in the vaccinated population but there
+
+has been a spike in the HPV- ­associated oropharyngeal, anal and penile cancers in
+
+the majority of the unvaccinated population which are young and middle- ­aged males.
+
+Indigenous populations at an international level carry a disproportionate burden of
+
+most diseases. The aim of this meta- ­analysis was to ascertain the worldwide preva
+lence of HPV infection in Indigenous populations stratified by sex and site and to
+
+document the most commonly reported HPV types.
+
+**Methods:** Published articles on HPV infection in Indigenous populations from
+
+PubMed, Scopus, EMBASE and Web of Science were systematically searched from
+
+inception until 23 December 2019.
+
+**Results:** A total of 41 studies were included in the final analysis. The pooled world
+wide prevalence of HPV infection (for both oral and genital sites, both males and
+
+females) in Indigenous populations was 34.2% (95% CI: 28.9%– ­39.8%). Subgroup
+
+analysis (geographical) showed that the pooled prevalence for African Indigenous,
+
+American Indigenous and Asian- ­Oceanic Indigenous populations were 33.0% (95%
+
+CI: 12.8%– ­57.1%), 33.0% (95% CI: 27.4%– ­38.9%) and 33.3% (95% CI: 0.17.5%– ­51.3%),
+
+respectively.
+
+**Conclusion:** There are not enough data on the burden of the infection carried by
+
+males especially with respect to highly suspicious sites like oropharynx. Also, we con
+clude an overall high prevalence of HPV infection in the Indigenous populations and
+
+increasing their susceptibility to benign and malignant manifestations of HPV.
+
+**K E Y W O R D S**
+
+cervical cancer, human papillomavirus, Indigenous, oropharyngeal cancer, systematic review
+
+
+© 2021 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd
+
+*J Oral Pathol Med.* 2021;50:843–854. ﻿ wileyonlinelibrary.com/journal/jop | 843
+
+**844** **|** SETHI ETet al .
+
+
+**1** | **INTRODUCTION**
+
+Human papillomavirus (HPV) infection and its concomitant expres
+sions, both benign and malignant, have gained significant public at
+tention at the international level in recent decades. HPV infection
+
+has been recognized for its carcinogenic potential targeting the mu
+cous membranes of the cervix, penis, vulva, vagina, anus and oro
+pharynx (including the base of the tongue and tonsils). [1] Reportedly,
+
+more than 290 million women worldwide are infected with HPV,
+
+which corresponds to 570 000 cases of cervical cancer and 311 000
+
+associated deaths worldwide. [1] The incidence of HPV- ­related oro
+pharyngeal squamous cell carcinoma in men is rapidly increasing,
+
+having overpassed rates of cervical cancer in women in both the
+
+United Kingdom [2] and the United States. [3] This has been possible
+
+due to highly effective cervical screening programmes and aggres
+sive vaccination programmes for females in these countries; this ag
+gressive approach has led to a desirable reduction in cervical cancer
+
+rates by more than 50%. [2,3]
+
+Extensive research has been undertaken with respect to HPV
+
+infection, both at a basic science/molecular level and at a popula
+tion/epidemiological level. Although preventive vaccines have been
+
+available in the market since 2006, [4] statistics [5,6] demonstrate a sharp
+
+spike in the number of cases reporting with HPV- ­associated oro
+pharyngeal, anal and penile lesions. [4- ­6] A systematic review in 2016
+
+demonstrated that while substantial proportions of women from
+
+high- ­ and middle- ­income countries were being vaccinated, women
+
+in low- ­income countries (or regions) (who are potentially at a higher
+
+risk) were unable to access the vaccine, but more recently steps are
+
+being taken to rectify this situation. [7,8] These studies demonstrate
+
+growing inequalities in both the distribution of vaccine and up
+take. Because of this, wholesale efforts are being made to create
+
+awareness and make vaccinations available to many disadvantaged
+
+communities. [9- ­11] WHO has launched a cervical cancer elimination
+
+strategy in May 2020 with three main objectives of preventing,
+
+screening and treating HPV- ­associated cervical cancers; all coun
+tries are to vaccinate 90% women, screen 70% women and treat
+
+90% of the invasive cancers by the year 2030. [8]
+
+The United Nations Indigenous Peoples’ Partnership defines
+
+being ‘Indigenous’ as ‘people with a historical continuity with pre- ­
+
+invasion and pre- ­colonial societies that developed on their territo
+ries, and who consider themselves distinct from other sectors of the
+
+societies now prevailing on those territories’. Indigenous popula
+tions, who represent 370 million people from across 70 countries,
+
+experience health inequalities in ways that are unique and separate
+
+to the inequalities experienced by other marginalized groups. This
+
+is largely due to colonial influences that have resulted in sustained
+
+loss of lands, identity, languages and the control to live life in a way
+
+that is meaningful to many Indigenous persons. In many countries,
+
+Indigenous groups have been victims of sustained discrimination and
+
+marginalization, with policies often focussing on assimilation and,
+
+in some cases, cultural annihilation. [12,13] In a report using the 2015
+
+Human Development Index, a composite index of life expectancy,
+
+education and per capita income, Australia ranked 2 [nd], the United
+
+
+States and Canada both ranked 10 [th], New Zealand ranked 13 [th] and
+
+Brazil ranked 75 [th] . However, when Indigenous Australian popula
+tions were considered in isolation, the Australian ranking dropped
+
+to 122 [nd] . The international community now recognizes that special
+
+measures are required to protect the rights of Indigenous groups and
+
+to maintain their distinct cultures and way of life. [14] Most countries
+
+do not officially recognize their Indigenous groups and have inaccu
+rate or no published statistical data for these people. In almost every
+
+country, Indigenous people are over- ­represented among the poor
+
+and disadvantaged, especially in developed countries. [15]
+
+We aimed to review the prevalence of HPV infection in
+
+Indigenous populations at an international level. Specific research
+
+questions included the following: (1) What is the overall prevalence
+
+of HPV infection in Indigenous populations at an international level
+
+stratified by sex, site and geographic locations? And (2) what are the
+
+most common HPV types reported?
+
+**2** | **METHODS**
+
+This systematic review and meta- ­analysis have been registered in
+
+PROSPERO (CRD number: CRD42020164440) and were conducted
+
+following the Preferred Reporting Items for Systematic Reviews and
+
+Meta- ­Analyses statement (Appendix S1). [16]
+
+**2.1** | **Data sources and searches**
+
+A structured literature search was performed using the search en
+gines PubMed, SCOPUS, Web of Science and EMBASE from in
+ception until 23 December 2019. The search strategy included a
+
+combination of subject terms and free text terms, and these terms
+
+were combined with ‘OR’ and ‘AND’ operators. The search com
+prised the following terms: (first nation/first nations/pacific islander/
+
+pacific islanders/torres strait islander/torres strait islanders/abori
+gin/alaska*/aleut*/amerind*/arctic/Aymara/bushmen/chukchi/chu
+kotka*/circumpolar/eskimo*/greenland*/hmong/indian*/indigen*/
+
+inuit*/inupiaq/Inupiat/Khanty/maori*/mapuche/metis/native*/
+
+Navaho*/navajo*/nenets/quechua/saami/sami/samoan*/siberia*/
+
+skolt/tribal/tribe*/xingu*/yup'ik/yupik/zuni/"African continental
+
+ancestry group"/"African continental ancestry group"/"Asian conti
+nental ancestry group"/"Health Services, Indigenous"/"Oceanic an
+cestry group"/"arctic regions"/"ethnic groups”). The reference lists of
+
+all relevant articles were checked to identify any additional studies.
+
+**2.2** | **Study selection**
+
+The inclusion criteria for articles to be included were predefined
+
+(Figure 1). We considered all observational studies (cross- ­sectional,
+
+cohort and case- ­control). Studies involving secondary evidence,
+
+such as systematic reviews, were excluded. Studies were not ex
+cluded on the basis of sample size, as later on we stratified it on
+
+SETHI ETet al . **|** **845**
+
+**FI G U R E 1** Flowchart depicting the
+
+study selection to be included in the
+
+systematic review
+
+
+the basis of number of participants. Case reports, case studies and
+
+interventional studies (eg clinical trials) were excluded. The titles and
+
+abstracts were retrieved from all studies and were analysed by two
+
+independent reviewers (SS and A. Ali). Disagreements were solved
+
+by discussion, consensus or involving a third reviewer (LJ). The full
+
+texts of all selected studies were collected and the aforementioned
+
+inclusion criteria were applied. We removed all duplicates and ex
+cluded studies which did not include Indigenous populations, were
+
+not available in English or had no full- ­text available.
+
+**2.3** | **Data extraction and quality assessment**
+
+The included studies were 2 case- ­control studies, 5 cohort studies
+
+and 34 cross- ­sectional studies. In the cohort studies, we included
+
+the baseline data only, and in case of two or more studies using
+
+the same data, we selected one study with the largest sample size
+
+for more representative numbers. The methodological quality and
+
+risk of bias were evaluated and scored independently by two re
+viewers (SS and A. Ali) using the National Institute of Health (NIH)
+
+quality assessment tool and Newcastle- ­Ottawa scale (NOS). The
+
+quality of the outcome was summarized using a system with guid
+ance from the GRADE (Grading of Recommendations, Assessment,
+
+Development and Evaluations) [17] approach: high, moderate or low
+
+quality. In case of NIH assessment, each question was graded as
+
+one point, with a response of ‘Yes’ and ‘N.A’ as 1 and a response
+
+of ‘No’ as 0. A total score was calculated for each paper included
+
+(Appendix S2) and a score of 13– ­14 was graded ‘High- ­Quality’, 11– ­
+
+12 was ‘Moderate- ­Quality’, and <11 was ‘Poor Quality’. Similarly,
+
+when using the NOS assessment, we used the system suggested by
+
+Herzog et al. in 2013. [18]
+
+The following data from all selected articles were extracted:
+
+year, country, geographic location, ethnicity of population, crude
+
+
+prevalence of HPV infection with 95% confidence intervals, mean
+
+age of study cohort and most common HPV type reported (Table 1).
+
+The clinical and laboratory equipment involved in HPV diagnosis in
+cluded medical records, screening tests, blood tests, clinical exam
+inations, cervical Pap smears, oral gargles, penile swabs, tampons,
+
+saliva samples and polymerase chain reaction.
+
+**2.4** | **Statistical analysis**
+
+A random- ­effects model was used to calculate prevalence and their
+
+associated 95% confidence intervals. Heterogeneity between the
+
+studies was evaluated by *I* [2] statistics, with *I* [2] - 50% indicating signifi
+cant heterogeneity (Figure 2). To address the high heterogeneity, a
+
+subgroup analysis was performed on the basis of continent (Africa/
+
+Asian- ­Oceanic/American), type of study (case- ­control/cohort/cross- ­
+
+sectional), study quality (high/moderate/low) and sample size (less or
+
+more than 500; Table 2). Meta- ­regression was performed to further
+
+explore the heterogeneity caused by geographical location, type of
+
+study, sample size and study quality (Appendix S3). Statistical analyses
+
+were conducted using STATA 15, with *P* - ­values <0.05 considered to
+
+denote differences that were statistically significant.
+
+**3** | **RESULTS**
+
+**3.1** | **Study and patient characteristics**
+
+A total of 1,377 articles on HPV infection in Indigenous popula
+tions were identified from PubMed, Scopus, EMBASE and Web of
+
+Science. Four hundred and fourteen articles were included after
+
+removing duplicate records, two hundred and twenty- ­one records
+
+were excluded after reviewing titles, and one hundred and fifteen
+
+**846** **|** SETHI ETet al .
+
+**TA B LE 1** Characteristics of all the studies included reporting the prevalence of HPV in Indigenous populations
+
+**Publication**
+
+**Author** **year** **Indigenous identity** **Geographical location** **Country**
+
+Lee NR et al. 2019 American Indian Great Plains, (North Dakota, South USA
+
+Dakota, Nebraska and Iowa), USA
+
+Ghosh S et al. 2019 Koraga, Marathi Naika and Malekudiya Udupi south- ­coastal Karnataka, India India
+
+
+Vargas- ­Robles D et al. 2018 Piaroa Amerindian Venezuelan Amazonas State in
+the Orinoco River basin, South
+
+America
+
+
+South America
+
+
+Nascimento M et al. 2018 Quilombola Maranhão, Brazil, South America South America
+
+McGregor S et al. 2018 Indigenous Australia Australia
+
+Fuenmayor A et al. 2018 Eñepa Indigenous Maniapure, Bolivar State, Venezuela, South America
+
+South America
+
+Camara HB et al. 2018 Fula, Mandinka, Wollof, Jola, Serere The Gambia, Africa Africa
+
+Awua AK et al. 2017 Ghanian indigenous Akuse, Ghana, West Africa Africa
+
+Gauthier B et al. 2016 Inuit Tribe Nunavik, Quebec, Canada Canada
+
+Sharma K et al 2015 Gond, Korku, Munda, Lohra, Asur, Oreo, Madhya Pradesh, Jharkhand and India
+
+Muria, Halba, Abhujmaria Chhattisgarh in India
+
+Mongelos P et al. 2015 Maka´, Nivacle´, Sanapana´, South Enxet, Paraguay, South America South America
+Toba- ­Qom.
+
+Fonseca AJ et al. 2015 Yanomami, Macuxi, Wapishana northern Amazonian region South America
+
+Bennet R et al. 2015 Inuit Nunavik, Quebec, Canada Canada
+
+Severini A. et al. 2013 Metis, Inuit and First Nations people Labrador, Canada Canada
+
+Schabath MB et al. 2013 Pacific Islander Men Southern Florida in USA, S~ao Paulo in USA and South
+
+Brazil, or Cuernavaca in Mexico America
+
+Metcalfe S et al. 2013 Inuit Nunavik, northern Quebec Canada
+
+Mendoza L et al. 2013 Maká, Nivaclé, Sanapaná, Enxet Sur, Paraguay, South America South America
+Toba- ­Qom
+
+Jiang Y et al. 2013 First Nations Northern Canada, Yukon Canada
+
+Jiang Y et al. 2013 First Nations, Metis and Inuit Nunavut, Labrador, Yukon in Northern Canada
+
+Canada
+
+Rumbold AR et al. 2012 Indigenous Arnhem Land people Arnhem Land region, Australia Australia
+
+Deluca GD et al. 2012 Pilagá community Formosa, Argentina South America
+
+Blas MM et al. 2012 Shipibo- ­Konibo Lima and Ucayali, Peruvian Amazon South America
+
+
+Akogbe GO. et al. 2012 Asian/Pacific Islanders Sao Paulo, Brazil; the state of Morelos,
+
+Mexico; or metropolitan Tampa,
+
+Florida, United States
+
+
+USA and South
+
+America
+
+
+Parvez R et al 2012 Nicobarese Tribe Andaman Nicobar Islands, India India
+
+SETHI ETet al . **|** **847**
+
+**Quality of study**
+
+
+**Most prevalent**
+
+**Prevalence %** **N** **Sex distribution** **AGE** **HPV type** **Type of Study**
+
+
+**Newcastle**
+
+**NIH Scale** **Ottawa scale**
+
+
+34.8 (31.3– ­38.4) 698 Female: 698 27– ­48 years HPV 51 (7.6%) Cross- ­sectional Moderate High
+
+Male: 0
+
+40.6 (37.8– ­43.5) 1140 Female:1140 Mean – ­ 40 years HPV 18 (28.3%) Cross- ­sectional High High
+
+Male: 0
+
+70.1 (58.6– ­80.6) 67 Female: 67 12– ­53 years HPV 18 (45%) Cross- ­sectional High High
+
+Male: 0
+
+12.6 (9.3– ­15.8) 395 Female: 395 12– ­ 84 years HPV 68 (26%) Cross- ­sectional High Moderate
+
+Male: 0
+
+58.1 (38.2– ­88) 155 Female:155 18– ­26 years HPV 16 (17.4%) Cross- ­sectional High High
+
+Male: 0
+
+45.71 (29.4– ­62.5) 35 Female: 35 13– ­67 years – ­ Cross- ­sectional High Moderate
+
+Male: 0
+
+12.1 (8.2– ­16.6) 232 Female: 232 20 −49 years HPV 52 (17.8%) Cross- ­sectional High High
+
+Male: 0
+
+67.3 (61– ­73.2) 226 Female: 226 15– ­65 years – ­ Cross- ­sectional High High
+
+Male: 0
+
+22.68 (19.6– ­26) 657 Female: 657 15– ­69 years HPV 16 (9.13%) Cohort High High
+
+Male: 0
+
+12.9 (11.4– ­14.4) 2034 Female: 2034 9– ­25 years HPV 16 (54%) Cross- ­sectional High High
+
+Male: 0
+
+22.7 (19.6– ­26) 181 Female: 181 Mean – ­ 30 years HPV 16 (4.4%) Cross- ­sectional High Moderate
+
+Male: 0
+
+39.6 (35.9– ­43.4) 664 Female: 664 Mean HPV31 (8.7%) Cross- ­sectional High High
+Male: 0 – ­ 35.8 years
+
+39.9 (35.2– ­44.7) 416 Female: 416 15– ­69 years HPV 16 (25.32%) Cohort High High
+
+Male: 0
+
+21.4 (19.3– ­23.6) 1370 Female: 1370 13 – ­ 86 years HPV 16 (32.2%) Cross- ­sectional High Moderate
+
+Male: 0
+
+25.2 (17.5– ­33.8) 111 Female: 0 18– ­70 years – ­ cohort High High
+
+Male: 111
+
+47.62 (43.5– ­51.8) 548 Female: 548 15– ­69 years – ­ Cohort High High
+
+Male: 0
+
+23.2 (17.3– ­29.7) 181 Female: 181 Mean – ­ 30 years HR HPV (16.1%) Cross- ­sectional High High
+
+Male: 0
+
+24.3 (19.4– ­29.5) 276 Female: 276 14 years and HPV 16 (10.6%) Cross- ­sectional High High
+
+Male: 0 above
+
+27.6 (26.7– ­28.6) 8446 Female: 8446 18– ­69 years HPV 16/18 (7.5%) Cross- ­sectional High High
+
+Male: 0
+
+63.9 (59.7– ­68) 521 Female: 521 18– ­60 years HPV 16 (5.8%) Cross- ­sectional High Moderate
+
+Male: 0
+
+46.7 (40.2– ­53.2) 227 Female: 227 Mean – ­ 30 years HPV−16 (19.4%) Cross- ­sectional High Moderate
+
+Male: 0
+
+31.5 (28.9– ­34) 1253 Female: 1253 15– ­39 years HPV 16 (10.8%) Case- ­control High High
+
+Male: 0
+
+42.2 (33.3– ­51.7) 111 Female: 0 18– ­70 years HPV 16/18 Cohort High High
+Male: 111 (18.9%)
+
+2.3 (0– ­9.7) 43 Female: 43 20– ­60 years HPV 16 (100%) Cross- ­sectional High High
+
+Male: 0
+
+(Continues)
+
+**848** **|** SETHI ETet al .
+
+**TA B LE 1** (Continued)
+
+**Publication**
+
+**Author** **year** **Indigenous identity** **Geographical location** **Country**
+
+Schmidt- ­Grimminger D 2011 American Indian Northern Plains (South Dakota) in USA USA
+
+C et al
+
+Garland SM et al. 2011 Aboriginal and Tores strait islander Australia Australia
+
+
+Camargo M et al. 2011 Leticia- ­Amazonas, Chaparral- ­ Tolima,
+Engativa- ­Bogota, Girardot- ­
+Cundinamarca, Tumaco- ­Narino
+
+
+Colombia, South America South America
+
+
+Bell MC et al. 2011 American Indian Northern Plains, South Dakota, USA USA
+
+Alfonsi GA et al 2011 American Indian/Alaska Native Boston, Baltimore, New Orleans, USA
+
+Seattle, Denver, Los Angeles
+
+Hamlin- ­Douglas, et al. 2010 Inuit women Nunavik, Northern Quebec Canada Canada
+
+Giuliano AR et al. 2009 Asian and Pacific islander US, Brazil, Mexico USA and South
+
+American Indian/Alaska native America
+
+Wall SR et al. 2005 Wolof, Mandinka, Fula Gambia, West Africa Africa
+
+Tonon, SA et al. 2004 Guarani Indian tribe Rain forest of Misiones, north- ­eastern South America
+Argentina South America
+
+Brito EB et al. 2002 Parakana Brazilian Amazonia South America
+
+Tribe, Amerindian
+
+Schiff M et al 2000 South- ­western Tribe, American Indian Albuquerque, New Mexico, USA. USA and South
+
+America
+
+Marais D et al. 2000 Bushmen/ San tribe Schmidtsdrift, Southern Africa Africa
+
+Bowden FJ et al. 1998 Aboriginal ‘Top End’ of the Northern Territory Australia
+
+Young T et al. 1997 Aboriginal Canada Canada
+
+Davidson M et al. 1994 Alaska Native (Eskimo, Aleut, Indian) Alaska USA
+
+Becker TM et al. 1991 Pueblo and Navajo, Native American Albuquerque, New Mexico, South South America
+
+America
+
+
+Bloch B et al. 1988 Himba, Herero, Bushman, Barakwena
+
+and the Vasquella, Ovambo, Damara,
+
+Angolan, coloured, Nama, Xhosa and
+
+Kavango
+
+*Note:* – ­ indicates not mentioned in article.
+
+
+South west Africa/ Namibia Africa
+
+
+were excluded after reviewing the abstracts. According to the inclu
+sion and exclusion criteria, 41 studies were included in the meta- ­
+
+analysis after reading full texts of 78 records. The flowchart is listed
+
+in Figure 1.
+
+In the final analysis, we included 2 case- ­control studies, 5 cohort
+
+studies and 34 cross- ­sectional studies; after stratifying on the basis of
+
+sample size, we found 24 studies to have included less than 500 indi
+viduals in their research and 17 had a sample above 500. On the basis
+
+of geographical location, 5 studies involved African Indigenous popu
+lations, 7 studies involved Asian and Oceanic (Australia, New Zealand)
+
+Indigenous populations, and 29 studies involved American Indigenous
+
+
+populations. The characteristics of these studies are summarized in
+
+Table 1. Also, we found only 3 studies which had data on males and
+
+other sites of infection (apart from cervical) like oropharynx, penile and
+
+anal; and since it is such a small number, it was insufficient to stratify
+
+the studies on the basis of sex and site.
+
+**3.2** | **Study quality**
+
+Results of the study quality for the included records are listed in
+
+Supplement Table 1. One study was considered low quality, 7
+
+SETHI ETet al . **|** **849**
+
+**Quality of study**
+
+
+**Most prevalent**
+
+**Prevalence %** **N** **Sex distribution** **AGE** **HPV type** **Type of Study**
+
+
+**Newcastle**
+
+**NIH Scale** **Ottawa scale**
+
+
+41.7 (35.5– ­48.1) 235 Female: 235 18– ­65 years HPV 18 (– ­) Cross- ­sectional High High
+
+Male: 0
+
+47.5 (43.6– ­51.3) 655 Female: 655 17– ­40 years HPV 16 (9.4%) Cross- ­sectional High High
+
+Male: 0
+
+63.8 (49.5– ­77.1) 47 Female: 47 14– ­69 years HPV 16 (– ­) Cross- ­sectional High High
+
+Male: 0
+
+46.8 (40– ­53.7) 205 Female: 205 16– ­65 years – ­ Cross- ­sectional High High
+
+Male: 0
+
+32.6 (27.4– ­38.2) 291 Female: 291 18– ­65 years – ­ Cross- ­sectional High Moderate
+
+Male: 0
+
+28.9 (25.2– ­32.7) 554 Female: 554 15– ­69 years – ­ Cross- ­sectional High Moderate
+
+Male: 0
+
+50 (34.8– ­65.2) 22 Female: 0 18– ­70 years – ­ Cross- ­sectional High Moderate
+
+20 Male: 42
+
+24.3 (20.2– ­28.6) 699 Female: 699 15– ­54 years HPV 16 (19%) Cross- ­sectional Moderate High
+
+Male: 0
+
+63.8 (57.1– ­70.2) 207 Female: 207 12– ­64 years HPV16 Cross- ­sectional Moderate Low
+Male: 0 (30.8%)
+
+14.3 (5.1– ­26.7) 42 Female: 42 10– ­73 years HPV 16 (4.7%) Cross- ­sectional High Moderate
+
+Male: 0
+
+42.46 (37.6– ­46.9) 438 Female: 438 18– ­45 years HPV 31 (8.4%) Case- ­control High High
+
+Male: 0
+
+56.96 (50.7– ­63.1) 244 Female: 173 Up till 83 years HPV 45 Cross- ­sectional Moderate High
+
+Male: 71
+
+41.8 (36.7– ­46.9) 359 Female: 359 Mean HPV 16 (19.2%) Cross- ­sectional Moderate High
+Male: 0 – ­ 26.1 years
+
+33.6 (29.6– ­37.7) 530 Female: 530 – ­ HPV 18 (14.7%) Cross- ­sectional Moderate Moderate
+
+Male: 0
+
+21 (18.6– ­23.4) 1126 Female: 1126 14– ­79 years HPV 16 (– ­) Cross- ­sectional Moderate High
+
+Male: 0
+
+6.4 (4.8– ­8.3) 746 Female: 746 HPV31, 33, 35 Cross- ­sectional Low Moderate
+Male: 0 (46.9%)
+
+24.4 (21.3– ­27.7) 684 Female: 684 >20– ­45 years< – ­ Cross- ­sectional High Moderate
+
+Male: 0
+
+
+studies were of moderate quality, and 35 studies were of high qual
+ity according to the NIH scale. According to the Newcastle- ­Ottawa
+
+scale, 4 studies were of low quality, 13 of moderate quality, and 26
+
+studies were of high quality.
+
+**3.3** | **Pooled prevalence of HPV infection in**
+**Indigenous populations**
+
+The prevalence of HPV infection in Indigenous populations in the
+
+included studies ranged from 2.3 percent to 70.1 percent. We were
+
+
+unable to stratify the prevalence proportion on the basis of sex and site
+
+due to insufficient data in each; hence, we report a pooled overall prev
+alence. The pooled prevalence was 34.2% (95% CI: 28.9%−39.8%) with
+
+a high level of heterogeneity between studies ( *I* [2] = 98.7, *p* < 0.0001)
+
+(Figure 2). The prevalence of HPV infection in Indigenous populations
+
+of Africa, America and Asia/Oceania was similar: 33% (95% CI: 12.8%– ­
+
+57.1%), 33% (95% CI: 27.4%– ­38.9%) and 33% (95% CI: 17.5%– ­51.3%),
+
+respectively. The prevalence in studies with more than 500 individu
+als was 29.4% (95% CI: 28.9%– ­39.8%) and in studies with less than
+
+500 individuals was 36.3% (95% CI: 28.7%– ­44.4%). On the basis of
+
+type of studies, the pooled prevalence of cohort studies was 35.3%
+
+**850** **|** SETHI ETet al .
+
+**FI G U R E 2** Forest plot of prevalence reported by all 41 studies included in the systematic review
+
+
+(95% CI: 25.7%– ­45.5%), for case- ­control studies was 36.7% (95%
+
+CI 26.4%– ­47.7%) and for cross- ­sectional studies was 31.6% (95% CI:
+
+25.2%– ­38.3%).
+
+**3.4** | **Meta- ­regression and publication bias**
+
+Univariate meta- ­regression analysis was performed to enable better
+
+understanding of the high heterogeneity observed in our meta- ­analysis
+
+(Figure 2). The results showed that study population, age, study period,
+
+study quality, diagnostic criteria and study design could not explain the
+
+high heterogeneity between studies (Table 2) ( *p* - 0.50).
+
+
+The most prevalent type of HPV seen was HPV 16, seen as most
+
+common type in 21 studies out of 41 (51.2%); second most common
+
+type seen was HPV 18 in 4 studies (9.7%). Eight studies did not men
+tion the most prevalent HPV type seen, 3 studies declared HPV 31
+
+as the most commonly detected, and a single study each showed
+
+HPV 45, 51, 52 and 68 as most prevalent type seen.
+
+**4** | **DISCUSSION**
+
+The current systematic review and meta- ­analysis demonstrate
+
+a pooled prevalence of 34.2% of HPV infection in Indigenous
+
+SETHI ETet al . **|** **851**
+
+
+**TA B LE 2** Subgroup analysis about
+incidence of HPV in indigenous
+populations in different categories
+
+
+**Number of** **Prevalence**
+
+**Subgroup category** **studies** **rate**
+
+
+**95%**
+**Confidence** ***I*** **[2]**
+
+**intervals** **(%)**
+
+
+Total 41 34.2 28.9– ­39.8 98.7
+
+
+
+
+
+
+
+
+populations at a global level. The pooled prevalence in Indigenous
+
+populations of Asia and Oceania, Africa and America was all simi
+lar (33%).
+
+Our major finding was a strikingly high pooled prevalence in
+
+Indigenous populations, as compared to a previously reported HPV
+
+prevalence in general populations. [6,7] It has been suggested that health
+
+conditions of Indigenous people are over- ­represented among the poor
+
+and disadvantaged, especially in developed countries. [15] The Centre
+
+of Disease Control (CDC) in the United States released data which
+
+suggest that native communities carry an increased burden of infec
+tious disease especially sexually transmitted diseases. [3] It has been
+
+reported [17,19] that the prevalence of high- ­risk HPV related to invasive
+
+cervical cancer was 32.7% in American Indian/Alaskan Native popula
+tions in the United States compared with 24.9% in the non- ­Indigenous
+
+populations. A crude incidence of HPV- ­related cervical cancer in 9
+
+Indigenous populations of the Brazilian Amazon was 46/100 000,
+
+which indicated a public health concern, also suggesting a weakness in
+
+the current secondary prevention programme. [20] A systematic review
+
+evaluating the prevalence of HPV infection in women of the general
+
+population in 5 continents reported a 24% prevalence in African re
+gion, 16.1% in the American regions and 14% in the Asian regions. [21]
+
+Our systematic review has delineated the specific prevalence of HPV
+
+infection in Indigenous populations of similar regions, and our findings
+
+show a consistently higher incidence of the infection in all the regions.
+
+Similarly, another systematic review evaluating the HPV infection in
+
+Middle East and North Africa found a prevalence of 16% in the general
+
+population of these regions compared with the 33% prevalence we
+
+found Indigenous populations of the African regions. [22]
+
+
+It is important to consider the unique genetic makeup and
+
+race- ­specific characteristics of Indigenous populations. It has been
+
+suggested that there may be disparities in immune regulating cells
+
+(human leucocyte antigen, immunoglobulin- ­like receptors) including
+
+germ line variations, which affects the mechanisms of defending and
+
+destroying these infections, which could lead to fluctuations in fre
+quency across populations. [23,24] A study of 3 specific tribes (Aymara,
+
+Mestizo and Quechua) of Bolivian Andean women has revealed an
+
+unexpected number of cases infected with HPV- ­31, and it was sug
+gested that this could again be attributed to the specific immunoge
+nicities of different ethnicities. [23,25] Another possible genetic link has
+
+been suggested which states that there is a possibility of this group
+
+of people to be less resistant to tumour development. [26]
+
+Indigenous people are deeply spiritual and have strong beliefs
+
+
+regarding life principles; many of those beliefs may impact on health- ­
+
+related behaviours. For example, in New Zealand, Maori women
+
+are fearful of cervical screening procedures as they feel that it is
+
+tapu (taboo to something sacred) and incorporates whakama (em
+barrassment and shyness). [27] In 2018, a study found a significant
+
+association between female genital mutilating practices and the
+
+persistence of HPV infection or cervical cancer in the Fula ethnic
+
+population in Gambia. [28] Another social practice of marrying girls at
+
+a very young age to middle- ­aged men and starting conception of
+
+children immediately after menarche was observed in the Parakana
+
+tribe of the Brazilian Amazonian region. These girls were having
+
+children every 2– ­3 years and the practices of bigamy and multiple
+
+sexual partners are common, making the females extremely suscep
+tible to HPV infections (prevalence of 43%) and subsequent cervical
+
+**852** **|** SETHI ETet al .
+
+
+cancer. [29,30] Similar trends were observed among American Indian
+
+women, where high carriage of HPV infection was associated with
+
+2– ­5 sexual partners, sexual practices without condoms, first sexual
+
+experience between 11 and 18 years of age and more than 3 preg
+nancies. [31] Number of sexual partners was an important predictor of
+
+HPV infection in the Métis population of Canada. [32] The younger age
+
+of onset of sexual practices and less likely use of condoms have been
+
+observed in Maori tribes also. [33] The Enepa tribe from Venezuela
+
+have deep- ­rooted belief systems and monogamous customs, which
+
+includes the marriage of sexually mature girls at an early age (13– ­
+
+15 years) and the male dominant role in the family. Health promotion
+
+and education strategies do not appear to have been successful. [34] A
+
+Pilaga community in Northern Argentina showed very high preva
+lence of HPV infection (46.7%). [35] Several reasons for not attending
+
+cervical cancer screening were described by Canadian Inuit women,
+
+including previous painful experiences and embarrassment to be
+
+examined by a male nurse. [32] Nahua, Mam and Huichol women in
+
+rural Mexico said that reasons to avoid any treatment included travel
+
+cost and time, and if the villages had their own health centre, they
+
+also feared the outcome or result. The inability of the doctor/diag
+nostician to speak the local language made communication difficult,
+
+with the women given paperwork without an explanation which
+
+increased confusion. There was a reported shortage of disposable
+
+speculums in the local centres which created unhygienic impressions
+
+in the minds of the women. [36]
+
+Indigenous populations are often socially disadvantaged and find
+
+frequent clinic visits, especially for those living in rural or remote
+
+locations, for screening to be an unnecessary expense (in countries
+
+where health care is not free). [27,37]
+
+There may be a lack of awareness of this sexually transmitted
+
+infection, its prevention and vaccine effectiveness among some
+
+Indigenous groups. The lack of a healthy relationship between health
+
+workers and these communities has been observed. [27] In Maniapure
+
+of Venezuela, over one third of the study population (36.7%) had an
+
+HPV infection. [33] Only one in ten women understood the concept of
+
+sexually transmitted infections and less than half were aware of dif
+ferent contraceptive methods. [30] Fuenmayor and colleagues [34] sug
+gested that these findings highlight the immense gap of knowledge
+
+and awareness among this population and recommended the need
+
+for more population- ­specific targeted health strategies. [34] Vasilevska
+
+and colleagues [38] observed that although early cervical cancer in
+cidence was less among Indigenous women of Australia, Canada,
+
+United States and New Zealand as compared to the general popula
+tion, the incidence of invasive cancer at later stages with increased
+
+mortality was much higher. This suggests there are many barriers
+
+to early detection and treatment for these high- ­risk populations. [38]
+
+There were many discrepancies noted between carriage of high- ­
+
+risk HPV infection and other HPV infections in Aboriginal women
+
+of Australia, with lack of Pap testing cited as the main reason. [39,40]
+
+There is an observed trend of lower uptake of vaccines by these
+
+populations, which may contribute to the spread of infections. [41]
+
+Many women from culturally reserved groups may be disinterested
+
+in vaccinations due to inaccessibility of vaccination clinics, language
+
+
+barriers and fear of the screening results. [41] The Alaska Indian and
+
+Alaska Native population groups have raised concerns regarding the
+
+effectiveness and necessity of HPV vaccinations [42,43] especially in
+
+their ethnic subgroups, again reinforcing the importance of cultur
+ally appropriate and accessible health messages [42] regarding unsafe
+
+sexual practices. [44,45] A survey among American Indian physicians
+
+revealed that men were less inclined to initiate or complete vacci
+nation schedules and were unaware of the appropriate timing and
+
+effectiveness of the vaccine. [45,46] New Zealand is one of the first
+
+countries to have achieved higher uptakes and completion of vac
+cines (56%) in the Indigenous population (Maori). [27] The Los Angeles
+
+County health survey showed that 59.3% of Asian/Pacific Islander
+
+women were aware of an HPV vaccine and 63.7% showed an eager
+ness towards getting vaccinated. [46]
+
+Evidence suggests that Indigenous women may be more in fa
+vour of self- ­test kits, where they do not have to experience embar
+rassment, compromise their body autonomy [27] or seek prior consent
+
+from their husbands. [36] Culturally appropriate educational DVDs
+
+built in partnership with American Indian Communities are played
+
+in the waiting rooms of Local Indian Health Service clinics, hospi
+tals, events, educational institutions, together with posters using
+
+American Indian tribal art about HPV infection and vaccine aware
+ness. [46] Inuit women of Quebec (Canada) have developed health pro
+motional activities including announcements on the public radio 3
+
+times a year reminding them of screening tests. [13]
+
+One of the highlights of our review was a high pooled prevalence
+
+of HPV infection in Indigenous populations at a global level irrespec
+tive of geographical location. A limitation of this review is the het
+erogeneity of the data included in the meta- ­analysis.
+
+In conclusion, we can say that Indigenous populations carry an
+
+increased burden of HPV infection. The need to address the re
+quirement and vulnerability of these population groups should be
+
+a concern and priority for public health policymakers and workers,
+
+and also special strategies and steps should be taken to reach out to
+
+them by health awareness and promotional groups working globally.
+
+The insufficient data on HPV infection of males and different sites
+
+apart from cervical show a large gap in the literature and also require
+
+the attention of all public health officials and a need to screen and
+
+vaccinate the male population of these Indigenous communities as
+
+well. Gathering primary data on this subset is of great importance
+
+and should be made a research priority.
+
+**CONFLICTS OF INTEREST**
+
+No conflicts of interest declared.
+
+**AUTHOR CONTRIBUTION**
+
+**Sneha Sethi:** Conceptualization; Data curation; Formal analysis;
+
+Investigation; Methodology; Project administration; Validation;
+
+Writing- ­original draft; Writing- ­review & editing. **Anna Ali:**
+
+Conceptualization; Methodology; Software; Writing- ­review & edit
+ing. **Xiangqun Ju:** Formal analysis; Investigation; Resources; Software;
+
+Supervision; Writing- ­review & editing. **Annika Antonsson:** Formal
+
+analysis; Methodology; Supervision; Writing- ­review & editing. **RM**
+
+SETHI ETet al . **|** **853**
+
+
+**Logan:** Conceptualization; Formal analysis; Methodology; Project
+
+administration; Validation; Writing- ­review & editing. **Karen Canfell:**
+
+Formal analysis; Investigation; Validation; Writing- ­review & edit
+ing. **Megan Smith:** Formal analysis; Project administration; Writing- ­
+
+review & editing. **Gail Garvey:** Data curation; Project administration;
+
+Visualization; Writing- ­original draft; Writing- ­review & editing.
+
+**Joanne Hedges:** Data curation; Project administration; Supervision;
+
+Writing- ­review & editing. **Lisa Jamieson:** Data curation; Formal anal
+ysis; Investigation; Project administration; Supervision; Validation;
+
+Writing- ­review & editing.
+
+**PEER REVIEW**
+
+[The peer review history for this article is available at https://publo ​](https://publons.com/publon/10.1111/jop.13201)
+
+[ns.com/publo ​n/10.1111/jop.13201.](https://publons.com/publon/10.1111/jop.13201)
+
+**DATA AVAILABILITY STATEMENT**
+
+No additional data available; all data are attached in Supplementary
+
+files.
+
+**ORCID**
+
+*Sneha Sethi* [https://orcid.org/0000-0002-3571-5298](https://orcid.org/0000-0002-3571-5298)
+
+**REFERENCES**
+
+1. Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Ahmedin J.
+
+Global cancer statistics 2018: GLOBOCAN estimates of incidence
+
+and mortality worldwide for 36 cancers in 185 countries. *CA Cancer*
+*J Clin* . 2018;68:394- ­424.
+2. Office for National Statistics. *Cancer registration statistics, England:*
+*first release* [, 2016. https://www.ons.gov.uk/peopl ​epopu ​latio ​nandc ​](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulleins/cancersurvivalinengland/nationalestimatesforpatientsfollowedupto2017)
+[ommun ​ity/healt ​hands ​ocial ​care/condi ​tions ​anddi ​sease ​s/bulle ​ins/](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulleins/cancersurvivalinengland/nationalestimatesforpatientsfollowedupto2017)
+[cance ​rsurv ​ivali ​nengl ​and/natio ​nales ​timat ​esfor ​patie ​ntsfo ​llowe ​](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulleins/cancersurvivalinengland/nationalestimatesforpatientsfollowedupto2017)
+[dupto ​2017 (Accessed September 30, 2019).](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulleins/cancersurvivalinengland/nationalestimatesforpatientsfollowedupto2017)
+3. Lechner M, Breeze CE, O'Mahony JF, Masterson L. Early detection
+of HPV- ­associated oropharyngeal cancer. *Lancet* . 2019;393:2123.
+4. Koutsky L. The epidemiology behind the HPV vaccine discovery.
+*Ann Epidemiol* . 2009;19:239- ­244.
+5. Patel C, Brotherton JML, Pilsbury A, et al. The impact of 10 years
+of human papillomavirus (HPV) vaccination in Australia: what addi
+tional disease burden will a nonvalent vaccine prevent? *Euro Surveil* .
+
+2018;23:1700737.
+6. Forman D, de Martel C, Lacey CJ, et al. Global burden of human
+papillomavirus and related diseases. *Vaccine* . 2012;20(30 Suppl
+5):F12- ­23.
+7. Bruni L, Diaz M, Barrionuevo- ­Rosas L, et al. Global estimates of
+human papillomavirus vaccination coverage by region and income
+level: a pooled analysis. *Lancet Glob Health* . 2016;4:e453- ­e463.
+[8. WHO. Global strategy for elimination of cervical cancer. https://](https://www.who.int/activities/a-global-strategy-for-elimination-of-cervical-cancer)
+[www.who.int/activ ​ities/ ​a- ­globa ​l- ­strat ​egy- ­for- ­elimi ​natio ​n- ­of- ­cervi ​](https://www.who.int/activities/a-global-strategy-for-elimination-of-cervical-cancer)
+[cal- ­cancer](https://www.who.int/activities/a-global-strategy-for-elimination-of-cervical-cancer)
+9. Garland SM, Brotherton JML, Condon JR, et al. Human papillomavirus prevalence among indigenous and non- ­indigenous Australian
+women prior to a national HPV vaccination program. *BMC Med* .
+
+2011;9:104.
+10. Zehbe I, Wakewich P, Wood B, Sameshima P, Banning Y, Little J.
+Engaging Canadian first nations women in cervical screening
+through education. *Int J Health Promot Educ* . 2016;54:255- ­264.
+11. Murchland AR, Gottschlich A, Bevilacqua K, et al. HPV self- ­sampling
+acceptability in rural and indigenous communities in Guatemala: a
+cross- ­sectional study. *BMJ Open* . 2019;9:e029158.
+
+
+12. Axelsson P, Kukutai T, Kippen R. The field of Indigenous health and
+the role of colonisation and history. *J Pop Res* . 2016;33:1- ­7.
+13. Paradies Y. Colonisation, racism and indigenous health. *J Pop Res* .
+2016;33:83- ­96.
+[14. https://www.un.org/devel ​opmen ​t/desa/indig ​enous ​peopl ​es/about ​](https://www.un.org/development/desa/indigenouspeoples/about-us.html)
+
+[- ­us.html](https://www.un.org/development/desa/indigenouspeoples/about-us.html)
+15. Gracey M, King M. Indigenous Health part 1: determinants and disease patterns. *Lancet* . 2009;374:65- ­75.
+16. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting
+items for systematic reviews and meta- ­analyses: The PRISMA
+statement. *Int J Surg* . 2010;8:336- ­341.
+17. Guyatt GH, Oxman AD, Vist GE, et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations.
+*BMJ* . 2008;336:924- ­926.
+18. Herzog R, Álvarez- ­Pasquin MJ, Díaz C, Del Barrio JL, Estrada JM,
+Gil Á. Are healthcare workers’ intentions to vaccinate related to
+
+their knowledge, beliefs and attitudes? A systematic review. *BMC*
+
+*Pub Health* . 2013;13:154.
+19. Craig Rushing S, Stephens D, Shegog R, et al. Healthy native youth:
+improving access to effective, culturally- ­relevant sexual health curricula. *Front Public Health* . 2018;6:225.
+20. Balbinotto G, Jardim A. Epidemiology and economic impact of cervical cancer in the state of Romania (Brazilian Amazonic Region);
+
+the perspective of the Brazilian unified health system. *Int J Gynaec*
+*Obs* . 2012;119(S3):O0082– ­O0083.
+21. Bruni L, Diaz M, Casteesague X, Ferrer E, Bosch X, de Sanjose S.
+Cervical human papillomavirus prevalence in 5 continents: Meta- ­
+analysis of 1 million women with normal cytological findings. *J Infec*
+*Dis* . 2010;202:1789- ­1799.
+22. Obeid DA, Almatrrouk SA, Alfageeh MB, Al- ­Ahdal MA, Alhamlan
+FS. Human papillomavirus epidemiology in populations with normal
+or abnormal cervical cytology or cervical cancer in the middle- ­east
+and North Africa: A systematic review and meta- ­analysis. *J Infec*
+*Pub Health* . 2020;13:1304- ­1313.
+23. Guinan KJ, Cunningham RT, Meenagh A, et al. Signatures of natural
+selection and coevolution between killer cell immunoglobulin- ­like receptors (KIR) and HLA class I genes. *Genes Immun* . 2010;11:467- ­478.
+24. Akogbe GO, Ajidahun A, Sirak B, et al. Race and prevalence of human
+papillomavirus infection among men residing in Brazil, Mexico and
+the United States. *Int J Cancer* . 2012;131:E282- ­E291.
+25. Cervantes J, Lema C, Hurtado L, et al. Prevalence of human papillomavirus infection in rural villages of the Bolivian Amazon. *Rev Inst*
+*Med Trop São Paulo* . 2003;45:131- ­135.
+26. Frisch M, Biggar RJ, Goedert JJ. Human papillomavirus- ­associated
+cancers in patients with human immunodeficiency virus infection
+
+and acquired immunodeficiency syndrome. *J Natl Cancer Inst* .
+2000;92:1500- ­1510.
+27. Adcock A, Cram F, Lawton B. Acceptability of self- ­taken vaginal HPV
+sample for cervical screening among an under- ­screened Indigenous
+population. *Aust N Z J Obstet Gynaecol* . 2019;59:301- ­307.
+28. Camara HB, Anyanwu M, Wright E, Kimmit PT. Human Papillomavirus
+genotype distribution and risk factor analysis amongst reproductive
+age women in urban Gambia. *J Med Microbiol* . 2018;67:1645- ­1654.
+29. Brito EB, Martins SJ, Menezes RC. Human Papillomaviruses in
+Amerindian women from Brazilian Amazonia. *Epidemiol Infec* .
+2002;128:485- ­489.
+30. Brito EB, Silva ID, Stávale JN. Amerindian women of the Brazilian
+Amazon and STD. *Eur J Gynaecol Oncol* . 2006;27:279- ­281.
+31. Bell MC, Schmidt- ­Grimminger D, Jacobsen C, Chauhan SC, Maher
+DM, Buchwald DS. Risk factors for HPV infection among American
+
+Indian and white women in the Northern Plains. *Gynecol Oncol* .
+2011;121:532- ­536.
+32. Demers A, Shearer B, Totten S, et al. P1- ­S2.69 prevalence of HPV
+infections in metis and first nations living in Manitoba, Canada. *Sex*
+*Transm Infect* . 2011;87(Suppl 1):A152.
+
+**854** **|** SETHI ETet al .
+
+
+33. Blakely T, Kvizhinadze G, Karvonen T, Pearson AL, Smith M, Wilson
+N. Cost- ­effectiveness and equity impacts of three HPV vaccination programmes for school- ­aged girls in New Zealand. *Vaccine* .
+2014;32:2645- ­2656.
+34. Fuenmayor A, Fernández C, Pérez V, et al. Detection of precancerous lesions in the cervix and HPV infection in women in the region
+
+of Maniapure, Bolivar State. *Ecancermedicalscience* . 2018;12:884.
+35. Deluca GD, Basiletti J, Schelover E, et al. Chlamydia trachomatis as a
+probable cofactor in human papillomavirus infection in aboriginal women
+from north- ­eastern Argentina. *The Braz J Infec Dis* . 2011;15:567- ­572.
+36. Allen- ­Leigh B, Uribe- ­Zúñiga P, León- ­Maldonado L, et al. Barriers
+to HPV self- ­sampling and cytology among low- ­income indigenous
+women in rural areas of a middle- ­income setting: a qualitative
+study. *BMC Cancer* . 2017;17:734.
+37. Schiff M, Becker TM, Masuk M, et al. Risk factors for cervical intraepithelial neoplasia in southwestern American Indian women.
+*Am J Epidemiol* . 2000;152:716- ­726.
+38. Vasilevska M, Ross SA, Gesink D, Fisman DN. Relative risk of cervical cancer in indigenous women in Australia, Canada, New Zealand,
+and the United States: A systematic review and meta- ­analysis. *J*
+*Public Health Pol* . 2012;33:148- ­164.
+39. Bowden F, Tabrizi S, Paterson B, Garland S, Fairley C. Determination
+of genital human papillomavirus genotypes in women in Northern
+Australia using a novel, self- ­administered tampon technique. *Int J*
+*Gynecol Cancer* . 1998;8:471- ­475.
+40. Cordon JR, Armstrong BK, Barnes T, Zhao Y. Cancer incidence and
+survival for Indigenous Australians in the Northern Territory. *Aus*
+*NZ J Public Health* . 2007;29:123- ­128.
+41. Anomie MA, Amaranti T, Burns J, Burrow S, Drew N, Elwell M, et al.
+(2017). Overview of Australian Aboriginal and Torres Strait Islander
+[health status 2016. http://www.healt ​hinfo ​net.ecu.edu.au/healt ​h- ­](http://www.healthinfonet.ecu.edu.au/health-facts/overviews)
+[facts/ ​overv ​iews](http://www.healthinfonet.ecu.edu.au/health-facts/overviews)
+42. Alfonsi GA, Datta SD, Mickiewicz T, et al. Prevalence of high- ­
+
+risk HPV types and abnormal cervical cytology in American
+
+
+Indian/Alaska Native women, 2003– ­2005. *Public Health Rep* .
+2011;126:330- ­337.
+43. Buchwald D, Muller C, Bell M, Schmidt- ­Grimminger D. Attitudes
+toward HPV vaccination among rural American Indian women and
+
+urban White women in the northern plains. *Health Educ Behav* .
+2013;40:704- ­711.
+44. Olshen E, Woods ER, Austin B, Luskin M, Bauchner H. Parental acceptance of the human papillomavirus vaccine. *J Adolescent Health* .
+2005;37:248- ­251.
+45. Toffolon- ­Weiss M, Hagan K, Leston J, Peterson L, Provost
+E, Hennessy T. Alaska Native parental attitudes on cervi
+cal cancer, HPV and the HPV vaccine. *Int J Circumpol Health* .
+2008;67:363- ­373.
+46. Dela Cruz MRI, Tsark JAU, Chen JJ, Albright CL, Braun KL. Human
+Papillomavirus (HPV) vaccination motivators, barriers, and brochure preferences among parents in multicultural Hawai‘i: a qualitative study. *J Canc Educ* . 2017;32:613- ­621.
+
+**SUPPORTING INFORMATION**
+
+Additional supporting information may be found online in the
+
+Supporting Information section.
+
+**How to cite this article:** Sethi S, Ali A, Ju X, et al. A
+
+systematic review and meta- ­analysis of the prevalence of
+
+human papillomavirus infection in Indigenous
+
+populations – ­ A Global Picture. *J Oral Pathol Med* .
+
+[2021;50:843– ­854. https://doi.org/10.1111/jop.13201](https://doi.org/10.1111/jop.13201)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,1887 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    *The Journal of Infectious Diseases*
+
+
+# High Risk of New HPV Infection Acquisition Among Unvaccinated Young Men
+
+**Anna R. Giuliano,** **[1]** **Joel M. Palefsky,** **[2]** **Stephen E. Goldstone,** **[3]** **Brady Dubin,** **[4]** **Alfred Saah,** **[4]** **Alain Luxembourg,** **[4]** **Christine Velicer,** **[4]** **and Joseph E. Tota** **[4]**
+
+1 Center for Immunization and Infection Research in Cancer, Moffitt Cancer Center, Tampa, Florida, USA; 2 University of California SanFrancisco, San Francisco, California, USA; 3 Icahn School of
+Medicine at Mount Sinai, NewYork, New York, USA; and [4] Merck & Co, Inc, Rahway, New Jersey, USA
+
+***Background.*** International data on anogenital HPV infection incidence among men are limited.
+***Methods.*** Incidence of incident-persistent (IP) anogenital HPV infections was evaluated among 295 men who have sex with
+men (MSM) and 1576 heterosexual men (HM) aged 16–27 years in the placebo arm of a global, multicenter 4-valent (4v) HPV
+vaccine trial. We estimated IP incidence (penile/scrotal, perineal/perianal, anal) for 4vHPV and 9-valent (9v) HPV vaccine types
+and cumulative IP incidence over 36 months.
+
+***Results.*** IP infection incidence per 100 person-years (95% CI) among HM for 4vHPV and 9vHPV types was 4.1 (3.5–4.9) and
+6.8 (5.9–7.6) at penile/scrotal, and 1.2 (.8–1.6) and 1.9 (1.5–2.4) at perineal/perianal sites, respectively; and among MSM, IP
+infection incidence was 2.3 (1.3–3.8) and 3.2 (2.0–4.9) at penile/scrotal, 6.8 (4.9–9.2) and 9.0 (6.9–11.6) at perineal/perianal, and
+12.0 (9.4–15.1) and 16.8 (13.7–20.2) at anal sites, respectively. Cumulative IP incidence over 36 months (excluding anal canal;
+any 9vHPV type) was higher among MSM versus HM (24.1% vs 18.4%).
+
+***Conclusions.*** A substantial proportion of unvaccinated men of catch-up vaccination age developed IP 9vHPV-related infections.
+Gender-neutral vaccination could decrease male HPV infection, contribute to herd protection, and reduce disease burden.
+
+**Clinical Trials Registration** . NCT00090285.
+**Keywords.** human papillomavirus; HPV vaccines; HPV infection.
+
+
+Anogenital human papillomavirus (HPV) infection is common
+in men and women. HPV infection is the cause of cervical, vul-­
+var, and vaginal cancers in women, penile cancer in men, and
+anal cancer, head and neck cancer, anogenital warts, and recur-­
+rent respiratory papillomatosis in both sexes [1, 2].
+
+The epidemiology of male HPV infection was studied in the
+prospective, multinational (United States, Brazil, and Mexico)
+HPV Infection in Men (HIM) study [3], which enrolled more
+than 4000 men aged 18–70 years with no previous diagnosis of
+genital or anal warts [3]. In the HIM study, a high incidence of
+new genital HPV infections was reported (38.4 per 1000 personmonths) [3], along with high rates of incident anal HPV infection
+among men who have sex with men (MSM; 25.9 per 1000
+person-months) [4]. Male HPV infection incidence data from
+other countries are limited. Data on incident-persistent (IP)
+
+Received 03 July 2023; accepted 28 October 2023; published online 28 November 2023
+Correspondence: Anna R. Giuliano, PhD, Center for Immunization and Infection Research in
+Cancer, Moffitt Cancer Center and Research Institute, 12902 Magnolia Drive, Tampa, FL 33612
+[(Anna.Giuliano@moffitt.org).](mailto:Anna.Giuliano@moffitt.org)
+
+**The Journal of Infectious Diseases** **[®]** **2024;229:707–18**
+© The Author(s) 2023. Published by Oxford University Press on behalf of Infectious Diseases
+Society of America.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution[NonCommercial-NoDerivs licence (https://creativecommons.org/licenses/by-nc-nd/4.0/), which](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+permits non-commercial reproduction and distribution of the work, in any medium, provided
+the original work is not altered or transformed in any way, and that the work is properly cited.
+For commercial re-use, please contact journals.permissions@oup.com
+[https://doi.org/10.1093/infdis/jiad485](https://doi.org/10.1093/infdis/jiad485)
+
+
+HPV infection are needed, as it is a strong risk factor for incident
+HPV-related disease. Additional research is required to expand
+our understanding of male HPV infection across different geo-­
+graphic regions and in relation to multiple HPV types.
+
+Using data from the placebo arm of a global, randomized,
+4-valent HPV (4vHPV) vaccine efficacy trial (V501-020) in
+young men [5, 6], this study was conducted to estimate the in-­
+cidence of IP anogenital HPV infections and associated risk
+factors separately, among heterosexual men (HM) and MSM.
+
+**METHODS**
+
+**Data Source**
+
+Data in this analysis are from HM and MSM in the placebo arm
+of a global randomized controlled trial of the 4vHPV vaccine
+(V501-020; NCT00090285) [5, 6]. Details of the trial have
+
+been previously reported [5]. Between 3 September 2004 and
+29 August 2008, HM (aged 16–23 years) and MSM (16–26
+years) were enrolled from 18 countries in North America,
+Latin America, Asia-Pacific, Europe, and Africa [5, 6]. Briefly,
+key inclusion criteria were HM who had 1–5 lifetime exclusive-­
+ly female partners, or MSM with 1–5 lifetime sex partners who
+reported engaging in either insertive or receptive anal inter-­
+course, or oral sex with another male partner within the past
+year [5, 6]. In addition, HM and MSM did not have a prior di-­
+agnosis of human immunodeficiency virus (HIV) infection, no
+clinical evidence of anogenital warts or dysplasia, and no
+
+HPV Infection in Young Men • **JID 2024:229 (15 March)**   - 707
+
+history of these findings. HM and MSM found to be HIV pos-­
+itive before the first day of the study were excluded [5, 6].
+During follow-up, HM from South Africa and all MSM were
+tested annually for HIV, whereas HM from other countries
+were only tested if clinically indicated; MSM residing in
+South Africa were not included in the study [5, 6].
+
+The V501-020 trial was sponsored by Merck Sharp & Dohme
+LLC, a subsidiary of Merck & Co, Inc, Rahway, NJ, and was
+
+conducted in accordance with Good Clinical Practice
+
+Guidelines, Declaration of Helsinki, and all applicable country
+or local statutes and regulations regarding ethical committee
+review, informed consent, and the protection of the rights
+and welfare of human participants in biomedical research.
+Participants (or their legally authorized representatives) pro-­
+vided written informed consent at the start of the study.
+
+**HPV DNA Sampling and Assessment**
+On day 1, month 7, and at 6-month intervals thereafter through
+follow-up, scrotal, perineal/perianal, and penile specimens for all
+study participants (HM and MSM), and intra-anal specimens for
+MSM subjects only were obtained. All specimens were HPV geno-­
+typed using multiplex polymerase chain reaction (PCR)-based as-­
+says [7, 8] to detect 9 HPV types targeted by the 9-valent HPV
+(9vHPV) vaccine (6/11/16/18/31/33/45/52/58) and 5 additional on-­
+cogenic HPV types that are not vaccine targeted (35/39/51/56/59).
+
+**Statistical Analyses**
+
+This analysis comprised men from the placebo arm who were
+HPV naive to the relevant type (HNRT), defined as being naive
+at day 1 to the HPV type under consideration. For HPV types 6,
+11, 16, and 18, HPV naive was defined as having a negative
+swab (ie, PCR negative across all anatomic sites) and serology
+negative to the relevant HPV type, whereas for HPV types 31,
+33, 45, 52, and 58, serology information was not available for
+all participants and therefore HNRT was defined as having a
+negative swab to the relevant HPV type. Participants with miss-­
+ing PCR results at ≥1 anatomic site or missing serology results
+at day 1 were excluded from HNRT analyses.
+
+An IP infection was defined as the detection of a new HPV type
+at 2 or more consecutive visits at the same anatomic site spaced ap-­
+proximately 6 months apart (± 1 month). A new HPV infection
+detected at the last available follow-up visit was not considered
+an IP infection because persistence could not be confirmed.
+Follow-up time in men with a non-IP HPV infection was defined
+as the time from day 1 to the last known visit at which a new infec-­
+tion was detected. Kaplan-Meier methods were used to estimate
+
+cumulative incidence of IP infections with HPV 16, HPV 16/18,
+
+4vHPV types, or 9vHPV types over 36 months. While the visit fol-­
+lowing initial acquisition was used to confirm outcome, the visit at
+which IP infection was first detected was used as the event censor-­
+
+ing time.
+
+708 • **JID 2024:229 (15 March)** - Giuliano et al
+
+
+The association between baseline characteristics and IP infec-­
+tion was assessed by logistic regression analysis. A backward
+stepwise method was used to guide selection of relevant covar-­
+iates in multivariable (adjusted) models [9]. Odds ratios (ORs)
+and corresponding 95% confidence intervals (CIs) were estimat-­
+ed, with adjustment for age, geographic region, and number of
+lifetime female (for HM subjects) or male (for MSM subjects)
+sex partners. All analyses were conducted using SAS version 9.4.
+
+**RESULTS**
+
+**Demographic and Behavioral Characteristics of Men in the HRNT**
+**Population for ≥1 HPV Type**
+
+A total of 4065 men participated in the V501-020 trial (3463
+HM and 602 MSM) [5]. The current analysis was based on
+data from the 1871 men comprising the HNRT placebo arm
+population (1576 HM and 295 MSM).
+
+Median follow-up was 35.7 months (range, 0–52.1) among
+HM and 28.7 months (range, 0–51.7) among MSM. A larger
+proportion of HM in the HNRT analysis population were in
+the younger age group of 16–20 years than MSM (56.6% vs
+30.5%; Table 1). More HM than MSM were from Latin
+
+America (41.3% vs 22.7%), whereas more MSM were from
+
+North America (42.7% vs 22.3%). A substantial proportion of
+MSM had 4–5 lifetime male sex partners (46.8%).
+
+**Incidence of Incident-Persistent Anogenital HPV Infection**
+
+Among HM, the rate of penile/scrotal HPV IP infection was
+higher than perineal/perianal IP HPV infection for 4vHPV
+(4.1 vs 1.2 per 100 person-years, respectively) and 9vHPV
+(6.8 vs 1.9 per 100 person-years, respectively) vaccine types
+(Table 2). Furthermore, incidences of penile/scrotal and peri-­
+neal/perianal IP HPV infections were highest for HPV type
+16 (2.1 and 0.6 per 100 person-years, respectively), type 6 (1.4
+and 0.5 per 100 person-years, respectively), and type 52 (1.3
+and 0.4 per 100 person-years, respectively) (Table 2).
+
+Among MSM, the rates of IP HPV infection for 4vHPV and
+9vHPV vaccine types were highest at the anal site (12.0 and 16.8
+per 100 person-years, respectively), followed by the perineal/
+perianal site (6.8 and 9.0 per 100 person-years, respectively),
+and the penile/scrotal site (2.3 and 3.2 per 100 person-years, re-­
+spectively) (Table 2). HPV 6 was the most commonly detected
+type, with an IP infection incidence of 6.3 per 100 person-years
+at the anal canal, 4.3 at the perineal/perianal site, and 1.8 at the
+penile/scrotal site (Table 2).
+
+Three-year cumulative incidence of IP HPV infection at the
+combined external genital sites (excluding infection within the
+anal canal) for 4vHPV and 9vHPV vaccine types was 17.7% and
+24.1% among MSM, compared with 11.7% and 18.4% among
+HM, respectively (Figure 1 *A* and [Supplementary Table 1).](http://academic.oup.com/jid/article-lookup/doi/10.1093/infdis/jiad485#supplementary-data)
+High cumulative incidences of IP HPV 16 were observed
+among both MSM and HM (6.5% and 5.6%, respectively).
+
+**Table 1. Baseline Demographic and Behavioral Characteristics of HM**
+**and MSM From the Study (HRNT) Population** **[a]** **for ≥1 HPV Type**
+
+
+MSM
+
+(n = 295)
+
+No. (%)
+
+
+**Table 1. Continued**
+
+Characteristic
+
+Circumcision
+
+
+HM
+
+(n = 1576)
+
+No. (%)
+
+
+MSM
+
+(n = 295)
+
+No. (%)
+
+
+Characteristic
+
+
+HM
+
+(n = 1576)
+
+No. (%)
+
+
+16–20 892 (56.6) 90 (30.5)
+
+21–27 [d,e] 683 (43.4) 205 (69.5)
+
+Geographic region
+
+North America [f] 352 (22.3) 126 (42.7)
+
+Latin America [g] 651 (41.3) 67 (22.7)
+
+Europe [h] 178 (11.3) 61 (20.7)
+
+Asia-Pacific [i] 132 (8.4) 41 (13.9)
+
+Africa [j] 263 (16.7) 0 (0.0)
+
+Tobacco use on day 1
+
+Never used 903 (57.3) 147 (49.8)
+
+Former 98 (6.2) 29 (9.8)
+
+Current user 575 (36.5) 119 (40.3)
+
+Age at first intercourse, y [c,k]
+
+<15 198 (12.6) 36 (12.6)
+
+15–19 1248 (79.3) 195 (68.2)
+
+≥20 128 (8.1) 55 (19.2)
+
+Number of lifetime male sex partners [c]
+
+1–3 NA 150 (53.2)
+
+4–5 NA 132 (46.8)
+
+Number of lifetime female sex partners [c,k]
+
+1–3 1069 (68.0) 76 (98.7)
+
+4–5 503 (32.0) 1 (1.3)
+
+Number of lifetime partners with insertive anal
+intercourse [c]
+
+0 NA 33 (11.7)
+
+1 NA 73 (26.0)
+
+2 NA 54 (19.2)
+
+3–5 NA 121 (43.1)
+
+0 NA 31 (11.0)
+
+1 NA 63 (22.4)
+
+2 NA 70 (24.9)
+
+3–5 NA 117 (41.6)
+
+Number of new male partners in last 6 mo [c]
+
+0 NA 105 (37.2)
+
+1 NA 109 (38.7)
+
+≥ 2 NA 68 (24.1)
+
+Number of new female partners in last 6 mo [c,k]
+
+0 931 (59.2) 72 (93.5)
+
+1 519 (33.0) 4 (5.2)
+
+≥2 123 (7.8) 1 (1.3)
+
+Frequency of lifetime condom use [k]
+
+Always 594 (37.7) 107 (36.3)
+
+More than half the time 516 (32.7) 133 (45.1)
+
+Less than half the time 290 (18.4) 25 (8.5)
+
+Never 173 (11.0) 18 (6.1)
+
+Frequency of condom use in the last 6 mo [k]
+
+Always 567 (36.0) 114 (38.6)
+
+More than half of the time 323 (20.5) 68 (23.1)
+
+Less than half of the time 213 (13.5) 24 (28.1)
+
+Never 436 (27.7) 74 (25.1)
+
+
+No 1017 (64.5) 166 (56.3)
+
+Yes 559 (35.5) 129 (43.7)
+
+Abbreviations: HPV, human papillomavirus; HM, heterosexual men; HNRT, HPV naive to
+relevant type; MSM, men who have sex with men; NA, not applicable; PCR, polymerase
+
+chain reaction.
+
+a HRNT population defined as HPV naive at day 1 to the HPV type under consideration. For
+HPV 6, 11, 16, and 18, HPV naive was defined as having a negative swab (ie, PCR negative)
+and serology negative to the relevant HPV type. For HPV 31, 33, 45, 52, and 58, HPV naive
+was defined as having a negative swab to the relevant HPV type.
+
+b The inclusion criteria for age was 16–26 years; however, some men aged 26 years at
+screening subsequently turned 27 years of age by the enrollment visit. One subject in the
+HM group was aged 15 years.
+
+c Differences in age eligibility criteria were evident between HM (aged 16–23 years) and
+MSM (16–26 years).
+
+d Owing to age eligibility criteria, the upper age category was 21–23 years for HM and 21–27
+years for MSM.
+
+e Among MSM, some participants aged 26 years at enrollment had turned 27 years before
+the start of the study (ie, prior to the day 1 visit); these participants were included in the
+analysis.
+
+f North America included the United States and Canada.
+
+g Latin America included Brazil, Mexico, Costa Rica, and Peru.
+
+h Asia-Pacific included Australia, Philippines, and Taiwan.
+
+i Europe included Croatia, Finland, Germany, Netherlands, Norway, Portugal, Spain, and
+
+Sweden.
+
+j Africa included South Africa.
+
+k Categories have missing values for HM and/or MSM.
+
+Among MSM, cumulative IP HPV incidence at the anal canal
+was 26.4% for any 4vHPV vaccine type and 35.4% for any
+9vHPV vaccine type, with a large proportion acquiring IP
+HPV 16 (10.7%) (Figure 1 *B* and [Supplementary Table 1). At](http://academic.oup.com/jid/article-lookup/doi/10.1093/infdis/jiad485#supplementary-data)
+the perineal/perianal site, cumulative IP HPV incidence rates
+were higher among MSM versus HM for any 4vHPV (16.5%
+vs 3.4%) and any 9vHPV (22.2% vs 5.5%) vaccine type
+(Figure 1 *C* [and Supplementary Table 1). Cumulative incidence](http://academic.oup.com/jid/article-lookup/doi/10.1093/infdis/jiad485#supplementary-data)
+of IP HPV at the penile/scrotal sites (excluding perineal/peria-­
+nal and anal canal sites) were substantially lower among MSM
+compared with HM for any 9vHPV (8.2% vs 18.0%) and any
+4vHPV (5.6% vs 11.4%) vaccine types (Figure 1 *D* and
+[Supplementary Table 1).](http://academic.oup.com/jid/article-lookup/doi/10.1093/infdis/jiad485#supplementary-data)
+
+Among HM, overall 9vHPV vaccine type IP (excluding in-­
+fection at the anal canal) incidence rates were highest in
+Africa (9.2 per 100 person-years) and lowest in Asia-Pacific
+(2.1 per 100 person-years) (Figure 2 *A* ). In contrast, among
+MSM, overall IP HPV incidence rates (excluding anal canal in-­
+fections) were highest in Latin America and the Asia-Pacific
+(27.6 and 20.2 per 100 person-years, respectively) and lowest
+in North America and Europe (7.4 and 12.8 per 100 personyears, respectively) (Figure 2 *B* ). Similarly, overall incidence
+rates of IP anal HPV among MSM were highest in Latin
+America (30.4 per 100 person-years) and lowest in North
+America (7.4 per 100 person-years) (Figure 2 *C* ).
+
+HPV Infection in Young Men • **JID 2024:229 (15 March)**   - 709
+
+**Table 2. Incidence (per 100 Person-Years) of Incident-Persistent Anogenital HPV Infections Among Men by Anatomic Site, HPV Type, and Sexual**
+**Orientation (HNRT Population** **[a]** **) (N = 1871, Including 1576 HM and 295 MSM)**
+
+Penile/Scrotal Perineal/Perianal Anal
+
+
+Incidence
+
+(95% CI) No. Person-Years Incidence (95% CI)
+
+
+HPV Type No. Person-Years
+
+Heterosexual men
+
+
+Incidence
+
+(95% CI) No. Person-Years
+
+
+(n = 341) [b] (n = 98) [b] NA
+
+
+6 50 3508.2 1.4
+
+(1.06–1.87)
+
+11 13 3556.0 0.4
+
+(.19–.62)
+
+16 72 3491.4 2.1
+
+(1.62–2.59)
+
+18 32 3661.4 0.9
+
+(.60–1.23)
+
+31 37 3661.2 1.0
+
+(.71–1.39)
+
+33 23 3726.2 0.6
+
+(.39–.92)
+
+45 17 3718.2 0.5
+
+(.27–.73)
+
+52 48 3587.9 1.3
+
+(.99–1.77)
+
+58 29 3659.4 0.8
+
+(.53–1.14)
+
+6/11/16/18 149 3591.7 4.1
+
+(3.52–4.85)
+
+6/11/16/18/31/33/45/52/58 235 3480.0 6.8
+
+(5.94–7.64)
+
+Men who have sex with men
+
+
+18 3550.1 0.5
+
+(.30–.80)
+
+5 3609.1 0.1
+
+(.04–.32)
+
+20 3533.5 0.6
+
+(.35–.87)
+
+7 3715.5 0.2
+
+(.08–.39)
+
+13 3706.3 0.4
+
+(.19–.60)
+
+4 3782.1 0.1
+
+(.03–.27)
+
+6 3758.7 0.2
+
+(.06–.35)
+
+13 3638.3 0.4
+
+(.19–.61)
+
+5 3710.0 0.1
+
+(.04–.31)
+
+44 3791.6 1.2
+
+(.84–1.55)
+
+72 3752.5 1.9
+
+(1.50–2.41)
+
+
+NA NA NA
+
+NA NA NA
+
+NA NA NA
+
+NA NA NA
+
+NA NA NA
+
+NA NA NA
+
+NA NA NA
+
+NA NA NA
+
+NA NA NA
+
+NA NA NA
+
+NA NA NA
+
+
+(n = 31) [b] (n = 71) [b] (n = 112) [b,c]
+
+
+6 8 455.7 1.8
+
+(.76–3.43)
+
+11 1 468.1 0.2
+
+(.01–1.18)
+
+16 5 520.0 1.0
+
+(.31–2.23)
+
+18 5 577.8 0.9
+
+(.28–2.01)
+
+31 3 603.3 0.5
+
+(.10–1.45)
+
+
+19 441.4 4.3
+
+(2.61–6.64)
+
+6 466.2 1.3
+
+(.47–2.78)
+
+12 498.5 2.4
+
+(1.25–4.17)
+
+10 561.4 1.8
+
+(.86–3.25)
+
+6 592.9 1.0
+
+(.37–2.19)
+
+
+33 0 … … 4 617.6 0.6
+
+(.18–1.65)
+
+
+45 2 605.2 0.3
+
+(.04–1.19)
+
+52 2 604.5 0.3
+
+(.04–1.19)
+
+
+6 587.6 1.0
+
+(.38–2.21)
+
+5 581.3 0.9
+
+(.28–2.00)
+
+
+27 427.3 6.3
+
+(4.21–9.06)
+
+14 449.9 3.1
+
+(1.71–5.17)
+
+24 490.1 4.9
+
+(3.16–7.20)
+
+18 544.0 3.3
+
+(1.97–5.18)
+
+13 576.8 2.3
+
+(1.21–3.82)
+
+8 602.5 1.3
+
+(.57–2.60)
+
+12 566.1 2.1
+
+(1.10–3.67)
+
+14 568.0 2.5
+
+(1.35–4.10)
+
+8 599.8 1.3
+
+(.58–2.61)
+
+65 540.9 12.0
+
+(9.40–15.1)
+
+89 530.9 16.8
+
+(13.7–20.2)
+
+
+58 0 … … 3 619.9 0.5
+
+(.10–1.41)
+
+
+6/11/16/18 14 608.2 2.3
+
+(1.26–3.83)
+
+6/11/16/18/31/33/45/52/58 20 626.4 3.2
+
+(1.96–4.89)
+
+
+40 584.4 6.8
+
+(4.93–9.20)
+
+54 597.8 9.0
+
+(6.86–11.6)
+
+
+Abbreviations: HM, heterosexual men; HNRT, HPV naive to relevant type; MSM, men who have sex with men; PCR, polymerase chain reaction.
+
+a HNRT population defined as HPV naive at day 1 to the HPV type under consideration. For HPV 6, 11, 16, and 18, HPV naive was defined as having a negative swab (ie, PCR negative) and
+serology negative to the relevant HPV type. For HPV 31, 33, 45, 52 and 58, HPV naive was defined as having a negative swab to the relevant HPV type.
+
+b Total number of men with incident-persistent HPV infection with any 9vHPV type (6/11/16/18/31/33/45/52/58).
+
+c Anal specimens were only collected from MSM.
+
+
+**Baseline Characteristics Associated With IP Anogenital HPV Infection**
+**(9vHPV Types) by Anatomic Site Among HM and MSM**
+Factors independently associated with risk of perineal/perianal
+IP HPV infections among HM included age (16–20 vs 21–23
+
+710 • **JID 2024:229 (15 March)** - Giuliano et al
+
+
+years: OR, 1.72; 95% CI, 1.03–2.86), geographic region (Africa
+vs North America: OR, 2.19; 95% CI, 1.02–4.71), frequency of
+lifetime condom use (less than half the time vs always: OR,
+1.88; 95% CI, 1.08–3.28), and frequency of condom use in the
+
+**A** 50 **B**
+
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+
+
+**Number of subjects at risk**
+
+HM HPV 16
+
+MSM HPV 16
+
+HM HPV 16 and/or 18
+
+MSM HPV 16 and/or 18
+
+HM any 4vHPV type
+MSM any 4vHPV type
+
+HM any 9vHPV type
+MSM any 9vHPV type
+
+**C**
+
+**Number of subjects at risk**
+
+HM HPV 16
+
+MSM HPV 16
+
+HM HPV 16 and/or 18
+
+MSM HPV 16 and/or 18
+
+HM any 4vHPV type
+MSM any 4vHPV type
+
+HM any 9vHPV type
+MSM any 9vHPV type
+
+
+0 6 12 18 24 30 36
+
+**Months**
+
+
+0 6 12 18 24 30 36
+
+**Months**
+
+
+1576
+
+295
+
+1576
+
+295
+
+1576
+
+295
+
+1576
+
+295
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+
+1409
+
+271
+
+1409
+
+271
+
+1409
+
+270
+
+1408
+
+269
+
+
+1327
+
+254
+
+1319
+
+249
+
+1306
+
+243
+
+1269
+
+238
+
+
+1254
+
+241
+
+1242
+
+231
+
+1219
+
+224
+
+1169
+
+215
+
+
+1197
+
+223
+
+1178
+
+212
+
+1142
+
+199
+
+1079
+
+187
+
+
+1132
+
+170
+
+1108
+
+163
+
+1064
+
+151
+
+992
+
+137
+
+
+700
+
+50
+
+684
+
+47
+
+662
+
+42
+
+613
+
+39
+
+
+295
+
+295
+
+295
+
+295
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+
+270
+
+270
+
+269
+
+268
+
+
+253
+
+246
+
+234
+
+215
+
+
+237
+
+223
+
+206
+
+184
+
+
+217
+
+204
+
+184
+
+160
+
+
+165
+
+157
+
+140
+
+122
+
+
+48
+
+46
+
+40
+
+37
+
+
+0 6 12 18 24 30 36
+
+**Months**
+
+
+0 6 12 18 24 30 36
+
+**Months**
+
+
+1576
+
+295
+
+1576
+
+295
+
+1576
+
+295
+
+1576
+
+295
+
+
+1410
+
+271
+
+1410
+
+271
+
+1410
+
+270
+
+1410
+
+270
+
+
+1347
+
+255
+
+1345
+
+250
+
+1341
+
+242
+
+1328
+
+239
+
+
+1283
+
+243
+
+1280
+
+235
+
+1272
+
+225
+
+1252
+
+216
+
+
+1231
+
+226
+
+1227
+
+218
+
+1213
+
+203
+
+1186
+
+190
+
+
+1176
+
+172
+
+1170
+
+168
+
+1154
+
+154
+
+1127
+
+139
+
+
+726
+
+51
+
+724
+
+49
+
+715
+
+42
+
+697
+
+40
+
+
+**Number of subjects at risk**
+
+MSM HPV 16
+
+MSM HPV 16 and/or 18
+
+MSM any 4vHPV type
+MSM any 9vHPV type
+
+**D**
+
+**Number of subjects at risk**
+
+HM HPV 16
+
+MSM HPV 16
+
+HM HPV 16 and/or 18
+
+MSM HPV 16 and/or 18
+
+HM any 4vHPV type
+MSM any 4vHPV type
+
+HM any 9vHPV type
+MSM any 9vHPV type
+
+
+1576
+
+295
+
+1576
+
+295
+
+1576
+
+295
+
+1576
+
+295
+
+
+1409
+
+271
+
+1409
+
+271
+
+1409
+
+271
+
+1408
+
+270
+
+
+1327
+
+256
+
+1318
+
+255
+
+1307
+
+254
+
+1271
+
+252
+
+
+1254
+
+244
+
+1241
+
+240
+
+1220
+
+239
+
+1172
+
+235
+
+
+1198
+
+228
+
+1178
+
+224
+
+1144
+
+221
+
+1083
+
+216
+
+
+1135
+
+176
+
+1110
+
+171
+
+1069
+
+167
+
+998
+
+163
+
+
+702
+
+53
+
+685
+
+51
+
+665
+
+49
+
+617
+
+48
+
+
+**Figure 1.** Kaplan-Meier estimates for the cumulative incidence of incident-persistent anogenital HPV infections for 4vHPV types (6/11/16/18) and 9vHPV types (6/11/16/
+18/31/33/45/52/58). *A*, Incident-persistent infections at all anatomic sites combined (excluding the anal canal) among HM and MSM. *B*, Incident-persistent infections at anal
+sites among MSM only. *C*, Incident-persistent infections at perianal/perineal sites among HM and MSM. *D*, Incident-persistent infections at penile/scrotal sites among HM
+and MSM. Abbreviations: 4vHPV, 4-valent HPV; 9vHPV, 9-valent HPV; HM, heterosexual men; HPV, human papillomavirus; MSM, men who have sex with men.
+
+
+last 6 months (less than half the time vs always: OR, 2.12; 95%
+CI, 1.18–3.79) (Table 3). Among MSM, 2 or more new male
+partners in the last 6 months (≥2 vs 0: OR, 2.08; 95% CI,
+1.01–4.28) was the only factor independently associated with
+an increased risk of perineal/perianal IP HPV infection, whereas
+1 new male partner in the last 6 months was associated with a
+lower risk of IP infection (1 vs 0: OR, 0.40; 95% CI, .20–.82);
+however, no association was observed for age, geographic re-­
+gion, or frequency of condom use (Table 3). Factors indepen-­
+dently associated with risk of penile/scrotal IP HPV infection
+among HM included younger age (16–20 vs 21–23 years: OR,
+1.43; 95% CI, 1.07–1.92), geographic region (Latin America vs
+North America: OR, 1.67; 95% CI, 1.13–2.47; Africa vs North
+
+America: OR, 1.91; 95% CI, 1.20–3.02), and larger number of
+
+
+lifetime female sex partners (4–5 vs 1–3: OR, 1.65; 95% CI,
+1.23–2.20). Among MSM, no factors were significantly associat-­
+ed with risk of penile/scrotal IP infection, whereas the number of
+new male partners in the last 6 months was associated with a
+lower risk of penile/scrotal IP infection (1 vs 0: OR, 0.14; 95%
+CI, .03–.65) (Table 3). Among MSM, factors significantly inde-­
+pendently associated with an increased risk of anal IP HPV
+infection included geographic region (Latin America vs North
+America: OR, 4.30; 95% CI, 2.15–8.61; Asia-Pacific vs
+North America: OR, 3.44; 95% CI, 1.52–7.78; Europe vs North
+America: OR, 2.26; 95% CI, 1.07–4.75), larger number of lifetime
+male sex partners (4–5 vs 1–3: OR, 1.81; 95% CI, 1.06–3.11), and
+larger number of lifetime partners with receptive anal inter-­
+course (2 vs 3–6: OR, 2.13; 95% CI, 1.12–4.05) (Table 3).
+
+HPV Infection in Young Men • **JID 2024:229 (15 March)**   - 711
+
+**A** **B**
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+North America
+(n = 19)
+
+
+Latin America Europe Asia-Pacific
+(n = 31) (n = 16) (n = 14)
+
+
+Latin America Europe Asia-Pacific Africa
+(n = 117) (n = 27) (n = 7) (n = 49)
+
+
+**C**
+
+
+0
+
+North America
+(n = 41)
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+
+0
+
+North America
+(n = 19)
+
+
+Latin America Europe Asia-Pacific
+(n = 33) (n = 16) (n = 18)
+
+
+**Figure 2.** Incidence (per 100 person-years) of incident-persistent anogenital HPV infection with grouped 9vHPV types (6/11/16/18/31/33/45/52/58) in the study population
+by geographic region. *A*, Incident-persistent anogenital HPV infection (excluding the anal canal) among MSM HM. *B*, Incident-persistent anogenital HPV infection (excluding
+the anal canal) among HM MSM. *C*, Incident-persistent HPV infection at the anal canal among MSM. Abbreviations: 9vHPV, 9-valent HPV; CI, confidence interval; HM,
+heterosexual men; HPV, human papillomavirus; MSM, men who have sex with men.
+
+
+**DISCUSSION**
+
+This analysis of men enrolled in the placebo arm of a global
+4vHPV vaccine clinical trial describes the high burden of IP in-­
+fection with 9vHPV vaccine types among MSM and HM. The
+HPV infection burden is higher among MSM compared to
+HM and differs by sexual orientation, whereby IP incidence rates
+were higher at penile/scrotal sites compared to the perineal/
+perianal sites among HM, and highest at anal and perineal/
+perianal versus penile/scrotal sites among MSM. Furthermore,
+higher IP incidence rates were observed for MSM versus HM
+at the perineal/perianal site, whereas higher rates were observed
+for HM at the penile/scrotal sites. Among MSM, IP HPV 6 infec-­
+tion was the most commonly acquired HPV type at all anatomic
+sites examined, consistent with the high incidence of anal
+
+712 • **JID 2024:229 (15 March)** - Giuliano et al
+
+
+condyloma [10]. In contrast, HPV 16 was the most commonly
+acquired HPV type among HM. The high rate of new IP HPV
+infection among men highlights the high risk of HPV-related
+disease young unvaccinated men face potentially throughout
+
+their lifetime.
+
+Results of our study add important data to the growing evi-­
+dence of a high burden of HPV infection among men. For ex-­
+ample, high incidence rates of anogenital HPV were reported in
+a Dutch study of HM (50.5 per 100 person-years for any HPV
+type) [11] and in a US cohort of HM (50.8 and 25.0 per 100
+person-years for any and oncogenic HPV types, respectively)
+
+[12]. A US study of HM university students reported 24-month
+cumulative incidence rates of 62.4% for any HPV type and
+47.9% for high-risk HPV vaccine types [13]. Anal canal HPV
+
+HPV Infection in Young Men • **JID 2024:229 (15 March)** - 713
+
+714 • **JID 2024:229 (15 March)** - Giuliano et al
+
+incidence reports among MSM range from 16% for any onco-­
+genic HPV type in the HIM study [4], to 29.8% for 4vHPV
+types in the US-based DASH study [14]. Additionally, inci-­
+dence of anal HPV infection in a study of HIV-infected MSM
+in Montreal, Canada, was approximately 13 per 100 personyears for both HPV types 16 and 52, with 3-year cumulative in-­
+cidence rates of 33% and 30%, respectively [15]. Collectively,
+these data highlight that substantial proportions of both HM
+and MSM develop anogenital HPV infection.
+
+In the current analysis, cumulative IP incidence at all ana-­
+tomic sites combined was higher among MSM versus HM.
+Cumulative incidence rates of IP HPV infection at the perine-­
+al/perianal site were significantly higher among MSM com-­
+pared to HM. Consistent with our observation are reports of
+higher incidence of anal HPV infection and persistence among
+MSM than in HM [4], with receptive anal sex identified as a fac-­
+tor associated with anal HPV infection among MSM [16–18].
+Similarly, a randomized, placebo-controlled trial of the
+4vHPV vaccine that collected intra-anal swabs from young
+Japanese men reported a higher incidence of persistent
+intra-anal 4vHPV infections among MSM versus HM in the
+placebo arm [19]. In contrast, cumulative incidence of
+4vHPV vaccine type IP HPV infection at the penile/scrotal
+site was higher among HM compared with MSM. In the
+HIM study, 12-month cumulative incidence of genital HPV
+was high among both MSM and HM [20], highlighting that
+the development of IP anogenital vaccine type HPV infection
+is common among unvaccinated MSM and HM.
+
+As expected, factors related to sexual behavior were signifi-­
+cantly associated with IP 9vHPV vaccine type anogenital infec-­
+tion. Previous studies have reported strong associations
+between sexual behaviors and anogenital HPV infection among
+men, including a higher number of lifetime sex partners or new/
+recent sex partners associated with anogenital HPV infection
+among both HM [13, 21, 22] and MSM [16, 21, 23].
+Interestingly, the risk of IP HPV infection at the perineal/peria-­
+nal or penile/scrotal sites was lower among MSM who had 1 ver-­
+sus 0 new male partners in the last 6 months, but higher for those
+with ≥2 new male partners. In the current analysis, approxi-­
+mately half the MSM with 0 new male partners in the last
+6 months reported never using condoms in the last 6 months,
+compared with less than 20% of MSM with 1 new male sex part-­
+ner in the last 6 months (data not shown). Frequency of condom
+use has also been identified as a risk factor for anogenital HPV
+infection [22, 24], but results have been inconsistent, particular-­
+ly among MSM [16, 21]. Similarly, associations between incon-­
+
+sistent lifetime or recent condom use and HPV infection at the
+
+perineal/perianal site among HM were identified, but no associ-­
+ations were observed among MSM. The lack of consistent asso-­
+ciations between condom use and anogenital HPV infection
+among men in the literature may be due to transmission
+during digital insertion or genital-to-genital contact without
+
+HPV Infection in Young Men • **JID 2024:229 (15 March)**   - 715
+
+penetration, inaccuracies in the reporting of condom use, the
+presence of HPV in areas of genitalia not covered by a condom
+(ie, perineal/perianal sites or anal canal), and the inability to de-­
+termine condom use in the male sex partners of MSM having sex
+with multiple partners.
+
+Key strengths of this study include the HPV testing method-­
+ology used in the V501-020 trial, frequent testing (every
+6 months), diverse enrollment (18 countries), a large sample
+size, and high clinical trial retention rate. A limitation of this
+study is related to the restrictive eligibility criteria of the
+V501-020 trial, in which participants were of a limited age
+range (16–23 years for HM and 16–26 years for MSM), had
+no current or past history of HPV-related anogenital disease,
+and had no more than 5 lifetime sex partners. This may have
+selected for men with a lower likelihood of HPV exposure
+and thus may not be representative of the general population
+of sexually active men and may have also contributed to the
+low cumulative incidence of IP infection. In addition, focusing
+on IP infections to avoid the inclusion of cases due to HPV dep-­
+osition may have resulted in a conservative incidence estimate,
+as HPV infections that were acquired and cleared more rapidly
+may not be detected using this approach. Serologic status at
+baseline, an indicator of prior exposure to HPV infection across
+anatomic sites, was not available for all 9vHPV vaccine types in
+all participants from this 4vHPV vaccine trial. Furthermore,
+
+HPV vaccination was introduced in some of the vaccine trial
+
+countries during trial follow-up, almost exclusively to adoles-­
+cent girls after 2006 (United States, parts of Europe, and
+Australia). As such, this may have led to a lower estimate of
+anogenital HPV infection among men. Finally, the V501-020
+trial did not include oral HPV infection outcomes, which will
+
+be of importance in future analyses, given that the incidence
+of HPV-associated oropharyngeal cancers in men has sur-­
+passed that of cervical cancer in women in many settings [25].
+
+In this global study focusing on young men from the placebo
+arm of a global 4vHPV vaccine trial, a substantial proportion of
+both HM and MSM developed IP anogenital HPV infections to
+at least one 9vHPV vaccine type over 3 years. Given that IP
+HPV infections are strong risk factors and precede the develop-­
+ment of HPV-related diseases, vaccination of men targeted for
+catch-up vaccination would be expected to prevent a substan-­
+
+tial HPV-related disease burden attributable to these infections.
+
+The benefit of catch-up vaccination in men is evidenced by re-­
+cent findings from an open-label extension study of the
+V501-020 trial, which reported no new cases of external genital
+warts or genital lesions after a median follow-up of 4.7 years in
+the catch-up vaccination group [26]. Due to the limited avail-­
+ability of screening procedures for HPV-related disease in
+men, primary prevention of anogenital HPV infection through
+vaccination is currently the only practical approach for preven-­
+tion of HPV-related disease. Vaccination of men may also con-­
+tribute to herd protection, which may be of value in settings of
+
+716 • **JID 2024:229 (15 March)** - Giuliano et al
+
+
+suboptimal vaccination coverage among women [27].
+Furthermore, these data demonstrate the higher risk of IP
+HPV infection among MSM. While HM experience herd pro-­
+tection in settings of high female vaccination rates, MSM do not
+show a similar benefit. Therefore, gender-neutral vaccination is
+critical to reduce disease burden in men, especially among
+MSM. Lastly, we observed high rates of IP HPV infection in
+Africa (HM) and Latin America (MSM and HM), both of which
+are regions where the general population may have limited ac-­
+cess to screening for and treatment of HPV-related disease.
+This highlights the importance of switching to gender-neutral
+vaccination in these regions.
+
+**Supplementary Data**
+
+[Supplementary materials are available at](http://academic.oup.com/jid/article-lookup/doi/10.1093/infdis/jiad485#supplementary-data) *The Journal of*
+*Infectious Diseases* [online (http://jid.oxfordjournals.org/).](http://jid.oxfordjournals.org/)
+[Supplementary materials consist of data provided by the author](http://academic.oup.com/jid/article-lookup/doi/10.1093/infdis/jiad485#supplementary-data)
+that are published to benefit the reader. The posted materials
+are not copyedited. The contents of all [supplementary data](http://academic.oup.com/jid/article-lookup/doi/10.1093/infdis/jiad485#supplementary-data)
+are the sole responsibility of the authors. Questions or messages
+regarding errors should be addressed to the author.
+
+**Notes**
+
+***Author contributions.*** A. R. G. contributed to the design of
+the parent trial, participated in data collection, and oversaw
+data analysis and manuscript preparation. All authors substan-­
+tially contributed to the conception, design, or planning of the
+study, and were involved in the acquisition or analysis of the
+data, and interpretation of the results. All authors had access
+to all the relevant study data and related analyses, vouch for
+the completeness and accuracy of the data presented, and agree
+to be accountable for all aspects of the work in ensuring that
+questions related to the accuracy or integrity of any part of
+the work are appropriately investigated and resolved. All au-­
+thors were involved in critically reviewing or revising the man-­
+uscript for important intellectual content and approved the
+final version for submission.
+
+***Acknowledgments.*** Medical writing assistance was provided
+by Maxwell Chang, BSc Hons, and Matthew Grzywacz, PhD, of
+ApotheCom (New York, NY). This assistance was funded by
+Merck Sharp & Dohme, LLC, a subsidiary of Merck & Co,
+Inc, Rahway, NJ.
+
+***Financial support*** **.** This work was supported by Merck Sharp
+& Dohme, LLC, a subsidiary of Merck & Co, Inc, Rahway, NJ.
+
+***Potential conflicts of interest*** **.** A. R. G. reports receipt of sup-­
+port in the form of medical writing for the current manuscript,
+grants, and consulting fees from Merck Sharp & Dohme
+LLC. J. M. P. reports receipt of consulting fees from Merck
+Sharp & Dohme, LLC, Vir Biotechnologies, Antiva
+Biosciences, and Roche Diagnostics; has received payment
+from Merck Sharp & Dohme LLC, for lectures, presentations,
+speakers’ bureaus, and manuscript writing or educational
+
+events; is an honorary board member of the International
+Papillomavirus Society; and holds stock or stock options in
+Virion Therapeutics. S. G. has received grants from Inovio
+and Franz Viral Technologies; consulting fees from THD
+America; and payment or honoraria from Merck Sharp &
+Dohme, LLC, for speakers’ bureaus. S. G. and J. E. T. have re-­
+ceived support from Merck Sharp & Dohme, LLC, for the pre-­
+sent manuscript. A. L., B. D., A. S., C. V., and J. E. T. are
+employees of Merck Sharp & Dohme, LLC. A. L., B. D., A. S.,
+and J. E. T. hold stock in Merck & Co, Inc, Rahway, NJ, USA.
+
+All authors have submitted the ICMJE Form for Disclosure of
+Potential Conflicts of Interest. Conflicts that the editors consid-­
+er relevant to the content of the manuscript have been disclosed.
+
+***Data sharing.*** The data sharing policy, including restric-­
+tions, of Merck Sharp & Dohme, LLC, a subsidiary of Merck
+& Co, Inc, Rahway, NJ, is available at [http://engagezone.msd.](http://engagezone.msd.com/ds_documentation.php)
+[com/ds_documentation.php. Requests for access to the clinical](http://engagezone.msd.com/ds_documentation.php)
+study data can be submitted through the Engage Zone site or
+
+via email to Data Access mailbox.
+
+**References**
+
+1. de Martel C, Plummer M, Vignat J, Franceschi S.
+Worldwide burden of cancer attributable to HPV by site,
+country and HPV type. Int J Cancer **2017** ; 141:664–70.
+2. Markowitz LE, Dunne EF, Saraiya M, et al. Human papil-­
+
+lomavirus vaccination: recommendations of the advisory
+committee on immunization practices (ACIP). MMWR
+
+Recomm Rep **2014** ; 63:1–30.
+3. Giuliano AR, Lee JH, Fulp W, et al. Incidence and clearance
+of genital human papillomavirus infection in men (HIM): a
+cohort study. Lancet **2011** ; 377:932–40.
+4. Nyitray AG, Carvalho da Silva RJ, Baggio ML, et al.
+Six-month incidence, persistence, and factors associated
+with persistence of anal human papillomavirus in men:
+the HPV in men study. J Infect Dis **2011** ; 204:1711–22.
+5. Giuliano AR, Palefsky JM, Goldstone S, et al. Efficacy of
+quadrivalent HPV vaccine against HPV infection and dis-­
+ease in males. N Engl J Med **2011** ; 364:401–11.
+6. Palefsky JM, Giuliano AR, Goldstone S, et al. HPV vaccine
+against anal HPV infection and anal intraepithelial neopla-­
+sia. N Engl J Med **2011** ; 365:1576–85.
+7. Else EA, Swoyer R, Zhang Y, et al. Comparison of real-time
+multiplex human papillomavirus (HPV) PCR assays with
+INNO-LiPA HPV genotyping extra assay. J Clin Microbiol
+
+**2011** ; 49:1907–12.
+
+8. Roberts CC, Swoyer R, Bryan JT, Taddeo FJ. Comparison
+of real-time multiplex human papillomavirus (HPV) PCR
+assays with the linear array HPV genotyping PCR assay
+and influence of DNA extraction method on HPV detec-­
+tion. J Clin Microbiol **2011** ; 49:1899–906.
+9. Kuk D, Varadhan R. Model selection in competing risks re-­
+
+gression. Stat Med **2013** ; 32:3077–88.
+
+
+10. Jin F, Prestage GP, Kippax SC, et al. Risk factors for genital and
+anal warts in a prospective cohort of HIV-negative homosex-­
+ual men: the HIM study. Sex Transm Dis **2007** ; 34:488–93.
+11. Van Doornum GJ, Prins M, Juffermans LH, et al. Regional dis-­
+
+tribution and incidence of human papillomavirus infections
+among heterosexual men and women with multiple sexual
+partners: a prospective study. Genitourin Med **1994** ; 70:240–6.
+12. Giuliano AR, Lu B, Nielson CM, et al. Age-specific prevalence,
+incidence, and duration of human papillomavirus infections
+in a cohort of 290 US men. J Infect Dis **2008** ; 198:827–35.
+13. Partridge JM, Hughes JP, Feng Q, et al. Genital human pap-­
+
+illomavirus infection in men: incidence and risk factors in a
+
+cohort of university students. J Infect Dis **2007** ; 196:1128–36.
+14. Glick SN, Feng Q, Popov V, Koutsky LA, Golden MR. High
+rates of incident and prevalent anal human papillomavirus
+infection among young men who have sex with men. J
+Infect Dis **2014** ; 209:369–76.
+
+15. de Pokomandy A, Rouleau D, Ghattas G, et al. Prevalence,
+clearance, and incidence of anal human papillomavirus in-­
+fection in HIV-infected men: the HIPVIRG cohort study. J
+Infect Dis **2009** ; 199:965–73.
+
+16. Donà MG, Palamara G, Di Carlo A, et al. Prevalence, geno-­
+
+type diversity and determinants of anal HPV infection in
+HIV-uninfected men having sex with men. J Clin Virol
+
+**2012** ; 54:185–9.
+
+17. Quinn R, Salvatierra J, Solari V, Calderon M, Ton TG, Zunt
+
+JR. Human papillomavirus infection in men who have sex
+
+with men in Lima, Peru. AIDS Res Hum Retroviruses **2012** ;
+
+28:1734–8.
+
+18. Wong IKJ, Poynten IM, Cornall A, et al. Sexual behaviours
+associated with incident high-risk anal human papilloma-­
+virus among gay and bisexual men. Sex Transm Infect
+
+**2022** ; 98:101–7.
+
+19. Mikamo H, Yamagishi Y, Murata S, et al. Efficacy, safety,
+and immunogenicity of a quadrivalent HPV vaccine in
+Japanese men: a randomized, phase 3, placebo-controlled
+study. Vaccine **2019** ; 37:1651–8.
+20. Nyitray AG, Chang M, Villa LL, et al. The natural history of
+genital human papillomavirus among HIV-negative men
+having sex with men and men having sex with women. J
+Infect Dis **2015** ; 212:202–12.
+
+21. Vriend HJ, Bogaards JA, van der Klis FR, et al. Patterns of
+human papillomavirus DNA and antibody positivity in
+young males and females, suggesting a site-specific natural
+course of infection. PLoS One **2013** ; 8:e60696.
+
+22. Nielson CM, Harris RB, Dunne EF, et al. Risk factors for
+
+anogenital human papillomavirus infection in men. J
+Infect Dis **2007** ; 196:1137–45.
+
+23. Hernandez AL, Efird JT, Holly EA, Berry JM, Jay N, Palefsky
+JM. Risk factors for anal human papillomavirus infection type
+16 among HIV-positive men who have sex with men in
+San Francisco. J Acquir Immune Defic Syndr **2013** ; 63:532–9.
+
+HPV Infection in Young Men • **JID 2024:229 (15 March)**   - 717
+
+24. Pierce Campbell CM, Lin HY, Fulp W, et al. Consistent
+condom use reduces the genital human papillomavirus
+burden among high-risk men: the HPV infection in men
+study. J Infect Dis **2013** ; 208:373–84.
+25. Centers for Disease Control and Prevention. HPV and can-­
+
+cer, 13 December **2021** [. https://www.cdc.gov/cancer/hpv/](https://www.cdc.gov/cancer/hpv/statistics/cases.htm)
+[statistics/cases.htm. Accessed 5 April 2022.](https://www.cdc.gov/cancer/hpv/statistics/cases.htm)
+
+718 • **JID 2024:229 (15 March)** - Giuliano et al
+
+
+26. Goldstone SE, Giuliano AR, Palefsky JM, et al. Efficacy, immuno-­
+
+genicity, and safety of a quadrivalent HPV vaccine in men: results
+of an open-label, long-term extension of a randomised, placebocontrolled, phase 3 trial. Lancet Infect Dis **2022** ; 22:413–25.
+27. Qendri V, Bogaards JA, Berkhof J. Who will benefit from
+expanding HPV vaccination programs to boys? JNCI
+Cancer Spectr **2018** ; 2:pky076.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

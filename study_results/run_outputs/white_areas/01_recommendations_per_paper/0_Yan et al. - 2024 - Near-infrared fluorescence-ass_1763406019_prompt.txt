@@ -1,0 +1,608 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    World Journal of Urology (2024) 42:206
+https://doi.org/10.1007/s00345-024-04877-7
+
+
+# **Near‑infrared fluorescence‑assisted superficial inguinal lymph‑node ** **excision for low‑risk penile cancer**
+
+**Xiaoting Yan** **[1,2]** **[· Chao Liu](http://orcid.org/0000-0002-5976-131X)** **[3]** **· Lijuan Cui** **[3]** **· Pengyu Yan** **[1]** **· Xiurong Fu** **[1]** **· Weiyi Chen** **[4]** **· Xiaofeng Yang** **[1,2]**
+
+Received: 2 February 2023 / Accepted: 17 November 2023 / Published online: 1 April 2024
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2024
+
+**Abstract**
+**Objective** Identification of superficial inguinal lymph nodes during low-risk penile cancer surgery using near-infrared (NIR)
+fluorescence to improve the accuracy of lymph-node dissection and reduce the incidence of missed micrometastases and
+complications.
+**Methods**
+Thirty-two cases were selected, which were under the criteria of < T1, and no lymph-node metastasis was found
+with magnetic resonance imaging (MRI) detection. Two groups were randomly divided based on the fluorescence technique,
+the indocyanine green (ICG) group and the non-ICG group. In the ICG group, the ICG preparation was subcutaneously
+injected into the edge of the penile tumor 10 min before surgery, and the near-infrared fluorescence imager was used for
+observation. After the lymph nodes were visualized, the superficial inguinal lymph nodes were removed first, and then, the
+penis surgery was performed. The non-ICG group underwent superficial inguinal lymph-node dissection and penile surgery.
+**Results**
+Among the 16 patients in the ICG group, we obtained 11 lymph-node specimens using grayscale values of images
+*P* *P*
+(4.13 ± 0.72 vs. 3.00 ± 0.82 = 0.003) along with shorter postoperative healing time (7.31 ± 1.08 vs. 8.88 ± 2.43 = 0.025),
+and less lymphatic leakage (0 vs. 5 *P* = 0.04) than the 16 patients in the non-ICG group. Out of 11, 3 lymph nodes that are
+excised were further grouped into fluorescent and non-fluorescent regions (G1/G2) and found to be metastasized.
+**Conclusion**
+Near-infrared fluorescence-assisted superficial inguinal lymph-node dissection in penile carcinoma is accurate
+and effective, and could reduce surgical complications.
+
+**Keywords** Near infrared fluorescence · Penile cancer · Lymph node excision · Indocyanine green
+
+**Introduction**
+
+
+Weiyi Chen and Xiaofeng Yang have contributed equally to the
+work.
+
+- Weiyi Chen
+chenweiyi@tyut.edu.cn
+
+- Xiaofeng Yang
+yxfylq@163.com
+
+1 First Clinical Medical College, Shanxi Medical University,
+Taiyuan 030001, People’s Republic of China
+
+2 Department of Urology, First Hospital of Shanxi Medical
+University, Taiyuan 030001, People’s Republic of China
+
+3 Academy of Medical Sciences, Shanxi Medical University,
+Taiyuan 030001, People’s Republic of China
+
+4 College of Biomedical Engineering, Taiyuan University
+of Technology, Taiyuan 030024, People’s Republic of China
+
+
+The metastatic route of penile cancer is mainly lymph-node
+metastasis and has the characteristics of cascading along
+superficial inguinal lymph nodes–deep inguinal lymph
+nodes–external iliac lymph nodes–pelvic lymph nodes.
+Whether regional lymph nodes metastasize, the number of
+positive lymph nodes and the timing of regional lymph-node
+excision are the most important prognostic factors affecting
+the survival of patients with penile cancer [1, 2]. Patients
+with stage less than T1N0 penile cancer have a better overall prognosis, with a 5-year survival rate of 85–100% [3].
+Most scholars believe that in high risk especially palpable
+lymph nodes in stage ­pT 1b -pT 4 patients, sentinel lymph-node
+biopsy or radical lymph-node excision is recommended. In
+contrast, patients in low-risk inguinal lymph nodes (cN0)
+without enlargement but with tumor stages of Tis, Ta, and
+pT1a should be regularly monitored [4, 5]. However, retrospective analyses have shown that approximately 15–25%
+
+Vol.:(0123456789)
+
+**206** Page 2 of 7 World Journal of Urology (2024) 42:206
+
+
+of (cN0) patients may still have micrometastatic disease,
+and as a result, the survival rate for patients with recurrence during follow-up is low at 35%, and the disease-free
+survival rate for patients with lymph-node micrometastases is 84% if lymph-node excision is performed at the early
+stage [6]. The clinical management of hard-to-find inguinal lymph nodes (cN0) is controversial [7]. Blind inguinal
+lymph-node excision in cN0 patients at high risk of micrometastases can also lead to excessive treatment in 80% of
+patients [8], as lymphatic fluid exuding from the wound can
+delay wound healing and lead to associated complications.
+This is a more problematic issue for the patient and the care
+involved. Fluorescence-assisted precise identification of
+lymph nodes is now well established, and patients with < T1
+stage will benefit most from precise identification of inguinal lymph nodes and minimal harm in clearing this area.
+Accurate lymph-node excision is an important technique in
+precision medicine and is becoming the standard for biopsy,
+excision, and staging of lymph nodes in many solid tumor
+areas. Near-infrared (NIR) fluorescence imaging has evolved
+into an efficient approach for examining tumor tissue during
+surgery. NIR fluorescence (700–900 nm) imaging is being
+used to localize anterior lymph nodes and has been tested in
+several cancer centers worldwide [9]. The features of NIR
+fluorescence imaging that can facilitate lymph-node surgery
+include relatively high penetration into living tissue (up to
+10 mm) and real-time, high-resolution optical guidance [10].
+Also, the diagnostic performance of ICG-NIR imaging for
+SLNM detection in penile cancer was analyzed in seven
+studies earlier where the median sensitivity and specificity
+of ICG-NIR imaging for SLNM detection were 100 and 4%,
+respectively; the pooled sensitivity was 100.0% (95% confidence interval [CI] 97.0–100.0) and specificity was 2.0%
+(95% CI 1.0–3.0). There was no significant difference in
+the diagnostic results between different injection sites and
+doses in each experimental group. ICG is sensitive in the
+imaging of SLN tissue, which can consequently improve
+the accuracy of lymph-node detection [11]. Therefore, we
+began investigating the implementation of NIR fluorescenceassisted superficial inguinal lymph-node excision in patients
+with primary tumor Ta, T1 (cN0) to detect micrometastases
+earlier while reducing complications associated with lymph
+node excision.
+
+**Materials and methods**
+
+**Patient selection**
+
+Approved by the ethics committee of the First Hospital
+of Shanxi Medical University. Thirty-two patients aged
+between 38 and 71 years old with penile cancer attending
+the Urology Department of First Hospital of Shanxi Medical
+
+
+University (Shanxi, China) from January 2018 to December
+
+2021 were selected. The inclusion criteria were as follows:
+
+cancer to be located in the glans or coronal sulcus and foreskin, cancer diameter of 1.8–3 cm, and the mean diameter to
+be 2.21 cm, no palpable inguinal lymph nodes on physical
+examination, no suspicious metastatic lymph nodes on MRI,
+no abnormal blood glucose (based on glycated hemoglobin
+test after admission and seven blood glucose monitoring
+within 3 days), no cardiovascular disease (no anticoagulant
+drugs were intaken), and clinical tumor stage to be ≤ stage
+T1.
+After confirming that the patients met the inclusion criteria, we randomly divided the patients into ICG and non-ICG
+groups with a ratio of 1:1. Sixteen patients in the ICG group
+were injected with the prepared ICG solution intradermally
+10 min before surgery and underwent superficial inguinal
+lymph-node excision followed by partial penile excision
+after lymph-node visualization. In the non-ICG group, 16
+patients underwent direct partial penectomy and superficial
+inguinal lymph-node excision. In both groups, the superficial
+inguinal lymph-node excision was carried out by an inguinal
+lymphadenectomy surgery otherwise called groin dissection.
+The procedure was performed by the same team of trained
+and experienced urologists.
+
+**Surgical procedure**
+
+0.25 ml (0.25 mg/ml) of ICG solution was injected intradermally into the patient’s penile head at the site of cancer using
+a 1 ml syringe. The development and tracking of lymph
+nodes were performed by the self-developed Multispectral
+Fluorescence imaging System from our team (MFS). The
+system consists of a light source, an image processor and
+a displayer. The light source can output visible and nearinfrared light at 760 ± 10 nm simultaneously. Visible color
+imaging and NIR fluorescence imaging (835 ± 10 nm) can
+be achieved, and then, the color images, NIR fluorescence
+images, and pseudo-color images (green) could be acquired
+simultaneously and displayed on the monitor.
+ICG preparation was injected intradermally at the tumor
+margin. The MFS probe is aimed at the injection site and
+the dynamics of the fluorescent images are observed. The
+monitor shows a visible image, an indocyanine greenlabeled near-infrared fluorescent grayscale image and a
+green pseudo-color image at the injection site, the penile
+body, the pubic symphysis, and the bilateral inguinal
+region simultaneously. The cancer foci development is first
+observed (Fig. 1A), and after 15 min, the green-fluorescent
+image of the superficial lymph nodes in the inguinal region
+was stable (Fig. 1C, D). After cutting the skin, the color of
+the green nodes is clearly enhanced (Fig. 1B). Thus, the
+surgeon is able to easily find more lymph nodes based on
+the fluorescence image and can accurately separate and
+
+World Journal of Urology (2024) 42:206 Page 3 of 7 **206**
+
+**Fig. 1  A** After intradermal
+injection of ICG at the tumor
+margin, fluorescence is immediately visible at the injection site
+and throughout the cancerous
+area, with an “H”-shaped fluorescent band extending into the
+groin on both sides of the penile
+body one minute later. **B** About
+3–5 min later, a dotted fluorescence pattern can be seen under
+the skin of one side of the groin.
+**C** Fluorescence enhancement
+
+reveals the lymph nodes after
+the skin has been cut, so they
+can be removed precisely along
+the border. **D** After removal of
+the first lymph node, a second
+lymph node can be seen and
+the incision can be extended
+
+slightly for further removal. **E**
+The resected lymph nodes can
+be seen to have different levels
+of fluorescence and are demarcated from the adjacent tissue. **F**
+HE staining of lymph nodes
+
+
+ligate the lymph nodes along the edges of the green nodes.
+After removing the fluorescent lymph nodes, the surgeon
+will further examine the surgical field. Finger pressure on
+the inguinal area is required against poor vision for the
+thick target area. If there is no residual fluorescence, the
+partial penectomy was proceeded.
+
+**Statistical analysis**
+
+The study has been powered using a two independent proportions power analysis. The used outcome was the proportion of fluorescent technique, the indocyanine green
+(ICG) group compared to the non-ICG group (ICG). For
+statistical analysis, IBM SPSS Statistics (Version 25, La
+Jolla, CA, USA) was used. For the secondary outcomes, an
+intention-to-treat analysis was performed. To evaluate the
+differences between the standard and fluorescence imaging
+groups, *t* test (two-tailed parametric) was used. *P* < 0.05
+was considered as significant.
+
+
+**Results**
+
+**Patient and tumor characteristics**
+
+The preoperative statistical indicators and tumor characteristics of the 32 patients are shown in Table 1. All 32
+cases underwent partial penectomy and superficial inguinal lymph-node excision. The mean age was 51.13 ± 8.83
+in the ICG group and 51 ± 8.67 in the non-ICG group
+( *P*
+ - 0.05). The mean tumor diameter was 2.22 ± 0.53 cm
+in the ICG group and 2.29 ± 0.49 cm in the non-ICG group
+( *P*
+  - 0.05). The stage of the tumor and the location of the
+cancer were also counted (Table 1). The mean number of
+removed lymph nodes was 4.13 ± 0.72 in the ICG group
+*P*
+compared to 3.00 ± 0.82 in the non-ICG group ( < 0.01).
+Bilateral detection rate was higher in the ICG group compared to the non-ICG group as shown in Fig. 2. Post-operative healing time in days and healed time were less in
+the ICG group (7.31 ± 1.08) than in the non-ICG group
+
+**206** Page 4 of 7 World Journal of Urology (2024) 42:206
+
+
+**Table 1** The preoperative statistical indicators and tumor characteristics of the 32 patients
+
+Parameters ICG Non-ICG *P* value
+
+Age (years) 51.13 ± 8.83 51 ± 8.67 0.97
+BMI (kg/m [2] ) 27.34 ± 2.44 27.71 ± 2.85 0.70
+Tumor diameter (cm) 2.22 ± 0.53 2.29 ± 0.49 0.70
+cT stage
+
+Ta 3 (18.75%) 3 (18.75%)
+
+T1a 7 (43.75%) 8 (50.00%)
+
+T1b 6 (37.50%) 5 (31.25%)
+
+Tumor location
+
+Glans 5 (31.25%) 5 (31.25%)
+
+Coronary sulcus 5 (31.25%) 7 (43.75%)
+
+Prepuce 6 (37.50%) 4 (25.00%)
+Removed LNs 4.13 ± 0.72 3.00 ± 0.82 0.0003
+Metastasis LNs 3 (4.55%) 2 (4.17%) 0.63
+Healed time (d) 7.31 ± 1.08 8.88 ± 2.43 0.025
+Lymphatic leakage 0 5 (31%) 0.04
+
+**Fig. 2** Detection and removal of penile cancer associated lymph
+nodes in both ICG and non-ICG groups
+
+**Fig. 3** Post-operative healing time in both ICG and non-ICG groups
+
+*P*
+(8.88 ± 2.43) ( < 0.01), and the incidence of lymphatic
+leakage was also less in the ICG group than in the nonICG group as presented in Fig. 3. However, the ratio of
+
+
+the number of metastatic lymph nodes to the total number
+of lymph nodes was not statistically significant between
+the two groups (ICG 4.55% vs. non-ICG 4.17%, *P* - 0.9).
+The infection, flap necrosis, or lymphoedema occurred in
+neither group.
+
+**Quantitative mode of fluorescence images**
+
+The final image on the screen during the operation is formed
+by the fusion of visible light image and fluorescent image,
+and the images of each mode can also be displayed separately. The fluorescence generated by indocyanine green is
+defined as the continuous bright area under the NIR gray
+image that does not change with the observation angle. The
+fluorescence imager can digitize the fluorescence information of the image to generate the average gray value. In the
+later stage, the mean fluorescence intensity (MFI) of adjacent tissues can be calculated by the average gray value.
+The ratio of tumor tissue MFI to normal background tissue
+MFI was the tumor-to-background ratio (TBR). We selected
+11 lymph-node specimens isolated from the ICG group and
+obtained the grayscale values of the fluorescent region G1
+and the non-fluorescent region G2 on the same lymph node
+under the fluorescence imager (the grayscale values and the
+average fluorescence intensity were linearly and positively
+correlated). Set the maximum grayscale value as 255 and
+the minimum grayscale value as 0, and normalize the gray
+value to obtain the range of 0–1 (Fig. 4). The red column is
+G1, and the blue is G2. The grayscale value of the visible
+fluorescent region is significantly stronger than that of the
+(G1/G2 > 5) non-fluorescent region. The 11 lymph nodes
+were further divided into fluorescent and non-fluorescent
+regions, and three of them were found to have metastasis
+by pathological examination, and the grayscale values of
+the cancer foci on the same lymph nodes were significantly
+higher than the normal tissue adjacent to the cancer, which
+was statistically analyzed using independent *t* test (twotailed parametric test). This provided an optical quantitative
+basis for surgeons to identify lymph nodes through the use
+of NIR fluorescence.
+
+**Discussion**
+
+In patients with primary penile cancer, about 50% of the
+palpable lymph-node enlargement is caused by inflammatory reaction [12, 13]. For patients with T1cNo or below,
+although the guidelines do not recommend the removal of
+lymph nodes, almost 100% of the cases with lymph-node
+enlargement during follow-up are caused by metastasis [14].
+It shows that lymph-node resection of early penile cancer
+is also necessary, but the complications make doctors and
+patients think that the benefits outweigh the losses. More
+
+World Journal of Urology (2024) 42:206 Page 5 of 7 **206**
+
+**Fig. 4** Fluorescent intensity of lymph nodes in fluorescent (G1) and non-fluorescent (G2) regions of ICG group
+
+
+advanced surgical methods would be the best treatment
+option if the most complete removal of the lymph nodes
+with the least amount of damage is provided. Lymph-node
+excision in early stage (Ta-T1a) penile cancer has been a
+matter of academic debate for many years. Patients opting
+for active surveillance after resection of the primary lesion
+may avoid the complications associated with prophylactic
+inguinal lymph-node excision, while the treatment may be
+delayed. If there is no lymph nodes metastasis after removal,
+the delay in discharge and excessive treatment costs caused
+by postoperative complications may attribute damage to the
+patient’s body and spirit and also put the doctor in an awkward position. There are also several improved methods of
+inguinal lymph-node dissection to reduce the probability of
+postoperative lymphatic leakage, lymphoedema, flap necrosis, and wound infection [15]. These include laparoscopic
+surgery, robot-assisted laparoscopic surgery, and the creation
+of a vascularised flap. One set of data showed that the cosmetic outcome of the incision was better in the single-port
+laparoscopy than in the conventional laparoscopic group
+( *P* = 0.039) [16]. In a study comparing robotic-assisted endoscopic lymph-node dissection (RAVEIL) with conventional
+endoscopic lymph-node dissection (VEIL), the former had
+a significantly lower complication rate than the latter (7%
+vs 43%), while RAVEIL allowed a greater probability of
+preserving the saphenous vein compared to VEIL ( *P* < 0.01),
+and the preservation of the saphenous vein reduced the complication rate ( *P* = 0.02) [17]. However, none of these methods have improved the surgical approach in the direction
+of precise identification of lymph nodes. Numerous studies
+have demonstrated the potential for NIR fluorescence imaging employing intraoperative ICG-99mTc-nanocolloid to
+be incorporated into conventional lymph-node operations
+in patients with low-risk cancer to ease the direct observation of those nodes. Why is ICG used in NIRF cancer
+detection is an open question. In contrast to blue dyes,
+which have poor screening, a few pilot studies have shown
+
+
+that using hybrid tracer dyes, such as indocyanine green, in
+NIRF imaging during surgical procedures accelerated the
+process of tumor identification and its specific location for
+a surgeon to aid in its removal. The level of perfusion, permeability, and absorption of ICG over methylene blue is
+the fundamental basis for this advantage in tumor detection.
+Non-malignant tissues quickly flush out the dye, which aids
+in more accurate tumor development delineation [18]. The
+application of NIR fluorescence provides a brighter direction for this idea, which is an improvement at the cellular
+level. A study retrospectively analyzed the number of lymph
+nodes obtained by robot-assisted surgery in ICG and nonICG groups and found that the number of overall, superficial,
+and deep lymph nodes in the bilateral groin was higher in
+the ICG group than in the non-ICG group ( *P* < 0.02) [19].
+NIR fluorescence can penetrate the skin and reveal the location of subcutaneous lymph nodes and lymphatic vessels in
+real time. The increased penetration of light after cutting
+the skin makes the lymph-node-like tissue with a stronger
+fluorescent signal visible, allowing the operator to separate
+and remove lymph nodes along the fluorescent edge quickly
+and accurately. A higher probability of lymph-node involvement was strongly correlated with a penile tumor size of
+1 cm or more. In a study, by Marion et al., the use of NIRF in
+vulvar cancer cases with capsular invasion was in the range
+of ≤ 2 mm to > 2 mm. Given this, the NIRF was employed
+in this research to visualize the predicted dimension of the
+20]. The
+micrometastasized lymph node, i.e., of ≤ 2 mm [
+spatial resolution of our imaging protocol can achieve detection in the order of 100 µm, so there is a high probability of
+detection for lymph nodes smaller than 1 mm. In addition,
+it can avoid unnecessary damage to other tissues, reduce
+the incision, and shorten the operation time. This can better
+avoid missing patients with no abnormalities on preoperative imaging but was actually having micrometastases, thus
+to avoid unnecessary lymph-node dissection, and especially
+to reduce the occurrence of postoperative complications,
+
+**206** Page 6 of 7 World Journal of Urology (2024) 42:206
+
+
+such as non-healing wounds, lymphatic fluid spillage, subcutaneous hematomas, and even skin necrosis. These were
+confirmed in the present study, but the rate of metastatic
+lymph nodes was not statistically significant between ICG
+and non-ICG ( *P*
+= 0.63), which may require a larger sample
+size study to revalidate and may also be related to the earlier
+stage of the tumor we chose. In this study, the use of NIRF
+intra-operatively helped to navigate the presence of those
+metastasized lymph nodes prior to the excision of penile
+tumor in the ICG group, proven to be qualitative surgery in
+aspects of good prognosis.
+It has been widely used for intraoperative lymph-node
+exploration in other tumors, and near-infrared fluorescent
+dyes combined with targeting antigens have been synthesized for the application of contrast agents in animal experiments of breast and prostate cancer [21, 22]. As the current
+clinically available fluorescent contrast agent has a tissue
+penetration of about 1 cm, it is not very effective for extracutaneous visualization in patients. In addition, the fluorescent
+contrast agent may not show all lymph nodes in the target
+area, so it can only be used in patients with a BMI within a
+certain range. The present lymph-node visualization study
+focuses on the inguinal lymph nodes, and the injection site is
+at the edge of the tumor. This is a theoretical sentinel lymph
+node; however, due to the limitations of our institution, it is
+not possible to perform a preoperative [99m] Tc examination to
+verify this result. This will require a multicentre and largesample study.
+
+**Conclusion**
+
+Our research supports that NIR fluorescence-assisted intraoperative lymph-node resection could accurately locate
+lymph nodes, effectively remove more lymph nodes, reduce
+surgical complications, and relieve patient’s physical and
+mental pain. MFS could significantly improve the visual
+depth of doctors and dynamically and accurately locate
+lymph nodes in vitro and in vivo.
+
+**Acknowledgements** We acknowledge all authors.
+
+**Author contributions** Conception and design: Xiaoting Yan, Weiyi
+Chen, and Xiaofeng Yang. Administrative support: Xiaofeng Yang
+and Chao Liu. Provision of study materials or patients: Xiurong Fu.
+Collection and assembly of data: Xiaoting Yan and Pengyu Yan. Data
+analysis and interpretation: Xiaoting Yan, Lijuan Cui. Optimized the
+experimental design scheme: Weiyi Chen. Article writing: all authors.
+Final approval of article: all authors.
+
+**Funding** Central Guidance on Local Science and Technology Development Fund of Shanxi Province (No.YDZJSX2021C010); Shanxi
+Graduate Education Innovation Project (No. 2020BY074); Science and
+Technology Innovation Plan Project of University in Shanxi Province
+(No. 2022L143).
+
+
+**Data availability** Data underlying the results presented in this paper are
+not publicly available at this time but may be obtained from the authors
+upon reasonable request.
+
+**Declarations**
+
+**Conflict of interest** The authors declare that they have no conflict of
+interest.
+
+**Ethical approval** The procedures that followed were approved by the
+Ethical Committee of First Hospital of Shanxi Medical University
+{EIW2018094} conducted according to the principles of the Declaration of Helsinki.
+
+**Informed consent** Informed consent was submitted for each patient.
+
+**References**
+
+1. Naumann CM, Filippow N, Seif C, Horse CVD, Roelver L, Braun
+PM, Juenemann KP, Portillo FJM (2005) Penile carcinoma (pT1
+G2) surveillance or inguinal lymph node dissection. Onkologie
+28(3):135–138
+2. Van Poppel H, Watkin NA, Osanto S, Moonen L, Horwich A,
+Kataja V (2013) Penile cancer: ESMO clinical practice guidelines for diagnosis. Treatment and follow-up. Ann Oncol 24(Suppl
+6):vi115–vi124
+3. Mistretta FA, Palumbo C, Knipper S, Mazzone E, Pecoraro A,
+Tian Z, Musi G, Perrotte P (2020) Conditional survival of patients
+with stage I–III squamous cell carcinoma of the penis: temporal
+changes in cancer-specific mortality. World J Urol 38(3):725–732
+4. Graafland NM, Graafland NM, Lam W, Leijte JAP, Yap T, Gallee MPW, Corbishley C, van Werkhoven E, Watkin N, Horenblas S (2010) Prognostic factors for occult inguinal lymph node
+involvement in penile carcinoma and assessment of the high-risk
+EAU subgroup: a two-institution analysis of 342 clinically nodenegative patients. Eur Urol 58:742
+5. Zhu Y, Zhang HL, Yao XD, Zhang SL, Dai B, Shen YJ, Ye DW
+(2010) Development and evaluation of a nomogram to predict
+inguinal lymph node metastasis in patients cancer and clinically
+negative lymph nodes. J Urol 184(2):539–545
+6. Aydin AM, Chakiryan NH, Spiess PE (2020) Will dynamic sentinel lymph node biopsy become the new international standard
+for evaluating high-risk penile cancer in patients with clinically
+negative lymph nodes? Eur Urol 78(6):873–874
+7. Kroon BK, Horenblas S, Lont AP, Tanis PJ, Gallee MPW, Nieweg
+OE (2005) Patients with penile carcinoma benefit from immediate resection of clinically occult lymph node metastases. J Urol
+173(3):816–819
+8. Kroon BK, Horenblas S, Estourgie SH, Lont AP, Valdes Olmo RA,
+Nieweg OE (2004) How to avoid false negative dynamic sentinel
+node procedures in penile carcinoma. J Urol 171(61):2191–2194
+9. Reyes F, Noelck M, Valentin C, Grasso-Lebeau L, Lang J (2010)
+Complications of methylene blue dye in breast surgery: case
+reports and review of the literature. J Cancer 8(2):20–25
+10. Zakaria S, Hoskin TL, Degnim AC (2008) Safety and technical
+success of methylene blue dye for lymphatic mapping in breast
+cancer. Am J Surg 196:228–233
+11. Zhang R, Zhang Y, Dong S et al (2023) Performance of indocyanine green in sentinel lymph node mapping and lymph node
+metastasis in penile cancer: systematic review, meta-analysis, and
+single-center experience. World J Urol 41:2319–2326
+12. Theodorescu D, Russo P, Zhang ZF, Morash C, Fair
+WR (1996) Outcomes of initial surveillance of invasive
+
+World Journal of Urology (2024) 42:206 Page 7 of 7 **206**
+
+
+squamous cell carcinoma of the penis and negative nodes. J Urol
+155(5):1626–1631
+13. Abi-Aad AS et al (1992) Controversies in ilioinguinal lymphadenectomy for cancer of the penis. Urol Clin N Am 19(2):319–327
+14. Zhang ZL, Yu CP, Liu ZW, Velet L, Li YH, Jiang LJ, Zhou FJ
+(2015) The importance of extranodal extension in penile cancer:
+a meta-analysis. BMC Cancer 15:815
+15. Gupta KM, Patel PA, Master AV et al (2017) Technical considerations to minimize complications of inguinal lymph node dissection. Transl Androl Urol 6(5):820–825
+16. Yuan JB, Chen MF, Qi L, Li Y, Li YL, Chen C, Chen JB, Zu
+XB, Liu LF (2015) Preservation of the saphenous vein during
+laparoendoscopic single site inguinal lymphadenectomy: comparison with the conventional laparoscopic technique. BJU Int
+115:613–618
+17. Russell CM, Salami SS, Niemann A, Weizer AZ, Tomlins SA,
+Morgan TM, Montgomery JS (2017) Minimally invasive inguinal
+lymphadenectomy in the management of penile carcinoma. Urology 106:113–118
+18. Kalisvaart GM, Meijer RPJ, Bijlstra OD, Galema HA, de Steur
+WO, Hartgrink HH, Verhoef C, de Geus-Oei LF, Grünhagen DJ,
+Schrage YM, Vahrmeijer AL, van der Hage JA (2022) Intraoperative near-infrared fluorescence imaging with indocyanine green
+for identification of gastrointestinal stromal tumors (GISTs), a
+feasibility study. Cancers (Basel) 14(6):1572
+19. Yuan P, Yao K, Zhou Z, Liu J, Li C, Hou W, Tang YX, Hu S,
+Wang L (2022) “Light green up”: indocyanine green fluorescence
+imaging-guided robotic bilateral inguinal lymphadenectomy by
+
+
+the hypogastric subcutaneous approach for penile cancer. Eur Urol
+Open Sci 12(45):1–7
+20. Deken MM, van Doorn HC, Verver D, Boogerd LSF, de Valk KS,
+Rietbergen DDD, van Poelgeest MIE, de Kroon CD, Beltman JJ,
+van Leeuwen FWB, Putter H, Braak JPBM, de Geus-Oei LF, van
+de Velde CJH, Burggraaf J, Vahrmeijer AL, Gaarenstroom KN
+(2020) Near-infrared fluorescence imaging compared to standard sentinel lymph node detection with blue dye in patients with
+vulvar cancer - a randomized controlled trial. Gynecol Oncol
+159(3):672–680
+21. Cong BB, Sun X, Song X, Liu YB, Zhao T, Cao XS, Qiu PF, Tian
+CL, Yu JM, Wang YS (2016) Preparation study of indocyanine
+green-rituximab: a new receptor-targeted tracer for sentinel lymph
+node in breast cancer. Oncotarget 7(30):47526–47535
+22. Wang X, Huang SS, Heston WDW, Guo H, Wang BC, Basilion
+JP (2014) Development of targeted near-infrared imaging agents
+for prostate cancer. Mol Cancer Ther 13(11):2595–2606
+
+**Publisher's Note** Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds
+exclusive rights to this article under a publishing agreement with the
+author(s) or other rightsholder(s); author self-archiving of the accepted
+manuscript version of this article is solely governed by the terms of
+such publishing agreement and applicable law.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

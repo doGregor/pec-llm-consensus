@@ -1,0 +1,661 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ## Oncology Research and Treatment
+
+### Novel Insights from Clinical Practice
+
+Oncol Res Treat 2024;47:565–571
+
+[DOI: 10.1159/000539275](https://doi.org/10.1159/000539275)
+
+
+Received: January 3, 2024
+Accepted: March 25, 2024
+Published online: May 18, 2024
+
+# Stereotactic Radiotherapy for Penile Metastasis: Case Report and Systematic Literature Review
+
+Antonio Piras [a, b, c] Andrea D’Aviero [d] Antonella Sanfratello [a]
+
+Luca Boldrini [e, f] Gianfranco Pernice [g] Massimiliano Spada [g]
+
+Gianluca Gaudio [h, i] Mirko Pinelli [h] Giuseppe Salamone [h] Vittorio Gebbia [j, k, l]
+
+Nino Dispensa [m] Gabriele Tulone [m] Riccardo Laudicella [n] Albert Comelli [b]
+
+Domenico Di Raimondo [c] Antonino Tuttolomondo [c] Tommaso Angileri [o]
+
+Antonino Daidone [a]
+
+a UO Radioterapia Oncologica, Villa Santa Teresa, Palermo, Italy; b RI.MED Foundation, Palermo, Italy;
+c Department of Promoting Health, Maternal-Infant. Excellence and Internal and Specialized Medicine (PROMISE)
+“G. D’Alessandro,” PhD “Molecular and Clinical Medicine”, University of Palermo, Palermo, Italy; [d] Radiation
+Oncology, Mater Olbia Hospital, Olbia, Sassari, Italy; [e] UOC Radioterapia Oncologica - Fondazione Policlinico
+Universitario Agostino Gemelli IRCCS, Dipartimento di Diagnostica per immagini, Radioterapia Oncologica ed
+Ematologia, Roma, Italy; [f] Università Cattolica del Sacro Cuore, Roma, Italy; [g] UOC Oncologia, Fondazione Istituto
+G. Giglio, Cefalù, Palermo, Italy; [h] UO Urologia, Fondazione Istituto G. Giglio, Cefalù, Palermo, Italy; [i] Dipartimento di
+Medicina e Chirurgia, Università degli Studi di Perugia, Perugia, Italy; [j] Chair of Medical Oncology, University of
+Enna Kore, Plesso I, Polo Scientifico e Tecnologico di Santa Panasia, Enna, Italy; [k] Medical Oncology Unit, Casa di
+Cura Torina, Palermo, Italy; [l] Humanitas Istituto Clinico Catanese, Catania, Italy; [m] Discipline Chirurgiche,
+Oncologiche e Stomatologiche, Unità operativa di Urologia, Università degli Studi di Palermo, Palermo, Italy;
+n Nuclear Medicine Unit, Department of Biomedical and Dental Sciences and Morpho-Functional Imaging,
+University of Messina, Messina, Italy; [o] UO Radiologia, Villa Santa Teresa, Palermo, Italy
+
+Established Facts
+
+  Surgery and chemotherapy are common approaches for penile metastases (PMs).
+
+  Radiotherapy in PMs is used mainly in palliative setting.
+
+Novel Insights
+
+  Stereotactic body radiotherapy provides good outcomes in terms of symptomatic relief and local
+control.
+
+  A personalized approach should be tailored in a multidisciplinary team to provide the best
+treatment option.
+
+[karger@karger.comwww.karger.com/ort](mailto:karger@karger.com) © 2024 S. Karger AG, Basel Correspondence to:Andrea D’Aviero, andrea.daviero @ materolbia.com
+
+Keywords
+Penile metastasis · Radiation therapy · Stereotactic body
+radiotherapy
+
+Abstract
+
+Introduction: Penile metastases (PMs) are a rare clinical
+presentation mainly related to advanced stages of disease.
+Considering the low incidence, an optimal treatment approach has not yet been defined; surgery, chemotherapy,
+and radiotherapy (RT) are different options used in the vast
+majority with palliative intent. The advances in modern RT
+can represent an innovative tool in PM management and a
+curative option. This paper aimed to report the case of a PM
+patient treated with stereotactic body radiotherapy (SBRT)
+and perform a systematic literature review of current evidence on the RT approach to PM. Case Presentation: We
+reported the case of an 80-year-old patient with PM from
+primary bladder cancer. Following the surgical approach for
+the primary tumor, evidence of PM was shown, and the
+patient was admitted to SBRT treatment on PM after an
+adjuvant RT course on the pelvis. A 25 Gy in 5-fraction SBRT
+treatment was performed, and a complete clinical response
+was shown at the first follow-up. A PubMed/MEDLINE and
+Embase systematic review was carried out. The search
+strategy terms were [(“penile metastasis”/exp OR “penile
+metastasis” OR (penile AND (“metastasis”/exp OR metastasis))) AND (“radiotherapy”/exp OR radiotherapy)] and only
+original articles up to October 24, 2023 were considered.
+Conclusion: A total of 174 studies were obtained using the
+previously mentioned search strategy, and the analysis was
+performed on 15 papers obtained following the complete
+selection process. All reported evidence was focused on the
+palliative approach of PM, showing good results in terms of
+symptom control. The potential role of modern RT in the
+management of PM has yet to be defined. The reported case
+showed the feasibility and the clinical impact of SBRT in PM
+
+treatment. © 2024 S. Karger AG, Basel
+
+Introduction
+
+In the landscape of male genitourinary cancer sites,
+one of the most enigmatic and rarely discussed challenges
+is the occurrence of penile metastasis (PM). While primary tumors and regional lymph nodes have a higher
+incidence, the occurrence of male genitalia metastasis is
+infrequent [1, 2].
+PM clinical presentation is mainly related to advanced
+stages of disease. The main symptoms referable to PM are
+priapism associated with pain, obstructive urinary outflow, and, less frequently, superficial skin involvement.
+The treatment of such a condition is mainly related to
+
+
+symptom palliation [3]. The treatment of this particularly
+complex and intricate facet of male cancer has been
+investigated with surgery and a systemic therapy approach; the potential role of radiotherapy (RT) has also
+been investigated [4].
+Technological advancements in RT could offer a new
+tool in this pathway, providing a tailored solution to
+improve symptoms, enhance the quality of life, and extend survival in a curative scenario. Indeed, the advent of
+stereotactic body radiotherapy (SBRT), with the evidence
+of feasibility and good clinical outcomes in different
+subsites, represents an alternative and accurate treatment
+option [5, 6]. This review aimed to provide an update on
+the available evidence on the role of RT in PM primary
+treatment after the description of a case of PM after
+primary surgery for a urothelial malignancy undergoing
+SBRT in our institution.
+
+Case Report
+
+In November 2021, an 80-year-old Caucasian male with fair
+general clinical conditions and a medical history of arterial hypertension came to our attention. Three months earlier, he had
+undergone radical cysto-prostatectomy with bilateral ureterocutaneostomy packing and bilateral obturator iliac lymphadenectomy for bladder cancer. At histopathology, a high-grade
+nonpapillary urothelial carcinoma infiltrating prostate parenchyma by contiguity, with lymphatic invasion and perineural
+invasion, was shown with pT4a pN2(12/13) stage. The patient
+underwent radiological examinations with neck, chest, and abdomen contrast-enhanced computed tomography that showed
+several adenopathies at the aortoiliac bifurcation with a maximum
+size of 2 cm, while the bone scan resulted negative for secondaries.
+The referring medical oncologist did not indicate chemotherapy due to heart failure and the patient’s advanced age.
+Following a multidisciplinary discussion, the patient was addressed to our department. After clinical examination, his performance status was grade 1 on the Eastern Cooperative Oncology
+Group (ECOG) scale. The patient reported hematuria and
+stranguria as the main symptoms, and no palpable lesions were
+found at physical examination. Considering the pathological
+staging, adjuvant RT was prescribed, and the patient was scheduled
+for a simulation with 18-fluorodeoxyglucose positron emission
+tomography (PET). Indeed, the [ [18] F]FDG PET/CT showed
+pathological uptakes in the abdominal-pelvic lymph node region,
+namely in bilateral common iliac, left para-aortic, and interaortocaval sites, including an area of focal tracer accumulation at
+the root of the penile shaft, suspected for metastases. The final
+decision was to carry out adjuvant external beam RT on the tumoral bed, pelvic and lumbar-aortic lymph nodes, and FDGpositive lymphadenopathies and to perform a magnetic resonance imaging (MRI) of the abdomen to clarify the suspected
+secondary penile lesion.
+The patient’s treatment setup included a supine position,
+with arms crossed on his chest and legs immobilized with a
+device that provides suitable positioning for irradiation of the
+pelvic region, Combifix™ (CIVCO, Iowa), and the slices were
+acquired at a thickness of 2.5 mm. The patient was treated on
+Linac Synergy [®] (Elekta, Stockholm, Sweden). This Linac has an
+
+
+566 Oncol Res Treat 2024;47:565–571 Piras et al.
+[DOI: 10.1159/000539275](https://doi.org/10.1159/000539275)
+
+80-leaf multilamellar collimator and an integrated kilovolt
+cone-beam computed tomography system.
+The treatment plan was calculated using the Pinnacle3
+vers.16.02 from Philips, and the technique used to realize the
+treatment plan was volumetric-modulated arc therapy with simultaneous integrated boost. The prescribed dose was 50 Gy on
+tumoral bed and pelvic and lumbar-aortic lymph nodes in 25
+sessions of 2 Gy plus 55 Gy on FDG-positive lymphadenopathies
+in 25 sessions of 2.2 Gy; the sessions were 5 per week. A coverage of
+99% on CTV 50Gy, 98% on PTV 50Gy, 98% on CTV 55Gy, and 95% on
+PTV 55Gy was obtained from 95% of the prescribed dose. During
+the treatment, the patient underwent a weekly examination,
+showing grade 1 nausea according to the Common Terminology
+Criteria for Adverse Events (CTCAE), for which we prescribed
+him ginger supplements.
+Meanwhile, the requested MRI confirmed the presence of a
+secondary lesion (maximum diameter of 2.1 cm) at the root of the
+right corpus cavernosum of the penis. Following a department
+discussion, an indication of SBRT was given, and following the end
+of phase 1 RT treatment, the patient underwent a new CT simulation. The setup included a supine position, with arms crossed
+on his head, and immobilization with a thermoplastic mask for the
+pelvic area, Pelvicast™ (Orfit, Belgium), and the slices were acquired at a thickness of 2.5 mm. In order to perform the treatment
+plan, a fusion between the images of the CT simulation and the
+images of the MRI was performed. The gross tumor volume was
+delineated according to the MRI scan, and a 0.3-cm isotropic
+margin was applied to obtain PTV.
+The prescribed dose was 25 Gy in 5 sessions of 5 Gy, and we
+implemented a planned sum with the phase 1 plan. A coverage of
+99% on GTV 25Gy and 98% on PTV 25Gy was obtained from 98% of
+the prescribed dose. At the beginning of the treatment, we instructed the patient with hygienic-sanitary indications (white and
+cotton linen, mild detergents). Both treatments were completed
+without interruptions, and the patient did not experience any
+discomfort.
+At interim [ [18] F]FDG PET/CT 45 days, a complete metabolic
+response was shown with no evidence of residual symptoms such
+as hematuria and back pain. Furthermore, another [ [18] F]FDG PET/
+CT was performed 12 weeks after the end of treatment with no
+evidence of pelvic recurrence but a suspected uptake in the
+sternum body and right latero-cervical nodal district. A few weeks
+later, the patient was admitted to the ward for bowel occlusion
+leading to exitus.
+
+Systematic Literature Review
+
+A database search using definite keywords was carried
+out following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines [7, 8]. A systematic Embase and PubMed/
+MEDLINE search was undergone using the following
+search strategy: [(“penile metastasis”/exp OR “penile
+metastasis” OR (penile AND (“metastasis”/exp OR metastasis))) AND (“radiotherapy”/exp OR radiotherapy)].
+Only original articles describing RT in PM management were selected; papers published until October 24,
+2023 were included in this analysis. The exclusion criteria
+were (1) articles not in English, (2) not original articles
+(e.g., editorials, letters, congress communications or
+posters, guidelines, book chapters), (3) papers not re
+
+ferred to PM (e.g., primary penile cancer, nodal metastasis), (4) papers not referred to RT (e.g., surgery,
+chemotherapy).
+All the papers were selected and analyzed by a board of
+3 radiation oncologists, followed by an independent
+validation of 12 experts in urogenital cancer management
+(2 radiation oncologists, three medical oncologists, one
+radiologist, five urologists, and one nuclear medicine
+physician). Three independent expert radiation oncologists analyzed the search strategies and the whole process.
+
+Results
+
+Overall, 174 studies were obtained using the mentioned search strategy; one record was removed after
+screening for duplicates. According to selection criterion
+1, a total of 34 papers were excluded; following title and
+abstract analysis, ten articles were excluded according to
+selection criterion 2.
+After full-text analysis, 54 papers were discarded according to selection criterion 3 as not referring to PMs.
+Also, 60 articles were excluded as not referring to RT
+management of PM. After completing the selection
+process, 15 papers were considered eligible for results
+analysis. Figure 1 reports the flowchart of the systematic
+literature search process.
+The RT intent reported in the selected papers was in
+the vast majority of symptom palliation, with 14 papers
+(94%) and only one report (6%) considering adjuvant RT
+with 30 Gy [9]. The treatment was performed 1 month
+after surgery to prevent exophytic recurrence.
+Considering the location of the primary tumor, 40% of
+the experiences (6 articles) referred to metastasis from
+rectal cancer. A case of RT treatment for metastatic penile
+localization was described by Appu et al. [10] with 25 Gy
+in a 10-fraction course delivered to recurrent rectal cancer
+and penile metastatic localizations.
+A similar dose was administered in the case by Park
+et al., with 26 Gy delivered in 13 fractions [11]. Glans
+metastasis treatment was described in a case series by
+Nunes et al. [12], delivering 30 Gy in a 10-fraction RT
+course with concomitant capecitabine. No side effects were
+reported, and the patient showed a complete response at 1year follow-up. A 50.4 Gy in 28-fraction RT course with
+concurrent oral capecitabine was administered to an anorectum adenocarcinoma with penile localization in the
+experience by James et al. [13]. No response to the
+treatment was shown at clinical evaluation, and the patient
+needed analgesic therapy to control the progression of
+symptoms. In the setting of local control, Weng et al. [14]
+reported a case of PM from rectal cancer admitted to the
+RT course of 60 Gy in 30 fractions early interrupted due to
+grade 3 dermatitis (total dose = 44 Gy) reaching, however,
+an overall good clinical response.
+
+
+The Role of SBRT in Penile Metastasis Oncol Res Treat 2024;47:565–571 567
+[DOI: 10.1159/000539275](https://doi.org/10.1159/000539275)
+
+Fig. 1. PRISMA 2020 flowchart diagram for the systematic literature search process.
+
+
+Primary genitourinary location was shown in 5 studies
+(34%), with bladder and prostate cancer spreading to the
+penis. Sönmez et al. [15] delivered a 56-Gy RT course to
+PMs with a partial priapism regression.
+A penile glans metastases RT course was reported in the
+experience by Cante et al. [16]. Palliative RT was delivered
+with a total dose of 35 Gy in 14 fractions; the patient
+showed a complete clinical and symptomatic response.
+In a case series including 3 patients, Spinapolice et al.
+
+[17] reported complete pain relief in 1 patient treated
+with a 30-Gy palliative RT treatment. In the experience by
+Galot et al. [18], a 32.5 Gy in 13-fraction treatment was
+delivered to cover the whole penis. Complete pain relief
+
+–
+was reported 4 5 days after the onset of RT with no
+evidence of recurrence at 6 months follow-up. Detti et al.
+
+[19] reported 2 cases of penile RT for secondary localization from bladder and prostate cancer. The patients
+underwent a 42-Gy treatment course in 14 fractions with
+a symptomatic complete response and only grade 1
+
+
+scrotal edema, according to CTCAE v. 5.0 [20]. According to other primary locations, one single experience
+(8.7%) was reported for esophageal, pancreatic, and lung
+locations, as well as for melanoma.
+Sagar et al. [21] reported the case of PM from primary
+melanoma; the patient presented with priapism and pain.
+An 18-Gy total dose treatment in 3 fractions weekly was
+administered with symptoms remission and low-grade brisk
+erythema. A rare PM from primary lung cancer was described by Fujimoto et al. [22], with a 70% remission of pain
+symptoms achieved following 60-Gy RT treatment.
+Tello et al. [23] described an unusual localization from
+pancreatic cancer. A 30 Gy in 10-fraction RT course was
+
+–
+delivered with a reported 70 80% remission of pain.
+Finally, in 2019, Song et al. [24] described a case of an
+unusual PM from squamous esophageal carcinoma. The
+patient experienced pain relief, but an early progression was
+shown after 4 weeks following treatment completion. Table 1
+reports the main study characteristics of the selected series.
+
+
+568 Oncol Res Treat 2024;47:565–571 Piras et al.
+[DOI: 10.1159/000539275](https://doi.org/10.1159/000539275)
+
+Table 1. Main characteristics of selected studies
+
+Patients, n Primary site Intent Symptoms Total dose Fractions, n
+
+McGuinness et al. [9] 1 Rectum Adjuvant None 30 Gy 10
+
+Appu et al. [10] 1 Rectum Palliative Pain 25 Gy 10
+
+Park et al. [11] 1 Rectum Palliative Pain 26 Gy 13
+Priapism
+
+Nunes et al. [12] 1 Rectum Palliative Bleeding 30 Gy 10
+
+James et al. [13] 1 Rectum Curative None 50.4 Gy 28
+
+Weng et al. [14] 1 Rectum Palliative/local control Urinary dysfunction 44 Gy 22
+Priapism
+Pain
+
+So€nmez et al. [15] 1 Bladder Palliative Priapism 56 Gy NK
+
+Cante et al. [16] 1 Prostate Palliative Pain 35 Gy 14
+
+Spinapolice et al. [17] 1 Bladder Palliative Pain 30 Gy 10
+
+Galot et al. [18] 1 Bladder Palliative Pain Priapism 32.5 Gy 13
+
+Detti et al. [19] 2 Bladder Prostate Palliative Urinary dysfunction 42 Gy 14
+Erectile dysfunction
+
+Sagar et al. [21] 1 Melanoma Palliative Priapism Pain 18 Gy 3
+
+Fujimoto et al. [22] 1 Lung Palliative Pain 60 Gy 30
+
+Tello et al. [23] 1 Pancreatic Palliative Pain 30 Gy 10
+
+Song et al. [24] 1 Esophagus Palliative Pain 60 Gy 30
+
+
+Discussion
+
+PMs represent a rare disease appearance whose
+treatment has mostly been relegated to symptom management. The paucity of prospective evidence or large
+cohorts did not allow the identification of an optimal
+therapeutic strategy, or different approaches comparison.
+In this context, the role of RT was mainly analyzed in a
+palliative setting with conventional dosages and fractionations, and most experiences reported treatment
+doses between 25 and 42 Gy with several fractions be
+– –
+tween 10 and 14 [9 12, 16 19, 23].
+Higher total treatment doses have been reported in
+limited experiences. While increasing the total dose up to
+56–60 Gy in conventional fractionation resulted in reasonable symptom control in three experiences [15, 22,
+24], in the case report by James et al. [13] the 50.4-Gy
+course in 28 fractions did not show symptomatic benefit.
+A wide heterogeneity of RT doses administered has been
+reported in the selected papers. A symptomatic relief has
+been reported also with palliative doses (30 Gy in 10
+fractions); the possibility of pursuing also a radical intent
+should lead to higher dose administration considering
+organs at risk constraints.
+In treating metastatic disease, SBRT has proven to be a
+valuable approach in different clinical presentations and
+with different intents, even in combination with systemic
+
+
+–
+therapies [25 27]. SBRT could represent an alternative
+option to surgery also considered the impact of RT
+treatment in terms of organ preservation and hospitalization even if no data of comparison in terms of clinical
+outcomes are reported in the literature. Considering the
+metastatic setting and the necessity to admit patients as
+soon as possible to systemic therapies, SBRT could reduce
+the time interval to chemotherapy. In the frame of a
+personalized approach, the clinical option should be
+evaluated in a multidisciplinary team.
+Our experience represents the first in the literature to
+investigate the application of SBRT in secondary penile
+localizations, showing its feasibility in the absence of
+toxicity. However, the patient’s death for a noncancerrelated cause did not allow for long-term evaluation of the
+curative intent of the treatment and symptomatic management, but the first instrumental evaluation reported a
+complete metabolic response and the disappearance of
+symptoms.
+
+Conclusion
+
+The literature regarding PM treatment is closely related to a palliation context. In the context of modern
+management of oligometastatic disease, SBRT could also
+be a curative or at least a prolonged local control
+
+
+The Role of SBRT in Penile Metastasis Oncol Res Treat 2024;47:565–571 569
+[DOI: 10.1159/000539275](https://doi.org/10.1159/000539275)
+
+approach, as our case demonstrated. Prospective and
+large data are needed to confirm this assumption and
+identify optimal dosing and fractionation.
+
+Statement of Ethics
+
+Ethical approval is not required for this study in accordance
+with local or national guidelines. Written informed consent was
+obtained from the patient for publication of the details of their
+medical case and any accompanying images.
+
+Conflict of Interest Statement
+
+All authors declare no conflicts of interests.
+
+Funding Sources
+
+All authors received no specific funding for this work.
+
+References
+
+
+Author Contributions
+
+Conception and design: Antonio Piras, Antonino Daidone,
+Luca Boldrini, and Tommaso Angileri.
+Data collection: Antonella Sanfratello, Andrea D’Aviero, and
+Antonio Piras.
+Analysis and interpretation of data: Andrea D’Aviero, Antonio
+Piras, Gianfranco Pernice, Massimiliano Spada, and Gianluca
+Gaudio.
+Manuscript writing: Andrea D’Aviero, Antonio Piras, and Luca
+Boldrini.
+Manuscript revision: Mirko Pinelli, Giuseppe Salamone, Vittorio Gebbia, Nino Dispensa, Gabriele Tulone, Riccardo Laudicella, Albert Comelli, Domenico Di Raimondo, and Antonino
+Tuttolomondo.
+The final manuscript approval: all authors.
+
+Data Availability Statement
+
+All data generated or analyzed during this study are included in
+this article. Further inquiries can be directed to the corresponding
+author.
+
+
+15 Sönmez N, Coşkun B, Arisan S, Güney S,
+Dalkılıç A. Early penile metastasis from primary bladder cancer as the first systemic
+manifestation: a case report. Cases J. 2009;2:
+[7281. https://doi.org/10.1186/1757-1626-0002-](https://doi.org/10.1186/1757-1626-0002-0000007281)
+[0000007281](https://doi.org/10.1186/1757-1626-0002-0000007281)
+
+16 Cante D, Franco P, Sciacero P, Girelli G,
+Borca VC, Grosso P, et al. Penile metastasis
+from prostate cancer: a case report n.d.
+17 Spinapolice EG, Fuccio C, Rubino B, Palumbo R, Mensi M, Scopesi L, et al. Penile
+metastases from bladder and prostate cancer
+detected by PET/CT: a report of 3 cases and a
+review of literature. Clin Genitourin Cancer.
+[2014;12(4):e155–9. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.clgc.2014.03.013)
+[clgc.2014.03.013](https://doi.org/10.1016/j.clgc.2014.03.013)
+18 Galot R, Christian N, Bitar M, Seront E.
+Unusual presentation of bladder cancer resurgence and efficacy of radiotherapy. BMJ
+[Case Rep. 2016;2016:bcr2015213538. https://](https://doi.org/10.1136/bcr-2015-213538)
+[doi.org/10.1136/bcr-2015-213538](https://doi.org/10.1136/bcr-2015-213538)
+19 Detti B, Sardaro A, Maragna V, Mariotti
+M, Stocchi G, Roghi M, et al. Radiotherapy is effective in the management of
+rare penile metastases: two case reports.
+Cancer Radiother. 2021;25(5):480–3.
+[https://doi.org/10.1016/j.canrad.2021.03.](https://doi.org/10.1016/j.canrad.2021.03.004)
+[004](https://doi.org/10.1016/j.canrad.2021.03.004)
+20 Common Terminology criteria for Adverse
+Events (CTCAE). 2017. p. 155.
+21 Sagar SM, Retsas S. Metastasis to the penis
+from malignant melanoma: case report and
+review of the literature. Clin Oncol. 1992;
+4(2):130–1. [https://doi.org/10.1016/S0936-](https://doi.org/10.1016/S0936-6555(05)80985-9)
+[6555(05)80985-9](https://doi.org/10.1016/S0936-6555(05)80985-9)
+22 Fujimoto N, Hiraki A, Ueoka H, Harada M.
+Metastasis to the penis in a patient with
+squamous cell carcinoma of the lung with a
+review of reported cases. Lung Cancer. 2001;
+[34(1):149–52. https://doi.org/10.1016/S0169-](https://doi.org/10.1016/S0169-5002(01)00226-4)
+[5002(01)00226-4](https://doi.org/10.1016/S0169-5002(01)00226-4)
+
+
+1 Baldur-Felskov B, Hannibal CG, Munk C,
+Kjaer SK. Increased incidence of penile
+cancer and high-grade penile intraepithelial
+neoplasia in Denmark 1978-2008: a nationwide population-based study. Cancer Causes
+[Control. 2012;23(2):273–80. https://doi.org/](https://doi.org/10.1007/s10552-011-9876-7)
+[10.1007/s10552-011-9876-7](https://doi.org/10.1007/s10552-011-9876-7)
+2 Barnholtz-Sloan JS, Maldonado JL, Pow-sang
+J, Giuliano AR. Incidence trends in primary
+malignant penile cancer. Urol Oncol. 2007;
+[25(5):361–7. https://doi.org/10.1016/j.urolonc.](https://doi.org/10.1016/j.urolonc.2006.08.029)
+[2006.08.029](https://doi.org/10.1016/j.urolonc.2006.08.029)
+3 Kaminskas A, Patasius A, Kincius M, Sapoka
+V, Zilevicius R, Garnelytė A, et al. A case
+report and review of the literature of penile
+metastasis from rectal cancer. Front Surg.
+[2022;9:814832. https://doi.org/10.3389/fsurg.](https://doi.org/10.3389/fsurg.2022.814832)
+[2022.814832](https://doi.org/10.3389/fsurg.2022.814832)
+4 Cocci A, Hakenberg OW, Cai T, Nesi G, Livi L,
+Detti B, et al. Prognosis of men with penile
+metastasis and malignant priapism: a systematic review. Oncotarget. 2018;9(2):2923–30.
+[https://doi.org/10.18632/oncotarget.23366](https://doi.org/10.18632/oncotarget.23366)
+5 Parikh PJ, Lee P, Low DA, Kim J, Mittauer
+KE, Bassetti MF, et al. A multi-institutional
+phase 2 trial of ablative 5-fraction stereotactic magnetic resonance-guided on-table
+adaptive radiation therapy for borderline
+resectable and locally advanced pancreatic
+cancer. Int J Radiat Oncol Biol Phys. 2023;
+117(4):799–808. [https://doi.org/10.1016/j.](https://doi.org/10.1016/j.ijrobp.2023.05.023)
+[ijrobp.2023.05.023](https://doi.org/10.1016/j.ijrobp.2023.05.023)
+6 Wujanto C, Vellayappan B, Siva S, Louie AV,
+Guckenberger M, Slotman BJ, et al. Stereotactic body radiotherapy for oligometastatic
+disease in non-small cell lung cancer. Front
+[Oncol. 2019;9:1219. https://doi.org/10.3389/](https://doi.org/10.3389/fonc.2019.01219)
+[fonc.2019.01219](https://doi.org/10.3389/fonc.2019.01219)
+
+7 Moher D, Shamseer L, Clarke M, Ghersi D,
+Liberati A, Petticrew M, et al. Preferred reporting items for systematic review and meta
+
+analysis protocols (PRISMA-P) 2015 state[ment. Syst Rev. 2015;4:1. https://doi.org/10.](https://doi.org/10.1186/2046-4053-4-1)
+[1186/2046-4053-4-1](https://doi.org/10.1186/2046-4053-4-1)
+
+8 Page MJ, McKenzie JE, Bossuyt PM, Boutron
+I, Hoffmann TC, Mulrow CD, et al. The
+PRISMA 2020 statement: an updated
+guideline for reporting systematic reviews.
+[BMJ. 2021;372:n71. https://doi.org/10.1136/](https://doi.org/10.1136/bmj.n71)
+[bmj.n71](https://doi.org/10.1136/bmj.n71)
+9 McGuinness LA, Floyd MS, Lucky M, Parr
+NJ. Penile metastases treated with partial
+glansectomy and adjuvant radiotherapy
+5 years after an initial diagnosis of rectal
+cancer. BMJ Case Rep. 2013;2013:
+[bcr2013200829. https://doi.org/10.1136/bcr-](https://doi.org/10.1136/bcr-2013-200829)
+[2013-200829](https://doi.org/10.1136/bcr-2013-200829)
+10 Appu S, Lawrentschuk N, Russell JM, Bright
+NF. Metachronous metastasis to the penis
+from carcinoma of the rectum. Int J Urol.
+[2006;13(5):659–61. https://doi.org/10.1111/j.](https://doi.org/10.1111/j.1442-2042.2006.01379.x)
+[1442-2042.2006.01379.x](https://doi.org/10.1111/j.1442-2042.2006.01379.x)
+11 Park JC, Lee WH, Kang MK, Park SY.
+Priapism secondary to penile metastasis of
+rectal cancer. WJG. 2009;15(33):4209–11.
+[https://doi.org/10.3748/wjg.15.4209](https://doi.org/10.3748/wjg.15.4209)
+12 Nunes B, Matias M, Alves A, Jorge M. Metastasis to the glans penis: an unusual site of
+rectal cancer recurrence. Acta Med Port.
+2015;28(4):525–7. [https://doi.org/10.20344/](https://doi.org/10.20344/amp.5775)
+[amp.5775](https://doi.org/10.20344/amp.5775)
+13 James M, Amaranathan A, Nelamangala
+Ramakrishnaiah VP, Toi PC. Rectal adenocarcinoma infiltrating the bulbar urethra and
+metastasising to the penis. BMJ Case Rep.
+2016;2016:bcr2015214193. [https://doi.org/](https://doi.org/10.1136/bcr-2015-214193)
+[10.1136/bcr-2015-214193](https://doi.org/10.1136/bcr-2015-214193)
+14 Weng Y-Y, Yang S-F, Huang M-Y. Radiotherapy to the rare penile metastases of rectal
+adenocarcinoma: a case report. Ther Radiol
+[Oncol. 2023;7:12. https://doi.org/10.21037/](https://doi.org/10.21037/tro-22-26)
+[tro-22-26](https://doi.org/10.21037/tro-22-26)
+
+
+570 Oncol Res Treat 2024;47:565–571 Piras et al.
+[DOI: 10.1159/000539275](https://doi.org/10.1159/000539275)
+
+23 Tello TL, Zeidan YH, Bush K, Schwartz E,
+Kunz P, Chang DT. Penile metastases originating from a pancreatic primary tumor: a
+case report. J Radiat Oncol. 2013;2(1):107–12.
+[https://doi.org/10.1007/s13566-012-0076-1](https://doi.org/10.1007/s13566-012-0076-1)
+24 Song L, Wang Y, Weng G. Metastasis in
+penile corpus cavernosum from esophageal
+squamous carcinoma after curative resection:
+a case report. BMC Cancer. 2019;19(1):162.
+[https://doi.org/10.1186/s12885-019-5356-3](https://doi.org/10.1186/s12885-019-5356-3)
+25 Franzese C, Marvaso G, Francolini G,
+Borghetti P, Trodella LE, Sepulcri M, et al.
+
+
+The role of stereotactic body radiation
+therapy and its integration with systemic
+therapies in metastatic kidney cancer: a
+multicenter study on behalf of the AIRO
+(Italian Association of Radiotherapy and
+Clinical Oncology) genitourinary study
+group. Clin Exp Metastasis. 2021;38(6):
+527–37. [https://doi.org/10.1007/s10585-](https://doi.org/10.1007/s10585-021-10131-w)
+[021-10131-w](https://doi.org/10.1007/s10585-021-10131-w)
+26 Nguyen TK, Sahgal A, Dagan R, Eppinga
+W, Guckenberger M, Kim JH, et al. Stereotactic body radiation therapy for non
+
+spine bone metastases: international
+practice patterns to guide treatment planning. Pract Radiat Oncol. 2020;10(6):
+e452–60. [https://doi.org/10.1016/j.prro.](https://doi.org/10.1016/j.prro.2020.02.011)
+[2020.02.011](https://doi.org/10.1016/j.prro.2020.02.011)
+27 Rodríguez Plá M, Dualde Beltrán D,
+Ferrer Albiach E. Immune checkpoints
+inhibitors and SRS/SBRT Synergy in
+metastatic non-small-cell lung cancer and
+melanoma: a systematic review. Int J Mol
+[Sci. 2021;22(21):11621. https://doi.org/](https://doi.org/10.3390/ijms222111621)
+[10.3390/ijms222111621](https://doi.org/10.3390/ijms222111621)
+
+
+The Role of SBRT in Penile Metastasis Oncol Res Treat 2024;47:565–571 571
+[DOI: 10.1159/000539275](https://doi.org/10.1159/000539275)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,852 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    *Open Forum Infectious Diseases*
+
+
+# Global Estimates of the HPV-related, Noncervical Cancer Burden in People With HIV and AIDS and the Potential Effect of Improved HPV Vaccine Coverage in This Population: A Systematic Review, Meta-analysis and Modeling Study
+
+**Namwa Wongkalasin,** **[1][,]** **Victoria Pilkington,** **[1]** **Jacob Levi,** **[1][,]** **Toby Pepperrell,** **[1][,][2]** **Anna Garratt,** **[3]** **Cassandra Fairhead,** **[4][,]** **and Andrew Hill** **[5][,]**
+
+1 School of Public Health, Imperial College London, London, UK, 2 Biological and Environmental Sciences Department, University of Stirling, UK, 3 Department of Medicine, Cardiff and Vale University
+Health Board, Cardiff, UK, [4] Acute Medicine, Royal Free Hospital, London, UK, and [5] Department of Pharmacology and Therapeutics, University of Liverpool, Liverpool, UK
+
+***Background.*** While HIV/HPV coinfection significantly increases cervical carcinogenesis, the relationship with HPV-related
+noncervical cancers is less understood. HPV vaccination is key in prevention, but global coverage is low (21%). We aimed to
+quantify the risk of noncervical cancers among people living with HIV and AIDs (PWHA), estimate this cancer burden
+globally, and the impact of improved HPV vaccine coverage.
+
+***Methods.*** We conducted a systematic review and meta-analysis of 3 databases to identify studies comparing HPV-related
+noncervical cancer risk in PWHA and HIV negative populations, generating a risk ratio for each cancer. This was combined with
+country-specific HIV prevalence and the incidence of cancer cases to calculate the burden. Vaccine impact was estimated using
+vaccine coverage data and point efficacy estimates.
+
+***Results.*** 25 studies were included analyzing 1 560 923 million PWHA. The risk of developing each HPV-related noncervical
+cancer was significantly increased in PWHA. The pooled risk was 30.32 (CI 20.54–44.75) for anal, 15.78 (CI 4.62–53.92) for
+vaginal, 6.99 (CI 3.37–14.51) for vulvar, 6.37 (CI 3.98–10.21) for penile, and 2.74 (CI 2.10–3.58) for oropharyngeal cancers.
+Globally, 30% of cases in Africa were HIV-attributable, compared with 5% worldwide. If HPV vaccination coverage increased to
+90%, we could prevent 1987 more cancer cases, assuming 50% vaccine efficacy.
+
+***Conclusions.*** This meta-analysis confirms that PWHA are more susceptible to adverse outcomes beyond cervical cancer and
+must be prioritized in HPV prevention and vaccine efficacy research. In countries with high HIV/HPV coinfection prevalence,
+integrating HPV vaccination with HIV services could minimize disparities in the cancer burden worldwide.
+
+**Keywords.** epidemiology; HIV; human papilloma virus; non-cervical; vaccines.
+
+
+In 2022, there were over 920 000 cancer cases related to human
+
+papillomavirus (HPV) worldwide [1]. Of these, 77% occurred in
+low- and middle-income countries (LMICs) where 80% of the
+
+world’s population reside, revealing a disparity in the global cancer
+distribution [1]. As the incidence of HPV-related, noncervical can-­
+cers have risen by around 22% since 2018, renewed efforts are
+needed to address this gap and direct resources appropriately [2].
+
+Received 30 December 2024; accepted 05 September 2025; published online 16 September
+
+2025
+
+Correspondence: Namwa Wongkalasin, BSc, School of Public Health, Imperial College
+[London, St Mary’s campus, Norfolk Place, London W2 1PG, UK (namwaw@outlook.com).](mailto:namwaw@outlook.com)
+
+**Open Forum Infectious Diseases** **[® ]**
+
+© The Author(s) 2025. Published by Oxford University Press on behalf of Infectious Diseases
+Society of America. This is an Open Access article distributed under the terms of the
+[Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which](https://creativecommons.org/licenses/by/4.0/)
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original
+work is properly cited.
+[https://doi.org/10.1093/ofid/ofaf577](https://doi.org/10.1093/ofid/ofaf577)
+
+
+Although most HPV infections are transient, persistent vi-­
+ruses can result in long-term sequelae [2]. Evidence shows
+that almost all cervical cancer cases (99.7%) are caused by highrisk HPV infection [3]. In 2020, the World Health Organization
+(WHO) announced the “Global Strategy to accelerate elimina-­
+tion of cervical cancer,” placing HPV high on the research agen-­
+da [3]. However, the role of HPV in noncervical malignancies is
+hugely overlooked in comparison [2, 4]. HPV is implicated in
+anal (90%), oropharyngeal (70%), vaginal (75%), vulvar (69%),
+and penile (63%) cancers [5, 6].
+
+While these cancers are less common than cervical, their in-­
+cidence and mortality are rising, causing over 114 000 deaths in
+2022 [1]. Oncogenesis following HPV infection is exacerbated
+by other exposures including HIV [2]. HIV-induced immuno-­
+suppression reduces an individual’s ability to combat the HPV
+virus, increasing the likelihood of cancer progression [7]. One
+analysis estimated that 63% of people with cervical cancer in
+Southern Africa were living with HIV [8]. This high coinfection
+
+HPV-Related, Noncervical Cancers in PWHA • **OFID**       - 1
+
+rate may extend to noncervical sites of HPV infection, but there
+is a paucity of research in this area. Further, evidence indicates
+a synergistic relationship between the viruses; meaning that
+public health measures tackling one infection could bring ben-­
+efits for the other [9].
+
+The WHO recommends 3 measures: vaccinate 90% of girls
+under 15, screen 70% of women for cervical cancer by age 45,
+and treat 90% of precancerous lesions [3]. However, screening
+programs for noncervical, HPV-related cancers have not yet
+been established and for many LMICs, implementing screening
+and treatment may not be feasible due to low resource health
+systems [10]. Since noncervical subtypes comprised a third
+(264 478) of the HPV-related cancer burden (925 522) in
+
+2022, vaccines designed primarily for cervical cancer should
+be utilized beyond this intention [1, 11].
+
+Currently, the WHO prioritizes vaccinating people living
+with HIV and AIDS (PWHA) in immunization programs
+due to the known increased risk of HPV acquisition and cancer
+development [3]. Although, in areas that lack sufficient vaccine
+supplies, PWHA are often overlooked [8]. Regarding the epide-­
+miological burden, literature has estimated this for cervical and
+anal cancer, although the latter used data from the United
+States limiting transferability to LMIC contexts [8, 12]. A
+more comprehensive view of the global number of noncervical
+HPV cancers related to HIV and AIDS could guide the mobi-­
+lization of resources and raise awareness for this under re-­
+searched population. Assessing the effect of vaccination on
+this burden may inform prevention initiatives in LMICs which
+experience high rates of HIV; this could minimize the gross in-­
+equity in the worldwide HPV cancer burden.
+
+Thus, we aimed to quantify the global number of
+HPV-related, noncervical cancers attributable to HIV and
+
+AIDS, and estimate the effect of upscaling vaccination access
+through three objectives:
+
+1. Performing a systematic review and meta-analysis to generate
+a pooled risk for developing noncervical, HPV-related cancers
+among PWHA compared with HIV negative populations.
+2. Combining this risk with the Joint United Nations Program
+on HIV and AIDS (UNAIDS) HIV prevalence and the
+International Agency for Research on cancer’s (IARC) 2022
+dataset to calculate the estimated number of noncervical,
+
+HPV-related cancer cases among PWHA worldwide [1, 13].
+3. Applying vaccine efficacy and WHO coverage estimates to
+model the impact of improved vaccination on preventing
+noncervical, HPV cancers in PWHA [14].
+
+**METHODS**
+
+This review follows the Preferred Reporting Items for Systematic
+Reviews and Meta-analyses for Protocols (PRISMA) guidelines [15].
+
+2 • **OFID** - Wongkalasin et al
+
+
+We conducted a systematic search of MEDLINE, EMBASE,
+and Global Health databases to identify studies observing
+the association between HIV or AIDS and HPV-related, non-­
+cervical cancers. A combination of Medical Subject Headings
+or key words related to “HIV,” HPV,” each “noncervical can-­
+cer,” and epidemiological search terms were used including
+“incidence,” “prevalence,” and “incidence rate.” No date or lan-­
+guage restrictions were applied. Additional hand searches of
+gray literature including references of suitable articles were fur-­
+ther screened to improve the comprehensiveness of the search.
+The full details of the search strategy can be found in the
+[Supplementary Appendix Table 1.](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+
+We included published, observational studies reporting the
+risk of developing HPV-related, noncervical cancers in
+PWHA, compared with HIV negative controls or the general
+reference population. We considered the following noncervical
+cancers to be HPV-related based on the existing literature: anal,
+oropharyngeal, penile, vulvar, and vaginal cancers [5]. Papers
+were stratified according to the site-specific cancer outcome
+they reported. The predefined selection criteria are outlined
+[in Supplementary Appendix Table 2.](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+
+All identified papers were uploaded onto COVIDENCE and
+duplicates removed. The remaining abstracts were screened
+against the predefined inclusion criteria, followed by full text
+screening in duplicate. We extracted key data on the observed
+number of incident cases for each specific cancer site, the total
+number of PWHA, and the overall effect measure. Study-level
+characteristics including study type, setting, publication year,
+country, and sample size were recorded along with population
+demographics. For studies reporting incidence from the same
+registry or cohort, only 1 was included to avoid overlapping
+populations and double inclusion; those with the longest follow
+up time or largest cohort were chosen. For registry studies re-­
+porting segregated time periods, we included data for only the
+population or period studied.
+
+We used the Newcastle–Ottawa scale to assess the methodo-­
+logical quality of included studies [16]. Studies were considered
+medium risk of bias if they scored <7 stars, and high risk if rat-­
+
+ed 5 stars or lower.
+
+**Data Sources**
+
+For the modeling, 3 data sources were used. HIV prevalence for
+adults aged ≥ 15 years in 2022 was collected from UNAIDS
+
+[13]. Cancer incidence in 2022 was obtained from the IARC da-­
+tabase [1, 11]. Country-specific, regional, and global estimates
+per 100 000 people were extracted. Cancers included oropha-­
+ryngeal, anal, penile, vaginal and vulvar as defined by the
+International Classification of Diseases 10th revision codes
+
+[17]. On combining the data sources, estimates for 169 coun-­
+tries were available. Country-specific estimates for vaccine cov-­
+erage in 2022 were collected from WHO’s database [14].
+
+**Statistical Analysis**
+
+An inverse variance meta-analysis was conducted to generate a
+pooled risk estimate for PWHA compared with HIV negative
+populations for each cancer. We regarded risk ratio (RR), inci-­
+dence rate ratio, and standardized incidence ratio (SIR) esti-­
+mates as equivalent measures, given that each cancer is
+considered rare within the general population [18]. The metaanalysis was carried out with a random effects model, due to the
+high potential for heterogeneity. Interstudy heterogeneity was
+quantified through an *I* [2 ] parameter and considered substantial
+if over 50%, according to Cochrane guidelines [19]. Subgroup
+analyses of study types were conducted to explore sources of
+heterogeneity. Further sensitivity analyses and funnel plots
+were conducted to assess publication bias.
+
+We combined our pooled risk estimate for PWHA with
+country specific UNAIDS HIV prevalence, to calculate the
+population-attributable fraction (PAF, %) to HIV for each
+country using Levin’s formula [18]. This estimates the fraction
+of cases in a population that is “attributable” to an exposure
+(HIV), through a causal interpretation of the number of cases
+that would not have occurred if no exposure was present
+
+[18]. We then multiplied the number of incident cases from
+the IARC database by the PAF to generate the incidence for
+each cancer attributable to HIV and AIDS in 2022 [1]. This
+analysis was conducted at the country-specific level and com-­
+bined into regional and global estimates.
+
+The modeling combined country-specific vaccine coverage
+data with vaccine efficacy estimates to generate the number of
+cancer cases in PWHA that could be averted by increasing vac-­
+[cine coverage (Supplementary Appendix Figure 1) [14]. Based](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+on the inconclusive data on vaccine efficacy in PWHA, esti-­
+mates of 50%, 70%, and 90% were chosen to represent the po-­
+tential spectrum [20, 21]. A more in-depth description of
+[methods and modeling assumptions are in the Supplementary](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+[Appendix.](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+
+All statistical analysis was performed using R software, spe-­
+cifically the “meta” package (version 4.3.1).
+
+**RESULTS**
+
+Twenty-five publications were included following the screening
+process outlined in [Figure 1 (Supplementary references in](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+[Appendix). Altogether, these papers studied 1 560 923 PWHA](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+and reported 3227 cases of HPV-related noncervical cancer,
+with study periods ranging from 1978 to 2017. A description
+of each study’s characteristics is in [Supplementary Appendix](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+[Table 3, and summary of the results can be found in](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+[Supplementary Appendix Table 4. Most studies (94%) were](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+conducted in HICs, mainly North America and Europe, except
+2 studies from Brazil ( *n* = 1) and China ( *n* = 1). The mean an-­
+tiretroviral therapy (ART) coverage was 58.01% and mean age
+of entry was 40.67 years. Around 56% of the studies were
+
+
+**Figure 1.** PRISMA diagram depicting the study selection process.
+
+registry linkage ( *n* = 14), followed by cohort studies ( *n* = 11).
+Six studies were deemed moderate risk of bias and 5 high,
+
+with a median score of 6.12 out of 9 stars on the Newcastle
+
+Ottawa scale. A full assessment of methodological quality is
+[in Supplementary Appendix Table 5.](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+
+**Risk of Noncervical Cancers in People With HIV and AIDS**
+Overall, 48 risk estimates comparing PWHA to HIV negative
+populations were extracted from the 35 studies. This included
+17 studies for anal, 14 for oropharyngeal, 4 for vulvar, 4 for vag-­
+inal, and 11 for penile cancers respectively.
+
+Meta-analysis of risk estimates generated an overall pooled
+RR of developing each HPV-related noncervical cancer in
+PWHA compared with HIV negative populations (Figure 2).
+[Full forests plots for each cancer are found in Supplementary](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+[Appendix Figure 2.](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+
+The highest RR was seen in anal cancer (RR 30.32, 95% CI
+20.54–44.75) whereas the lowest was oropharyngeal (RR 2.74,
+95% CI 2.10–3.58). The remaining anogenital cancers had ele-­
+vated rates, although fewer studies reported these outcomes:
+vulvar (RR 6.99, 95% CI 3.37–14.51), vaginal (RR 15.78, 95%
+CI 4.62–53.92), and penile (RR 6.37, 95% CI 3.98–10.21).
+Overall, all 5 cancers occurred at increased rates compared
+
+HPV-Related, Noncervical Cancers in PWHA • **OFID**       - 3
+
+**Figure 2.** Summary forest plot displaying overall summary risk estimates for each HPV-related noncervical cancer. Risk rations are comparing the risk of developing cancer
+in PWHA compared with the HIV negative populations.
+
+
+with HIV negative populations, though the risk varied depend-­
+ing on cancer subtype.
+
+Interstudy heterogeneity was high across all analyses ranging
+from *I* [2 ] = 91.6% ( *P* < .0001) for anal cancer to *I* [2 ] = 73.8%
+
+( *P* < .0001) for oropharyngeal cancer. Subgroup analysis by
+study design, for example registry linkage, demonstrated a re-­
+duction in heterogeneity, and following a χ [2 ] analysis subgroup
+differences were not statistically significant. Two sensitivity
+analyses were conducted by removing studies deemed high
+risk of bias and published before 2014, respectively, which dem-­
+[onstrated no significant changes (Supplementary Appendix](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+[Table 6). The funnel plots for anal and oropharyngeal cancers](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+demonstrated asymmetry with bias toward studies reporting
+greater positive associations between HIV and HPV-related
+[cancer (Supplementary Appendix Figure 3).](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+
+**Global Burden of Noncervical, HPV-related Cancers Attributable to HIV**
+
+**and AIDS**
+
+In summary, the number of noncervical, HPV-related cancers
+attributable to HIV and AIDS exhibited differences depending
+on cancer and geographical region (Figure 3). For anal cancer,
+an estimated 35 719 cases occurred worldwide in 2022; around
+
+13.8% of these were attributable to HIV (Figure 4). This
+HIV-attributable fraction ranged from 3.7% in the Eastern
+Mediterranean, to 12% in the Americas, to more than 44.2%
+
+in the African region. These geographical variations were ech-­
+oed for all cancers subtypes in absolute terms.
+
+Of the 50 countries with the highest-ranking PAFs to HIV,
+[37 were in Africa (Supplementary Appendix Figure 4). The re-­](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+mainder were divided between the Americas ( *n* = 10), the
+Western Pacific region ( *n* = 1), Southeast Asia ( *n* = 1), and
+Europe ( *n* = 1). The 5 countries with the highest PAFs, in order,
+were Eswatini, Lesotho, Botswana, South Africa, and Namibia.
+
+4 • **OFID** - Wongkalasin et al
+
+
+For anal cancer, between 78.7% and 88.9% of diagnosed cases
+within these countries were HIV and AIDS attributable. The re-­
+maining cancers exhibited the same geographical distribution,
+although the PAFs were lower for these cancers. In Eswatini,
+for example, 80.8% of vaginal, 62.1% of vulvar, 59.3% of penile,
+and 32.1% of oropharyngeal cancers diagnosed in 2022 were at-­
+
+tributable to HIV.
+
+**Vaccination Model Results**
+
+Our model shows that 3384, noncervical, HPV-related cancers
+
+per year may be prevented among PWHA at the current vac-­
+cine coverage rates (Figure 5). This estimate assumes that vac-­
+cine protection extends to men via herd immunity
+
+mechanisms.
+
+If vaccine coverage increases to the WHO’s 90% target, we
+predict that more than twice the number of cases could be
+averted (7462). This is estimated with the 90% efficacy scenario.
+As efficacy reduces, the number of averted cancers falls incre-­
+mentally, but even with a 50% efficacy scenario, 1987 more can-­
+cer cases will be prevented if coverage is increased to 90%.
+
+**DISCUSSION**
+
+This systematic review and meta-analysis of over 1.5 million
+PWHA demonstrates that PWHA face a significantly higher
+risk of developing all HPV-related, noncervical cancers com-­
+pared with their HIV-negative peers. Our analysis expands
+our understanding of the risk of such cancers across the entire
+spectrum of HIV infection, which is important due to the in-­
+creased longevity of PWHA owing to accessible ART.
+
+The anogenital subtypes exhibited the highest estimates, par-­
+ticularly anal cancer with a 30-fold increased risk. For the re-­
+maining cancers, the risk is as high as around 15 times for
+vaginal, 7 for vulvar, 6 for penile, and 2 times for
+
+**Figure 3.** Number of cases which are attributable to HIV and AIDS for each cancer and region worldwide. ( *A* – *E* ) Shows the number of specific cancers (Anal, Oropharyngeal,
+Penile, Vulvar, and Vaginal) attributable to HIV worldwide. ( *F* ) Shows total number of HPV-related, noncervical cancers attributable to HIV worldwide.
+
+
+oropharyngeal. In 2022, we estimate around 14% of incident
+
+anal cancers were attributable to HIV and AIDS infection
+
+worldwide. Given the disparities in HIV prevalence, significant
+geographical variations were seen for all analyzed cancers, with
+most cases concentrated in Africa. Our model projected that
+globally 7462 noncervical cancers per year could be averted
+in PWHA if vaccine coverage improves to 90%.
+
+In our epidemiological analysis, of the 50 countries with the
+highest PAFs, only 15 were located outside Africa
+[(Supplementary Appendix Figure 3). This variation stems](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+
+
+from factors including HIV endemicity and healthcare provi-­
+sion, including vaccination [2, 12]. We found that 70% of the
+top 50 countries were LMICs. Given the practicalities of estab-­
+lishing cancer screening and treatment, vaccines remain the
+most affordable yet impactful choice [10]. Abbas et al found
+that vaccinating 1000 people could avert 2 cervical cancer
+deaths in Switzerland compared with 34 in Tanzania, highlight-­
+ing the need for contextualized approaches to HPV prevention
+
+[22]. Thus, international agencies alongside countries with high
+
+HPV-Related, Noncervical Cancers in PWHA • **OFID**       - 5
+
+**Figure 4.** Population attributable fraction to HIV and AIDS for each cancer.
+
+**Figure 5.** Approximate modeling of the number of cancers, which may be prevented in people presently living with HIV by improving vaccination coverage up to 90% level.
+Three scenarios were estimated using point vaccine efficacy estimates of 50%, 70%, and 90%.
+
+
+HPV/HIV coinfection rates should consider this concurrent
+
+burden when planning vaccination programs.
+
+Key factors, which may have contributed to the wide variations
+in PAFs to HIV seen in [Supplementary appendix Figure 4, in-­](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+clude varying capacities of healthcare systems and the ART cov-­
+erage within populations [10, 23, 24]. For example, Rwanda that
+has reached 96% ART coverage ranked lower in terms of PAFs
+than Congo, for example, which has a national ART coverage
+of 31% [13]. Throughout the entire spectrum of HIV infection,
+the risk of cancer progression remains high compared with
+HIV-negative populations, even in the early stages of HIV immu-­
+nodeficiency [25, 26]. Although, several studies show the
+
+6 • **OFID** - Wongkalasin et al
+
+
+HPV-cancer risk increases as CD4 T cell counts fall, particularly
+below 200 mm [3], emphasizing the importance of timely and com-­
+prehensive ART coverage [25, 27]. It is crucial for HPV vaccina-­
+tion to be included within a wider package of prevention tactics
+for PWHA irrespective of early or late immunodeficiency status.
+
+Global HPV vaccine coverage remains low, with only 21% of
+girls and just 7% of boys vaccinated [14]. Only 2 of the 10 coun-­
+tries with the highest number of HIV-attributable cancers had
+single dose coverage rates above 50%. Various structural and
+behavioral barriers underlie this, including supply, financing,
+health-system capacity, acceptability, and vaccine hesitancy
+
+[28, 29]. Many countries are still recovering from the
+
+suspension of vaccines during the COVID-19 pandemic [30].
+Over a quarter of the coverage of HPV vaccines achieved in
+2019 was lost by 2021 [30]. The increase in antivaccine activism
+since the pandemic has added further challenges to vaccine up-­
+take worldwide [31].
+
+Our findings align with existing literature and highlight the
+need for a gender-neutral HPV vaccination. Research has
+shown that men who have sex with men (MSM) living with
+HIV are at a higher risk of anal cancer. Deshmukh et al reported
+an age-stratified SIR of 68.7 (95% CI 60.1–77.9) among men
+aged 15–59, nearly 3 times higher than our estimates [12].
+Similarly, Clifford et al calculated an incidence rate of 85
+(95% CI 82–89) [32]. Although, both estimates were limited
+to data from the US and Canada interventions targeting
+MSM communities in LMICs have shown variable outcomes,
+
+due to social stigma and prejudice, which limits access to
+healthcare [33]. Furthermore, female-only vaccination pro-­
+grams have provided limited herd immunity benefits [34].
+The WHO recommends vaccinating boys where feasible and
+affordable, however only 30% of countries have introduced
+gender-neutral vaccination, including only 1 LMIC [35, 36].
+Aside from reducing HPV infections, a gender-neutral ap-­
+proach promotes gender equity, minimizes vaccine-related
+stigma, and combats misinformation [37].
+
+Integrating HPV vaccination with HIV services, as demon-­
+strated with TB infection control and family planning [38,
+39], would improve both vaccine coverage and cost efficiency
+
+[38]. However, in areas of high HIV prevalence, HPV vaccina-­
+tion at a young age- such as during childhood immunizations
+or upon secondary school entry- before potential exposure to
+high-risk HPV strains, would lead to a more substantial reduc-­
+tion in HPV-related cancers [29].
+
+**Strengths and Limitations**
+This study re-evaluated the risk for developing 5 cancer sub-­
+types in over 1.5 million PWHA. To our knowledge, we present
+the first global estimates of vulvar, vaginal, penile, and oropha-­
+ryngeal cancer, which may be attributable to HIV worldwide.
+Sources of bias and heterogeneity were investigated using stat-­
+istical and sensitivity analyses.
+
+Nonetheless, our study has limitations. Meta-analyses of ob-­
+servational studies are limited by inherent discrepancies be-­
+tween populations and variable reporting on factors
+including ART coverage make them difficult to account for
+
+[32]. PWHA are more likely to use tobacco and alcohol, which
+are known risk factors of oropharyngeal cancer, making it
+harder to reach conclusive associations [40–42]. However, the
+
+inclusion of cohort studies, which adjusted for confounding
+factors improved the accuracy of our results.
+
+The PAF generates a number representing the averted cancer
+cases, had the exposure, HIV, been omitted from the popula-­
+tion calculation [18]. Considering the synergy between the 2
+
+
+infections, HIV is not an independent risk factor; this could
+overestimate the PAFs in countries with high HIV prevalence
+
+[9, 43]. Without the research to deconstruct this interplay,
+this study provides the most accurate projections possible
+based on available data. Further, our methods extrapolate over-­
+all vaccine benefits for gender-neutral vaccination as included
+studies were not segregated by sex. The assumption that men
+will be covered by improved vaccine coverage via herd immu-­
+nity may have overestimated our results, particularly as the
+burden of HIV among non-MSM populations vary between
+countries. Similarly, we included all cases of the 5 cancers,
+which may overestimate our results given that not all cases
+are caused by HPV infection [4]. The lack of data on histolog-­
+ical subtypes within the IARC’s database meant it was difficult
+
+to ascertain the true number.
+
+Modeling assumptions were made during the vaccination
+analysis; a full description can be found in the appendix.
+Given the lack of data on HPV vaccine efficacy in PWHA, we
+chose simplified point estimates at 50%, 70%, and 90%.
+Similarly, the evidence on which strains drive noncervical can-­
+
+cers in PWHA is scarce. We assumed the bivalent vaccine to
+
+have wider protection abilities outside the primary strains, 16
+and 18, which may overestimate our results. Where no data
+on national vaccine coverage could be sourced, the country
+was assumed to have no coverage. This was an underestimate,
+as some countries provide HPV vaccines to certain regions or
+privately, detailed in [Supplementary Appendix Table 7. We](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)
+also expect the incidence of cancer to be underestimated due
+to disparities in documentation of HPV-related cancers, wors-­
+ened by the limits to definitive diagnoses for noncervical cancer
+globally [44]. Overall, only 2 nonhigh-income countries were
+included across our meta-analyses, limiting their extrapolation
+on a global context. For example, only North American studies
+were included for vulvar cancer. Lastly, we recognize that the
+parameters relied on global datasets; often data are poor quality
+and extrapolated from neighboring countries [1]. Our approx-­
+imations should be interpreted tentatively within the context of
+these assumptions.
+
+**Future Research**
+
+Despite the known increased risk of HPV acquisition and relat-­
+ed cancers in PWHA, research into coinfection is scarce, partic-­
+ularly on noncervical cancers [4]. Data on noncervical cancer in
+PWHA in LMICs would valuable, particularly in areas of high
+prevalence. Our results demonstrate that further research rec-­
+ognizing the HPV vaccine’s potential beyond cervical cancer
+is warranted, especially as screening programs are limited for
+these cancer types.
+
+Multiple systematic reviews found a high vaccine immuno-­
+genicity and safety in PWHA but data from robust randomized
+controlled trials is lacking [21]. Research to aid future assess-­
+ments of dosage and long-term protection in PWHA is needed
+
+HPV-Related, Noncervical Cancers in PWHA • **OFID**       - 7
+
+[45]. The implications of dosage on cost and feasibility are par-­
+ticularly important for LMICs with high HIV prevalence [46].
+Lastly, the public health benefits of vaccinating PWHA should
+be investigated, as the likelihood of HPV exposure prior to vac-­
+cination is high due to shared transmission routes [47].
+Although difficult, studies could build upon our results for
+modeling HIV/HPV development through dynamic transmis-­
+sion models to further optimize vaccine strategies in PWHA.
+
+**CONCLUSION**
+
+In conclusion, our results show that PWHA are at much greater
+risk of developing noncervical, HPV-related cancers, particu-­
+larly anal cancer. For all subtypes, East Africa experienced
+the highest burden of HPV-related cancers attributable to
+HIV and AIDS. This region also has some of the lowest HPV
+vaccine coverage rates worldwide.
+
+Concerted efforts to address the structural barriers to vaccine
+
+coverage and equity is vital. A gender-neutral HPV vaccine in
+childhood or adolescence, in countries with the highest number
+of HIV-attributable cancers, could escalate progress toward re-­
+versing the wide disparities in the distribution of HPV-related
+
+cancers worldwide.
+
+**Supplementary Data**
+
+Supplementary materials are available at *[Open Forum Infectious Diseases](http://academic.oup.com/ofid/article-lookup/doi/10.1093/ofid/ofaf577#supplementary-data)*
+online. Consisting of data provided by the authors to benefit the reader, the
+posted materials are not copyedited and are the sole responsibility of the
+authors, so questions or comments should be addressed to the correspond-­
+ing author.
+
+**Acknowledgments**
+
+We would like to thank Katie Heath for her assistance in designing the
+epidemiological model. We would like to extend this thanks to Edith
+Brassington and Samuel Cross for their input in designing the research
+scope and methodology.
+
+***Financial support*** . This work was supported by funding from the
+International Treatment Preparedness Coalition.
+
+***Patient consent statement.*** This paper does not include data that neces-­
+sitates patient consent.
+
+***Potential conflicts of interest*** . All authors: No reported conflicts.
+
+**References**
+
+1. James F, Marcus E, Fern L. Global cancer observatory 2022. Global cancer obser-­
+
+vatory: cancer today (version 1.0). International Agency for Research on Cancer,
+
+**2022** .
+
+2. Malagón T, Franco EL, Tejada R, Vaccarella S. Epidemiology of HPV-associated
+cancers past, present and future: towards prevention and elimination. Nat Rev
+Clin Oncol **2024** ; 21:522–38.
+3. World Health Organization. Global strategy to accelerate the elimination of cer-­
+
+vical cancer as a public health problem. Geneva: World Health Organization,
+**2020** . Available at: Cervical Cancer Elimination Initiative (who.int). Accessed
+
+04 March 2024.
+
+4. Chaturvedi AK. Beyond cervical cancer: burden of other HPV-related cancers
+among men and women. J Adolesc Health **2010** ; 46(4 SUPPL):S20–6.
+5. National Cancer Institute. HPV and cancer. **2023** . Available at: [https://www.](https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer)
+[cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer.](https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer)
+Accessed 03 April 2024.
+6. Szymonowicz KA, Chen J. Biological and clinical aspects of HPV-related cancers.
+Cancer Biol Med **2020** ; 17:864–78.
+
+8 • **OFID** - Wongkalasin et al
+
+
+7. Lekoane KMB, Kuupiel D, Mashamba-Thompson TP, Ginindza TG. The inter-­
+
+play of HIV and human papillomavirus-related cancers in sub-Saharan Africa:
+scoping review. Syst Rev **2020** ; 9:88–89.
+8. Stelzle D, Tanaka LF, Lee KK, et al. Estimates of the global burden of cervical can-­
+
+cer associated with HIV. Lancet Glob Health **2021** ; 9:e161–9.
+9. Looker KJ, R€ Onn MM, Brock PM, et al. Evidence of synergistic relationships
+between HIV and Human Papillomavirus (HPV): systematic reviews and metaanalyses of longitudinal studies of HPV acquisition and clearance by HIV status,
+and of HIV acquisition by HPV status. J Int AIDS Soc **2018** ; 21:e25110.
+10. Petersen Z, Jaca A, Ginindza TG, et al. Barriers to uptake of cervical cancer screen-­
+
+ing services in low-and-middle-income countries: a systematic review. BMC
+Womens Health **2022** ; 22:486.
+11. Bray F, Laversanne M, Sung H, et al. Global cancer statistics 2022: GLOBOCAN
+estimates of incidence and mortality worldwide for 36 cancers in 185 countries.
+CA Cancer J Clin **2024** ; 74:229–63.
+12. Deshmukh AA, Damgacioglu H, Georges D, et al. Global burden of
+HPV-attributable squamous cell carcinoma of the anus in 2020, according to
+sex and HIV status: a worldwide analysis. Int J Cancer **2023** ; 152:417–28.
+13. UNAIDS. Global data on HIV epidemiology and response. AIDSinfo Epidemic
+and Response. UNAIDS, **2023** . Available at: [https://aidsinfo.unaids.org/.](https://aidsinfo.unaids.org/)
+Accessed 02 April 2024.
+14. World Health Organisation. Human Papillomavirus (HPV) vaccination coverage.
+Available at: [https://immunizationdata.who.int/global/wiise-detail-page/human-](https://immunizationdata.who.int/global/wiise-detail-page/human-papillomavirus-(hpv)-vaccination-coverage)
+[papillomavirus-(hpv)-vaccination-coverage. Accessed 02 February 2024.](https://immunizationdata.who.int/global/wiise-detail-page/human-papillomavirus-(hpv)-vaccination-coverage)
+15. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updat-­
+
+ed guideline for reporting systematic reviews. BMJ **2021** ; 372:n71.
+16. Wells G, Shea B, O’Connell D, et al. The Newcastle- Ottawa Scale (NOS) for as-­
+
+sessing the quality of nonrandomised studies in meta-analyses. Ottawa Research
+Institute, Canada, **2022** . Available at: [http://www.ohri.ca/programs/clinical_](http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp)
+[epidemiology/oxford.asp.](http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp)
+17. World Health Organisation. International Classification of Diseases 11th revision
+[(ICD-11). International Classification of Diseases (ICD). Available at: https://icd.](https://icd.who.int/en/.)
+[who.int/en/. Accessed 05 February 2024.](https://icd.who.int/en/.)
+18. Khosravi A, Nazemipour M, Shinozaki T, Mansournia MA. Population attribut-­
+
+able fraction in textbooks: time to revise. Glob Epidemiol **2021** ; 3:100062.
+19. Higgins JPT, Thomas J, Chandler J et al., eds. Cochrane handbook for systematic re-­
+
+views of interventions version 6.4 (updated August 2023). 6.4. Chichester (UK):
+Cochrane, **2023** [. Chapter 14. Available from: www.training.cochrane.org/handbook.](https://www.training.cochrane.org/handbook)
+20. Goodman E, Reuschenbach M, Kaminski A, Ronnebaum S. Human papillomavi-­
+
+rus vaccine impact and effectiveness in six high-risk populations: a systematic lit-­
+erature review. Vaccines (Basel) **2022** ; 10:1543.
+21. Staadegaard L, MM R€, Soni N, et al. Immunogenicity, safety, and efficacy of the
+HPV vaccines among people living with HIV: a systematic review and metaanalysis. EClinicalMedicine **2022** ; 52:101585.
+22. Abbas K, Yoo KJ, Prem K, Jit M. Equity impact of HPV vaccination on lifetime
+projections of cervical cancer burden among cohorts in 84 countries by global, re-­
+gional, and income levels, 2010–22: a modelling study. EClinicalMedicine **2024** ;
+
+70:102524.
+
+23. Mody A, Sohn AH, Iwuji C, Tan RKJ, Venter F, Geng EH. HIV epidemiology, pre-­
+
+vention, treatment, and implementation strategies for public health. Lancet **2024** ;
+
+403:471–92.
+
+24. Castilho JL, Bian A, Jenkins CA, et al. CD4/CD8 ratio and cancer risk among
+adults with HIV. J Natl Cancer Inst **2022** ; 114:854–62.
+25. Massad L, Keller M, Xie X, et al. Multitype infections with human papillomavirus: im-­
+
+pact of human immunodeficiency virus coinfection. Sex Transm Dis **2016** ; 43:637–41.
+26. Liu G, Sharma M, Tan N, Barnabas RV. HIV-positive women have higher risk of
+human papilloma virus infection, precancerous lesions, and cervical cancer. AIDS
+
+**2018** ; 32:795–808.
+27. Zhang J, Chen X, Ye Y, et al. Increased CD4+ T cell count is associated with lower
+anal human papillomavirus prevalence among HIV-positive male cohort in
+Taizhou, China: a cross-sectional study. BMC Infect Dis **2022** ; 22:250.
+28. Phillips DE, Dieleman JL, Lim SS, Shearer J. Determinants of effective vaccine
+coverage in low and middle-income countries: a systematic review and interpre-­
+tive synthesis. BMC Health Serv Res **2017** ; 17:681.
+29. Ebrahimi N, Yousefi Z, Khosravi G, et al. Human papillomavirus vaccination in
+low- and middle-income countries: progression, barriers, and future prospective.
+Front Immunol **2023** ; 14:1150238.
+30. Nelson R. COVID-19 disrupts vaccine delivery. Lancet Infect Dis **2020** ; 20:546.
+31. Carpiano RM, Callaghan T, DiResta R, et al. Confronting the evolution and ex-­
+
+pansion of anti-vaccine activism in the USA in the COVID-19 era. Lancet
+
+**2023** ; 401:967–70.
+32. Clifford GM, Georges D, Shiels MS, et al. A meta-analysis of anal cancer incidence
+by risk group: toward a unified anal cancer risk scale. Int J Cancer **2021** ; 148:38–47.
+
+33. Mbeda C, Ogendo A, Lando R, et al. Healthcare-related stigma among men who
+
+have sex with men and transgender women in sub-Saharan Africa participating in
+
+HIV Prevention Trials Network (HPTN) 075 study. AIDS Care **2020** ; 32:1052–60.
+34. Díez-Domingo J, Sánchez-Alonso V, Villanueva RJ, Acedo L, Tuells J. Impact of a
+
+gender-neutral HPV vaccination program in men who have sex with men (MSM).
+
+Int J Environ Res Public Health **2021** ; 18:963.
+35. World Health Organisation. Human Papillomavirus vaccine update: WHO posi-­
+
+tion paper. **2022** . Available at: [https://www.who.int/teams/immunization-](https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers/human-papillomavirus-hpv)
+
+[vaccines-and-biologicals/policies/position-papers/human-papillomavirus-hpv.](https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers/human-papillomavirus-hpv)
+
+Accessed 05 April 2024.
+36. Zhuang RY, Goyal H, Xu HG. Gender-neutral HPV vaccination in Africa. Lancet
+
+Glob Health **2019** ; 7:e563.
+37. Bologna-Molina R, Wei L, González-González R, et al. Gender neutral HPV vac-­
+
+cination programs: reconsidering policies to expand cancer prevention globally.
+
+Front Public Health **2023** ; 21:11.
+38. Ford N, Newman M, Malumo S, Chitembo L, Gaffield ME. Integrating sexual and
+reproductive health services within HIV services: WHO guidance. Front Glob
+
+Womens Health **2021** ; 2:735281.
+39. Herce ME, Morse J, Luhanga D, et al. Integrating HIV care and treatment into
+
+tuberculosis clinics in Lusaka, Zambia: results from a before-after
+
+quasi-experimental study. BMC Infect Dis **2018** ; 18:536.
+
+
+40. Mdege ND, Shah S, Ayo-Yusuf OA, Hakim J, Siddiqi K. Tobacco use among people
+living with HIV: analysis of data from Demographic and Health Surveys from 28
+low-income and middle-income countries. Lancet Glob Health **2017** ; 5:e578–92.
+41. Gerbi GB, Habtemariam T, Tameru B, Nganwa D, Robnett V. The correlation be-­
+
+tween alcohol consumption and risky sexual behaviours among people living with
+HIV/AIDS. J Subst Use **2009** ; 14:90–100.
+[42. GOV.UK. Chapter 6: Oral cancer. Available at: https://www.gov.uk/government/](https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-6-oral-cancer#:~:text=The%20major%20risk%20factors%20for,cavity%20cancer%20[footnote%2012])
+[publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/](https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-6-oral-cancer#:~:text=The%20major%20risk%20factors%20for,cavity%20cancer%20[footnote%2012])
+[chapter-6-oral-cancer#:∼:text=The%20major%20risk%20factors%20for,cavity](https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-6-oral-cancer#:~:text=The%20major%20risk%20factors%20for,cavity%20cancer%20[footnote%2012])
+[%20cancer%20[footnote%2012]. Accessed 05 January 2025.](https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention/chapter-6-oral-cancer#:~:text=The%20major%20risk%20factors%20for,cavity%20cancer%20[footnote%2012])
+43. Lin CK, Chen ST. Estimation and application of population attributable fraction
+in ecological studies. Environ Health **2019** ; 18:52.
+44. Conway DI, Purkayastha M, Chestnutt IG. The changing epidemiology of oral
+cancer: definitions, trends, and risk factors. Br Dent J **2018** ; 225:867.
+45. Bénard É, Drolet M, Laprise JF, et al. Potential population-level effectiveness of
+one-dose HPV vaccination in low-income and middle-income countries: a math-­
+ematical modelling analysis. Lancet Public Health **2023** ; 8:e788–99.
+46. Prem K, Choi YH, Bénard É, et al. Global impact and cost-effectiveness of onedose versus two-dose human papillomavirus vaccination schedules: a compara-­
+tive modelling analysis. BMC Med **2023** ; 21:313.
+47. Kombe Kombe AJ, Li B, Zahid A, et al. Epidemiology and burden of human pap-­
+
+illomavirus and related diseases, molecular pathogenesis, and vaccine evaluation.
+Front Public Health **2021** ; 8:552028.
+
+HPV-Related, Noncervical Cancers in PWHA • **OFID**       - 9
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

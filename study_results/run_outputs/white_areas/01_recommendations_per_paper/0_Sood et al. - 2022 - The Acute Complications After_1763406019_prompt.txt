@@ -1,0 +1,1520 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [Seminars in Oncology Nursing 38 (2022) 151285](https://doi.org/10.1016/j.soncn.2022.151285)
+
+
+## The Acute Complications After Surgery for Penile Carcinoma and Strategies for Their Management: A Systematic Review of the Literature
+
+Akshay Sood [a], Jan K. Rudzinski [a], Philippe E. Spiess [b], Curtis A. Pettaway [a][,] 
+a Department of Urology, University of Texas M.D. Anderson Cancer Center, Houston, TX
+b Department of Genitourinary Oncology, Moffitt Cancer Center, Tampa, FL
+
+A R T I C L E I N F O A B S T R A C T
+
+
+Key Words:
+
+Penile cancer
+
+Surgery
+Inguinal
+Complications
+Robotics
+
+Introduction
+
+
+Objectives: To investigate the contemporary rates of 30-day complications after surgery for penile cancer and
+to discuss the currently used preventative and therapeutic practices aimed at mitigation of these postoperative adverse events.
+
+Data Sources: A systematic review in accordance with the Preferred Reporting Items for Systematic Reviews
+and Meta-Analyses (PRISMA) guidelines was performed, and studies reporting on the contemporary rates,
+nature, or management of acute complications following primary penile surgery or inguinal lymph node dissection for penile cancer were abstracted. Medline (PubMed) and EMBASE libraries were used to retrieve the
+articles published between January 1984 and December 2021 (n = 170 articles). Ultimately, 38 articles were
+included. The primary outcome of interest was 30-day (acute) postoperative complications, stratified by
+those associated with treatment of the primary penile lesion and those with inguinal lymph node dissection.
+Risk of bias assessment was undertaken. Special attention was paid to studies reporting management strategies for these complications.
+Conclusion: This comprehensive review revealed that the quality of existing studies reporting on complications is poor and the risk of bias is high. Within these studies, the rates of acute complications following primary penile surgery and inguinal lymph node dissection ranged between 0% and 29.4% and 6% and 90%,
+respectively. More than 50% of these complications were wound related. Over the past two decades, several
+studies have reported on improved surgical techniques and protocolized postsurgical care pathways.
+Although the newer techniques have been associated with improved outcomes, the absolute rates of complications have remained high even in the most contemporary series. Therefore, there is an urgent need for
+health care providers and stakeholders to reach consensus regarding preoperative workup and medical optimization goals, stage appropriate therapies, and postoperative care pathways, as has been done for other
+malignancies associated with high morbidity.
+Implications for Nursing Practice: Penile cancer is a disease of the elderly, and surgical management of the primary lesion or the groins is associated with a high rate of complications. Most complications are wound
+related. Meticulous surgical technique and careful postoperative monitoring with early intervention are keys
+to mitigating surgery-related morbidity. However, equally important is dissemination and adoption of these
+principles by all health care workers universally.
+© 2022 Elsevier Inc. All rights reserved.
+
+
+Penile cancer is a rare cancer in Western men with an overall inci
+dence of less than 1 per 100,000 males in the United States and
+Europe. [1][,][2] The peak age of diagnosis is in the sixth decade of life, and
+most men present with localized disease.
+
+ - Address correspondence to Curtis A. Pettaway, MD, Department of Urology, University of Texas M.D. Anderson Cancer Center, 1515 Holcombe Blvd., Houston, TX,
+
+77030.
+
+[E-mail address: cpettawa@mdanderson.org (C.A. Pettaway).](mailto:cpettawa@mdanderson.org)
+
+[https://doi.org/10.1016/j.soncn.2022.151285](https://doi.org/10.1016/j.soncn.2022.151285)
+0749-2081/© 2022 Elsevier Inc. All rights reserved.
+
+
+Surgical treatment remains the mainstay of therapy. [3][,][4] This
+includes extirpative treatment of the primary penile lesion with additional inguinal lymph node dissection (ILND) with or without pelvic
+lymph node dissection (PLND) if pathologic examination of the index
+tumor reveals high-risk disease features or if the patient demonstrates evidence of regionally advanced disease on clinical examination. Given that penile cancer is a disease of the elderly, who are
+often afflicted my multiple comorbidities, surgery is associated with
+a 15%-30% risk of acute complications in the 30-day postoperative
+period following primary penile surgery. The risk is much higher if an
+ILND or pelvic lymph node dissection is undertaken—to the order of
+
+2 A. Sood et al. / Seminars in Oncology Nursing 38 (2022) 151285
+
+
+Implications for Nursing Care
+
+� Rates of 30-day complications are high after surgery for penile
+cancer: »15% in those undergoing primary penile surgery and
+» 50% in those undergoing groin dissections.
+� Health care workers involved in postoperative care should be
+mindful of the following facts:
+
+� Local wound-related complications constitute >50% of
+postoperative complications in these patients. The other
+two of three most common complications include lymphocele and lower extremity edema.
+
+� Daily examinations should, therefore, include:
+
+& Wound check, if not limited by surgical dressing such as
+wound vacuum-assisted closures, etc. The wound check
+should include assessment of signs of infection, drainage, and skin discoloration, and performance of drain
+stripping.
+
+& Lower extremity examination for edema and deep vein
+thrombosis.
+
+� Daily to-do list should include:
+
+& Patient-specific wound care and antibiotic therapy, as
+indicated.
+
+& Ambulation with assistance once cleared by the surgeon.
+Ensure that patient is using compression or pneumatic
+stockings and is on anticoagulant therapy.
+
+& Based on patient’s progress, there should be consideration for early involvement of specialists, including
+wound care teams or nutritionists. A plan for consultation with lymphedema specialists should be put in place
+for after inguinal drains are removed.
+
+50%-80%. These complications can range from innocuous urinary
+tract infections to life-threatening exsanguination. [5][,][6]
+
+In this article, we provide data from a systematic review of the literature on the contemporary rates, types, and management patterns
+of acute (30-day) complications after surgery for penile cancer.
+
+Evidence Acquisition
+
+Search Strategy
+
+The review was performed according to the Preferred Reporting
+Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, [7] and the search was conducted in accordance with the principles outlined in the Cochrane Handbook for Systematic Reviews of
+Interventions. [8] Medline (PubMed) and EMBASE libraries were
+searched to retrieve all contemporary articles published between
+
+
+January 1984 and December 2021, on complications after surgery for
+penile cancer. We used the search terms “((penile cancer) AND (complications)) NOT (inguinal)” to identify articles related to treatment
+of the primary penile lesion and “((penile cancer) AND (complications)) AND (inguinal)” to identify articles related to complications
+after groin surgery. The search was limited to the title and abstract
+fields while running the query, but no language restrictions were
+imposed. The search was conducted on January 5, 2022. Reference
+lists of the selected papers were scrutinized for additional relevant
+material but yielded no additional studies. Independent reviewers
+(AS and JKR) screened all abstracts and full-text articles independently. Disagreement was resolved by a third party (CAP).
+
+Types of Study Design and Participants Included
+
+All study designs were included. Eligible studies had to include
+patients with penile cancer that had received surgical treatment.
+Patients treated with both curative and palliative intent were
+included. Patients were not excluded for nonsquamous cell histology
+or an advanced stage of penile cancer if they had received surgical
+therapy. Similarly, no age restrictions were imposed. However, surgical studies not reporting on complications were excluded. Further,
+for studies reporting on acute complications following ILND, we only
+selected studies that included more than10 patients. Fig. 1 provides a
+PRISMA diagram of the selected studies.
+
+Types of Interventions Included
+
+Interventions studied included surgical treatment of the primary
+penile lesion or the groin. The treatment to groin incorporated studies evaluating both an open and a minimally invasive approach and
+radical and modified surgical templates. Studies reporting on patients
+undergoing radiation therapy alone or nonoperative palliative treatments were excluded.
+
+Types of Outcome Measures Included
+
+The primary outcome of interest was 30-day postoperative complications. These were stratified by the procedure type into those
+associated with treatment of the primary penile lesion and those
+with groin surgery. The acute complications of interest with regard
+to surgical treatment of the primary penile lesion included urinary
+tract infection (UTI), seroma or hematoma formation, superficial surgical site infection (SSI), wound dehiscence, meatal stenosis, and graft
+loss in studies where split thickness skin grafting (STSG) was performed. The acute complications of interest related to ILND included
+SSI, cellulitis, abscess formation, wound dehiscence, skin edge necrosis, flap necrosis, seroma or hematoma, lymphocele, lymphedema,
+and lower limb edema. In addition, we evaluated complications not
+
+
+Fig 1. PRISMA diagram depicting literature review and inclusion of studies. PRISMA, Preferred Reporting Items for Systematic Reviews and Meta-Analyses.
+
+A. Sood et al. / Seminars in Oncology Nursing 38 (2022) 151285 3
+
+
+directly related to local effects of surgery such as deep venous thrombosis (DVT), pulmonary embolus (PE), myocardial infarction (MI),
+pneumonia, acute renal failure, and sepsis.
+
+Assessment of Risk of Bias and Confounders
+
+Risk of bias (RoB) in the included noncomparative series was evaluated independently by two reviewers (AS and JKR). The aim of this
+evaluation was to determine the external validity by assessing
+whether study participants were selected consecutively or were representative of a wider patient population, along with attrition bias,
+selective outcome reporting, and whether an a priori protocol was
+available (indicating a prospective study design). [9]
+
+Evidence Synthesis
+
+Quantity and Quality of Evidence
+
+A total of 170 unique articles were identified by the literature
+search. Of these, 50 articles were selected for full-text screening and
+ultimately 38 were eligible for inclusion (Fig. 1). All studies were case
+series: Seven were prospective and the remainder were retrospective. Systematic reporting of complications was poor with only 11
+(29%) out of the 38 examined studies reporting on complications
+using the Clavien-Dindo classification. Further, the studies did not
+consistently report on the specific timeline for development of these
+postoperative complications, making it difficult to assess the true
+acuity of these adverse events. Therefore, overall, in all included studies, the RoB was high (Fig. 2).
+
+Acute Complications After Treatment of Primary Penile Cancer Lesion
+
+Table 1 provides details on studies reporting acute complications
+after surgical treatment of the primary penile lesion (n = 10 studies).
+Two studies assessed complications after partial or total penectomy,
+and the remaining eight evaluated complications in patients undergoing organ sparing surgery (OSS) for early-stage penile cancer.
+The overall 30-day complication rate in patients undergoing partial or total penectomy was »19%. [5][,][10] A vast majority of these complications were wound related, either surgical site infections or
+dehiscence. Patients undergoing glansectomy with STSG OSS had the
+highest rates of 30-day complications, ranging between »7.5% and
+30%, [11-15] while patients undergoing glans resurfacing OSS had the
+lowest rates, ranging between »0% and 15%. [16-18] Partial graft loss (in
+patients undergoing OSS with STSG application), meatal stenosis (in
+patients undergoing glansectomy), and SSIs were the top three most
+common complications in patients undergoing OSS. Other complications such as UTIs, hematomas, seromas, and systemic complications
+including DVT/PE, MI, pneumonia, renal failure, and so on were rare,
+occurring on average in less than 1% of the patients (Table 1).
+
+Acute Complications Following ILND
+
+Table 2 provides a comprehensive summary of studies reporting
+on acute complications following ILND (n = 28 studies); the table is
+stratified into studies reporting on acute complications following radical or modified techniques of ILND. Eight studies reported on complications after open radical ILND, [19-26] two studies reported on
+complications after either open modified or radical ILND, [27][,][28] and six
+focused on open modified ILND. [6][,][29-33] Eight studies reported on videoendoscopic/laparoscopic ILND (five on radical and three on modified template), [34-41] and lastly, four studies on robot-assisted ILND
+(one radical and three modified template). [42-45]
+
+Following management of the primary penile lesion, bilateral
+ILND is considered one of the standard-of-care options for patients
+that are clinically node negative but have high risk primary tumors
+
+
+(�pT1b, N0) or among patients with palpable or visible disease subsequent to cross sectional imaging (pTany, N1-3). [4] ILND has been
+shown to aid in appropriate staging and improve survival in patients
+with penile cancer. The lymphatic drainage of the penis tends follow
+a sequential pattern starting with superficial inguinal nodes, to deep
+inguinal nodes, pelvic nodes, and retroperitoneal nodes with bilateral
+involvement in up to 80% of cases. [6] Postoperative complications following ILND are broadly classified into major and minor. Major complications include those requiring hospital admission, operative care
+under general anesthesia, or are potentially life-threatening such as
+skin flap necrosis requiring a graft, sepsis, DVT/PE, and so on. On the
+other hand, minor complications are those managed on an outpatient
+basis, without the need for general anesthesia, or are not life-threatening or debilitating and include seroma formation, lymphocele, skin
+edge necrosis, lower limb edema, and local wound issues requiring
+debridement under topical anesthesia. Overall, reporting of postoperative complications following ILND was poor with only 8 out of 28
+studies using the Clavien-Dindo classification system.
+Radical ILND is considered the oncologic gold standard and
+involves resection of nodal tissue defined by the following anatomic
+borders in the “classical description”: anterior superior iliac spine
+superiorly, pubic tubercle superomedially, the adductor longus medially, and the sartorius muscle laterally with ligation of greater saphenous vein and complete excision of lymph nodes over the femoral
+vessels. [19-28] Furthermore, the radical template also entails dissection
+of both superficial and deep inguinal nodes. [19][,][20] As demonstrated in
+Table 2, this surgical approach is associated with high rates of postoperative complications ranging from 30% to 80% in series published
+between 1984 and 2013. [19-28] Most of the reported complications are
+wound related and include development of surgical site infection/cellulitis, skin edge necrosis, flap necrosis, development of seroma, lymphoceles, and lymphedema.
+To minimize the morbidity associated with the radical ILND, modified ILND techniques have been proposed to limit the size of incision,
+which excludes nodal dissection lateral to femoral artery (medial dissection technique) and distal to fossa ovalis, preservation of greater
+saphenous vein, and elimination of Sartorius muscle flap. [6][,][29-33] The
+modified technique tends to be used for treatment of patients with
+high-risk primary penile cancer with clinically negative groins. As
+noted in Table 2, studies reporting on modified ILND suggest overall
+reduction in rates of postoperative wound complications compared
+to radical ILND, ranging from 6.8% to 33%. [6][,][29-33] More specifically, the
+modified template is associated with lower SSI rates, seroma rates,
+and skin edge necrosis. However, the modified technique has been
+reported in some series to have higher rates of recurrences. [23][,][29] Due
+to this, our group and other authors have suggested expansion of the
+modified template to include lymph nodes from midpoint of adductor longus to lateral boundary of sartorius muscle with intraoperative
+frozen section to further help guide the extent of ILND. This technique is often described as the superficial ILND. [6][,][28][,][43][,][44] A more recent
+expansion of this approach is the fascial-sparing dissection wherein
+nodal tissue from within fossa ovalis is also removed. [27][,][31-33][,][41][,][45]
+
+Further attempts to minimize the morbidity associated with open
+ILND have been proposed through adoption of minimally invasive
+platform with laparoscopic and robotic approaches to groin dissections. [34-45] As shown in Table 2, laparoscopic technique is associated
+with significantly lower rates of wound dehiscence, skid edge necrosis, flap necrosis, and seromas compared to open approach. In addition, within the laparoscopic ILND cohort, saphenous vein
+preservation has been suggested to reduce incidence of acute lymphedema. More contemporary robotic ILND series have demonstrated
+shorter hospital stays, lower rates of flap necrosis, and lower rates of
+lower extremity edema. However, these studies are limited by small
+patient numbers with particular focus on patients with cN0 disease. [42-45] Lastly, other complications such as postoperative DVT rates
+tend to be higher among patients who undergo open ILND compared
+
+4 A. Sood et al. / Seminars in Oncology Nursing 38 (2022) 151285
+
+Fig 2. Risk of bias summary of the included studies; part A deals with studies on treatment of the primary penile lesion and part B deals with studies of ILND. ILND, inguinal lymph
+node dissection.
+
+TABLE 1
+
+Studies Reporting on Acute Complications After Surgical Treatment of the Primary Penile Lesion (1984-2021).
+
+Study Year of Number of Median Age Stage of Surgical Intervention Curative or Palliative Intent Acute Complication Rates (%)
+Publication Patients Included in Years Disease
+
+Total Individual � Local Individual � Systemic
+
+
+Total or partial penectomy
+de Vries* 2021 299 67 Any cT Total penectomy with perineal Curative 19.0% UTI: 1%
+urethrostomy SSI: 11%
+Wound dehiscence: 4%
+
+Seroma/hematoma: 1%
+Meatal stenosis: —
+
+Graft loss (total or partial): n/a
+
+Velazquez* 2018 304 69.8 Any cT Total or partial penectomy Curative or Palliative [y] 19.7% UTI: 3%
+
+SSI: 4.7%
+
+Wound dehiscence: 2%
+
+Seroma/hematoma: 1.7%
+Meatal stenosis: —
+
+Graft loss (total or partial): n/a
+
+Organ-sparing surgery
+Falcone 2021 34 69 �cT2 Glansectomy with STSG Curative 29.4% UTI: —
+
+SSI: 5.8%
+
+Wound dehiscence: 0%
+
+Seroma/hematoma: —
+Meatal stenosis: 5.8%
+
+Graft loss (total or partial): 17.6%
+
+Beech 2020 12 62 �cT2 Glansectomy with STSG Curative 12.3% UTI: 0%
+
+SSI: 0%
+
+Wound dehiscence: 0%
+
+Seroma/hematoma: 0%
+Meatal stenosis: 12.3%
+
+Graft loss (total or partial): 0%
+
+Parnham 2016 177 61.3 �cT2 Glansectomy with STSG Curative 23.4% UTI: —
+
+SSI: —
+
+Wound dehiscence: —
+
+Seroma/hematoma: —
+Meatal stenosis: 2.8%
+
+Graft loss (total or partial): 23.4%
+
+Veeratterapillay 2012 65 62 �cT2 Glansectomy with STSG Curative 7.5% UTI: —
+
+SSI: —
+
+Wound dehiscence: —
+
+Seroma/hematoma: —
+Meatal stenosis: 7.5%
+
+Graft loss (total or partial): 1.5%
+
+Hakansson 2014 15 71 �cT2 Glansectomy with STSG or Total Curative 18.5% UTI: —
+12 66 glans resurfacing SSI: 6.7%, 16.7%
+Wound dehiscence: 0%
+
+Seroma/hematoma: 0%
+Meatal stenosis: 0%
+
+Graft loss (total or partial): 6.7%, 0%
+
+Falcone 2020 26 65 �cT1 Total glans resurfacing Curative 15.3% UTI: —
+
+SSI: 3.8%
+
+Wound dehiscence: 0%
+
+Seroma/hematoma: 0%
+Meatal stenosis: 0%
+
+Graft loss (total or partial): 15.3%
+
+
+DVT/PE: —
+MI or Pneumonia: 1.3%
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 0.6%
+MI or Pneumonia: 0.6%
+
+Acute renal failure: 0.3% Sepsis: 0.7%
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: 0%, 8.3%
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+(continued on next page)
+
+6 A. Sood et al. / Seminars in Oncology Nursing 38 (2022) 151285
+
+to minimally invasive ILND, perhaps owing to differences in surgical
+approach and postoperative recovery pathway (Table 2). [19-28][,][33]
+
+Principles of Surgery and Perioperative Care to Reduce Acute
+Postoperative Complications
+
+Measures that may be undertaken to reduce complications in
+patients undergoing surgery for penile cancer can be divided into
+two broad categories: intraoperative and perioperative.
+Meticulous surgical dissection and attention to detail are the key
+tenets for avoiding postsurgical complications. Likewise, following
+recommendations proposed by the American Urological Association
+(AUA) [46] and the Surgical Care Improvement Program (SCIP) [47] for
+antimicrobial prophylaxis are important in reducing the incidence of
+SSIs, the leading cause of morbidity after penile cancer surgery. Specifically, intraoperatively, one must ensure: (1) atraumatic handling
+of anatomic structures to minimize tissue devitalization; (2) careful
+control of lymphatics and small vessels (ie, clips, ties), especially during inguinal surgery, to decrease the odds of formation of lymphoceles, hematomas, seromas, and other fluid collections; (3) judicious
+use of closed surgical suction drains; (4) use of incisions that follow
+the natural skin creases (lines of Langerhans) to access the inguinal
+nodes, and avoid S- and T-shaped incisions; (5) creation of skin flap
+underneath the Scarpa fascia for ILND to preserve the dermal microvasculature; (6) covering of the inguinal node dissection site with
+myocutaneous flaps when primary closure may be associated with
+excess wound tension or when prior radiotherapy has been used;
+and (7) performance of risk-stratified, patient-tailored surgical dissections such as modified superficial or fascial-sparing ILND or
+dynamic sentinel node biopsy (DSNB) or utilization of novel surgical
+technologies such as the laparoscopic or robotic platforms.
+Measures that may be undertaken perioperatively: (1) for primary
+penile surgery include the use of compressive surgical dressings that
+stay on for 2-7 days and help reduce postoperative swelling and
+hematoma; (2) for ILND include the use of compression stockings to
+minimize development of DVT/PEs and lymphoceles and daily measurement of “ins/outs” with stripping of drains to avoid general fluid
+overload and local fluid collections; and (3) for both surgeries include
+the appropriate use of antibiotics with administration of the first
+dose within 1 hour of the surgical incision and then continuation
+(either intravenously or orally) either for 24 hours for penile surgery
+or until removal of surgical drains for ILND, use of DVT prophylaxis
+and early ambulation, performance of simple measures such as
+demarcation or tracking of areas of skin erythema or discoloration
+using a skin marker for early diagnosis and treatment-response
+assessment in patients with or at-risk for SSIs, vascular compromise,
+or expanding hematomas, early removal of the Foley catheter (typically by postoperative day 2 for ILND patients, however, may be kept
+in longer depending on the patients’ baseline voiding status [ie, history of (h/o) significant lower urinary tract symptoms (LUTS), retention] and typically about 7 days for patients with primary penile
+surgery because these patients frequently undergo neomeatus creation or STSG application where early handling of the penis by the
+patient can jeopardize healing, and finally, optimization of nutritional
+support in patients that have low albumin or are in poor health.
+
+Management of Complications
+
+The management of acute complications relies on timely diagnosis. With regard to complications associated with surgery of the primary penile lesion, the common complications include SSIs, meatal
+stenosis, and partial graft loss when a STSG is used. These complications are typically managed expectantly. Management of wound
+complications includes treatment with empirical antibiotics with
+transition to wound-culture-driven antibiotic therapy as the culture
+results become available, every 12 hour wet-to-dry dressing changes,
+
+TABLE 2
+
+Studies Reporting on Acute Complications Following Inguinal Lymph Node Dissection for Penile Cancer (1984-2021).
+
+
+Study Year of Number of Median Age Stage of Median Hospital Curative or Acute Complication Rates (%)
+Publication Patients Included in Years Disease stay (days) Palliative Intent
+
+Total Individual � Local Individual � Systemic
+
+
+Radical ILND
+
+Menses* 2019 11 51.4 cN0 72% 4 Curative Overall 35% SSI: —
+
+cN1 27% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 5%
+Flap necrosis: —
+
+Seroma: —
+
+Lymphocele: 10%
+Lymphedema/LL edema: 15%
+
+Ye* 2018 48 54 — — Curative Overall 25% SSI: —
+
+Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 3.2%
+Flap necrosis: —
+
+Seroma: 0%
+
+Lymphocele: 12.9%
+Lymphedema/LL edema: 9.6%
+
+
+Yuan* [,][y] 2018 72 51 cN0 86%
+
+cN1 9.7%
+
+cN2 4.2%
+
+Singh [z] 2018 51 58 cN0 66.7%
+
+cN1 19.6%
+
+cN2 13.7%
+
+
+5.2 Curative Overall 22% SSI: 8.3%
+
+Abscess: —
+
+Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: —
+Flap necrosis: —
+
+Seroma: 7%
+
+Lymphocele: —
+Lymphedema/LL edema: —
+
+3 Curative Major 2% SSI: 11.8%
+Minor 78.4% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: —
+Flap necrosis: 2%
+
+Seroma: 37.3%
+
+Lymphocele: 49%
+Lymphedema/LL edema: 37%
+
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 0%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 0%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+(continued on next page)
+
+
+Cui* [,][x] 2016 23 58 — — Curative Major 0% SSI: 34.7%
+Minor 43% Hematoma: 
+Wound dehiscence: 26%
+
+Skin edge necrosis: —
+Flap necrosis: —
+
+Seroma: 8%
+
+Lymphocele: —
+Lymphedema/LL edema : 82%
+
+Yuan* [,][k] 2015 12 53.6 cN0 91.7% — Curative Major 8.3% SSI: 0%
+cN�1 8.3% Minor 25% Hematoma: 8.3%
+
+Wound dehiscence: —
+
+Skin edge necrosis: —
+Flap necrosis: —
+
+Seroma: 0%
+
+Lymphocele: 8.3%
+Lymphedema/LL edema: 0%
+
+TABLE 2 (Continued)
+
+
+Study Year of Number of Median Age Stage of Median Hospital Curative or Acute Complication Rates (%)
+Publication Patients Included in Years Disease stay (days) Palliative Intent
+
+Total Individual � Local Individual � Systemic
+
+
+Koifman 2013 170 58.2 cN0 39%
+
+cN1 16%
+
+cN2 34.7%
+
+cN3 10%
+
+
+— Curative Major 28.6% SSI: 5.7%
+Minor 71.4% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 8.5%
+Flap necrosis: 5.7%
+
+Seroma: 11.5%
+
+Lymphocele: —
+Lymphedema/LL edema: 17.2%
+
+
+DVT/PE: 2.85%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+DVT/PE: 8.3%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 13.7%
+MI or Pneumonia: 
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 3.8%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+(continued on next page)
+
+
+Stuiver 2013 163 66 — — Curative Major 10% SSI: 43%
+Minor 58% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 16%
+Flap necrosis: —
+
+Seroma: 24%
+
+Lymphocele: —
+Lymphedema/LL edema: —
+
+2005 48 63 — — Curative Major 37.5% SSI: 8.3%
+Perdona Minor 47.5% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 8.3%
+Flap necrosis: —
+
+Seroma: 12.5%
+
+Lymphocele: 4.2%
+Lymphedema/LL edema: 21%
+
+Nelson 2004 22 66 — 2 Curative Major 5% SSI: 7.5%
+Minor 40% Hematoma: —
+
+Wound dehiscence: 7.5%
+
+Skin edge necrosis: —
+Flap necrosis: 2.5%
+
+Seroma: —
+
+Lymphocele: 15%
+Lymphedema/LL edema: 15%
+
+Bouchot 2004 58 63.2 — — Curative Major 41.4% SSI: 6.8%
+Minor - Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 12%
+Flap necrosis: —
+
+Seroma: 13.8
+
+Lymphocele: 5.2%
+Lymphedema/LL edema: 22.4%
+
+
+Bevan-Thomas 2002 26 55 — — Curative
+
+&
+
+Palliative
+
+
+Major 32% SSI: 15%
+Minor 68% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 12.5%
+Flap necrosis: —
+
+Seroma: 7.5%
+
+Lymphocele: 5%
+Lymphedema/LL edema: 23%
+
+TABLE 2 (Continued)
+
+
+Study Year of Number of Median Age Stage of Median Hospital Curative or Acute Complication Rates (%)
+Publication Patients Included in Years Disease stay (days) Palliative Intent
+
+Total Individual � Local Individual � Systemic
+
+
+Lopes 1996 145 60 cN0 40%
+
+cN1 17.9%
+
+cN2 28.3%
+
+cN3 8.3%
+
+
+— Curative Overall 90% SSI: 9.2%
+
+Hematoma: —
+
+Wound dehiscence: 21.5%
+
+Skin edge necrosis: —
+Flap necrosis: 15.4%
+
+Seroma: 60%
+
+Lymphocele: —
+Lymphedema/LL edema: 29.6%
+
+
+Ayyappan 1994 78 — — — Curative - SSI: 70%
+
+Hematoma: —
+
+Wound dehiscence: 21.5%
+
+Skin edge necrosis: —
+Flap necrosis: 36%
+
+Seroma: 87%
+
+Lymphocele: —
+Lymphedema/LL edema: 66%
+
+Ravi 1993 234 — — 10 Curative Major 43.1% SSI: 14%-18%
+Minor - Hematoma: 7.7%
+
+Wound dehiscence: —
+
+Skin edge necrosis 61%-64%
+Flap necrosis: 15.4%
+
+Seroma: 5-9%
+
+Lymphocele: Lymphedema/LL edema: 25%-29%
+
+Johnson 1984 67 59.8 — 21 Curative Overall 82% SSI: 14%
+
+Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: —
+Flap necrosis: 50%
+
+Seroma: 16%
+
+Lymphocele: 9%
+Lymphedema/LL edema: 50%
+
+Modified ILND
+
+Medial dissection
+
+Kumar* 2017 20 65.8 — 7.3 Curative Overall 6% SSI: —
+
+Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: —
+Flap necrosis: —
+
+Seroma: —
+
+Lymphocele: 27%
+Lymphedema/LL edema: 3%
+
+Master* 2009 25 58.3 — — Curative Major 0% SSI: 8%
+Minor 12.5% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: —
+Flap necrosis: —
+
+Seroma: 4%
+
+Lymphocele: —
+Lymphedema/LL edema: —
+
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: 
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 3%
+MI or Pneumonia: —
+
+Acute renal failure: 0%
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+(continued on next page)
+
+TABLE 2 (Continued)
+
+
+Study Year of Number of Median Age Stage of Median Hospital Curative or Acute Complication Rates (%)
+Publication Patients Included in Years Disease stay (days) Palliative Intent
+
+Total Individual � Local Individual � Systemic
+
+
+D’Ancona 2004 18 63 — — Curative Major 0% SSI: 0%
+Minor 36.8% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 0%
+Flap necrosis: —
+
+Seroma: 26.3%
+
+Lymphocele: 10.5%
+Lymphedema/LL edema: 0%
+
+Parra 1996 12 66.3 cN0 100% - Curative Overall 33.3% SSI: 0%
+
+Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 0%
+Flap necrosis: —
+
+Seroma: 0%
+
+Lymphocele: 4.2%
+Lymphedema/LL edema: 8.3%
+
+
+Superficial dissection
+Russell [z] 2017 27 72.4 cN0 88%
+
+cN1 6%
+
+cN2 6%
+
+cN3 0%
+
+
+1 Curative Major 7.4% SSI: 4%
+Minor 3.7% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: —
+Flap necrosis: 0%
+
+Seroma: —
+
+Lymphocele: 4%
+Lymphedema/LL edema: 0%
+
+
+Matin [z] 2013 10 62 cN0 90% — Curative Major 10% SSI: 10%
+cN1 10% Minor 30% Hematoma: —
+
+Wound dehiscence: 10%
+
+Skin edge necrosis: —
+Flap necrosis: 10%
+
+Seroma: —
+
+Lymphocele: —
+Lymphedema/LL edema: —
+
+Spiess 2009 43 — cN0 67% — Curative Major 52% SSI: 9%
+cN�1 33% Minor 48% Hematoma: 0%
+
+Wound dehiscence: —
+
+Skin edge necrosis: 11%
+Flap necrosis: —
+
+Seroma: 0%
+
+Lymphocele: 2%
+Lymphedema/LL edema: 17%
+
+Bevan-Thomas 2002 66 55 — — Curative Major 14% SSI: 9.1%
+Minor 38% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 4.5%
+Flap necrosis: —
+
+Seroma: 12.1%
+
+Lymphocele: 0%
+Lymphedema/LL edema: 21.2%
+
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 0%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 4.6%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 0%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+(continued on next page)
+
+TABLE 2 (Continued)
+
+
+Study Year of Number of Median Age Stage of Median Hospital Curative or Acute Complication Rates (%)
+Publication Patients Included in Years Disease stay (days) Palliative Intent
+
+Total Individual � Local Individual � Systemic
+
+
+Fascial-sparing dissection
+Fankhauser* 2022 40 63 — 2 Curative — SSI: 38%
+
+Hematoma: —
+
+Wound dehiscence: 0%
+
+Skin edge necrosis: —
+Flap necrosis: —
+
+Seroma: —
+
+Lymphocele: 18%
+Lymphedema/LL edema: 20
+
+Cozzi [z] 2020 13 65 — 4 Curative Major - SSI: —
+Minor 38.4% Hematoma: 7.7%
+
+Wound dehiscence: —
+
+Skin edge necrosis: —
+Flap necrosis: 15.4%
+
+Seroma: 15.4%
+
+Lymphocele: —
+Lymphedema/LL edema: —
+
+Tsaur 2015 29 59.5 — — Curative Major 26.3% SSI: 7%
+Minor 28.1% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: —
+Flap necrosis: —
+
+Seroma: 3.5%
+
+Lymphocele: 3.5%
+Lymphedema/LL edema: 15.8%
+
+Yao 2013 170 51.2 — — Curative Major 2.9% SSI: 2.5%
+Minor 26.4% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 5.5%
+Flap necrosis: —
+
+Seroma: 1.5%
+
+Lymphocele: 5%
+Lymphedema/LL edema: 11.8%
+
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: —
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 1.8%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 0.5%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: 0%
+
+DVT/PE: 0.7%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+DVT/PE: 0%
+MI or Pneumonia: —
+
+Acute renal failure: —
+
+Sepsis: —
+
+
+Yao 2010 75 51.5 cN0 27%
+
+cN1 24%
+
+cN2 40%
+
+
+— Curative Major 4% SSI: 1.4%
+Minor 21% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 4.7%
+Flap necrosis: —
+
+Seroma: 2%
+
+Lymphocele: 2%
+Lymphedema/LL edema: 13.9%
+
+
+Bouchot 2004 118 63.2 — — Curative Major 0% SSI: 0.8%
+Minor 6.8% Hematoma: —
+
+Wound dehiscence: —
+
+Skin edge necrosis: 2.5%
+Flap necrosis: —
+
+Seroma: 2.5%
+
+Lymphocele: 0%
+Lymphedema/LL edema: 3.4%
+
+
+DVT, deep vein thrombosis; ILND, inguinal lymph node dissection; LL, lower limb; MI, myocardial infarction; PE, pulmonary embolus; SSI, surgical site infection.
+
+ - Denotes laparoscopic ILND series.
+y The study compared video endoscopic ILND through a hypogastric versus leg subcutaneous approach; the complications reported are composite of both techniques.
+z Denotes robotic ILND series.
+x The study compared laparoscopic single site (LESS) ILND with conventional endoscopic ILND; the reported complication rates are for conventional endoscopic ILND.
+k The study compared patients who underwent laparoscopic ILND with saphenous vein sparing on one limb versus saphenous vein ligation in another limb within the same patient; the acute complications
+listed are composite for both groups.
+
+12 A. Sood et al. / Seminars in Oncology Nursing 38 (2022) 151285
+
+
+use of mild topical enzymatic wound debridement agents such as
+Medi-honey or acetic-acid, and early mechanical debridement as
+indicated. Integrating a wound care specialist early on may further
+facilitate optimization of local wound care. Although there are no
+existing data on this subject in patients with penile cancer specifically, the role of multidisciplinary wound care teams is well established for surgeries that are associated with high rates of
+postoperative wound complications. [48][,][49] Meatal stenosis is usually a
+more delayed complication and may be managed with self-catheterization or may require a formal revision of the neomeatus in the operative room. Finally, most graft losses are partial (>95%) and are
+managed with observation. Total graft loss is managed with wet-todry dressing changes with delayed regrafting.
+Complications are much more common after inguinal surgery and
+are of more serious nature. Prevention and early recognition of groin
+complications is of paramount importance in the early postoperative
+setting. SSI can be prevented by proper sterilization of the surgical
+field prior to skin incision along with use of prophylactic antibiotics
+with coverage against gram-negative rods, Staphylococcus and
+Peptostreptococcus. [6][,][50] Postoperatively, consideration should be given
+to keeping the surgical site clean and dry with maintenance of antibiotics such as first-generation cephalosporins and penicillin until
+drains are removed. [6] In patients with large body habitus with pannus
+extending to the groins, placement of dry gauze (“Interdry”) in the
+groin can prevent buildup of moisture and fungal colonization.
+Infected inguinal wounds should be managed with meticulous
+wound care, daily wound inspection to ensure a healthy pink wound
+base, and culture-specific antibiotics.
+Prevention of wound dehiscence, skin edge necrosis, and flap
+necrosis can be accomplished by avoiding excess wound tension,
+debridement of devitalized tissue, development of thick tissue flaps
+below Scarpa fascia, and utilization of myocutaneous flaps to cover
+exposed vessels or large groin defects. Following inguinal reconstruction with flaps, patient mobilization may be limited for 48-72 hours
+to ensure adequate blood supply to the surgical site. Use of wound
+vacuum-assisted closure (VAC) devices has been promoted in inguinal surgical procedures; however, Schmid et al [51] recently conducted
+a prospective randomized trial comparing conventional wound care
+to epidermal vacuum dressing following ILND and found no significant difference in wound dehiscence and SSI rates. However, the trial
+was limited by its small sample size of 31 patients. Further, more
+than 90% of patients were treated with DSNB rather than ILND. Lastly,
+the primary endpoint was daily lymphorrhea output (as a continuous
+variable), which left the study underpowered to detect more meaningful endpoints such as complications, hospital stay, reintervention,
+or readmission. Hence, for now use of wound VACs remains in practice as large, randomized trials and meta-analysis from other surgical
+specialties support its use. [52] Other factors that should be given consideration in the early postoperative setting include assistance in
+ambulation to prevent excessive straining and wound tension. Management of flap necrosis and groin wound dehiscence once it happens is typically wet-to-dry dressings or VAC dressing (special
+vascular dressings) followed by plastic surgery closure in a delayed
+fashion or allowing the wound to heal via secondary intention.
+Postoperative seromas, hematomas, and lymphoceles may be prevented by meticulous surgical dissection of blood vessels and lymphatics, as well as insertion of closed suction drain to avoid excessive
+fluid collection. The inguinal drain output should be closely monitored for output and consistency and maintained until drainage is
+<30-50 mL per 24 hours. [6] In some cases, patients may need to be
+educated on proper maintenance because they may be discharged
+home with drains in place. As these patients are high risk for developing infections, utilization of chlorhexidine impregnated disc at the
+drain exit site may be an avenue to reduce infection rates as has been
+shown in randomized controlled trials. [53] In cases with excessive fluid
+
+collection on imaging following drain removal, image-guided drain
+
+
+placement with later lymphatic embolization [54] or operative exploration may be required in refractory cases.
+Lower extremity lymphedema can be minimized in part by saphenous-vein sparing and prevention of SSI, early use of fitted compression devices, and a preemptive referral to lymphedema specialist. [6]
+
+ILND is considered a high-risk procedure for development of DVT/PE.
+Strategies such as use of perioperative sequential compression devices, administration of prophylactic low-molecular-weight heparin,
+direct oral anticoagulant agents use (associated with better adherence compared to injectable anticoagulants), and early ambulation
+can help mitigate the risk in this patient population. [6]
+
+Conclusion
+
+Penile cancer is a disease of the elderly with multiple comorbidities, its surgical management is associated with high rates of acute
+postoperative complications. The rates of 30-day complications following primary penile surgery and ILND range from 0% to 29.4% and
+6% to 90%, respectively. A vast majority of these complications are
+wound related. Among patients undergoing groin surgery, radical
+open ILND is associated with highest rates of complications, whereas
+modified and minimally invasive approaches appear to be associated
+with lower postoperative morbidity. Expert surgery, and early recognition and timely treatment of complications is of paramount importance in management of this patient population. Although steady
+advances have been made in surgical techniques and protocolized
+postsurgical care pathways over the past 20 years, the rates of complications after penile surgery are high, and have remained so, even
+in the most contemporary series. This suggests an urgent need for
+health care providers and stakeholders to reach consensus regarding
+preoperative workup and medical optimization goals, stage-based
+surgical treatment options, and postoperative care pathways for
+these patients.
+
+References
+
+[1. Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer statistics, 2021. CA Cancer J Clin.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0001)
+[2021;71(1):7–33.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0001)
+[2. Sung H, Ferlay J, Siegel RL, et al. Global cancer statistics 2020: GLOBOCAN estimates](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0002)
+[of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0002)
+[Clin. 2021;71(3):209–249.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0002)
+[3. Partin AW, Wein AJ, Kavoussi LR, Peters CA, Dmochowski RR. Campbell Walsh Wein](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0003)
+[Urology. Philadelphia, PA: Elsevier Health Sciences; 2020.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0003)
+[4. Spiess PE, National Comprehensive Cancer Network. New treatment guidelines for](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0004)
+[penile cancer. J Natl Compr Canc Netw. 2013;11(5 Suppl):659–662.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0004)
+[5. Velazquez N, Press B, Renson A, et al. Development of a novel prognostic risk score](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0005)
+[for predicting complications of penectomy in the surgical management of penile](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0005)
+[cancer. Clin Genitourin Cancer. 2019;17(1):e123–e129.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0005)
+[6. Spiess PE, Hernandez MS, Pettaway CA. Contemporary inguinal lymph node dissec-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0006)
+[tion: minimizing complications. World J Urol. 2009;27(2):205–212.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0006)
+[7. Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group. Preferred reporting](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0007)
+[items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0007)
+[2009;6:(7) e1000097.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0007)
+[8. Higgins JP, Thomas J, Chandler J, et al. Cochrane Handbook for Systematic Reviews of](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0008)
+[Interventions. 2nd ed Chichester, UK: John Wiley & Sons; 2019.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0008)
+[9. Dalziel K, Round A, Stein K, Garside R, Castelnuovo E, Payne L. Do the findings of](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0009)
+[case series studies vary significantly according to methodological characteristics?](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0009)
+[Health Technol Assess. 2005;9(2):1–146. iii-iv.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0009)
+[10. de Vries HM, Chipollini J, Slongo J, et al. Outcomes of perineal urethrostomy for](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0010)
+[penile cancer: A 20-year international multicenter experience. Urol Oncol. 2021;39](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0010)
+[(8):500.. e9-500.e13.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0010)
+[11. Falcone M, Oderda M, Calleris G, Peretti F, Gontero P. Surgical outcomes of glansec-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0011)
+[tomy and split thickness skin graft reconstruction for localized penile cancer. Urol-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0011)
+[ogy. 2021;152:195.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0011)
+[12. Beech BB, Chapman DW, Rourke KF. Clinical outcomes of glansectomy with split-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0012)
+[thickness skin graft reconstruction for localized penile cancer. Can Urol Assoc J.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0012)
+[2020;14(10):E482–E486.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0012)
+[13. Parnham AS, Albersen M, Sahdev V, et al. Glansectomy and split-thickness skin](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0013)
+[graft for penile cancer. Eur Urol. 2018;73(2):284–289.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0013)
+[14. Veeratterapillay R, Sahadevan K, Aluru P, Asterling S, Rao GS, Greene D. Organ-pre-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0014)
+[serving surgery for penile cancer: description of techniques and surgical outcomes.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0014)
+[BJU Int. 2012;110(11):1792–1795.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0014)
+[15. Hakansson U, Kirrander P, Uvelius B, Baseckas G, Torbrand C. Organ-sparing recon-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0015)
+[structive surgery in penile cancer: initial experiences at two Swedish referral](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0015)
+[centres. Scand J Urol. 2015;49(2):149–154.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0015)
+
+A. Sood et al. / Seminars in Oncology Nursing 38 (2022) 151285 13
+
+
+[16. Falcone M, Preto M, Oderda M, et al. Total glans resurfacing for the management of](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0016)
+[superficial penile cancer: a retrospective cohort analysis in a tertiary referral cen-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0016)
+[ter. Urology. 2020;145:281–286.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0016)
+[17. O'Kelly F, Lonergan P, Lundon D, et al. A prospective study of total glans resurfacing](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0017)
+[for localized penile cancer to maximize oncologic and functional outcomes in a ter-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0017)
+[tiary referral network. J Urol. 2017;197(5):1258–1263.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0017)
+[18. Lucky M, Murthy KV, Rogers B, et al. The treatment of penile carcinoma in situ (CIS)](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0018)
+[within a UK supra-regional network. BJU Int. 2015;115(4):595–598.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0018)
+[19. Koifman L, Hampl D, Koifman N, Vides AJ, Ornellas AA. Radical open inguinal lym-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0019)
+[phadenectomy for penile carcinoma: surgical technique, early complications and](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0019)
+[late outcomes. J Urol. 2013;190(6):2086–2092.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0019)
+[20. Stuiver MM, Djajadiningrat RS, Graafland NM, Vincent AD, Lucas C, Horenblas S.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0020)
+[Early wound complications after inguinal lymphadenectomy in penile cancer: a](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0020)
+[historical cohort study and risk-factor analysis. Eur Urol. 2013;64(3):486–492.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0020)
+[21. Perdona S, Autorino R, De Sio M, et al. Dynamic sentinel node biopsy in clinically](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0021)
+[node-negative penile cancer versus radical inguinal lymphadenectomy: a compar-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0021)
+[ative study. Urology. 2005;66(6):1282–1286.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0021)
+[22. Nelson BA, Cookson MS, Smith JA, Jr, Chang SS. Complications of inguinal and pel-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0022)
+[vic lymphadenectomy for squamous cell carcinoma of the penis: a contemporary](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0022)
+[series. J Urol. 2004;172(2):494–497.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0022)
+[23. Lopes A, Hidalgo GS, Kowalski LP, Torloni H, Rossi BM, Fonseca FP. Prognostic fac-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0023)
+[tors in carcinoma of the penis: multivariate analysis of 145 patients treated with](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0023)
+[amputation and lymphadenectomy. J Urol. 1996;156(5):1637–1642.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0023)
+[24. Ayyappan K, Ananthakrishnan N, Sankaran V. Can regional lymph node involve-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0024)
+[ment be predicted in patients with carcinoma of the penis? Br J Urol. 1994;73](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0024)
+[(5):549–553.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0024)
+[25. Ravi R. Morbidity following groin dissection for penile carcinoma. Br J Urol.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0025)
+[1993;72(6):941–945.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0025)
+[26. Johnson DE, Lo RK. Complications of groin dissection in penile cancer. Experience](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0026)
+[with 101 lymphadenectomies. Urology. 1984;24(4):312–314.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0026)
+[27. Bouchot O, Rigaud J, Maillet F, Hetet JF, Karam G. Morbidity of inguinal lymphade-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0027)
+[nectomy for invasive penile carcinoma. Eur Urol. 2004;45(6):761–765. discussion](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0027)
+[765-766.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0027)
+[28. Bevan-Thomas R, Slaton JW, Pettaway CA. Contemporary morbidity from lympha-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0028)
+[denectomy for penile squamous cell carcinoma: the M.D. Anderson Cancer Center](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0028)
+[Experience. J Urol. 2002;167(4):1638–1642.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0028)
+[29. d'Ancona CA, de Lucena RG, Querne FA, Martins MH, Denardi F, Netto NR, Jr. Long-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0029)
+[term followup of penile carcinoma treated with penectomy and bilateral modified](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0029)
+[inguinal lymphadenectomy. J Urol. 2004;172(2):498–501. discussion 501.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0029)
+[30. Parra RO. Accurate staging of carcinoma of the penis in men with nonpalpable](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0030)
+[inguinal lymph nodes by modified inguinal lymphadenectomy. J Urol. 1996;155](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0030)
+[(2):560–563.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0030)
+[31. Tsaur I, Biegel C, Gust K, et al. Feasibility, complications and oncologic results of a](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0031)
+[limited inguinal lymph node dissection in the management of penile cancer. Int](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0031)
+[Braz J Urol. 2015;41(3):486–495.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0031)
+[32. Yao K, Zou ZJ, Li ZS, et al. Fascia lata preservation during inguinal lymphade-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0032)
+[nectomy for penile cancer: rationale and outcome. Urology. 2013;82(3):642–](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0032)
+[647.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0032)
+[33. Yao K, Tu H, Li YH, et al. Modified technique of radical inguinal lymphadenectomy](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0033)
+[for penile carcinoma: morbidity and outcome. J Urol. 2010;184(2):546–552.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0033)
+[34. Meneses AD, Mattos PAL, Eulalio WMNF, Fe TSM, Rodrigues RMM, Tobias-Machado](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0034)
+[M. Initial experience of video endoscopic inguinal lymphadenectomy in a center](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0034)
+[located at northeast Brazilian region. Int Braz J Urol. 2019;45(2):325–331.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0034)
+[35. Ye YL, Guo SJ, Li ZS, et al. Radical videoscopic inguinal lymphadenectomies: a](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0035)
+[matched pair analysis. J Endourol. 2018;32(10):955–960.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0035)
+
+
+[36. Yuan P, Zhao C, Liu Z, et al. Comparative study of video endoscopic inguinal lym-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0036)
+[phadenectomy through a hypogastric vs leg subcutaneous approach for penile](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0036)
+[cancer. J Endourol. 2018;32(1):66–72.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0036)
+[37. Cui Y, Chen H, Liu L, et al. Saphenous vein sparing during laparoscopic bilateral](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0037)
+[inguinal lymphadenectomy for penile carcinoma patients. Int Urol Nephrol.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0037)
+[2016;48(3):363–366.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0037)
+[38. Yuan JB, Chen MF, Qi L, et al. Preservation of the saphenous vein during laparoen-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0038)
+[doscopic single-site inguinal lymphadenectomy: comparison with the conven-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0038)
+[tional laparoscopic technique. BJU Int. 2015;115(4):613–618.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0038)
+[39. Kumar V, Sethia KK. Prospective study comparing video-endoscopic radical ingui-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0039)
+[nal lymph node dissection (VEILND) with open radical ILND (OILND) for penile](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0039)
+[cancer over an 8-year period. BJU Int. 2017;119(4):530–534.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0039)
+[40. Master V, Ogan K, Kooby D, Hsiao W, Delman K. Leg endoscopic groin lymphade-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0040)
+[nectomy (LEG procedure): step-by-step approach to a straightforward technique.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0040)
+[Eur Urol. 2009;56(5):821–828.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0040)
+[41. Fankhauser CD, Lee EWC, Issa A, et al. Saphenous-sparing ascending video endo-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0041)
+[scopic inguinal lymph node dissection using a leg approach: surgical technique](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0041)
+[and perioperative and pathological outcomes. Eur Urol Open Sci. 2022;35:9–13.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0041)
+[42. Singh A, Jaipuria J, Goel A, et al. Comparing outcomes of robotic and open inguinal](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0042)
+[lymph node dissection in patients with carcinoma of the penis. J Urol. 2018;199](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0042)
+[(6):1518–1525.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0042)
+[43. Russell CM, Salami SS, Niemann A, et al. Minimally invasive inguinal lymphadenec-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0043)
+[tomy in the management of penile carcinoma. Urology. 2017;106:113–118.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0043)
+[44. Matin SF, Cormier JN, Ward JF, et al. Phase 1 prospective evaluation of the oncolog-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0044)
+[ical adequacy of robotic assisted video-endoscopic inguinal lymphadenectomy in](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0044)
+[patients with penile carcinoma. BJU Int. 2013;111(7):1068–1074.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0044)
+[45. Cozzi G, Musi G, Ferro M, et al. Robot-assisted inguinal lymphadenectomy: prelimi-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0045)
+[nary experience and perioperative outcomes from an Italian referral center. Ther](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0045)
+[Adv Urol. 2020;12: 1756287220913386.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0045)
+[46. Lightner DJ, Wymer K, Sanchez J, Kavoussi L. Best practice statement on urologic](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0046)
+[procedures and antimicrobial prophylaxis. J Urol. 2020;203(2):351–356.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0046)
+47. The Joint Commission. Specifications manual for Joint Commission national quality
+core measures (2010A1). Contraindication to both ACEI and ARB at discharge.
+[Available from https://manual.jointcommission.org/releases/archive/TJC2010B/Pro](https://manual.jointcommission.org/releases/archive/TJC2010B/ProphylacticAntibioticRegimenSelectionForSurgery.html)
+[phylacticAntibioticRegimenSelectionForSurgery.html. Accessed January 8, 2017.](https://manual.jointcommission.org/releases/archive/TJC2010B/ProphylacticAntibioticRegimenSelectionForSurgery.html)
+[48. Chung J, Modrall JG, Ahn C, Lavery LA, Valentine RJ. Multidisciplinary care](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0048)
+[improves amputation-free survival in patients with chronic critical limb ischemia.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0048)
+[J Vasc Surg. 2015;61(1):162–169.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0048)
+[49. Mii S, Tanaka K, Kyuragi R, et al. Aggressive wound care by a multidisciplinary](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0049)
+[team improves wound healing after infrainguinal bypass in patients with critical](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0049)
+[limb ischemia. Ann Vasc Surg. 2017;41:196–204.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0049)
+[50. Josephs LG, Cordts PR, DiEdwardo CL, LaMorte WW, Menzoian JO. Do infected](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0050)
+[inguinal lymph nodes increase the incidence of postoperative groin wound infec-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0050)
+[tion? J Vasc Surg. 1993;17(6):1077–1080. discussion 1080-1072.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0050)
+[51. Schmid SC, Seitz AK, Haller B, et al. Final results of the PraVAC trial: prevention of](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0051)
+[wound complications following inguinal lymph node dissection in patients with](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0051)
+[penile cancer using epidermal vacuum-assisted wound closure. World J Urol.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0051)
+[2021;39(2):613–620.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0051)
+[52. Ubbink DT, Westerbos SJ, Evans D, Land L, Vermeulen H. Topical negative pressure](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0052)
+[for treating chronic wounds. Cochrane Database Syst Rev. 2008(3) CD001898.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0052)
+[53. Degnim AC, Scow JS, Hoskin TL, et al. Randomized controlled trial to reduce bacte-](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0053)
+[rial colonization of surgical drains after breast and axillary operations. Ann Surg.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0053)
+[2013;258(2):240–247.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0053)
+[54. Inoue M, Nakatsuka S, Yashiro H, et al. Lymphatic intervention for various types of](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0054)
+[lymphorrhea: access and treatment. Radiographics. 2016;36(7):2199–2211.](http://refhub.elsevier.com/S0749-2081(22)00038-9/sbref0054)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,851 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    # ***cancers***
+
+*Systematic Review*
+## **The Influence of the Microbiome on Urological Malignancies:** **A Systematic Review**
+
+**Joao G. Porto** **[1]** **, Maria Camila Suarez Arbelaez** **[1]** **, Brandon Pena** **[1,2]** **, Archan Khandekar** **[1]** **, Ankur Malpani** **[1]** **,**
+**Bruno Nahar** **[1]** **, Sanoj Punnen** **[1]** **, Chad R. Ritch** **[1]** **, Mark L. Gonzalgo** **[1]** **, Dipen J. Parekh** **[1]** **, Robert Marcovich** **[1]**
+
+**and Hemendra N. Shah** **[1,]** *****
+
+1 Desai Sethi Urology Institute, University of Miami, Miller School of Medicine, Miami, FL 33136, USA
+2 Stony Brook University Hospital, Stony Brook, NY 11794, USA
+***** Correspondence: hns35@miami.edu
+
+**Simple Summary:** The human microbiome has become an increasingly important area of study in
+recent years, with growing evidence suggesting that it plays a critical role in numerous diseases,
+including those affecting the urinary tract. However, the specific role of the microbiome in malignant urologic diseases remains largely unknown. Our study aimed to synthesize current evidence
+regarding the relationship between the microbiome and these urologic conditions, such as prostate,
+bladder, kidney, penile, and testicular cancer. Our systematic review of 37 studies provides an
+up-to-date overview of the microbiome’s role in urologic health concerns. Using the present study
+as a guide, future studies have potential for microbiome-focused interventions to offer hope for
+presently unexplained medical conditions.
+
+
+**Citation:** Porto, J.G.; Arbelaez,
+
+M.C.S.; Pena, B.; Khandekar, A.;
+
+Malpani, A.; Nahar, B.; Punnen, S.;
+
+Ritch, C.R.; Gonzalgo, M.L.; Parekh,
+
+D.J.; et al. The Influence of the
+
+Microbiome on Urological
+
+Malignancies: A Systematic Review.
+
+*Cancers* **2023**, *15* [, 4984. https://](https://doi.org/10.3390/cancers15204984)
+
+[doi.org/10.3390/cancers15204984](https://doi.org/10.3390/cancers15204984)
+
+Academic Editor: Hisham Bahmad
+
+Received: 15 September 2023
+
+Revised: 10 October 2023
+
+Accepted: 11 October 2023
+
+Published: 14 October 2023
+
+**Copyright:** © 2023 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+[Attribution (CC BY) license (https://](https://creativecommons.org/licenses/by/4.0/)
+
+[creativecommons.org/licenses/by/](https://creativecommons.org/licenses/by/4.0/)
+
+4.0/).
+
+
+**Abstract:** The microbiome, once considered peripheral, is emerging as a relevant player in the
+intricate web of factors contributing to cancer development and progression. These often overlooked
+microorganisms, in the context of urological malignancies, have been investigated primarily focusing
+on the gut microbiome, while exploration of urogenital microorganisms remains limited. Considering
+this, our systematic review delves into the complex role of these understudied actors in various
+neoplastic conditions, including prostate, bladder, kidney, penile, and testicular cancers. Our analysis
+found a total of 37 studies (prostate cancer 12, bladder cancer 20, kidney cancer 4, penile/testicular
+cancer 1), revealing distinct associations specific to each condition and hinting at potential therapeutic
+avenues and future biomarker discoveries. It becomes evident that further research is imperative to
+unravel the complexities of this domain and provide a more comprehensive understanding.
+
+**Keywords:** microbiome; prostate cancer; bladder cancer; kidney cancer; testicular cancer; penile cancer
+
+**1. Introduction**
+
+Defining the term “microbiome” is complex due to the intricate relationships within
+microbial communities and their host organisms. Over time, numerous definitions have
+emerged, with some focusing on the community of microorganisms, others emphasizing
+their collective genomes, or others yet looking at the broader ecological context, including
+biotic and abiotic conditions. Despite the varying definitions, it is essential to view the
+microbiome as a dynamic ecosystem, highlighting the interconnections among microorganisms and their environment [ 1 – 3 ]. Extensive exploration of the role of the microbiome
+in cancer evolution has demonstrated that while the microbiome can affect cancer cells
+
+themselves, it can also modulate cancer immunosurveillance [4,5].
+Cancer has an immense impact on international health and lifespan. An extensive
+analysis of cancer prevalence and mortality data from GLOBOCAN, encompassing 185
+nations and 36 distinct types of cancer, estimated that in 2020 there were approximately
+19.3 million cases of cancer and nearly 10 million deaths worldwide due to the disease.
+
+
+*Cancers* **2023**, *15* [, 4984. https://doi.org/10.3390/cancers15204984](https://doi.org/10.3390/cancers15204984) [https://www.mdpi.com/journal/cancers](https://www.mdpi.com/journal/cancers)
+
+*Cancers* **2023**, *15*, 4984 2 of 14
+
+Alarming projections indicate that the worldwide toll of cancer is anticipated to rise to
+28.4 million incidences by the year 2040 [6].
+Worldwide in 2018, approximately 2.2 million cancer diagnoses were linked to infections. Moreover, it is believed that nearly one-fifth of all human cancers could possibly
+result from infectious pathogens [7].
+The human microbiome, an expansive network of often overlooked organisms, plays a
+crucial role in our health and wellbeing. Individual differences in these microbiomes result
+in a distinctive, ever-changing microbial fingerprint [ 8 ]. These microbes have demonstrated
+various functions, including metabolism, local and systemic inflammation, and immunity.
+Many studies have pinpointed discrepancies in microbial fingerprints between healthy
+individuals and patients with urological malignancies. Such microbiomes have been
+found to host microbes that might contribute to the development of disease and provide
+insights about a person’s health and response to specific drugs, such as immune checkpoint
+inhibitors (ICIs) and tyrosine kinase inhibitors (TKIs).
+
+**2. Materials and Methods**
+
+On 28 March 2023, we conducted a comprehensive literature search on Ovid MEDLINE
+using the following keywords: “microbiota” AND “prostate cancer”, “microbiota” AND
+“bladder cancer”, “microbiota” AND “renal cancer”, “microbiota” AND “testicular cancer”,
+and “microbiota” AND “penis cancer”. The aim of the search was to identify relevant
+clinical microbiome studies associated with noninfectious malignant urological conditions
+that were published between 2013 and 2023. This systematic review was not registered.
+The inclusion criteria for the purposes of this review included the following: all studies
+had to (i) be solely focused on assessing the relationships between the urine microbiome and
+non-infectious neoplastic urologic diseases; (ii) use human clinical samples; (iii) perform
+16S ribosomal RNA (rRNA) gene sequencing through polymerase chain reaction (PCR) or
+next generation sequencing (NGS); (iv) be written in English.
+This systematic review strictly adhered to the preferred reporting items for systematic
+reviews and meta-analyses (PRISMA) framework (Figure 1). Initially, after removing
+duplicate entries, a thorough evaluation of search results was carried out independently
+by three reviewers (BP, JGP, and MCS), who screened titles and abstracts for relevance.
+Following this, the chosen set of studies underwent a second screening process based
+on the full-text articles. Exclusions were made for review articles, editorials, comments,
+systematic reviews, or conference abstracts lacking complete data. Additionally, studies
+involving the gut microbiome, animal subjects, or in vitro experiments were also excluded.
+Since this study only utilized publicly available unidentified data from known publications,
+institutional review board approval or patient consent were not required.
+In case of any disagreements during the review process, a fourth member (HNS)
+was consulted, and a consensus was diligently reached. In total, our analysis identified
+37 studies that met the specified criteria and aligned seamlessly with the focus of our
+research [ 9 – 45 ]. These studies were meticulously categorized into four distinct groups:
+prostate cancer (12), bladder cancer (20), kidney cancer (4), and penis/testicular cancer (1),
+ensuring a structured approach to our findings (Table 1).
+
+*Cancers* **2023**, *15*, 4984 3 of 14
+
+**Figure 1.** PRISMA 2020 flow diagram for systematic reviews.
+
+**Table 1.** Prostate, bladder, kidney, and testicular cancer studies with related microbiome features.
+
+**Study** **Number of Participants** **Specimen** **Sequencing Technique**
+
+**Prostate cancer**
+
+Cohen et al. (2005) [9] 34 PCa Tumor tissue 16S rRNA seq
+
+Yu et al. (2015) [10] 13 PCa and 21 BPH Urine sampling, prostatic PCR-DGGE
+secretions, and seminal fluid
+
+Cavarretta et al. (2017) [11] 6 PCa Tumor tissue, peri-tumor, and NGS
+ANT
+
+Yow et al. (2017) [12] 10 PCa Tumor tissue 16S rRNA seq
+
+Shrestha et al. (2018) [13] 65 benign tissue, 65 PCa Urine sampling 16S rRNA/16S rDNA
+
+Alanee et al. (2019) [14] 30 PCa Urine and fecal sampling NGS
+
+Hurst et al. (2022) [15] 300 PCa Urine sampling, prostate 16S rRNA seq
+secretions, and tumor tissue
+
+Sarkar et al. (2022) [16] 16 PCa and 15 BPH Tumor tissue 16S rRNA seq
+
+Feng et al. (2019) [17] 28 PCa Tumor tissue NGS
+
+Feng et al. (2019) [18] 65 PCa Tumor tissue and ANT DNA and RNA seq
+
+Salachan et al. (2022) [19] 94 PCa Tumor tissue RNA seq
+
+*Cancers* **2023**, *15*, 4984 4 of 14
+
+**Table 1.** *Cont* .
+
+**Study** **Number of Participants** **Specimen** **Sequencing Technique**
+
+Banerjee et al. (2019) [20] 50 PCa and 15 benign tissues Tumor tissue and benign tissue NGS
+
+**Bladder cancer**
+
+Mid-stream urine and tumor
+Zhang et al. (2023) [21] 51 NMIBC and 47 controls tissue 16S rRNA seq
+
+Hrbacek et al. (2023) [22] 34 NMIBC and 29 controls Mid-stream urine 16S rRNA seq
+
+Mansour et al. (2022) [23] 55 bladder cancer and 12 controls Urine sampling and tumor tissue 16S rRNA seq
+
+Parra-Grande et al. (2022) [24] 32 bladder cancer and 26 controls Tumor tissue and ANT 16s rRNA seq
+
+Mid-stream urine and tumor
+Chen et al. (2022) [25] 28 NMIBC tissue 16s rRNA seq
+
+Ahn et al. (2022) [26] 30 bladder cancer Urine sampling 16s rRNA seq
+
+Mid-stream urine and tumor
+Qiu et al. (2022) [27] 40 NMIBC tissue 16s rRNA seq
+
+Nadler et al. (2021) [28] 10 NMIBC Tumor tissue 16s rRNA seq
+
+Ma et al. (2021) [29] 15 bladder cancer and 11 controls Mid-stream urine 16s rRNA seq
+
+Pederzoli et al. (2020) [30] 49 bladder cancer and 59 controls Urine sampling and tumor tissue 16s rRNA seq
+
+Hussein et al. (2021) [31] 43 bladder cancer and 10 controls Urine sampling 16s rRNA seq
+
+Chipollini et al. (2020) [32] 27 bladder cancer and 10 controls Mid-stream urine 16s rRNA seq
+
+Hourigan et al. (2020) [33] 22 bladder cancer Mid-stream urine 16s rRNA seq
+
+Zeng et al. (2020) [34] 62 (51 NMIBC/11 MIBC) and 19 controls Mid-stream urine 16s rRNA seq
+
+Mansour et al. (2020) [35] 6 NMIBC and 4 MIBC Urine sampling and tumor tissue 16s rRNA seq
+
+Bi et al. (2019) [36] 29 bladder cancer and 26 controls Mid-stream urine 16s rRNA seq
+
+Liu et al. (2019) [37] 22 NMIBC/MIBC and 12 controls Tumor tissue and ANT 16s rRNA seq
+
+Moynihan et al. (2019) [38] 8 bladder cancer and 32 controls Mid-stream urine 16s rRNA seq
+
+Mid-stream urine and tumor
+Buˇcevi´c et al. (2018) [39] 17 NMIBC and 19 controls tissue 16s rRNA seq
+
+Wu et al. (2018) [40] 31 (26 NMIBC/5 MIBC) and 18 controls Mid-stream urine 16s rRNA seq
+
+**Kidney cancer**
+
+Liss et al. (2020) [41] 6 ccRCC ANT, tumor tissue, and thrombus 16S rRNA seq
+
+Wang et al. (2021) [42] 24 RCC Tumor tissue and ANT 16S rRNA seq
+
+Heidler et al. (2020) [43] 5 RCC Tumor tissue and benign renaltissue 16S DNA seq
+
+Najm et al. (2022) [44] 20 RCC     - log RNA Seq CPM
+
+**Testicular cancer**
+
+Mørup et al. (2022) [45] 5 GCNIS-only, 18 TGCT, and 25 controls Semen RNA seq
+
+ANT: adjacent normal tissue; BPH: benign prostatic hyperplasia; ccRCC: clear cell renal carcinoma; GCNIS: germ
+cell neoplasia in situ; MIBC: muscle invasive bladder cancer; NGS: next-generation sequencing; NMIBC: nonmuscle invasive bladder cancer; PCa: prostate cancer; PCR-DGCE: polymerase chain reaction/denaturing gradient
+gel electrophoresis; RCC: renal carcinoma; rDNA: ribosomal DNA; rRNA: ribosomal RNA; Seq: sequencing;
+TGCT: testicular germ cell tumor.
+
+**3. Discussion**
+
+*3.1. Prostate Cancer*
+
+Prostate cancer (PCa), resulting in over 250,000 deaths worldwide annually, represents
+the prevailing form of nonskin malignancy and stands as the 6th foremost contributor
+to cancer-related fatalities in men, thereby engendering significant apprehension within
+the realm of public health [ 15, 16 ]. Recent insights have increasingly implicated chronic
+inflammation as a crucial factor in the pathogenesis of PCa [ 46 ]. Given the well-established
+role of microorganisms in provoking prostatic inflammation, the question of whether a
+correlation exists between the microbiome and PCa has emerged [9,46].
+
+*Cancers* **2023**, *15*, 4984 5 of 14
+
+The gastrointestinal microbiome stands as one of the most extensively investigated
+human microbiomes. Numerous studies have delved into its potential correlation with
+PCa pathogenesis, treatment response, and prognosis [ 47 – 49 ]. However, recent attention
+has shifted towards other microbiotas, such as the urinary microbiome, as the prostate–
+urine loop has exhibited promising outcomes. For instance, Alanee et al. reported that
+individuals diagnosed with PCa exhibited similar bacterial communities that clustered
+separately from those without cancer [ 14 ]. Additionally, it was observed that patients with
+PCa exhibited a significantly lower urinary alpha diversity in comparison to individuals
+without malignancy. Notably, patients with Gleason 7 cancer displayed a distinct urinary
+microbiome profile when contrasted with men who did not harbor malignancy. Conversely,
+fecal samples did not demonstrate any clustering or significant disparity in alpha diversity
+or Gleason staging concerning benign or malignant prostate biopsies [14].
+Similarly, in a case-control study comparing men with benign and malignant prostate
+biopsies, noteworthy findings emerged. The study revealed that biopsies containing a
+higher degree of cancer exhibited a distinct urinary cluster of bacteria, including *Strepto-*
+*coccus anginosus*, *Anaerococcus lactolyticus*, *Anaerococcus obesiensis*, *Actinobaculum schaalii*,
+*Varibaculum cambriense*, and *Propionimicrobium lymphophilum* [ 13 ]. Nonetheless, no significant differences were found in the urinary alpha or beta diversity between the cases
+and controls. Furthermore, there was no disparity detected in the relative abundance of
+*Propionibacterium acnes*, a species previously associated with PCa [9,13].
+Interestingly, a study that evaluated urine samples after digital rectal exam and
+prostatic secretions after prostatectomy found five genera of strict anaerobes ( *Fenollaria*,
+*Peptoniphilus*, *Anaerococcus*, *Porphyromonas*, and *Fusobacterium* ) that could serve as urinary biomarkers due to their association with PCa aggressiveness and biochemical recurrence [15], highlighting the great potential that the urinary microbiome could play in PCa
+diagnosis, staging, and even prognosis.
+While bacteria are the most frequently detected germ in the human microbiome,
+investigations in the context of PCa have unveiled the presence of viruses, fungi, and
+even protozoa. For example, Wang et al. discovered that in the plasma microbiome of
+men with PCa, the beta diversity of the circulating fungal microbiome exhibited notable
+distinctions when compared to age- and race-matched healthy controls [ 50 ]. Moreover,
+their findings highlighted a significant enrichment of class *Sordariomycetes* among PCa
+patients with advanced pathological grades (pT3 or pT4) [ 50 ]. Banerjee et al. also reported a
+distinguished fungal microbiome when comparing the prostate specimens of patients with
+benign prostatic hyperplasia (BPH) and PCa, finding that the majority of the fungal signatures in PCa arose from the division *Ascomycota* (61%) [ 20 ]. Remarkably, the researchers
+also observed distinct viral compositions among the groups under investigation. However,
+what proved to be particularly intriguing was their ability to identify the integration of
+viral and microbial DNA into human chromosomes [ 20 ]. The study revealed a significant
+number of genomic integration sites, with human papillomavirus (HPV) 18 exhibiting the
+highest count, followed by Kaposi sarcoma-associated herpesvirus (KSHV) and HPV2. It is
+worth noting that these viruses have been previously linked to tumorigenesis [20].
+A study conducted with a similar objective, comparing the microbiome in biopsies
+from men diagnosed with BPH and PCa, revealed a high prevalence of tumorigenic viruses,
+such as HPV and hepatitis B virus (HBV), in the PCa specimens. Furthermore, a robust association was established between the presence of these viruses and the elevated abundance
+of two distinct bacterial species, *Cupriavidus taiwanensis* and *Methylobacterium organophilum*,
+within diseased prostate lesions [ 16 ]. The notable prevalence of these tumorigenic viruses
+raises the question of whether there is an association between sexually transmitted infections and the inflammatory environment that contributes to prostate carcinogenesis.
+Miyake et al. elegantly answered this question by screening surgical and biopsy specimens
+from 45 patients with PCa (cases) and 33 patients with BPH (controls) against a panel of
+sexually transmitted infection-related organisms [ 51 ]. They found that among the tested
+organisms, *Mycoplasma genitalium* was significantly more prevalent in the PCa group and
+
+*Cancers* **2023**, *15*, 4984 6 of 14
+
+was associated with the extensiveness of the diseases. Nonetheless, it is important to note
+that no significant association was found between *Mycoplasma genitalium* and the grade of
+intraprostatic inflammation [51].
+Another intriguing aspect potentially linking PCa and the microbiome pertains to
+whether the observed variations in incidence across races and geographical locations correspond to disparities in the microbiome’s composition. A study comparing fresh prostate
+biopsies from age-matched Africans and Australians reported that the overall bacterial
+composition was similar between groups, with the most abundant genera being *Escherichia*,
+*Propionibacterium*, and *Pseudomonas* [ 17 ]. A significantly higher bacterial richness was observed in the African group, suggesting that bacterially driven oncogenic transformation
+within the prostate microenvironment may contribute to the aggressive disease presentation
+commonly observed in Africans [17].
+Interestingly, a parallel study conducted in a Chinese population revealed comparable
+findings, with *Escherichia*, *Propionibacterium*, and *Pseudomonas* emerging as the most abundant genera within the prostate [ 18 ]. Furthermore, they reported no discernible differences
+in the alpha diversity or relative abundances between the tumor and adjacent benign
+prostate tissue. Consequently, no definitive association could be established between
+the microbiome and the Gleason stage or the prostate-specific antigen (PSA) level [ 18 ].
+Likewise, a study examining prostate cancer tumor, peri-tumor, and non-tumor tissues in
+white, nondiabetic, nonobese PCa patients yielded analogous results [ 11 ]. These findings
+underscore the need for further investigation to elucidate the intricate interplay between
+the microbiome, prostate cancer, race, and geographical location. Additional studies are
+necessary to consolidate and strengthen the existing body of evidence.
+Prostate cancer showcases a distinctive signature within the urine, plasma, and
+prostate microbiotas. Further, PCa has demonstrated variations in terms of alpha diversity, beta diversity, and species composition when compared to other genitourinary
+malignancies, such as bladder and kidney cancer [ 26 ]. The unique microbiome alterations
+associated with it have also been implicated in metagenomic and metabolic changes that
+have even been linked with modifications in inflammatory responses [ 19 ]. It is important to
+acknowledge the inherent challenges in generalizing results due to the considerable interand intra-variability of the microbiome. However, the observed associations between PCa
+and the microbiome serve as compelling impetus to further advance research in this field.
+By doing so, we may eventually harness the potential of the microbiome as a diagnostic,
+prognostic, and therapeutic tool.
+
+*3.2. Bladder Cancer*
+
+In 2020, there were a total of 573,278 new urothelial bladder carcinoma cases and
+212,536 deaths, positioning it as the 10th most common form of cancer diagnosed globally [ 52 ]. The bladder was previously thought to be a sterile environment, but emerging
+research has revealed the presence of a distinct microbial community, known as the bladder
+microbiome [53].
+Several studies have reported dysbiotic changes in the bladder microbiome of individuals with bladder cancer. These changes are characterized by a decrease in microbial diversity
+and alterations in the abundance of specific bacterial taxa. It was found that patients with
+bladder cancer had lower alpha diversity than non-cancer patient controls [ 22, 23, 32 ]. Ma
+et al. stated that smoking is one of the main factors affecting the urinary tract’s microbial
+composition on a beta diversity analysis. The top five species in smokers were *Bacteroidetes*,
+*Bacteroides*, *Bacteroidales*, *Clostridia*, and *Clostridiales* [ 29 ]. In addition to the identification of
+specific biomarkers in the bladder, the microbiome may have diagnostic and prognostic
+implications for bladder cancer. Studies have shown the potential of microbial signatures
+as non-invasive biomarkers for early detection and monitoring of bladder cancer. It is well
+known that infections caused by *Schistosoma haematobium*, a species of parasitic blood fluke,
+are associated with the development of squamous cell carcinoma of the bladder due to
+chronic inflammation [ 54 ]. Schistosomiasis progression has also been associated with other
+
+*Cancers* **2023**, *15*, 4984 7 of 14
+
+organisms, like *Fusobacterium*, *Sphingobacterium*, *Bacterioides*, and *Enterococcus*, known as
+mediators of inflammatory and immunologic reactions [55].
+Although the genitourinary microbiome has a possible role in bladder cancer progression, it also has a role in treatment. The Bacillus Calmette–Guerin (BCG) vaccine,
+known to prevent disseminated tuberculosis, has been used to treat both intermediate
+and high-grade non-muscle invasive bladder cancer (NMIBC), as well as specific cases of
+low-grade NMIBC (large, multifocal, recurrent) [ 53, 56 ]. This vaccine is identified as a *My-*
+*cobacterium*, an *Actinomycete* that both activates the immune system and reacts with tumor
+cells, causing apoptosis, necrosis, and oxidative stress [ 57 ]. A study showed a significantly
+higher abundance of Actinobacteria in non-neoplastic bladder mucosa samples than in
+tumor tissues, supporting the hypothesis that microbiota rich in *Actinomycetes* are related
+to the lower incidence of bladder cancer in women and, therefore, may have a preventive
+effect against this type of cancer [24].
+Comparative analysis of the bladder microbiome between cancer patients and controls
+has also provided important insight into how diverse the bacterial species are and how they
+are related to the progression of cancer. In a study completed in the Czech Republic, which
+collected and compared urine samples of 34 men with bladder cancer and 29 control patients and described bladder cancer patients at the phylum level, Firmicutes, Proteobacteria,
+Actinobacteria, and Bacteroidetes were the most predominant [ 22 ]. Mansour et al. described
+a median abundance of *Cyanobacteria*, *Staphylococcus*, and *Corynebacterium* as well as the
+previously mentioned microbial groups. Similar findings were noted in two studies from
+Spain and United States of America: Parra-Grande et al. and Zeng et al., respectively [ 24, 34 ].
+Likewise, some studies reported a high abundance of the phyla Bacteroides, Faecalibacterium, Bacilliales, Clostridium, and Actinobacteria and at the genus level, *Streptococcus*,
+*Lactobacillus*, and *Prevotella* [ 23, 36, 37, 39 ]. Interestingly, there is an association between the
+increased abundance of Fusobacterium and reduced levels of Lactobacillus and bladder
+cancer [ 54 ]. Buˇcevi´c et al. state that *Fusobacterium nucleatum* may be a pro-tumorigenic
+pathogen based on their findings in 11 out of 42 patients [39].
+Compositionally, Perdezoli et al. found that the urinary microbiome was dominated
+by the members of the three major bacterial phyla: Proteobacteria, Firmicutes, and Bacteroidetes, which accounted for 80% in males and 90% in females of all identified taxa [ 30 ].
+Notably, they highlighted the presence of the order *Opitutales* and its subordinate family,
+*Opitutaceae*, as well as the isolated class *Acidobacteria* in males. In females, they identified
+the genus *Klebsiella*, belonging to the family *Enterobacteriaceae* . Furthermore, their research
+revealed a significantly higher abundance of the genus *Burkholderia* in both male and female
+tissues, strongly suggesting its association with bladder cancer [30].
+The microbiome’s composition presented significant differences according to the tumor
+tissue and its grade. Comparing muscle invasive bladder cancer (MIBC) and NMIBC, both
+groups presented Firmicutes, Proteobacteria, Actinobacteria, and Fusobacterium as the
+main phylum level [ 39, 40 ]. Hussein et al. studied 42 patients with bladder cancer (MBIC 14
+and NMIBC 29), finding that *Haemophilus* and *Veillonella* were significantly more abundant
+in the urine of the MIBC patients, while *Cupriavidus* was present in the NMIBC patients;
+when subclassified by sex, they found *Actinobacteria* predominantly in men and *Bacteriodetes*
+in females [31]. Another study with 899 patients from China found that *Eubacterium CAG-*
+*581*, *Bacteroides sp 43-47FAA*, and *Flavobacteriales* were predominant in the NMIBC group,
+reflecting a strong association with a decreased survival rate. Comparing NMIBC patients
+who responded to BCG with those who did not, *Serratia* and *Brochothrix*, *Negativicoccus*,
+*Escherichia-Shigella*, and *Pseudomonas* were significantly more abundant in the respondent
+group [21,31].
+It has also been suggested that the microbiota may upregulate programmed deathligand 1 (PD-L1) expression in epithelial tumors, promoting an immune escape [ 58 ]. Chen
+et al. stated that the rates of recurrence and progression of NMIBC are higher in PD-L1
+positive patients rather than in PD-L1 negative patients. They found that PD-L1 positive
+patients with NMIBC had abundant *Leptotrichia* which is closely related to *Fusobacterium*,
+
+*Cancers* **2023**, *15*, 4984 8 of 14
+
+previously described as a pro-tumorigenic pathogen. On the other hand, *Prevotella* was
+abundant in PD-L1 negative patients with NMIBC [25].
+Further research is needed to elucidate the complex relationship between the bladder
+microbiome and bladder cancer. Longitudinal studies, functional characterization of microbial communities, and investigation of host–microbe interactions will contribute to a
+deeper understanding of the role of the bladder microbiome in disease development and
+
+treatment.
+
+*3.3. Kidney Cancer*
+
+Kidney cancer is ranked as the 14th most prevalent neoplasm on a global scale, with
+an incidence rate of 4.5 cases per 100,000 individuals [ 6, 59 ]. Renal cell carcinoma (RCC)
+most commonly encompasses the primary subtypes of clear cell (ccRCC), papillary, and
+chromophobe [ 60 ]. Generally, risk factors associated with this ailment include smoking,
+obesity, and hypertension [ 61 ]. While research on the impact of microbiomes on this
+condition remains limited, most studies focus on the gut microbiota [ 62 – 71 ]. It is widely
+recognized that gastrointestinal conditions influence the kidney, and investigating the gut
+microbiome offers advantages due to the relatively accessible nature of this microbiome
+as compared to the kidney itself, facilitating sample collection and analysis. However,
+emerging studies on the kidney microbiome itself hold promise for providing further
+insights into kidney cancer and its associated conditions.
+Three studies investigated retrospectively the role of the microbiome in RCC by
+examining mainly neoplastic kidney tissue and adjacent normal tissue (ANT). These studies
+utilized 16S rRNA sequencing as a method to extract bacterial DNA. In a pilot study
+conducted by Heidler et al., five patients with renal cancer (including four with RCC
+and one with chromophobe cell carcinoma) who underwent radical nephrectomy were
+assessed [ 43 ]. There was a significant difference in microorganisms between the malignant
+and benign tissue, with the malignant tissue exhibiting more diversity.
+Another study by Wang et al., involving 24 RCC patients, also revealed a distinct
+composition of the bacterial community in RCC and normal tissues [ 42 ]. However, the
+authors found a decrease in species diversity within the RCC tissue. Both studies reached
+a consensus that Firmicutes, Proteobacteria, Bacteroidetes, and Actinobacteria were the
+predominant phyla in both cancerous and non-cancerous renal tissues. Additionally, both
+studies identified the bacterial family *Comamonadaceae* as significantly more abundant in
+the control group [42,43].
+Furthermore, Wang et al. highlighted the accuracy of prediction of RCC of certain
+microbiomes, where high accuracy was found for the class *Chloroplast* and the order *Strepto-*
+*phyta*, while moderate accuracy for *Deinococcus* and *Phyllobacterium* [ 42 ]. These findings
+indicate the potential for utilizing the microbiome as a reliable biomarker in various areas,
+such as treatment response monitoring, early detection, and prognostic assessment. Additionally, an assessment of tumor grade in neoplasia revealed an interesting trend [ 42 ]. It
+was observed that there is a decreasing trend in microbiota richness as the tumor grade
+increases. Moreover, it was found that *Rhodoplanes* were significantly more abundant in
+grade I RCC samples as compared to grade II samples. These findings provide valuable
+insights into the potential utilization of the microbiome as a risk stratification tool.
+Microbiome-mediated modulation may impact diverse cellular processes and metabolic
+activities, potentially influencing cancer development and progression. Wang et al. investigated this relationship between the microbiome and RCC to comprehend the immune
+response within the tumor microenvironment [ 42 ]. In malignant tissues, they identified
+alterations in pathways related to membrane transport, transcription, and cell growth and
+death, while in ANT tissues, the affected pathways were cell motility, signal transduction,
+metabolism, metabolism of cofactors and vitamins, energy metabolism, and the endocrine
+system. Further investigations into the specific mechanisms underlying these alterations
+could offer promising insights into novel therapeutic approaches targeting the microbiome
+to modulate immune responses and improve patient outcomes in kidney cancer.
+
+*Cancers* **2023**, *15*, 4984 9 of 14
+
+Given the significant roles that various receptors play in the development, progression,
+and targeted treatment of RCC, it is imperative to comprehend the association between the
+microbiome and these pertinent receptors. Liss et al. conducted a study to investigate the
+interaction between the microbiome and PD-L1 receptor expression in relation to venous
+tumor thrombus (TT) in six patients with ccRCC [ 41 ]. The study involved analyzing three
+samples: tumor, ANT, and TT. The findings revealed a greater diversity of microbiota in
+the renal tumor tissue as compared to ANT and TT. Specifically, they identified *Micrococcus*
+*luteus*, *Fusobacterium nucleatum*, *Streptococcus agalactieae*, and *Corynebacterium diphtheriae* in
+the tumor microbiome. Moreover, the authors discovered a correlation between the presence of aggregated oral microbiome within primary renal cancer tumors and its potential
+interaction with the tumor microenvironment. Patients with oral microbiome aggregation
+within the tumor exhibited higher expression of the PD-L1 receptor within the TT. On the
+other hand, in a study conducted by Najm et al., the expression of succinate receptor 1
+(SUCNR1) and its impact on ccRCC and papillary RCC were investigated using the cBio[Portal platform (http://cbioportal.org) [](http://cbioportal.org) 44, 72 – 75 ]. The findings revealed that the SUCNR1
+receptor is associated with distinct microbiome signatures in each RCC subtype, leading
+to different disease-specific survival predictions. Specifically, in ccRCC, high SUCNR1
+receptor expression along with the presence of *Candidatus nitrosopelagicus* and *Indibacter*
+*bacteria* correlated with better survival outcomes. Conversely, the presence of *Anoxybacillus*
+and *Selenomonas* bacteria, along with low SUCNR1 receptor expression, was associated
+with poor disease-specific survival in ccRCC. In papillary RCC, high SUCNR1 receptor
+expression correlated with the presence of *Apibacter* bacteria, which was linked to a worse
+prognosis. Notably, the study highlights the importance of understanding these microbiome profiles and their relationship with SUCNR1 receptor expression in guiding future
+targeted therapies for improved patient selection and outcomes.
+
+*3.4. Penile Cancer*
+
+When it comes to the male genital organ and the microbiome context, the existing
+literature focuses on circumcision and/or sexually transmitted diseases [ 76 – 78 ]. There is a
+notable absence of studies exploring the connection between the penile microbiome and
+penile cancer. Investigating the penile microbiome and its potential impact on penile cancer
+could provide valuable insights and benefits.
+
+*3.5. Testicular Cancer*
+
+Testicular cancer, although rare with a global incidence rate of 0.4%, is the most common malignancy in young men [ 6, 79 ]. Previous studies have explored the microbiome
+of seminal plasma and testicular tissue in benign conditions, revealing the presence of
+*Actinobacteria*, *Bacteroidetes*, *Firmicutes*, and *Proteobacteria* as the most commonly found
+phyla [ 80, 81 ]. However, only one study has specifically investigated microbiomes in the
+context of testicular cancer. Mørup et al. used small RNA sequencing to analyze seminal plasma samples from patients with testicular germ cell tumors (TGCT) and germ
+cell neoplasia in situ (GCNIS) [ 45 ]. Overall, the most prevalent microbes in the study
+were *Alteromonas mediterranea*, *Falconid herpesvirus* 1, and *Stigmatella aurantiaca* . When
+assessing the association with TGCT/GCNIS or GCNIS only, the authors identified *Acary-*
+*ochloris marina*, *Halovirus HGTV-1*, *Thermaerobacter marianensis*, *Thioalkalivibrio sp. K90mix*,
+*Burkholderia sp. YI23*, and *Desulfurivibrio alkaliphilus* as the most common microorganisms.
+Conversely, *Streptomyces phage VWB* was significantly associated with subjects without
+malignancy. Moreover, after a comparison between seminoma and non-seminoma patients,
+no significant differences were observed in terms of microbiome composition.
+The use of seminal plasma in testicular cancer research offers several advantages.
+It is a non-invasive and accessible sampling method, often collected as part of routine
+fertility testing or semen analysis. By analyzing the seminal plasma microbiome, valuable
+insights into the local microenvironment of the male reproductive system are provided.
+This approach holds potential for diagnostic value, as it may help identify biomarkers or
+
+*Cancers* **2023**, *15*, 4984 10 of 14
+
+specific microbial signatures associated with the disease. Such findings could contribute
+to the development of non-invasive screening methods and improved diagnostic tools.
+However, further studies are necessary to compare the microbiomes of malignant and
+benign testicular tissue and to investigate the relationship between the testicular and
+seminal plasma microbiomes. Additionally, exploring the microbiome of seminal vesicles
+could provide additional insights into the microbiome dynamics in this field.
+
+**4. Future Directions**
+
+Scientific understanding within the sphere of the urogenital microbiome and its association with malignant urological conditions is currently in an evolving phase, with
+limited concrete clinical insights to date. While the forefront of microbiome research has
+predominantly centered on the gut microbiome, it is reasonable to anticipate that similar
+valuable discoveries will emerge within the urogenital microbiome domain. Advancements
+in methodologies for assessing and gathering urogenital microbiome data are imperative to unlock this potential and pave the way for future insights. There is potential for
+microbiome-focused interventions to offer hope for presently unexplained medical conditions. Conducting long-term studies to track changes in the urinary microbiome over
+time can offer valuable insights into the development and resolution of diseases, leading to
+substantial advancements in clinical practice.
+Furthermore, while many studies commonly rely on the valuable 16S rRNA technology
+to gain insights into the general composition of the microbiome, it often falls short in
+offering an in-depth characterization of specific species and strains. In this regard, future
+research endeavors employing total RNA/DNA sequencing hold the promise of delivering
+more comprehensive insights into the composition of the microbiome and its relationship
+with urological malignancies.
+While our study primarily focused on analyzing the microbiome profiles of specific
+urologic tumors individually, it becomes increasingly pertinent to identify commonalities
+and disparities across different tumor types. Future studies should prioritize a comparative
+approach that systematically investigates the microbiome signatures shared among these
+urologic tumors and the unique microbial fingerprints associated with each. Such investigations hold the potential to unveil overarching microbiome patterns that may transcend
+tumor boundaries while shedding light on specific microbiome nuances that contribute to
+tumor heterogeneity. Furthermore, by elucidating the common and differential microbial
+factors at play, we may uncover opportunities for cross-disciplinary collaboration and the
+development of innovative diagnostic and therapeutic strategies that benefit patients across
+a spectrum of urological cancers.
+
+**5. Conclusions**
+
+The microbiome in urological oncology offers a glimpse into a future where personalized medicine harnesses the power of microbiota as diagnostic tools, prognostic indicators,
+and even therapeutic targets. However, presently we are only scratching the surface, and
+future investigations are essential to unlock the full potential of the urogenital microbiome
+in transforming the landscape of urological oncology. With continued research and advancements in methodologies, we stand poised to uncover new insights, enhance patient
+care, and ultimately improve outcomes for those affected by malignancies.
+
+**Author Contributions:** Conceptualization, J.G.P., M.C.S.A., A.K. and H.N.S.; methodology, J.G.P.,
+M.C.S.A., B.P., A.K. and A.M.; investigation, J.G.P., M.C.S.A., B.P. and A.K.; writing—original draft
+preparation, J.G.P., M.C.S.A., B.P., A.K., A.M., B.N., S.P., C.R.R., M.L.G., D.J.P., R.M. and H.N.S.;
+writing—review and editing, J.G.P., M.C.S.A., B.P., A.K., A.M., B.N., S.P., C.R.R., M.L.G., D.J.P.,
+R.M. and H.N.S.; supervision, A.K., A.M., B.N., S.P., C.R.R., M.L.G., D.J.P., R.M. and H.N.S.; project
+administration, M.C.S.A., A.K. and A.M.; All authors have read and agreed to the published version
+of the manuscript.
+
+**Funding:** This research received no external funding.
+
+*Cancers* **2023**, *15*, 4984 11 of 14
+
+**Conflicts of Interest:** The authors declare no conflict of interest.
+
+**References**
+
+1. Turnbaugh, P.J.; Ley, R.E.; Hamady, M.; Fraser-Liggett, C.M.; Knight, R.; Gordon, J.I. The Human Microbiome Project. *Nature*
+**2007**, *449* [, 804–810. [CrossRef]](https://doi.org/10.1038/nature06244)
+2. Lederberg, J.; McCray, A.T. ’Ome Sweet ’Omics-A Genealogical Treasury of Words. *Scientist* **2001**, *15*, 8.
+3. Cho, I.; Blaser, M.J. The human microbiome: At the interface of health and disease. *Nat. Rev. Genet.* **2012**, *13* [, 260–270. [CrossRef]](https://doi.org/10.1038/nrg3182)
+4. Jain, T.; Sharma, P.; Are, A.C.; Vickers, S.M.; Dudeja, V. New Insights Into the Cancer–Microbiome–Immune Axis: Decrypting a
+Decade of Discoveries. *Front. Immunol.* **2021**, *12* [, 622064. [CrossRef]](https://doi.org/10.3389/fimmu.2021.622064)
+5. Rajagopala, S.V.; Vashee, S.; Oldfield, L.M.; Suzuki, Y.; Venter, J.C.; Telenti, A.; Nelson, K.E. The Human Microbiome and Cancer.
+*Cancer Prev. Res.* **2017**, *10* [, 226–234. [CrossRef] [PubMed]](https://doi.org/10.1158/1940-6207.CAPR-16-0249)
+6. Sung, H.; Ferlay, J.; Siegel, R.L.; Laversanne, M.; Soerjomataram, I.; Jemal, A.; Bray, F. Global Cancer Statistics 2020: GLOBOCAN
+Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. *CA Cancer J. Clin.* **2021**, *71* [, 209–249. [CrossRef]](https://doi.org/10.3322/caac.21660)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/33538338)
+7. Howley, P.M. Gordon Wilson Lecture: Infectious Disease Causes of Cancer: Opportunities for Prevention and Treatment. *Trans.*
+*Am. Clin. Climatol. Assoc.* **2015**, *126* [, 117–132. [PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/26330666)
+8. Franzosa, E.A.; Huang, K.; Meadow, J.F.; Gevers, D.; Lemon, K.P.; Bohannan, B.J.; Huttenhower, C. Identifying personal
+microbiomes using metagenomic codes. *Proc. Natl. Acad. Sci. USA* **2015**, *112* [, E2930–E2938. [CrossRef]](https://doi.org/10.1073/pnas.1423854112)
+9. Cohen, R.J.; Shannon, B.A.; McNeal, J.E.; Shannon, T.; Garrett, K.L. Propionibacterium acnes associated with inflammation in
+radical prostatectomy specimens: A possible link to cancer evolution? *J. Urol.* **2005**, *173* [, 1969–1974. [CrossRef]](https://doi.org/10.1097/01.ju.0000158161.15277.78)
+10. Yu, H.; Meng, H.; Zhou, F.; Ni, X.; Shen, S.; Das, U.N. Urinary microbiota in patients with prostate cancer and benign prostatic
+hyperplasia. *Arch. Med. Sci.* **2015**, *2* [, 385–394. [CrossRef]](https://doi.org/10.5114/aoms.2015.50970)
+11. Cavarretta, I.; Ferrarese, R.; Cazzaniga, W.; Saita, D.; Lucianò, R.; Ceresola, E.R.; Locatelli, I.; Visconti, L.; Lavorgna, G.; Briganti,
+A.; et al. The Microbiome of the Prostate Tumor Microenvironment. *Eur. Urol.* **2017**, *72* [, 625–631. [CrossRef] [PubMed]](https://doi.org/10.1016/j.eururo.2017.03.029)
+12. Yow, M.A.; Tabrizi, S.N.; Severi, G.; Bolton, D.M.; Pedersen, J.; Australian Prostate Cancer BioResource; Giles, G.G.; Southey, M.C.
+Characterisation of microbial communities within aggressive prostate cancer tissues. *Infect. Agents Cancer* **2017**, *12* [, 4. [CrossRef]](https://doi.org/10.1186/s13027-016-0112-7)
+13. Shrestha, E.; White, J.R.; Yu, S.H.; Kulac, I.; Ertunc, O.; De Marzo, A.M.; Yegnasubramanian, S.; Mangold, L.A.; Partin, A.W.;
+Sfanos, K.S. Profiling the Urinary Microbiome in Men with Positive versus Negative Biopsies for Prostate Cancer. *J. Urol.* **2018**,
+*199* [, 161–171. [CrossRef] [PubMed]](https://doi.org/10.1016/j.juro.2017.08.001)
+14. Alanee, S.; El-Zawahry, A.; Dynda, D.; Dabaja, A.; McVary, K.; Karr, M.; Braundmeier-Fleming, A. A prospective study to examine
+the association of the urinary and fecal microbiota with prostate cancer diagnosis after transrectal biopsy of the prostate using
+16sRNA gene analysis. *Prostate* **2019**, *79* [, 81–87. [CrossRef]](https://doi.org/10.1002/pros.23713)
+15. Hurst, R.; Meader, E.; Gihawi, A.; Rallapalli, G.; Clark, J.; Kay, G.L.; Webb, M.; Manley, K.; Curley, H.; Walker, H.; et al.
+Microbiomes of Urine and the Prostate Are Linked to Human Prostate Cancer Risk Groups. *Eur. Urol. Oncol.* **2022**, *5*, 412–419.
+
+[[CrossRef]](https://doi.org/10.1016/j.euo.2022.03.006)
+16. Sarkar, P.; Malik, S.; Banerjee, A.; Datta, C.; Pal, D.K.; Ghosh, A.; Saha, A. Differential Microbial Signature Associated with Benign
+Prostatic Hyperplasia and Prostate Cancer. *Front. Cell. Infect. Microbiol.* **2022**, *12* [, 894777. [CrossRef]](https://doi.org/10.3389/fcimb.2022.894777)
+17. Feng, Y.; Jaratlerdsiri, W.; Patrick, S.M.; Lyons, R.J.; Haynes, A.M.; Collins, C.C.; Stricker, P.D.; Bornman, M.S.R.; Hayes, V.M.
+Metagenomic analysis reveals a rich bacterial content in high-risk prostate tumors from African men. *Prostate* **2019**, *79*, 1731–1738.
+
+[[CrossRef]](https://doi.org/10.1002/pros.23897)
+18. Feng, Y.; Ramnarine, V.R.; Bell, R.; Volik, S.; Davicioni, E.; Hayes, V.M.; Ren, S.; Collins, C.C. Metagenomic and metatranscriptomic
+analysis of human prostate microbiota from patients with prostate cancer. *BMC Genom.* **2019**, *20* [, 146. [CrossRef]](https://doi.org/10.1186/s12864-019-5457-z)
+19. Salachan, P.V.; Rasmussen, M.; Fredsøe, J.; Ulhøi, B.; Borre, M.; Sørensen, K.D. Microbiota of the prostate tumor environment
+investigated by whole-transcriptome profiling. *Genome Med.* **2022**, *14* [, 9. [CrossRef] [PubMed]](https://doi.org/10.1186/s13073-022-01011-3)
+20. Banerjee, S.; Alwine, J.C.; Wei, Z.; Tian, T.; Shih, N.; Sperling, C.; Guzzo, T.; Feldman, M.D.; Robertson, E.S. Microbiome signatures
+in prostate cancer. *Carcinogenesis* **2019**, *40* [, 749–764. [CrossRef] [PubMed]](https://doi.org/10.1093/carcin/bgz008)
+21. Zhang, Y.; Wang, W.; Zhou, H.; Cui, Y. Urinary Eubacterium sp. CAG:581 Promotes Non-Muscle Invasive Bladder Cancer
+(NMIBC) Development through the ECM1/MMP9 Pathway. *Cancers* **2023**, *15* [, 809. [CrossRef]](https://doi.org/10.3390/cancers15030809)
+22. Hrbáˇcek, J.; Tláskal, V.; Cerm [ˇ] ák, P.; Hanáˇcek, V.; Zachoval, R. Bladder cancer is associated with decreased urinary microbiota
+diversity and alterations in microbial community composition. *Urol. Oncol. Semin. Orig. Investig.* **2023**, *41*, 107.e15–107.e22.
+
+[[CrossRef]](https://doi.org/10.1016/j.urolonc.2022.09.018)
+23. Mansour, B.; Monyók, Á.; Gajdács, M.; Stercz, B.; Makra, N.; Pénzes, K.; Vadnay, I.; Szabó, D.; Ostorházi, E. Bladder Tissue
+Microbiome Composition in Patients of Bladder Cancer or Benign Prostatic Hyperplasia and Related Human Beta Defensin
+Levels. *Biomedicines* **2022**, *10* [, 1758. [CrossRef] [PubMed]](https://doi.org/10.3390/biomedicines10071758)
+24. Parra-Grande, M.; Oré-Arce, M.; Martínez-Priego, L.; D’Auria, G.; Rosselló-Mora, R.; Lillo, M.; Sempere, A.; Lumbreras, B.;
+Sánchez-Hellín, V. Profiling the Bladder Microbiota in Patients with Bladder Cancer. *Front. Microbiol.* **2021**, *12* [, 718776. [CrossRef]](https://doi.org/10.3389/fmicb.2021.718776)
+25. Chen, C.; Huang, Z.; Huang, P.; Li, K.; Zeng, J.; Wen, Y.; Li, B.; Zhao, J.; Wu, P. Urogenital Microbiota:Potentially Important
+Determinant of PD-L1 Expression in Male Patients with Non-muscle Invasive Bladder Cancer. *BMC Microbiol.* **2022**, *22*, 7.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1186/s12866-021-02407-8)
+
+*Cancers* **2023**, *15*, 4984 12 of 14
+
+26. Ahn, H.K.; Kim, K.; Park, J.; Kim, K.H. Urinary microbiome profile in men with genitourinary malignancies. *Investig. Clin. Urol.*
+**2022**, *63* [, 569–576. [CrossRef] [PubMed]](https://doi.org/10.4111/icu.20220124)
+27. Qiu, Y.; Gao, Y.; Chen, C.; Xie, M.; Huang, P.; Sun, Q.; Zhou, Z.; Li, B.; Zhao, J.; Wu, P. Deciphering the influence of urinary
+microbiota on FoxP3+ regulatory T cell infiltration and prognosis in Chinese patients with non-muscle-invasive bladder cancer.
+*Hum. Cell* **2022**, *35* [, 511–521. [CrossRef]](https://doi.org/10.1007/s13577-021-00659-0)
+28. Nadler, N.; Kvich, L.; Bjarnsholt, T.; Jensen, J.B.; Gögenur, I.; Azawi, N. The discovery of bacterial biofilm in patients with muscle
+invasive bladder cancer. *APMIS* **2021**, *129* [, 265–270. [CrossRef]](https://doi.org/10.1111/apm.13097)
+29. Ma, W.; Zhang, W.; Shen, L.; Liu, J.; Yang, F.; Maskey, N.; Wang, H.; Zhang, J.; Yan, Y.; Yao, X. Can Smoking Cause Differences in
+Urine Microbiome in Male Patients With Bladder Cancer? A Retrospective Study. *Front. Oncol.* **2021**, *11* [, 677605. [CrossRef]](https://doi.org/10.3389/fonc.2021.677605)
+30. Pederzoli, F.; Ferrarese, R.; Amato, V.; Locatelli, I.; Alchera, E.; Lucianò, R.; Nebuloni, M.; Briganti, A.; Gallina, A.; Colombo, R.;
+et al. Sex-specific Alterations in the Urinary and Tissue Microbiome in Therapy-naïve Urothelial Bladder Cancer Patients. *Eur.*
+*Urol. Oncol.* **2020**, *3* [, 784–788. [CrossRef]](https://doi.org/10.1016/j.euo.2020.04.002)
+31. Hussein, A.A.; Elsayed, A.S.; Durrani, M.; Jing, Z.; Iqbal, U.; Gomez, E.C.; Singh, P.K.; Liu, S.; Smith, G.; Tang, L.; et al.
+Investigating the association between the urinary microbiome and bladder cancer: An exploratory study. *Urol. Oncol. Semin.*
+*Orig. Investig.* **2021**, *39* [, 370.e9–370.e19. [CrossRef]](https://doi.org/10.1016/j.urolonc.2020.12.011)
+32. Chipollini, J.; Wright, J.R.; Nwanosike, H.; Kepler, C.Y.; Batai, K.; Lee, B.R.; Spiess, P.E.; Stewart, D.B.; Lamendella, R. Characterization of urinary microbiome in patients with bladder cancer: Results from a single-institution, feasibility study. *Urol. Oncol.*
+*Semin. Orig. Investig.* **2020**, *38* [, 615–621. [CrossRef] [PubMed]](https://doi.org/10.1016/j.urolonc.2020.04.014)
+33. Hourigan, S.K.; Zhu, W.; Wong, W.S.W.; Clemency, N.C.; Provenzano, M.; Vilboux, T.; Niederhuber, J.E.; Deeken, J.; Chung, S.;
+McDaniel-Wiley, K.; et al. Studying the urine microbiome in superficial bladder cancer: Samples obtained by midstream voiding
+versus cystoscopy. *BMC Urol.* **2020**, *20* [, 5. [CrossRef] [PubMed]](https://doi.org/10.1186/s12894-020-0576-z)
+34. Zeng, J.; Zhang, G.; Chen, C.; Li, K.; Wen, Y.; Zhao, J.; Wu, P. Alterations in Urobiome in Patients With Bladder Cancer and
+Implications for Clinical Outcome: A Single-Institution Study. *Front. Cell. Infect. Microbiol.* **2020**, *10* [, 555508. [CrossRef]](https://doi.org/10.3389/fcimb.2020.555508)
+35. Mansour, B.; Monyók, Á.; Makra, N.; Gajdács, M.; Vadnay, I.; Ligeti, B.; Juhász, J.; Szabó, D.; Ostorházi, E. Bladder cancer-related
+microbiota: Examining differences in urine and tissue samples. *Sci. Rep.* **2020**, *10* [, 11042. [CrossRef]](https://doi.org/10.1038/s41598-020-67443-2)
+36. Bi, H.; Tian, Y.; Song, C.; Li, J.; Liu, T.; Chen, Z.; Chen, C.; Huang, Y.; Zhang, Y. Urinary microbiota—A potential biomarker and
+therapeutic target for bladder cancer. *J. Med. Microbiol.* **2019**, *68* [, 1471–1478. [CrossRef] [PubMed]](https://doi.org/10.1099/jmm.0.001058)
+37. Liu, F.; Liu, A.; Lu, X.; Zhang, Z.; Xue, Y.; Xu, J.; Zeng, S.; Xiong, Q.; Tan, H.; He, X.; et al. Dysbiosis signatures of the microbial
+profile in tissue from bladder cancer. *Cancer Med.* **2019**, *8* [, 6904–6914. [CrossRef]](https://doi.org/10.1002/cam4.2419)
+38. Moynihan, M.J.; Sullivan, T.; Provenzano, K.; Rieger-Christ, K. Urinary Microbiome Evaluation in Patients Presenting with
+Hematuria with a Focus on Exposure to Tobacco Smoke. *RRU* **2019**, *11* [, 359–367. [CrossRef]](https://doi.org/10.2147/RRU.S233386)
+39. Buˇcevi´c Popovi´c, V.; Šitum, M.; Chow, C.-E.T.; Chan, L.S.; Roje, B.; Terzi´c, J. The urinary microbiome associated with bladder
+cancer. *Sci. Rep.* **2018**, *8* [, 12157. [CrossRef]](https://doi.org/10.1038/s41598-018-29054-w)
+40. Wu, P.; Zhang, G.; Zhao, J.; Chen, J.; Chen, Y.; Huang, W.; Zhong, J.; Zeng, J. Profiling the Urinary Microbiota in Male Patients
+with Bladder Cancer in China. *Front. Cell. Infect. Microbiol.* **2018**, *8* [, 167. [CrossRef]](https://doi.org/10.3389/fcimb.2018.00167)
+41. Liss, M.A.; Chen, Y.; Rodriguez, R.; Pruthi, D.; Johnson-Pais, T.; Wang, H.; Mansour, A.; White, J.R.; Kaushik, D. Microbiome
+within Primary Tumor Tissue from Renal Cell Carcinoma May Be Associated with PD-L1 Expression of the Venous Tumor
+Thrombus. *Adv. Urol.* **2020**, *2020* [, 9068068. [CrossRef] [PubMed]](https://doi.org/10.1155/2020/9068068)
+42. Wang, J.; Li, X.; Wu, X.; Wang, Z.; Cao, G.; Liu, K.; Yan, T. Uncovering the microbiota in renal cell carcinoma tissue using 16S
+rRNA gene sequencing. *J. Cancer Res. Clin. Oncol.* **2021**, *147* [, 481–491. [CrossRef]](https://doi.org/10.1007/s00432-020-03462-w)
+43. Heidler, S.; Lusuardi, L.; Madersbacher, S.; Freibauer, C. The Microbiome in Benign Renal Tissue and in Renal Cell Carcinoma.
+*Urol. Int.* **2020**, *104* [, 247–252. [CrossRef]](https://doi.org/10.1159/000504029)
+44. Najm, R.; Hachim, M.Y.; Kandasamy, R.K. Divulging a Pleiotropic Role of Succinate Receptor SUCNR1 in Renal Cell Carcinoma
+Microenvironment. *Cancers* **2022**, *14* [, 6064. [CrossRef]](https://doi.org/10.3390/cancers14246064)
+45. Mørup, N.; Main, A.M.; Jørgensen, N.; Daugaard, G.; Juul, A.; Almstrup, K. The seminal plasma microbiome of men with
+testicular ger cell tumours described by small RNA sequencing. *Andrology* **2023**, *11* [, 756–769. [CrossRef] [PubMed]](https://doi.org/10.1111/andr.13305)
+46. Sfanos, K.S.; Yegnasubramanian, S.; Nelson, W.G.; De Marzo, A.M. The inflammatory microenvironment and microbiome in
+prostate cancer development. *Nat. Rev. Urol.* **2018**, *15* [, 11–24. [CrossRef]](https://doi.org/10.1038/nrurol.2017.167)
+47. Golombos, D.M.; Ayangbesan, A.; O’Malley, P.; Lewicki, P.; Barlow, L.; Barbieri, C.E.; Chan, C.; DuLong, C.; Abu-Ali, G.;
+Huttenhower, C.; et al. The Role of Gut Microbiome in the Pathogenesis of Prostate Cancer: A Prospective, Pilot Study. *Urology*
+**2018**, *111* [, 122–128. [CrossRef] [PubMed]](https://doi.org/10.1016/j.urology.2017.08.039)
+48. Peiffer, L.B.; White, J.R.; Jones, C.B.; Slottke, R.E.; Ernst, S.E.; Moran, A.E.; Graff, J.N.; Sfanos, K.S. Composition of gastrointestinal
+microbiota in association with treatment response in individuals with metastatic castrate resistant prostate cancer progressing on
+enzalutamide and initiating treatment with anti-PD-1 (pembrolizumab). *Neoplasia* **2022**, *32* [, 100822. [CrossRef]](https://doi.org/10.1016/j.neo.2022.100822)
+49. Matsushita, M.; Fujita, K.; Motooka, D.; Hatano, K.; Fukae, S.; Kawamura, N.; Tomiyama, E.; Hayashi, Y.; Banno, E.; Takao, T.;
+et al. The gut microbiota associated with high-Gleason prostate cancer. *Cancer Sci.* **2021**, *112* [, 3125–3135. [CrossRef]](https://doi.org/10.1111/cas.14998)
+50. Wang, X.; Zhou, Z.; Turner, D.; Lilly, M.; Ou, T.; Jiang, W. Differential Circulating Fungal Microbiome in Prostate Cancer Patients
+Compared to Healthy Control Individuals. *J. Immunol. Res.* **2022**, *2022* [, 2574964. [CrossRef]](https://doi.org/10.1155/2022/2574964)
+
+*Cancers* **2023**, *15*, 4984 13 of 14
+
+51. Miyake, M.; Ohnishi, K.; Hori, S.; Nakano, A.; Nakano, R.; Yano, H.; Ohnishi, S.; Owari, T.; Morizawa, Y.; Itami, Y.; et al.
+*Mycoplasma genitalium* Infection and Chronic Inflammation in Human Prostate Cancer: Detection Using Prostatectomy and
+Needle Biopsy Specimens. *Cells* **2019**, *8* [, 212. [CrossRef]](https://doi.org/10.3390/cells8030212)
+52. Li, W.T.; Iyangar, A.S.; Reddy, R.; Chakladar, J.; Bhargava, V.; Sakamoto, K.; Ongkeko, W.M.; Rajasekaran, M. The Bladder
+Microbiome Is Associated with Epithelial-Mesenchymal Transition in Muscle Invasive Urothelial Bladder Carcinoma. *Cancers*
+**2021**, *13* [, 3649. [CrossRef]](https://doi.org/10.3390/cancers13153649)
+53. Whiteside, S.A.; Razvi, H.; Dave, S.; Reid, G.; Burton, J.P. The microbiome of the urinary tract—A role beyond infection. *Nat. Rev.*
+*Urol.* **2015**, *12* [, 81–90. [CrossRef] [PubMed]](https://doi.org/10.1038/nrurol.2014.361)
+54. Javan Balegh Marand, A.; Van Koeveringe, G.A.; Janssen, D.; Vahed, N.; Vögeli, T.A.; Heesakkers, J.; Hajebrahimi, S.; Rahnama’i,
+M.S. Urinary Microbiome and its Correlation with Disorders of the Genitourinary System. *Urol. J.* **2021**, *18* [, 259–270. [CrossRef]](https://doi.org/10.22037/uj.v16i7.5976)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/33550579)
+55. Adebayo, A.S.; Survayanshi, M.; Bhute, S.; Agunloye, A.M.; Isokpehi, R.D.; Anumudu, C.I.; Shouche, Y.S. The microbiome in
+urogenital schistosomiasis and induced bladder pathologies. *PLoS Negl. Trop. Dis.* **2017**, *11* [, e0005826. [CrossRef]](https://doi.org/10.1371/journal.pntd.0005826)
+56. Chang, S.S.; Boorjian, S.A.; Chou, R.; Clark, P.E.; Daneshmand, S.; Konety, B.R.; Pruthi, R.; Quale, D.Z.; Ritch, C.R.; Seigne, J.D.;
+et al. Diagnosis and Treatment of Non-Muscle Invasive Bladder Cancer: AUA/SUO Guideline. *J. Urol.* **2016**, *196*, 1021–1029.
+
+[[CrossRef]](https://doi.org/10.1016/j.juro.2016.06.049)
+57. Yu, D.; Wu, C.; Ping, S.; Keng, C.; Shen, K. Bacille Calmette-Guerin can induce cellular apoptosis of urothelial cancer directly
+through toll-like receptor 7 activation. *Kaohsiung J. Med. Sci.* **2015**, *31* [, 391–397. [CrossRef] [PubMed]](https://doi.org/10.1016/j.kjms.2015.05.005)
+58. Fukumoto, K.; Kikuchi, E.; Mikami, S.; Hayakawa, N.; Matsumoto, K.; Niwa, N.; Oya, M. Clinical Role of Programmed Cell
+Death-1 Expression in Patients with Non-muscle-invasive Bladder Cancer Recurring after Initial Bacillus Calmette–Guérin
+Therapy. *Ann. Surg. Oncol.* **2018**, *25* [, 2484–2491. [CrossRef]](https://doi.org/10.1245/s10434-018-6498-2)
+59. Huang, J.; Leung, D.K.; Chan, E.O.; Lok, V.; Leung, S.; Wong, I.; Lao, X.Q.; Zheng, Z.J.; Chiu, P.K.; Ng, C.F.; et al. A Global Trend
+Analysis of Kidney Cancer Incidence and Mortality and Their Associations with Smoking, Alcohol Consumption, and Metabolic
+Syndrome. *Eur. Urol. Focus* **2022**, *8* [, 200–209. [CrossRef]](https://doi.org/10.1016/j.euf.2020.12.020)
+60. Moch, H.; Cubilla, A.L.; Humphrey, P.A.; Reuter, V.E.; Ulbright, T.M. The 2016 WHO Classification of Tumours of the Urinary
+System and Male Genital Organs—Part A: Renal, Penile, and Testicular Tumours. *Eur. Urol.* **2016**, *70* [, 93–105. [CrossRef]](https://doi.org/10.1016/j.eururo.2016.02.029)
+61. Chow, W.-H.; Dong, L.M.; Devesa, S.S. Epidemiology and risk factors for kidney cancer. *Nat. Rev. Urol.* **2010**, *7*, 245–257.
+
+[[CrossRef]](https://doi.org/10.1038/nrurol.2010.46)
+62. Chen, Y.; Ma, J.; Dong, Y.; Yang, Z.; Zhao, N.; Liu, Q.; Zhai, W.; Zheng, J. Characteristics of Gut Microbiota in Patients with Clear
+Cell Renal Cell Carcinoma. *Front. Microbiol.* **2022**, *13* [, 913718. [CrossRef]](https://doi.org/10.3389/fmicb.2022.913718)
+63. Dai, G.; Chen, X.; He, Y. The Gut Microbiota Activates AhR Through the Tryptophan Metabolite Kyn to Mediate Renal Cell
+Carcinoma Metastasis. *Front. Nutr.* **2021**, *8* [, 712327. [CrossRef]](https://doi.org/10.3389/fnut.2021.712327)
+64. Dizman, N.; Hsu, J.; Bergerot, P.G.; Gillece, J.D.; Folkerts, M.; Reining, L.; Trent, J.; Highlander, S.K.; Pal, S.K. Randomized trial
+assessing impact of probiotic supplementation on gut microbiome and clinical outcome from targeted therapy in metastatic renal
+cell carcinoma. *Cancer Med.* **2021**, *10* [, 79–86. [CrossRef]](https://doi.org/10.1002/cam4.3569)
+65. Dizman, N.; Meza, L.; Bergerot, P.; Alcantara, M.; Dorff, T.; Lyou, Y.; Frankel, P.; Cui, Y.; Mira, V.; Llamas, M.; et al. *Nivolumab plus*
+*ipilimumab* with or without live bacterial supplementation in metastatic renal cell carcinoma: A randomized phase 1 trial. *Nat.*
+*Med.* **2022**, *28* [, 704–712. [CrossRef]](https://doi.org/10.1038/s41591-022-01694-6)
+66. Ianiro, G.; Rossi, E.; Thomas, A.M.; Schinzari, G.; Masucci, L.; Quaranta, G.; Settanni, C.R.; Lopetuso, L.R.; Armanini, F.;
+Blanco-Miguez, A.; et al. Faecal microbiota transplantation for the treatment of diarrhoea induced by tyrosine-kinase inhibitors in
+patients with metastatic renal cell carcinoma. *Nat. Commun.* **2020**, *11* [, 4333. [CrossRef]](https://doi.org/10.1038/s41467-020-18127-y)
+67. Su, Z.; Lu, L.; Chen, F.; Chen, J.; Chen, X. Gut Microbiota and Sunitinib-Induced Diarrhea in Metastatic Renal Cell Carcinoma: A
+Pilot Study. *CMAR* **2021**, *13* [, 8663–8672. [CrossRef]](https://doi.org/10.2147/CMAR.S328451)
+68. Derosa, L.; Routy, B.; Fidelle, M.; Iebba, V.; Alla, L.; Pasolli, E.; Segata, N.; Desnoyer, A.; Pietrantonio, F.; Ferrere, G.; et al. Gut
+Bacteria Composition Drives Primary Resistance to Cancer Immunotherapy in Renal Cell Carcinoma Patients. *Eur. Urol.* **2020**, *78*,
+[195–206. [CrossRef]](https://doi.org/10.1016/j.eururo.2020.04.044)
+69. Hahn, A.W.; Froerer, C.; VanAlstine, S.; Rathi, N.; Bailey, E.B.; Stenehjem, D.D.; Agarwal, N. Targeting Bacteroides in Stool
+Microbiome and Response to Treatment With First-Line VEGF Tyrosine Kinase Inhibitors in Metastatic Renal-Cell Carcinoma.
+*Clin. Genitourin. Cancer* **2018**, *16* [, 365–368. [CrossRef]](https://doi.org/10.1016/j.clgc.2018.05.001)
+70. Pal, S.K.; Li, S.M.; Wu, X.; Qin, H.; Kortylewski, M.; Hsu, J.; Carmichael, C.; Frankel, P. Stool Bacteriomic Profiling in Patients with
+Metastatic Renal Cell Carcinoma Receiving Vascular Endothelial Growth Factor–Tyrosine Kinase Inhibitors. *Clin. Cancer Res.*
+**2015**, *21* [, 5286–5293. [CrossRef]](https://doi.org/10.1158/1078-0432.CCR-15-0724)
+71. Salgia, N.J.; Bergerot, P.G.; Maia, M.C.; Dizman, N.; Hsu, J.; Gillece, J.D.; Folkerts, M.; Reining, L.; Trent, J.; Highlander, S.K.;
+et al. Stool Microbiome Profiling of Patients with Metastatic Renal Cell Carcinoma Receiving Anti–PD-1 Immune Checkpoint
+Inhibitors. *Eur. Urol.* **2020**, *78* [, 498–502. [CrossRef]](https://doi.org/10.1016/j.eururo.2020.07.011)
+72. Guo, Y.; Cho, S.W.; Saxena, D.; Li, X. Multifaceted Actions of Succinate as a Signaling Transmitter Vary with Its Cellular Locations.
+*Endocrinol. Metab.* **2020**, *35* [, 36–43. [CrossRef]](https://doi.org/10.3803/EnM.2020.35.1.36)
+73. Mills, E.; O’Neill, L.A.J. Succinate: A metabolic signal in inflammation. *Trends Cell Biol.* **2014**, *24* [, 313–320. [CrossRef] [PubMed]](https://doi.org/10.1016/j.tcb.2013.11.008)
+74. Jiang, S.; Yan, W. Succinate in the cancer–immune cycle. *Cancer Lett.* **2017**, *390* [, 45–47. [CrossRef] [PubMed]](https://doi.org/10.1016/j.canlet.2017.01.019)
+
+*Cancers* **2023**, *15*, 4984 14 of 14
+
+75. Cerami, E.; Gao, J.; Dogrusoz, U.; Gross, B.E.; Sumer, S.O.; Aksoy, B.A.; Jacobsen, A.; Byrne, C.J.; Heuer, M.L.; Larsson, E.; et al.
+The cBio cancer genomics portal: An open platform for exploring multidimensional cancer genomics data. *Cancer Discov.* **2012**, *2*,
+[401–404. [CrossRef]](https://doi.org/10.1158/2159-8290.CD-12-0095)
+76. Onywera, H.; Williamson, A.L.; Cozzuto, L.; Bonnin, S.; Mbulawa, Z.Z.A.; Coetzee, D.; Ponomarenko, J.; Meiring, T.L. The penile
+microbiota of Black South African men: Relationship with human papillomavirus and HIV infection. *BMC Microbiol.* **2020**, *20*, 78.
+
+[[CrossRef]](https://doi.org/10.1186/s12866-020-01759-x)
+77. Mishra, K.; Isali, I.; Sindhani, M.; Prunty, M.; Bell, S.; Mahran, A.; Damiani, G.; Ghannoum, M.; Retuerto, M.; Kutikov, A.; et al.
+Characterization of Changes in Penile Microbiome Following Pediatric Circumcision. *Eur. Urol. Focus* **2022**, *9* [, 669–680. [CrossRef]](https://doi.org/10.1016/j.euf.2022.12.007)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/36566099)
+78. Waltmann, A.; Thomas, C.; Duncan, J.A. The role of the genital microbiota in the acquisition and pathogenesis of sexually
+transmitted infections. *Curr. Opin. Infect. Dis.* **2023**, *36* [, 35–48. [CrossRef]](https://doi.org/10.1097/QCO.0000000000000893)
+79. Gurney, J.K.; Florio, A.A.; Znaor, A.; Ferlay, J.; Laversanne, M.; Sarfati, D.; Bray, F.; McGlynn, K.A. International Trends in the
+Incidence of Testicular Cancer: Lessons from 35 Years and 41 Countries. *Eur. Urol.* **2019**, *76* [, 615–623. [CrossRef]](https://doi.org/10.1016/j.eururo.2019.07.002)
+80. Farahani, L.; Tharakan, T.; Yap, T.; Ramsay, J.W.; Jayasena, C.N.; Minhas, S. The semen microbiome and its impact on sperm
+function and male fertility: A systematic review and meta-analysis. *Andrology* **2021**, *9* [, 115–144. [CrossRef]](https://doi.org/10.1111/andr.12886)
+81. Alfano, M.; Ferrarese, R.; Locatelli, I.; Ventimiglia, E.; Ippolito, S.; Gallina, P.; Cesana, D.; Canducci, F.; Pagliardini, L.; Viganò, P.;
+et al. Testicular microbiome in azoospermic men—First evidence of the impact of an altered microenvironment. *Hum. Reprod.*
+**2018**, *33* [, 1212–1217. [CrossRef] [PubMed]](https://doi.org/10.1093/humrep/dey116)
+
+**Disclaimer/Publisher’s Note:** The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

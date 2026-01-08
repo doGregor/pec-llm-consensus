@@ -1,0 +1,2490 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    TagedEnd
+# TagedH1
+## TagedP
+
+TagedP
+
+TagedEnd TagedP
+
+TagedH1
+
+TagedP TagedP
+
+TagedEnd TagedP
+
+TagedEnd
+
+
+TagedEnd
+# TagedH1
+## TagedP
+
+TagedP
+
+TagedEnd TagedP
+
+TagedH1
+
+TagedP TagedP
+
+TagedEnd TagedP
+
+TagedEnd
+
+
+TagedEnd
+# TagedH1
+## TagedP
+
+TagedP
+
+TagedEnd TagedP
+
+TagedH1
+
+TagedP TagedP
+
+TagedEnd TagedP
+
+TagedEnd
+
+
+TagedEnd
+# TagedH1
+## TagedP
+
+TagedP
+
+TagedEnd TagedP
+
+TagedH1
+
+TagedP TagedP
+
+TagedEnd TagedP
+
+TagedEnd
+
+
+[TagedEndUrologic Oncology: Seminars and Original Investigations 41 (2023) 219−232](https://doi.org/10.1016/j.urolonc.2022.10.009)
+
+Review Article
+# TagedH1 Combination of radiation and immunotherapy in the treatment of genitourinary malignancies: A systematic review and meta-analysis
+## * TagedPPhilipp Maisch, M.D. [a][,][1][,], Florestan Koll, M.D. [b][,][1], Christian Bolenz, M.D., PhD [a], Felix K.-H. Chun, M.D., PhD [b], J€urgen E. Gschwend, M.D., PhD [c], Sebastian C. Schmid, M.D., PhD [c]
+
+a Department of Urology, University Hospital Ulm, University of Ulm, Ulm, Germany
+b Department of Urology, University Hospital Frankfurt, University of Frankfurt, Frankfurt am Main, Germany
+c Department of Urology, Rechts der Isar Medical Center, Technical University of Munich, Munich, Germany
+
+Received 7 July 2022; received in revised form 23 September 2022; accepted 11 October 2022
+
+TagedPAbstract
+
+Background: Due to possible synergistic effects, the combination of radiation therapy (RT) and immune checkpoint inhibitors (ICI) represents an interesting therapeutic option. An increasing number of clinical trials are ongoing to investigate this combination in genitourinary
+malignancies and the first results are available.
+Objectives: To review and summarize available data on the combination of RT and ICI in genitourinary malignancies and update the
+evidence for this potential therapeutic approach.
+Evidence acquisition: A study protocol was registered in the PROSPERO-Database. Terms of search were prostate cancer, bladder cancer, renal cell carcinoma, penile cancer, testicular cancer, radiotherapy, and immunotherapy in multiple literature databases and study registers. Clinical studies reporting on the combination treatment of RT and ICI were included. A systematic review of ongoing trials according
+to the PRISMA statement and a meta-analysis of available trials were performed.
+Evidence synthesis: Overall, 43 studies met the inclusion criteria examining the therapeutic effect of combined RT and ICI. For bladder
+cancer, renal cell carcinoma, prostate cancer, and penile cancer 28, 9, 5, and 1 trial could be identified, respectively. No study was found for
+testicular cancer. Three phases III trials were identified, all other trials were phase I or II. Twelve studies have been completed so far. The
+meta-analysis of available data indicates comparable toxicity of RT plus ICI vs. ICI alone for grade 3/4 AEs. Mature efficacy data is limited
+with interesting early results.
+Conclusion: This article reviews the clinical trial landscape investigating RT and ICI in genitourinary malignancies. It provides an overview of ongoing trials and discusses available results. Actual data regarding efficacy is limited, while toxicities seem comparable to ICI
+alone. Especially in bladder and kidney cancer, further trial results might impact on the clinical use of the combination therapy. � 2022
+Elsevier Inc. All rights reserved.
+
+TagedEnd TagedPKeywords: Genitourinary malignancies; Immunotherapy; Radiation therapy; Systematic review; Meta-analysis
+
+TagedH1
+
+TagedP TagedP
+
+TagedEnd TagedP
+
+TagedEnd
+
+
+TagedEnd
+# TagedH1
+## TagedP
+
+TagedP
+
+TagedEnd TagedP
+
+TagedH11. Introduction
+
+TagedPStimulation of the immune system to treat cancer has a TagedP
+long-lasting history in urology. Already in 1976 Morales
+et al. introduced the application of Bacillus Calmette
+TagedEnd [1] Both authors contributed equally and share first authorship. TagedP
+TagedEnd*Corresponding author. Tel.: +49-731-500-58030.
+[E-mail address: philipp.maisch@uniklinik-ulm.de (P. Maisch).](mailto:philipp.maisch@uniklinik-ulm.de)
+
+[https://doi.org/10.1016/j.urolonc.2022.10.009](https://doi.org/10.1016/j.urolonc.2022.10.009)
+1078-1439/� 2022 Elsevier Inc. All rights reserved.
+
+
+TagedEnd
+# TagedH1
+## TagedP
+
+TagedP
+
+TagedEnd TagedP
+
+�
+
+TagedH1 Guerin (BCG) for non-muscle invasive bladder cancer
+
+(NMIBC) [1].
+
+TagedP TagedPIn renal cell carcinomas (RCC) the introduction of cyto
+kines, such as IL-2 for metastatic RCC in the 1990s, has
+shown its efficacy in a small subset of patients, but due to
+its low overall response rates and severe side effects, it has
+been mostly abandoned [2].
+
+TagedEnd TagedPIn the past decade, immune checkpoint inhibitors (ICI)
+TagedEnd have changed the treatment of urologic malignancies. In
+
+TagedEnd220 P. Maisch et al. / Urologic Oncology: Seminars and Original Investigations 41 (2023) 219−232
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedH2
+
+TagedP TagedP
+
+TagedP
+
+TagedP
+
+TagedH1
+
+TagedH2
+
+TagedH2
+
+TagedP
+
+TagedP
+
+
+TagedEnd
+
+genitourinary malignancies PD-1, PD-L1, and CTLA-4
+inhibitors are approved for the treatment of renal cell carcinoma and urothelial cancer and are explored in clinical trials as a single or combined treatment for further TagedP
+indications. However, only a subset of patients benefits
+from therapy with ICI. Therefore, research has focused on
+identifying predictive biomarkers and on combining ICIs
+with synergistic or additive therapies to improve response
+
+rates.
+
+TagedPSynergistic effects have been described in vitro and
+in vivo for the combination of immunotherapy with radiation therapy (RT) for many cancer types at different
+tumor stages. Evidence suggests that ionizing radiation
+not only directly kills tumor cells but also causes mutations in tumor-derived peptides and changes in the TagedP
+microenvironment leading to localized inflammation and
+thus activates the adaptive and innate immune system
+
+[3,4]. Furthermore, abscopal (outside the radiation field)
+effects have been described for tumors treated with radi
+ation therapy which can be enhanced by the combination
+with ICI therapy [5−8].
+TagedPAnti-tumor immune response is induced by RT in several ways. Radiation induces an immunogenic cell death
+and causes modifications of the tumor microenvironment
+leading to enhanced antigenicity [3,6,9]. On the other hand,
+radiation can also induce upregulation of PD-L1 axis, leading to T-Cell inhibition and reduced anti-tumor activity.
+This inhibition can be overcome by checkpoint-inhibitors,
+which may be one of the reasons for a synergistic mode of
+action [10].
+TagedPThe synergistic effect on response rates and improved
+survival rates were first reported in patients with melanoma and non-small lung carcinoma (NSCLC) [11,12].
+These developments led to an increase in clinical trials
+evaluating ICI therapy in combination with RT in differ- TagedH2
+ent entities [13].
+TagedPFor genitourinary malignancies RT is used to cure pros- TagedP
+tate cancer [14]. In bladder cancer, radiochemotherapy is
+part of trimodal therapy [15]. And in palliative settings, RT
+of bone metastases is commonly used for symptomatic
+relief in various genitourinary malignancies. Metastatic or
+recurrent renal cell carcinoma and prostate cancer can be TagedP
+treated when ablative doses of RT are delivered.
+
+TagedPTherefore, we initiated a systematic literature search to
+review available new data and trials on the combination of
+
+RT and ICI in genitourinary malignancies. A meta-analysis
+to evaluate toxicities was performed.
+
+TagedH12. Evidence acquisition
+
+TagedH22.1. Systematic literature review
+
+TagedH2
+
+TagedPWe performed a systematic review of trials combining
+RT with ICI for genitourinary malignancies following the TagedP
+Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses (PRISMA) statement [16]. Upfront this
+
+
+TagedEnd
+
+review our study protocol was registered in the International Prospective Register of Systematic Reviews database
+(PROSPERO CRD42020210554).
+TagedPWe performed a systematic literature search on MEDLINE via PubMed, the Cochrane Library, ClinicalTrials.
+gov, EU clinical trial register, and the WHO International
+Clinical Trials Registry to identify all relevant trials investigating our objective. The terms of search and the strategy
+were adapted to the databases. Terms including MeSH
+TagedP terms were radiotherapy, immunotherapy, prostatic-, uri
+nary bladder-, renal cell-, penile- and testicular neoplasm
+(see Supplement 1). We searched from year 2000 onwards,
+as the concept of tumor immunotherapy by PD-L1 blockade
+was first reported in 2002, until April 2022 [17].
+TagedPOnly English- and German-language publications were
+considered. We included prospectively randomized as well
+as non-randomized trials. Studies including patients with a
+genitourinary malignancy at any stage of their treatment
+met inclusion criteria. Patients could be treated with RT
+
+defined as external beam RT, brachytherapy, or stereotactic
+radiation of any dosage (Gray [Gy]). ICIs were defined as
+
+TagedP approved monoclonal antibodies against CTLA-4 or PD-1/
+
+PD-L1. In addition, the concomitant application of standard-of-care therapies was allowed.
+TagedPObservational studies, cross-over trials, case reports, editorials, and review articles were excluded. We excluded
+studies treating patients with any concomitant antibody
+treatment (e.g., anti-EGFR or anti-VEGF) or substances
+without approval. Studies with unclear recruitment status
+were excluded - information about 4 trials with status “not
+
+TagedP yet recruiting” are included in Supplementary Table 2. We
+
+excluded studies in which the application of RT and ICI
+had no temporal connection.
+
+TagedH22.2. Study review methodology
+
+TagedP TagedPTwo authors (PM, FK) independently screened title and
+
+abstract for further investigation as full text. We resolved
+any disagreements through discussion or recourse to a third
+review author (SCS). A PRISMA flowchart is shown in
+Fig. 1.
+TagedPWe extracted relevant data independently from 2 review
+authors (PM, FK). This data was checked by a third review
+
+TagedP author (SCS). Data retrieved from trials included study
+
+information (trial identifier (NCT registration number),
+study name, author, title, source, publication date, initiator,
+status of recruitment), study characteristics (study design,
+setting, randomization method), patients’ characteristics
+(number of patients, stage of disease), intervention and
+
+TagedH1 comparator information as well as outcomes.
+
+TagedH2
+
+TagedH22.3. Risk of bias assessment
+
+TagedP
+
+TagedPWe were not able to perform a risk of bias assessement,
+as most identified studies on this topic were single arm
+phase I or II trials with missing comparator.
+
+TagedEndP. Maisch et al. / Urologic Oncology: Seminars and Original Investigations 41 (2023) 219−232 221
+
+TagedEnd
+
+TagedH2 TagedH2
+
+TagedP TagedP
+
+TagedH1
+
+TagedH2
+
+TagedP
+
+TagedH2
+
+TagedP
+
+
+Fig. 1. PRISMA (preferred reporting items for systematic reviews and meta-analyses) flowchart of the selection process for the publications identified by
+systematic literature search.
+
+TagedH2 TagedH2
+
+TagedP TagedP
+
+TagedH1
+
+TagedH2
+
+TagedP
+
+TagedH2
+
+TagedP
+
+
+TagedEnd
+
+TagedH22.4. Data synthesis TagedH2
+
+TagedPFor the primary endpoints objective response rate TagedP
+
+−
+(ORR), adverse events (AE) grade 3 5, and health-related
+quality of life (hr-QoL) specified in our study protocol, we
+were only able to identify sufficient data for the outcome of
+AEs to be summarized in a data synthesis. For these dichotomous outcomes, we used numbers of events and totals for
+population of a 2 £ 2 table.
+
+TagedH13. Evidence synthesis
+
+TagedH23.1. Literature search results
+
+TagedPA total of 3,712 publications were identified by systematic literature search. Eleven publications were found
+by screening the reference lists. After the removal of
+duplicates (n = 343), 3,396 publications were screened TagedH2
+by analyzing the heading and abstract. Seventy-eight relevant publications were reviewed by full text and finally TagedP
+43 publications met inclusion criteria for detailed analysis (Fig. 1).
+
+
+TagedEnd
+
+TagedH2 TagedH23.2. Data extraction
+
+TagedP TagedPFive out of 43 included studies discussed patients with
+
+prostate cancer. All trials were phase I/II or II. Only 2 studies have been completed at the time point of publication,
+while preliminary data were available for one trial. 28 studies were included treating bladder cancer. Three of them
+were phase III studies and 25 were either phase I, phase I/II
+or phase II trials. Five studies had been completed, while
+preliminary data were available for 8 trials. For renal cell
+carcinoma (RCC) 9 trials were identified of which all were
+phase I or II trials and 5 had been completed. One phase II
+
+TagedH1 trial was identified for penile cancer. A summary of all
+
+TagedH2 ongoing trials is shown in Table 1 for prostate cancer,
+
+Table 2 for bladder cancer, and Table 3 for RCC. A sum
+TagedP mary of all completed trials is shown in Table 4.
+
+TagedH23.3. Data synthesis for meta-analysis
+
+TagedPSufficient data for meta-analysis could only be generated
+for the outcome AE grade 3 to 5. Due to the AEs reporting
+of included studies, we include AEs of any grade, AEs
+
+TagedEnd222 P. Maisch et al. / Urologic Oncology: Seminars and Original Investigations 41 (2023) 219−232
+
+grade 1 or 2 and AEs grade 3 to 4. Supplementary Table 1
+lists all included trials.
+
+TagedH14. Results
+
+TagedH24.1. Prostate cancer
+
+TagedP4.1.1. Prostate cancer − Trials with preliminary results
+
+TagedPAn ongoing phase I/II trial is performed in the localized/
+oligometastatic setting for patients with high-risk prostate
+cancer. Patients receive 4 cycles of nivolumab (240 mg
+every 2 weeks) with 2 cycles prior to first high-dose-rate
+(HDR) brachytherapy (11.5 Gy), and 2 more cycles prior to
+
+−
+second HDR. External beam RT (40 50 Gy) begins 2
+weeks after completed HDR (NCT03543189). A preliminary safety and feasibility analysis of 6 patients showed tolerable toxicities, with 1 patient having dose-limiting
+toxicity after the second cycle of nivolumab [18]. In total,
+recruitment of 44 patients is planned.
+TagedPFurther ongoing trials for prostate cancer are included in
+Table 1.
+
+TagedP4.1.2. Prostate cancer − Completed trials
+
+TagedPWe identified 2 completed non-randomized phase I/II
+trials, both in a palliative setting. Slovin and collegues
+(NCT00323882) combined RT with ipilimumab vs. ipilimumab alone in 71 patients with metastatic castrationresistant prostate cancer (mCRPC) [19]. Primary outcomes were safety and PSA response on day 85.
+Patients either received ipilimumab alone up to
+10 mg/kg or ipilimumab up to 10 mg/kg in combination
+with external-beam RT. RT was given focally at a single
+dose of 8 Gy per target bone lesion for up to 3 bone
+
+−
+lesions per patient 24 48 hours before the first ipilimumab dose. Thirty patients received ipilimumab as monotherapy and 41 patients as combination therapy. The
+rate of adverse events grade 3/4 was 63% in the monotherapy arm and 56% in the combination arm.
+TagedPA PSA decline by day 85 was observed in 19% of the
+monotherapy cohort (n = 16) compared to 12% in the combination arm (n = 34). In both groups patients evaluable for
+tumor response (n = 28) had mostly stable (21%) or progressive disease (29%) or unknown status (40%) without
+striking differences between groups.
+TagedPIn 2022, an Australian group published results for a
+single-arm trial (ACTRN12618000954224) combining
+avelumab with a single dose RT in 35 mCRPC patients
+
+[20]. Patients received avelumab 10 mg/kg intravenously
+every 2 weeks. Before the first and second avelumab
+treatment a single dose of 20 Gy was administered to
+one or two disease sites. Primary endpoint was disease
+control rate. Overall, 31 patients were analyzed showing
+a disease control rate of 48%. Adverse events grade 3/4
+occurred in 16% of patients.
+
+TagedEnd Table 2
+
+Summary of ongoing studies for bladder cancer.
+
+Study identifier Study name Phase Setting Study population Intervention (dose) Control Primary outcome(s) Status, Start date Initiator Preliminary
+
+Results/Interim
+
+Analysis
+
+
+TagedEnd
+
+NCT02891161 DUART Ib/II Palliative T2-4, N0-2, M0, locally
+advanced, cisplatin
+ineligible
+
+
+TagedEnd
+
+RT (64.8 Gy, 36 fractions) +
+durvalumab (1500 mg every 4
+
+wks)
+
+
+TagedEnd
+
+None Toxicity, progression
+free survival (1 y),
+
+disease control rate
+
+(15 mo)
+
+
+TagedEnd
+
+Active, not recruiting Big Ten
+
+November 2016 Consortium,
+
+USA
+
+
+TagedEnd
+
+Disease control rate
+
+for 20/26
+
+patients, PFS for
+25/26 patients,
+
+OS for 26
+
+patients
+
+
+TagedEnd
+
+Patients Reference
+
+planned
+
+26 [48]
+
+
+TagedEnd
+
+NCT03317158 ADAPT-Bladder I/II Curative NMIBC (Ta, T1, or Tis) RT (18 Gy in 3 fractions) +
+durvalumab (1120 mg every 3
+wk x 8 cycles),
+or durvalumab (1120 mg every 3
+wk for 8 cycles) + BCG
+
+NCT02662062 PCR-MIB, ANZUP II Curative T2-T4a, Nx or N0 RT (64 Gy in 32 fractions over 6
+1502 wk) + cisplatin (35 mg/m2) +
+pembrolizumab (200 mg every
+
+3 wk)
+
+
+TagedEnd
+
+Durvalumab alone Phase 2 dose, relapse- Recruiting Hoosier Cancer
+
+free survival November 2017 Research Network,
+
+USA
+
+None Toxicity Active, not recruiting Australian and New
+August 2016 Zealand
+Urogenital and
+
+Prostate Cancer
+
+Trials Group
+
+
+TagedEnd
+
+Toxicity and
+cystoscopic
+response (10
+patients)
+
+
+TagedEnd
+
+NA 186 NA
+
+
+TagedEnd
+
+28 [23]
+
+
+TagedEnd
+
+NCT03171025 NEXT II Curative T2-4b, N0 or N+, M0 or
+
+T1 with N+, not
+
+eligible for radical
+
+cystectomy
+
+NCT02621151 NA II Curative, neoadjuvant T2-T4a, N0, M0, not
+
+candidates for or
+
+decline radical
+
+cystectomy
+
+
+TagedEnd
+
+RT + chemotherapy + followed by
+Adjuvant nivolumab (480 mg
+every 4 wk for a maximum of
+
+12 treatments)
+
+RT (52 Gy in 20 fractions over 4
+wk) + gemcitabine (27 mg/m [2] )
++ pembrolizumab (200 mg
+every 3 wk x 3 cycles)
+
+
+TagedEnd
+
+None Bladder-intact disease- Active, not recruiting NYU Langone
+free survival rate (2 y) August 2016 Health/
+
+multinstitutional,
+
+USA
+
+None Toxicity, maximum Recruiting Royal Marsden
+
+tolerated dose June 2016 NHS Foundation
+
+Trust, UK
+
+
+TagedEnd
+
+None Failure-free survival Recruiting University of Utah, NA 28 [49]
+(2 y) July 2017 USA
+
+
+TagedEnd
+
+60 [24]
+
+34 [26]
+
+34 [27]
+
+33 [21, 50]
+
+
+TagedEnd
+
+Toxicity, bladder
+intact disease
+free survival
+
+rate (54
+
+patients)
+
+Dose-limiting
+toxicity (5
+patients)
+
+Toxicity (17
+patients),
+response rate (14
+patients)
+
+Completed
+
+treatment in time
+
+at the end of wk
+
+15, pathological
+
+response rate,
+DFS, toxicity
+
+
+TagedEnd
+
+NCT02560636 PLUMMB I Palliative T2-4, N0-3, M0-1 RT (24 Gy in 4 fractions vs. 24 Gy
+in 6 fractions vs. 30 Gy in 5
+fraction) + pembrolizumab
+(100 mg vs. 200 mg every 3 wk)
+
+
+TagedEnd
+
+NCT03421652 NUTRA II Curative T2-4, cN0/N+, cM0, RT (64 Gy in 32 fractions) + None Progression free survival Active, not recruiting Barbara Ann
+Chemotherapy ineligible nivolumab (240 mg every 2 wk) (1 y) April 2018 Karmanos
+
+Cancer Institute,
+
+USA
+
+
+TagedEnd
+
+NCT03529890 RACE-IT II Curative, cT3/4, cN0/N+, cM0 RT (45+5,4 Gy for 6 wk: 28 £ 1.8
+Neoadjuvant Gy) + nivolumab (240 mg every
+2 wk x 4 cycles) followed by
+
+radical
+
+Cystectomy
+
+NCT03775265 INTACT - SWOG/NRG III Curative, bladder sparing T2-T4a, N0, M0 Chemoradiation (with Cisplatin,
+
+1806 Fluorouracil, Gemcitabine or
+
+Mitomycin) + atezolizumab
+(every 3 wk for 6 mo)
+
+NCT04241185 KEYNOTE-992 III Curative, bladder sparing T2-T4a, N0, M0 RT (64 Gy at 2 Gy/fraction over
+6.5 wk or 55 Gy at
+2.75 Gy/fraction over 4 wk +
+chemotherapy (cisplatin 35 mg/
+m [2] or fluorouracil 500 + mg/m [2]
+
++ Mitomycin 12 mg/m [2] or
+Gemcitabine 27 mg/m [2] ) +
+Pembrolizumab (400 mg every
+
+6 wk)
+
+
+TagedEnd
+
+Chemoradiation Bladder intact event-free Recruiting SWOG/NRG, USA Adverse events (73 475 [22, 51]
+survival (5 y) April 2019 patients)
+
+RT + chemotherapy Bladder intact event-free Recruiting Merck Sharp & NA 636 [52]
++ placebo survival (71 mo) May 2020 Dohme Corp
+
+(continued on next page)
+
+
+TagedEnd
+
+None Completed treatment of
+radioimmunotherapy
+and cystectomy (15
+
+wk)
+
+
+TagedEnd
+
+active, not recruiting Technical
+February 2019 University
+
+Munich,
+
+Germany
+
+Table 2 (Continued)
+
+Study identifier Study name Phase Setting Study population Intervention (dose) Control Primary outcome(s) Status, Start date Initiator Preliminary
+
+Results/Interim
+
+Analysis
+
+
+Patients Reference
+
+planned
+
+
+NCT03511391 CHEERS II Palliative UCC M1, melanoma,
+
+RCC, NSCLC, h&n
+
+cancer
+
+
+SBRT (24 Gy in 3 fractions of 8
+Gy) + ICI (nivolumab/
+atezolizumab/pembrolizumab)
+
+
+ICI (nivolumab/
+
+atezolizumab/
+
+pembrolizumab)
+
+
+Progression free survival Active, not recruiting University Hospital NA 99 [53]
+(15 mo) March 2018 Ghent, Belgium
+
+
+NCT03993249 NA II Curative, bladder sparing T2-T4a, N0, M0 Chemoradiation + nivolumab RT + chemotherapy
+
+(Standard of
+
+care)
+
+
+Locoregional control Recruiting Hellenic
+rate (2 y) May 2019 GenitoUrinary
+Cancer Group,
+
+Greece
+
+
+NCT03601455 NA II Palliative cT2-T4 or metastatic (N
+
++ or M+), no
+
+cystectomy
+
+
+SBRT (33 Gy in 5 fractions) +
+durvalumab (1500 mg every 4
+
+wk)
+
+
+RT + durvalumab +
+
+tremelimumab
+
+(75 mg)
+
+
+Safety (3 mo),
+progression-free
+survival (3 y)
+
+
+Active, not recruiting Jonsson
+October 2018 Comprehensive
+
+Cancer Center,
+
+USA
+
+
+NCT04186013 ATEZOBLADDER II Curative, bladder sparing T2-4a, N0, M0 RT (60 Gy in 30 fractions overs 6
+PRESERVE wk at 2 Gy) + atezolizumab
+(1200 mg every 3 wk for 6
+cycles)
+
+
+NCT03693014 NA II Palliative Metastatic cancer of any
+histology for which
+
+there is an FDA
+
+indication for an
+
+immune checkpoint
+inhibitor including
+melanoma, lung,
+
+UCC, RCC, h&n
+
+cancers
+
+
+SBRT (27 Gy in 3 fractions) + ICI
+(pembrolizumab, atezolizumab,
+avelumab, ipilimumab)
+
+
+None Pathological complete Recruiting Spanish Oncology
+response (4 mo) September 2019 Genito-Urinary
+Group
+
+None Overall response rate (6 Recruiting Memorial Sloan
+mo) October 2018 Kettering Cancer
+
+Center, USA
+
+
+NCT04543110 RADIANT II Curative, neoadjuvant T2-T4a, N0, M0 RT (8 Gy) + durvalumab (3 None Pathological complete Recruiting Ottawa Hospital
+cycles) response (2 y) September 2020 Research
+
+Institute, Canada
+
+NCT04216290 INSPIRE II Curative, bladder sparing Any T, any N, M0 RT + chemotherapy + durvalumab RT + chemotherapy Complete response Recruiting National Cancer
+(3 cycles) January 2021 Institute (NCI),
+
+USA
+
+NCT03747419 NA II Curative ≥T2, N0, M0 RT + avelumab (every 2 wk for 6 None Complete clinical Active, not recruiting Dana-Farber
+cycles) response rate (3 mo) December 2018 Cancer Institute,
+
+USA
+
+
+NCT03844256 CRIMI Ib/II Curative, bladder sparing T2-T4a, N0-1, M0 RT (40 Gy in 20 fractions of 2 Gy)
++ Mitomycin-c 12 mg/m [2] +
+Capecitabine 750 mg/m [2] +
+Nivolumab (480 mg every 4 wk
+for 3 cycles)
+
+
+RT + mitomycin C/
+capecitabin +
+nivolumab 3 mg/
+kg + ipilimumab
+1 mg/kg
+RT + mitomycin C/
+capecitabin +
+nivolumab 1 mg/
+kg + ipilimumab
+3 mg/kg
+
+
+Recruiting Academisch
+January 2019 Medisch
+
+Centrum 
+Universiteit van
+
+Amsterdam,
+
+Netherlands
+
+
+Toxicity (6 wk),
+
+incidence of dose
+
+limiting toxicity (6
+wk), disease free
+
+survival (5 y), disease
+
+free survival-rate
+
+(5 y)
+
+
+NA 78 NA
+
+Toxicity (10 13 [29]
+patients)
+
+NA 39 NA
+
+NA 60 NA
+
+NA 25 NA
+
+NA 102 [48]
+
+NA 24 NA
+
+Adverse events (20 50 [25]
+
+patients)
+
+NA 27 NA
+
+NA 144 NA
+
+(continued on next page)
+
+
+NCT04779489 CIRTiN-BC II Curative, neoadjuvant Any T, cN+, cM0 SBRT (36 Gy in 3 fractions of 12 None Protocol completion Recruiting Solomon Woldu,
+Gy) + ICI (4 mo) September 2021 University of
+
+Texas
+
+Southwestern
+
+Medical Center,
+
+USA
+
+
+NCT04936230 NA II Palliative Metastatic UC SBRT (3 fractions over 2 wk) +
+
+atezolizumab (1200 mg every 3
+
+wk
+
+
+Atezolizumab Tumor response (up to Recruiting National Cancer
+
+6 mo) December 2021 Institute (NCI),
+
+USA
+
+Table 2 (Continued)
+
+Study identifier Study name Phase Setting Study population Intervention (dose) Control Primary outcome(s) Status, Start date Initiator Preliminary
+
+Results/Interim
+
+Analysis
+
+TagedEnd
+
+
+Patients Reference
+
+planned
+
+TagedEnd
+
+
+NCT04498767 OligoRARE III Palliative Metastatic UCC and SBRT (16−24 Gy in 1 fraction, 24
+other malignancies −33 Gy 3 fractions, 25−40 Gy
+
+in 5 fractions) + standard of
+
+care (with ICI)
+
+ISRCTN12606219 RE-ARM II Palliative Metastatic UCC RT (20 Gy in 5 fractions during
+the first 3 wk) + atezolizumab
+(1200 mg every 3 wk)
+
+TagedEnd
+
+
+RT (8Gy in 1
+fraction, 20 Gy
+
+in 5 fractions, 30
+
+Gy in 10
+
+fractions) +
+
+standard of care
+
+TagedEnd
+
+
+Overall survival (7.5 y) Recruiting European
+June 2021 Organisation for
+
+Research and
+
+Treatment of
+
+Cancer - EORTC
+
+TagedEnd
+
+
+NA 200 NA
+
+TagedEnd
+
+
+Atezolizumab Objective response rate Recruiting Institute of Cancer NA 102 [54]
+(9 wk) July 2021 Research (UK)
+
+TagedEnd
+
+
+NA = not available, RT = radiotherapy, SBRT = stereotactic body radiation therapy, ICI = immune checkpoint inhibitor, UCC = urothelial carcinoma, NMIBC = non muscle invasive bladder cancer, NSCLC = non-small cell lung cancer, h&n = head and neck, RCC = renal cell
+carcinoma, FDA = Food and Drug Administration.
+
+TagedEnd Table 3
+
+Summary of ongoing studies for RCC.
+
+
+TagedEnd
+
+Study identifier Study name Phase Setting Study population Intervention Control Primary outcome(s) Status, Start date Initiator Preliminary
+
+Results/Interim
+
+Analysis
+
+
+TagedEnd
+
+NCT03469713 NIVES II Palliative Metastatic RCC SBRT (30 Gy in 3 fractions)
++ nivolumab (240 mg
+every 2 wk for 6 mo and
+then 480 mg every 4 wk)
+
+
+TagedEnd
+
+None Objective response Active, not recruiting Gruppo Oncologico
+rate (3 y) July 2017 Italiano di
+
+Ricerca Clinica,
+
+Italy
+
+
+TagedEnd
+
+Objective response
+
+rate, adverse
+
+events (69
+
+patients)
+
+
+TagedEnd
+
+Patients planned Reference
+
+69 [35]
+
+
+TagedEnd
+
+NCT03511391 CHEERS II Palliative UCC M1,
+
+melanoma, RCC,
+
+NSCLC, h&n
+
+cancer
+
+
+TagedEnd
+
+SBRT (24 Gy in 3 fractions
+of 8 Gy) + ICI (nivolumab,
+pembrolizumab,
+
+atezolizumab)
+
+
+TagedEnd
+
+ICI (nivolumab,
+
+pembrolizumab,
+atezolizumab)
+
+
+TagedEnd
+
+Progression free Active, not recruiting University Hospital NA 99 [53]
+survival (15 mo) March 2018 Ghent, Belgium
+
+
+TagedEnd
+
+NCT04090710 CYTOSHRINK II Palliative Metastatic RCC SBRT (30−40Gy in 5
+fractions) + ipilimumab/
+nivolumab (1 mg/kg/
+3 mg/kg (I/N) every 3 wk
+for 4 cycles followed by
+nivolumab 240 mg every 2
+wk or 480 mg every 4 wk)
+
+
+TagedEnd
+
+Ipilimumab/ Progression free Recruiting Ontario Clinical
+nivolumab survival (1 y) January 2020 Oncology Group
+
+(OCOG),
+
+Canada
+
+
+TagedEnd
+
+NA 78 [55]
+
+
+TagedEnd
+
+ChiCTR2100047798 NA NA Palliative Metastatic RCC SBRT + ICI None Objective response Recruiting Shandong Cancer NA 40 NA
+rate March 2021 Hospital, China
+
+NA = not available, RT = radiotherapy, SBRT = stereotactic body radiation therapy, ICI = immune checkpoint inhibitor, UCC = urothelial carcinoma, h&n = head and neck, RCC = renal cell carcinoma, PD-L1 = programmed death-ligand 1.
+
+TagedEnd Table 4
+
+Summary of completed studies.
+
+Study identifier Study name Phase Setting Study population Intervention (dose) Control Primary outcome(s) Status Participants (n) Initiator References(s)
+
+
+TagedEnd
+
+Prostate cancer
+
+NCT00323882 NA I/II Palliative Metastatic
+
+castration
+resistant prostate
+
+cancer (CRPC)
+
+ACTRN12618000954224 ICE-PAC II Palliative Metastatic
+
+castration
+resistant prostate
+
+cancer (CRPC)
+
+
+TagedEnd
+
+RT (8 Gy per target lesion) +
+ipilimumab (3, 5, 10 mg/
+kg)
+
+
+TagedEnd
+
+Ipilimumab (3, 5, Safety, PSA response at d 85 Completed 71 Bristol-Myers
+10 mg/kg) Squibb
+
+
+TagedEnd
+
+[19]
+
+
+TagedEnd
+
+RT (40 Gy) + avelumab (10 None Disease control rate Completed 31 Multicenter [20,56]
+mg/kg)
+
+
+TagedEnd
+
+Bladder cancer
+
+NCT03287050 FAST I Palliative Metastatic UCC RT + pembrolizumab (200 None Feasibility will be determined
+mg) by the proportion of
+subjects who receive 4
+doses of pembrolizumab
+
+and at least one session of
+
+treatment of SBRT
+
+
+TagedEnd
+
+Completed/ 6 University of
+terminated Michigan, USA
+
+
+TagedEnd
+
+[33]
+
+[34]
+
+
+TagedEnd
+
+NCT02826564 NA I/II Palliative Metastatic UCC SBRT (3−8 Gy, to one
+
+metastatic lesion) +
+
+pembrolizumab (200 mg)
+
+NCT03617913 NA II Curative T2-T4a, N0, M0 RT (64 Gy) + avelumab (10
+mg/kg) + chemotherapy
+(cisplatin 35 mg/m [2],
+mitomycin 12 mg/m [2], 5fluoruracil 500 mg/m [2] )
+
+NCT03702179 IMMUNOPRESERVE- II Curative T2-4a, N0, M0 RT (46 Gy to minor pelvis,
+SOGUG 64−66 Gy to bladder) +
+durvalumab (1500 mg
+every 4 wk) +
+tremelilumab (75 mg)
+
+NCT03620435 NA II Curative T2-4a, N0, M0 RT (50 Gy) + atezolizumab
+(1200 mg every 3 wk) +
+gemcitabine (100 mg/m [2] )
+
+Renal cell carcinoma
+
+NCT03065179 RADVAX II Palliative Metastatic ccRCC SBRT (50 Gy) + nivolumab
+(3 mg/kg) + ipilimumab (1
+mg/kg)
+
+NCT02855203 RAPPORT I/II Palliative Metastatic ccRCC SBRT (20 Gy in 1 fraction) +
+pembrolizumab (200 mg
+every 3 wk for 8 cycles)
+
+
+TagedEnd
+
+None Dose limiting toxity, Completed 18 University Hospital
+response rate Ghent, Belgium
+
+
+TagedEnd
+
+None Complete response rate Completed 2 Mayo Clinic, USA [30]
+
+
+TagedEnd
+
+None Complete response rate Completed 32 Spanish Oncology
+Genito-Urinary
+Group
+
+None Safety Completed/ 8 McGill University,
+
+terminated Canada
+
+
+TagedEnd
+
+[31]
+
+[32]
+
+[39]
+
+[38]
+
+
+TagedEnd
+
+None Safety, number of
+participants needing
+corticosteroids, objective
+
+response rate
+
+
+TagedEnd
+
+Completed 25 University of
+
+Texas, USA
+
+
+TagedEnd
+
+None Toxitiy Completed 30 Peter MacCallum
+
+Cancer Centre,
+
+Australia
+
+
+TagedEnd
+
+None Change in PD-L1 levels Completed 12 Thomas Jefferson [37, 57]
+University, USA
+
+
+TagedEnd
+
+NCT02318771 NA I Palliative Recurrent/
+
+metastatic H&N,
+
+RCC, melanoma,
+
+lung cancer
+
+
+TagedEnd
+
+RT (8 Gy in 1 fraction or 5
+fractions of 4 Gy) +
+pembrolizumab (200 mg
+every 3 wk)
+
+
+TagedEnd
+
+NCT02599779 OZM-065 II Palliative Metastatic RCC SBRT + pembrolizumab SBRT at
+progression +
+pembrolizumab
+
+
+TagedEnd
+
+Progression free survival Completed NA Sunnybrook Health
+
+Sciences Centre,
+
+Canada
+
+
+TagedEnd
+
+[36]
+
+[40]
+
+
+TagedEnd
+
+NCT02864615 Volga Ib Palliative Metastatic RCC SBRT (equivalent dose in 2
+Gy of 114 Gy (range, 40
+−276 Gy)) + VEGFR
+
+inhibitor or mTOR
+
+inhibitor or
+
+immunotherapy
+
+
+TagedEnd
+
+None Rate of adverse events Completed 5 (17) Kidney Cancer
+
+Research
+
+Bureau, USA
+
+
+TagedEnd
+
+NA = not available, RT = radiotherapy, SBRT = stereotactic body radiation therapy, PSA = prostate specific antigen, UCC = urothelial carcinoma, RCC = renal cell carcinoma, ccRCC = clear cell renal cell carcinoma, H&N = head and neck, VEGFR = vascular endothelial
+growth factor, mTOR = mechanistic target of rapamycin.
+
+TagedEndP. Maisch et al. / Urologic Oncology: Seminars and Original Investigations 41 (2023) 219−232 227
+
+TagedH2
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+
+TagedEnd
+
+TagedH24.2. Bladder cancer
+
+TagedPTable 2 depicts all ongoing trials for bladder cancer
+patients. TagedP
+
+TagedP4.2.1. MIBC − Trials with preliminary results
+
+TagedPIn the neoadjuvant setting, the RACE IT trial
+(NCT03529890) reported first results in patients with
+locally advanced urothelial MIBC (cT3/4 cN0/N+ cM0,
+unfit for or refusing neoadjuvant chemotherapy). In this
+prospective, single-arm, phase II-trial patients were treated
+with nivolumab 240 mg intravenously every 2 weeks for 4
+cycles, starting 1 week before radiotherapy of the bladder/
+pelvis with 50.4 Gy, followed by radical cystectomy with TagedP
+standardized pelvic lymphadenectomy. Of 33 treated
+patients, 32 (97%) were ≥cT3/4 and 10 (30.3%) were
+lymph node-positive (cN+). For primary endpoint and efficacy analysis, 31 patients were eligible. Primary endpoint
+of completed treatment in time at the end of week 15 was
+reached in 27 of 31 (87.1%) Pts. The radiological ORR was
+70.9%. Pathological response rate was ypT0 38.7% and ≤
+ypT1 58.1%. The DFS rate at 12 months was 90.6%. Most TagedP
+common treatment-related adverse events were thyroid and
+gastrointestinal disorders (each 15.2%) and skin reactions
+(33.3%), which were mostly grade 1 and 2 [21].
+TagedPAn important field of interest is the combination of radiation and immunotherapy as bladder sparing approach.
+Most of the studies combine chemoradiation with ICI.
+
+TagedPThe INTACT trial by the National Cancer Institute
+(NCI) is a phase III study with 475 participants planned.
+Patients receive chemoradiation with or without atezolizu- TagedP
+
+mab (1200 mg every 3 weeks) (NCT03775265). Preliminary safety data from the first 73 patients of 475 planned
+patients showed no grade 3 or higher immune-related
+adverse events [22].
+TagedPThe PCR-MIB trial (NCT02662062) enrolls patients
+with non-metastatic MIBC who refuse or are ineligible for
+cystectomy. It is a single arm trial of pembrolizumab
+(200 mg every 3 weeks) with chemoradiotherapy (cisplatin
+35 mg/m [2] + RT with 2 Gy for 32 fractions for a total of 64
+Gy) continuing until cystoscopy in week 12 [23]. In a pre- TagedP
+planned safety analysis, which was performed after the first
+10 of the planned 30 patients with completed treatment, 9/
+10 patients had a complete cystoscopic response and were
+free of distant metastases. Four of 10 patients experienced
+grade 3 to 4 non-urinary adverse events [23]. Another trial
+in a bladder sparing setting combines pembrolizumab
+200 mg with gemcitabine 27 mg/m [2] and hypofractionated
+RT to study bladder-intact DFS (NCT02621151) [24].
+Results were reported from 54 patients (6 patients safety
+cohort, 48 patients efficacy cohort) enrolled from May
+2016 to October 2020 in 5 centers. The estimated bladder
+intact disease-free survival rate was 77% (95% CI: 0.60 TagedP
+−0.87) after 1 year. Twelve of 48 patients in the efficacy TagedP
+cohort had disease recurrence (6 NMIBC, 0 MIBC, 2
+
+
+TagedEnd
+
+TagedH2 regional, and 4 distant). Reported treatment-related AEs
+
+grade ≥3 occurred in 35% of patients of the efficacy cohort,
+
+TagedP which were mostly consistent with ICI monotherapy AEs.
+
+TagedPThe Phase Ib−II CRIMI-study combines mitomycin-c
+12 mg/m [2] / capecitabine 750 mg/m [2] with RT (40 Gy in 20
+fractions of 2 Gy) and nivolumab (480 mg every 4 weeks
+
+TagedP for 3 cycles) monotherapy or ipilimumab + nivolumab and
+
+TagedP is designed to primarily assess safety of these combinations
+
+and DFS (NCT03844256). A total of 50 participants are
+planned. First results published after 10 patients in each
+arm showed the feasibility of the treatment. In the nivolumab-only arm, no patient had dose-limiting toxicity
+whereas in the nivolumab + ipilimumab arm 3 patients
+(30%) had ≥ 3 AEs with one grade 4 and one grade 5 [25].
+TagedPThe PLUMMB phase I trials investigate safety, tolerability,
+and effectiveness of 2 different doses of pembrolizumab
+(100 mg vs. 200 mg every 3 weeks) in combination with different doses of RT (24 Gy in 4 fractions vs. 24 Gy in 6 fractions
+vs. 30 Gy in 5 fractions) in muscle-invasive and metastatic
+bladder cancer (T2-4, N0-3, M0-1) (NCT02560636). After 3 of
+5 patients having had grade 3 toxicities the trial was amended
+to reduce RT dose but is still recruiting [26].
+TagedPIn the NUTRA-trial nivolumab with a dose of 240 mg
+every 2 weeks and RT (64 Gy in 32 fractions) are used to
+treat patients with localized or locally advanced MIBC,
+ineligible for chemotherapy to study PFS (NCT03421652).
+
+TagedP Preliminary results in 17 of 34 planned patients showed a
+
+tolerable toxicity profile with AEs as expected and a complete response in 6 of 14 patients. Four patients had residual
+
+TagedP T1 disease or carcinoma in situ and 4 patients had disease
+
+progression [27].
+TagedPThe DURAT-trial is a phase Ib/II study with durvalumab
+(1500 mg every 4 weeks) and definitive RT (64.8 Gy, 36
+fractions over 7 weeks) followed by adjuvant administration of durvalumab for 1 year in patients with localized or
+locally advanced MIBC (NCT02891161). In the interim
+
+TagedP efficacy analysis, 25 of 26 patients were evaluable for PFS
+
+and all 26 patients for OS after one year. PFS probability
+was 73% and OS probability was 83.8%. Data from 20
+patients were available to analyze disease control rate after
+adjuvant durvalumab, which was 70% [28].
+TagedPRecently, preliminary results of a trial were published,
+which studies the combination of durvalumab (1500 mg every
+4 weeks) with or without tremelimumab (75 mg) and SRBT
+(33 Gy in 5 fractions) between the first 2 cycles in patients with
+muscle-invasive, locally advanced or metastatic tumors
+(NCT03601455). Five of 10 patients had localized disease and
+5 had nodal or distant metastases. At a median follow-up of
+16.8 months (6.4−30), there were 2 ≥ 3 grade immunotherapy-related treatment related AEs. Disease control rate was
+70% and local control was 90% [29].
+
+TagedP4.2.3. MIBC − Completed trials
+
+TagedPA phase II study conducted at the Mayo Clinic
+(NCT03617913) investigated the treatment effects of
+
+TagedEnd228 P. Maisch et al. / Urologic Oncology: Seminars and Original Investigations 41 (2023) 219−232
+
+TagedH2
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+
+TagedEnd
+
+avelumab in combination with fluorouracil plus mitomyin
+or ciplatin and RT (64 Gy) in patientes with pT2-4a, N0,
+M0 bladder cancer in a bladder sparing/curative setting
+
+[30]. Results of only 2 patients were published on clinicaltrials.gov and the study was labeled as completed. Both
+patients had grade 3 AEs with one having a serious AE
+(sepsis). According to the study protocol the the aim was to TagedH2
+include 27 patients [30].
+
+TagedP
+
+TagedPIn a curative setting, the immunopreserve trial investigated the use of durvalumab 1500 mg with tremelimumab TagedP
+
+−
+75 mg and RT (46 Gy to the minor pelvis and 64 66 Gy to
+the bladder) for the primary endpoint of pathological
+response rate, defined as the absence of MIBC at post-treatment biopsy (NCT03702179)II study included overall 32 patients, with cT2 bladder can- [31]. This multicenter phase TagedP
+cer in 28 patients, cT3 in 3 and cT4a in 1 patient. Patients
+initially underwent transurethral resection, followed by the
+treatment of durvalumab plus tremelimumab for 3 cycles.
+RT was started 2 weeks later, at doses of 46 Gy to the minor
+
+−
+pelvis and 64 66 Gy to bladder. Complete response at
+post-treatment biopsy could be reached in 26 (81%)
+patients, but 2 patients had residual MIBC. Four patients
+could not be evaluated. Due to MIBC and T1 relapses, 2
+patients had salvage cystectomy after a median follow-up
+of 6.1 months. Almost every patient (97%) experienced
+adverse events related to RT and/or immunotherapy and TagedP
+AEs grade 3 or 4 were reported in 31% of the patients. TagedP
+TagedPA phase I study (NCT03620435) conducted at McGill
+University, Canada evaluated the toxicity of atezolizumab
+1200 mg with gemcitabine 100 mg/m [2] and hypofractionated RT (50 Gy/20 fractions) after TURBT. The trial was
+terminated after the inclusion of 8 patients because 3
+patients had dose-limiting toxicity with grade 3 adverse
+events. No grade 4 and 5 toxicity were seen [32].
+
+TagedP
+
+TagedP4.2.4. Metastastic bladder cancer − Completed trials
+
+TagedPTwo phase I/II trials had a palliative setting in metastatic
+urothelial carcinoma investigating the treatment of pemprolizumab plus RT. The FAST trial (NCT03287050) was terminated in December 2021 after 6 patients had been
+included [33]. The justification given by the authors was a
+changing therapeutic landscape in metastatic bladder cancer
+and a lack of radiation/immunotherapy synergy in other
+malignancies.
+TagedPThe second trial published by Sundahl et al. is a randomized phase I/II study that investigated the dose-limiting toxicity as primary endpoint of stereotactic body radiotherapy
+(3−8 Gy, to one metastatic lesion) prior to pembrolizumab TagedP
+(200 mg) treatment (arm A) vs. concurrent to pembrolizumab (arm B), defined as any grade 3 to 5 metabolic or
+hematological toxicity or any grade 3 to 5 non-hematological toxicity that was (probably or possibly) related to SBRT
+
+[34]. The study included 9 in each study arm. Six patients
+in arm A and 9 patients in arm B experienced treatmentrelated adverse events grade 1 to 2. Only one patient in arm
+
+
+TagedEnd
+
+B had grade 3 treatment-related lymphopenia 11 months
+after SBRT. No dose-limiting toxicities or grade 4 to 5 AE
+were observed. Consequently, the treatment of pembrolizumab with sequential or concomitant SBRT was seen to be
+safe in patients with metastatic urothelial carcinoma.
+
+TagedH24.3. Kidney cancer
+
+TagedP TagedP4.3.1. Kidney cancer − Trials with preliminary results
+
+TagedPAll studies investigating the effect of RT in combination
+with ICI in renal cell carcinoma (RCC) had a palliative setting and focused on radiation of metastatic lesions (Table 3).
+
+TagedPThe NIVES trial combines hypofractionated RT with 30
+Gy in 3 fractions to metastatic sites with Nivolumab in
+patients with RCC with 2 or more measurable metastases,
+which are not located in the brain to evaluate ORR
+
+(NCT03469713). Nivolumab 240 mg is given every 2
+weeks for 6 months and then switched to 480 mg 4-weekly
+in responding patients. Primary results of 69 patients
+showed ORR of 19%. Seventeen patients (24.6%) experienced grade 3 to 4 AEs related to nivolumab, and 7 patients
+(10%) discontinued treatment due to AEs [35].
+
+TagedP4.3.2. Kidney cancer − Completed trials
+
+TagedPAlthough the OZM-065 study was completed, we could
+
+TagedP not identify any published results [36]. The OZM-065 trial
+
+is a phase II proof of concept, safety, and efficacy study.
+SBRT was either given to the 1 to 3 most clinically significant lesions at the time of progression on pembrolizumab
+or at the second course of pembrolizumab treatment to
+improve the activity of pembrolizumab. Thirty-five participants were planned.
+TagedPA phase I trial (NCT02318771) investigating the effect
+of RT (single fraction of 8 Gy or 5 fractions of 4 Gy) plus
+
+TagedP pembrolizumab (200 mg) is part of an open-label, random
+TagedP ized phase I exploratory study in patients with solid tumors
+
+[37]. The study included 12 metastatic RCC patients who
+progressed on prior anti-angiogenic therapy. In 3 patients,
+adverse events grade 3 to 4 occurred (hyperglycemia,
+thrombocytopenia, transaminitis). Two patients had partial
+responses for 12.4 and 14.5 months and 3 patients had stable disease up to 10.4 months. Seven patients had progressive disease. The median PFS was 8.6 months, and the
+
+TagedP median OS was 32.3 months. In accordance with the previ
+ous studies, the authors considered the treatment with RT
+and pembrolizumab to be well tolerated.
+TagedPThe RAPPORT study is a single-arm multi-institutional
+phase I/II trial, evaluating the safety and efficacy of total
+metastatic irradiation (single fraction of 20 Gy or if not feasible, 10 fractions of 3 Gy, given to all metastatic sites) followed by 8 cycles of pembrolizumab 200 mg [38]. Thirty
+patients could be evaluated, whereof 44% had intermediate-risk and 56% had favorable-risk disease. The median
+
+follow-up was 28 months. Overall, 83 metastatic sites
+
+TagedEndP. Maisch et al. / Urologic Oncology: Seminars and Original Investigations 41 (2023) 219−232 229
+
+TagedH2
+
+TagedP
+
+TagedP
+
+TagedH2
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedH1
+
+TagedP
+
+TagedEnd
+
+
+TagedEnd
+
+(median of 3 per patient) were irradiated. In 4 patients
+(13%) treatment-related adverse events grade 3 occurred:
+pneumonitis (n = 2), dyspnea (n = 1) and elevated alkaline
+patients had an adverse event grade 4 or 5. Further end-phosphatase/alanine transaminase (n = 1). None of the TagedH2
+points were objective response rate and disease control rate,which were 63% and 83%, respectively. Freedom from TagedP
+local progression at 2 years was 92%. Overall survival was
+90% and 74% at 1 and 2 years and PFS was 60% and 45%,
+respectively. It was the author’s conclusion that the treatment regime in oligometastatic RCC is well tolerated and
+offers excellent local control with durable responses and
+encouraging PFS.
+TagedPThe RADVAX-trial (NCT03065179) investigated the
+use of RT in combination with nivolumab (3 mg/kg) and
+ipilimumab (1 mg/kg). This single-arm phase II study
+included patients with metastatic RCC with prior tyrosine
+kinase inhibitor or interleukin-2 therapy [39]. Patients
+received combination treatment of nivolumab and ipilimumab for 3 weeks followed by nivolumab monotherapy.
+SBRT was administered to 1 to 2 disease sites with a dose
+
+of 50 Gy in 5 fractions between the first and the second
+dose of nivolumab/ipilimumab. The cohort of 25 included TagedH2
+patients were primarily intermediate (80%) and poor risk
+(12%). Due to immune-related adverse, events 40% of the TagedP
+patients required immune suppressive therapy with prednisone. Radiation related adverse events were seen in 2
+
+patients. Partial responses were observed in 14 patients
+with an ORR of 56%. According to the RAPPORT trial,
+immunotherapy with SBRT showed an acceptable safety TagedP
+and efficacy in metastatic RCC.
+TagedPThe Volga trial (NCT02864615) included patients with
+metastatic RCC and stable disease for at least 4 months on
+
+tyrosine kinase inhibitors (VEGFR or mTOR inhibitor) or
+checkpoint inhibitors [40]. In this phase Ib study SBRT,
+with an equivalent dose in 2 Gy of 114 Gy (range, 40−276
+Gy) was delivered to an organ (lungs, liver, lymph nodes,
+contralateral kidney, adrenal gland) with comparable
+lesions, where one lesion was in the treatment target and TagedH1
+the other one was intentionally left untreated (control
+lesion). Dose and schedule of SRBT was depending on the TagedP
+metastatic location. The rate of SBRT adverse events was
+
+the primary endpoint and the secondary endpoint included
+the rate of reduction in target lesion size. The trial included
+17 patients of whom 5 received immunotherapy with nivolumab at the time point of radiation therapy. The study does
+not report separate outcomes for patients with immunotherapy but states, that there is no difference in treatment TagedEnd
+response among patients on tyrosine kinase inhibitors vs.
+immunotherapy (P = 0.8). Response rate in target lesions
+was 76%, with complete response in 29% and partial
+response in 47% of the patients. Stable disease in control
+lesions was seen in 16 patients. Within an interval of 2
+months, the difference between target and control lesions as
+judged by the mean sizes was statistically significant (P <
+0.01). After a median follow-up of 8 months, SRBT-related
+
+
+TagedEnd
+
+toxicities grade 1 were 12%. No treatment-related toxicities
+grade 2 or higher were detected.
+
+TagedH24.4. Penile cancer
+
+TagedPWe identified one trial combining atezolizumab with RT
+in penile cancer with results published recently
+(NCT03686332) [41]. Patients with advanced squamous
+cell carcinoma of the penis or distal urethra were included
+(T4, N+, or M+). The PERICLES trial is a phase II trial
+with 2 arms evaluating either atezolizumab 1200 mg every
+3 weeks monotherapy (12 patients) or Atezolizumab in
+combination with RT (20 patients) in 33 fractions of 1.5 Gy
+
+TagedP (locoregional affected lymph node regions and penile
+
+region) and 1.8 Gy (macroscopic tumor). One-year PFS
+was 12% which did not meet the primary objective. The
+response rate of evaluable patients was 30%. Regarding
+toxicity, ICI or RT-related grade 3 to 4 AEs were observed
+in 3/32 (9.4%) and 1/20 (5.0%) patients, respectively. There
+were no grade 5 treatment-related AEs.
+
+TagedH24.5. Toxicity analysis
+
+TagedPFor all our predefined primary and secondary endpoints,
+the identified studies described sufficient data to be summarized in meta-analysis only for the outcome adverse events
+grade 3 to 5. Table 5 presents a summary for adverse
+
+events.
+
+TagedPThe number of patients reported varied for the individual
+
+−
+grades of AEs (18 411). The relative risk was 1.25 [95%
+
+−
+
+TagedP CI, 0.49bination of RT plus ICI vs. ICI alone (3.21] for adverse events grade 3 or 4 for the com-Fig. 2). In this analy
+sis we not only included data from trials completed, but
+also data available from ongoing studies presented as
+interim analysis. In supplementary table 1 all trial included
+in the analysis are listed.
+
+TagedH15. Discussion
+
+TagedPOur systematic literature search identified a total of 43
+studies examining the therapeutic effect of combined ICI
+and RT for all urogenital tumors. This reflects the increasing interest in this therapeutic approach and highlights its
+great capability. However, only 12 trials have been completed so far. These studies are exclusively phase I and II
+
+TagedEnd Table 5
+
+Results of meta-analysis for adverse events.
+
+AEs any grade AEs grade 1 or 2 AEs grade 3 or 4
+
+No. patients with events/total no. patients (%)
+RT + ICI 177/191 (93) 15/18 (83) 132/411 (32)
+ICI 65/66 (98) NA 26/66 (39)
+
+AEs = adverse events, RT = radiotherapy, ICI = immunotherapy,
+NA = not available.
+
+TagedEnd230 P. Maisch et al. / Urologic Oncology: Seminars and Original Investigations 41 (2023) 219−232
+
+TagedEnd
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedH1
+
+TagedP
+
+TagedP
+
+
+Fig. 2. Relative risk for the outcome adverse events grade 3 to 4.
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedH1
+
+TagedP
+
+TagedP
+
+
+TagedEnd
+
+trials, showing that research on this question is still in its
+infancy.
+TagedPMore than half of the studies deal with bladder cancer
+
+(n = 28), followed by studies with renal cell carcinoma
+(n = 9), prostate carcinoma (n = 5) and penile carcinoma
+(n = 1). In the case of bladder carcinoma and prostate carcinoma, different tumor stages and their treatment approaches
+(palliative, curative) are investigated. In RCC, trials are
+limited to a metastatic/palliative setting. To a certain extent,
+this distribution and the selected therapeutic approaches TagedP
+reflect the current applications of ICI in clinical practice.
+TagedPAlthough available data is limited to phase I and II trials,
+there are already promising results for the effectivity and
+tolerability for the combination of RT and ICI in genitourinary malignancies. In bladder cancer, for example, the combination was effective for bladder preservation therapy for
+MIBC [22,23,25]. Feasibility with acceptable toxicity were
+also reported from different trials [21−23,25]. The first data TagedP
+on combination therapy in a neoadjuvant setting before cystectomy were published this year. The RACE IT-study, a
+phase II trial, met its primary endpoint showing that neoadjuvant radio-immunotherapy followed by radical cystectomy in locally advanced bladder cancer patients is feasible TagedP
+and safe [21].
+TagedPAnother example is, that in metastatic RCC, SBRT in
+combination with immunotherapy could achieve acceptable
+OS- and PFS-rates at 1 year with 71% and 25%, respectively [42]. Preliminary data suggest a benefit of ablative
+vs. palliative SRBT in this setting [43]. To establish the
+combination of RT and ICI as a solid therapeutic option in
+different settings of genitourinary malignancies, further
+data is needed. TagedH1
+
+TagedPSince to date only results from phase I and II studies are
+available, our preplanned analysis was limited to our pri- TagedP
+mary endpoint ‘adverse events’. In this analysis − performed across all tumor entities - the frequency of AEs of
+any grade as well as AEs grade 3 or 4 is comparable
+between ICI therapy alone and a combination therapy of
+RT and ICI. However, there are substantial limitations of
+our analysis. The cohort sizes are small, and we included
+data from interim analyses. Data is pooled across all tumor
+entities and includes patients with different treatment
+
+
+TagedEnd
+
+regimens of RT. Besides different ICIs with variable doses
+and application times the optimal application and dosage of
+
+TagedP radiation is not clearly defined and varies. Furthermore,
+
+there is limited data available from ICI alone, as most of
+the trials are single arm studies and analyses are based on
+uneven numbers of total patients for RT + ICI vs. ICI. Nevertheless, this analysis is a first step to classify early data on
+toxicity and is encouraging to further study this combinational approach.
+TagedPThe results of our analysis correlate with previous publications on AEs for a combined treatment with RT and ICI.
+
+TagedP In a retrospective analysis of patients with NSCLC, mela
+noma and RCC, RT within 14 days of ICI was not significantly associated with a higher risk of irAEs [44]. Another
+retrospective study of patients with NSCLC that had combined treatment of Nivolumab and RT reported 36% of
+grade 3 toxicities in the radiation field [45].
+TagedPBesides the above-mentioned trial by Marcq et al. which
+was terminated after 5 of 8 patients who experienced grade
+3 AEs, most studies did not report increased safety risk for
+the combination therapy in prostate, bladder or kidney cancer compared to ICI monotherapy [32].
+TagedPStudy results currently available indicate that combination therapies are feasible regarding toxicities. The results
+
+TagedP suggest a clinical activity of this concept and further ongo
+ing trials will reveal additional potential, but mature phase
+III data is missing so far. The optimal combinations and
+protocols need to be defined for each indication to identify
+the strongest benefit of the combined application of RT and
+ICI in the future.
+
+TagedH16. Conclusion
+
+TagedP
+
+TagedPThe preclinical and clinical rational for combining ICI
+with RT for the treatment of genitourinary malignancies is
+currently being considered in many studies. Available study
+results from phase I and II trials are limited and do not yet
+allow any statement to be made about the effect of this
+combined therapy. The toxicity seems comparable to ICI
+therapy alone. However, the therapeutic approach pursued
+therein could lead to new therapeutic options in genitourinary tumor entities.
+
+TagedEndP. Maisch et al. / Urologic Oncology: Seminars and Original Investigations 41 (2023) 219−232 231
+
+TagedH1
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedH1
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+
+TagedEnd
+
+TagedH1Supplementary materials
+
+TagedP
+
+TagedPSupplementary material associated with this article can
+[be found in the online version at https://doi.org/10.1016/j.](https://doi.org/10.1016/j.urolonc.2022.10.009)
+[urolonc.2022.10.009.](https://doi.org/10.1016/j.urolonc.2022.10.009)
+
+TagedP
+
+TagedH1References
+
+[TagedP [1] Babjuk M, Burger M, Capoun O, Cohen D, Comperat EM, Domi-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0001)
+[nguez Escrig JL, et al. European Association of Urology Guidelines](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0001)
+[on Non-muscle-invasive Bladder Cancer (Ta, T1, and Carcinoma in](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0001) TagedP
+[Situ). Eur Urol 2022;81(1):75–94.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0001)
+[TagedP [2] Fyfe G, Fisher RI, Rosenberg SA, Sznol M, Parkinson DR, Louie AC.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0002)
+[Results of treatment of 255 patients with metastatic renal cell carci-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0002)
+[noma who received high-dose recombinant interleukin-2 therapy. J](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0002) TagedP
+[Clin Oncol 1995;13(3):688–96.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0002)
+[TagedP [3] Brandmaier A, Formenti SC. The impact of radiation therapy on](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0003)
+[innate and adaptive tumor immunity. Semin Radiat Oncol 2020;30](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0003)
+[(2):139–44.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0003)
+[TagedP [4] Demaria S, Coleman CN, Formenti SC. Radiotherapy: Changing the](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0004)
+[game in immunotherapy. Trends Cancer 2016;2(6):286–94.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0004) TagedP
+[TagedP [5] Dagoglu N, Karaman S, Caglar HB, Oral EN. Abscopal Effect of](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0005)
+[radiotherapy in the immunotherapy era: Systematic review of](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0005)
+[reported cases. Cureus 2019;11(2):e4103.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0005)
+[TagedP [6] Van Limbergen EJ, De Ruysscher DK, Olivo Pimentel V, Marcus D,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0006)
+[Berbee M, Hoeben A, et al. Combining radiotherapy with immuno-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0006) TagedP
+[therapy: The past, the present and the future. Br J Radiol 2017;90](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0006)
+[(1076):20170157.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0006)
+[TagedP [7] Ngwa W, Irabor OC, Schoenfeld JD, Hesser J, Demaria S, Formenti](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0007)
+[SC. Using immunotherapy to boost the abscopal effect. Nature Rev](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0007)
+[Cancer 2018;18(5):313–22.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0007) TagedP
+[TagedP [8] Abuodeh Y, Venkat P, Kim S. Systematic review of case reports on](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0008)
+[the abscopal effect. Curr Probl Cancer 2016;40(1):25–37.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0008)
+[TagedP [9] Lugade AA, Sorensen EW, Gerber SA, Moran JP, Frelinger JG, Lord](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0009)
+[EM. Radiation-induced IFN-gamma production within the tumor](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0009)
+microenvironment influences [antitumor](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0009) immunity. J Immunol
+[2008;180(5):3132–9.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0009) TagedP
+[TagedP[10] Deng L, Liang H, Burnette B, Beckett M, Darga T, Weichselbaum](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0010)
+[RR, et al. Irradiation and anti-PD-L1 treatment synergistically pro-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0010)
+[mote antitumor immunity in mice. J Clin Invest 2014;124(2):687–95.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0010)
+[TagedP[11] Postow MA, Callahan MK, Barker CA, Yamada Y, Yuan J, Kitano S,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0011)
+[et al. Immunologic correlates of the abscopal effect in a patient with](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0011) TagedP
+[melanoma. N Engl J Med 2012;366(10):925–31.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0011)
+[TagedP[12] Shaverdian N, Lisberg AE, Bornazyan K, Veruttipong D, Goldman](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0012)
+[JW, Formenti SC, et al. Previous radiotherapy and the clinical activ-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0012)
+[ity and toxicity of pembrolizumab in the treatment of non-small-cell](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0012) TagedP
+[lung cancer: A secondary analysis of the KEYNOTE-001 phase 1](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0012)
+[trial. Lancet Oncol 2017;18(7):895–903.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0012)
+[TagedP[13] Geng Y, Zhang Q, Feng S, Li C, Wang L, Zhao X, et al. Safety and](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0013)
+[Efficacy of PD-1/PD-L1 inhibitors combined with radiotherapy in](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0013)
+[patients with non-small-cell lung cancer: A systematic review and](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0013) TagedP
+[meta-analysis. Cancer Med 2021;10(4):1222–39.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0013)
+[TagedP[14] Hamdy FC, Donovan JL, Lane JA, Mason M, Metcalfe C, Holding P,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0014)
+[et al. 10-year outcomes after monitoring, surgery, or radiotherapy for](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0014)
+[localized prostate cancer. N Engl J Med 2016;375(15):1415–24.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0014)
+TagedP[15] Leitlinienprogramm Onkologie (Deutsche Krebsgesellschaft DK,
+
+€
+AWMF): S3-Leitlinie Fruherkennung, Diagnose, Therapie und Nach- TagedP
+sorge des Harnblasenkarzinoms, Langversion 1.1. AWMF-Registrierungsnummer 032/038OL 2016.
+[TagedP[16] Moher D, Liberati A, Tetzlaff J, Altman DG, Group P. Preferred](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0016)
+[reporting items for systematic reviews and meta-analyses: The](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0016) TagedP
+[PRISMA statement. PLoS Med 2009;6(7):e1000097.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0016)
+[TagedP[17] Iwai Y, Ishida M, Tanaka Y, Okazaki T, Honjo T, Minato N. Involve-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0017)
+[ment of PD-L1 on tumor cells in the escape from host immune system](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0017)
+
+
+TagedEnd
+
+TagedH1 [and tumor immunotherapy by PD-L1 blockade. Proc Natl Acad Sci](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0017)
+
+[USA 2002;99(19):12293–7.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0017)
+
+TagedP [TagedP[18] Yuan Z, Fernandez D, Dhillon J, Abraham-Miranda J, Awasthi S,Kim Y, et al. Proof-of-principle Phase I results of combining nivolu-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0018)
+
+[mab with brachytherapy and external beam radiation therapy for](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0018)
+[Grade Group 5 prostate cancer: Safety, feasibility, and exploratory](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0018)
+[analysis. Prostate Cancer Prostatic Dis 2021;24(1):140–9.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0018)
+[TagedP[19] Slovin SF, Higano CS, Hamid O, Tejwani S, Harzstark A, Alum-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0019)
+
+TagedH1 [kal JJ, et al. Ipilimumab alone or in combination with radiother-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0019)
+
+[apy in metastatic castration-resistant prostate cancer: results from](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0019)
+
+TagedP [an open-label, multicenter phase I/II study. Ann Oncol 2013;24](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0019)
+
+[(7):1813–21.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0019)
+[TagedP[20] Kwan EM, Spain L, Anton A, Gan CL, Garrett L, Chang D, et al.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0020)
+[Avelumab combined with stereotactic ablative body radiotherapy in](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0020)
+
+TagedP [metastatic castration-resistant prostate cancer: The phase 2 ICE-PAC](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0020)
+
+[clinical trial. Eur Urol 2022;81(3):253–62.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0020)
+[TagedP[21] Schmid SC, Schiller K, Lewerich J, Seitz AK, Sauter A, Koll F, et al.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0021)
+[LBA75 RACE IT: A prospective, single arm, multicenter, phase II-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0021)
+
+TagedP [trial to assess safety and efficacy of preoperative RAdiation therapy](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0021)
+
+[before radical CystEctomy combined with ImmunoTherapy in locally](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0021)
+[advanced urothelial carcinoma of the bladder (AB 65/18) −](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0021) first
+
+TagedP [results. Ann Oncol 2022;33:S1442.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0021)
+
+[TagedP[22] Singh P, Efstathiou JA, Tangen C, Jhavar SG, Hahn NM, Costello](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0022)
+
+TagedP [BA, et al. INTACT (S/N1806) phase III randomized trial of concur-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0022)
+
+[rent chemoradiotherapy with or without atezolizumab in localized](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0022)
+[muscle-invasive bladder cancer: Safety update on first 73 patients. J](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0022)
+
+TagedP [Clin Oncol 2021;39(6):428.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0022)
+
+[TagedP[23] Weickhardt AJ, Foroudi F, Lawrentschuk N, Galleta L, Seegum A,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0023)
+[Herschtal A, et al. Pembrolizumab with chemoradiotherapy as treat-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0023)
+[ment for muscle invasive bladder cancer: A planned interim analysis](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0023)
+
+TagedP [of safety and efficacy of the PCR-MIB phase II clinical trial (ANZUP](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0023)
+
+[1502). J Clin Oncol 2020;38(6_suppl):485-485.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0023)
+[TagedP[24] Balar AV, Milowsky MI, O’Donnell PH, Alva AS, Kollmeier M,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0024)
+
+TagedP [Rose TL, et al. Pembrolizumab (pembro) in combination with gemci-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0024)
+
+[tabine (Gem) and concurrent hypofractionated radiation therapy (RT)](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0024)
+
+TagedP [as bladder sparing treatment for muscle-invasive urothelial cancer of](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0024)
+
+[the bladder (MIBC): A multicenter phase 2 trial. J Clin Oncol](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0024)
+[2021;39(15_suppl):4504-4504.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0024)
+[TagedP[25] de Ruiter B-M, van Hattum JW, De Reijke TM, Oddens JR, Hulshof](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0025)
+
+TagedP [MCCM, Bins AD. Safety evaluation of combined PD-1+CTLA4 inhi-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0025)
+
+[bition concurrently to chemoradiotherapy (CRT) in localized muscle](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0025)
+invasive bladder carcinoma [(MIBC).](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0025) J Clin Oncol 2021;39
+
+TagedP [(15_suppl):4531-4531.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0025)
+
+[TagedP[26] Tree AC, Jones K, Hafeez S, Sharabiani MTA, Harrington KJ, Lalon-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0026)
+[drelle S, et al. Dose-limiting urinary toxicity with Pembrolizumab](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0026)
+
+TagedP [combined with weekly hypofractionated radiation therapy in bladder](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0026)
+
+[cancer. Int J Radiat Oncol Biol Phys 2018;101(5):1168–71.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0026)
+[TagedP[27] Vaishampayan UN, Heilbrun LK, Vaishampayan N, Li C, Shi D,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0027)
+[Frazier A, et al. 776P Phase II trial of concurrent nivolumab in uro-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0027)
+[thelial bladder cancer with radiation therapy in localized/locally](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0027)
+
+TagedP [advanced disease for chemotherapy ineligible patients [NUTRA](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0027)
+
+[trial]. Ann Oncol 2020;31:S596.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0027)
+[TagedP[28] Joshi M, Kaag M, Tuanquin L, Liao J, Kilari D, Emamekhoo H, et al.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0028)
+[Phase II clinical study of concurrent durvalumab and radiation ther-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0028)
+
+TagedP [apy (DUART) followed by adjuvant durvalumab in patients with](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0028)
+
+[localized urothelial cancer of bladder: Results for primary analyses](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0028)
+and survival. [BTCRC-GU15-023.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0028) J Clin Oncol 2021;39
+
+TagedP [(6_suppl):398-398.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0028)
+
+[TagedP[29] Kundu P, Lee A, Drakaki A, Liu S, Shen J, Chin AI, et al. Safety](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0029)
+[lead-in of phase II SBRT and durvalumab with or without tremelimu-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0029)
+[mab for unresectable and cisplatin-ineligible, locally advanced or](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0029)
+[metastatic bladder cancer. J Clin Oncol 2022;40(6_suppl):517-517.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0029)
+TagedP[30] Avelumab in Combination With Fluorouracil and Mitomycin or Cisplatin and Radiation Therapy in Treating Participants With Muscle
+TagedP Invasive Bladder Cancer - Full Text View - ClinicalTrials.gov
+
+TagedEnd232 P. Maisch et al. / Urologic Oncology: Seminars and Original Investigations 41 (2023) 219−232
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+TagedP
+
+
+TagedEnd
+
+[https://clinicaltrials.gov/ct2/show/NCT03617913. Accessed 20, July](https://clinicaltrials.gov/ct2/show/NCT03617913)
+
+2022.
+
+[TagedP[31] Garcia del Muro X, Valderrama BP, Medina A, Cuellar MA, Etxaniz](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0031)
+[O, Giron�es Sarri�o R, et al. Phase II trial of durvalumab plus tremeli-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0031)
+[mumab with concurrent radiotherapy (RT) in patients (pts) with](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0031)
+[localized muscle invasive bladder cancer (MIBC) treated with a](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0031) TagedP
+[selective bladder preservation approach: IMMUNOPRESERVE-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0031)
+[SOGUG trial. J Clin Oncol 2021;39(15_suppl):4505-4505.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0031)
+[TagedP[32] Marcq G, Souhami L, Cury FL, Salimi A, Aprikian A, Tanguay S,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0032)
+[et al. Phase 1 Trial of Atezolizumab Plus Trimodal therapy in patients](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0032)
+
+[with localized muscle-invasive bladder cancer. Int J Radiat Oncol](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0032) TagedP
+
+[Biol Phys 2021;110(3):738–41.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0032)
+TagedP[33] Anti-PD(L)1 and SBRT in the Treatment of Advanced, PlatinumRefractory Urothelial Carcinoma - Full Text View - ClinicalTrials.
+[gov https://clinicaltrials.gov/ct2/show/NCT03287050. Accessed 20,](https://clinicaltrials.gov/ct2/show/NCT03287050)
+July 2022. TagedP
+[TagedP[34] Sundahl N, Vandekerkhove G, Decaestecker K, Meireson A, De Vis-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0034)
+[schere P, Fonteyne V, et al. Randomized Phase 1 trial of pembrolizu-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0034)
+mab with sequential versus concomitant stereotactic body
+[radiotherapy in metastatic urothelial carcinoma. Eur Urol 2019;75](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0034)
+[(5):707–11.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0034) TagedP
+[TagedP[35] Masini C, Iotti C, De Giorgi U, Bellia RS, Buti S, Salaroli F, et al.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0035)
+[Nivolumab (NIVO) in combination with stereotactic body radiother-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0035)
+[apy (SBRT) in pretreated patients (pts) with metastatic renal cell car-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0035)
+[cinoma (mRCC): First results of phase II NIVES study. J Clin Oncol](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0035) TagedP
+[2020;38(6):613-613.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0035)
+TagedP[36] A Proof of Principle Study of Pembrolizumab With SBRT in TKI
+[mRCC Patients - Full Text View - ClinicalTrials.gov https://clinical-](https://clinicaltrials.gov/ct2/show/NCT02599779)
+[trials.gov/ct2/show/NCT02599779. Accessed 20, July 2022.](https://clinicaltrials.gov/ct2/show/NCT02599779)
+[TagedP[37] Lin J, Song AJ, Hoffman-Censits J, Leiby BE, Tuluc M, Shaw C,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0037) TagedP
+[et al. A pilot study of radiation therapy in combination with pembroli-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0037)
+[zumab in patients with metastatic renal cell cancer. Am J Clin Oncol](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0037)
+[2020;43(2):82–6.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0037)
+[TagedP[38] Siva S, Bressel M, Wood S, Shaw M, Loi S, Sandhu SK, et al. Stereo-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0038)
+[tactic radiotherapy and pembrolizumab for oligometastatic renal](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0038) TagedP
+[tumors: The RAPPORT trial. J Clin Oncol 2021;39(6_suppl):277-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0038)
+
+[277.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0038)
+
+[TagedP[39] Hammers HJ, Vonmerveldt D, Ahn C, Nadal RM, Drake CG, Folkert](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0039)
+[MR, et al. Combination of dual immune checkpoint inhibition (ICI)](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0039)
+[with stereotactic radiation (SBRT) in metastatic renal cell carcinoma](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0039) TagedP
+[(mRCC) (RADVAX RCC). J Clin Oncol 2020;38(6_suppl):614-614.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0039)
+[TagedP[40] Dengina N, Mitin T, Gamayunov S, Safina S, Kreinina Y, Tsima-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0040)
+[feyeu I. Stereotactic body radiation therapy in combination with sys-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0040)
+[temic therapy for metastatic renal cell carcinoma: A prospective](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0040)
+[multicentre study. ESMO Open 2019;4(5):e000535.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0040) TagedP
+[TagedP[41] de Vries HM, De Feijter J, Bekers E, Lopez-Yurda M, Pos FJ, Horen-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0041)
+[blas S, et al. Clinical results of PERICLES: A phase II trial investigat-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0041)
+[ing atezolizumab +/- radiotherapy for advanced squamous cell](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0041) TagedP
+[carcinoma of the penis. J Clin Oncol 2022;40(6_suppl):3-3.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0041)
+[TagedP[42] Kroeze SGC, Fritz C, Schaule J, Siva S, Kahl KH, Sundahl N, et al.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0042)
+[Stereotactic radiotherapy combined with immunotherapy or targeted](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0042)
+[therapy for metastatic renal cell carcinoma. BJU Int 2021;127](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0042) TagedP
+[(6):703–11.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0042)
+[TagedP[43] Francolini G, Campi R, Di Cataldo V, Detti B, Loi M, Triggiani L,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0043)
+[et al. Impact of stereotactic body radiotherapy vs palliative radiother-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0043)
+[apy on oncologic outcomes of patients with metastatic kidney cancer](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0043)
+[concomitantly treated with immune checkpoint inhibitors: A prelimi-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0043) TagedP
+[nary, multicentre experience. Clin Transl Oncol 2022;24(10):2039–](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0043)
+
+[43.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0043)
+
+[TagedP[44] Bang A, Wilhite TJ, Pike LRG, Cagney DN, Aizer AA, Taylor A,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0044)
+[et al. Multicenter evaluation of the tolerability of combined treatment](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0044)
+
+
+TagedEnd
+
+[With PD-1 and CTLA-4 immune checkpoint inhibitors and palliative](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0044)
+[radiation therapy. Int J Radiat Oncol Biol Phys 2017;98(2):344–51.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0044)
+
+TagedP [TagedP[45] Parker SM, Zainib M, Mattes M, Amin N. Multi-institutional report](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0045)
+
+[on toxicities from combined radiation and nivolumab. J Clin Oncol](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0045)
+
+[2018;36(5_suppl):39-39.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0045)
+[TagedP[46] Supiot S, Libois V, Guimas V, Rio E, Rolland F, Bompas E, et al.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0046)
+[Prostate cancer with oligometastatic relapse: Combining stereotactic](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0046)
+[ablative radiotherapy and durvalumab, a randomized phase II trial](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0046)
+
+TagedP [(POSTCARD - GETUG-P13). J Clin Oncol 2019;37(15_suppl):](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0046)
+
+[TPS5088-TPS5088.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0046)
+
+[TagedP[47] Rathkopf DE, Decker B, Schum P, McBride S. 644TiP SAABR: Sin-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0047)
+[gle arm phase II study of abiraterone + atezolizumab + GnRH analog](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0047)
+
+TagedP [and stereotactic body radiotherapy (SBRT) to the prostate in men](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0047)
+
+[with newly diagnosed hormone-sensitive metastatic prostate cancer](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0047)
+[(mHSPC). Ann Oncol 2021;32:S672.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0047)
+[TagedP[48] Joshi M, Kim SE, Solanki AA, Miyamoto DT, Degraff D, Zou JW,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0048)
+
+TagedP [et al. EA8185: Phase 2 study of bladder-sparing chemoradiation (che-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0048)
+
+[moRT) with durvalumab in clinical stage III, node positive urothelial](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0048)
+[carcinoma (INSPIRE)—An ECOG-ACRIN and NRG Collaboration.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0048)
+[J Clin Oncol 2021;39(15_suppl):500. TPS4590-TPS4590 .](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0048)
+[TagedP[49] Gupta S, Maughan BL, Dechet CB, Lowrance WT, O Neil B, Kokeny](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0049)
+
+TagedP [KE, et al. NEXT: A phase II, open-label study of nivolumab adjuvant](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0049)
+
+[to chemoradiation in patients (pts) with localized muscle invasive blad-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0049)
+[der cancer. J Clin Oncol 2020;38(6_suppl):506. TPS605-TPS605.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0049)
+[TagedP[50] Schmid SC, Koll FJ, Rodel C, Maisch P, Sauter A, Beckert F, et al.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0050)
+[Radiation therapy before radical cystectomy combined with immuno-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0050)
+
+TagedP [therapy in locally advanced bladder cancer - study protocol of a pro-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0050)
+
+[spective, single arm, multicenter phase II trial (RACE IT). BMC](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0050)
+[Cancer 2020;20(1):8.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0050)
+
+TagedP [TagedP[51] Singh P, Tangen C, Efstathiou JA, Lerner SP, Jhavar SG, Hahn NM,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0051)
+
+[et al. INTACT: Phase III randomized trial of concurrent chemoradio-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0051)
+
+[therapy with or without atezolizumab in localized muscle invasive](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0051)
+[bladder cancer-SWOG/NRG1806. J Clin Oncol 2020;38(6):TPS586-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0051)
+
+TagedP [TPS586.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0051)
+
+[TagedP[52] Balar AV, James ND, Shariat SF, Shore ND, Van Der Heijden MS,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0052)
+[Weickhardt AJ, et al. Phase III study of pembrolizumab (pembro)](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0052)
+[plus chemoradiotherapy (CRT) versus CRT alone for patients (pts)](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0052)
+
+TagedP [with muscle-invasive bladder cancer (MIBC): KEYNOTE-992. J](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0052)
+
+[Clin Oncol 2020;38(15_suppl):TPS5093-TPS5093.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0052)
+[TagedP[53] Spaas M, Sundahl N, Hulstaert E, Kruse V, Rottey S, De Maeseneer](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0053)
+[D, et al. Checkpoint inhibition in combination with an immunoboost](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0053)
+
+TagedP [of external beam radiotherapy in solid tumors (CHEERS): Study pro-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0053)
+
+[tocol for a phase 2, open-label, randomized controlled trial. BMC](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0053)
+[Cancer 2021;21(1):514.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0053)
+[TagedP[54] Wilkins A, Hall E, Lewis R, Gribble H, Melcher A, Huddart R, et al.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0054)
+
+TagedP [RE-ARMing the immune response to bladder cancer with radiother-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0054)
+
+[apy. Clin Oncol (R Coll Radiol) 2022.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0054)
+[TagedP[55] Lalani AKA, Swaminath A, Pond GR, Kapoor A, Chu W, Bramson JL,](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0055)
+[et al. Phase II trial of cytoreductive stereotactic hypofractionated radio-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0055)
+
+TagedP [therapy with combination ipilimumab/nivolumab for metastatic kidney](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0055)
+
+[cancer (CYTOSHRINK). J Clin Oncol 2020;38(6):TPS761-TPS761 .](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0055)
+[TagedP[56] Azad A, Spain LA, Anton A, Gan CL, Garrett L, Chang D, et al. ICE-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0056)
+[PAC: A phase II multicenter study of avelumab combined with ste-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0056)
+
+TagedP [reotactic ablative body radiotherapy (SABR) in metastatic castration-](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0056)
+
+resistant prostate cancer [(mCRPC).](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0056) J Clin Oncol 2021;39
+[(6_suppl):86-86.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0056)
+[TagedP[57] Lin J, Hoffman-Censits JH, Kelly WK, Tuluc M, Shaw C, Philipose](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0057)
+[S, et al. An exploratory study to investigate the immunomodulatory](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0057)
+[activity of radiation therapy in combination with pembrolizumab in](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0057)
+
+TagedP [patients with renal cell cancer. J Clin Oncol 2017;35(15_suppl):](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0057)
+
+[e16058-e16058.](http://refhub.elsevier.com/S1078-1439(22)00388-X/sbref0057)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

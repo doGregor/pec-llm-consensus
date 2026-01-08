@@ -1,0 +1,257 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    BJU Int 2025; 136: 344–350 doi:10.1111/bju.16792, 16791, 16781, 16782, 16749, 16750
+## Letter to the Editor
+# A comment on: ‘Comparing open and video endoscopic lymphadenectomy for penile cancer: a systematic review and meta-analysis of prospective studies’
+
+
+Dear Editor,
+We would like to acknowledge and thank the authors of
+the systematic review and meta-analysis titled ‘Comparing
+open and video endoscopic lymphadenectomy for penile
+cancer: a systematic review and meta-analysis of prospective
+studies’ [1] for their contribution to research on the evidencebased management of inguinal lymphadenectomy for penile
+cancer. The comparison of video endoscopic inguinal
+lymphadenectomy (VEIL) with open inguinal
+lymphadenectomy (OIL) has indeed provided useful
+information regarding the peri-operative benefits of the
+former technique. We would like to thank the authors for
+their deep dive into details such as oncological operating
+times, peri-operative complication rates, drainage duration,
+length of hospital admission, and overall surgical outcomes,
+as these have important implications for the clinical
+management of penile cancer. Nonetheless, we would like to
+address some points that could be strengthened in the
+discussion in order to enhance the accuracy of clinical
+conclusions when applying the complete evidence-based
+approach.
+
+The meta-analysis encompassed three randomised controlled
+trials (RCTs) and one prospective cohort study. It may not
+have been appropriate to include different study designs, such
+as RCTs alongside cohort studies, within a meta-analysis.
+This is because RCTs, arguably because of their minimisation
+of biases due to randomisation and control, are deemed the
+‘gold standard’ in clinical research, whereas cohort studies,
+although useful, typically have a greater risk of bias, especially
+when there are confounding factors. Hence, blending the
+findings of these two approaches as a synthesis might lead to
+inconsistencies and compromise the trustworthiness of the
+overall evidence. In order to resolve this concern, we
+recommend that the authors conduct a sensitivity analysis by
+removing the cohort study to examine the effect of its
+removal on the robustness of conclusions drawn solely from
+the RCTs [2]. Such an analysis would increase the confidence
+derived from the outcomes and substantially help to guide
+clinicians in their interpretation of the data.
+
+The authors have performed a risk of bias assessment. An
+assessment of the certainty of evidence using the Grading of
+Recommendations, Assessment, Development and Evaluations
+
+
+(GRADE) approach, in addition, could have been conducted
+to determine the certainty of evidence for each outcome [3].
+The GRADE system is important in assessing the quality of
+evidence because it explains in clear terms how conclusions
+are made based on the data presented. With the application
+of GRADE, the authors would have been able to assign an
+evidence grade for each outcome, such as incidence of wound
+infections, skin necrosis and lymphoedema, and how these
+outcomes impact clinical practice. This would aid clinicians in
+evaluating the degree of trust to place in the findings and
+assist in making informed decisions. The meta-analysis is of
+clinical relevance; however, applying the GRADE system
+would have enhanced the credibility of the evidence, enabling
+practitioners to use the findings in a more reliable way.
+
+Although the study compares VEIL and OIL in depth, it is
+critical to note that long-term oncological outcomes, such as
+recurrence and survival, were insufficiently covered owing to
+the short follow-up periods in the studies. We do appreciate
+the issues created by the scarcity of penile cancer and the
+logistical problems these cancers present, but recommend that
+future work focus on the long-term effects of VEIL on
+recurrence and survival. This focus would enhance
+understanding of the technique’s oncological advantages.
+
+Disclosure of Interests
+
+The authors declare no conflict of interest.
+
+Financial Support Statement
+
+No funding was received for this research.
+
+Ethical Approval
+
+Not applicable.
+
+Author Contributions
+
+S.K., R.M. and R.S. provided comments on methodological
+aspects, S.K. and R.S. wrote and edited the draft.
+
+Rachana Mehta [1], Shubham Kumar [2] and Ranjana Sah [3,4,5]
+
+1 Clinical Microbiology, RDC, Manav Rachna International Institute
+of Research and Studies, Faridabad, Haryana, [2] Center for Global
+Health Research, Saveetha Medical College and Hospital, Saveetha
+
+
+© 2025 BJU International.
+
+wileyonlinelibrary.com Published by John Wiley & Sons Ltd. www.bjui.org
+
+Institute of Medical and Technical Sciences, Saveetha University,
+Chennai, [3] Department of Paediatrics, [4] Department of Public Health
+Dentistry, Dr. D. Y. Patil Medical College Hospital and Research
+Centre, Dr. D. Y. Patil Vidyapeeth (Deemed-to-be-University), Pimpri,
+Pune, Maharashtra, India, and [5] Medical Laboratories Techniques
+Department, AL-Mustaqbal University, Hillah, Babil, Iraq
+
+References
+
+1 Suartz CV, de Lima RD, Abud LR et al. Comparing open and video
+endoscopic lymphadenectomy for penile cancer: a systematic review and
+meta-analysis of prospective studies. BJU Int 2025; 135: 567–76
+2 Shabil M, Bushi G, Rai N, Abu Serhan H. Comment on:“efficacy and
+safety of tebentafusp in patients with metastatic uveal melanoma: a
+# Response to Mehta et al.
+
+We appreciate the thoughtful comments provided by Mehta
+et al. [1]. We would like to clarify that, at all times, our
+intention was never to conduct a meta-analysis based solely
+on randomised controlled trials (RCTs). As is well known,
+the number of available RCTs on this topic is still limited,
+often involving few patients and resulting in forest plots with
+
+—
+only two studies which compromises the statistical power
+and the strength of any conclusions [2].
+
+For this reason, we chose to include both high-quality RCTs
+and prospective cohort studies, ensuring a more
+comprehensive and representative analysis of the available
+evidence. We emphasise that the conclusions of our work are
+appropriate within this context, and the methodology was
+carefully based on prospective studies.
+
+Thus enabling the performance of a meta-analysis with
+sufficient statistical power based solely on prospective studies.
+At present, this meta-analysis, which includes prospective
+studies (Level 1 evidence), represents the most reliable
+evidence available to guide our clinical practice and to offer
+our patients the best possible treatment based on the current
+clinical data.
+
+We would also like to share an excerpt from our manuscript
+that supports this approach:
+
+In the present meta-analysis of high-quality RCTs and
+prospective cohorts, VEIL had significantly fewer
+wound infections, skin necrosis, and lymphoedema. The
+shorter drainage time, lower intensity and duration of
+pain, and fewer postoperative complications seem to be
+related to a shorter hospital stay.
+
+
+Letter to the Editor
+
+”
+systematic review and meta-analysis . Hum Vaccin Immunother 2024; 20:
+
+2398870
+
+3 Dewidar O, Lotfi T, Langendam MW et al. Good or best practice
+statements: proposal for the operationalisation and implementation of
+GRADE guidance. BMJ Evid-Based Med 2023; 28: 189–96
+
+Correspondence: Shubham Kumar, Center for Global Health
+Research, Saveetha Medical College and Hospital, Saveetha
+Institute of Medical and Technical Sciences, Saveetha
+University, Chennai, India.
+[e-mail: shubham.kumar.g2025@gmail.com](mailto:shubham.kumar.g2025@gmail.com)
+
+We appreciate all the suggestions; however, performing a
+sensitivity analysis where the studies point toward the same
+outcome with the results in forest plots involving only one or
+two studies does not hold statistical relevance and does not
+change the conclusions of our study, which aimed to optimise
+the available evidence.
+
+Finally, we reiterate our expectation that future randomised
+studies with larger patient populations will further strengthen
+the findings already observed in all studies of this meta-analysis.
+
+Disclosure of Interest
+
+None.
+
+Caio V. Suartz
+
+Northern Ontario School of Medicine, Sudbury, Ontario, Canada
+
+[Correction added on 26 June 2025, after first online
+publication: The article category has been corrected to ‘Letter
+to the Editor’.]
+
+References
+
+1 Mehta R, Kumar S, Sah R. A comment on: comparing open vs video
+endoscopic lymphadenectomy for penile cancer: a meta-analysis. BJU
+2025-0383, accepted 22 April
+2 Suartz CV, de Lima RD, Abud LR et al. Comparing open and video
+endoscopic lymphadenectomy for penile cancer: a systematic review and
+meta-analysis of prospective studies. BJU Int 2025; 135: 567–76
+
+Correspondence: Caio V. Suartz, Northern Ontario School of
+Medicine, Sudbury, Ontario, Canada.
+[e-mail: caio.v_suartz@hotmail.com](mailto:caio.v_suartz@hotmail.com)
+
+� 2025 BJU International. 345
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,7 @@
+Based on the provided document, it is important to clarify that the paper, "The Role of Plastic Surgery in Urologic Cancer and Trauma Reconstruction: A Systematic Review," is not a clinical practice guideline for penile cancer. It is a review summarizing existing literature on the collaboration between plastic and urologic surgeons. Therefore, it does not contain the detailed, stage-specific treatment recommendations (e.g., for PeIN, Tis, T1/T2 stages), specific surgical modalities (e.g., wide local excision, glansectomy), or follow-up schedules that are typically found in treatment guidelines.
+
+The paper makes one observation relevant to the management of a complication in advanced penile cancer patients, which is summarized below. No other explicit treatment recommendations for penile cancer are mentioned.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Management of Treatment Complications** | For patients with **advanced penile squamous cell carcinoma** who develop lower extremity lymphedema as a complication following inguinal lymphadenectomy, **microsurgical lymphovenous bypass** is highlighted as a valuable prophylactic or therapeutic intervention. The procedure is noted to result in clinical improvement in lymphedema and quality of life. <br><br>*(Note: The paper does not specify T-stages, tumor grades, or whether this applies to palpable or non-palpable nodes prior to lymphadenectomy.)* |

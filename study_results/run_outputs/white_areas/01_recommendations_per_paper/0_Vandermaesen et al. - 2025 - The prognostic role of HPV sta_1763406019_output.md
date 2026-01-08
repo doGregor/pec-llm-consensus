@@ -1,0 +1,6 @@
+Based on a thorough review of the provided paper, "The prognostic role of HPV status in penile squamous cell carcinoma: a systematic review and meta-analysis," the following treatment recommendations were identified. The paper primarily focuses on the prognostic value of HPV and is not a clinical guideline; therefore, it contains limited and high-level descriptions of treatment standards rather than detailed, stage-specific recommendations.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment** | **Specific Clinical Indications:** Penile Squamous Cell Carcinoma (PSCC). The paper does not specify particular T-stages, grades, or anatomical locations for this general standard of care.<br><br>**Treatment Modality:** The current standard of care primarily involves surgical resection of the primary tumor. No other specific conditions or limitations are mentioned. |
+| **Lymph Node Management** | **Specific Clinical Indications:** Presence of malignant lymph nodes in patients with PSCC. <br><br>**Treatment Modality:** Surgical resection of malignant lymph nodes.<br><br>**Additional Clinical Clarifications:** The recommendation is for "malignant lymph nodes" and is indicated "if necessary," implying it is for cases with nodal involvement. The paper does not further clarify whether this applies specifically to palpable or non-palpable nodes. |

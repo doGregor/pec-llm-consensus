@@ -1,0 +1,865 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    # Pelvic lymph node dissection alone versus adjuvant radiotherapy in node positive penile cancer: A systematic review
+
+**Naufa Naushad*, Abdalla A. Deb, Ayman A. Agag, Hosam A. Serag, Vijay K. Sangar**
+
+Faculty of Medicine, Edge Hill University, Ormskirk, United Kingdom
+*E‑mail: naufal.naushad222@gmail.com
+
+
+
+**INTRODUCTION**
+
+Penile cancer is a rare malignancy with limited
+evidence to guide management decisions in the
+advanced stages of the disease. [[1]] Moreover, invasive
+penile cancer has variable clinical presentations,
+which may lead to a delay in diagnosis resulting in
+relatively poor survival rates among men. [[2,3]] Surgery
+is the mainstay of treatment. Removing the tumor
+completely while preserving as much of the penis
+as possible is the aim of surgical treatment of the
+primary. [[4]] Radiation treatment of the primary tumor is
+
+
+an alternative organ-‑preserving approach with good results
+in T1-‑2 lesions <4 cm in diameter. It has the advantage of
+preserving sexual function, especially in younger patients. [[2,5]]
+
+The presence of lymph node (LN) metastases is the most
+significant prognostic factor in patients with penile
+cancer. [[6]] Positive pelvic LNs in patients with penile cancer
+has long been associated with poorer outcomes, with very
+low 5-‑year survival rates of 9%–40%. [[7-‑10]] The lines of
+management of regional LNs include surveillance, pelvic LN
+
+This is an open access journal, and articles are distributed under the terms of
+the Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 License,
+which allows others to remix, tweak, and build upon the work non‑commercially,
+as long as appropriate credit is given and the new creations are licensed under
+the identical terms.
+
+**For reprints contact:** WKHLRPMedknow_reprints@wolterskluwer.com
+
+**Received:** 02.12.2021, **Revised:** 15.01.2022,
+
+**Accepted:** 09.02.2022, **Published:** 01.04.2022
+
+**Financial support and sponsorship:** Nil.
+
+
+**Conflicts of interest:** There are no conflicts of interest.
+
+|Review Article|Col2|
+|---|---|
+|||
+
+
+|Access this article online|Col2|
+|---|---|
+|Quick Response Code:|Website: www.indianjurol.com|
+|||
+||DOI: 10.4103/iju.iju_453_21|
+
+
+
+© 2022 Indian Journal of Urology | Published by Wolters Kluwer - Medknow 91
+
+Naushad, *et al.* : Dissection versus radiotherapy in node positive penile cancer
+
+
+dissection (PLND), radiotherapy (RT) and chemotherapy.
+The use of these options varies according to the stage of the
+primary tumor and LNs. [[11]] The use of RT for nodal disease
+follows tradition and single-‑institution policies. RT is widely
+used in some European countries for the management of
+regional nodal metastasis in penile cancer, despite the lack
+of data. [[11]]
+
+The rarity of this entity poses a challenge for clinical
+investigation. There is limited clinical trial data to support
+guideline recommendations. [[12,13]] The present study analyzed
+the current evidence on the management of pelvic nodes
+in high-‑risk penile cancer (pelvic N0 and N+) with PLND
+with RT versus PLND or RT alone.
+
+**METHODS**
+
+***Methodology***
+The protocol of this systematic review was registered
+at the International Prospective Register of Systematic
+Reviews (PROSPERO) (registration number:
+CRD42021239161) on February 26, 2021. This study was
+exempted from ethics committee approval.
+
+***Types of studies***
+All study designs were included, whether
+observational (cohort and case − control studies) or clinical
+trials. Furthermore, single-‑arm case series was included. No
+restriction was placed upon publication date or language.
+
+***Types of participants***
+Eligible studies included adult patients who either had high risk
+of pelvic node involvement or known pelvic node involvement.
+
+***Types of interventions***
+Interventions considered were PLND with neoadjuvant or
+adjuvant RT (with or without concurrent chemotherapy),
+compared to PLND alone or RT alone.
+
+***Types of outcome measures***
+The primary outcomes in this review included
+disease‑specific survival (DSS) (within 5 years of treatment)
+and locoregional recurrence. The secondary outcomes were
+overall survival (OS) (within 5 years of treatment) and
+complications of PLND and RT.
+
+***Exclusion criteria***
+We excluded studies available only as abstracts, duplicate
+reports, review articles, editorials, and clinical guidelines.
+
+***Electronic searches***
+This review was conducted according to the principles
+outlined in the Cochrane Handbook for Systematic Reviews
+of Interventions, version 6. The review was reported
+according to the Preferred Reporting Items for Systematic
+Reviews and Meta-‑Analyses (PRISMA) guideline. [[14]]
+
+
+The included studies were identified by searching the
+electronic databases of EMBASE, MEDLINE/PubMed, and
+Cochrane Library from inception to July 2020. No filters
+were used as regards the publication date of the studies or
+the language.
+
+The search strategy used the following search terms: “penile
+cancer”, “pelvic lymphadenectomy,” and “radiotherapy.”
+The controlled vocabulary search terms available for
+PubMed (MeSH terms) and EMBASE (EMTREE) were
+used during conduction of the search.
+
+***Searching other resources***
+Other relevant websites were searched including Google
+scholar and ClinicalTrials.gov, which was searched through
+the Cochrane Register of Studies interface. The websites
+were searched using the same search terms used for the
+databases. In addition, the reference lists of identified studies
+were also searched. Reference lists were manually searched
+for potentially relevant, eligible studies.
+
+***Data collection and analysis***
+The outcomes of the studied interventions were compared
+with no treatment or with each other. Some data were not
+
+available for comparisons.
+
+***Selection of studies***
+The list of identified abstracts was reviewed independently
+by two reviewers. For abstracts or references that were
+considered as potentially relevant by either reviewer,
+the full text articles were retrieved and reviewed by both
+reviewers for relevance and inclusion.
+
+***Data extraction and management***
+Relevant data were extracted by one reviewer. A standardized
+data collection sheet was used to extract the data. Afterward,
+the collected data were revised by supervisors to ensure
+consistency and clarity.
+
+Extracted data included the following:
+
+- Study characteristics: The study design, country, and
+institution where the study were conducted, dates
+defining the start and end of patient recruitment, and
+the sample size
+
+- Patients’ characteristics: Age, stage of cancer, and
+follow-‑up duration
+
+- Data related to the intervention: Type of studied
+intervention (PLN dissection, RT, or combination),
+other received treatments (e.g., chemotherapy)
+
+- The studied outcomes: DSS (within 5 years of treatment),
+locoregional recurrence (primary outcomes), OS (within
+5 years of treatment), and complications of PLN
+dissection and RT (secondary outcomes).
+
+Toxicity of RT was recorded as defined by the authors of
+the included studies.
+
+
+92 Indian Journal of Urology, Volume 38, Issue 2, April‑June 2022
+
+Naushad, *et al.* : Dissection versus radiotherapy in node positive penile cancer
+
+
+***Assessment of risk of bias in included studies***
+Risk of bias was assessed for each included study by
+two independent reviewers using the Risk of Bias in
+Nonrandomized Studies of Interventions (ROBINS-‑I) tool.
+
+**RESULTS**
+
+***Results of the search***
+The literature search yielded a total of 552 articles. After
+removal of duplicates, the abstracts of 480 articles were
+screened by two researchers, with subsequent exclusion of
+466 articles that did not fulfil the eligibility criteria. The
+full text of the remaining 14 articles was further assessed
+for eligibility. Out of these 14 articles, 6 were excluded after
+full-‑text screening (outcomes were not reported for the
+intervention groups which are studied in this systematic
+review), leaving eight studies (including 313 patients)
+eligible for inclusion [[7,15-‑21]] [Figure 1].
+
+
+***Basic characteristics of the included studies***
+The eight studies included patients with penile cancer
+from 1956 to 2015. All the studies were retrospective.
+Two studies were multicentric, [[18,20]] with the remaining six
+single-‑institution studies from the United States of America, [[15]]
+India, [[19]] The Netherlands, [[7,16]] United Kingdom (UK), [[17]] and
+China. [[21]] None of the studies reported the use of neoadjuvant
+RT. The indications for PLND and adjuvant RT varied
+widely across the studies and even in the same study due
+to changing of the institutional management protocols
+over time. [[7,20,21]] In addition, the reported outcomes and
+their presentations differed greatly among the included
+studies, e.g., survival was presented in some studies as OS
+
+
+and in others as DSS, and at different time points (at 1, 3,
+or 5 years) [Table 1].
+
+***Assessment of risk of bias in the included studies***
+The risk of bias was assessed for each of the included
+
+studies. None of the studies had an a priori protocol. The
+number of patients who received PLND or adjuvant RT
+were not clear in three papers. [[7,18]] In most of the studies,
+the reporting of outcomes was poor, including disease-‑free
+survival (DFS), [[7,15,16,18-‑21]] complications of PLND or RT, [[7,15,17-‑21]]
+recurrence, [[7,15,16,18,19,21]] and mortality. [[7,15,16,18,19,21]] Overall, the
+included studies had a high risk of bias in most domains.
+
+***Reported effectiveness and safety of pelvic lymph node***
+***dissection with or without adjuvant radiotherapy or***
+***radiotherapy alone in the included studies***
+The indications for each treatment modality and the numbers
+receiving each treatment are listed in Table 2. The outcomes
+of treatment modalities as reported by the eight studies are
+demonstrated in Table 3. The first study was by Assimos and
+Jarow, [[15]] which was a case series reporting on three patients
+with moderately well differentiated, invasive squamous
+cell carcinoma (SCC) of the penis. The primary tumor was
+treated with radical penectomy. The patients had clinically
+positive inguinal lymphadenopathy. The median age of the
+patients was 62 years (range: 57-‑64 years). The three patients
+underwent laparoscopic PLND without encountering
+intraoperative or postoperative complications. Two patients
+underwent subsequent bilateral radical groin dissections,
+while one patient underwent a unilateral procedure. The
+three patients developed mild lower extremity lymphedema,
+which resolved with diuretic therapy and the utilization of
+
+|Additional recor through othe (n = 53|Col2|ds identified r sources 8)|
+|---|---|---|
+||||
+
+
+
+
+
+
+
+**Figure 1:** Preferred Reporting Items for Systematic Reviews and Meta‑Analyses flow diagram of the review
+
+Indian Journal of Urology, Volume 38, Issue 2, April‑June 2022 93
+
+Naushad, *et al.* : Dissection versus radiotherapy in node positive penile cancer
+
+
+
+
+
+
+
+
+
+SD: Standard deviation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ART=Adjuvant radiotherapy, NR=Data were not presented, PLND=Pelvic lymph node dissection, LNs=Lymph nodes, ECS=Extracapsular spread
+
+
+
+
+
+
+
+
+
+
+
+
+
+DFS=Disease‑free survival, NR=Data were not recorded, OS=Overall survival, PLND=Pelvic lymph node dissection, RT=Radiotherapy
+
+
+support stockings. Pathological assessment of pelvic LNs
+was negative, whereas examination of inguinal LNs showed
+one patient to be pN0, and the other two patients to be pN1.
+None received RT or chemotherapy. Recurrent disease
+developed only in one patient in the right groin. Patients
+were followed up for a median duration of 10 months (range:
+5 − 18 months).
+
+A retrospective cohort study was published by Ravi et al., [[15]]
+which included 285 patients with penile cancer treated
+
+
+during the period from 1959 to 1998 (median follow-‑up:
+83 months, range: 2-‑377 months) in a single institution in
+India. This cohort included 120 clinically node-‑negative
+patients, 129 with clinically positive inguinal LNs, and
+nine with distant metastases. The intervention for the
+primary tumour was RT. Among this cohort, 22 patients
+received postoperative pelvic RT (dose 40-‑45 Gy/4-‑5 weeks),
+including para-‑aortic RT (dose 40 Gy/4 weeks) in four
+patients, for positive pelvic (obturator, iliac) nodes on
+lymphadenectomy. It was not possible to ascertain the
+
+
+94 Indian Journal of Urology, Volume 38, Issue 2, April‑June 2022
+
+Naushad, *et al.* : Dissection versus radiotherapy in node positive penile cancer
+
+
+number of patients who underwent PLND, and outcome
+data were not presented for this subset of patients. None
+of the patients who received postoperative pelvic and/or
+para-‑aortic RT for positive pelvic nodes survived 5 years.
+
+Lont et al. [[7]] reported on a retrospective cohort, which
+included 308 patients with penile cancer admitted to a
+single institution in the Netherlands during the period
+from 1956 to 2001 (median follow-‑up: 85 months, range:
+25-‑545 months). The cohort included 239 cases with
+clinically negative inguinal nodes while 69 cases had
+clinically positive inguinal nodes. Ipsilateral PLND was
+indicated in cases with involvement of 2 or more inguinal
+LNs. Adjuvant RT to the ipsilateral pelvic region was
+indicated in cases with tumour-‑positive pelvic LNs (dose
+40-‑60 Gy). A total of 18 patients underwent ILND and
+PLND without RT. Adjuvant RT to the pelvic region
+following PLND was received in 35 patients. The exact
+survival data for patients who underwent PLND alone
+or received RT after PLND were not presented in the
+paper. However, they stated that PLND is unnecessary
+in stages pN0 and pN1. On the other hand, they advised
+that PLND should be performed in stage pN2 and that
+PLND alone or in combination with adjuvant RT was not
+sufficient for disease control in pN2 and pN3 cases. Mild to
+moderate lymphedema was encountered in 11/18 patients
+who underwent both ILND and PLND without RT.
+
+Meanwhile, mild to moderate and severe lymphedema
+were seen in 22/35 and 7/35 patients, respectively, in
+patients who underwent both ILND and PLND combined
+with RT.
+
+Franks et al. [[17]] described a case-‑series of 23 men with penile
+cancer who were treated in a single institution in UK during
+the period from 2002 to 2008 (median follow-‑up: 27 months,
+range: 8-‑84 months). Fourteen patients received RT to the
+inguinal and pelvic regions (dose: 45 Gy/4 wk, with a further
+boost of 12 Gy/5 d if positive surgical margins or extracapsular
+spread [ECS]) after surgical treatment of the primary tumour
+and ILND for pN2/3. None of the patients underwent PLND.
+Among the patients who received adjuvant RT, 6/14 (42.9%)
+suffered locoregional relapse at 3 years: 1/6 with N1, 1/4
+with N2 and 3/4 with N3 disease. The 3-‑year and 5-‑year OS
+were approximately 66% and 49.5%, respectively. According
+to LN staging, the OS at 3 years was 75.1%, 66.8%, and
+50.3% in N1, N2, and N3 patients, respectively. The 5-‑year
+OS in N1 and N2 patients was the same as the 3-‑year OS,
+while none of the N3 patients survived beyond 40 months.
+The reported complications included acute skin toxicity,
+lymphedema of the scrotum/penis or lower limb (the cause
+of lymphedema was not ascertained if it was RT or surgery),
+groin telangiectasia/fibrosis, and late bowel symptoms.
+The authors did not report separately the complications
+for adjuvant RT patients and those who received palliative
+treatment, so it was not possible to determine the incidence
+for each group separately.
+
+
+Djajadiningrat et al. [[16]] examined a retrospective cohort of 79
+men with penile cancer who were treated between 2001 and
+2012 (median follow-‑up was 59 months, IQR 40-‑72 months).
+Of the 79 patients, 60 cases underwent PLND and only 10/60
+received adjuvant RT to the pelvic region. Prophylactic
+ipsilateral PLND was indicated in cases with 2 or more
+tumour-‑positive nodes and/or ECS in the inguinal specimen
+without clinical evidence of pelvic disease. Adjuvant RT to
+the pelvic region was indicated in patients with positive
+pelvic LNs, except for patients with impaired wound healing,
+poor performance status, previous RT to the pelvic region,
+or rapid disease progression. None of the patients received
+chemotherapy. The 5-‑year DSS rate in patients treated
+with tumour‑positive pelvic nodes was significantly worse
+than those with tumour-‑negative pelvic nodes (17% vs.
+62%, P < 0.001). The OS and DSS were not stated for each
+group of treatment. Postoperative complications were
+recorded in 14 patients, including wound infection, seroma
+and dehiscence (9 patients), pneumonia, delirium and
+ileus (5 patients).
+
+Li et al. [[21]] described a retrospective cohort of 190
+pN2-‑3 patients with penile cancer treated in a single
+institution in China between 2000 and 2015 (follow-‑up:
+21.5 ± 23.3 months). Sixty-‑nine patients underwent
+PLND (pN2 = 22 and pN3 = 47), while 121 patients (pN2 = 66,
+pN3 = 55) did not undergo PLND. The indications for PLND
+before 2009 were evidence of solitary pelvic metastasis,
+while after 2009 the indications became presence of two
+or more positive inguinal LNs, ECS, or suspicious pelvic
+imaging. If pathological examination showed pN2 or pN3
+stages, postoperative adjuvant therapies were recommended.
+Adjuvant RT alone was received in 4/69 patients with PLND
+and 11/121 patients without PLND. Adjuvant chemotherapy
+was received in 28/69 and 33/121 patients with and without
+LND, respectively. Combined adjuvant chemoradiotherapy
+was received in 5/69 and 4/121 patients with and without
+LND, respectively. Death was reported in 32 (46.4%) and
+71 (58.7%) of the patients in PLND and no-‑PLND groups,
+respectively. The median survival time of all the patients
+was 20.8 months (interquartile range [IQR]: 13.8-‑27.9). The
+PLND group did not demonstrate higher 1-‑and 3-‑year DSS
+rates than the non-‑PLND group (65.7 and 39.0 vs. 65.4 and
+39.6%, respectively, P = 0.796). The 5-‑year DSS of PLND
+group was 31.5% and 29.7% for the non-‑PLND group. The
+authors did not mention complications of treatment and no
+details were stated as regards the subgroups of treatment
+modality (PLND with RT and PLND alone). The outcomes
+were not recorded for each nodal stage separately.
+
+Tang et al. [[20]] conducted a retrospective cohort study on
+92 pN3 patients with locally advanced penile cancer who
+underwent ILND and PLND. The data were collected from 4
+international centres from 1980 to 2013 (Median follow-‑up:
+9.3 months, IQR: 5.2-‑19.8 months). This study included a
+subset of patients from the study by Djajadiningrat et al. [[16]]
+
+
+Indian Journal of Urology, Volume 38, Issue 2, April‑June 2022 95
+
+Naushad, *et al.* : Dissection versus radiotherapy in node positive penile cancer
+
+
+Adjuvant RT was received in 40/92 patients (dose: 50 Gy in
+27 patients, less than 40 Gy in 4 patients, more than 50 Gy in
+5 patients, and unknown in 4 patients). Recurrence occurred
+in 41/52 and 28/40 patients without and with adjuvant
+RT, respectively, with no significant difference (P = 0.32).
+Deaths of cancer were 39/52 and 24/40 patients without
+and with adjuvant RT, respectively, with no significant
+difference (P = 0.14). The median OS for adjuvant RT was
+significantly longer than in nonradiated patients (12.2 vs.
+8 months, P = 0.044). The same finding was noted as
+regards the median DSS (14.4 vs. 8 months, P = 0.023). The
+median time to recurrence for adjuvant RT was 7.7 months
+compared to 5.3 months for nonradiated patients (P = 0.042).
+On multivariable analysis, patients who did not undergo
+adjuvant RT were independently associated with poor
+OS (hazard ratio [HR] = 1.7; 95% confidence Interval [CI]:
+1.01-‑2.92; P = 0.04), poor DSS (HR = 1.9; 95% CI: 1.09-‑3.36;
+P = 0.02), and increased recurrence hazard (HR = 1.8, 95%
+CI = 1.06-‑3.12, P = 0.03) after adjusting for pelvic ECS,
+chemotherapy, grade and treatment year.
+
+The last study was by Johnstone et al. [[18]] who conducted
+a retrospective multicentre cohort study. The analysis
+included 93 patients with pT1-‑4 N3 M0 SCC of the
+penis (median follow-‑up: 9.4 months, interquartile range:
+5.4-‑19.4 months). The dataset of patients included seems
+to include a subset of those included in the study by Tang
+et al. [[20]] PLND was indicated according to the institutional
+protocol, but in general the indications included the presence
+of two or more positive inguinal LNs, ECS, or suspicious
+pelvic imaging. Ipsilateral pelvic adjuvant RT was indicated
+for patients with positive pelvic LN (dose: 50 Gy). It was not
+possible to ascertain the numbers of patients who underwent
+PLND alone or received RT. Chemotherapy was received
+by 46 patients. Pelvic RT was associated with a higher OS
+and a reduced recurrence risk in the pelvis (HR = 0.03, 95%
+CI = 0.002-‑0.363, P = 0.006).
+
+The current systematic review was unable to conduct direct
+comparisons between the two treatments because of the
+heterogeneity across the included the studies as well as the
+limited data that could be extracted from most of them.
+
+This limitation of the previous studies warrants further
+investigation by future studies of the role of adjuvant RT
+and PLND in node-‑positive penile cancer.
+
+**DISCUSSION**
+
+***Summary of the results***
+There were wide variations in the indications of PLND
+
+and adjuvant RT across the studies. The variations existed
+even within the patients in the same study, either due to
+a multicentre nature [[20]] or due to changes in institutional
+protocols over the long-‑time duration specified in the
+study. PLND was indicated in patients with two or more
+tumour-‑positive inguinal LNs in the study by Lont et al. [[7]]
+
+
+The same indication was stated by Djajadiningrat et al. [[16]] and
+Johnstone et al., [[18]] besides the presence of ECS. In the study by
+Li et al., [[21]] PLND was indicated for solitary pelvic metastasis
+before 2009, while the indications included presence of two
+or more tumour-‑positive inguinal LNs, ECS, or suspicious
+pelvic imaging after 2009. In the study by Tang et al., [[20]] the
+indications before 2008 differed among the centres, while
+after 2008 they became uniform and similar to those stated
+by Djajadiningrat et al., [[16]] Johnstone et al., [[18]] and Li et al. [[21]]
+As regards adjuvant RT, the indication was detection of
+tumour-‑positive pelvic LNs in most studies. [[7,16,18,19]] In the
+remaining studies, adjuvant RT indications included pN2/3
+on ILND and/or ECS, [[17]] pN2 or pN3 stages, [[21]] and positive
+surgical margins or pelvic ECS. [[20]] These variations resulted
+in heterogeneity of results across the studies.
+
+The studies by Lont et al., [[7]] Djajadiningrat et al., [[16]] Li
+et al., [[21]] Tang et al., [[20]] and Johnstone et al. [[18]] included
+groups of patients who underwent both intervention lines.
+However, only two studies [[18,20]] reported that non-‑irradiated
+pN3 patients had a worse OS and increased risk of recurrence.
+Moreover, Tang et al. [[20]] reported that non-‑radiated patients
+had shorter median OS, DSS, and DFS. The two studies
+concluded that adjuvant RT to inguinal and pelvic regions
+in pN3 penile cancer patients may improve regional control
+and survival. The remaining studies did not clearly state the
+outcomes for these two groups, as their focus was on other
+comparisons using different basis for dividing patients’
+groups. Meanwhile, Lont et al. [[7]] reported that PLND alone
+or in combination with adjuvant RT was not sufficient for
+disease control in penile cancer patients with pN2 and pN3
+LN staging, but they did not provide enough data about
+the outcomes to assess their conclusion. The controversies
+
+among the results of these studies could be attributed to
+variations in the study design, differentiation of the tumour,
+and pathological variant across the different studies. The
+patients in the study by Lont et al. [[7]] were classified according
+to pathological staging of LNs; the use of adjuvant RT after
+PLND was not the focus of this study. In addition, the
+reporting of outcomes varied markedly from one study to
+another, which rendered pooled analysis for performance
+of meta-‑analysis impractical.
+
+Overall, the results of the included studies are inconclusive,
+and the quality of evidence derived from these studies
+is low. Although the two studies by Tang et al. [[20]] and
+Johnstone et al. [[18]] reported favourable outcomes in patients
+who received adjuvant RT after PLND, the risk of bias
+was high. Additionally the study by Johnstone et al. [[18]]
+included a subset of the patients included by Tang et al. [[20]]
+In addition, the design of the two studies was retrospective,
+and the number of patients in both was small. Moreover,
+both studies did not report on toxicities and complications
+related to RT due to unavailability of data as they stated. Two
+studies only [[7,17]] reported on toxicities/complications related
+to adjuvant RT. Lont et al. [[7]] compared the rate and severity
+
+
+96 Indian Journal of Urology, Volume 38, Issue 2, April‑June 2022
+
+Naushad, *et al.* : Dissection versus radiotherapy in node positive penile cancer
+
+
+of lymphedema following PLND alone and RT after PLND.
+Their results showed comparable rate of lymphedema
+between the two groups, but with higher grade of severity
+in those who received adjuvant RT. Franks et al. [[17]] reported
+the occurrence of acute skin toxicity in their series.
+
+***Overall completeness, applicability, and quality of the***
+***evidence***
+
+The results of this systematic review show that the available
+evidence on the role of PLND alone versus adjuvant RT
+or RT alone in node positive penile cancer patients is
+very limited. The evidence from the included studies is
+downgraded by their design (case series and retrospective
+cohorts) as well as the biases (under the results section) in
+selection of patients and reporting of outcomes [Table 4].
+Moreover, the indications of adjuvant RT and PLND varied
+widely across the studies and even within the same study
+due to changing of institutional protocols of treatment
+over time. These variations in indications of treatment and
+
+methods of outcome measurement and reporting resulted
+in marked heterogeneity among the studies and did not
+allow conduction of pooled analysis. In addition, all the
+included studies, excepting that by Tang et al., [[20]] made no
+direct comparisons between the two treatment modalities;
+hence, the current systematic review was unable to compare
+their efficacy or safety. Alternatively, we presented the data
+of each study separately in this systematic review. This
+highlights the need for a focused, collaborative research
+that addresses this gap of knowledge regarding the role of
+adjuvant RT combined with PLND.
+
+As regards the use of neoadjuvant RT in node positive
+patients before PLND, the literature search did not yield
+studies that investigated this treatment modality. One of the
+included studies [[21]] compared between patients undergoing
+PLND and those who did not and reported the lack of
+significant difference in 1‑and 3‑year DSS rates, questioning
+the efficacy of PLND.
+
+***Agreements and disagreements with other studies or***
+***reviews***
+To date this is the first systematic review to assess the
+efficacy and safety of adjuvant RT and PLND in patients with
+penile cancer, compared with PLND alone. A systematic
+review by Robinson et al. [[22]] assessed the risks and benefits
+
+
+of adjuvant RT after ILND in node-‑positive penile cancer,
+but they did not report separately on the subset of patients
+who underwent adjuvant RT and PLND. They concluded
+that good-‑quality evidence was lacking to support this line
+of therapy, thus no evidence is present to recommend it.
+We found also, like them, a lack of good quality studies that
+assess the role of RT prior to or after PLND.
+
+***Implications for practice, policy, and future research***
+Based on the results of this systematic review, the efficacy of
+adjuvant RT following PLND in pN3 penile cancer patients,
+in terms of locoregional control and survival, is inconclusive.
+Moreover, the cumulative adverse effects which could be
+encountered due to adjuvant RT and PLND in such high-‑risk
+patients may outweigh the benefits, though very few reports
+were found on RT-‑related toxicities and complications in
+those patients. Therefore, the currently available evidence
+does not recommend the administration of adjuvant RT
+following PLND as a routine, standard clinical practice.
+The administration of adjuvant RT after PLND should thus
+presently be limited to prospective controlled clinical trials
+only until further evidence is obtained. A recommendation
+is the conduction of future prospective observational
+and randomized controlled clinical trials, with sufficient
+sample size, to assess the role of adjuvant RT after PLND
+in node-‑positive penile cancer patients. As regards PLND
+alone, its efficacy is questionable compared to no PLND.
+To confirm the effect of PLND on OS and DSS, further
+prospective studies, preferably randomized clinical trials, are
+required with patient stratification according to LN staging.
+
+**CONCLUSIONS**
+
+There is insufficient evidence to recommend the use of
+adjuvant RT following PLND in penile cancer patients. The
+quality of evidence is low due to the retrospective design
+and high risks of bias. The impact of PLND alone on OS and
+DSS needs to be confirmed and benefits should be weighed
+against the adverse effects. Randomized clinical trials are
+required to assess the efficacy and safety of RT following
+PLND as well as to compare PLND against no dissection,
+with patient stratification according to LN staging.
+
+Additional research work is required to provide evidence
+that can recommend one treatment modality over the other
+
+
+
+
+
+
+DFS=Disease‑free survival, OS=Overall survival, PLND=Pelvic lymph node dissection, RT=Radiotherapy
+
+Indian Journal of Urology, Volume 38, Issue 2, April‑June 2022 97
+
+Naushad, *et al.* : Dissection versus radiotherapy in node positive penile cancer
+
+
+among PLND, chemotherapy, RT, chemoradiotherapy, or
+combined surgery with adjuvant RT. The InPACT study
+is an international phase III clinical trial (NCT02305654)
+attempting to provide some evidence regarding management
+of patients with penile cancer and positive nodes through
+assessing the relative benefits and sequencing of surgery,
+chemotherapy, and chemoradiotherapy in adult male
+patients with SCC of the penis.
+
+***Acknowledgements***
+We would like to express our deepest thanks and sincere
+gratitude to Dr. Jayne Garner for the valuable effort and
+time dedicated to helping us during the conduction of this
+research. Without her guidance and help this work would
+not have been possible.
+
+**REFERENCES**
+
+1. Njoku K, Eardley I, Kayes O, El‑Mamoun M, Henry A. Radiotherapy for
+inguinal node positive penile cancer: A single centre retrospective
+study. Clin Oncol 2018;30:e1.
+2. Micali G, Innocenzi D, Nasca MR, Musumeci ML, Ferraú F, Greco M.
+Squamous cell carcinoma of the penis. J Am Acad Dermatol
+1996;35:432‑51.
+3. Micali G, Nasca MR, Innocenzi D, Schwartz RA. Penile cancer. J Am Acad
+Dermatol 2006;54:369‑91.
+4. Leijte JA, Kirrander P, Antonini N, Windahl T, Horenblas S. Recurrence
+patterns of squamous cell carcinoma of the penis: Recommendations
+for follow‑up based on a two‑centre analysis of 700 patients. Eur Urol
+2008;54:161‑8.
+5. Crook J, Jezioranski J, Cygler JE. Penile brachytherapy: Technical aspects
+and postimplant issues. Brachytherapy 2010;9:151‑8.
+6. Protzel C, Alcaraz A, Horenblas S, Pizzocaro G, Zlotta A, Hakenberg OW.
+Lymphadenectomy in the surgical management of penile cancer. Eur
+Urol 2009;55:1075‑88.
+7. Lont AP, Kroon BK, Gallee MP, van Tinteren H, Moonen LM, Horenblas S.
+Pelvic lymph node dissection for penile carcinoma: Extent of inguinal
+lymph node involvement as an indicator for pelvic lymph node
+involvement and survival. J Urol 2007;177:947‑52.
+8. Lopes A, Hidalgo GS, Kowalski LP, Torloni H, Rossi BM, Fonseca FP.
+Prognostic factors in carcinoma of the penis: Multivariate analysis of
+145 patients treated with amputation and lymphadenectomy. J Urol
+1996;156:1637‑42.
+9. Marconnet L, Rigaud J, Bouchot O. Long‑term followup of penile
+carcinoma with high risk for lymph node invasion treated with inguinal
+lymphadenectomy. J Urol 2010;183:2227‑32.
+10. Horenblas S, van Tinteren H, Delemarre JF, Moonen LM, Lustig V,
+
+
+van Waardenburg EW. Squamous cell carcinoma of the penis. III.
+Treatment of regional lymph nodes. J Urol 1993;149:492‑7.
+11. Hakenberg OW, Compérat EM, Minhas S, Necchi A, Protzel C,
+
+Watkin N. EAU guidelines on penile cancer: 2014 update. Eur Urol
+2015;67:142‑50.
+12. Burt LM, Shrieve DC, Tward JD. Stage presentation, care patterns, and
+
+treatment outcomes for squamous cell carcinoma of the penis. Int J
+Radiat Oncol Biol Phys 2014;88:94‑100.
+13. McComas K, Agarwal N, Bowen G, Maughan BL, Tward JD. Definitive
+
+chemoradiotherapy for locally advanced, lymph‑node positive,
+nonmetastatic penile squamous cell carcinoma. Clin Genitourin Cancer
+
+2020;18:e573‑84.
+14. Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gøtzsche PC, Ioannidis JP,
+
+*et al.* The PRISMA statement for reporting systematic reviews and
+meta‑analyses of studies that evaluate health care interventions:
+Explanation and elaboration. PLoS Med 2009;6:e1000100.
+15. Assimos DG, Jarow JP. Role of laparoscopic pelvic lymph node dissection
+
+in the management of patients with penile cancer and inguinal
+adenopathy. J Endourol 1994;8:365‑9.
+16. Djajadiningrat RS, van Werkhoven E, Horenblas S. Prophylactic
+
+pelvic lymph node dissection in patients with penile cancer. J Urol
+2015;193:1976‑80.
+17. Franks KN, Kancherla K, Sethugavalar B, Whelan P, Eardley I, Kiltie AE.
+
+Radiotherapy for node positive penile cancer: Experience of the Leeds
+teaching hospitals. J Urol 2011;186:524‑9.
+18. Johnstone PA, Boulware D, Djajadiningrat R, Ottenhof S, Necchi A,
+
+Catanzaro M, *et al.* Primary penile cancer: The role of adjuvant radiation
+therapy in the management of extranodal extension in lymph nodes.
+Eur Urol Focus 2019;5:737‑41.
+19. Ravi R, Chaturvedi HK, Sastry DV. Role of radiation therapy in the
+
+treatment of carcinoma of the penis. Br J Urol 1994;74:646‑51.
+20. Tang DH, Djajadiningrat R, Diorio G, Chipollini J, Ma Z, Schaible BJ,
+
+*et al.* Adjuvant pelvic radiation is associated with improved survival
+and decreased disease recurrence in pelvic node‑positive penile cancer
+after lymph node dissection: A multi‑institutional study. Urol Oncol
+2017;35:605.e17‑23.
+21. Li ZS, Deng CZ, Yao K, Tang Y, Liu N, Chen P, *et al.* Bilateral pelvic lymph
+
+node dissection for Chinese patients with penile cancer: A multicenter
+collaboration study. J Cancer Res Clin Oncol 2017;143:329‑35.
+22. Robinson R, Marconi L, MacPepple E, Hakenberg OW, Watkin N,
+
+Yuan Y, *et al.* Risks and benefits of adjuvant radiotherapy after inguinal
+lymphadenectomy in node‑positive penile cancer: A systematic review
+by the European Association of Urology Penile Cancer Guidelines Panel.
+Eur Urol 2018;74:76‑83.
+
+**How to cite this article:** Naushad N, Deb AA, Agag AA, Sangar VK. Pelvic
+
+~~lymph~~ ~~node~~ ~~dissection~~ ~~alone~~ ~~versus~~ ~~adjuvant~~ ~~radiotherapy~~ ~~in~~ ~~node~~ ~~positive~~
+penile cancer: A systematic review. Indian J Urol 2022;38:91‑-8.
+
+
+98 Indian Journal of Urology, Volume 38, Issue 2, April‑June 2022
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

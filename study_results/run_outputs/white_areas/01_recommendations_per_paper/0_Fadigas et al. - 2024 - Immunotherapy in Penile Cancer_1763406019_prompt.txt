@@ -1,0 +1,912 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    *Arch. Esp. Urol.* 2024; 77(10): 1102–1111
+Review
+[https://doi.org/10.56434/j.arch.esp.urol.20247710.154](https://doi.org/10.56434/j.arch.esp.urol.20247710.154)
+# **Immunotherapy in Penile Cancer: A Systematic Review**
+## Filipe Fadigas [1] [,] [†], Diana Martins [1] [,] [2] [,] [3] [,] [4] [,] [†], Fernando Mendes [1] [,] [2] [,] [3] [,] [4] [,] [5] [,] *
+
+1 Polytechnic University of Coimbra, 3045-093 Coimbra, Portugal
+2 H&TRC-Health & Technology Research Center, Coimbra Health School, Polytechnic University of Coimbra, 3045-043 Coimbra, Portugal
+3 Biophysics Institute of Faculty of Medicine, Coimbra Institute for Clinical and Biomedical Research (iCBR) Area of Environment Genetics and
+
+Oncobiology (CIMAGO), University of Coimbra, 3000-548 Coimbra, Portugal
+4 Center for Innovative Biomedicine and Biotechnology, University of Coimbra, 3004-504 Coimbra, Portugal
+5 European Association of Biomedical Scientists, B-1000 Brussels, Belgium
+
+*Correspondence: fjmendes@estesc.ipc.pt (Fernando Mendes)
+
+*†* These authors contributed equally.
+
+Published: 28 December 2024
+
+**Penile cancer (PeCa) ranks as the 30th most prevalent cancer globally, predominantly affecting populations in developing**
+
+**countries.** **Phimosis and Human Papillomavirus (HPV) infection are recognized as the primary risk factors.** **Early-stage**
+
+**diagnosis typically warrants limited excision or non-invasive therapies.** **However, recent research into the carcinogenesis,**
+
+**tumour microenvironment, and the role of the host immune system in its development suggests that immunotherapy could**
+
+**be a promising treatment for PeCa. The rarity of the disease, combined with the success of standard treatments and the fact**
+
+**that many patients in clinical trials lack alternative options, contributes to the challenges in patient recruitment for these**
+
+**studies. Additionally, the psychological burden stemming from the stigma associated with such an aggressive genital disease and**
+
+**the preference for quicker treatment options, such as surgery with reconstructive procedures, exacerbates these recruitment**
+
+**difficulties. This systematic review aimed to explore various immunotherapy approaches in treating PeCa to elucidate the**
+
+**potential role of immunotherapy in this context.** **The literature was sourced from freely accessible, full-text randomized**
+
+**controlled trials, non-randomized controlled trials, and original articles published in English between 2017 and 2023. Eligible**
+
+**clinical trials were required to be in phase 2 and have published results. Although only one study met the inclusion criteria—a**
+
+**significant limitation—the objective response rate recorded was 6% across nineteen patients with different tumour histologies,**
+
+**of which only six had PeCa. Currently, other studies are either recruiting or ongoing, necessitating further observation, as**
+
+**results from a single study cannot be generalized to the broader population.**
+
+**Keywords:** penile neoplasms; immunotherapy; immune checkpoint inhibitors; cancer vaccines; tumour microenvironment
+
+
+Introduction
+
+Penile cancer (PeCa) ranks as the 30th most prevalent
+cancer and the 31st leading cause of cancer-related deaths
+worldwide, primarily impacting populations in developing
+regions such as South America, South Central Asia, and
+Eastern and Southern Africa [1,2].
+
+Approximately 95% of PeCa cases are squamous cell
+carcinomas (SCC) [3–5], originating from the inner mucosal lining of the glans, coronal sulcus, or foreskin [6,7].
+SCC development follows two distinct etiopathogenic pathways correlated with specific risk factors: Human Papillomavirus (HPV) infection, particularly high-risk HPV,
+which is implicated in up to 50% of PeCa cases [2,4], and
+phimosis. When coupled with poor genital hygiene, phimosis can lead to smegma accumulation, fostering chronic
+inflammation and ultimately resulting in dysplastic epithelial changes [8,9]. The World Health Organization categorizes PeCa as either HPV-related or HPV-unrelated [6,
+
+
+9,10], based on the critical role HPV plays in carcinogenesis through its E6 and E7 oncoproteins, which disrupt
+cell-cycle regulation, drive autonomous cell proliferation,
+and contribute to genomic instability; E7 inactivates the
+retinoblastoma (Rb) protein, while E6 promotes P53 degradation [9,11–17], as illustrated in Fig. 1a.
+Surgery remains the gold standard for PeCa treatment,
+though cytotoxic chemotherapy is employed in cases of unresectable tumours or disseminated metastatic disease, either in a neoadjuvant or adjuvant context [11,12,18–22].
+
+*Genomics*
+
+Key genetic alterations frequently observed in
+PeCa include mutations in *Tumour Protein P53* ( *TP53* ),
+*Notch Receptor 1* ( *NOTCH1* ), Phosphatidylinositol-4,5Biphosphate 3-Kinase Catalytic Subunit Alpha ( *PIK3CA* ),
+Hras proto-Oncogene, GTPase ( *HRAS* ), Cyclin-Dependent
+Kinase Inhibitor 2A ( *CDKN2A* ), Caspase 8 ( *CASP8* ),
+FAT Atypical Cadherin 1 ( *FAT1* ), F-Box and WD Repeat
+
+
+[© 2024 The Author(s). This is an open access article under the CC BY 4.0 license.](https://creativecommons.org/licenses/by/4.0/)
+Note: *Archivos Españoles de Urología* stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Domain Containing 7 ( *FBXW7* ), and E1A Binding Protein
+P300 ( *EP300* ) [5,10,13,23,24], as depicted in Fig. 1b.
+
+Distinct molecular profiles differentiate HPV-related
+and HPV-unrelated PeCa: HPV-related tumours typically
+exhibit *CDKN2A* accumulation without P53 expression,
+whereas HPV-unrelated variants show high nuclear P53
+expression and lack *CDKN2A* . Genomic alterations in the
+mammalian target of rapamycin (mTOR) pathway, particularly in phosphatase and tensin homolog (PTEN) and
+Neurofibromatosis type 1 (NF1), have been implicated
+in tumourigenesis, disease progression, and angiogenesis.
+These alterations, especially the loss-of-function mutations
+in PTEN, contribute to deregulated cell growth and heightened mTOR signalling, particularly in the context of concurrent HPV-positive status and *TP53* mutations [5,13,23,
+25].
+
+Tumours with a higher tumour mutational burden
+(TMB) are generally more responsive to immune-based
+therapies. While PeCa’s TMB is lower compared to
+skin melanoma, non-small cell lung cancer (NSCLC), and
+urothelial bladder cancer, it is comparable to that of head
+and neck (HNC), cervical, or oesophageal SCC [13,23,26].
+A study indicated that immune checkpoint inhibitors (ICI)
+could be effective in patients with a TMB exceeding 10
+mutations per megabase, which accounts for 18% of penile squamous cell carcinomas (PSCC) [27]. Additionally,
+the amplification of the *Mouse double minute 2 homolog*
+( *MDM2* ) oncogene, associated with hyperprogression—a
+phenomenon of accelerated tumour growth following ICI
+treatment—was found to be rare in metastatic PSCC, suggesting a lower risk of hyperprogression in this disease
+
+[23,27]. Furthermore, mutations in STK11, known to confer resistance to programmed cell death protein 1 (PD-1)
+blockade in lung adenocarcinoma, were identified in only
+about 6% of a cohort of 78 metastatic PSCC samples, indicating a low prevalence of this resistance mechanism in
+PSCC [23].
+
+*Tumour Microenvironment*
+
+The tumour microenvironment (TME) of PeCa comprises various innate and adaptive immune cell types that
+influence the anti-tumour response, either suppressing or
+promoting tumour progression, as illustrated in Fig. 1c.
+Tumour-associated macrophages (TAMs) play a significant role in enhancing angiogenesis, increasing tumour
+cell mobility, modulating immunotolerance, and facilitating metastatic growth. Evidence also suggests that TAMs
+may reduce the efficacy of anti-PD-1 therapy in lung SCC
+by hindering CD8+ T cell migration to tumour sites. TAMs
+are categorized into two groups: M1, which possess antitumour properties and express CD68, and M2, which express CD163 and are associated with tumour progression
+
+[28]. Research has shown that CD163 expression correlates with high tumour grade and poor survival in nonsmall cell lung cancer (NSCLC). In contrast, other stud
+
+1103
+
+ies suggest that while a high density of CD163+ TAMs
+in PeCa is not directly linked to poor survival, it is associated with lymph node metastasis (LNM). Additionally,
+CD163+ macrophage density is higher in HPV-positive tumours compared to HPV-negative ones [28]. Immunologically, the TME can be classified into three types based on
+the presence of stromal and intraepithelial cytotoxic T lymphocytes: “immune desert”, “immune excluded”, and “immune inflamed”. PSCC appears to be immune excluded,
+characterized by a higher number of CD8+ T cells and
+Forkhead Box P3+ (FOXP3+) regulatory T (Treg) cells
+in the stroma than within the tumour itself, as depicted
+in Fig. 1c. Several studies have examined CD3+/CD4+
+T cells, CD3+/CD8+ T cells, and CD3+/CD4+/FOXP3+
+Treg cells to determine their infiltration patterns and impact on tumour outcomes. In many SCC and urologic malignancies, higher levels of cytotoxic CD8+ T cells are associated with a better prognosis [29]. However, in cases
+where these cells are predominantly located in the stroma—
+indicating an immune excluded type—a higher density of
+CD8+ cytotoxic, antigen-experienced T cells is paradoxically associated with poorer median overall survival (OS).
+These low levels of stromal CD8+ T cells have also been
+
+linked to LNM. Furthermore, elevated levels of tumourinfiltrating FOXP3+ Treg cells are associated with lower
+odds of disease-free survival. Comparing both PeCa variants, HPV-positive tumours tend to exhibit significantly
+higher levels of CD8+ T cell infiltration, leading to a more
+robust anti-tumour response and supporting the observation
+that patients with this variant generally have a better prognosis [13,23,24,27,30,31].
+The PD-1/programmed cell death ligand 1 (PD-L1)
+axis is crucial in enabling immune evasion across various
+tumours. T-cell activation triggers an increase in PD-1 expression, which subsequently binds to its ligand, PD-L1,
+present on the surface of antigen-presenting cells. This interaction leads to T-cell exhaustion. Tumour cells exploit
+this mechanism by upregulating PD-L1 expression on their
+surfaces, thereby achieving immune suppression within the
+TME (Fig. 1c). A report indicates that approximately 40–
+69% of PSCC cases exhibit PD-L1 expression, predominantly in tumour-infiltrating lymphocytes (TIL) and, more
+prominently, on tumour cell membranes. Diffuse PDL1 expression has been associated with higher LNM and
+poorer survival outcomes compared to cases with borderpositive or negative expression [27]. High levels of PD-L1
+are frequently observed in PeCa, particularly in the HPVnegative variant, suggesting a more immune-suppressive
+TME, which may contribute to the observed lower survival
+rates in these patients [13,32,33].
+
+*Immunotherapy*
+
+Immune Checkpoint Inhibitors
+
+Tumour cells possess the capability to escape immune surveillance by evading recognition and destruction
+
+1104
+
+**Fig. 1. Tumour staging and grading are critical for selecting appropriate treatment, with diagnosis typically involving the assess-**
+
+**ment of tumour differentiation and locoregional spread.** (a) The World Health Organization (WHO) classifies penile cancer (PeCa) as
+
+either Human Papillomavirus (HPV)-related or HPV-unrelated, based on the distinct role HPV plays in PeCa carcinogenesis. HPV-related
+
+carcinogenesis is driven by viral E6 and E7 oncoproteins, which disrupt cell-cycle regulation, promote autonomous cell proliferation,
+
+and induce genomic instability. The E7 oncoprotein binds to and inactivates the retinoblastoma (Rb) protein, while the E6 oncoprotein
+
+facilitates P53 degradation. (b) Genes with a higher overall frequency of alterations that contribute to the development of PeCa. (c) The
+
+TME in PeCa includes various immune cells and components that influence the anti-tumour response, either suppressing or promoting
+
+tumour progression. PeCa’s TME is classified as immune excluded, characterized by a significantly higher number of CD8+ T cells and
+
+Forkhead Box P3+ (FOXP3+) regulatory T cells in the stroma compared to the tumour site. TAMs are key players in this environment,
+
+divided into M1 macrophages, which express CD68 and have anti-tumour functions, and M2 macrophages, which express CD163 and are
+
+associated with high tumour grade and poor survival in NSCLC. M2 macrophages enhance angiogenesis, increase tumour cell mobility,
+
+modulate immunotolerance, and support metastatic growth. CD163+ macrophages are more densely present in HPV-positive tumours
+
+compared to HPV-negative ones. Additionally, stromal cells provide structural support and nourishment to tumour cells. Natural Killer
+
+(NK) cells and dendritic cells perform key anti-tumour functions, with NK cells directly killing tumour cells and dendritic cells presenting
+
+antigens to cytotoxic and helper T cells. Both tumour cells and tumour-infiltrating lymphocytes (TIL) often express programmed cell
+
+death ligand 1 (PD-L1) to facilitate immune suppression within the TME. Notably, PD-L1 expression tends to be higher in the HPV
+negative variant of PeCa. (d) ICI target key pathways that facilitate the development of PeCa. Anti-programmed cell death protein 1
+
+(anti-PD-1), anti-PD-L1, and anti-cytotoxic T-lymphocyte-associated antigen 4 (anti-CTLA-4) therapies work by blocking the tumour’s
+
+ability to evade the immune system and inhibit T-cell proliferation. (e) Therapeutic vaccines aim to induce an *in vivo* virus-specific T-cell
+
+response against the E6 and E7 oncoproteins, thereby boosting cytotoxic T-cell activity and providing both therapeutic and prophylactic
+
+effects. (f) Adoptive cellular therapy involves expanding TIL extracted from tumour samples and genetically engineering them. These
+
+modified cells are then re-infused into the patient after lymphodepletion to enhance the immune response against the tumour. This figure
+
+was created using the BioRender website.
+
+through the co-inhibition of specific pathways [34]. Among
+the many known immune checkpoints, PD-1, PD-L1, and
+cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) are
+the most extensively studied. Current research is focused on
+evaluating the use of immune checkpoint blockade (Fig. 1d)
+to treat PeCa, building on the success of these therapies in
+other cancers, such as HNC and lung cancers [34–37].
+
+PD-1 is a transmembrane protein expressed in various cells, including B cells, dendritic cells, macrophages,
+monocytes, Natural Killer (NK) cells, and activated T
+CD4+ and T CD8+ cells. It is also highly expressed in
+tumour-specific T cells [34,37,38]. PD-1 plays a dual role:
+While it downregulates harmful or ineffective immune responses to maintain immune tolerance, it can also protect
+tumour cells from the immune system, aiding in their evasion [37,38]. Conversely, PD-L1 is a transmembrane glycoprotein found on some activated T and B cells, dendritic cells (DC), and epithelial cells in inflammatory settings. Tumour cells can also express PD-L1 to escape antitumoural activity [37–39] (Fig. 1d). These immune checkpoints regulate immune tolerance within the TME; When
+PD-1 binds to PD-L1 on tumour cells, T cells lose their ability to effectively recognize and kill the tumour cells. Additionally, TAMs lose their phagocytic capability, further
+enhancing tumour immunity [34,37,38].
+
+CTLA-4 is predominantly expressed in intracellular
+vesicles within FOXP3+ regulatory T (Treg) cells and activated conventional T cells, including CD4+ and CD8+
+cells. Its ligands, B7-1 and B7-2, are expressed on antigenpresenting cells (APCs) and are also ligands for CD28 [34].
+These ligands are primarily expressed on DC, which, when
+immature, capture exogenous antigens from blood and tissues. During an immune response triggered by infection or
+necrosis, dendritic cells mature and migrate to the lymph
+nodes, where they present antigens to activate both helper
+and cytotoxic T cells, upregulating MHC and co-signalling
+molecules such as CD40 and B7 [34]. CD28, a homologous protein to CTLA-4, co-stimulates T cells but differs
+in being expressed on the plasma membrane [34]. B7-1 and
+B7-2 can bind to either CD28 or CTLA-4; Binding to CD28
+on CD4+ T cells induces their differentiation into T helper
+cells and promotes CD8+ T cell proliferation through the
+production of interferon-gamma (IFN- *γ* ), tumour necrosis
+factor-alpha (TNF- *α* ), and interleukin 2 (IL-2) [40]. However, when B7 binds to CTLA-4, it downregulates the production of IFN- *γ*, TNF- *α*, and IL-2, suppressing T-cell proliferation. In competition, CTLA-4 has a higher affinity
+for B7-1 and B7-2 than CD28 [34,40] (Fig. 1d). Although
+CTLA-4 is mainly intracellular, upon engagement and costimulatory signalling through CD28 in T cell receptors, it
+relocates to the cell surface, outcompeting CD28 and leading to the downregulation of T cell proliferation and activation [34,40]. Tumours can upregulate CTLA-4 to suppress CD4+ T cells, making CTLA-4 blockade a viable
+immunotherapy option for PeCa treatment. Ipilimumab, a
+
+
+1105
+
+human monoclonal antibody designed to target and block
+CTLA-4, is an ICI of interest that may prove effective in
+treating PeCa [32].
+
+Therapeutic Vaccines
+
+Approximately 50% of PeCa cases are HPV-positive,
+with the E6 and E7 oncoproteins acting as key drivers of
+tumourigenesis [41,42], as depicted in Fig. 1a. Therapeutic
+vaccines targeting HPV aim to elicit *in vivo* virus-specific
+T-cell responses against these oncoproteins, enhancing the
+systemic activity of cytotoxic T-cells to combat established
+infections and lesions caused by HPV [10,42] (Fig. 1e).
+These vaccines offer a promising strategy for treating HPVrelated infections and associated diseases, potentially even
+providing prophylactic benefits against the development of
+advanced tumours by selectively targeting cells undergoing
+transformation due to HPV [10,33,41]. Various approaches
+are under investigation to improve CD4+ and CD8+ Tcell responses, including genetic, protein-based, peptidebased, and DC-based vaccines [42]. Among these, DNAbased vaccines have shown encouraging results in clinical studies. This vaccination strategy involves injecting a
+plasmid containing a DNA sequence that encodes the target antigen into the tissues. The plasmid transfects both
+APCs and non-APCs, leading to the *in situ* production of
+the antigen and subsequent activation of the adaptive immune response, including the activation of cytotoxic and
+helper T cells [42,43]. Various viral vectors, such as adenoviruses, adeno-associated viruses, alphaviruses, and vaccinia viruses, are being utilized to express E6, E7, and E2
+oncoproteins, triggering CD4+ and CD8+ T-cell responses.
+These vectors can also be engineered to induce the production of interferon- *α* and present E6 and E7 antigens via DC,
+leading to the activation of naive T cells in the lymph nodes
+
+[42]. In terms of bacterial vectors, Listeria monocytogenes
+is considered an effective vaccine vector due to its ability
+to enter APCs, stimulate their maturation, and induce strong
+innate and adaptive immune responses [17,42].
+
+Adoptive Cellular Therapy
+
+Adoptive cellular therapy (ACT) involves the *ex vivo*
+expansion of TIL obtained from resected human tumour
+samples, coupled with the engineering of T cells to express
+tumour-specific antigens [44,45] (Fig. 1f). These modified
+T cells are then intravenously re-infused into the patient following lymphodepletion [44]. However, challenges arise
+when there is insufficient biopsy tissue or an absence of
+TIL, making the use of native T cells unfeasible. To address these limitations, genetic modification techniques are
+employed to enhance peripheral blood T cells *ex vivo*, enabling them to express receptors specific to tumour antigens. This modification can involve introducing genes
+encoding chimeric antigen receptors (CARs)—antibodybased receptors that impart the specificity of a monoclonal
+antibody onto a T-cell—or conventional T-cell receptors.
+
+1106
+
+**Table 1. Medical Subject Headings terms used for literature search in this systematic review.**
+
+Medical Subject Headings term And Or Not
+
+Penile Neoplasms Immunotherapy Drug therapy, Radiotherapy
+
+Penile Neoplasms Immune Checkpoint Inhibitors
+
+Penile Neoplasms Immunotherapy, Adoptive
+
+Penile Neoplasms Cancer Vaccines
+
+Penile Neoplasms Tumour Microenvironment
+
+**Fig. 2. Preferred Reporting Items for Systematic Reviews.** This figure was created using the BioRender website.
+
+
+CARs have demonstrated superiority over traditional T-cell
+receptors due to their ability to recognize antigens without
+any restrictions [45,46].
+ACT has gained significant traction because of its capacity to expand specific immune cells and the development
+of an infrastructure that facilitates the efficient, safe, and
+quality-assured delivery of cellular products [46]. CD8+
+infiltration in PeCa TME is considered a prognostic factor,
+suggesting that ACT using TIL could be a viable treatment
+option for patients with PeCa. However, there are notable
+limitations associated with this therapy. Firstly, ACT is tailored to individual patients, making it a costly treatment option that is challenging to scale if patient numbers are high.
+Secondly, obtaining tumour samples with isolated TIL is
+difficult [19,40,47].
+
+
+Literature Research Strategy
+
+This investigation involved an extensive data search
+conducted through the “PubMed” and “Clinicaltrials.gov”
+search engines, which access the “MEDLINE®” database,
+focusing on the role of immunotherapy in PeCa.
+
+The Medical Subject Headings (MeSH) terms “Penile
+Neoplasms”, “Immunotherapy”, “Immune Checkpoint Inhibitors”, “Immunotherapy, Adoptive”, “Cancer Vaccines”,
+and “Tumour Microenvironment” were selected to filter the
+
+most relevant and accurate information for the article (Table 1).
+
+The literature was sourced from freely accessible fulltext randomized controlled trials, non-randomized controlled trials, and original research articles written in English and published between 2017 and 2023. The included
+clinical trials were required to be in phase 2 and have published results, as outlined in our “Preferred Reporting Items
+
+1107
+
+
+**Table 2. Overview of ongoing immunotherapy studies in penile cancer treatment.**
+
+Study Status Target Drug Intervention
+
+PD-1, CTLA-4 Cabozantinib S-malate,
+NCT03866382 [61] Recruiting Doses and cycles not established.
+and VEGFR Ipilimumab, and Nivolumab
+
+
+Human Anti-PD-L1
+
+NCT04718584 [54] Recruiting PD-L1 Monoclonal Antibody
+
+Injection (LDP)
+
+
+10 mg/kg of LDP once every two weeks for a total
+
+of 6 weeks. Surgical treatment will be performed
+
+within 8 weeks.
+
+
+10 mg/kg every 2 weeks until progression or
+NCT03774901 [55] Recruiting PD-L1 Avelumab
+unacceptable toxicity.
+
+
+TGF- *β* Bintrafusp- *α*, NHS-IL12
+NCT04708470 [58] Recruiting
+and PD-L1 and Entinostat
+
+
+300 mg of Bintrafusp- *α* independent of body weight.
+
+4, 8, 12, or 16 micrograms/kg of NHS-IL12 every 2
+
+or 4 weeks. Self-administered Entinostat.
+
+
+NCT03391479 [56] Recruiting PD-L1 Avelumab 10 mg/kg, once every 2 weeks
+
+200 mg of Pembrolizumab every 3 weeks, up to 35
+Active,
+NCT04357873 [60] PD-1 Pembrolizumab and Vorinostat administrations, and 400 mg of Vorinostat once daily
+not recruiting
+until progression.
+
+
+Active,
+NCT03439085 [59]
+not recruiting
+
+
+E6 and E7
+
+oncoproteins of
+
+HPV-16/18
+
+genotypes
+
+and PD-L1
+
+
+DNA plasmid-encoding
+
+interleukin-12/HPV DNA
+
+plasmids therapeutic vaccine
+
+MEDI0457 and Durvalumab
+
+
+DNA plasmid-encoding interleukin-12/HPV DNA
+
+plasmids therapeutic vaccine INO-3112 at 1, 3, 7,
+
+and 12 weeks, and Durvalumab at 4, 8, and 12 weeks.
+
+
+Active,
+NCT03686332 [57] PD-L1 Atezolizumab 1200 mg of Atezolizumab every 3 weeks.
+not recruiting
+
+
+for Systematic Reviews and Meta-Analyses” (PRISMA) diagram. The selected papers were evaluated using the ROBVIS risk of bias tool (RoB 2, Risk-Of-Bias VISualization)
+and were included in the review only if they were determined to have a low risk of bias [48].
+
+The selected data were compiled into a systematic review, written in English, in accordance with the PRISMA
+checklist guidelines [49].
+
+Immunotherapy in Penile Cancer
+
+Applying the inclusion and exclusion criteria, the authors selected one study that evaluated the efficacy of ICI
+and presented its results, as illustrated in Fig. 2. A subsequent article, published following the NCT03333616 trial,
+described this study as a single-arm, phase 2 multicohort investigation assessing the objective response rate (ORR) of a
+combination therapy involving Ipilimumab, an anti-CTLA4 monoclonal antibody, and Nivolumab, an anti-PD-1 monoclonal antibody, in treating advanced rare genitourinary
+cancers, adrenal tumours, platinum-refractory germ cell tumours, PeCa, and prostate cancer with variant histology
+
+[50,51].
+
+
+The study enrolled 57 patients, who were divided into
+three cohorts, with the final cohort including patients with
+
+PeCa.
+
+Within cohort 3, 19 patients, including 6 with PeCa,
+with a median age of 60, and no prior exposure to
+PD-1/PDL-1 or CTLA-4 therapies, received 480 mg of
+Nivolumab intravenously every four weeks, following an
+initial regimen of 3 mg/kg of Nivolumab and 1 mg/kg of
+Ipilimumab administered in four doses every three weeks.
+
+The cohort’s overall median follow-up was 6.5
+months. Imaging evaluations for tumour reduction were
+conducted on three of the six patients with PeCa: One patient achieved a tumour reduction of 160%, two experienced reductions of approximately 20%, and the remaining
+patient’s tumour increased by approximately 35%.
+
+In this cohort, the ORR was 6%, with a progressionfree survival of 2.7 months and an OS of 50%. Patients
+
+with PeCa did not respond well to the therapy, with three of
+the six patients experiencing disease progression and two
+maintaining stable disease.
+
+More than 10% of patients across all cohorts reported
+adverse events, the most common being elevated liver enzymes, fatigue, rashes, diarrhoea, thyroid issues, pruritus,
+
+1108
+
+elevated lipase, pulmonary symptoms, hyponatremia, and
+arthralgias [51].
+
+Discussion
+
+The limited treatment options and poor prognosis associated with PeCa underscore the urgent need for new therapeutic strategies. Immune-based therapies have gained
+approval for a range of malignancies, and the Food and
+Drug Admnistration (FDA) has sanctioned the use of ICI
+for treating various metastatic tumours, including NSCLC,
+HNC, oesophageal cancer, and cutaneous SCC [13].
+Given the potential of immunotherapy as a treatment
+option for PeCa, the authors sought to clarify its role but
+found only one relevant study. This scarcity of research
+raises the question of why so few studies exist. The low
+incidence of PeCa, which is consistent in countries with
+both high and low human development indices (HDI) [1,3],
+significantly contributes to the small number of patients
+available for clinical trials. Additionally, when PeCa is diagnosed early, surgical intervention offers a 10-year survival rate of 96% for patients with localized tumours and
+no lymphatic involvement [11]. This high success rate with
+surgery for early-stage disease diminishes the likelihood
+of exploring alternative treatments, such as immunotherapy, particularly since patients in clinical trials often have
+no other viable treatment options due to unresectable or
+metastatic disease. Moreover, the psychological burden associated with the stigma of having an aggressive genital disease leads many patients with PeCa to prefer swift treatment
+options like surgery, which can be combined with reconstructive procedures, over other potentially less certain therapies [52]. While it is understandable that patients might
+favour a proven and rapid treatment like surgery, there remains a strong case for encouraging clinical trials that explore immunotherapy for non-metastatic local PeCa [53].
+Despite the challenges in enrolling patients in clinical trials, several studies are currently in the recruiting or
+active phase, as listed in Table 2 (Ref. [54–61]). For
+instance, studies such as NCT04718584, NCT03774901,
+NCT03391479, and NCT03686332 are exploring the use
+of monoclonal anti-PD-L1 antibodies [54–57]. Additionally, NCT04708470 aims to block PD-L1 activity while
+also neutralizing TGF- *β* using Bintrafusp- *α*, NHS-IL12,
+and Entinostat [58]. The NCT03439085 study investigates the use of MEDI0457, a DNA plasmid-encoding
+interleukin-12/HPV DNA plasmids therapeutic vaccine, in
+combination with Durvalumab, a monoclonal anti-PD-L1
+antibody [59]. NCT04357873 focuses on PD-1 inhibition
+using Pembrolizumab, a monoclonal anti-PD-1 antibody,
+alongside Vorinostat, a histone deacetylase inhibitor [60].
+Finally, NCT03866382 incorporates Nivolumab and Ipilimumab with Cabozantinib S-malate, a tyrosine kinase inhibitor [61].
+
+
+The planning of these studies represents a significant advancement, particularly because most focus on ICI,
+which are regarded as a cost-effective option due to the
+similar expression patterns of PD-L1 in PeCa tumour cells
+when compared to other cancers where ICI is already in
+use. ICI also offers scalability, as they do not require complex, patient-specific procedures like ACT, allowing them
+to potentially benefit a larger number of patients. However,
+these studies, like the one presented in the results, still face
+notable limitations. Although the clinical trials aim to evaluate various drug options for PeCa treatment, supported by
+a solid understanding of their mechanisms of action and the
+TME, they are often conducted in cohorts with diverse tumour histologies. For instance, the results discussed were
+derived from a cohort where only six patients had PeCa,
+which limits the study’s ability to draw specific conclusions
+about this particular cancer. This limitation also extends
+to the assessment of adverse effects, which were reported
+in over 10% of patients across all three cohorts but cannot
+be definitively linked to a specific disease. Another issue
+identified in the study was the administration of Nivolumab
+and Ipilimumab without prior quantification of PD-1 and
+CTLA-4 expression in the tumour cells, which could have
+provided more targeted insights.
+The low incidence of PeCa, coupled with the limited number of studies, restricts our ability to accurately
+identify and develop innovative immune-based treatments.
+Nonetheless, the strong association of PeCa with HPV, especially in HPV-positive tumours, suggests that therapeutic HPV vaccines could be a promising treatment modality. Additionally, the high expression of PD-L1 in PeCa
+tissues underscores the potential for applying ICI in treating
+this disease [62]. The ongoing clinical trials will be crucial
+in determining the most effective therapeutic strategies for
+
+PeCa.
+
+Conclusions
+
+The combination of Nivolumab and Ipilimumab appears unpromising for patients with PeCa, as none of the
+five patients responded to the treatment. However, this conclusion should not be generalized to the broader population,
+given that it is based on a single study. Patients with PeCa
+were part of a small cohort with diverse tumour histologies,
+and their TME was not adequately studied, making it difficult to associate the results with a specific disease.
+Despite these limitations, several factors suggest that
+immunotherapy could still be a valuable treatment option
+for PeCa. Notable among these are the expression of PDL1 in TIL and PeCa tumour cells, the TMB, and the rarity
+of STK11 mutations and *MDM2* oncogene amplification.
+Future research is expected to identify therapeutic targets that could significantly impact the prognosis of advanced PeCa.
+
+Availability of Data and Materials
+
+The datasets used and/or analysed during the current
+study were available from the corresponding author on reasonable request.
+
+Author Contributions
+
+FF, DM and FM—designed the study and participated
+in drafting the manuscript; FF and DM—collected and analyzed the data. All authors conducted the study and contributed to critical revision of the manuscript for important
+intellectual content. All authors gave final approval of the
+version to be published. All authors participated fully in the
+work, took public responsibility for appropriate portions of
+the content, and agreed to be accountable for all aspects of
+the work in ensuring that questions related to the accuracy
+or completeness of any part of the work were appropriately
+investigated and resolved.
+
+Ethics Approval and Consent to Participate
+
+Not applicable.
+
+Acknowledgment
+
+Not applicable.
+
+Funding
+
+This project was supported by FCT/MCTES
+UIDP/05608/2020 [(https://doi.org/10.54499/UI](https://doi.org/10.54499/UIDP/05608/2020)
+[DP/05608/2020)](https://doi.org/10.54499/UIDP/05608/2020) and UIDB/05608/2020 [(https:](https://doi.org/10.54499/UIDB/05608/2020)
+[//doi.org/10.54499/UIDB/05608/2020).](https://doi.org/10.54499/UIDB/05608/2020)
+
+Conflict of Interest
+
+The authors declare no conflict of interest.
+
+References
+
+[1] Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I,
+Jemal A, *et al* . Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in
+185 Countries. CA: A Cancer Journal for Clinicians. 2021; 71:
+
+209–249.
+
+[2] de Martel C, Plummer M, Vignat J, Franceschi S. Worldwide
+burden of cancer attributable to HPV by site, country and HPV
+type. International Journal of Cancer. 2017; 141: 664–670.
+
+[3] Fu L, Tian T, Yao K, Chen XF, Luo G, Gao Y, *et al* . Global Pattern and Trends in Penile Cancer Incidence: Population-Based
+Study. JMIR Public Health and Surveillance. 2022; 8: e34874.
+
+[4] Boda D, Docea AO, Calina D, Ilie MA, Caruntu C, Zurac S, *et*
+*al* . Human papilloma virus: Apprehending the link with carcinogenesis and unveiling new research avenues (Review). International Journal of Oncology. 2018; 52: 637–655.
+
+[5] Huang T, Cheng X, Chahoud J, Sarhan A, Tamboli P, Rao P, *et*
+*al* . Effective combinatorial immunotherapy for penile squamous
+cell carcinoma. Nature Communications. 2020; 11: 2124.
+
+
+1109
+
+[6] Moch H, Amin MB, Berney DM, Compérat EM, Gill AJ, Hartmann A, *et al* . The 2022 World Health Organization Classification of Tumours of the Urinary System and Male Genital
+Organs—Part a: Renal, Penile, and Testicular Tumours. European Urology. 2022; 82: 458–468.
+
+[7] Garolla A, Graziani A, Grande G, Ortolani C, Ferlin A. HPVrelated diseases in male patients: an underestimated conundrum.
+Journal of Endocrinological Investigation. 2024; 47: 261–274.
+
+[8] de Araújo LA, De Paula AAP, de Paula HDSC, Ramos JEP, de
+Oliveira BR, De Carvalho KPA, *et al* . Human papillomavirus
+(HPV) genotype distribution in penile carcinoma: Association
+with clinic pathological factors. PLoS One. 2018; 13: e0199557.
+
+[9] Chipollini J, Chaing S, Azizi M, Kidd L, Kim P, Spiess P. Advances in Understanding of Penile Carcinogenesis: The Search
+for Actionable Targets. International Journal of Molecular Sciences. 2017; 18: 1777.
+
+[10] Wei L, Huang K, Han H, Liu R. Human Papillomavirus Infection
+in Penile Cancer: Multidimensional Mechanisms and Vaccine
+
+Strategies. International Journal of Molecular Sciences. 2023;
+24: 16808.
+
+[11] Pekarek L, Ortega MA, Fraile-Martinez O, García-Montero C,
+Casanova C, Saez MA, *et al* . Clinical and Novel Biomarkers in
+Penile Carcinoma: A Prospective Review. Journal of Personalized Medicine. 2022; 12: 1364.
+
+[12] Hakenberg OW, Dräger DL, Erbersdobler A, Naumann CM,
+Jünemann K-P, Protzel C. The Diagnosis and Treatment of Penile Cancer. Deutsches Ärzteblatt International. 2018; 115: 646–
+
+652.
+
+[13] Joshi VB, Spiess PE, Necchi A, Pettaway CA, Chahoud J.
+Immune-based therapies in penile cancer. Nature Reviews. Urology. 2022; 19: 457–474.
+
+[14] Herbster S, Paladino A, de Freitas S, Boccardo E. Alterations in
+the expression and activity of extracellular matrix components
+in HPV-associated infections and diseases. Clinics. 2018; 73:
+
+e551s.
+
+[15] Kidd LC, Chaing S, Chipollini J, Giuliano AR, Spiess PE,
+Sharma P. Relationship between human papillomavirus and penile cancer—implications for prevention and treatment. Translational Andrology and Urology. 2017; 6: 791–802.
+
+[16] Prati B, Marangoni B, Boccardo E. Human papillomavirus and
+genome instability: from productive infection to cancer. Clinics.
+2018; 73: e539s.
+
+[17] Crusz SM, El-Shakankery K, Miller RE. Targeting HPV
+in gynaecological cancers—Current status, ongoing challenges and future directions. Women’s Health. 2020; 16:
+1745506520961709.
+
+[18] Akers C, Holden F. An overview of the diagnoses and treatments
+for penile cancer. British Journal of Nursing: BJN. 2020; 29:
+S6–S14.
+
+[19] Alencar AM Jr, Sonpavde G. Emerging Therapies in Penile Cancer. Frontiers in Oncology. 2022; 12: 910335.
+
+[20] Dorff TB, Ballas LK, Schuckman AK. Current Management
+Strategy for Penile Cancer and Future Directions. Current Oncology Reports. 2017; 19: 54.
+
+[21] Marchioni M, Berardinelli F, De Nunzio C, Spiess P, Porpiglia F,
+Schips L, *et al* . New insight in penile cancer. Minerva Urologica
+e Nefrologica = The Italian Journal of Urology and Nephrology.
+2018; 70: 559–569.
+
+[22] Johnston MJ, Nigam R. Recent advances in the management of
+penile cancer. F1000Research. 2019; 8: F1000 Faculty Rev-558.
+
+[23] Aydin AM, Chahoud J, Adashek JJ, Azizi M, Magliocco A, Ross
+JS, *et al* . Understanding genomics and the immune environment
+of penile cancer to improve therapy. Nature Reviews. Urology.
+2020; 17: 555–570.
+
+[24] Necchi A, Spiess PE, Bandini M, Basile G, Grivas P, Bratslavsky G, *et al* . Advanced Squamous Cell Carcinomas of the
+
+1110
+
+Pelvic and Perineal Region: a Comprehensive Genomic Profiling Study. The Oncologist. 2022; 27: 1016–1024.
+
+[25] Catalano M, Roviello G, Santi R, Villari D, Spatafora P, Galli
+IC, *et al* . Inflammation in Urological Malignancies: The Silent
+Killer. International Journal of Molecular Sciences. 2023; 24:
+
+866.
+
+[26] Hrudka J, Hojný J, Prouzová Z, Kendall Bártů M, Čapka D, Zavillová N, *et al* . High tumour mutational burden is associated with
+strong PD-L1 expression, HPV negativity, and worse survival
+in penile squamous cell carcinoma: an analysis of 165 cases.
+Pathology. 2024; 56: 357–366.
+
+[27] Tang Y, Hu X, Wu K, Li X. Immune landscape and immunotherapy for penile cancer. Front in Immunology. 2022; 13: 1055235.
+
+[28] Rafael TS, de Vries HM, Ottenhof SR, Hofland I, Broeks A, de
+Jong J, *et al* . Distinct Patterns of Myeloid Cell Infiltration in Patients With hrHPV-Positive and hrHPV-Negative Penile Squamous Cell Carcinoma: The Importance of Assessing Myeloid
+Cell Densities Within the Spatial Context of the Tumor. Frontiers in Immunology. 2021; 12: 682030.
+
+[29] Hladek L, Bankov K, von der Grün J, Filmann N, Demes M,
+Vallo S, *et al* . Tumor-associated immune cell infiltrate density
+in penile squamous cell carcinomas. Virchows Archiv: An International Journal of Pathology. 2022; 480: 1159–1169.
+
+[30] Ahmed ME, Falasiri S, Hajiran A, Chahoud J, Spiess PE. The
+Immune Microenvironment in Penile Cancer and Rationale for
+
+Immunotherapy. Journal of Clinical Medicine. 2020; 9: 3334.
+
+[31] Ottenhof SR, Djajadiningrat RS, Thygesen HH, Jakobs PJ,
+Jóźwiak K, Heeren AM, *et al* . The Prognostic Value of Immune
+Factors in the Tumor Microenvironment of Penile Squamous
+Cell Carcinoma. Frontiers in Immunology. 2018; 9: 1253.
+
+[32] Thana M, Wood L. Immune Checkpoint Inhibitors in Genitourinary Malignancies. Current Oncology. 2020; 27: S69–S77.
+
+[33] Mar N, Uchio E, Kalebasty AR. Use of immunotherapy in clinical management of genitourinary cancers—a review. Cancer
+Treatment and Research Communications. 2022; 31: 100564.
+
+[34] Park R, Winnicki M, Liu E, Chu W. Immune checkpoints and
+cancer in the immunogenomics era. Briefings in Functional Genomics. 2019; 18: 133–139.
+
+[35] Lee HT, Lee SH, Heo YS. Molecular Interactions of Antibody Drugs Targeting PD-1, PD-L1, and CTLA-4 in ImmunoOncology. Molecules. 2019; 24: 1190.
+
+[36] Montella M, Sabetta R, Ronchi A, De Sio M, Arcaniolo D, De
+Vita F, *et al* . Immunotherapy in Penile Squamous Cell Carcinoma: Present or Future? Multi-Target Analysis of Programmed
+Cell Death Ligand 1 Expression and Microsatellite Instability.
+Front in Medicine. 2022; 9: 874213.
+
+[37] Kornepati AVR, Vadlamudi RK, Curiel TJ. Programmed death
+ligand 1 signals in cancer cells. Nature Reviews. Cancer. 2022;
+22: 174–189.
+
+[38] Han Y, Liu D, Li L. PD-1/PD-L1 pathway: current researches in
+cancer. American Journal of Cancer Research. 2020; 10: 727–
+
+742.
+
+[39] Zhou Y, Li G, Wang J, Liu M, Wang Z, Song Y, *et al* . PD-L1:
+expression regulation. Blood Science. 2023; 5: 77–91.
+
+[40] Ribas A, Wolchok JD. Cancer immunotherapy using checkpoint
+blockade. Science. 2018; 359: 1350–1355.
+
+[41] Joshi VB, Chadha J, Chahoud J. Penile cancer: Updates in systemic therapy. Asian Journal of Urology. 2022; 9: 374–388.
+
+[42] Garbuglia AR, Lapa D, Sias C, Capobianchi MR, Del Porto P.
+The Use of Both Therapeutic and Prophylactic Vaccines in the
+Therapy of Papillomavirus Disease. Front in Immunology. 2020;
+11: 188.
+
+[43] Farmer E, Cheng MA, Hung CF, Wu TC. Vaccination Strategies for the Control and Treatment of HPV Infection and
+HPV-Associated Cancer. Recent Results in Cancer Research.
+
+Fortschritte der Krebsforschung. Progrès dans les Recherches
+
+
+sur le Cancer. 2021; 217: 157–195.
+
+[44] Aydin AM, Hall M, Bunch BL, Branthoover H, Sannasardo Z,
+Mackay A, *et al* . Expansion of tumor-infiltrating lymphocytes
+(TIL) from penile cancer patients. International Immunopharmacology. 2021; 94: 107481.
+
+[45] Cole K, Al-Kadhimi Z, Talmadge JE. Highlights into historical
+and current immune interventions for cancer. International Im
+munopharmacology. 2023; 117: 109882.
+
+[46] Wong YNS, Joshi K, Pule M, Peggs KS, Swanton C, Quezada
+SA, *et al* . Evolving adoptive cellular therapies in urological malignancies. The Lancet. Oncology. 2017; 18: e341–e353.
+
+[47] Chadha J, Chahoud J, Spiess PE. An update on treatment of penile cancer. Therapeutic Advances in Medical Oncology. 2022;
+14: 17588359221127254.
+
+[48] McGuinness LA, Higgins JPT. Risk-of-bias VISualization (robvis): An R package and Shiny web app for visualizing risk-ofbias assessments. Research Synthesis Methods. 2021; 12: 55–
+61.
+
+[49] Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC,
+Mulrow CD, *et al* . The PRISMA 2020 statement: an updated
+guideline for reporting systematic reviews. BMJ: British Medical Journal/British Medical Association. 2021; 372: n71.
+
+[50] Nivolumab Combined With Ipilimumab for Patients With Advanced Rare Genitourinary Tumors. 2024. Available at: [ht](https://clinicaltrials.gov/ct2/show/NCT03333616)
+[tps://clinicaltrials.gov/ct2/show/NCT03333616 (Accessed: 25](https://clinicaltrials.gov/ct2/show/NCT03333616)
+February 2023).
+
+[51] McGregor BA, Campbell MT, Xie W, Farah S, Bilen MA,
+Schmidt AL, *et al* . Results of a multicenter, phase 2 study of
+nivolumab and ipilimumab for patients with advanced rare genitourinary malignancies. Cancer. 2021; 127: 840–849.
+
+[52] van Dongen J, de Heus E, Eickholt L, Schrieks M, Zantingh I,
+Brouwer OR, *et al* . Challenges and controversies patients and
+(health care) professionals experience in managing vaginal, vulvar, penile or anal cancer: the SILENCE study. European Journal of Cancer Care. 2022; 31: e13676.
+
+[53] Hakenberg OW, Compérat EM, Minhas S, Necchi A, Protzel C,
+Watkin N. EAU guidelines on penile cancer. European Association of Urology Guidelines 2020 Edition. The European Association of Urology Guidelines Office: Arnhem. 2020.
+
+[54] The Efficacy and Safety of LDP in Patients With Urinary and
+[Male Genital Tumors. 2021. Available at: https://clinicaltrials.g](https://clinicaltrials.gov/ct2/show/NCT04718584)
+[ov/ct2/show/NCT04718584 (Accessed: 15 March 2023).](https://clinicaltrials.gov/ct2/show/NCT04718584)
+
+[55] Maintenance Avelumab Immunotherapy in Patients With Locally Advanced or Metastatic Squamous Cell Penile Carcinoma
+[(PULSE). 2023. Available at: https://clinicaltrials.gov/ct2/show](https://clinicaltrials.gov/ct2/show/NCT03774901)
+[/NCT03774901 (Accessed: 13 May 2023).](https://clinicaltrials.gov/ct2/show/NCT03774901)
+
+[56] A Study of Avelumab in Penile Cancer Who Are Unfit for or
+Have Progressed After Platinum-Based Chemotherapy. 2024.
+[Available at: https://clinicaltrials.gov/ct2/show/NCT03391479](https://clinicaltrials.gov/ct2/show/NCT03391479)
+(Accessed: 1 April 2023).
+
+[57] PEnile Cancer Radio- and Immunotherapy CLinical Exploration
+[Study (PERICLES). 2023. Available at: https://clinicaltrials.gov](https://clinicaltrials.gov/ct2/show/NCT03686332)
+[/ct2/show/NCT03686332 (Accessed: 13 April 2023).](https://clinicaltrials.gov/ct2/show/NCT03686332)
+
+[58] A Phase I/II Study of Combination Immunotherapy for Advanced Cancers Including HPV-Associated Malignancies, Small
+[Bowel, and Colon Cancers. 2024. Available at: https://clinicaltr](https://clinicaltrials.gov/ct2/show/NCT04708470)
+[ials.gov/ct2/show/NCT04708470 (Accessed: 29 March 2023).](https://clinicaltrials.gov/ct2/show/NCT04708470)
+
+[59] DNA Plasmid-encoding Interleukin-12/HPV DNA Plasmids
+Therapeutic Vaccine INO-3112 and Durvalumab in Treating Patients With Recurrent or Metastatic Human Papillomavirus As[sociated Cancers. 2024. Available at: https://clinicaltrials.gov/c](https://clinicaltrials.gov/ct2/show/NCT03439085)
+[t2/show/NCT03439085 (Accessed: 25 April 2023).](https://clinicaltrials.gov/ct2/show/NCT03439085)
+
+[60] Efficacy of Immunotherapy Plus a Drug in Patients With Progressive Advanced Mucosal Cancer of Different Locations
+[(PEVOsq). 2024. Available at: https://clinicaltrials.gov/ct2/sh](https://clinicaltrials.gov/ct2/show/NCT04357873)
+[ow/NCT04357873 (Accessed: 19 May 2023).](https://clinicaltrials.gov/ct2/show/NCT04357873)
+
+[61] Testing the Effectiveness of Two Immunotherapy Drugs
+(Nivolumab and Ipilimumab) With One Anti-cancer Targeted
+Drug (Cabozantinib) for Rare Genitourinary Tumors. 2024.
+[Available at: https://clinicaltrials.gov/ct2/show/NCT03866382](https://clinicaltrials.gov/ct2/show/NCT03866382)
+(Accessed: 13 April 2023).
+
+
+1111
+
+[62] Müller T, Demes M, Lehn A, Köllermann J, Vallo S, Wild PJ, *et*
+*al* . The peri- and intratumoral immune cell infiltrate and PD-L1
+status in invasive squamous cell carcinomas of the penis. Clinical and Translational Oncology. 2022; 24: 331–341.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

@@ -1,0 +1,48 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=427 candidates_tokens_details=None prompt_token_count=26859 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=23247), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=3612)] thoughts_token_count=2016 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=29302 traffic_type=None
+
+
+**Here's how I'm approaching this:** I need to extract clear treatment recommendations for penile cancer specifically focused on surgical staging of inguinal lymph nodes, given that the paper is a systematic review on minimally invasive procedures for this. I've broken down the task into several steps to ensure I capture all the critical information and present it in a structured way.
+
+First, I'm looking for direct *recommendations*—explicit statements about what action should be taken in specific clinical scenarios. Because the paper focuses on minimally invasive procedures, my primary focus will be on procedures like DSNB, VEIL/RA-VEIL, and how they compare to open ILND. I'll be categorizing information into key areas, like what clinical situations warrant specific actions (e.g., tumor stage, palpable nodes), and detailing the procedures themselves (DSNB, VEIL/RA-VEIL) and *any* conditions around their application (like center experience, patient preference, or whether adjunct procedures are recommended).
+
+I'll primarily be targeting the abstract, introduction, discussion, and conclusions sections, as these are most likely to contain explicit recommendations. I'm focusing on phrases that suggest a clear course of action, like "should be considered," "is recommended," "is favored," etc.
+
+So, I've gone through the paper systematically. The Abstract already provides some initial guidance: it favours DSNB with US and FNAC, especially in high-volume centres, and suggests VEIL/RA-VEIL as a good alternative to open ILND if DSNB isn't available. The Introduction helps frame the context by stating that surgical staging is indicated for intermediate- and high-risk tumours.
+
+The Discussion is the gold mine for specific recommendations. I found statements that definitively favour DSNB for patients with ≥T1b or Grade 2 T1a tumors if they are cN0. I also saw that US and FNAC are seen to improve the diagnostic value of DSNB and reduce unnecessary groins, so I am incorporating that detail. And there is explicit support for VEIL/RA-VEIL over open ILND. The "Highlighted Findings" section confirms these recommendations, further emphasizing the benefits of DSNB with US+FNAC and the role of VEIL/RA-VEIL as an alternative. Finally, the Conclusion section repeats the primary recommendations.
+
+Based on this extraction, I can structure the recommendations like this:
+
+*   **Primary Recommendation:** For surgical staging of cN0 penile cancer with intermediate or high-risk tumors (Specifically Stage ≥T1b or Grade 2 T1a), Dynamic Sentinel Node Biopsy (DSNB) is the preferred method, performed alongside preoperative inguinal Ultrasound (US) and Fine-Needle Aspiration Cytology (FNAC).
+*   **Secondary Recommendation:** If DSNB isn't available or preferred, consider inguinal lymph node dissection ((m)ILND).
+*   **Technique Recommendation:** If inguinal lymph node dissection (ILND) is indicated, choose minimally invasive approaches like Video-Endoscopic Inguinal Lymphadenectomy (VEIL) or Robot-Assisted VEIL (RA-VEIL) over open surgery.
+
+I’m confident that these recommendations fully reflect the paper's findings and are presented in a way that is clear and useful to an expert audience.
+
+
+
+**Here's how I'm approaching this:** I need to extract clear treatment recommendations for penile cancer specifically focused on surgical staging of inguinal lymph nodes, given that the paper is a systematic review on minimally invasive procedures for this. I've broken down the task into several steps to ensure I capture all the critical information and present it in a structured way.
+
+First, I'm looking for direct *recommendations*—explicit statements about what action should be taken in specific clinical scenarios. Because the paper focuses on minimally invasive procedures, my primary focus will be on procedures like DSNB, VEIL/RA-VEIL, and how they compare to open ILND. I'll be categorizing information into key areas, like what clinical situations warrant specific actions (e.g., tumor stage, palpable nodes), and detailing the procedures themselves (DSNB, VEIL/RA-VEIL) and *any* conditions around their application (like center experience, patient preference, or whether adjunct procedures are recommended).
+
+I'll primarily be targeting the abstract, introduction, discussion, and conclusions sections, as these are most likely to contain explicit recommendations. I'm focusing on phrases that suggest a clear course of action, like "should be considered," "is recommended," "is favored," etc.
+
+So, I've gone through the paper systematically. The Abstract already provides some initial guidance: it favours DSNB with US and FNAC, especially in high-volume centres, and suggests VEIL/RA-VEIL as a good alternative to open ILND if DSNB isn't available. The Introduction helps frame the context by stating that surgical staging is indicated for intermediate- and high-risk tumours.
+
+The Discussion is the gold mine for specific recommendations. I found statements that definitively favour DSNB for patients with ≥T1b or Grade 2 T1a tumors if they are cN0. I also saw that US and FNAC are seen to improve the diagnostic value of DSNB and reduce unnecessary groins, so I am incorporating that detail. And there is explicit support for VEIL/RA-VEIL over open ILND. The "Highlighted Findings" section confirms these recommendations, further emphasizing the benefits of DSNB with US+FNAC and the role of VEIL/RA-VEIL as an alternative. Finally, the Conclusion section repeats the primary recommendations.
+
+Based on this extraction, I can structure the recommendations like this:
+
+*   **Primary Recommendation:** For surgical staging of cN0 penile cancer with intermediate or high-risk tumors (Specifically Stage ≥T1b or Grade 2 T1a), Dynamic Sentinel Node Biopsy (DSNB) is the preferred method, performed alongside preoperative inguinal Ultrasound (US) and Fine-Needle Aspiration Cytology (FNAC).
+*   **Secondary Recommendation:** If DSNB isn't available or preferred, consider inguinal lymph node dissection ((m)ILND).
+*   **Technique Recommendation:** If inguinal lymph node dissection (ILND) is indicated, choose minimally invasive approaches like Video-Endoscopic Inguinal Lymphadenectomy (VEIL) or Robot-Assisted VEIL (RA-VEIL) over open surgery.
+
+I’m confident that these recommendations fully reflect the paper's findings and are presented in a way that is clear and useful to an expert audience.
+ Based on the systematic review and meta-analysis provided, the following treatment recommendations for surgical inguinal nodal staging in clinically node-negative (cN0) penile carcinoma can be extracted.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Lymph Node Management (Preferred Surgical Staging)** | For patients with clinically node-negative (cN0) penile cancer requiring surgical staging (indicated for intermediate- or high-risk tumors, specifically stage ≥T1b or considered for grade 2 T1a), **Dynamic Sentinel Node Biopsy (DSNB)** is the favored procedure. It demonstrates good diagnostic accuracy and the lowest postoperative complication rates compared to other forms of inguinal lymph node dissection (ILND). This approach is especially accurate when performed in high-volume, experienced centers. |
+| **Lymph Node Management (Adjunct to DSNB)** | When DSNB is planned for cN0 patients, **preoperative inguinal Ultrasound (US) and Fine-Needle Aspiration Cytology (FNAC)** of nodes with abnormal findings should be performed. This combination improves the diagnostic power of the staging process and can reduce the need for DSNB in cases where nodes are found to be positive, allowing for earlier therapeutic ILND. |
+| **Lymph Node Management (Alternative to DSNB)** | If Dynamic Sentinel Node Biopsy (DSNB) is **not available or not preferred by the patient**, an inguinal lymph node dissection (modified ILND or ILND) can be considered as an alternative surgical staging option. |
+| **Lymph Node Management (Surgical Technique for ILND)** | When an inguinal lymph node dissection (ILND) is indicated, a minimally invasive approach such as **Video-Endoscopic Inguinal Lymphadenectomy (VEIL) or Robot-Assisted VEIL (RA-VEIL)** should be considered over a traditional open ILND. VEIL/RA-VEIL is a feasible and safer alternative, associated with comparable diagnostic outcomes but significantly lower wound-related complication rates (including infection and skin necrosis) and fewer major complications. |

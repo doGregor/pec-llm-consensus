@@ -1,0 +1,569 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    SCANDINAVIAN JOURNAL OF UROLOGY
+
+2021, VOL. 55, NO. 6, 480–485
+[https://doi.org/10.1080/21681805.2021.1980096](https://doi.org/10.1080/21681805.2021.1980096)
+
+ARTICLE
+# Clipping inguinal lymphatics decreases lymphorrhoea after lymphadenectomy following cancer treatment: results from a randomized clinical trial
+
+Palaniappan Ravisankar [a], Kanuj Malik [b], Anand Raja [b] and Kathiresan Narayanaswamy [c]
+
+a Sri Venkateshwaraa Medical College Hospital and Research Centre, Puducherry, India; b Department of Surgical Oncology, Cancer Institute
+(WIA), Chennai, India; [c] Apollo Cancer Hospital, Chennai, India
+
+
+ABSTRACT
+Background: Post-operative lymphorrhea is a well-known complication of inguinal lymph node dissection. However, the interventions to reduce the duration of drain in situ have not been sufficiently elaborated.
+Objectives: We evaluated the potential role of intra-operative mapping of lymphatic leakage with
+peri-incisional methylene blue injection and clipping of lymphatics after inguinal block dissection in
+reducing postoperative lymphorrhea.
+Methods: We randomized 39 inguinal dissections done for various malignancies such as for carcinoma
+penis, urethra, malignant melanoma, rectum into 19 dissections (Interventional group) and 20 dissections (Control group). In the interventional group, after the completion of inguinal dissection, two ml
+
+–
+of methylene blue dye was injected 4 8cm from the incision to identify the leaking lymphatics and
+they were clipped.
+Results: The primary outcome was the decrease in duration of days of drain in situ and was found to
+have significant reduction of 3.07 days in the interventional arm. (p value-0.02). The secondary outcome was the reduction of 21 ml of mean drain output in the interventional group (p ¼ 0.09). The
+number of lymphatics clipped was not found to have statistical correlation with the duration of drain
+in situ and the mean drain output.
+Conclusion: The intraoperative mapping of lymphatic channels using methylene blue after inguinal
+dissection reduces the number of days of drain in situ.
+
+
+ARTICLE HISTORY
+Received 22 January 2021
+Revised 31 August 2021
+Accepted 9 September 2021
+
+KEYWORDS
+Inguinal block dissection;
+lymphadenectomy; methylene blue dye;
+lymphorrhoea; lymphedema
+
+
+Introduction
+
+Inguinal lymph nodal metastasis is common from cancers
+arising from the skin, penis, rectum and vulva. Incidence of
+complications of inguinal lymph nodal dissection ranges
+from 5 to 87% with the reported incidence of post-operative
+lymph fistula as high as 67% [1].
+Currently, closed suction drains are inserted at the time of
+inguinal lymph node dissection (ILND) to decrease fluid collection and promote early adherence of flap surfaces.
+However, closed suction drains cause discomfort, require
+patient compliance, interfere with mobilisation and are
+sometimes retained for longer durations due to persistent
+lymphatic leak [2]. Various techniques like collagen sealant
+patch, fibrin glue, omental flap pediculoplasty, use of harmonic scalpel, negative pressure wound therapy have been
+described in the literature to decrease post-operative lymphorrhoea, but with mixed results and no randomized study
+has standardized the technique for clinical utility [2–8].
+Methylene blue is dark green crystalline salt which is
+cheap and easily available in developing countries as compared to patent blue or isosulfan blue. It is commonly used
+in identification of sentinel node for melanoma and breast
+
+[9]. We hypothesised that leaking lymphatic channels could
+
+
+be prophylactically identified by peri-incisional injection of
+methylene blue dye intraoperatively and clipping of these
+lymphatics might lead to a reduction in postoperative lymphorrhea leading to early removal of drain.
+
+Patients and methods
+
+This investigator-designed, single institution and randomized
+phase II study was approved by the institutional ethical and
+regulatory board. (Approval No. ITRC/14/02) All patients who
+underwent therapeutic complete inguinal dissections or ilioinguinal dissections for penile cancers, skin cancers, soft tissue sarcomas, urethral cancers and rectal cancers during
+2017 to 2018 were included in the study.
+Exclusion criteria:
+
+i. Patients with unresectable primary tumor and ulcerated inguinal metastasis.
+ii. Patients with history of previous surgery of the
+inguinal region other than sentinel node biopsy.
+iii. Patients undergoing popliteal dissection as part of the
+procedure in lower limb malignancies.
+iv. History of previous radiotherapy of the inguinal region.
+
+
+CONTACT Anand Raja dr_anand@yahoo.com Department of Surgical Oncology, Institute/University/Hospital: Cancer Institute (WIA), Street Name &
+Number: No. 38 Sardar Patel Marg, Adyar, City, State, Postal code, Country, Chennai, 600036, India
+
+� 2021 Acta Chirurgica Scandinavica Society
+
+v. History of previous chemotherapy and evidence
+of lymphedema
+vi. Patients undergoing only superficial inguinal
+block dissection
+
+vii. Dissections where the inguinal block dissection wound
+communicates with scrotal sac or thigh wound.
+viii. Dissections requiring flap for cover.
+
+The randomization was done centrally by telephone in a
+computer-generated randomization and operative surgeons
+were informed about the arms of randomization after the
+
+completion of lymphadenectomy. A total of three operative
+surgeons were involved in the study and the numbers of the
+dissections performed by the surgeons ranged were four to
+eighteen in number.
+
+Technique
+
+The standard inguinal lymph node dissection was performed
+as described below. Briefly, an 8- to 14-cm lazy-S incision
+
+–
+was made, 3 4 cm below the groin crease. After the incision,
+the skin flaps were raised to the level of the Scarpa fascia
+using electrocautery, which was also used to seal any visible
+leaking lymphatic vessels. The boundaries of the dissection
+of lymphatic tissue were the inguinal ligament superiorly,
+the sartorius muscle laterally, the adductor longus muscle
+medially, and the apex of femoral triangle inferiorly. The floor
+of the dissection was the femoral vessels and the pectineus,
+with the superficial and deep nodes removed. The saphenous vein inside the femoral triangle was ligated and dissected. The sartorius muscle transposition was done to cover
+the exposed femoral vessels.
+Intervention group: After the completion of standard
+inguinal dissection, before the closure of the wound, two ml
+of methylene blue was injected intracutaneously with a 26
+–
+gauze needle into 12 16 sites around the inguinal incision
+four to eight centimetre from the wound edge (Figure
+
+–
+1(A D)). Specific care was taken not to contaminate the
+wound with spillage of the methylene blue. Soft massage
+over the inguinal region was done for five minutes.
+The leaking lymphatic vessels at the edges and under-surface of the flap were identified by the presence of methylene
+blue seeping through the cut-open end of lymphatic channels. These were clipped using LIGACLIP [V] R (Product code LT
+100 and LT 200, Ethicon, Johnson and Johnson Ltd.). The
+number of lymphatic channels that were clipped was noted.
+Control group: Incision closed without any dye injection.
+In both the interventional and control groups, suction
+catheter of 16 F calibers (ROMA VAC SET- Closed Wound
+Suction Unit, Romsons Scientific and Surgical Industries Pvt.
+Ltd) was inserted through the skin and was connected to a
+closed suction drain system. The iliac suction drains were
+connected separately through a separate suction drain system. The inguinal drains were regularly de-clotted and they
+were removed once the drain output had come down less
+than 25 ml over twenty-four hours.
+Sample size was calculated using nQuery Advisor 7.0.
+Corresponding to a reduction in days of drain by two days,
+
+
+SCANDINAVIAN JOURNAL OF UROLOGY 481
+
+with one side alpha of 20% and power of 80%, expected
+sample size was 39. In a total of 31 subjects, 39 consecutive
+complete inguinal dissections were planned (as part of ilioinguinal dissections), enrolled and randomized (1:1 randomization) in this study. All study participants provided written
+informed consent approved by the institutional review
+board. This study followed the Consolidated Standards of
+Reporting Trials (CONSORT) reporting guideline (Table 1).
+
+Outcomes and statistical analysis
+
+The primary outcome was reduction in the duration of drain
+in situ in the interventional group compared to control
+group. The secondary outcome was reduction in the mean
+drain output.
+All analysis were intention to treat and were performed
+using SPSS version 17.0 (IBM). Comparison of mean duration
+of days of drain in situ and mean drain output was done
+using the Independent ‘T’ test and Chi- Square test. Scatter
+plots were prepared and Pearson and Spearman’s coefficient
+were calculated to find corelation between mean drain out
+put and other factors.
+
+Results
+
+Between January 2017 to December 2018, a total of 50
+patients were screened and 39 were randomized to intervention arm and control arm. The follow-up period for each
+patient extended from the day of randomization till the day
+of drain removal. The baseline patient characteristics of the
+two groups are described in Table 2. Both the arms were
+well balanced with slight female preponderance in the control arm. The most common primary was penile carcinoma in
+both the groups.
+The mean duration of the suction drain retained in situ
+
+–
+was 11.53 ± 3.84 days (Range 6 19 days) and 14.60 ± 4.35 days
+
+–
+(Range 11 23 days) in the interventional and the control
+arms respectively. Patients in the intervention group had
+inguinal drains retained for 3.07 (p ¼ 0.02) less days, which
+was significantly less as compared to the control group as
+summarized in Table 3. On the post-operative day (POD) 10,
+31% and 5% dissections in the interventional arm and con
+trol group respectively were free of drains. 89.5% and 65%
+of dissections in the interventional group and control group
+respectively were drain free on POD 18. There was a trend
+towards decrease in the duration of drain in situ irrespective
+of the primary site of the tumour.
+There was reduction of 21 ml of mean drain output in the
+interventional group in comparison to the control group
+(p ¼ 0.09) and the trend is described in Table 4. The reduction in drain output between the two arms begins from POD
+1 and continues till drain removal.
+
+The mean number of lymphatic channels clipped in the
+intervention group was ten (Range- six to eighteen). On evaluating for each primary, no difference was seen in drain output and duration of drain in days, within each arm (Table 4).
+Body mass index was found to be significantly associated
+with mean drain output, however there was no association
+
+482 P. RAVISANKAR ET AL.
+
+Figure 1. (A) Methylene blue injected intracutaneously into 12–16 sites 4–8 cm from the incision edge. (B) Identification and clipping of leaking lymphatic channels. (C) Surgical site after clipping the lymphatics. (D) Wound prior to the closure.
+
+
+with number of lymphatics clipped, duration of drain in situ.
+(r p �0.68 and p ¼ 0.001). There was no statistical significance
+found between the number of lymphatics clipped, number
+of inguinal lymph nodes dissected or lymph node positivity
+and duration of drain in situ. Similarly, no correlation was
+seen with mean drain output.
+The specific complications in the interventional group
+include discoloration of drain and urine in one patient. There
+was temporary tattooing of the injected site in 4 patients
+and no active intervention was needed. At the dye injection
+site, minor skin necrosis was noted in two dissections and
+was managed conservatively. In complications unrelated to
+the intervention, in both groups, one patient each developed
+wound erythema due to surgical site infection, which was
+managed by hiking up antibiotics and one patient each
+developed superficial skin necrosis which was managed by
+debridement and secondary suturing.
+
+Discussion
+
+To the best of our knowledge, this study is the first randomized clinical trial conducted in defining the role of intraoperative identification of lymphatic channels in reducing the
+duration of post-operative lymphorrhea in the inguinal
+lymph nodal dissections.
+The lymphatic system of the inguinal region is divided
+into two groups: superficial inguinal nodes comprising of 425 nodes and deep inguinal nodes comprising of 1�3 nodes.
+The efferent lymphatics from the superficial group converge
+to join the deep inguinal nodes. Ilioinguinal block dissections
+lead to transection of lymphatic channels leading to collection of protein rich, platelet devoid lymph in the dead space
+
+[10]. Furthermore, the oblique incision used for groin
+
+
+dissection are more prone to lymphatic leak [11]. We
+hypothesized that intraoperative identification of these divided superficial lymphatics during lymph node dissections
+can minimize lymphorroea and lead to early drain removal.
+Various methods have been studied to reduce the lymphatic drainage from inguinal dissections. Different energy
+sources including Hormonic scalpel and Electrothermal bipolar vessel sealing system have been tried to reduce lymphatic
+leak but with mixed results [7,12]. Similarly, the use of fibrin
+sealants has not shown any conclusive benefit in reducing
+drain output [3–5]. Another approach has been to use
+equine collagen sealant patch coated with human fibrinogen
+and thrombin to act as tissue sealant and occlude the dead
+
+space [2]. Epidermal vaccum therapy has shown promising
+results in reducing drain output and duration of drainage [8].
+Novel surgical techniques like omental flap pediculoplasty
+and fascia lata preservation have shown to reduce lymphoedema rates but have greater associated surgical morbidity [6].
+The concept of intraoperative mapping of identifying
+lymphatic leak has been applied by few researchers previously. Indocyanine green is being increasingly used to visualise lymphatic channels and assessment of lymphedema
+status. Bernier et al. in their review concluded that ICG
+
+increases the sentinel node detection sensitivity rate when
+used along with radiotracer [13]. However, when Mistry et al.
+used indocyanine green to identify transected lymphatics in
+breast axillary dissection, 70% of the patients still developed
+seroma [14]. Patent Blue V has been used to identify groin
+lymph leaks [15,16]. Isosulfan blue has been used extensively
+for identification of sentinel nodes in cutaneous melanoma,
+squamous cell carcinoma, merkel cell carcinoma and breast
+malignancy. Nakamura et al. performed a similar study by
+
+SCANDINAVIAN JOURNAL OF UROLOGY 483
+
+
+Table 1. CONSORT 2010 Flow Diagram.
+
+
+
+
+
+
+|Allocated to intervention (n= 19) Allocated to intervention (n= 20) Lost to follow-up (give reasons) (n=0) Lost to follow-up (give reasons) (n= 0) Analysed (n= 20 ) Analysed (n= 19 ) Excluded from analysis (give reasons) (n= 0) Excluded from analysis (give reasons) (n= 0) ♦ ♦|Col2|Col3|
+|---|---|---|
+|Lost to follow-up (give reasons) (n= 0)|||
+||||
+|||Analysed (n= 20 ) Excluded from analysis (give reasons) (n= 0) ♦|
+|Analysed (n= 19 ) Excluded from analysis (give reasons) (n= 0) ♦|||
+||||
+
+
+Table 2. Demographic and pathological profile.
+
+
+
+Parameters Arm 1 Arm 2
+
+Total No. of patients 17 19
+Total No. of inguinal dissections 19 20
+Mean age of the patients (years) 56.32 56.5
+Gender (Male :Female) 18:1 16:4
+Mean body mass index (kg/m [2] ) 22.89 23.75
+Comorbid illness (Diabetes) 28.16% 20%
+Site
+
+Carcinoma Penis 13 10
+Scrotal Squamous cell carcinoma – 1
+Malignant Melanoma of Foot 2 3
+UrethralTumours 1 3
+Squamous cell carcinoma - Leg 2 –
+Anorectal Malignancies 1 3
+Mean No. of. LN dissected (Range) 10.11 ± 4.50 9.35 ± 3.01
+(3�20) (4�16)
+Mean No of LN positivity 1.53 ± 1.02 1.60 ± 0.99
+
+injecting isosulfan blue circumferentially around the inguinal
+dissection wound. In their study, the mean number of lym
+�
+phatics identified and clipped were 3 (Range: 0 6), which is
+comparatively less than those in our study. They also found
+a significant decrease in the mean number of days of suction
+catheter insertion along with a reduction in the mean drain
+output [17].
+
+
+Methylene blue has already been established as a safe
+alternative to isosulfan blue for identification of sentinel
+
+node in various malignancies [9]. Although one study
+reported 8.2% incidence of injection site mass, the economic
+advantage and absence of anaphylactic reaction make it a
+suitable alternative [18]. The technique was associated with
+minimal complications like temporary tattooing of the skin.
+An additional time of only 10 min was required at the end of
+surgery prior to the closure of the wound.
+In our study, neither the extent of disease nor the extent
+of dissection affected the mean drain output or drain in situ
+days in the interventional arm. There was no correlation
+between the number of lymphatic channels ligated and the
+end points. Lymphatic channels of small calibers themselves
+which were identified during the perilesional dye injection
+might close themselves without much contribution to the
+drain output. As an institutional practice, we bunch ligate
+the distal transected end of deep lymphatic channels rather
+than dividing them with electrocautery, thus preventing any
+leak from them
+
+The trial is limited by its relatively small sample size and
+subsequent phase 3 validation studies will be required.
+Another limitation is its short follow up period. The authors
+
+484 P. RAVISANKAR ET AL.
+
+Table 3. Comparison of reduction in duration of days.
+
+
+Post operative Days of drain removal
+
+
+ARM 1 ARM 2
+
+Total no. of dissections Percentage of drain free groins Total no. of dissections Percentage of drain free groins
+
+
+8 1 5.2 0 0.0
+
+10 6 31.5 1 5.0
+
+12 8 42.1 5 25.0
+
+14 11 57.8 6 30.0
+
+16 15 78.9 9 45.0
+
+18 17 89.4 13 65.0
+
+20 18 94.7 15 75.0
+
+22 19 100.0 19 95.0
+
+24 –– –– 20 100.0
+Mean days of drain in situ ± SD 11.53 ± 3.84 14.60 ± 4.35 p ¼ 0.025
+
+
+Table 4. Comparison of mean drain output.
+
+Arm1 Arm2
+Post op day Mean ± SD (in ml) Mean ± SD (in ml)
+
+Day 1 69.7 ± 40.1 109.5 ± 64.9
+Day 3 66.7 ± 42.1 117.4 ± 73.5
+Day 5 57.1 ± 32.1 88.4 ± 69.4
+Day 7 47.9 ± 26.4 67.3 ± 48.5
+Day 9 51.3 ± 26.3 53.4 ± 29.5
+Day 11 48.6 ± 34.5 48.7 ± 25.4
+Day 13 40.6 ± 27.7 48.2 ± 22.4
+Day 15 43.7 ± 37.7 39.5 ± 25.1
+Day 17 32.5 ± 3.5 47.8 ± 23.0
+Day 19 25.0 ± 0 34.0 ± 16.3
+Day 21 – 50.0 ± 0
+Day 23 – 25.0 ± 0
+Mean drainage output (in ml) 52.57 ± 21.77 73.38 ± 27.73 (p ¼ 0.09)
+
+have compared their technique to electrocautery sealing of
+superficial lymphatic vessels, whereas, various other methods
+have for vessel sealing have also been proposed. The correlation data presented here is hypothesis generating and
+needs prospective validation with larger sample size. Studies
+that can validate the site of injection of methylene blue, timing of clipping of the lymphatics, choice of the dye, and also
+the long term follow up including its role in reducing the
+lymphedema provides scope for clinical research in
+
+the future.
+
+Conclusion
+
+The intraoperative mapping and clipping of lymphatic channels using Methylene blue after inguinal dissection is beneficial in reducing the duration of days of drain in situ. This
+study provides a novel perspective of prophylactically reducing post-operative lymphorrhea associated with the inguinal
+
+dissections.
+
+Disclosure statement
+
+The study design complies with the Declaration of Helsinki eth
+ical standards.
+
+Funding
+
+The data that support the findings of this study are available on request
+from the corresponding author.
+
+
+References
+
+[1] Tonouchi H, Ohmori Y, Kobayashi M, et al. Operative morbidity
+associated with groin dissections. Surg Today. 2004;34(5):
+
+413–418.
+
+[2] Di Monta G, Caraco C, Crispo A, et al. Collagen sealant patch to�
+reduce lymphatic drainage after lymph node dissection. World J
+Surg Oncol. 2012;10:275.
+
+[3] Neuss H, Raue W, Koplin G, et al. A prospective randomized trial:
+the influence of intraoperative application of fibrin glue after radical inguinal/iliacal lymph node dissection on postoperative mor
+–
+bidity. Eur J Surg Oncol. 2009;35(8):884 889. Aug
+
+[4] Neuss H, Raue W, Koplin G, et al. Intraoperative application of
+
+fibrin sealant does not reduce the duration of closed suction
+
+drainage following radical axillary lymph node dissection in melanoma patients: a prospective randomized trial in 58 patients.
+World J Surg. 2008;32(7):1450–1455.
+
+[5] Mortenson MM, Xing Y, Weaver S, et al. Fibrin sealant does not
+decrease seroma output or time to drain removal following
+inguino-femoral lymph node dissection in melanoma patients: a
+randomized controlled trial (NCT00506311). World J Surg Oncol.
+
+2008;6:63.
+
+[6] Gupta MK, Patel AP, Master VA. Technical considerations to minimize complications of inguinal lymph node dissection. Transl
+Androl Urol. 2017; 6(5):820–825.
+
+[7] Gie O, Matthey-Gei M, Marques-Vidal P, et al. Impact of the
+Ultrasonic scalpel on the amount of drained lymph after axillary
+or inguinal lymphadenectomy. BMC Surg. 2017;17(1):27.
+
+[8] Tauber R, Schmid S, Horn T, et al. Inguinal lymph node dissection: epidermal vacuum therapy for prevention of wound complications. J Plast Reconstr Aesthet Surg. 2013;66(3):390–396.
+
+[9] Varghese P, Abdel-Rahman AT, Akberali S, et al. Methylene blue
+dye-a safe and effective alternative for sentinel lymph node local
+ization. Breast J. 2008;14(1):61–67.
+
+[10] Hsu MC, Itkin M. Lymphatic anatomy. Tech Vasc Interv Radiol.
+
+2016;19(4):247–254.
+
+[11] Stadelmann WK, Tobin GR. Successful treatment of 19 consecu
+tive groin lymphoceles with the assistance of intraoperative
+lymphatic mapping. Plast Reconstr Surg. 2002;109(4):1274–1280.
+
+[12] Gianluca D, Ugo M, Amore A, et al. Electrothermal bipolar vessel
+sealing system dissection reduces drainage fluid output or time
+to drain removal following axillary and Ilio-Inguinal node dissection in melanoma patients: a pilot study. JCT. 2018;09(09):
+
+613–622.
+
+[13] Burnier P, Niddam J, Bosc R, et al. Indocyanine green applications
+in plastic surgery: a review of the literature. J Plast Reconstr
+Aesthet Surg. 2017;70(6):814–827.
+
+[14] Mistry RM, Forster N, Neuhaus SJ, et al. Indocyanine green lymphography following axillary node dissection. J Lymphoedema.
+
+2015;10:20–24.
+
+[15] Choong AMTL, Alagaratnam S, Floyd D, et al. How to locate and
+treat lymph leaks using patent blue V dye and floseal. Ann Vasc
+Surg. 2014;28(2):495–497.
+
+[16] Setoyama M, Shimada H, Kanzaki T. Successful mapping of lymphorrhea using patent blue dye after lymph node dissection for
+malignant melanoma. J Dermatol. 2000;27(6):407–408.
+
+[17] Nakamura Y, Fujisawa Y, Maruyama H, et al. Intraoperative mapping with isosulfan blue of lymphatic leakage during inguinal
+
+
+SCANDINAVIAN JOURNAL OF UROLOGY 485
+
+lymph node dissection (ILND) for skin cancer for the prevention
+of postoperative lymphocele. J Surg Oncol. 2011;104(6):657–660.
+
+[18] Shirah GR, Bouton ME, Komenaka IK. Occurrence of prolonged
+injection site mass with methylene blue but not isosulfan blue
+after the sentinel node procedure. Arch Surg. 2011;146(2):137–141.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

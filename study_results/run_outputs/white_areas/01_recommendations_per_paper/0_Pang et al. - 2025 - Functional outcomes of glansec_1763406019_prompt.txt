@@ -1,0 +1,652 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ## IJIR: Your Sexual Medicine Journal www.nature.com/ijir
+
+REVIEW ARTICLE **OPEN**
+# Functional outcomes of glansectomy to treat localised penile cancer: a systematic review
+
+Karl H. Pang 1,2,3 ✉, Hussain M. Alnajjar 1,2 and Asif Muneer 1,2,4 ✉
+
+© Crown 2025
+
+|Col1|Col2|Col3|
+|---|---|---|
+||Glansectomy with or without a neoglans reconstruction is commonly performed for invasive penile cancer con ned to the glans fi penis. The aim of penile-preserving procedures is to maintain sexual and urinary function without compromising oncological outcomes. A systematic review was performed to evaluate the functional outcomes following glansectomy. Overall, 14 studies which included 327 glansectomy procedures were analysed. At a mean follow-up of 40.7 (range, 13 52) months, the recurrence rate – was 9.1% (0 25%) and the disease-speci c survival rate was 87.5 100%. Partial graft loss and meatal stenosis occurred in 6.1% – fi – (0 17.6%) and 8.1% (0 14.3%) respectively. 91.1% (50 100%) had preserved erectile function and 62.5% (33.3 100%) were sexually – – – – active. 75.6% (66.7 100%) of patients were voiding whilst standing up and 83.7% (63.6 91.2%) had maintained glans sensation. – – Satisfaction with the overall appearance was achieved in 86.3% (68.2 100%). The reporting of functional outcomes was – heterogenous with a limitation that there are no standardised guidelines on the assessment of functional outcomes following glansectomy. Further research should focus on identifying appropriate tools for reporting functional outcomes following||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||glansectomy and standardising reporting.||
+||||
+||||
+||IJIR: Your Sexual Medicine Journal; https://doi.org/10.1038/s41443-025-01062-1||
+||||
+
+
+INTRODUCTION
+Penile cancer (PeCa) is a rare male genital cancer with an incidence
+of approximately 37,699 cases in 2022, representing 0.2% of all
+cancer sites according to the 2022 GLOBOCAN data [1]. In localised
+PeCa confined to the glans, penile-preserving treatment such as
+laser, glans resurfacing or glansectomy are available. The treatment
+depends on the stage of the disease [2, 3]. In clinical tumour stage 2
+(cT2) PeCa, and where in doubt, an MRI excludes the involvement of
+the distal corpus cavernosa (cT3), a glansectomy is an option [2].
+The aim of penile-preserving surgery is to maintain penile
+length for sexual intercourse and to enable voiding whilst
+standing up without compromising oncological outcomes. In
+addition, reconstruction with a split thickness skin graft (SSG) to
+form a neoglans improves the aesthetic outcomes [4].
+The data show that salvage surgery for positive surgical margins
+(PSM) or local recurrence (LR) is up to 8.3% [5]. In addition, following
+
+–
+glansectomy, 95 100% of patients reported good cosmetic outcomes
+and 50–100% reported normal erections [5]. There is a lack of data
+focusing solely on functional outcomes including sexual and urinary
+outcomes and quality of life (QoL). Therefore, the aim of this
+systematic review was to provide a contemporary update on sexual
+and urinary outcomes, as well as QoL following glansectomy for PeCa.
+
+METHODS
+The systematic review was registered with PROSPERO
+(CRD42025632864) and was conducted with reference to the
+
+
+2020 PRISMA statement (Supplementary Table 1) [6]. The search of
+MEDLINE/PubMed and EMBASE (using OVID) was performed on
+29/09/2024. All articles published up until 29/09/2024 were
+included for screening. The Cochrane library was also searched
+for any registered trials. The search terms used included
+(glansectomy OR penile-preserving surgery OR organ-sparing
+surgery) AND (peni* OR glans) AND (cancer OR malignan* OR
+tumour OR neoplas*). The population (P), intervention (I),
+comparison (c), outcome (o), study (s) framework was used to
+determine the inclusion criteria:
+
+P: adult men with PeCa
+I: glansectomy with or without neoglans reconstruction with
+SSG
+C: any forms of treatment for PeCa confined to the glans
+O: functional (primary), oncological and quality of life
+(secondary)
+S: any study design including prospective or retrospective
+observational studies, randomised and non-randomised studies.
+Studies with no report on functional outcomes following
+glansectomy were excluded, as well as non-English and review
+articles. Case reports, conference abstracts, editorials, letters and
+commentaries were also excluded. Abstracts, full-text articles, and
+the reference lists of included articles were screened for eligibility.
+
+Data extraction and analysis
+Data extracted included the study design, number of patients,
+histopathological data, complications, recurrence and survival rates,
+
+
+1 Male Genital Cancer Centre, Department of Andrology, University College London Hospitals (UCLH) NHS Foundation Trust, London, UK. 2 Division of Surgery and Interventional
+Science, University College London, London, UK. [3] Department of Urology, Chelsea and Westminster Hospital NHS Foundation Trust, London, UK. [4] National Institute for Health
+and Care Research (NIHR) Biomedical Research Centre, UCLH NHS Foundation Trust, London, UK. [✉] [email: karlpang@doctors.org.uk; asif.muneer@nhs.net](mailto:karlpang@doctors.org.uk)
+
+Received: 19 October 2024 Revised: 20 March 2025 Accepted: 31 March 2025
+
+2
+
+
+K.H. Pang et al.
+
+**Identification of studies via databases and registers**
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1 PRISMA 2020 flow chart for the current systematic review.
+
+sexual and urinary function, and QoL. The risk of bias (Rob)
+assessment of the included studies was assessed using the JBI
+checklist [7] (Supplementary Table 2). The screening, data extraction
+and RoB assessment were performed by 2 authors independently
+(KHP, HMA) and any disagreements were solved amongst the 2
+authors or involvement of the senior author (AM). Where feasible, a
+pooled analysis was performed calculating the percentage of an
+event occurring post-surgery such as local recurrence or meatal
+stenosis. The percentage range was also reported. Where only the
+median and interquartile ranges were reported, an estimation of the
+mean was performed using Abbas et al’s online convertor [8]. The
+mean age and follow-up were calculated by summing all the scores
+and then dividing by the total number of scores. For the percentage
+of an event (i.e., local recurrence or meatal stenosis), the number of
+patients who experienced an event across all the studies was
+summed and divided by the total number of patients who
+underwent surgery in all the studies.
+
+RESULTS
+Overall, 240 articles were identified from the search. Following
+abstract and full-text article screening as well as reviewing the
+
+
+reference lists of the included articles, a total of 14 studies [9–22],
+which included 327 glansectomies were analysed (Fig. 1). The RoB
+assessment of each cohort study demonstrated relatively low risk
+of bias across most domains, except for the “confounding factors”
+domain (Supplementary Table 2).
+
+–
+The mean age was 62.7 (51 67) years, and the mean follow-up
+was 40.7 (13–52) months (Table 1). Procedures performed
+included partial glansectomy or total glansectomy with or without
+distal corporectomy or neoglans reconstruction with SSG.
+
+Functional outcomes
+The assessment of functional outcomes was heterogenous with
+studies using both validated and locally designed non-validated
+questionnaires (Table 2). Validated questionnaires used included:
+International Index for Erectile Function (IIEF) [23], Changes in
+Sexual Function Questionnaire (CSFQ) [24], European Organization
+for Research and Treatment of Cancer core quality of life
+questionnaire (EORTC QLQ-C30) [25], EuroQoL questionnaire visual
+analogue scale (EQ-5D-3L VAS) [26], International Consultation on
+Incontinence Questionnaire Urinary Incontinence Short Form
+(ICIQ-UI SF) [27], International Consultation on Incontinence
+Questionnaire Male Lower Tract Symptoms (ICIQ-MLUTS) [28],
+
+IJIR: Your Sexual Medicine Journal
+
+K.H. Pang et al.
+
+
+3
+
+
+IJIR: Your Sexual Medicine Journal
+
+K.H. Pang et al.
+
+
+4
+
+
+IJIR: Your Sexual Medicine Journal
+
+K.H. Pang et al.
+
+
+5
+
+
+Table 2. Functional outcomes of glansectomy for penile cancer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSFQ changes in sexual function questionnaire, EF erectile function, EORTC QLQ-C30 European organization for research and treatment of cancer core quality of
+life questionnaire, EQ-5D-3L VAS euroQoL questionnaire visual analogue scale, ICIQ-UI SF international consultation on incontinence questionnaire urinary
+incontinence Short Form, ICIQ-MLUTS international consultation on incontinence questionnaire male lower tract symptoms, Short Form IIEF international index
+for erectile dysfunction, PROM patient-reported outcome measure, QoL quality of life, SEP sex encounter profile, IPSS international prostate symptom score.
+a Reported within a penile-preserving surgery (PPS) series which included circumcision, wide local excision, laser or glans resurfacing.
+b Authors used the Bigelow and Young Score.
+
+IJIR: Your Sexual Medicine Journal
+
+6
+
+
+K.H. Pang et al.
+
+Fig. 2 Intraoperative and postoperative images of glansectomy and neoglans reconstruction. a tumour localised to the glans penis; (b)
+dissection above the Buck’s fascia; (c) transection of the urethra leaving around 1 cm length beyond the corporal tips; (d, e) a split-thickness
+skin graft is sutured to the denuded glans penis; (f) a tied-over dressing for graft application (TODGA) is applied; (g) postoperative
+
+appearance.
+
+
+Sex Encounter Profile (SEP) [29] and the International Prostate
+Symptom Score (IPSS) [30].
+
+–
+Overall, 62.5% (33.3 100%) of patients were sexually active at
+
+–
+follow-up, 91.1% (50 100%) had preserved erectile function. The
+change in IIEF-EF score ranged between −3.3 and 1.3 points. Glans
+
+–
+sensation was maintained in 83.7% (63.6 91.2%) of patients, and
+
+–
+75.6% (66.7 100%) of patients were able to stand up and void.
+Satisfaction with the overall appearance or outcomes was
+
+–
+achieved in 86.3% (68.2 100%) of patients. Negative impact on
+QoL and sexual life was reported in 27.3% respectively [9].
+
+Oncological outcomes and complications
+Oncological outcomes and complications are summarised in
+Table 1. In all, 3.2% (0–21.4%) of patients had a PSM and 9.1%
+(0–25%) had a recurrence. The disease-specific survival (DSS) was
+87.5–100%. Partial graft loss occurred in 6.1% (0–17.6%) of
+patients [11], and meatal stenosis occurred in 8.1% (0–14.3%) of
+patients [14]. Salvage surgery for PSM and/or recurrence was
+required in 7.7% (0–20.6%) of patients [11].
+
+DISCUSSION
+In this systematic review, we focused solely on functional outcomes
+and QoL following glansectomy for invasive PeCa. From the 14
+studies which met the PICOS inclusion criteria, only 5 studies
+reported on glansectomy per se. The remaining studies reported
+on a combined series which included other penile-preserving
+procedures as well as penectomy. With the heterogeneity of the
+patient cohorts in the studies analysed, data extraction to identify
+the patients undergoing glansectomy becomes difficult. In
+addition, most studies primarily focused on oncological outcomes
+as opposed to functional outcomes. Again this posed difficulties in
+extracting the relevant functional data. Nevertheless, in this review
+the reporting and results of functional outcomes were heterogenous. This was partly related to the wide range in the number of
+patients included in the studies analysed, with the smallest series
+including 6 patients, and the largest including 62. The assessment
+of functional outcomes was not standardised and currently there
+
+
+are no standardised reporting system based on the currently
+available PeCa guidelines [2, 3]. Some studies have used validated
+questionnaires such as IIEF, IPSS and ICIQ, whilst other studies have
+used locally-designed questionnaires. It is worth noting, the
+common validated questionnaires used in the included studies
+are not specific to post-PeCa surgery, but generic tools to assess
+outcome measures from urological procedures. Moreover, the IPSS
+is used primarily to evaluate prostatic symptoms and not for
+urinary symptoms associated with a neoglans or meatal reconstruction following glansectomy. In studies that utilised the preand postoperative IIEF-EF score, 2 studies [9, 22] reported an
+increase in the score and 1 study [17] reported a decrease in the
+score, reflecting contradictory data. Reporting a change in scores is
+a more reliable method in assessing erectile function, as studies
+just reporting postoperative IIEF or functional outcomes scores
+without taking into consideration of the preoperative status are not
+useful. Therefore, future studies should ideally report pre- and
+postoperative functional parameters with changes in questionnaire
+scores where appropriate. What is important following penilepreserving surgery, is not the erectile function as such, but whether
+the residual penile length is sufficient for penetration and whether
+the patient can void whilst standing up. Therefore, a more reliable
+outcome measure is to ask whether patients can still penetrate or
+void whilst standing up following glansectomy. In this review,
+
+–
+75.6% (66.7 100%) of patients were able to void whilst standing up
+
+[12, 13]. The proportion of patients who were sexually active varied
+between 33–100% [14, 16]. Again, this may be associated with the
+difference in the number of patients and follow-up period in the
+included studies, as well as individual centre’s expertise.
+With regards to postoperative meatal function, as mentioned
+above, IPSS may not be the best tool to use. Specific assessment
+should focus on examining the meatus to see if there is any
+stenosis and asking whether the stream is narrow or if there is any
+spraying. A uroflowmetry and urethroscopy may be required for a
+more objective assessment.
+In general, good aesthetic outcomes or satisfaction with the
+cosmetic outcome was achieved in majority of patients. Glansectomy did not affect QoL in most patients, as up to 27.3% of
+
+IJIR: Your Sexual Medicine Journal
+
+7
+
+
+patients reported a negative impact on QoL and sexual life [9, 11].
+In addition, Gulino et al. [22] reported improvements in QoL
+regarding patient subjective feelings, and relationships with family
+and partner based on Bigelow and Young scores [31].
+The individual centre’s surgical experience and slight variation
+in glans reconstruction may result in the variable graft take rates,
+meatal complications, cosmetic and functional outcomes
+observed in this study. High-volume centres where PeCa management is centralized would be expected to have better surgical
+outcomes [32]. Moreover, the varied tumour stage within the
+included studies and lengths of follow-up may induce heterogenicity in results.
+
+Authors’ experience
+Glansectomy is now widely accepted as the procedure of choice
+for invasive cT2 PeCa. We previously reported the outcomes of
+172 glansectomies performed in a single centre, and the LR rate
+was 9.3%, complete or near-complete graft loss rate was 3.4% and
+meatal stenosis rate was 2.8% [4]. These outcomes are in the lower
+range compared to data reported in the literature. When
+performed by experienced surgeons and in high-volume centres,
+the oncological outcomes are good, complication rates are low
+and cosmetic outcomes are excellent.
+Our approach to the procedure has been described previously
+
+[4] and is summarised below (Fig. 2).
+An incision is made on the outer prepuce. If the patient had
+been circumcised, an incision is made along the circumcision scar.
+The incision is deepened circumferentially, and a plane is created
+between above Buck’s fascia and the glans in order to preserve
+the vascular supply if a graft is planned (Fig. 2b). If a SSG is not
+planned, especially if the tumour is adherent to Buck's fascia,
+dissection is performed under the fascia. The glans is dissected off
+the corporal bodies until the urethra is the only remaining
+attachment, maintaining ~1 cm length beyond the corporal tips if
+possible (Fig. 2c). The urethra is transected, spatulated ventrally
+
+–
+and is splayed over the corpora cavernosa heads at 2 4 points
+with 4–0 absorbable suture. Biopsies of the urethral margin and
+distal corporal bodies are taken. If the distal corporal bodies are
+involved macroscopically, distal corporectomies are performed.
+The skin is brought to the urethra with 4–0 absorbable suture. A
+14–16Fr 2-way indwelling catheter is left in place for around 5
+days [4].
+In patients who desire to have a neoglans, a SSG can be used for
+reconstruction. Commonly, the inner thigh is selected for SSG
+harvesting using an air-powered dermatome. Graft thickness
+ranges from 0.008 to 0.018 inches. The donor site is infiltrated with
+1% lidocaine and 1:200,000 adrenaline and covered with a calcium
+alginate dressing. The distal part of the penile shaft skin is sutured
+to the corporal bodies to leave around 2 cm of the distal corporal
+bodies exposed as a graft bed for the reconstruction of a
+neoglans. The SSG is laid onto the distal corporal bodies and is
+sutured to the edge of the penile shaft skin proximally and to the
+urethral edge distally with 4–0 and 5–0 absorbable sutures
+(Fig. 2d, e). Absorbable quilting sutures with monofilament
+
+–
+poliglecaprone 5.0 are used. A 14 16Fr 2-way urethral catheter
+is left insitu for around 7–10 days and a paraffin soaked tie-over
+dressing for graft application (TODGA) is applied and sutured in
+place (Fig. 2f) [4, 33].
+
+Future directions
+It is important to establish a standardised system for reporting
+functional outcomes following PeCa surgery. This would allow a
+more meaningful statistical pooled analysis to be performed.
+Standardised reporting may require developing consensus
+recommendations from international experts or guidelines panels,
+which may require the development of PeCa specific assessment
+tools focusing on comprehensive functional metrics.
+
+IJIR: Your Sexual Medicine Journal
+
+
+K.H. Pang et al.
+
+Limitations
+In an attempt to select high-quality studies, letters, editorials and
+commentaries were excluded as well as single case reports. This
+restriction may have omitted important reports on functional
+outcomes following glansectomy. The assessment tools used were
+heterogenous amongst the included studies. Moreover, within the
+IIEF questionnaire, there were 3 different types used which
+included IIEF-5, IIEF-15 or IIEF-EF. In addition, the reporting was not
+consistent, for example, some studies reported postoperative IIEF
+scores, and some reported changes in IIEF score, which made
+performing a meta-analysis not possible.
+
+CONCLUSION
+Penile-preserving surgery should be considered in all patients
+with localised PeCa. Results demonstrated that the functional
+and cosmetic outcomes following glansectomy is acceptable
+without compromising oncological outcomes. Further research is
+required to enable recommendations to be developed on the
+standard reporting of functional outcomes following glansectomy
+for PeCa.
+
+DATA AVAILABILITY
+
+All data generated or analysed during this study are included in this published article
+and supplementary files.
+
+REFERENCES
+
+1. Bray F, Laversanne M, Sung H, Ferlay J, Siegel RL, Soerjomataram I, et al. Global
+cancer statistics 2022: GLOBOCAN estimates of incidence and mortality world[wide for 36 cancers in 185 countries. CA Cancer J Clin. 2024;74:229–63. https://](https://doi.org/10.3322/CAAC.21834)
+[doi.org/10.3322/CAAC.21834](https://doi.org/10.3322/CAAC.21834)
+2. Brouwer OR, Rumble RB, Ayres B, Sánchez Martínez DF, Oliveira P, Spiess PE, et al.
+Penile Cancer: EAU-ASCO collaborative guidelines update Q and A. JCO Oncol
+[Pract. 2024;20:33–7. https://pubmed.ncbi.nlm.nih.gov/37956391/](https://pubmed.ncbi.nlm.nih.gov/37956391/)
+3. Muneer A, Bandini M, Compérat E, De Meerleer G, Fizazi K, Gietema J, et al. Penile
+cancer: ESMO-EURACAN clinical practice guideline for diagnosis, treatment
+[and follow-up. ESMO Open. 2024;9:103481 https://doi.org/10.1016/J.ESMOOP.](https://doi.org/10.1016/J.ESMOOP.2024.103481)
+
+[2024.103481](https://doi.org/10.1016/J.ESMOOP.2024.103481)
+
+4. Parnham AS, Albersen M, Sahdev V, Christodoulidou M, Nigam R, Malone P, et al.
+Glansectomy and split-thickness skin graft for penile cancer. Eur Urol.
+[2018;73:284–9. https://doi.org/10.1016/J.EURURO.2016.09.048](https://doi.org/10.1016/J.EURURO.2016.09.048)
+5. Pang KH, Muneer A, Alnajjar HM. Glansectomy and reconstruction for penile
+[cancer: a systematic review. Eur Urol Focus. 2022;8:1318–22. https://doi.org/](https://doi.org/10.1016/J.EUF.2021.11.008)
+
+[10.1016/J.EUF.2021.11.008](https://doi.org/10.1016/J.EUF.2021.11.008)
+
+6. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The
+PRISMA 2020 statement: an updated guideline for reporting systematic reviews.
+[BMJ. 2021;372:n71 https://doi.org/10.1136/bmj.n71](https://doi.org/10.1136/bmj.n71)
+7. Moola S, Munn Z, Tufanaru C, Aromataris E, Sears K, Sfetc R, et al. Chapter 7:
+[systematic reviews of etiology and risk. JBI Evid Synth. 2020. https://doi.org/](https://doi.org/10.46658/JBIMES-20-08)
+
+[10.46658/JBIMES-20-08.](https://doi.org/10.46658/JBIMES-20-08)
+
+8. Abbas A, Hefnawy MT, Negida A. Meta-analysis accelerator: a comprehensive tool
+for statistical data conversion in systematic reviews with meta-analysis. BMC Med
+[Res Methodol. 2024;24:243 https://doi.org/10.1186/S12874-024-02356-6](https://doi.org/10.1186/S12874-024-02356-6)
+9. Falcone M, Preto M, Gül M, Şahin A, Scavone M, Cirigliano L, et al. Functional
+outcomes of organ sparing surgery for penile cancer confined to glans and
+[premalignant lesions. Int J Impot Res 2024. https://doi.org/10.1038/S41443-024-](https://doi.org/10.1038/S41443-024-00967-7)
+
+[00967-7.](https://doi.org/10.1038/S41443-024-00967-7)
+
+10. Cilio S, Tufano A, Pezone G, Alvino P, Spena G, Pandolfo SD, et al. Sexual outcomes after conservative management for patients with localized penile cancer.
+[Curr Oncol. 2023;30:10501–8. https://doi.org/10.3390/CURRONCOL30120765](https://doi.org/10.3390/CURRONCOL30120765)
+11. Falcone M, Preto M, Blecher G, Timpano M, Peretti F, Ferro I, et al. The outcomes
+of glansectomy and split thickness skin graft reconstruction for invasive penile
+[cancer confined to glans. Urology. 2022;165:250–5. https://doi.org/10.1016/](https://doi.org/10.1016/J.UROLOGY.2022.01.010)
+
+[J.UROLOGY.2022.01.010](https://doi.org/10.1016/J.UROLOGY.2022.01.010)
+
+12. Croghan SM, Compton N, Daniels AE, Fitzgibbon L, Daly PJ, Cullen IM. Phallus
+preservation in penile cancer surgery: patient-reported aesthetic & functional
+[outcomes. Urology. 2021;152:60–6. https://doi.org/10.1016/j.urology.2021.02.011](https://doi.org/10.1016/j.urology.2021.02.011)
+13. Beech B, Chapman D, Rourke K. Clinical outcomes of glansectomy with splitthickness skin graft reconstruction for localized penile cancer. Can Urol Assoc J.
+
+2020;14:E482–86.
+
+32. Jakobsen JK, Pettaway CA, Ayres B. Centralization and equitable care in rare
+urogenital malignancies: the case for penile cancer. Eur Urol Focus. 2021;7:924–8.
+[https://doi.org/10.1016/J.EUF.2021.09.019](https://doi.org/10.1016/J.EUF.2021.09.019)
+33. Malone PR, Thomas JS, Blick C. A tie-over dressing for graft application in distal
+penectomy and glans resurfacing: The TODGA technique. BJU Int.
+[2011;107:836–40. https://doi.org/10.1111/j.1464-410X.2010.09576.x](https://doi.org/10.1111/j.1464-410X.2010.09576.x)
+
+ACKNOWLEDGEMENTS
+
+AM acknowledges support from the NIHR Biomedical Research Centre UCLH.
+
+AUTHOR CONTRIBUTIONS
+
+Conceived and/or designed the work that led to the submission: KHP, AM. Acquired
+data: KHP, HMA. Played an important role in interpreting the results: KHP, AM. Drafted
+or revised the manuscript: KHP, HMA, AM. Approved the final version: KHP, HMA, AM.
+Agreed to be accountable for all aspects of the work in ensuring that questions
+related to the accuracy or integrity of any part of the work are appropriately
+investigated and resolved: KHP, AM.
+
+COMPETING INTERESTS
+
+The authors declare no competing interests.
+
+ETHICS APPROVAL AND CONSENT TO PARTICIPATE
+
+Photos are taken from the senior authors’ institutional (UCLH) collection and
+informed consent was obtained from patients for collection and publication. The
+review was conducted with reference to the 2020 PRISMA statement. No ethical
+
+approval to conduct a review was required.
+
+ADDITIONAL INFORMATION
+
+Supplementary information The online version contains supplementary material
+[available at https://doi.org/10.1038/s41443-025-01062-1.](https://doi.org/10.1038/s41443-025-01062-1)
+
+Correspondence and requests for materials should be addressed to Karl H. Pang or
+Asif Muneer.
+
+[Reprints and permission information is available at http://www.nature.com/](http://www.nature.com/reprints)
+[reprints](http://www.nature.com/reprints)
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims
+in published maps and institutional affiliations.
+
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commons licence, and indicate if changes were made. The images or other third party
+material in this article are included in the article’s Creative Commons licence, unless
+
+indicated otherwise in a credit line to the material. If material is not included in the
+
+article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this licence, visit [http://](http://creativecommons.org/licenses/by/4.0/)
+[creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+
+© Crown 2025
+
+IJIR: Your Sexual Medicine Journal
+
+
+8
+
+
+K.H. Pang et al.
+
+14. Pérez J, Chavarriaga J, Ortiz A, Orrego P, Rueda S, Quiroga W, et al. Oncological
+and functional outcomes after organ-sparing plastic reconstructive surgery for
+[penile cancer. Urology. 2020;142:161–5.e1. https://doi.org/10.1016/j.urology.](https://doi.org/10.1016/j.urology.2020.03.058)
+
+[2020.03.058](https://doi.org/10.1016/j.urology.2020.03.058)
+
+15. Håkansson U, Kirrander P, Uvelius B, Baseckas G, Torbrand C. Organ-sparing
+reconstructive surgery in penile cancer: initial experiences at two Swedish
+referral centres. Scand J Urol. 2015;49:149–54. [https://doi.org/10.3109/](https://doi.org/10.3109/21681805.2014.955822)
+
+[21681805.2014.955822](https://doi.org/10.3109/21681805.2014.955822)
+
+16. Scarberry K, Angermeier KW, Montague D, Campbell S, Wood HM. Outcomes for
+[organ-preserving surgery for penile cancer. Sex Med. 2015;3:62–6. https://](https://doi.org/10.1002/sm2.56)
+[doi.org/10.1002/sm2.56](https://doi.org/10.1002/sm2.56)
+17. Sedigh O, Falcone M, Ceruti C, Timpano M, Preto M, Oderda M, et al. Sexual
+function after surgical treatment for penile cancer: Which organ-sparing
+[approach gives the best results? Can Urol Assoc J. 2015;9:E423–7. https://](https://doi.org/10.5489/cuaj.2801)
+[doi.org/10.5489/cuaj.2801](https://doi.org/10.5489/cuaj.2801)
+18. Veeratterapillay R, Sahadevan K, Aluru P, Asterling S, Rao GS, Greene D. Organpreserving surgery for penile cancer: description of techniques and surgical
+[outcomes. BJU Int. 2012;110:1792–5. https://doi.org/10.1111/j.1464-410X.2012.](https://doi.org/10.1111/j.1464-410X.2012.11084.x)
+
+[11084.x](https://doi.org/10.1111/j.1464-410X.2012.11084.x)
+
+19. O’Kane HF, Pahuja A, Ho KJ, Thwaini A, Nambirajan T, Keane P Outcome of
+glansectomy and skin grafting in the management of penile cancer. Adv Urol
+[2011;2011:240824. https://doi.org/10.1155/2011/240824.](https://doi.org/10.1155/2011/240824)
+20. Palminteri E, Fusco F, Berdondini E, Salonia A. Aesthetic neo-glans reconstruction
+after penis-sparing surgery for benign, premalignant or malignant penile lesions.
+[Arab J Urol. 2011;9:115–20. https://doi.org/10.1016/j.aju.2011.06.013](https://doi.org/10.1016/j.aju.2011.06.013)
+21. Morelli G, Pagni R, Mariani C, Campo G, Menchini-Fabris F, Minervini R, et al.
+Glansectomy with split-thickness skin graft for the treatment of penile carcinoma.
+[Int J Impot Res. 2009;21:311–4. https://doi.org/10.1038/ijir.2009.17](https://doi.org/10.1038/ijir.2009.17)
+22. Gulino G, Sasso F, Falabella R, Bassi PF. Distal urethral reconstruction of the glans
+for penile carcinoma: results of a novel technique at 1-year of followup. J Urol.
+[2007;178:941–4. https://doi.org/10.1016/j.juro.2007.05.059](https://doi.org/10.1016/j.juro.2007.05.059)
+23. Rosen RC, Riley A, Wagner G, Osterloh IH, Kirkpatrick J, Mishra A. The international
+index of erectile function (IIEF): a multidimensional scale for assessment of
+[erectile dysfunction. Urology. 1997;49:822–30. https://doi.org/10.1016/S0090-](https://doi.org/10.1016/S0090-4295(97)00238-0)
+[4295(97)00238-0](https://doi.org/10.1016/S0090-4295(97)00238-0)
+24. Keller A, McGarvey EL, Clayton AH. Reliability and construct validity of the
+changes in sexual functioning questionnaire short-form (CSFQ-14). J Sex Marital
+[Ther. 2006;32:43–52. https://doi.org/10.1080/00926230500232909](https://doi.org/10.1080/00926230500232909)
+25. Groenvold M, Klee MC, Sprangers MAG, Aaronson NK. Validation of the EORTC
+QLQ-C30 quality of life questionnaire through combined qualitative and quantitative assessment of patient-observer agreement. J Clin Epidemiol.
+[1997;50:441–50. https://doi.org/10.1016/S0895-4356(96)00428-3](https://doi.org/10.1016/S0895-4356(96)00428-3)
+26. Janssen MF, Szende A, Cabases J, Ramos-Goñi JM, Vilagut G, König HH. Population norms for the EQ-5D-3L: a cross-country analysis of population surveys for 20
+[countries. Eur J Health Econ. 2019;20:205–16. https://doi.org/10.1007/S10198-](https://doi.org/10.1007/S10198-018-0955-5)
+
+[018-0955-5](https://doi.org/10.1007/S10198-018-0955-5)
+
+27. Avery K, Donovan J, Peters TJ, Shaw C, Gotoh M, Abrams P. ICIQ: a brief and
+robust measure for evaluating the symptoms and impact of urinary incontinence.
+[Neurourol Urodyn. 2004;23:322–30. https://doi.org/10.1002/NAU.20041](https://doi.org/10.1002/NAU.20041)
+28. Donovan JL, Peters TJ, Abrams P, Brookes ST, de aa Rosette JJ, Schäfer W. Scoring
+the short form ICSmaleSF questionnaire. International continence society. J Urol.
+
+2000;164:1948–55.
+29. Shaw JW, Reardon G, Sandor DW, Rosen RC, Ferguson DM. Validation of stopwatch measurements of erection duration against responses to the sexual
+encounter profile and international index of erectile function in patients treated
+[with a phosphodiesterase type 5 inhibitor. J Sex Med. 2010;7:1147–59. https://](https://doi.org/10.1111/J.1743-6109.2009.01643.X)
+[doi.org/10.1111/J.1743-6109.2009.01643.X](https://doi.org/10.1111/J.1743-6109.2009.01643.X)
+30. Barry MJ, Fowler FJ, O’Leary MP, Bruskewitz RC, Holtgrewe HL, Mebust WK, et al.
+The American Urological Association symptom index for benign prostatic
+hyperplasia. The measurement committee of the American Urological Associa[tion. J Urol. 1992;148:1549–57. https://doi.org/10.1016/S0022-5347(17)36966-5](https://doi.org/10.1016/S0022-5347(17)36966-5)
+31. Bigelow DA, Young DJ. Effectiveness of a case management program. Commu[nity Ment Health J. 1991;27:115–23. https://doi.org/10.1007/BF00752814](https://doi.org/10.1007/BF00752814)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

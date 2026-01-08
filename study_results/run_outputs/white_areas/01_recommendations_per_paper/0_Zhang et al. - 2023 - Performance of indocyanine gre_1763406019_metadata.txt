@@ -1,0 +1,42 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=227 candidates_tokens_details=None prompt_token_count=11735 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=9671), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=2064)] thoughts_token_count=2209 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=14171 traffic_type=None
+
+
+**Extracted Treatment Recommendations for Penile Cancer**
+
+Okay, here's what I've got, based on this paper about ICG in penile cancer. Remember, the paper itself is about how well this imaging technique *works*, not a full treatment guide. So, the recommendations are going to be pretty focused. I've pulled out the two most relevant parts:
+
+| Aspect of Care              | Recommendation                                                                                                                                                                                                                                                                  |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lymph Node Management / Staging | Sentinel Lymph Node (SLN) biopsy is included in the European Association of Urology (EAU) guidelines as a treatment option for penile cancer. It is presented as an alternative to inguinal lymphadenectomy (ILND) and is used to determine if ILND is necessary.   |
+| Diagnosis / Lymph Node Management     | Indocyanine green (ICG) imaging for SLN detection in penile cancer cannot be recommended as a standard test in daily clinical practice at this time. The reason is the low specificity and the need for more high-quality studies. ICG can help locate SLN tissue.     |
+
+**Important Points:**
+
+*   This paper *doesn't* get into specific stages, grades, or detailed clinical scenarios. It's a meta-analysis, not a guideline.
+*   The SLN biopsy recommendation comes from an *external* guideline (the EAU). The paper itself is reporting this as a fact.
+*   The ICG recommendation is a *negative* recommendation - it says we need more research before using it routinely.
+*   I've tried to be precise in reporting what the paper actually *says*, which is different from drawing inferences about stages or clinical scenarios that aren't explicitly mentioned.
+
+
+
+**Extracted Treatment Recommendations for Penile Cancer**
+
+Okay, here's what I've got, based on this paper about ICG in penile cancer. Remember, the paper itself is about how well this imaging technique *works*, not a full treatment guide. So, the recommendations are going to be pretty focused. I've pulled out the two most relevant parts:
+
+| Aspect of Care              | Recommendation                                                                                                                                                                                                                                                                  |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lymph Node Management / Staging | Sentinel Lymph Node (SLN) biopsy is included in the European Association of Urology (EAU) guidelines as a treatment option for penile cancer. It is presented as an alternative to inguinal lymphadenectomy (ILND) and is used to determine if ILND is necessary.   |
+| Diagnosis / Lymph Node Management     | Indocyanine green (ICG) imaging for SLN detection in penile cancer cannot be recommended as a standard test in daily clinical practice at this time. The reason is the low specificity and the need for more high-quality studies. ICG can help locate SLN tissue.     |
+
+**Important Points:**
+
+*   This paper *doesn't* get into specific stages, grades, or detailed clinical scenarios. It's a meta-analysis, not a guideline.
+*   The SLN biopsy recommendation comes from an *external* guideline (the EAU). The paper itself is reporting this as a fact.
+*   The ICG recommendation is a *negative* recommendation - it says we need more research before using it routinely.
+*   I've tried to be precise in reporting what the paper actually *says*, which is different from drawing inferences about stages or clinical scenarios that aren't explicitly mentioned.
+ Based on the provided paper, here are the explicit treatment and diagnostic recommendations identified:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Lymph Node Management / Staging** | **Sentinel Lymph Node (SLN) Biopsy:** The paper notes that SLN biopsy is included in the guidelines of the European Association of Urology as a management option for penile cancer. It is positioned as an alternative to inguinal lymphadenectomy (ILND) and serves a critical role in determining whether performing an ILND is necessary. The context implies its use in patients with clinically non-palpable lymph nodes. |
+| **Diagnosis / Lymph Node Management** | **Indocyanine Green (ICG) Imaging:** The paper concludes that ICG imaging **cannot be recommended as a standard test** in daily clinical practice for sentinel lymph node (SLN) localization in penile cancer at this time. While ICG is effective for identifying SLN tissue, its very low specificity for determining the presence of tumor metastasis and the need for more high-quality studies limit its current application as a standard diagnostic procedure. |

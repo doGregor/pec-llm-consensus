@@ -1,0 +1,646 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ## **Review Article**
+# A Systematic Review of Published Clinical Trials in the Systemic Treatment of Adrenocortical Carcinoma: An Initiative Led on Behalf of the Global Society of Rare Genitourinary Tumors
+### Tiago Costa de Padua, [1] Laura Marandino, [1] Daniele Raggi, [1] Julie Hallanger-Johnson, [2] Alexander Kutikov, [3] Philippe E. Spiess, [4] Andrea Necchi [1][,][5]
+##### **Abstract**
+
+Adrenocortical carcinoma (ACC) is a very rare endocrine cancer and is associated with a poor prognosis. There is a
+paucity of randomized clinical trials for this rare disease. We aimed to perform a systematic review of the literature on
+systemic therapy options in different stages of ACC. A systematic review was performed using Pubmed and Embase
+databases according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement.
+A total of 24 trials of systemic therapy in the treatment of ACC were identified and included in this review. Only one
+clinical trial in the adjuvant setting was identified, the negative phase III trial ADIUVO, which tested mitotane in low
+to intermediate-risk ACC patients. In the treatment of advanced ACC, cisplatin-based chemotherapy was evaluated in
+small and non-randomized phase II trials, and response rates ranged from 21% to 53.5%. The phase III trial FIRMACT compared etoposide, doxorubicin, cisplatin, and mitotane versus treatment with streptozotocin and mitotane and
+showed no difference in OS, but higher RR and PFS were reported with the multi-drug regimen. Six clinical trials of
+immunotherapy and seven studies of targeted therapy in advanced ACC were included, with modest activity and no
+phase 3 trials were identified. Treatment recommendations of ACC are based on retrospective and small studies with
+limited systemic therapy options. International and multi-center collaboration is essential to expand clinical research and
+improve outcomes.
+
+*Clinical* *Genitourinary* *Cancer,* Vol. 21, No. 1, 1–7 © 2022 Elsevier Inc. All rights reserved.
+**Keywords:** Systemic therapy, Adrenocortical carcinoma, Immunotherapy, Chemotherapy, Targeted therapy
+
+
+**Introduction**
+
+Adrenocortical carcinoma (ACC) is a very rare endocrine cancer
+of the adrenal cortex. According to the Surveillance Epidemiology and End Results analysis, the estimated incidence of ACC is
+approximately one case per million people per year. [1][,][2] Most cases
+are sporadic, but around 10% of patients are associated with hereditary syndromes, including Li-Fraumeni, multiple endocrine neoplasia, and Beckwith-Wiedemann. A study in southern Brazil revealed
+a 10 to 15 times higher incidence in the pediatric population, likely
+
+1 Department of Medical Oncology, IRCCS San Raffaele Hospital, Milan, MI, Italy
+2 Endocrine Oncology Program, H. Lee Moffitt Cancer Center, Tampa, FL
+3 Division of Urology and Urologic Oncology, Fox Chase Cancer Center, Philadelphia,
+PA
+4 Department of Genitourinary Oncology, H. Lee Moffitt Cancer Center, Tampa, FL
+5 Vita-Salute San Raffaele University, Milan, MI, Italy
+
+Submitted: Sep 14, 2022; Revised: Oct 12, 2022; Accepted: Oct 20, 2022; Epub: 23
+October 2022
+
+Address for correspondence: Tiago Costa de Padua, MD, MSc, Department of Medical
+Oncology, IRCCS San Raffaele Hospital, Via Olgettina, 60, 20132, Milano, Italy
+E-mail contact: [costadepadua.tiago@hsr.it](mailto:costadepadua.tiago@hsr.it)
+
+
+correlated to a *tumor* *protein* *53* ( *TP53* ) germline mutation in this
+specific population. [3]
+
+Despite its rarity, ACC is associated with a poor prognosis,
+and 20% to 50% of the patients are diagnosed with advanced or
+metastatic disease, with overall survival (OS) of less than one year. [4][,][5]
+
+Treatment recommendations are mainly based on expert consensus
+and retrospective studies, with few randomized clinical trials for this
+rare disease. In this systematic review, we summarize the systemic
+therapy options in different stages of ACC.
+
+**Material** **and** **Methods**
+
+A systematic review was performed in July 2022 using Pubmed
+and Embase databases according to the Preferred Reporting Items
+for Systematic Reviews and Meta-Analyses (PRISMA) statement. [6]
+
+The following terms combined with Boolean operators (AND, OR,
+NOT) were used: adrenocortical carcinoma, ACC, and adrenal
+cortex carcinoma. The following filters were used: clinical trials
+and human studies. Search results were restricted to the English
+language. PRISMA flow diagram in Figure 1.
+
+
+1558-7673/$ - see front matter © 2022 Elsevier Inc. All rights reserved.
+#### https://doi.org/10.1016/j.clgc.2022.10.011 Clinical Genitourinary Cancer February 2023 1
+
+**Figure** **1** **Preferred** **Reporting** **Items** **for** **Systematic** **Review** **and** **Meta-Analysis** **(PRISMA)** **flow** **diagram** **for** **study** **screening** **and**
+**selection.**
+
+
+***Eligibility*** ***Criteria***
+
+All prospective clinical trials, either comparative or noncomparative, of systemic therapy in the treatment of ACC in
+adults were included. We excluded observational studies, guidelines, case reports, meta-analyses, editorials, reviews, and articles not
+published in English. The outcomes of interest were overall response
+rate (ORR), duration of response (DOR), progression-free survival
+(PFS), OS, toxicity profile, and analysis of QoL.
+
+***Data*** ***Extraction***
+
+After removing duplicates, 2 independent reviewers selected
+the articles and extracted the necessary information, including
+#### 2 Clinical Genitourinary Cancer February 2023
+
+
+name, year, sample size, drugs, sex, age, oncologic outcomes, and
+adverse events (AE) rates. When available, hazard ratios (HRs) and
+95% confidence intervals (CIs) associated with PFS and OS were
+collected.
+
+**Results**
+
+A total of 24 trials of systemic therapy in the treatment of ACC
+were identified and included in this review, including 1 clinical trial
+in the adjuvant setting, [7] 10 trials of chemotherapy in advanced
+disease, [8-17] 6 clinical trials of immunotherapy in advanced ACC [18-23]
+
+and seven studies of targeted therapy in advanced ACC. [24-30]
+
+***Adjuvant*** ***Trials***
+
+Mitotane is an adrenolytic drug, a derivative of the insecticide dichlorodiphenyltrichloroethane (DDT), with a mechanism
+of action not well characterized resulting in a strong inhibition of
+steroidogenesis. The recommendation for adjuvant use is based on
+retrospective studies with conflicting results. The strongest evidence
+stems from a multicenter, retrospective study published in 2007
+with 177 ACC patients who had undergone radical surgery with
+47 patients receiving post-resection mitotane. The recurrence-free
+survival (RFS) was significantly prolonged with the use of mitotane
+compared to an Italian and German cohort of patients treated with
+surgery alone. [31] A systematic review and meta-analysis included
+five retrospective studies and demonstrated that adjuvant mitotane
+significantly improved RFS (HR = 0.62; 95%CI, 0.42-0.94; *P* *<*
+.05) and OS (HR = 0.69; 95%CI, 0.55-0.88, *P* *<* .05), suggesting
+a potential benefit with this strategy. [32]
+
+The only randomized study identified was the phase III
+ADIUVO trial, which evaluated the efficacy of mitotane as adjuvant
+therapy in low to intermediate-risk ACC patients (stage I-III ACC,
+R0 surgery, and Ki-67 ≤ 10%). Results were recently presented,
+and adjuvant mitotane did not increase the RFS for this specific
+population. However, very few patients with Stage III disease
+were included, calling into question the applicability to this group
+of patients. Interestingly, patients in this trial exhibited a 5-year
+RFS of 75%, better than expected and historical controls. [7] An
+ongoing phase 3 trial is recruiting high-risk patients (stage III-IV)
+after surgery to receive mitotane with or without cisplatin-based
+chemotherapy with a primary endpoint of RFS and an estimated
+number of patients of 240 (NCT03583710).
+
+***Advanced*** ***Disease-*** ***Chemotherapy*** ***Trials***
+
+A total of 11 clinical trials testing chemotherapy in the treatment
+of advanced or metastatic ACC were included; Table 1 summarizes the findings. Cisplatin-based chemotherapy was evaluated in
+small and non-randomized phase II trials, and ORRs ranged from
+21% with docetaxel plus cisplatin to 53.5% with a four-drug
+regimen (Cisplatin + etoposide + doxorubicin + mitotane). Just
+one randomized phase 3 trial was identified. The phase III FIRMACT trial compared etoposide, doxorubicin, cisplatin, and mitotane
+versus treatment with streptozotocin and mitotane in the treatment
+of 304 patients with metastatic ACC. There was no difference in
+OS, likely due to the crossover design of the study, but higher ORR
+(23 vs. 9%) and PFS were reported with the multi-drug regimen.
+Rates of serious adverse events were similar in the two arms. [15]
+
+Studies evaluating second-line chemotherapy have shown limited
+efficacy, including streptozotocin or the combination of gemcitabine
+plus capecitabine/ 5-FU, with or without mitotane. [13] Cabazitaxel
+was assessed in a single-institution, nonrandomized phase 2 study
+as second or third-line therapy, after progression to cisplatin-based
+chemotherapy plus mitotane. There was no confirmed response
+among 25 enrolled patients, presenting a DCR after 4 months of
+24%, PFS 1.5m, OS 6m. [16]
+
+***Immunotherapy*** ***Trials***
+
+Immune checkpoint inhibitors (anti-PD1/PDL1) have been
+tested in the treatment of metastatic ACC with notably long
+#### ***Tiago Costa de Padua et al***
+
+term disease control in a small subset of patients (Table 2).
+Pembrolizumab was evaluated in a small study with 39 patients
+with advanced ACC and led to an ORR of 23% and a DCR of
+
+52%. MSI-H/MMR-D was detected in 6 patients (16%), of whom
+2 had a partial response. [21] The CA209-538 trial, a prospective
+multicenter clinical trial, assessed the efficacy of Nivolumab plus
+ipilimumab in patients with advanced rare cancers and included 6
+cases of advanced ACC. The disease control rate for this population was 66%, and microsatellite instability was identified in the 2
+patients with confirmed responses. [22] Nivolumab was also tested in a
+phase 2 trial with only 10 patients, but the results showed minimal
+efficacy as monotherapy. [19] The phase 1b JAVELIN trial, testing
+avelumab in solid tumors refractory to conventional treatments,
+included a cohort of 50 ACC patients after failure to platinum-based
+chemotherapy. In this pretreated population, the RR was only 6%,
+and DCR was 42%. [18]
+
+***Targeted*** ***Therapy***
+
+Several trials have evaluated the use of targeted therapy in the
+treatment of unselected patients with advanced ACC (Table 3).
+However, the initial results are disappointing, and no drugs have
+been approved by regulatory agencies since the approval of mitotane.
+Cixutumumab, an anti-IGF1R antibody, and linsitinib, an oral
+TKI targeting IGF1R and insulin receptor, showed limited efficacy
+in clinical trials, with a very low DCR and without survival
+improvement. [29][,][30] VEGF targeted therapy, including sunitinib, and
+dovitinib has also been tested as systemic therapy for advanced ACC;
+however, without activity. [25][,][28] One particularly important discovery in the sunitinib trial was that mitotane in combination with
+sunitinib showed a diminished response, most likely due to the
+cytochrome P450/3A4 induction by mitotane. [25]
+
+**Discussion**
+
+Here, we provide a comprehensive review of the systemic therapy
+options for the management of adrenocortical carcinoma based on
+available scientific evidence and published clinical trials. We found
+several phase I and II clinical trials with different strategies, but
+only 1 randomized phase III clinical in the adjuvant setting and
+2 phase III trials in the management of advanced/ metastatic ACC
+with published results. Performing clinical trials in ACC has been
+a challenge in the last decades due to patient scarcity and limited
+treatment options, as illustrated by the low number of clinical trials
+and enrolled patients.
+The standard of care for suspected localized ACC is upfront open
+adrenalectomy and loco-regional lymphadenectomy with negative
+margins. An important aspect is to avoid rupture of the tumor
+capsule and en bloc resection of macroscopically invaded adjacent
+organs should be considered to achieve R0 resection. Retrospective studies have suggested that laparoscopy adrenalectomy (LA)
+is associated with a higher risk of local recurrence and peritoneal
+spread. Guidelines from ESES/ENSAT consider LA as an alternative approach only for suspected ACC with a diameter of less than
+6cm, without lymph node involvement or local invasion. Patients
+should be referred to high-volume centers and managed with a
+multi-disciplinary approach. [33]
+#### Clinical Genitourinary Cancer February 2023 3
+
+**Table** **1** **Chemotherapy** **Trials** **for** **Advanced** **Disease**
+
+
+
+
+
+
+
+
+
+
+
+
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Author DeckerRA|Year 1991 1998 2000 2002 2005|Phase II|Treatment MitotaneorDoxorubicin|N 52 18 45 12 72|Line 1Lor2L(after|FU NR|RR 22%/19%|DCR NR|PFS/TTP NR|
+|BonacciA WilliamsonSK||II II|Cisplatin Etoposide + + mitotane Cisplatin Etoposide +||progressionto mitotane) 2L(after progression mitotane) 1Lor2L(after|NR NR|33% 11%|NR NR|NR NR|
+|BaudinE BerrutiA||prospective II|followedbymitotane Irinotecan Etoposide Doxorubicin +||progressionto mitotane) 2Lorlater 1L|NR NR|0 48.6%|25% NR|NR 9.1|
+|SperoneP|2010|II|Cisplatin mitotane + + Gemcitabineplus metronomic5-fluorouracil orcapecitabine mitotane +|28|2Lor3L|NR|7% 46.3% 5.3|||
+|BerrutiA FassnachtM|2012 2012|II III|Paclitaxel sorafenib + Mitotane Etoposide + + Doxorubicin Cisplatinvs + Mitotane streptozotocin +|25 304|2Lor3L 1L|NR NR|prematureinterruptionofthetrial 23.2%vs. 58.3%vs 5.0vs.2.1HR 9.2% 31.4% 0.55;95%CI, P 0.001 0.43to0.69 < P 0.001 <|||
+|LaganaM UrupT&|2022 2013|II II|Cabazitaxel Docetaxel Cisplatin +|25 19|2L,afterCT 1L|NR NR|0% 21%|36% 53%|1.5(0.3-7) 3|
+
+
+CI= confidence interval; CT= chemotherapy; DCR= disease control rate; FU= follow-up; HR= hazard ratio; N= number; NR= not reported; PFS= progression-free survival; RR= response rate
+
+**Table** **2** **Immunotherapy** **Trials**
+
+|Author|Year|Phase|Treatment|N|Line|Follow-up|RR|DCR|PFS|
+|---|---|---|---|---|---|---|---|---|---|
+|||||||||||
+|LeTorneauC CarneiroBA|2018 2019|1b II|Avelumab Nivolumab|50 10|2L 2Lorlater|16.5 4.5|6% 10%|48% 30%|2.6(95%CI,1.4to4.0) 1.8|
+|HabraMA RajN|2019 2020|II II|Pembrolizumab Pembrolizumab|16 39|2L anyline|NR 17.8m|14% 23%|64% 52%|NR 2.1(95%CI,2.0to10.7)|
+|KleinO BaudinE|2020 2022|II I/II|Nivolumab Ipilimumab + EO2401(EO) Nivolumab +|6 33|anyline 1Lor2L|14.7 NR|33% 12|66% 36|NR 1.9(0.4-7.6 ) +|
+
+
+
+CI= confidence interval; DCR= disease control rate; N= number; NR= not reported; PFS= progression-free survival; RR= response rate
+
+**Table** **3** **Targeted** **Trials** **for** **Advanced** **Disease**
+
+
+
+
+
+
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|Author|Year|Phase|Treatment|N|Line|FU|RR|DCR|PFS|
+|SmithDC KroissM|2020 2012|I II|NevanimibeHCl Sunitinib|63 38|2L 2L|NR 15.4|0 0|27% 17%|NR 2.8(95%CI80-85d)|
+|HaluskaP FassnachtM García-DonasJ|2010 2015 2014|I III II|Figitumumab Linsitinib(OSI-906)vs placebo Dovitinib|14 139 17|2L 2Lorlater 1L|NR NR 5.2|0 3.3%vs0 0|57% 32.2%vs 34.7% 35|NR 1.46vs.1.53(HR0.83, 95%CI0.56to1.21; P .30) = 1.8(95%CI,|
+|LerarioAM NaingA|2014 2013|II I|Cixutumumaband Mitotane Cixutumumaband|20 26|1L 2Lorlater|NR NR|5 NR|40 42%|1,35-2,25) 1.5 NR|
+||||Temsirolimus|||||||
+
+
+CI = confidence interval; CT= chemotherapy; DCR= disease control rate; FU= follow-up; HR= hazard ratio; N= number; NR= not reported; PFS= progression-free survival; RR= response rate
+#### 4 Clinical Genitourinary Cancer February 2023
+
+Adjuvant treatment with mitotane monotherapy is recommended
+by guidelines only for high-risk patients after surgery (stage III
+disease, R1 resection, or Ki-67 *>* 10%). [34] This recommendation is
+based on previous retrospective studies, suggesting a possible benefit
+in recurrence-free survival. The only randomized phase 3 trial in
+this setting assessed adjuvant mitotane in low to intermediate-risk
+ACC patients (stage I-III ACC, R0 surgery, and Ki-67 ≤ 10%)
+and failed to show benefit of this strategy. Based on these results
+and the relatively good prognosis of these subgroups of patients,
+adjuvant mitotane should not be used routinely. When indicated,
+mitotane blood monitoring is recommended, and the treatment
+duration should be of at least 2 years but not more than 5 years. [35]
+
+The consensus panel from ENSAT suggests considering adjuvant
+radiotherapy in patients with R1 resection or stage III disease as
+individualized basis therapy. [36] If indicated, it should be offered in
+addition to mitotane. This recommendation is based on small retro
+spective studies without a clear benefit of this approach. There
+is no evidence of adjuvant cytotoxic chemotherapy as adjuvant
+therapy.
+In this review, no clinical trials in neoadjuvant setting were identified. This strategy is not recommended by guidelines unless in
+the context of clinical trials. A small single-center series reported
+outcomes of 53 patients with ACC candidates for surgery, of
+whom 15 were considered borderline resectable and treated with
+
+neoadjuvant therapy (mitotane monotherapy or combined with
+cytotoxic chemotherapy). The response rate was 38.5 %, and other
+7 patients achieved stable disease. The median DFS for the patients
+treated with neoadjuvant followed by surgery was 28.0 months,
+suggesting a possible benefit of this strategy. [37] Cases of locally
+advanced disease should be discussed in multidisciplinary tumor
+boards, and neoadjuvant treatment can be considered if cytoreduction is needed for surgery. However, this indication is based
+on a very weak level of evidence, and prospective studies are
+required.
+Unresectable or metastatic ACC is associated with a very poor
+prognosis. Systemic therapies are scarce, with small benefits and
+high toxicity incidence. The scientific evidence consists mainly of
+retrospective studies and small non-randomized trials. Mitotane is
+the only approved drug by FDA and EMA and can be recommended either alone or in combination with cytotoxic chemotherapy. According to guidelines, mitotane monotherapy is recommended for patients with a low volume of disease and a limited
+number of metastatic sites or patients with later recurrence after
+surgery. [35][,][36] Available evidence reports low response rates but a
+benefit in controlling hormonal secretion.
+Mitotane should be combined with cytotoxic cisplatin-based
+chemotherapy in patients with extensive and rapidly progressive
+disease. Pre-clinical data suggest synergism of this combination, as
+mitotane increases the cytotoxic activity of chemotherapy agents in
+vitro, through action possibly as an antagonist of the multidrug
+resistance (MDR) protein. The phase III FIRM-ACT trial established the combination of cisplatin, etoposide, doxorubicin, and
+mitotane as the preferred option for first-line treatment.
+The control of excess hormone secretion is an important consideration. Debulking surgery and metastasectomy can be considered
+for selected patients after multidisciplinary discussion, especially for
+
+#### ***Tiago Costa de Padua et al***
+
+patients with *>* 90% removable disease and functional tumors. [33]
+
+Ablative treatment with SBRT, thermal ablative therapies, or liverdirected therapy should be indicated case-by-case as part of an
+individualized strategy. Consolidative surgery with resection of
+residual disease should also be considered in selected patients with a
+deep and sustained response after systemic therapy. This recommendation is based on previous reports that showed favorable long-term
+tumor control and survival with this strategy. [12]
+
+Recently, several phase I and II trials have tested targeted therapy
+immune checkpoint inhibitors (ICIs) as a treatment alternative for
+advanced ACC, but with disappointing results and limited efficacy.
+Based on available phase II results, pembrolizumab is indicated as
+a treatment option in consensus and NCCN guidelines. Interestingly, evidence from previous studies suggests that glucocorticoidproducing tumors might be less responsive to ICI compared to
+non-functioning tumors, probably related to immune suppression induced by cortisol. [20] Combination strategies to enhance
+the antitumor effects of ICI should be further explored, including the role of association with mitotane. Ongoing trials are
+evaluating the combination of immunotherapy and anti-VEGF
+targeted therapy. The phase II trial ACCOMPLISH is assessing
+the efficacy of Pembrolizumab Plus Lenvatinib (NCT05036434)
+in Korean patients, and the Spanish phase II trial CABATEN is
+testing cabozantinib plus atezolizumab in the treatment of advanced
+endocrine tumors, including ACC (NCT04400474).
+Recently, molecular profiling of ACC tumors has identified
+potential targets for precision medicine. An integrative and extensive molecular analysis of 45 ACCs, identified alterations in known
+driver genes, including TNNB1, TP53, CDKN2A, RB1, MEN1,
+ZNRF3, DAXX, TERT, and MED12. The findings were validated
+in an independent cohort of 77 ACCs, from centers participants of
+ENSAT. [38] The molecular landscape was further characterized by the
+TCGA study, analyzing 91 ACC cases. Alterations in p53 apoptosis/Rb1 cell cycle and/ or Wnt/b-catenin pathway were found in
+more than 40% of cases. At least 1 potential driver gene alteration
+was identified in 69% of tumors, with potentially actionable alterations. [39] Blood-based next-generation sequencing (NGS) in 120
+patients with ACC, detected at least 1 somatic alteration in 80%
+of the patients, including TP53 (52%), EGFR (23%), CTNNB1
+(18%), MET (18%), and ATM (14%). Notably, actionable alterations were observed in 56 patients (47%), including EGFR, BRAF,
+ATM, and MET. [40]
+
+Despite the increased use of genomic profiling (GP) as a tool
+for prognostic information and as a guide for precision medicine,
+the scientific evidence of genetic-driven therapy efficacy is very
+limited in the treatment of advanced ACC, with just series and case
+reports. Ongoing umbrella trials are testing targeted therapy guided
+by genetic testing (NCI-MATCH) in different tumor types, and
+may help to define the role of precision medicine in rare tumors.
+Meanwhile, guidelines from the European Society of Endocrinology Clinical recommend GP tests only in the context of research. [36]
+
+NCCN guidelines recommend genetic counseling, testing for inherited genetic syndromes (germline), and considering tumor MSI,
+MMR, and TMB testing using an FDA-approved test. [35]
+
+Considering the rarity of this disease, therapies with tumoragnostic indications should be considered an attractive option
+#### Clinical Genitourinary Cancer February 2023 5
+
+**Table** **4** **Genomic** **Alterations** **With** **Agnostic** **Approved** **Drugs**
+
+|GenomicAlteration|Treatment|
+|---|---|
+|||
+|MSI-HordMMR TMB-H; 10mutations/megabase ≥|Pembrolizumab:FDA-approved Pembrolizumab:FDA-approved|
+|NTRKgenefusion BRAFmutation|Larotrectinibandentrectinib:approvedbyEMAandFDA Dabrafenibplustrametinib:FDAagnosticapprovalfortumorsharboringBRAFV600E|
+
+
+
+dMMR = mismatch repair deficient; EMA: European Medicines Agency; FDA= Food and Drug Administration; MSI-H = Microsatellite instability-high; TMB= tumor mutational burden
+
+
+for the treatment of advanced or metastatic ACC (Table 4). In
+2018, Pembrolizumab received FDA approval as tumor-agnostic
+therapy for microsatellite instability-high (MSI-H) or mismatch
+repair deficient (dMMR) solid tumors after progression to standard
+treatments. Subsequently, the drug was also approved for solid
+tumors with tumor mutational burden-high (TMB-H; ≥ 10
+mutations/megabase), as determined by an FDA-approved test. [41]
+
+In USA and Europe, larotrectinib and entrectinib are approved
+for treating adult and pediatric patients with solid tumors with
+a neurotrophic receptor tyrosine receptor kinase (NTRK) gene
+fusion. [42] Moreover, the combination of dabrafenib plus trametinib recently received granted accelerated approval by the FDA for
+the treatment of unresectable or metastatic solid tumors harboring
+BRAF V600E mutation and refractory to conventional therapy. [43]
+
+NGS testing should be performed when available for the use of
+agnostic-approved drugs.
+Finally, multicenter and international collaboration is essential for
+trial recruitment and homogenizing ACC care. The Global Society
+for Rare Genitourinary Tumors (GSRGT) is a society dedicated
+to education and research for rare tumors, with a very active
+group focused on the management of adrenal tumors. A website
+[(https://www.adrenalmass.org/)](https://www.adrenalmass.org/) gathers all the evidence available
+and makes it immediately useful to physicians and patients. [44] The
+European Network for the Study of Adrenal Tumors (ENS@T)
+and the American-Australasian-Asian Adrenal Alliance (A5) are
+other consortiums studying this disease, as collaboration to improve
+outcomes of patients with this rare tumor is critical.
+
+**Conclusions**
+
+ACC is a rare disease but is associated with a poor prognosis.
+Treatment recommendations are based on retrospective and small
+studies with limited systemic therapy options. A multidisciplinary
+approach is fundamental and genetic evaluation is recommended for
+all patients. International and multi-center collaboration is essential to improve outcomes. Genomic-driven treatment is a promising
+strategy and NGS should be performed when available.
+
+**Author** **Contributions**
+
+Tiago C. Padua had full access to all the data in the study and
+takes responsibility for the integrity of the data and the accuracy of
+the data analysis.
+TCP, PS, AN: Conception; Data collection; Interpretation of
+data.
+
+All Authors: Writing the article; Review & Editing the final
+version of the manuscript.
+#### 6 Clinical Genitourinary Cancer February 2023
+
+
+**Disclosure**
+
+Andrea Necchi: Honoraria: Roche, MSD, AstraZeneca, Janssen,
+Foundation Medicine, Astellas; Consulting or Advisory role: MSD,
+Roche, Bayer, AstraZeneca, Clovis Oncology, Janssen, Incyte,
+Seattle Genetics/Astellas, Bristol-Myers Squibb, Rainier Therapeutics, Bycicle Therapeutics, Basilea Pharmaceutica; Research Funding
+(Institution): MSD, AstraZeneca, Gilead, Bristol-Myers Squibb;
+Travel, Accommodations, Expenses: Roche, MSD, AstraZeneca,
+Janssen; Employment and Stock Ownership (spouse): Bayer:
+Academic appointments: Vice-president of the Global Society of
+Rare GU Tumors (GSRGT), ASCO 2022 Annual Meeting Faculty,
+ESMO 2023 Annual Meeting Planning Committee – GU Kidney
+and Bladder cancers track, ESMO Faculty – Genitourinary tumorsNon prostate, 2021-2025, Panel member of the ASCO/EAU penile
+cancer guidelines committee, Board member – EAU Research
+Foundation (EAU-RF).
+Philippe E. Spiess: President of the Global Society of Rare
+Genitourinary Tumors (non-financially incentivized).
+Julie Hallanger-Johnson: consultant for HRA Pharma (mitotane).
+All remaining authors state that they have no conflict of interest
+that might bias this work.
+
+**Acknowledgments**
+
+Tiago C. Padua is supported by the European Society for Medical
+Oncology (ESMO) Fellowship.
+This research did not receive any specific grant from funding
+agencies in the public, commercial, or not-for-profit sectors.
+
+**References**
+
+1. Sharma E, Dahal S, Sharma P, et al. The characteristics and trends in adrenocortical carcinoma: a united states [population](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0001) based study. *J* *Clin* *Med* *Res* .
+2018;10:636–640.
+2. Bilimoria KY, Shen WT, Elaraj D, et al. Adrenocortical carcinoma in the United
+States: treatment utilization and prognostic factors. *Cancer* . 2008;113:3130–3136.
+3. Ribeiro RC, Sandrini F, Figueiredo B, et al. An inherited p53 mutation that
+contributes in a tissue-specific manner to [pediatric](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0003) adrenal cortical carcinoma. *Proc*
+*Natl* *Acad* *Sci* *U* *S* *A.* ; 2001:9330–9335.
+4. Else T, Kim AC, Sabolch A, et al. Adrenocortical carcinoma. *Endocr* *Rev* .
+2014;35:282–326.
+5. Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer statistics, 2022. *CA:* *Cancer* *J*
+*Clin* . 2022;72:7–33.
+6. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an
+updated guideline for reporting systematic reviews. *BMJ* . 2021;372:n71.
+7. Berruti A, Fassnacht M, Libè R, et al. First randomized trial on adjuvant
+mitotane in adrenocortical carcinoma [patients:](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0007) The Adjuvo study. *J* *Clin* *Oncol* .
+2022;40(6_suppl):1 –1.
+8. Decker RA, Elson P, Hogan TF, et al. Eastern cooperative oncology group study
+1879: mitotane and adriamycin in patients with advanced adrenocortical carcinoma. *Surgery* . 1991;110:1006–1013.
+9. Berruti A, Terzolo M, Pia A, Angeli A, Dogliotti L. Mitotane associated with
+etoposide, doxorubicin, and cisplatin in the treatment of advanced adrenocortical carcinoma. Italian Group for the Study of Adrenal Cancer. *Cancer* .
+1998;83:2194–2200.
+
+10. Williamson SK, Lew D, Miller GJ, Balcerzak SP, Baker LH, Crawford ED. Phase II
+evaluation of cisplatin and etoposide followed by mitotane at disease progression in
+patients with locally advanced or metastatic adrenocortical carcinoma: a Southwest
+oncology group study. *Cancer* . 2000;88:1159–1165.
+11. Baudin E, Docao C, Gicquel C, et al. Use of a topoisomerase I inhibitor
+(irinotecan, CPT-11) in [metastatic](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0011) adrenocortical carcinoma. *Ann* *Oncol* .
+2002;13:1806–1809.
+12. Berruti A, Terzolo M, Sperone P, Pia A, S della Casa, Gross DJ, et al. Etoposide, doxorubicin and cisplatin plus mitotane in the treatment of advanced
+adrenocortical carcinoma: a large prospective phase II trial. *Endocr* *Relat* *Cancer* .
+2005;12:657–666.
+13. Sperone P, Ferrero A, Daffara F, et al. Gemcitabine plus metronomic 5-fluorouracil
+or capecitabine as a [second-/third-line](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0013) chemotherapy in advanced adrenocortical
+carcinoma: a multicenter phase II study. *Endocr* *Relat* *Cancer* . 2010;17:445–453.
+14. Berruti A, Sperone P, Ferrero A, et al. Phase II study of weekly paclitaxel and
+sorafenib as second/third-line [therapy](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0014) in patients with adrenocortical carcinoma.
+*Eur* *J* *Endocrinol* . 2012;166:451–458.
+15. Fassnacht M, Terzolo M, Allolio B. Combination chemotherapy in advanced
+adrenocortical carcinoma. *New* *Eng* *J* *Med* . 2012;366:2189–2197.
+16. Laganà M, Grisanti S, Ambrosini R, et al. Phase II study of cabazitaxel as
+second-third line treatment in [patients](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0016) with metastatic adrenocortical carcinoma.
+*ESMO* *Open* . 2022;7.
+17. Urup T, Pawlak WZ, Petersen PM, Pappot H, Rørth M, Daugaard G. Treatment
+with docetaxel and cisplatin in [advanced](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0017) adrenocortical carcinoma, a phase II study.
+*British* *J* *Cancer* . 2013;108:1994–1997.
+18. le Tourneau C, Hoimes C, Zarwan C, et al. Avelumab in patients with previously
+treated metastatic adrenocortical [carcinoma:](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0018) phase 1b results from the JAVELIN
+solid tumor trial. *J* *Immunother* *Cancer* . 2018;6:111.
+19. Carneiro BA, Konda B, Costa RB, et al. Nivolumab in metastatic adrenocortical carcinoma: results of a [phase](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0019) II trial. *J* *Clin* *Endocrinol* *Metab* .
+2019;104:6193–6200.
+20. Habra MA, Stephen B, Campbell M, et al. Phase II clinical trial of pembrolizumab
+efficacy and safety in advanced [adrenocortical](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0020) carcinoma. *J* *Immunother* *Cancer* .
+2019;7:253.
+21. Raj N, Zheng Y, Kelly V, et al. PD-1 Blockade in advanced adrenocortical carcinoma. *J* *Clin* *Oncol* . 2020;38:71–80.
+22. Klein O, Senko C, Carlino MS, et al. Combination immunotherapy with ipilimumab and nivolumab in patients with advanced adrenocortical carcinoma: a
+subgroup analysis of CA209-538. *Oncoimmunology* . 2021;10.
+23. Baudin E, Jimenez C, Fassnacht M, et al. EO2401, a novel microbiome-derived
+therapeutic vaccine for patients with [adrenocortical](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0023) carcinoma (ACC): Preliminary
+results of the SPENCER study. *J* *Clin* *Oncol* . 2022;40(16_suppl):4596 –4596.
+24. Smith DC, Kroiss M, Kebebew E, et al. A phase 1 study of nevanimibe HCl, a
+novel adrenal-specific sterol [O-acyltransferase](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0024) 1 (SOAT1) inhibitor, in adrenocortical carcinoma. *Invest* *New* *Drugs* . 2020;38:1421–1429.
+25. Kroiss M, Quinkler M, Johanssen S, et al. Sunitinib in refractory adrenocortical carcinoma: a phase II, [single-arm,](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0025) open-label trial. *J* *Clin* *Endocrinol* *Metab* .
+2012;97:3495–3503.
+26. Haluska P, Worden F, Olmos D, et al. Safety, tolerability, and pharmacokinetics
+of the anti-IGF-1R monoclonal [antibody](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0026) figitumumab in patients with refractory
+adrenocortical carcinoma. *Cancer* *Chemother* *Pharmacol* . 2010;65:765–773.
+27. Fassnacht M, Berruti A, Baudin E, et al. Linsitinib (OSI-906) versus placebo
+for patients with locally advanced or metastatic adrenocortical carcinoma: a
+double-blind, randomised, phase 3 study. *Lancet* *Oncol* . 2015;16:426–435.
+
+#### ***Tiago Costa de Padua et al***
+
+28. García-Donas J, Hernando Polo S, Guix M, et al. Phase II study of dovitinib in
+first line metastatic or (non resectable [primary)](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0028) adrenocortical carcinoma (ACC):
+SOGUG study 2011-03. *J* *Cli* *Oncol* . 2014;32(15_suppl):4588 –4588.
+29. Lerario AM, Worden FP, Ramm CA, et al. The combination of insulin–
+like growth factor receptor 1 (IGF1R) antibody cixutumumab and mitotane
+as a first-line therapy for patients with recurrent/metastatic adrenocortical
+carcinoma: a multi-institutional NCI-sponsored trial. *Horm* *Cancer* . 2014;5:
+232–239.
+30. Naing A, Lorusso P, Fu S, et al. Insulin growth factor receptor (IGF-1R) antibody
+cixutumumab combined with the mTOR [inhibitor](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0030) temsirolimus in patients with
+metastatic adrenocortical carcinoma. *Br* *J* *Cancer* . 2013;108:826–830.
+31. Terzolo M, Angeli A, Fassnacht M, et al. Adjuvant mitotane treatment for adrenocortical carcinoma. *N* *Engl* *J* *Med* . 2007;356:2372–2380.
+32. Tang Y, Liu Z, Zou Z, Liang J, Lu Y, Zhu Y. Benefits of adjuvant mitotane
+after resection of adrenocortical carcinoma: a systematic review and meta-analysis. *Biomed* *Res* *Int* . 2018;2018.
+33. Gaujoux S, Mihai Rjoint working group of ESES and ENSAT. European Society
+of Endocrine Surgeons (ESES) and European Network for the Study of Adrenal
+Tumours (ENSAT) recommendations for the surgical management of adrenocortical carcinoma. *Br* *J* *Surg* . [2017;104:358–376](https://doi.org/10.1002/bjs.10414) PMID: 28199015. doi:10.1002/bjs.
+10414.
+34. Fassnacht M, Assie G, Baudin E, et al. Adrenocortical carcinomas and malignant phaeochromocytomas: [ESMO-EURACAN](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0034) Clinical Practice Guidelines for
+diagnosis, treatment and follow-up. *Ann* *Oncol* . 2020;31:1476–1490.
+35. Shah MH, Goldner WS, Benson AB, et al. Neuroendocrine and adrenal tumors,
+version 2.2021, NCCN clinical practice [guidelines](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0035) in oncology. *J* *Nat* *Comprehens*
+*Cancer* *Network* . 2021;19:839–868.
+36. Fassnacht M, Dekkers OM, Else T, et al. European society of endocrinology clinical practice guidelines on the management of adrenocortical carcinoma in adults,
+in collaboration with the European network for the study of adrenal tumors. *Euro*
+*J* *Endocrinol* . 2018;179:G1–46.
+37. Bednarski BK, Habra MA, Phan A, et al. Borderline resectable adrenal cortical carcinoma: a potential role for [preoperative](http://refhub.elsevier.com/S1558-7673(22)00218-X/sbref0037) chemotherapy. *World* *J* *Surg* .
+2014;38:1318–1327.
+38. Assié G, Letouzé E, Fassnacht M, et al. Integrated genomic characterization of
+adrenocortical carcinoma. *Nat* *Genet* . 2014;46:607–612.
+39. Zheng S, Cherniack AD, Dewal N, et al. Comprehensive pan-genomic characterization of adrenocortical carcinoma. *Cancer* *Cell* . 2016;29:723–736.
+40. Nazha B, Zhuang TZ, Dada HI, et al. Blood-based next-generation sequencing in
+adrenocortical carcinoma. *Oncologist* . 2022;27:462–468.
+41. KEYTRUDA Highlights of prescribing information. Accessed September
+30, 2022 from: [https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/125514s014lbl.pdf)
+125514s014lbl.pdf.
+42. LAROTRECTINIB Highlights of prescribing information. Accessed September, 30, 2022: [https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/211710s000lbl.pdf)
+211710s000lbl.pdf
+43. FDA grants accelerated approval to dabrafenib in combination with trametinib for
+unresectable or metastatic solid tumors with BRAF V600E mutation. Retrieved
+September, 30, 2022 from: https://www.fda.gov/drugs/resources-information[approved-drugs/fda-grants-accelerated-approval-dabrafenib-combination-](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-dabrafenib-combination-trametinib-unresectable-or-metastatic-solid)
+trametinib-unresectable-or-metastatic-solid
+44. Strother M, Hallanger Johnson J, Kutikov A. A point-of-care resource to improve
+care of patients with adrenal mass: www.AdrenalMass.org. *Eur* *Urol.* . 2022;81:434
+AprEpub 2022 Jan 14. PMID: 35034801. [doi:10.1016/j.eururo.2021.12.025.](https://doi.org/10.1016/j.eururo.2021.12.025)
+#### Clinical Genitourinary Cancer February 2023 7
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

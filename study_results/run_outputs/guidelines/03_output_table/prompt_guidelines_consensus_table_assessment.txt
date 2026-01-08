@@ -1,0 +1,23 @@
+# Task:
+You are given the following three components:
+* Guideline - a comprehensive clinical guideline on penile cancer treatment.
+* Treatment Recommendation - a proposed approach or method for treating penile cancer.
+* Extracted Stance - a previously determined stance that classifies the guideline's position toward the recommendation. This stance is one of the following: Recommended, Different Recommendation, or Not Addressed. As well as a concise justification.
+    
+Your task is to evaluate whether the extracted stance accurately reflects the guideline's position on the treatment recommendation. Is the extracted justification correct and supported by the given context or does it contain any errors?
+    
+    
+# Treatment Recommendation:
+RECOMMENDATION_TEXT
+    
+    
+# Extracted Stance
+GUIDELINE_SNIPPET
+    
+    
+# Guideline (context):
+GUIDELINE_TEXT
+
+
+# Formatting Instructions:
+Output in JSON format with keys: "error" (True/False) and "suggestion" (description on how to fix the error if error=True, otherwise empty if error=False)

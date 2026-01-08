@@ -1,0 +1,1205 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**Association between male circumcision and human papillomavirus infection in males and**
+
+**females: a systematic review, meta-analysis, and meta-regression**
+
+Samantha B. Shapiro [†], Cassandra Laurie [†], Mariam El-Zein, Eduardo L. Franco
+
+  - Joint first authors
+
+**Division of Cancer Epidemiology, McGill University, Montreal, Quebec** (S B Shapiro, MSc;
+
+C Laurie, MSc; M El-Zein, PhD; Prof E L Franco, DrPH)
+
+**Department of Epidemiology, Biostatistics and Occupational Health, McGill University,**
+
+**Montreal, Quebec** (S B Shapiro, MSc; Prof E L Franco, DrPH
+
+Correspondence to:
+
+Prof. Eduardo L Franco, Department of Oncology, McGill University, Montreal H4A 3T2, Canada
+
+**eduardo.franco@mcgill.ca**
+
+**NOTE: This preprint reports new research that has not been certified by peer review and should not be used to guide clinical practice.**
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**ABSTRACT**
+
+**Background:** Human papillomavirus (HPV) infection is a necessary cause of cervical cancer and
+
+is associated with anal, penile, vaginal, and vulvar cancers. Previous studies have suggested a
+
+protective effect of male circumcision (MC) on HPV infections in males, and that this protection
+
+may be conferred to their female sexual partners. We synthesized the available evidence on the
+
+association between MC and HPV infections in males and females.
+
+**Methods:** We performed a systematic review and meta-analysis of the effect of MC on the
+
+prevalence, incidence, and clearance of genital HPV infections in heterosexual males and their
+
+female sexual partners. We searched multiple databases for studies that assessed MC status and
+
+tested for the presence of genital HPV DNA. We used random-effects meta-analysis models to
+
+estimate summary measures of effect and 95% confidence intervals (CI) for the prevalence,
+
+incidence, and clearance of HPV infections in males and females. We assessed effect modification
+
+for prevalence in males using random-effects meta-regression.
+
+**Findings:** We included 32 publications encompassing 25 unique study populations. MC was
+
+associated with decreased odds of prevalent HPV infections (odds ratio 0·45, CI 0·34–0·61), a
+
+reduced rate of incident HPV infections (incidence rate ratio 0·69, CI 0·57–0·83), and an increased
+
+risk of clearing HPV infections (risk ratio 1·44, CI 1·28–1·61) at the glans penis. Effect
+
+modification by sampling site was observed for HPV prevalence in males, with greater protection
+
+conferred by MC at the glans than the shaft (OR 0·68, 95% CI 0·48–0·98). Females with
+
+circumcised sexual partners were at reduced risk for all outcomes.
+
+**Interpretation:** MC protects against various HPV infection outcomes, especially at the glans, and
+
+may be a viable prophylactic strategy in regions with a high burden of HPV-associated disease
+
+where the HPV vaccine is not commercially available. That the protective effect of MC on HPV
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+infection prevalence varies by penile site has important implications for epidemiologic studies of
+
+HPV transmission.
+
+**Funding:** Funded by grant FDN-143347 from the Canadian Institutes of Health Research.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**RESEARCH IN CONTE** **X** **T**
+
+**Evidence before this study:** Previous meta-analyses published in 2011, 2012, and 2017 have
+
+assessed the impact of MC on genital HPV infections in males, while systematic reviews published
+
+in 2017 and 2019 have described the impact of MC on women’s sexual health outcomes. All meta
+analyses of males found a protective effect of MC on HPV prevalence, with inconsistent evidence
+
+for the association between MC and HPV incidence and clearance. Systematic reviews in females
+
+found a protective effect of MC on HPV prevalence.
+
+**Added value of this study:** We identified an additional 12 publications (including one randomized
+
+controlled trial) that were not included in the most recently published systematic review and meta
+analysis. We found that in males, MC conferred protection against prevalent HPV infections at the
+
+glans and shaft of the penis, protected against the acquisition of HPV infections at the glans, and
+
+resulted in increased clearance of HPV infections at the glans and shaft. We also found that MC
+
+protected females against various HPV infection outcomes. We considered anatomical site in all
+
+analyses and explored effect modification using a meta-regression approach. Our meta-analysis
+
+also examined the impact of MC on various HPV infection outcomes in females. To our
+
+knowledge, the latter two types of analyses had not been done before.
+
+**Implications of all the available evidence:** Countries with a high burden of HPV-associated
+
+diseases, or where the HPV vaccine is not commercially available, may wish to consider male
+
+circumcision as a preventive strategy. Both males and their female sexual partners may benefit
+
+from MC for protection from HPV infections.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+1 **INTRODUCTION**
+
+2 Human papillomavirus (HPV) is the most common sexually transmitted infection worldwide. [1]
+
+3 Persistent infection with high-risk HPV types (hrHPV) is a necessary cause of cervical cancer and
+
+4 is associated with penile, anal, vaginal, vulvar, and head and neck cancers, [2-4] while infection with
+
+5 some low-risk HPV types (lrHPV) is associated with genital warts. [1]
+
+6 Male circumcision (MC) protects against a variety of sexually transmitted infections, including
+
+7 human immunodeficiency virus (HIV), herpes simplex type 2, trichomoniasis, chancroid, and
+
+8 syphilis. [5-7] Several randomized controlled trials (RCT) evaluating the association between MC and
+
+9 HIV acquisition have also included analyses of HPV as secondary endpoints. [8,9] Most observational
+
+10 studies of the relationship between MC and HPV infections in males have been cross-sectional in
+
+11 nature, and few have evaluated the risk of HPV infection in female partners of circumcised and
+
+12 uncircumcised males. Previous systematic reviews [10,11] and meta-analyses [12-14] found that MC
+
+13 protects against a variety of HPV infection outcomes in males and their female sexual partners.
+
+14 However, gaps in knowledge remain and multiple studies on the topic have been recently
+
+15 published, necessitating an update to the existing literature. In this systematic review, we
+
+16 synthesize the growing evidence suggestive of a protective relationship between MC and HPV
+
+17 infections in males, and the conferred protection to female sexual partners.
+
+18
+
+19 **METHODS**
+
+20 **Search strategy and selection criteria**
+
+21 We searched for studies that 1) included participants with no HPV-associated genital lesions, 2)
+
+22 tested for the presence of HPV DNA in genital epithelial cells, 3) assessed the male circumcision
+
+23 status, and 4) assessed the prevalence, incidence, and/or clearance of HPV infections. We included
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+24 both observational and experimental study designs but excluded case reports and case series. We
+
+25 included studies of both males and females of any age but excluded studies that focused solely on
+
+26 men who have sex with men and people living with HIV from the sample due to HIV’s direct
+
+27 effect on HPV infection risk due to immunosuppression and shared sexual transmission
+
+28 characteristics. [15,16] Multiple publications from the same study population were eligible for
+
+29 inclusion if they assessed distinct outcomes. We applied no country, date, or language restrictions.
+
+30 We searched the MEDLINE, Embase, Scopus, Cochrane, LILACS, and ProQuest Dissertations &
+
+31 Theses Global databases to identify relevant records published up to 22 June 2022. We also
+
+32 manually searched for potentially eligible studies from previous knowledge syntheses and
+
+33 conference abstracts. The search strategy for each database, developed with input from a university
+
+34 librarian, is included in Supplementary Table 1.
+
+35 After de-duplicating search results in EndNote, S.S. and C.L. independently screened the abstract
+
+36 of each record to determine relevancy. For papers deemed potentially relevant, we obtained and
+
+37 independently screened the record’s full text. Disagreements at both stages were resolved by
+
+38 consensus.
+
+39 **Data analysis**
+
+40 S.S. and C.L. performed data extraction using a standardized spreadsheet. Each author extracted
+
+41 data from half of the included records, which was subsequently verified by the alternate author.
+
+42 Extracted data included study characteristics (design, year(s), country(s) and their economic
+
+43 development as defined by the World Bank, [17] population description, number of visits if
+
+44 longitudinal), exposure and outcome methods (MC assessment method, genital sites sampled,
+
+45 frequency of genital sampling, sampling method, HPV DNA detection and genotyping method,
+
+46 HPV types detected and genotyped), study population results (sample size, sex, age at baseline,
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+47 HPV prevalence at baseline), and outcome-related data (outcome type, i.e., prevalence, incidence,
+
+48 clearance; HPV risk grouping; number of samples analyzed; number circumcised and
+
+49 uncircumcised; number of prevalent or incident or cleared infections; person-time at risk; effect
+
+50 estimate and 95% confidence interval (95% CI); and covariates adjusted for). Whenever possible,
+
+51 we extracted separate estimates for infection with any HPV type, hrHPV, and lrHPV, as well as
+
+52 separate estimates from samples of different sites of the penis: shaft and/or scrotum only (hereafter
+
+53 referred to as shaft), glans and/or urethra and/or foreskin only (hereafter referred to as glans), and
+
+54 from combinations of shaft sites and glans sites (hereafter referred to as combined site). We
+
+55 extracted the adjusted estimate when available and the crude estimate otherwise. If raw data were
+
+56 presented without effect estimates, we calculated the odds ratio and 95% CI using OpenEpi’s two
+
+57 by two table function. [18] If effect estimates used circumcised males as the reference category, we
+
+58 took the reciprocal of the estimate and its 95% CI. If relevant data or analyses were mentioned but
+
+59 not quantitatively reported, we contacted the study authors.
+
+60 We assessed the risk of bias in each study using customized versions of the Newcastle-Ottawa
+
+61 scale for cross-sectional and cohort studies and the Cochrane risk-of-bias tool for randomized
+
+62 trials. [19] Studies were deemed to have a low risk of bias if they were assigned a score of 7 or greater
+
+63 on the Newcastle-Ottawa scale or a score of low across at least 4 domains using the Cochrane risk
+64 of-bias tool.
+
+65 We extracted effect estimates for the relationship between MC and HPV infection prevalence,
+
+66 incidence, and clearance for multiple sexes (male and female), HPV risk groupings (any HPV,
+
+67 hrHPV, and lrHPV), and sampling sites (glans, shaft, and combined site). We used the *meta*
+
+68 command in Stata (version 17·0, StataCorp, College Station, Texas) to calculate pooled odds
+
+69 ratios, risk ratios, incidence rate ratios, hazard ratios, and their corresponding 95% CIs using a
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+70 restricted maximum likelihood model. We assessed study heterogeneity using the I [2] statistic. We
+
+71 used random effects models for analyses with an I [2] of greater than or equal to 25% and fixed effects
+
+72 models otherwise. For all analyses, we performed subgroup analyses by sampling site (glans-only
+
+73 vs. shaft-only or combined site) and HPV oncogenicity (hrHPV vs. lrHPV) to assess potential
+
+74 effect modification. We conducted univariate random-effects meta-regression of prevalence
+
+75 studies in males with clustering by study using the *metafor* package [20] in R (version 4.2.0, R Core
+
+76 Group, Vienna) to explore potential effect modification by study characteristics: year of
+
+77 publication, sites sampled, study country’s economic development, and whether the study
+
+78 controlled for confounding. For studies of prevalence that reported risk or prevalence ratios, we
+
+79 used the raw data to calculate an odds ratio so that the study could be included in the meta
+80 regression.
+
+81 We performed several sensitivity analyses to assess the robustness of our findings. We repeated
+
+82 our primary analyses of prevalence, incidence, and clearance in males including only studies
+
+83 judged to have a low risk of bias. We additionally repeated our analysis of prevalence in males
+
+84 stratifying by whether studies controlled for confounding, conducted leave-one-out analyses to
+
+85 assess the impact of any one study on the pooled estimate, [21] and assessed publication bias using a
+
+86 funnel plot and the Egger test. [22]
+
+87 This study protocol was registered in PROSPERO (registration number CRD42020211591).
+
+88 **Role of the funding source**
+
+89 The funder of the study had no role in study design, data collection, data analysis, data
+
+90 interpretation, or writing of the report.
+
+91
+
+92 **RESULTS**
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+93 We identified 1,409 potentially eligible records through systematic database searches and 10
+
+94 through manual searches, of which 624 remained after de-duplication (Figure 1). We excluded 520
+
+95 records after title and abstract screening, leaving 104 full-text records for assessment. We excluded
+
+96 18 records for reporting on the same study population as an included record, 25 records that studied
+
+97 participants with HPV-associated lesions, seven records for not sampling a genital site, seven
+
+98 records for missing exposure or outcome data, seven records for not having an outcome of interest,
+
+99 and eight records for failure to obtain needed data that were missing from the authors of the original
+
+100 studies (Supplementary Table 2). In total, we included 32 records in our systematic review and
+
+101 meta-analysis.
+
+102 Characteristics of these publications, [6,8,23-52] which were published between 2002 and 2022, are
+
+103 presented in Table 1. The 32 studies encompassed 25 unique study populations.
+
+104 Of these publications, 17 were cross-sectional studies, ten were cohort studies (of which two were
+
+105 analyzed cross-sectionally), and five were RCTs. Studies were conducted in North America
+
+106 (n=12), South America (n=3), Europe (n=4), Asia (n=1), Africa (n=8), and intercontinentally
+
+107 (n=4). MC status was either self-reported or reported by a partner (n=11), reported by a clinician
+
+108 (n=16), or randomized and verified by a clinician (n=5). All studies assessed the presence of HPV
+
+109 DNA by PCR, 23 of which genotyped for 20 or more HPV types. Samples were taken via swab
+
+110 (n=18), textured paper and swab (n=6), brush (n=5), and brush and swab (n=2). Samples in males
+
+111 were taken from multiple sites, including the urethra (n=5), foreskin (n=15), glans and/or corona
+
+112 (n=27), shaft (n=19), scrotum (n=15), and perianal area (n=4) whereas samples in females were
+
+113 taken from the cervix and vagina (n=5). The PCR primer sets used for HPV DNA typing were
+
+114 PGMY09/11 (n=13), MY09/11 (n=8), GP5+/6+ (n=4), SPF10 (n=3), CpI/CpIIG (n=1), and type
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+115 specific and assay-specific primers (n=3). HPV prevalence among all participants at baseline
+
+116 ranged from 8·7% to 69·8%.
+
+117 A total of 21 studies reported estimates for the association between MC and prevalent HPV
+
+118 infections in males (Supplementary Table 3). Sample sizes ranged from 37 to 3,969. MC was
+
+119 associated with significantly decreased odds of prevalent HPV infections at both the glans (OR
+
+120 0·45, 95% CI 0·34–0·61, I [2] =0·0%) and the shaft or combined sites (OR 0·66, 95% CI 0·50–0·87,
+
+121 I [2] =67·1%), with a stronger effect observed at the glans (Figure 2). MC was associated with a
+
+122 significantly decreased risk of prevalent HPV infections at the glans (RR 0·57, 95% CI 0·39–0·82,
+
+123 I [2] =82·2%), but not at the shaft or combined sites (RR 0·96, 95% CI 0·92–1·01, I [2] =0·0%). Findings
+
+124 were similar when stratifying by hrHPV and lrHPV types (Supplementary Figures 1 and 2).
+
+125 Nine studies examined the association between MC and HPV incidence in males (Supplementary
+
+126 Table 4), with sample sizes ranging from 210 to 4,033. A significant protective effect of MC was
+
+127 observed for the incidence rate (IRR 0·69, 95% CI 0·57–0·83, I [2] =0·0%) at the glans, but not for
+
+128 the hazard rate at the shaft or combined sites (HR 1·04, 95% CI 0·94–1·16, I [2] =0·0%) (Figure 3).
+
+129 Results were similar when stratifying by HPV oncogenicity (Supplementary Figures 3 and 4).
+
+130 Seven publications, with sample sizes of 285 to 4,033, examined the association between MC and
+
+131 HPV clearance in males (Supplementary Table 5). Both the risk and hazard rate of HPV infection
+
+132 clearance were significantly increased at the glans of circumcised males (HR 1·86, 95% CI 1·49–
+
+133 2·31, I [2] =0·0%, RR 1·44, 95% CI 1·28–1·61, I [2] =0·0%) (Figure 5), while the hazard rate was
+
+134 increased at the shaft and combined sites, albeit non-significantly (HR 1·41, 95% CI 0·81–2·42,
+
+135 I [2] =86·9%). Results remained similar when separately examining hrHPV and lrHPV.
+
+136 Six studies examined the association between MC and various HPV outcomes in females
+
+137 (Supplementary Table 6). Sample sizes ranged from 61 to 2,735. All studies assessed the
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+138 prevalence of HPV infections, while two additionally assessed the acquisition of HPV infections
+
+139 and one assessed the clearance of HPV infections. The risk of prevalent hrHPV infections and the
+
+140 incident rate of hrHPV infections were significantly reduced in female partners of circumcised
+
+141 males (RR 0·66, 95% CI 0·49–0·89, I [2] =35·0%, IRR 0·77, 95% CI 0·63–0·93, I [2] =0·0%) (Figure
+
+142 5). For all other outcomes, point estimates were protective, but did not reach statistical
+
+143 significance.
+
+144 We found evidence of an effect modification of the association between MC and HPV prevalence
+
+145 in males by sampling site, with a 32% increase in the protective effect of MC at the glans than at
+
+146 the shaft or combined sites (OR 0·68, 95% CI 0·48–0·98) (Table 2). No effect modification was
+
+147 observed for year of publication, primary study country’s economic development, or whether the
+
+148 study accounted for confounding.
+
+149 Most studies were judged to have a low risk of bias (Supplementary Tables 7–9). Restricting to
+
+150 studies with a low risk of bias did not change any findings for studies of prevalence
+
+151 (Supplementary Figure 7), incidence (Supplementary Figure 8), and clearance (Supplementary
+
+152 Figure 9) of HPV infections in males. When stratifying studies of prevalence in males by whether
+
+153 or not they controlled for confounding, we observed that studies that did control for confounding
+
+154 found significantly protective effects of MC at the glans on both the odds and risk scales
+
+155 (Supplementary Figure 10). Studies that did not control for confounding only evaluated the effects
+
+156 of MC at the glans on the odds scale and did not find a protective effect. Studies that controlled
+
+157 for confounding also found significantly protective effects of MC at the shaft and combined sites
+
+158 on the odds scale, but not the risk scale, and studies that did not control for confounding did not
+
+159 find any protective effect of MC at the shaft or combined sites. Excluding any given study of
+
+160 prevalence in males reporting an OR did not significantly change the pooled estimate
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+161 (Supplementary Figure 11), and we did not observe evidence of publication bias for these studies
+
+162 (Supplementary Figure 12, p value for Egger test 0·95). Publication bias could not be assessed for
+
+163 other outcomes due to the limited number of studies that used the same effect measure.
+
+164
+
+165 **DISCUSSION**
+
+166 Findings of this meta-analysis suggest that MC results in reduced prevalent and incident HPV
+
+167 infections and increased clearance of HPV infections at the glans penis, as well as reduced
+
+168 prevalent infections at the shaft. Protection may also be conferred to the female sexual partners of
+
+169 circumcised males. Our findings of the protective effect of MC against various HPV infection
+
+170 outcomes are consistent with those of previous reviews. [10-14] However, our analysis of the varying
+
+171 effect of MC at different anatomical sites of the penis and the use of a meta-regression approach
+
+172 to assess for effect modification have not been done before. To the best of our knowledge, our
+
+173 analysis seems to be the first to include both males and females in the same review.
+
+174 Infections with hrHPV are of most clinical relevance, as persistent infection with hrHPV is a
+
+175 necessary cause of cervical cancer and is associated with various anogenital cancers. [2-4] All
+
+176 estimates for the association between MC and hrHPV infection prevalence, incidence, and
+
+177 clearance found that MC had a significantly protective effect at the glans, and either a protective
+
+178 effect or no effect at the shaft. MC was not found to be a risk factor for HPV infections in any of
+
+179 our meta-analyses.
+
+180 We included several publications that were not part of the most recently published systematic
+
+181 reviews on the topic: in males, we included an additional nine records of
+
+182 prevalence, [8,24,29,31,36,40,42,45,51] three of incidence, [8,45,48] and four of clearance [8,32,45,48] that were not
+
+183 included in Zhu’s 2017 review and meta-analysis [14] . In females, we added three records [28,36,45] that
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+184 were absent in Morris’ 2019 review. [11] The addition of new records did not result in different
+
+185 conclusions than those of previous reviews, but rather provided further and more detailed evidence
+
+186 for the same interpretations, especially for the varying levels of protection MC confers at different
+
+187 anatomical sites of the penis.
+
+188 The biological mechanism by which MC is suggested to protect against HPV infections is still
+
+189 unclear; the prevailing theories suggesting differences in keratinization and in the local immune
+
+190 environment of the penis as plausible. It was originally thought that the glans of the circumcised
+
+191 penis is more keratinized than that of the uncircumcised penis [53] and less vulnerable to the
+
+192 acquisition of sexually transmitted infections during sexual intercourse. However, anatomic and
+
+193 histological studies have failed to find consistent results on the differences in keratinization
+
+194 between the glans of circumcised and uncircumcised males. [54] MC has also been postulated to
+
+195 change the local immune environment of the penis through changes in the microbiome and
+
+196 immune cell density. Removal of the foreskin eliminates the anaerobic environment of the
+
+197 preputial cavity. [55] The Ugandan trial of MC found that circumcised males had a decreased total
+
+198 bacterial load and reduced biodiversity in their microbiota, [56] whereas a 2017 study of 51 females
+
+199 showed that those who were HPV-positive were more likely to have a diverse array of facultative
+
+200 and strict anaerobic bacteria in their vaginal microbiome. [57] MC may protect against HPV by
+
+201 reducing the diversity of anaerobic bacteria in the penile microbiota. Finally, different anatomical
+
+202 sites of the penis have different distributions of immune cells. [58] The removal of the foreskin and
+
+203 the immune cells within it may result in different cytokine environments and inflammatory
+
+204 responses to pathogen entry, both of which are associated with the risk of HPV infections. [54,59-61]
+
+205 Our review had many strengths. We searched a diverse array of databases and validated our search
+
+206 strategy with a librarian. We did not apply study design or language restrictions and we included
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+207 both males and females, multiple HPV infection-related outcomes, different HPV risk groupings,
+
+208 and different anatomical sampling sites.
+
+209 Our review also had several limitations. We included the term “circumcision” in our search
+
+210 strategy and may not have captured records that measured MC and HPV infection without directly
+
+211 assessing their association. We were unable to consider other factors that may play a role in MC’s
+
+212 association with HPV infection, such as method of MC, whether MC was performed before or
+
+213 after sexual debut, and number of sexual partners, as these variables were not collected in the vast
+
+214 majority of the included studies. Only three of the 25 unique study populations included in our
+
+215 review came from RCTs, which limited our ability to assess causality. However, it is noteworthy
+
+216 that all RCTs assessing HPV infections in males [8,9,30,48] found a protective effect of MC at the glans
+
+217 for prevalence, incidence and clearance of all HPV types, including hrHPV, and all estimates but
+
+218 one were statistically significant.
+
+219 In conclusion, results from our systematic review and meta-analysis support that MC protects
+
+220 against HPV infections in a diverse population of males, particularly at the glans, and that
+
+221 protection may be passed on to female partners. MC may be a viable preventive strategy for HPV
+
+222 infections, especially in regions with a high burden of HPV-associated cancers and where the HPV
+
+223 vaccine is not commercially available.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**Contributors** : SBS and ELF conceptualized the project. SBS and CL conducted the literature
+
+search, screening, and data extraction. CL and SBS performed data analysis. SBS drafted the
+
+manuscript. CL, MZ, and ELF critically reviewed the manuscript. ELF and MZ provided
+
+supervision and guidance. All authors had access to all the data in the study and had final
+
+responsibility for the decision to submit for publication. Both SBS and CL directly accessed and
+
+verified the underlying data reported in the manuscript.
+
+**Declaration of interests** : ELF and MZ hold a patent related to the discovery “DNA methylation
+
+markers for early detection of cervical cancer”, registered at the Office of Innovation and
+
+Partnerships, McGill University, Montreal, Quebec, Canada (October 2018). ELF has served as
+
+consultant to Roche, Merck, and BD on HPV diagnostics and prevention. The other authors declare
+
+no competing interests.
+
+**Data sharing** : All study-level data used in this study are available in the Supplementary Material.
+
+**Acknowledgments** : We would like to thank the librarian Genevieve Gore at McGill University
+
+for her assistance in developing and validating our search strategy.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**REFERENCES**
+
+1. Trottier H, Franco EL. The epidemiology of genital human papillomavirus infection.
+
+*Vaccine* 2006; **24 Suppl 1** : S1–15.
+
+2. Brianti P, De Flammineis E, Mercuri SR. Review of HPV-related diseases and cancers.
+
+*New Microbiol* 2017; **40** : 80–5.
+
+3. Saraiya M, Unger ER, Thompson TD, et al. US assessment of HPV types in cancers:
+
+implications for current and 9-valent HPV vaccines. *J Natl Cancer Inst* 2015; **107** : djv086.
+
+4. Walboomers JMM, Jacobs MV, Manos MM, et al. Human papillomavirus is a necessary
+
+cause of invasive cervical cancer worldwide. *J Pathol* 1999; **189** : 12–9.
+
+5. Larke N. Male circumcision, HIV and sexually transmitted infections: a review. *Br J Nurs*
+
+2010; **19** : 629–34.
+
+6. Tobian AA, Gray RH, Quinn TC. Male circumcision for the prevention of acquisition and
+
+transmission of sexually transmitted infections: the case for neonatal circumcision. *Arch Pediatr*
+
+*Adolesc Med* 2010; **164** : 78–84.
+
+7. Weiss HA, Thomas SL, Munabi SK, Hayes RJ. Male circumcision and risk of syphilis,
+
+chancroid, and genital herpes: a systematic review and meta-analysis. *Sex Transm Infect* 2006; **82** :
+
+101–9.
+
+8. Smith JS, Backes DM, Hudgens MG, et al. Male Circumcision Reduces Penile HPV
+
+Incidence and Persistence: A Randomized Controlled Trial in Kenya. *Cancer Epidemiol*
+
+*Biomarkers Prev* 2021; **30** : 1139–48.
+
+9. Tobian AA, Serwadda D, Quinn TC, et al. Male circumcision for the prevention of HSV
+2 and HPV infections and syphilis. *N Engl J Med* 2009; **360** : 1298–309.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+10. Grund JM, Bryant TS, Jackson I, et al. Association between male circumcision and
+
+women's biomedical health outcomes: a systematic review. *Lancet Glob Health* 2017; **5** : e1113–
+
+e22.
+
+11. Morris BJ, Hankins CA, Banerjee J, et al. Does Male Circumcision Reduce Women's Risk
+
+of Sexually Transmitted Infections, Cervical Cancer, and Associated Conditions? *Front Public*
+
+*Health* 2019; **7** : 4.
+
+12. Albero G, Castellsagué X, Giuliano AR, Bosch FX. Male circumcision and genital human
+
+papillomavirus: a systematic review and meta-analysis. *Sex Transm Dis* 2012; **39** : 104–13.
+
+13. Larke N, Thomas SL, Dos Santos Silva I, Weiss HA. Male circumcision and human
+
+papillomavirus infection in men: a systematic review and meta-analysis. *J Infect Dis* 2011; **204** :
+
+1375–90.
+
+14. Zhu YP, Jia ZW, Dai B, et al. Relationship between circumcision and human
+
+papillomavirus infection: a systematic review and meta-analysis. *Asian J Androl* 2017; **19** : 125–
+
+31.
+
+15. Clifford GM, Gonçalves MA, Franceschi S. Human papillomavirus types among women
+
+infected with HIV: a meta-analysis. *AIDS* 2006; **20** : 2337–44.
+
+16. Massad LS, Xie X, Burk RD, et al. Association of cervical precancer with human
+
+papillomavirus types other than 16 among HIV co-infected women. *Am J Obstet Gynecol* 2016;
+
+**214** : 354.E1–6.
+
+17. Hamadeh N, Van Rompaey C, Metreau E, Eapen SG. New World Bank country
+
+classifications by income level: 2022-2023. 1 Jul 2022.
+
+https://blogs.worldbank.org/ ope nd a t a/ new  - world  - bank  - country  - classifications  - income  - level  
+2022  - 2023 (accessed 15 Jul 2022).
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+18. Dean A, Sullivan K, Soe M. OpenEpi: Open Source Epidemiologic Statistics for Public
+
+Health. https://www.openepi.com/TwobyTwo/TwobyTwo.htm (accessed 18 Jul 2021).
+
+19. Levett P. Systematic Reviews: Reporting the quality/risk of bias. 15 Jun 2022.
+
+https://guides.himmelfarb.g w u.e du/ s ys [tematic_review/reporting](https://guides.himmelfarb.gwu.edu/systematic_review/reporting-quality-risk-of-bias)  - quality  - risk  - of  - bias (accessed 21
+
+Jul 2022).
+
+20. Viechtbauer W. Conducting Meta-Analyses in R with the metafor Package. *Journal of*
+
+*Statistical Software* 2010; **36** : 1 – 48.
+
+21. Sutton AJ. Methods for meta-analysis in medical research. Chichester ;: J. Wiley; 2000.
+
+22. Egger M, Smith GD, Schneider M, Minder C. Bias in meta-analysis detected by a simple,
+
+graphical test. *BMJ* 1997; **315** : 629–34.
+
+23. Albero G, Castellsagué X, Lin HY, et al. Male circumcision and the incidence and
+
+clearance of genital human papillomavirus (HPV) infection in men: the HPV Infection in men
+
+(HIM) cohort study. *BMC Infect Dis* 2014; **14** : 75.
+
+24. Albero G, Villa LL, Lazcano-Ponce E, et al. Male circumcision and prevalence of genital
+
+human papillomavirus infection in men: a multinational study. *BMC Infect Dis* 2013; **13** : 18.
+
+25. Baldwin SB, Wallace DR, Papenfuss MR, Abrahamsen M, Vaught LC, Giuliano AR.
+
+Condom use and other factors affecting penile human papillomavirus detection in men attending
+
+a sexually transmitted disease clinic. *Sex Transm Dis* 2004; **31** : 601–7.
+
+26. Bleeker MC, Hogewoning CJ, Voorhorst FJ, et al. HPV-associated flat penile lesions in
+
+men of a non-STD hospital population: less frequent and smaller in size than in male sexual
+
+partners of women with CIN. *Int J Cancer* 2005; **113** : 36–41.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+27. Castellsagué X, Bosch FX, Muñoz N, et al. Male circumcision, penile human
+
+papillomavirus infection, and cervical cancer in female partners. *N Engl J Med* 2002; **346** : 1105–
+
+12.
+
+28. Contreras WR, Fuentes H, Nava J, et al. Prevalencia y factores asociados con infecciÛn
+
+por virus del papiloma humano cervical en pacientes con artritis reumatoide. *Ginecol Obstet Mex*
+
+2008; **76** : 9–17.
+
+29. Da Rocha WM, Afonso LA, Dobao E, Gouvea TD, Carestiato FN, Cavalcanti SMB.
+
+Evaluation of anogenital human papillomavirus infection in asymptomatic men from Rio de
+
+Janeiro, Brazil. *Journal of Tropical Pathology* 2015; **44** : 375–85.
+
+30. Gray RH, Serwadda D, Kong X, et al. Male circumcision decreases acquisition and
+
+increases clearance of high-risk human papillomavirus in HIV-negative men: a randomized trial
+
+in Rakai, Uganda. *J Infect Dis* 2010; **201** : 1455–62.
+
+31. Hebnes JB, Munk C, Frederiksen K, Joergensen HO, Iftner T, Kjaer SK. The role of
+
+circumcision, tobacco, and alcohol use in genital human papillomavirus infection among men from
+
+Denmark. *Int J STD AIDS* 2021: 9564624211014727.
+
+32. Hernandez BY, Shvetsov YB, Goodman MT, et al. Reduced clearance of penile human
+
+papillomavirus infection in uncircumcised men. *J Infect Dis* 2010; **201** : 1340–3.
+
+33. Hernandez BY, Wilkens LR, Zhu X, et al. Circumcision and human papillomavirus
+
+infection in men: a site-specific comparison. *J Infect Dis* 2008; **197** : 787–94.
+
+34. Lajous M, Mueller N, Cruz-Valdéz A, et al. Determinants of prevalence, acquisition, and
+
+persistence of human papillomavirus in healthy Mexican military men. *Cancer Epidemiol*
+
+*Biomarkers Prev* 2005; **14** : 1710–6.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+35. Lu B, Wu Y, Nielson CM, et al. Factors associated with acquisition and clearance of human
+
+papillomavirus infection in a cohort of US men: a prospective study. *J Infect Dis* 2009; **199** : 362–
+
+71.
+
+36. Mbulawa ZZ, Coetzee D, Marais DJ, et al. Genital human papillomavirus prevalence and
+
+human papillomavirus concordance in heterosexual couples are positively associated with human
+
+immunodeficiency virus coinfection. *J Infect Dis* 2009; **199** : 1514–24.
+
+37. Nielson CM, Schiaffino MK, Dunne EF, Salemi JL, Giuliano AR. Associations between
+
+male anogenital human papillomavirus infection and circumcision by anatomic site sampled and
+
+lifetime number of female sex partners. *J Infect Dis* 2009; **199** : 7–13.
+
+38. Obiri-Yeboah D, Akakpo PK, Mutocheluh M, et al. Epidemiology of cervical human
+
+papillomavirus (HPV) infection and squamous intraepithelial lesions (SIL) among a cohort of
+
+HIV-infected and uninfected Ghanaian women. *BMC Cancer* 2017; **17** : 688.
+
+39. Ogilvie GS, Taylor DL, Achen M, Cook D, Krajden M. Self-collection of genital human
+
+papillomavirus specimens in heterosexual men. *Sex Transm Infect* 2009; **85** : 221–5.
+
+40. Olesen TB, Munk C, Mwaiselage J, et al. Male circumcision and the risk of gonorrhoea,
+
+syphilis, HIV and human papillomavirus among men in Tanzania. *Int J STD AIDS* 2019; **30** : 1408–
+
+16.
+
+41. Partridge JM, Hughes JP, Feng Q, et al. Genital human papillomavirus infection in men:
+
+incidence and risk factors in a cohort of university students. *J Infect Dis* 2007; **196** : 1128–36.
+
+42. Rocha MGdL, Faria FL, Goncalves L, Souza MdCM, Fernandes PA, Fernandes AP.
+
+Prevalence of DNA-HPV in male sexual partners of HPV-infected women and concordance of
+
+viral types in infected couples. *PLoS One* 2012; **7** : e40988.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+43. Rombaldi RL, Serafini EP, Villa LL, et al. Infection with human papillomaviruses of sexual
+
+partners of women having cervical intraepithelial neoplasia. *Braz J Med Biol Res* 2006; **39** : 177–
+
+87.
+
+44. Roura E, Iftner T, Vidart JA, et al. Predictors of human papillomavirus infection in women
+
+undergoing routine cervical cancer screening in Spain: the CLEOPATRE study. *BMC Infect Dis*
+
+2012; **12** : 145.
+
+45. Shapiro SB, Wissing MD, Khosrow-Khavar F, et al. Male circumcision and genital human
+
+papillomavirus infection in males and their female sexual partners: findings from the HITCH
+
+cohort study. *J Infect Dis* 2022.
+
+46. Shin HR, Franceschi S, Vaccarella S, et al. Prevalence and determinants of genital infection
+
+with papillomavirus, in female and male university students in Busan, South Korea. *J Infect Dis*
+
+2004; **190** : 468–76.
+
+47. Svare EI, Kjaer SK, Worm AM, Osterlind A, Meijer CJ, van den Brule AJ. Risk factors for
+
+genital HPV DNA in men resemble those found in women: a study of male attendees at a Danish
+
+STD clinic. *Sex Transm Infect* 2002; **78** : 215–8.
+
+48. Tobian AA, Kigozi G, Gravitt PE, et al. Human papillomavirus incidence and clearance
+
+among HIV-positive and HIV-negative men in sub-Saharan Africa. *AIDS* 2012; **26** : 1555–65.
+
+49. Vaccarella S, Lazcano-Ponce E, Castro-Garduno JA, et al. Prevalence and determinants of
+
+human papillomavirus infection in men attending vasectomy clinics in Mexico. *Int J Cancer* 2006;
+
+**119** : 1934–9.
+
+50. Vanbuskirk K, Winer RL, Hughes JP, et al. Circumcision and acquisition of human
+
+papillomavirus infection in young men. *Sex Transm Dis* 2011; **38** : 1074–81.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+51. Vardas E, Giuliano AR, Goldstone S, et al. External genital human papillomavirus
+
+prevalence and associated factors among heterosexual men on 5 continents. *J Infect Dis* 2011; **203** :
+
+58–65.
+
+52. Wawer MJ, Tobian AAR, Kigozi G, et al. Effect of circumcision of HIV-negative men on
+
+transmission of human papillomavirus to HIV-negative women: a randomised trial in Rakai,
+
+Uganda. *The Lancet* 2011; **377** : 209–18.
+
+53. McCoombe SG, Short RV. Potential HIV-1 target cells in the human penis. *AIDS* 2006;
+
+**20** : 1491–5.
+
+54. Prodger JL, Kaul R. The biology of how circumcision reduces HIV susceptibility: broader
+
+implications for the prevention field. *AIDS Res Ther* 2017; **14** : 49.
+
+55. Price LB, Liu CM, Johnson KE, et al. The effects of circumcision on the penis microbiome.
+
+*PLoS One* 2010; **5** : e8422.
+
+56. Liu CM, Hungate BA, Tobian AA, et al. Male circumcision significantly reduces
+
+prevalence and load of genital anaerobic bacteria. *mBio* 2013; **4** : e00076.
+
+57. Shannon B, Yi TJ, Perusini S, et al. Association of HPV infection and clearance with
+
+cervicovaginal immunology and the vaginal microbiota. *Mucosal Immunol* 2017; **10** : 1310–9.
+
+58. Sennepin A, Real F, Duvivier M, et al. The Human Penis Is a Genuine Immunological
+
+Effector Site. *Front Immunol* 2017; **8** : 1732–.
+
+59. Song SH, Lee JK, Seok OS, Saw HS. The relationship between cytokines and HPV-16,
+
+HPV-16 E6, E7, and high-risk HPV viral load in the uterine cervix. *Gynecol Oncol* 2007; **104** :
+
+732–8.
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+60. Kemp TJ, Hildesheim A, García-Piñeres A, et al. Elevated systemic levels of inflammatory
+
+cytokines in older women with persistent cervical human papillomavirus infection. *Cancer*
+
+*Epidemiol Biomarkers Prev* 2010; **19** : 1954–9.
+
+61. Bruni L, Saura-Lázaro A, Montoliu A, et al. HPV vaccination introduction worldwide and
+
+WHO and UNICEF estimates of national HPV immunization coverage 2010–2019. *Prev Med*
+
+2021; **144** : 106399.
+
+**Table 1: Characteristics of included records according to study design**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|First author (year)|Country(ies), years conducted|World Bank economic classification|Study population|Number enrolled|Circumcision assessment|Sites sampled|HPV DNA genotyping method|
+|---|---|---|---|---|---|---|---|
+|Randomized controlled trials||||||||
+|Gray (2010)|Uganda, 2003– 2006|Low-income country|Males enrolled in the Rakai-1 trial|840|Randomized and verified by a clinician|Glans|MY09/11 PCR|
+|Smith (2021)|Kenya, 2002– 2005|Middle-income country|Males enrolled in the Kisumu circumcision trial|2,193|Randomized and verified by a clinician|Inner foreskin, glans, outer foreskin, shaft|GP5+/6+ PCR|
+|Tobian (2009)|Uganda, 2003– 2007|Low-income country|Males enrolled in the Rakai-1 and Rakai-2 trials|3,393|Randomized and verified by a clinician|Foreskin, glans|PGMY09/11 PCR|
+|Tobian (2012)|Uganda, 2002– 2009|Low-income country|HIV-positive and negative males enrolled in the Rakai-1 and Rakai-2 trials|776a|Randomized and verified by a clinician|Glans|PGMY09/11 PCR|
+|Wawer (2011)|Uganda, 2003– 2007|Low-income country|Female partners of males enrolled in the Rakai-1 and Rakai-2 trials|1,245|Randomized and verified by a clinician|Vagina|MY09/11 PCR|
+|Cohort studies||||||||
+|Albero (2013)b|Brazil, Mexico, United States, 2005–2009|Predominantly high-income countries|Males from the general population, universities, and organized healthcare systems|3,969|Clinical exam|Foreskin, glans, shaft, scrotum|PGMY09/11 PCR|
+
+|Albero (2014)|Brazil, Mexico, United States, 2005–2009|Predominantly high-income countries|Males from the general population, universities, and organized healthcare systems|4,003|Clinical exam|Foreskin, glans, shaft, scrotum|PGMY09/11 PCR|
+|---|---|---|---|---|---|---|---|
+|Hernandez (2008)b|United States, 2004–2006|High-income country|Male university students in Hawaii|379|Clinical exam|Foreskin, glans, shaft, scrotum|PGMY09/11 PCR|
+|Hernandez (2010)|United States, 2004–2006|High-income country|Male university students in Hawaii|357|Clinical exam|Foreskin, glans, shaft, scrotum|PGMY09/11 PCR|
+|Lajous (2005)|Mexico, 2002– 2005|Middle-income country|Healthy military males|1,030|Self-report|Urethra, glans, shaft, scrotum|MY09/11 PCR|
+|Lu (2009)|United States, 2003–2006|High-income country|Males from the general population|285|Self-report|Foreskin, glans, shaft, scrotum|PGMY09/11 PCR|
+|Nielson (2009)|United States, 2002–2005|High-income country|Males from the general population|463|Self-report|Foreskin, urethra, glans, shaft, scrotum, perianal area, anus|PGMY09/11 PCR|
+|Partridge (2007)|United States, 2003–2006|High-income country|Male university students in Washington|240|Clinical exam|Foreskin, urethra, glans, shaft, scrotum|PGMY09/11 PCR|
+|Shapiro (2022)|Canada, 2005– 2011|High-income country|Female university students in Montreal and their male sexual partners|826|Clinical exam|Foreskin, glans, shaft|PGMY09/11 PCR|
+
+|VanBuskirk (2011)|United States, 2003–2009|High-income country|Male university students in Washington|477|Clinical exam|Foreskin, glans, shaft, scrotum|MY09/11 PCR|
+|---|---|---|---|---|---|---|---|
+|Cross-sectional studies||||||||
+|Baldwin (2004)|United States, 2000–2001|High-income country|Males attending an STI clinic|393|Clinical exam|Glans|PGMY09/11 PCR|
+|Bleeker (2005)|Netherlands, 1995–2002|High-income country|Males from a non-STI dermatology clinic and male partners of females with CIN|356|Clinical exam|Foreskin, glans|GP5+/6+ PCR|
+|Castellsagué (2002)|Spain, Colombia, Brazil, Thailand, Philippines, 1985–1993|Predominantly middle-income countries|Male partners of case females with cervical cancer and healthy control females|1,913|Clinical exam|Urethra, glans|MY09/11 PCR|
+|Contreras (2008)|Mexico, 2005– 2006|Middle-income country|Females with rheumatoid arthritis|61|Self-report|Cervix|CpI/CpIIG PCR|
+|Da Rocha (2015)|Brazil, 2011– 2013|Middle-income country|Males from an STI clinic, a dermatology clinic, a university, and a factory|261|Self-report|Glans|MY09/11 PCR|
+|Hebnes (2021)|Denmark, 2006–2007|High-income country|Military males|2,460|Clinical exam|Preputial cavity, glans, shaft, scrotum, perineum|SPF10 PCR|
+|Mbulawa (2009)|South Africa, NR|Middle-income country|Sexually active Black heterosexual couples|254a|Self-report|Foreskin, glans, shaft|PGMY09/11 PCR|
+|Obiri- Yeboah (2017)|Ghana, NR|Middle-income country|Females attending an HIV or medical outpatient clinic|170a|Partner report|Cervix|RT-PCR with type-specific primers|
+
+|Ogilvie (2009)|Canada, NR|High-income country|Heterosexual males attending an STI clinic|262|Clinical exam|Foreskin, glans, shaft, scrotum|Amplicor® primer PCR|
+|---|---|---|---|---|---|---|---|
+|Olesen (2019)|Tanzania, 2009|Middle-income country|Males from urban and rural areas|1,902a|Clinical exam|Foreskin, glans, shaft|PGMY09/11 PCR|
+|Rocha (2012)|Brazil, NR|Middle-income country|Heterosexual couples in which the female HPV-related cervical lesions|43|Clinical exam|Foreskin, glans|GP5+/6+ PCR|
+|Rombaldi (2006)|Brazil, 2003– 2004|Middle-income country|Male sexual partners of females with CIN|99|Self-report|Foreskin, urethra, glans, shaft|MY09/11 PCR|
+|Roura (2012)|Spain, 2007– 2008|High-income country|Females attending cervical cancer screening|3,261|Partner report|Cervix|SPF10 PCR|
+|Shin (2004)|South Korea, 2002|High-income country|Male university students|381|Self-report|Urethra, glans, shaft, scrotum|SPF10 PCR|
+|Svare (2002)|Denmark, 1993|High-income country|Males attending an STI clinic|198|Self-report|Glans, shaft, scrotum, perianal area|GP5+/6+ PCR|
+|Vaccarella (2006)|Mexico, 2003– 2004|Middle-income country|Males requesting a vasectomy|779|Clinical exam|Glans, shaft, scrotum|MY09/11 PCR|
+|Vardas (2011)|18 countries in Africa, Asia- Pacific, Europe, Latin America, and North America, NR|Predominantly middle-income countries|Heterosexual males with 1–5 female lifetime sexual partners|3,463|Clinical exam|Penis (specific sites NR), scrotum, perianal area|RT-PCR with type-specific primers|
+
+
+*Abbreviations: NR, not reported; STI: sexually transmitted infection*
+*a* *Only HIV-negative males were included*
+*b* *Cohort study analyzed cross-sectionally*
+
+**Table 2. Meta-regression of studies assessing the association between male circumcision and HPV prevalence in males**
+
+
+
+
+
+|Potential effect modifier|Number of studies (%)|Univariate|Col4|
+|---|---|---|---|
+|||OR (95% CI)|p-value for modifier|
+|Year||||
+|2009 or earlier|15 (62·5)|1·00 (reference)||
+|2010 or later|9 (37·5)|1·28 (0·88–1·86)|0·19|
+|Site, n (%)||||
+|Combined/shaft-only|15 (62·5)|1·00 (reference)||
+|Glans|9 (37·5)|0·68 (0·48–0·98)|0·04|
+|Economic development, n (%)||||
+|High-income country|12 (50·0)|1·00 (reference)||
+|Low- or middle-income country|12 (50·0)|0·87 (0·61–1·24)|0·45|
+|Control for confounding, n (%)||||
+|Yes|17 (70·8)|1·00 (reference)||
+|No|7 (29·2)|1·54 (0·89–2·67)|0·12|
+
+
+*Abbreviations: CI, confidence interval; HPV, human papillomavirus; OR, odds ratio*
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**Figure 1: Study selection**
+
+
+1,409 potentially eligible studies
+identified through database search
+
+
+10 potentially eligible records
+identified through other sources
+
+
+1,419 records screened
+
+106 full-text studies
+
+assessed for eligibility
+
+Studies included (n=32)
+
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**Figure 2: Studies of male circumcision and HPV prevalence in males by sampling site**
+
+*Abbreviations: CI, confidence interval; HPV, human papillomavirus; hrHPV, high-risk HPV;*
+*OR, odds ratio; PR, prevalence ratio; RCT, randomized controlled trial; RR, risk ratio*
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**Figure 3: Studies of male circumcision and HPV incidence in males by sampling site**
+
+*Abbreviations: CI, confidence interval; HPV, human papillomavirus; HR, hazard ratio; hrHPV,*
+*high-risk HPV; IRR, incidence rate ratio; RCT, randomized controlled trial;*
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**Figure 4: Studies of male circumcision and HPV clearance in males by sampling site**
+
+*Abbreviations: CI, confidence interval; CRR, clearance rate ratio; HPV, human papillomavirus;*
+*HR, hazard ratio; hrHPV, high-risk HPV; RCT, randomized controlled trial; RR, risk ratio*
+
+[medRxiv preprint doi: https://doi.org/10.1101/2022.08.08.22278357; this version posted August 8, 2022. The copyright holder for this preprint](https://doi.org/10.1101/2022.08.08.22278357)
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission.
+
+**Figure 5: Studies of male circumcision and various HPV outcomes in females**
+
+*Abbreviations: CI, confidence interval; HPV, human papillomavirus; hrHPV, high-risk HPV;*
+*IRR, incidence rate ratio; lrHPV, low-risk HPV; OR, odds ratio; RCT, randomized controlled*
+*trial; RR, risk ratio*
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

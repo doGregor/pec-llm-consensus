@@ -1,0 +1,41 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=596 candidates_tokens_details=None prompt_token_count=24172 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=21076), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=3096)] thoughts_token_count=3439 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=28207 traffic_type=None
+
+
+**Aspect of Care** | **Recommendation**
+------- | --------
+**Systemic Therapy (Adjuvant)** | Adjuvant radiotherapy is recommended for improved oncological outcomes in pN3 squamous penile cancer.
+**Systemic Therapy (Neoadjuvant)** | Neoadjuvant chemotherapy with triple therapy (including cisplatin and taxane) is recommended for enlarged or large inguinal lymph nodes in late-stage disease to reduce tumor burden before surgical evaluation.
+**Lymph Node Management (Metastatic Disease)** | Radical lymphadenectomy and adjuvant chemotherapy are recommended for patients with confirmed lymphatic metastases.
+**Lymph Node Management (Staging for cN0)** | Aggressive staging is recommended for non-palpable lymph nodes based on the risk factors of the primary tumor. In patients with clinically node-negative (cN0) disease, dynamic sentinel lymph node biopsy (DSNB) is indicated if available. Where DSNB is not available, surgical staging of the cN0 groin is still strongly recommended (modified open inguinal lymph node dissection is usually used). Current evidence supports minimally invasive ILND for cN0 disease.
+**Lymph Node Management (Palpable Nodes / Lymphadenopathy)** | Open inguinal lymph node dissection (O-ILND) remains the standard approach for palpable inguinal nodes. Radical ILND is recommended for patients with inguinal lymphadenopathy.
+**Lymph Node Management (Advanced Disease)** | In N2/N3 disease, lymph node metastases should be treated with radical surgery and adjuvant chemotherapy and/or radiotherapy.
+**Lymph Node Management (Recurrence)** | Neoadjuvant chemotherapy and radical lymph node surgery are recommended for recurrence of inguinal lymph nodes after radical ILND.
+**Lymph Node Management (Surgical Modality for cN1-2)** | Opt for open surgery (O-ILND) instead of minimally invasive ILND in patients with cN1-2 disease to reduce the risk of large lymph node fractures. Minimally invasive ILND for this stage should be part of a clinical trial.
+**Lymph Node Management (General Surgical Approach)** | In summary, minimally invasive surgery (MIS) is a better option than O-ILND for inguinal lymph node dissection for suitable penile cancer cases, with the advantages of a shorter length of stay, less blood loss, and fewer complications, with comparable oncological outcomes.
+
+
+
+**Aspect of Care** | **Recommendation**
+------- | --------
+**Systemic Therapy (Adjuvant)** | Adjuvant radiotherapy is recommended for improved oncological outcomes in pN3 squamous penile cancer.
+**Systemic Therapy (Neoadjuvant)** | Neoadjuvant chemotherapy with triple therapy (including cisplatin and taxane) is recommended for enlarged or large inguinal lymph nodes in late-stage disease to reduce tumor burden before surgical evaluation.
+**Lymph Node Management (Metastatic Disease)** | Radical lymphadenectomy and adjuvant chemotherapy are recommended for patients with confirmed lymphatic metastases.
+**Lymph Node Management (Staging for cN0)** | Aggressive staging is recommended for non-palpable lymph nodes based on the risk factors of the primary tumor. In patients with clinically node-negative (cN0) disease, dynamic sentinel lymph node biopsy (DSNB) is indicated if available. Where DSNB is not available, surgical staging of the cN0 groin is still strongly recommended (modified open inguinal lymph node dissection is usually used). Current evidence supports minimally invasive ILND for cN0 disease.
+**Lymph Node Management (Palpable Nodes / Lymphadenopathy)** | Open inguinal lymph node dissection (O-ILND) remains the standard approach for palpable inguinal nodes. Radical ILND is recommended for patients with inguinal lymphadenopathy.
+**Lymph Node Management (Advanced Disease)** | In N2/N3 disease, lymph node metastases should be treated with radical surgery and adjuvant chemotherapy and/or radiotherapy.
+**Lymph Node Management (Recurrence)** | Neoadjuvant chemotherapy and radical lymph node surgery are recommended for recurrence of inguinal lymph nodes after radical ILND.
+**Lymph Node Management (Surgical Modality for cN1-2)** | Opt for open surgery (O-ILND) instead of minimally invasive ILND in patients with cN1-2 disease to reduce the risk of large lymph node fractures. Minimally invasive ILND for this stage should be part of a clinical trial.
+**Lymph Node Management (General Surgical Approach)** | In summary, minimally invasive surgery (MIS) is a better option than O-ILND for inguinal lymph node dissection for suitable penile cancer cases, with the advantages of a shorter length of stay, less blood loss, and fewer complications, with comparable oncological outcomes.
+ Based on the provided paper, here are the explicit treatment recommendations for penile cancer, presented in the specified format.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Systemic Therapy (Adjuvant)** | Adjuvant radiotherapy is recommended for patients with pN3 squamous penile cancer to improve oncological outcomes. |
+| **Systemic Therapy (Neoadjuvant)** | For patients with enlarged inguinal lymph nodes or late-stage disease with large nodes, neoadjuvant chemotherapy is recommended to reduce the tumor burden before surgery. A recommended regimen is triple therapy including cisplatin and taxane. |
+| **Lymph Node Management (Confirmed Metastases)** | Patients with confirmed lymphatic metastases are recommended to undergo radical lymphadenectomy and adjuvant chemotherapy. |
+| **Lymph Node Management (Staging for Non-Palpable Nodes)** | Aggressive staging is crucial for patients with non-palpable (clinically node-negative, cN0) inguinal lymph nodes. The following approaches are recommended:<br>• **Dynamic Sentinel Lymph Node Biopsy (DSNB):** Indicated for surgical staging in centers with available technology and expertise.<br>• **Surgical Staging (ILND):** Where DSNB is not available, surgical staging via inguinal lymph node dissection (e.g., modified O-ILND) is strongly recommended. Evidence also supports the use of minimally invasive ILND for cN0 disease. |
+| **Lymph Node Management (Palpable Nodes / Lymphadenopathy)** | For patients with palpable inguinal nodes or inguinal lymphadenopathy, radical Open Inguinal Lymph Node Dissection (O-ILND) remains the standard approach and is recommended. |
+| **Lymph Node Management (Advanced Disease)** | For patients with N2/N3 disease, lymph node metastases should be treated with radical surgery combined with adjuvant chemotherapy and/or radiotherapy. |
+| **Lymph Node Management (Recurrence)** | For patients who experience a recurrence of inguinal lymph nodes after a previous radical ILND, neoadjuvant chemotherapy followed by radical lymph node surgery is recommended. |
+| **Lymph Node Management (Surgical Modality for cN1-2 Disease)** | For patients with cN1-2 disease, open surgery (O-ILND) should be the preferred option over minimally invasive techniques at this time. This is to reduce the risk of large lymph node fractures during dissection. The use of minimally invasive ILND in this patient group should be conducted within the context of a clinical trial. |
+| **Lymph Node Management (General Surgical Approach)** | For suitable penile cancer cases requiring inguinal lymph node dissection (e.g., cN0 disease), minimally invasive surgery (MIS) appears to be a better option than O-ILND. MIS is associated with shorter length of stay, reduced blood loss, and a lower overall complication rate, with comparable recurrence and survival rates. |

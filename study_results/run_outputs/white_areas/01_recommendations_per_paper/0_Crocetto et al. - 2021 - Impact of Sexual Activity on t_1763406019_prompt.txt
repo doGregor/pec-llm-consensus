@@ -1,0 +1,1001 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    International Journal of
+
+***[Environmental Research](https://www.mdpi.com/journal/ijerph)***
+***and Public Health***
+
+*Review*
+# **Impact of Sexual Activity on the Risk of Male Genital Tumors:** **A Systematic Review of the Literature**
+
+**Felice Crocetto** **[1]** **, Davide Arcaniolo** **[2]** **, Luigi Napolitano** **[1,]** ***** **, Biagio Barone** **[1]** **, Roberto La Rocca** **[1]** **,**
+**Marco Capece** **[1]** **, Vincenzo Francesco Caputo** **[1]** **, Ciro Imbimbo** **[1]** **, Marco De Sio** **[2]** **, Francesco Paolo Calace** **[1,2]**
+
+**and Celeste Manfredi** **[1,2]**
+
+1 Urology Unit, Department of Neurosciences, Reproductive Sciences and Odontostomatology,
+University of Naples “Federico II”, 80121 Naples, Italy; felice.crocetto@gmail.com (F.C.);
+biagio193@gmail.com (B.B.); robertolarocca87@gmail.com (R.L.R.); drmarcocapece@gmail.com (M.C.);
+vincitor@me.com (V.F.C.); ciro.imbimbo@unina.it (C.I.); frap.calace@gmail.com (F.P.C.);
+manfredi.celeste@gmail.com (C.M.)
+2 Urology Unit, Department of Woman Child and of General and Specialist Surgery, University of Campania
+“Luigi Vanvitelli”, 80121 Naples, Italy; davide.arcaniolo@gmail.com (D.A.);
+marco.desio@unicampania.it (M.D.S.)
+***** Correspondence: nluigi89@libero.it
+
+
+���������
+**�������**
+
+**Citation:** Crocetto, F.; Arcaniolo, D.;
+
+Napolitano, L.; Barone, B.; La Rocca, R.;
+
+Capece, M.; Caputo, V.F.; Imbimbo, C.;
+
+De Sio, M.; Calace, F.P.; et al. Impact of
+
+Sexual Activity on the Risk of Male
+
+Genital Tumors: A Systematic Review
+
+of the Literature. *Int. J. Environ. Res.*
+
+*Public Health* **2021**, *18* [, 8500. https://](https://doi.org/10.3390/ijerph18168500)
+
+[doi.org/10.3390/ijerph18168500](https://doi.org/10.3390/ijerph18168500)
+
+Academic Editor: David L. Rowland
+
+Received: 7 July 2021
+
+Accepted: 9 August 2021
+
+Published: 11 August 2021
+
+**Publisher’s Note:** MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional affil
+iations.
+
+**Copyright:** © 2021 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+[Attribution (CC BY) license (https://](https://creativecommons.org/licenses/by/4.0/)
+
+[creativecommons.org/licenses/by/](https://creativecommons.org/licenses/by/4.0/)
+
+4.0/).
+
+
+**Abstract:** Most cancers are related to lifestyle and environmental risk factors, including smoking,
+alcohol consumption, dietary habits, and environment (occupational exposures). A growing interest
+in the association between sexual activity (SA) and the development of different types of tumors
+in both men and women has been recorded in recent years. The aim of the present systematic
+review is to describe and critically discuss the current evidence regarding the association between
+SA and male genital cancers (prostatic, penile, and testicular), and to analyze the different theories
+and biological mechanisms reported in the literature. A comprehensive bibliographic search in the
+MEDLINE, Scopus, and Web of Science databases was performed in July 2021. Papers in the English
+language without chronological restrictions were selected. Retrospective and prospective primary
+clinical studies, in addition to previous systematic reviews and meta-analyses, were included. A
+total of 19 studies, including 953,704 patients were selected. Case reports, conference abstracts, and
+editorial comments were excluded. Men with more than 20 sexual partners in their lifetime, and
+those reporting more than 21 ejaculations per month, reported a decreased risk of overall and less
+aggressive prostate cancer (PCa). About 40% of penile cancers (PCs) were HPV-associated, with
+HPV 16 being the dominant genotype. Data regarding the risk of HPV in circumcised patients are
+conflicting, although circumcision appears to have a protective role against PC. Viral infections
+and epididymo-orchitis are among the main sex-related risk factors studied for testicular cancer
+(TC); however, data in the literature are limited. Testicular trauma can allow the identification
+of pre-existing TC. SA is closely associated with the development of PC through high-risk HPV
+transmission; in this context, phimosis appears to be a favoring factor. Sexual behaviors appear to
+play a significant role in PCa pathogenesis, probably through inflammatory mechanisms; however,
+protective sexual habits have also been described. A direct correlation between SA and TC has not
+yet been proven, although infections remain the most studied sex-related factor.
+
+**Keywords:** sexual activity; sex; prostate cancer; penile cancer; testicular cancer
+
+**1. Introduction**
+
+Sexual activity (SA) has long been a popular topic in different fields of medicine
+due to its potential impact on health status. SA includes a variety of activities, such
+as penetrative sex (anal and vaginal), oral sex, and masturbation, which could affect
+the psychophysical condition of men [ 1 ]. The effect of SA on the health status and, in
+particular, on the risk of developing tumors, has not been well clarified. A portion of
+
+
+*Int. J. Environ. Res. Public Health* **2021**, *18* [, 8500. https://doi.org/10.3390/ijerph18168500](https://doi.org/10.3390/ijerph18168500) [https://www.mdpi.com/journal/ijerph](https://www.mdpi.com/journal/ijerph)
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 2 of 16
+
+the literature defines SA as a panacea, resulting in a positive influence on more than one
+domain of health status. In this context, Cao et al. showed that SA may reduce the risk
+of fatal coronary events and breast cancer, improving the quality of life, well-being, and
+cognitive function [ 2 ]. In contrast, other research has highlighted the negative aspects of
+SA, focusing on the risk of contracting sexually transmitted diseases (STDs), which may
+be the primum movens of different types of cancer. For example, human papillomavirus
+(HPV) infection is known to be a key risk factor for cervical tumors and a recognized risk
+factor for cancer of the penis, vulva, vagina, anus, and oral cavity [ 3 ]. Another essential
+aspect to consider in this context is the possible inflammation that can result, directly or
+indirectly, from SA, which is a critical component of the tumor pathway. The available
+literature reports that chronic inflammation increases the risk for several cancers through a
+variety of mechanisms involving the tumor microenvironment [ 4 ]. More specifically, it is
+hypothesized that inflammatory injury may favor carcinogenesis by causing cellular stress
+and genomic damage via high production of ROS [ 5 ]. Evidence from a number of genetic,
+epidemiological, and molecular studies suggests that inflammation plays a crucial role in
+various stages of prostatic carcinogenesis and tumor progression [ 6 ]. The aim of the present
+systematic review is to describe and critically discuss the current evidence regarding the
+association between SA and male genital tumors (prostatic, penile, and testicular), focusing
+on the different theories and biological mechanisms reported in the literature.
+
+**2. Materials and Methods**
+
+This analysis was conducted and reported according to the general guidelines recommended by the Primary Reporting Items for Systematic Reviews and Metanalyses
+(PRISMA) statement [7].
+The bibliographic search was performed in the MEDLINE (US National Library of
+Medicine, Bethesda, MD, USA), Scopus (Elsevier, Amsterdam, The Netherlands), and
+Web of Science (Thomson Reuters, Toronto, ON, Canada) databases in July 2021, without
+chronological restrictions. The following terms were combined in a title–abstract search
+to capture all relevant publications: (“sex” OR “sexual activity” OR “intercourse” OR
+“masturbation” OR “anal sex” OR “oral sex”) AND ((“prostate” OR “prostatic”) OR (“testis”
+OR “testicular”) OR (“penis” OR “penile”)) AND (“cancer” OR “tumor” OR “neoplasm”,
+OR “lesion”). All articles identified from the literature search were screened by two
+independent reviewers (B.B. and V.F.C.), with any discrepancies resolved by a third author
+(D.A.). The reference lists of included papers were used to search for other relevant articles.
+To assess the eligibility of the articles, PICOS (participants, intervention, comparison, outcomes, study type) criteria were used [ 8 ]. PICOS criteria were set as follows:
+participants—male patients; intervention—any form of sexual activity; comparison—not
+applicable; outcome—cancer; study types—prospective and retrospective studies (controlled and uncontrolled), systematic reviews, and meta-analyses. Only articles in English
+describing at least 10 patients were selected. Preclinical studies exploring pathophysiology
+mechanisms of cancer development were included. Conference abstracts and commentaries
+were excluded.
+
+The results were narratively reported, without performing a quantitative synthesis
+of the data, due to the expected high heterogeneity of the studies. The following data
+were extracted from clinical study: first author, publication year, study design, sample size,
+and main findings. The quality of the included studies was assessed using the Newcastle–
+Ottawa Scale (NOS) for non-randomized studies. Systematic reviews and meta-analyses
+were analogously assessed using A Measurement Tool to Assess Systematic Reviews-2
+(AMSTAR-2). Finally, the risk of bias was assessed using the ROBINS-I Tool for each of
+non-randomized and randomized studies [ 9 – 11 ]. Ethical approval and patients’ consent
+were not required for the present study.
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 3 of 16
+
+**3. Results**
+
+The search strategy revealed a total of 390 results. Screening of the titles and abstracts
+revealed 306 papers that were eligible for inclusion. Further assessment of eligibility, based
+on full-text articles, led to the exclusion of 287 papers. Finally, 19 studies involving a
+total of 953,704 patients were included in the final analysis [ 12 – 30 ] (Figure 1). The main
+characteristics of the selected studies are summarized in Table 1, and the assessment of the
+ris ~~k~~ o ~~f~~ ~~b~~ ias is reporte ~~d~~ in Figures 2 an ~~d~~ 3.
+
+**Figure 1.** PRISMA flow diagram for selection of studies.
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 4 of 16
+
+**Table 1.** Main characteristics of the selected studies.
+
+**First Author and**
+**Study Design** **Sample Size** **Main Findings** **Study Quality**
+**Publication Year**
+
+Prostate Cancer
+
+Association between
+Rosenblatt 2001 [16] Case-control 1456 5 [#]
+sexual factor and PCa
+
+
+Spence 2014 [12] Case-control 3208
+
+
+Reduction of risk of PCa
+
+in men with
+>20 sexual partners
+No correlation between
+Risk of PCa and age at
+first sexual intercourse
+No association between
+
+STDs and PCa
+
+
+8 [#]
+
+
+Inverse associations with
+Papa 2017 [14] Case-control 2141 6 [#]
+EF and PCa
+
+
+Prospective cohort
+Crum 2004 [20] 269
+study
+
+
+Positive correlation
+
+between incidence of PCa
+
+and duration of
+
+HIV infection
+
+
+6 [#]
+
+
+Positive correlation
+Prospective cohort
+Cheng 2010 [18] 68,675 between prostatitis, STDs 8 [#]
+study
+and Pca
+
+Prospective cohort Inverse association
+Rider 2016 [13] 31,925 7 [#]
+study between EF and PCa
+
+Prospective cohort Inverse association
+Sinnott 2018 [15] 157 6 [#]
+study between EF and PCa
+
+
+Jian 2018 [17] Systematic Review 55,490
+
+
+Positive association
+
+between number of
+female sexual partners,
+age at first intercourse,
+EF, and the risk of PCa
+
+
+Intermediate *
+
+
+Reduced risk of PCa
+Sun 2021 [19] Systematic Review 2780 among people with High *
+HIV/AIDS
+
+Penile Cancer
+
+
+Iversen 1997 [23] Case-control 867
+
+
+Not significant increased
+of incidence of HPV
+related cancers in partner
+of patients with HPV
+related cancer
+
+
+5 [#]
+
+
+Positive association
+Daling 2005 [21] Case-control 808 between HPV and 7 [#]
+penile cancer
+
+Positive correlation
+Madsen 2008 [24] Case-control 293 between oral sex as a risk 5 [#]
+factor in PC
+
+
+Mirghani 2017 [22] Systematic Review 1356
+
+
+Higher incidence of HPV
+related cancers in partner
+of patients with HPV
+related cancer
+
+
+Low *
+
+
+Positive correlation
+Lekoane 2020 [25] Systematic Review 16,351 between HIV Intermediate *
+andHPV-related cancers
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 5 of 16
+
+**Table 1.** *Cont.*
+
+**First Author and**
+**Study Design** **Sample Size** **Main Findings** **Study Quality**
+**Publication Year**
+
+Testicular Cancer
+
+
+Prospective Cohort
+Algood 1988 [26] 86
+study
+
+
+Positive correlation
+
+between Viral infections
+(Epstein-Barr virus,
+cytomegalovirus, and
+hepatitis A and B viruses)
+and TGCTs
+
+
+6 [#]
+
+
+Positive association
+Kao 2016 [29] Case-control 4092 between TGCTs 8 [#]
+and Epididymoorchitis
+
+
+Garolla 2019 [27] Meta-analysis 285,878
+
+
+Positive correlation
+
+between viral infections
+
+and risk of
+developing TGCTs
+
+
+High *
+
+
+No association between
+Trabert 1969 [30] Meta-analysis 1696 common infections Intermediate *
+and TGCTs
+
+
+Grulich 2017 [28] Meta-analysis 476,149
+
+
+Higher incidence of
+cancers in people with
+HIV/AIDS compared
+with immunosuppressed
+transplant recipients
+
+
+High *
+
+
+EF: ejaculatory frequency; HIV/AIDS: Human immunodeficiency Virus/Acquired Immune Deficiency Syndrome; HPV: human papillo~~mavirus;~~ ~~PCa:~~ ~~prostate~~ ~~cancer;~~ STD ~~s:~~ se ~~x~~ u ~~a~~ lly t ~~r~~ a ~~n~~ smit ~~te~~ d ~~disease;~~ ~~PC:~~ ~~penile~~ ~~cancer;~~ ~~TGCTs:~~ ~~testicular~~ ~~germ~~ ~~cell~~ ~~tumors~~ . ~~*~~ ~~A~~ ~~Measurement~~
+Tool to Assess Systematic Review-2 (AMSTAR-2), [#] Newcastle–Ottawa Scale (NOS).
+
+**Figure 2.** Risk of bias.
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 6 of 16
+
+and mass, and also regulates spermatogenesis [ 34 ]. Recently, evidence has suggested
+that sexual behaviors, such as number of sexual partners, sexual orientation, ejaculation
+frequency (EF), gender of sexual partners, and impact of STDs, may play a role in PCa
+pathogenesis. Spence et al. showed that men with more than 20 sexual partners (females
+and males combined) in their lifetime had a decreased risk of overall and less aggressive
+PCa (OR 0.78, 95% CI 0.61–1.00 and OR 0.75, 95% CI 0.57–0.99, respectively) [ 12 ]. In
+addition, men considering themselves to be homosexual or bisexual had a slightly greater
+PCa risk, compared to men who self-identified as heterosexual. In particular, several male
+sexual partners were associated with an increased risk of PCa [ 12 ]. The pathophysiology
+is not clear but it is thought that physical trauma of the prostate during receptive anal
+intercourse and the major incidence of HIV could favor the development of PCa [ 35 ].
+Rider et al. showed that men reporting *≥* 21 ejaculations per month compared to subjects
+with 4–7 ejaculations per month had a significantly lower risk of total PCa, with an HR
+of 0.81 (95% CI 0.72–0.92) and 0.78 (95% CI 0.69–0.89) at 20–29 years and 40–49 years,
+respectively [ 13 ]. Papa et al. described an inverse association between EF and PCa at age
+30 to 39 (OR per 5-unit increase per week 0.83, 95% CI: 0.72–0.96) but not at ages 20 to 29 or
+40 to 49 [ 14 ]. Several hypotheses were proposed to explain the correlation between EF and
+PCa. In the prostatic acini, luminal secretion is rich in corpora amylacea, and the increase
+in their number with age appears to be related to an increased incidence of PCa. A greater
+level of sexual activity may lead to less accumulation of these bodies, which has been
+supposed to have a carcinogenic effect [ 36, 37 ]. Furthermore, EF regulates the expression of
+several genes in the prostate tissue. Sinnot et al. reported that EF modifies some molecular
+pathways, such as Ubiquitin Mediated Proteolysis (involved in cell cycle regulation), and
+the Citrate Cycle pathway (involved in citrate production). Citrate production decreases in
+PCa and increases in benign prostatic hyperplasia (BPH) [ 15 ]; moreover, it is known that
+in early prostate tumorigenesis there is a metabolic switch from citrate secretion to citrate
+oxidation [ 38 ]. Regarding sexual orientation, in 2002 Rosenblatt et al. showed that there
+was no association between sexual orientation and PCa [ 16 ]. Finally, EF may be linked to the
+alleviation of psychological tension and thus to the suppression of the central sympathetic
+nervous system, which may reduce the stimulation of the division of the epithelial cells of
+the prostate [ 17 ]. In addition, increased sexual activity can also be considered a risk factor
+for PCa development. Multiple and lasting episodes of STDs may represent a high risk
+for PCa development. It was proposed that gonorrhea and other bacterial infections may
+cause PCa through prostate inflammation and atrophy, whereas viral infections may have
+direct pro-oncogenetic properties or immunosuppressive effects [ 18 ]. In a meta-analysis
+performed by Lian et al., involving 21 studies and 9965 patients with PCa, the authors
+found a high incidence of tumors in patients with gonorrhea infection (OR 1.31, 95%
+CI 1.14–1.52 ), particularly in African American males (OR 1.32, 95% CI 1.06–1.65) [ 39 ]. Data
+showed that HIV is associated with several genitourinary malignancies with an increased
+incidence in the population with HPV infection [ 40 ]. Hessol et al. identified 32 cases of PCa
+in a population of 14,000 adults in San Francisco between 1990 and 2001. The standardized
+incidence was greater when compared to the general population [ 41 ]. A recent metaanalysis by Sun et al., evaluating 27 articles and 2780 men with HIV/AIDS, showed a
+decreased incidence of PCa in patients with HIV infection (SIR 0.76; 95% CI, 0.64–0.91 ;
+*p* = 0.003 ) [ 19 ]. Nevertheless, a significant correlation between PCa incidence and duration
+of HIV infection ( *p* = 0.047) has been previously demonstrated [ 20 ]. Among viruses, human
+papillomavirus (HPV) infection is related to several cancers and is the most important
+oncogenic virus. About 15% of all human cancers are caused by HPV and, specifically,
+more than 60,000 cases of cervix, penile, vaginal, vulvar, anal, neck, and head cancers [ 42 ].
+Chronic inflammation is the pathogenetic mechanism related to cancer. There are more
+than 100 types of HPV; however, HPV 16 and HPV 18 are the most common oncogenetic
+forms [ 43 ]. Although there are more than 200 types, only 40 are related to genital tract
+infection. These types can be divided into two categories: low-risk HPV types (6, 11,
+42, 43, and 44), causing genital warts; and high-risk HPV types (16, 18, 31, 33, 39, etc.),
+
+suppressor processes, such as cell cycle progression, DNA repair, apoptosis, differentiation,
+senescence, and chromatin remodeling [45,46] (Figure 4).
+
+**Figure 3.** Risk of bias domains.
+
+These two oncoproteins are able to bind p53, Bcl-2/surviving and retinoblastoma
+proteins, respectively, which are related to the cellular cycle control. In a retrospective
+study conducted in 2017, Glenn et al. identified HPV in 28 of 52 patients with an initial
+benign prostate biopsy and who subsequently developed PCa. This virus was biologically
+active and the higher prevalence of E7 protein suggested that HPV oncogenic activity was
+an early phenomenon in prostate oncogenesis [ 47 ]. Yin et al., in a metanalysis of 24 studies
+involving 971 patients and 1085 controls, showed that HPV infection significantly increased
+the risk of PCa (OR = 2.27 (95% CI, 1.40–3.69) [48].
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 8 of 16
+
+**Figure 4.** Molecular mechanisms of HPV-induced carcinogenesis. E6 and E7 bind and inactivate the
+p53 pathway, and pRb, p21, p27, p107, and p130 tumor suppressor gene products. This leads to cell
+cycle disregulation and carcinogenesis. HPV: human papillomavirus.
+
+*3.2. Penile Cancer (PC)*
+
+Although PC is an uncommon tumor, its incidence is significantly higher in developing countries [ 49 ]. Globally, 26,300 new cases of penile cancer are diagnosed each year [ 50 ].
+Its prevalence varies between different populations, and the current opinion is that these
+race effects are related to differences in sexual and behavior patterns [ 51 ]. Squamous
+cell carcinoma (SCC) represents the majority of cases of PC, and up to 80% of cases are
+localized at the glans and prepuce [ 52 ]. Penile cancer and its treatment may have a significant impact on sexuality and intimacy, body image, urinary function, mental health,
+and health-related quality of life (HRQOL) [ 53 ]. The recognized risk factors for PC include
+poor penile hygiene, HPV infection, smoking, and chronic inflammatory conditions [ 54 ]. In
+particular, HPV infection can result in a spectrum of genitourinary manifestations, ranging
+from genital warts to PC [ 21 ]. Nationally representative surveys conducted in the USA
+showed that HPV may achieve a prevalence of around 80% depending on parameters
+of the population including age, sex, immune status, and sexual behavior [ 22 ]. To date,
+over 200 HPV genotypes have been identified, which can be classified according to their
+oncogenicity in high-risk genotypes, including HPV 16, 18, 33, and 35, whereas low-risk
+genotypes include HPV 6 and 11 [ 55 ]. In about 50% of cases, multiple genotypes are present
+at the same time. Although low-risk genotypes are the main cause of genital warts, they
+are generally not related to PC [ 56 ]. In a recent systematic review, Parkin and Bray found
+that about 40% of PCs were related to HPV, and the most frequent genotype was HPV
+16. However, they also noted that this percentage may be overestimated by a coincident
+presence of the virus, rather than a causal relationship [ 50 ]. The HPV infection process
+appears to be based on the integration of HPV DNA into the human genome. This induces
+a deregulated transcription of the viral oncogenes E6 and E7, chromosomal instability,
+and genetic or epigenetic oncogenic alterations, leading to dysplasia and, potentially, to
+carcinogenesis [ 57 ]. The transmission of HPV is facilitated by sexual intercourse through
+mucosal contact or secretions. Based on this, several studies in recent years have investigated the potentially increased risk in partners of patients with a diagnosis of penile
+cancer. A systematic review in 2017 by Mirghani et al. showed that, following the first
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 9 of 16
+
+observation studies that showed a geographic correlation between rates of cervical and
+penile cancers, several subsequent studies supposed a causality regarding the incidence
+of cervical cancer in partners of patients diagnosed with penile cancer. This suggested
+that partners of patients with HPV-related cancers also had a higher risk of developing
+HPV-related cancers [ 22 ]. However, this study was subject to various limitations, as indicated by the authors, and more recent studies did not show any higher risk in this
+population, and thus did not confirm this hypothesis [ 23, 58 ]. Another interesting study
+about the role of sexual activity in the development of penile cancer was conducted by
+Madsen et al., which showed a significant association between heterosexual oral-penis
+sex and the risk of squamous PC. More specifically, the association with the number of
+female partners performing oral sex (OR 3.65; 95% CI, 1.14–11.7; for *≥* 3 versus 0 oral sex
+partners, *p* = 0.04 ) was statistically significant in the multivariate analysis. This suggested
+that oral sex could be an underestimated factor in HPV transmission increasing PC risk [ 24 ].
+HPV is not the only sexually transmitted infection that can play a role in PC development;
+thus, some authors also considered HIV infection as a potential risk factor for PC or other
+HPV-related cancers. Although a clear mechanism has not yet been elucidated, HIV-related
+immunosuppression probably plays an important role [ 46 ]. A 2016 estimate showed that
+nearly 40 million people globally are living with HIV [ 59 ]. Its prevalence is concentrated
+mostly in the African territories, whereas, in low prevalence territories such as Europe, the
+virus is transmitted mainly in certain contexts, such as drug users, men who have sex with
+men (MSM), sex workers, and transgender people [ 59 ]. In addition, it appears to be an
+aggravating factor and an accelerator of disease progression [ 25, 60 ]. Concerning predisposing factors of disease progression, as in other cancers, chronic inflammation can play an
+important role in creating a suitable microenvironment for PC development/progression.
+In this context, studies have recorded a significant increase in the risk of PC among males
+with phimosis [ 21 ]. Thus, during sexual arousal, the preputial epithelium stretches, thus
+diminishing its already thin layer of keratin. During intercourse, this vulnerable structure
+is directly exposed to the potentially infected partner’s secretions [ 60 ]. The preputial
+cavity offers a hospitable environment for an infectious inoculum; moreover, it can be the
+retention site of the epidermal cells, urine, and smegma, leading to chronic inflammation
+and possible bacterial superinfection [ 61 ]. The available studies regarding the effect of
+circumcision on the risk of contracting HPV are conflicting [ 62 – 64 ]. However, some papers
+reported a lower incidence of PC in Jewish men [ 65 ] and a recent meta-analysis described
+a strong protective effect of childhood/adolescent circumcision on invasive PC (OR 0.33;
+95% CI 0.13–0.83) [ 66 ]. These data point to circumcision as an effective strategy for penile
+tumor prevention. No study correlating penile trauma or sex-related microtrauma to the
+onset of PC is available in the literature.
+
+*3.3. Testicular Cancer (TC)*
+
+TC is the most common solid tumor in males between 20 and 40 years, representing 1%
+to 1.5% of cancer in males, and 5% of urologic tumors in general [ 67 ]. Among TCs, testicular
+germ cell tumors (GCTs) represent 95% of malignant tumors, and are further clinically and
+histologically subclassified into seminomas and non-seminomas. Non-seminoma tumors
+are the more clinically aggressive subtype but, with current treatment, 5 year survival
+rates exceed 70% [ 68 ]. The pathogenesis of this cancer is not fully clarified, but the rapid
+increase in incidence suggests that critical changes in environmental factors may contribute
+to the development of cancer [ 69 ]. Several risk factors have been proposed for TC, including cryptorchidism, contralateral GCT, familial association, infertility, testicular atrophy,
+trauma, surgery, socioeconomic status, environmental factors, occupational exposure to
+noxious conditions, and Klinefelter syndrome [ 67 ]. Several trials involving controlled
+studies, cancer registry reports, clinical case series, and case reports have explored these
+factors. The data are relatively heterogeneous and the significance of some parameters
+remains uncertain. Undescended testis (cryptorchidism), contralateral testicular GCT,
+and familial testicular GCT are the only factors with an established evidence. Infertility,
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 10 of 16
+
+twinship, and testicular atrophy are also associated with GCT risk, but the level of evidence
+is clearly lower [ 70 ]. More recently, the literature has focused on the association between
+inflammation and cancer, suggesting that it may play an important role in the occurrence
+and progression of TC [ 5 ]. The relationship between inflammation and tumors can be
+partly attributed to infections, with up to 20% of all cases of cancer globally associated
+with microbial infections [ 5 ]. In particular, chronic inflammation has been founded to
+mediate several diseases, such as as cardiovascular diseases, cancer, diabetes, arthritis,
+Alzheimer’s disease, pulmonary diseases, and autoimmune diseases [ 71 ]. In tumorigenesis,
+chronic inflammation is involved in different steps, including cellular transformation, promotion, survival, proliferation, invasion, angiogenesis, and metastasis [ 72 ]. Inflammation
+cells, such as macrophages and other leukocytes, produce several mutagenic agents, such
+as reactive oxygen and nitrogen species, that cause mutation when they interact with
+DNA. Furthermore, DNA damage is increased by tumor necrosis factor-alpha (TNF- α ) and
+macrophage migration inhibitory factors. The migration inhibitory factor is involved in
+the p53 pathway, which causes an accumulation of oncogenic mutations and alteration
+of the Rb-E2F pathway [ 73 ]. In the 1980s, Newell et al. and Algood et al. theorized the
+possible causal relationship between viral infections and TGCT [ 26, 74 ]. Most of the viruses
+involved in STDs have an age-related prevalence that coincides with that observed in
+TGCTs [ 27 ]. However, the literature does not show a clear and direct link between SA
+and the development of TC. In recent years, several viruses potentially associated with
+the development of TGCTs (e.g., human papillomavirus (HPV), Epstein–Barr virus (EBV),
+cytomegalovirus (CMV), Parvovirus B-19, and human immunodeficiency virus (HIV))
+have been studied, but with contrasting results [ 27 ]. The immune system plays a key
+role in the prevention of the occurrence of clinical malignancy; therefore, HIV may create
+a favorable environment for the development of tumors, including those of TC [ 28 ]. In
+Western countries, the majority of HIV-infected people are men, thus explaining why the
+incidence of testicular cancer is also increased in men with HIV [ 75 ]. In a 2017 review,
+Hentrich showed that seminoma and extragonadal germ cell cancer are more frequent in
+HIV-infected patients, whereas the risk for nonseminoma was marginally increased [ 76 ].
+In the same way, HPV is closely linked with infertility in males and the role of this virus
+in testicular carcinogenesis cannot be excluded [ 66 ]. Recently, Kao et al. focused on epididymoorchitis, an inflammatory disease that affects the epididymis and the testis, caused
+by a wide range of microbes, including sexually transmitted and urinary germs. The
+authors found that patients with TC had a higher prevalence of prior epididymoorchitis
+than subjects without TC (11.0% vs. 0.3%, *p* < 0.001) and prior epididymoorchitis was
+significantly associated with TC even after adjustment for other variables (OR 47.17, 95%
+CI 23.83–93.40) [ 73 ]. However, a meta-analysis conducted by Traber et al. reported that
+mumps orchitis or orchitis infection were not associated with TGCT (pooled OR: 1.80, 95%
+CI 0.74–4.42) [ 30 ]. Testicular inflammation can also be the consequence of a traumatic
+event; more specifically, traumatic injuries to the testicle may result from either blunt or
+penetrating trauma. Sexual intercourse, in addition to sport activities, may represent a
+cause of this trauma. Testicular trauma can lead to various consequences, such as hydrocele,
+hematocele, hematoma, testicular rupture, alterations in perfusion, and dislocation of the
+testis [ 77 ]. No relationship between testicular trauma and cancer has been described in the
+literature; however, instrumental examinations indicated in these situations may enable
+the identification of pre-existing lesions [78].
+
+**4. Prevention**
+
+Although the relationship between sexual activity and male cancer is not yet fully
+understood, and strong evidence has not yet been provided, there are some behaviors
+that could be adopted to reduce risk. First, prevention of STIs can play a crucial role in
+decreasing cancer incidence [ 79 ]. Several measures can be adopted to prevent or reduce
+STI transmission:vaccination coverage; reduction in the efficacy of transmission (condoms,
+microbicides, etc.); treatment of the infection to reduce the duration of infectivity; changes in
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 11 of 16
+
+sexual behaviors; avoidance of oral, anal, and vaginal sex; having a mutually monogamous
+relationship with someone who is not infected; decreasing the number of sexual partners;
+and avoiding or limiting the use of alcohol and drugs before and during sex [ 79 ] (Table 2).
+
+**Table 2.** Role of SA in development of male genital cancers.
+
+**Protective Factors** **Risk Factors**
+
+Transmission of HPV 16 and HPV 18;
+Penile cancer Circumcision * transmission of HIV;
+phimosis
+
+High number of sexual partners; homosexuality;
+Prostate cancer High ejaculatory frequency
+STDs (e.g., gonorrhea)
+
+Testicular cancer Trauma ** Viral infection and epididymoorchitis ***
+
+SA: sexual activity; HPV: human papillomavirus; STD: sexually transmitted disease; NA: not available. * Conflicting data, ** Allows
+incidental diagnosis, *** Very low evidence.
+
+The use of male condoms is the most effective method of reducing STI transmission.
+Condoms provide an impervious barrier to pathogens in genital fluids. Their correct and
+consistent use is highly effective in reducing the risk of transmission of different STIs,
+including HIV/AIDS. Nonetheless, condoms may fail due to either method failure or user
+failure. Examples of the former include rupture or breakage, slippage, incomplete coverage
+of infected areas, and rare manufacturing defects. Types of user failure include inconsistent
+use, genital contact prior to use, incorrect application and positioning, use of oil-based
+lubricants, and incorrect withdrawal. Several studies have shown that the consistent and
+correct use of condoms reduces the risk of acquiring HIV infection by 87%. In addition,
+the importance of the correct and consistent use of condoms has been confirmed by data
+that show about 80% of new HIV transmissions result from individuals who do not know
+
+they are infected [ 80 ]. The most important health problems relate to adolescents that have
+a misconception of the correct and consistent use of condoms. One of the most important
+topics in public health is the introduction of an appropriate and accurate educational course.
+Vaccines against STIs, and particularly those against HPV, are another important topic in
+public health. At present, guidelines indicate that there are three vaccines approved in
+Europe for females and males [ 81 ], namely: Gardasil (Merck & Co., Kenilworth, NJ, USA),
+a quadrivalent HPV vaccine and the first commercially available HPV vaccine licensed by
+the United States Food and Drug Administration (FDA), in 2006; Cervivax, (GSK, Brentford,
+UK) a bivalent HPV vaccine, approved by the European Medicines Agency (EMA) in 2007
+and by the FDA in 2009; and the World Health Organization’s human papillomavirus
+vaccines [ 82 ], which protects against the most common oncogenic genotypes of HPV (types
+16 and 18), responsible for around 70% of cervical cancers [ 83 ]. Gardasil was developed
+against HPV 16, 18, and 11. In particular, HPV 6 and HPV 11 cause around 90% of genital
+warts. In 2014, a nine-valent vaccine, Gardasil 9 (Merck & Co., Kenilworth, NJ, USA), was
+licensed by the FDA, and offers protection against HPV 6, 11, 16, 18, 31, 33, 45, 53, and
+58 [ 84 ]. According to the World Health Organization, HPV vaccination is recommended at
+the age of 9–14 in girls and, in some countries, boys aged 11–13 years [ 85, 86 ]. Vaccination at
+a young age is preferred because several studies have shown that vaccines are less effective
+after the onset of sexual activity and exposure to HPV. Thus, it is strongly recommended
+that immunization takes place before initiation of sexual activity and subsequent exposure
+to HPV [ 87 ]. Although there is a lower risk of HPV-related cancers in heterosexual men,
+it is very important to vaccinate men because this offers protection for both individuals,
+thus leading to a faster achievement of “herd immunity” by reducing the size of the
+overall HPV reservoir [ 87 ]. Several studies have shown the positive effects of vaccines
+in men. The quadrivalent vaccine in HPV-naïve men has been shown to reduce the risk
+of a persistent anal HPV 16/18 infection by 96% [ 88 ]. Hillman et al. showed that the
+immunogenicity of the quadrivalent human papillomavirus vaccine is highly effective in
+men aged from 16 to 26 years, with seroconversion within 7 months and antibody detection
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 12 of 16
+
+even at 36 months [ 89 ]. Giuliano et al. showed similar outcomes regarding the effect of the
+quadrivalent HPV vaccine against infection in male patients [ 90 ]. In a recent systematic
+review of 5196 articles and seven studies (four randomized controlled trials (RCTs) and
+three non-randomized studies) involving 5294 participants, on the effectiveness and safety
+of vaccination against the human papillomavirus in male patients, Harder et al. showed
+that vaccine effectiveness was low in individuals who were previously infected with the
+corresponding HPV type, but high when compared with groups of HPV-negative males [ 91 ].
+Thus, early vaccination of boys is appropriate, with the goal of vaccine-induced protection
+before the onset of sexual activity. Another important topic regarding the prevention of
+HPV infection is circumcision. Although data are still unclear, many studies have shown a
+positive effect of circumcision to prevent HPV infection. In a study involving 4033 healthy
+men, Albero et al. showed that circumcision is not associated with the incidence and
+clearance of genital HPV detection, with the exception of certain HPV types. The clearance
+incidence was significantly lower among circumcised versus uncircumcised men for HPV
+types 58 ( *p* = 0.01), 68 ( *p* < 0.001), 42 ( *p* = 0.01), 61 ( *p* < 0.001), 71 ( *p* < 0.001), 81 ( *p* = 0.04), and
+IS39 ( *p* = 0.01), and higher for HPV types 39 ( *p* = 0.01) and 51 ( *p* = 0.02). Despite the lack of
+an overall association between the risk of HPV clearance and circumcision (for any HPV,
+aHR 0.95, 95% CI 0.88–1.02) [ 92 ]. Tobian et al. showed that the prevalence of high-risk
+HPV genotypes was 18.0% in the circumcised group and 27.9% in the uncircumcised group
+(adjusted risk ratio, 0.65; 95% CI, 0.46 to 0.90; *p* = 0.009) [ 93 ]. In another randomized
+controlled study involving 1264 men aged 18–24 years, Auvert et al. showed that the
+prevalence of urethral HR-HPV infection after circumcision was reduced (95% CI 1.5–3.3)
+and 2.2 (95% CI 1.5–3.2) [ 94 ]. Circumcision has various health benefits, not only related to
+HPV prevention, namely, making it easier to wash the penis, decreasing the risk of urinary
+tract infections in males, and decreasing the risk of penile cancer [ 95 ]. Circumcision is
+highly important in phimosis prevention and treatment. Phimosis or lichen sclerosus can
+cause chronic preputial inflammation, which, in several cases, is associated with penile
+cancer. Circumcision lowers the risk of penile cancer (hazard ratio: 0.33) [96].
+
+**5. Strengths and Limitations**
+
+To the best of our knowledge, this is the first systematic review describing the impact
+of SA on male genital cancers. This paper should be interpreted in the context of several
+limitations. The main limitation is the lack of data synthesis. Other weaknesses are the
+relative paucity of relevant studies (particularly for TC), and the studies’ heterogeneity,
+contradictory results, and overall moderate-to-low quality. In addition, several mechanisms
+by which SA may be implicated in the development of male genital tumors are only
+hypothesized or inferred indirectly. Finally, the lack of detail in the descriptions of the
+characteristics of SA (e.g., type, duration, frequency, and partner) in the original studies
+makes it difficult to interpret the data.
+
+**6. Conclusions**
+
+The association between SA and male genital tumors may be based on several sexrelated risk factors. SA is closely associated with the development of PC through the
+high-risk HPV transmission; in this context, phimosis appears to be a favoring factor.
+Sexual behaviors appear to play a significant role in PCa pathogenesis, probably through
+inflammatory mechanisms; however, protective sexual habits have also been described. A
+direct correlation between SA and TC has not yet been proven, although infections remain
+the most studied sex-related factor. The limited evidence available in the literature prevents
+clear conclusions from being drawn. Further primary studies with appropriate designs are
+needed to elucidate the association between SA and male genital tumors.
+
+**Author Contributions:** Conceptualization: F.C., C.M. and D.A.; methodology L.N. and F.P.C.; software: R.L.R., M.C.; validation: C.I. and M.D.S.; formal analysis: B.B. and V.F.C.; investigation: F.C.
+and L.N.; resources: D.A.; data curation: F.P.C. and V.F.C.; writing—original draft preparation: R.L.R.
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 13 of 16
+
+and M.C.; writing—review and editing: C.I. and M.D.S.; visualization: L.N. and B.B.; supervision:
+D.A. All authors have read and agreed to the published version of the manuscript.
+
+**Funding:** This research received no external funding.
+
+**Institutional Review Board Statement:** Not applicable.
+
+**Informed Consent Statement:** Not applicable.
+
+**Conflicts of Interest:** The authors declare no conflict of interest.
+
+**References**
+
+1. Ventriglio, A.; Bhugra, D. Sexuality in the 21st Century: Sexual Fluidity. *East Asian Arch. Psychiatry* **2019**, *29* [, 30–34. [CrossRef]](http://doi.org/10.12809/eaap1736)
+
+[[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed/31237255)
+2. Cao, C.; Yang, L.; Xu, T.; Cavazos-Rehg, P.A.; Liu, Q.; McDermott, D.; Veronese, N.; Waldhoer, T.; Ilie, P.C.; Shariat, S.F.; et al.
+Trends in Sexual Activity and Associations with All-Cause and Cause-Specific Mortality Among US Adults. *J. Sex. Med.* **2020**, *17*,
+[1903–1913. [CrossRef]](http://doi.org/10.1016/j.jsxm.2020.05.028)
+3. De Martel, C.; Plummer, M.; Vignat, J.; Franceschi, S. Worldwide burden of cancer attributable to HPV by site, country and HPV
+type. *Int. J. Cancer* **2017**, *141* [, 664–670. [CrossRef]](http://doi.org/10.1002/ijc.30716)
+4. Grivennikov, S.I.; Greten, F.; Karin, M. Immunity, Inflammation, and Cancer. *Cell* **2010**, *140* [, 883–899. [CrossRef]](http://doi.org/10.1016/j.cell.2010.01.025)
+5. Elinav, E.; Nowarski, R.; Thaiss, C.A.; Hu, B.; Jin, C.; Flavell, R.A. Inflammation-induced cancer: Crosstalk between tumours,
+immune cells and microorganisms. *Nat. Rev. Cancer* **2013**, *13* [, 759–771. [CrossRef] [PubMed]](http://doi.org/10.1038/nrc3611)
+6. Tewari, A.K.; Stockert, J.A.; Yadav, S.S.; Yadav, K.K.; Khan, I. Inflammation and Prostate Cancer. *Chem. Biol. Pteridines Folates* **2018**,
+*1095* [, 41–65. [CrossRef]](http://doi.org/10.1007/978-3-319-95693-0_3)
+7. Liberati, A.; Altman, D.G.; Tetzlaff, J.; Mulrow, C.D.; Gøtzsche, P.C.; Ioannidis, J.P.A.; Clarke, M.; Devereaux, P.; Kleijnen, J.;
+Moher, D. The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care
+Interventions: Explanation and Elaboration. *PLoS Med.* **2009**, *6* [, e1000100. [CrossRef]](http://doi.org/10.1371/journal.pmed.1000100)
+8. Schardt, C.; Adams, M.B.; Owens, T.; Keitz, S.; Fontelo, P. Utilization of the PICO framework to improve searching PubMed for
+clinical questions. *BMC Med. Inf. Decis. Mak.* **2007**, *7* [, 16. [CrossRef] [PubMed]](http://doi.org/10.1186/1472-6947-7-16)
+9. Zeng, X.-T.; Zhang, Y.; Kwong, J.S.; Zhang, C.; Li, S.; Sun, F.; Niu, Y.; Du, L. The methodological quality assessment tools for
+preclinical and clinical studies, systematic review and meta-analysis, and clinical practice guideline: A systematic review. *J.*
+*Evid.-Based Med.* **2015**, *8* [, 2–10. [CrossRef]](http://doi.org/10.1111/jebm.12141)
+10. Sterne, J.A.; Hernán, M.A.; Reeves, B.C.; Savovi´c, J.; Berkman, N.D.; Viswanathan, M.; Henry, D.; Altman, D.G.; Ansari, M.T.;
+Boutron, I.; et al. ROBINS-I: A tool for assessing risk of bias in non-randomised studies of interventions. *BMJ* **2016**, *355*, i4919.
+
+[[CrossRef]](http://doi.org/10.1136/bmj.i4919)
+11. Shea, B.J.; Reeves, B.C.; Wells, G.; Thuku, M.; Hamel, C.; Moran, J.; Moher, D.; Tugwell, P.; Welch, V.; Kristjansson, E.; et al.
+AMSTAR 2: A critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare
+interventions, or both. *BMJ* **2017**, *358* [, j4008. [CrossRef] [PubMed]](http://doi.org/10.1136/bmj.j4008)
+12. Spence, A.R.; Rousseau, M.-C.; Parent, M.É. Sexual partners, sexually transmitted infections, and prostate cancer risk. *Cancer*
+*Epidemiol.* **2014**, *38* [, 700–707. [CrossRef]](http://doi.org/10.1016/j.canep.2014.09.005)
+13. Rider, J.R.; Wilson, K.M.; Sinnott, J.A.; Kelly, R.S.; Mucci, L.A.; Giovannucci, E.L. Ejaculation Frequency and Risk of Prostate
+Cancer: Updated Results with an Additional Decade of Follow-up. *Eur. Urol.* **2016**, *70* [, 974–982. [CrossRef] [PubMed]](http://doi.org/10.1016/j.eururo.2016.03.027)
+14. Papa, N.P.; MacInnis, R.; English, D.R.; Bolton, D.; Davis, I.D.; Lawrentschuk, N.; Millar, J.; Pedersen, J.; Severi, G.; Southey, M.C.;
+et al. Ejaculatory frequency and the risk of aggressive prostate cancer: Findings from a case-control study. *Urol. Oncol. Semin.*
+*Orig. Investig.* **2017**, *35* [, 530.e7–530.e13. [CrossRef]](http://doi.org/10.1016/j.urolonc.2017.03.007)
+15. Sinnott, J.A.; Brumberg, K.; Wilson, K.M.; Ebot, E.M.; Giovannucci, E.L.; Mucci, L.A.; Rider, J.R. Differential Gene Expression in
+Prostate Tissue According to Ejaculation Frequency. *Eur. Urol.* **2018**, *74* [, 545–548. [CrossRef] [PubMed]](http://doi.org/10.1016/j.eururo.2018.05.006)
+16. Rosenblatt, K.A.; Wicklund, K.G.; Stanford, J.L. Sexual factors and the risk of prostate cancer. *Am. J. Epidemiol.* **2001**, *153*,
+[1152–1158. [CrossRef]](http://doi.org/10.1093/aje/153.12.1152)
+17. Jian, Z.; Ye, D.; Chen, Y.; Li, H.; Wang, K. Sexual Activity and Risk of Prostate Cancer: A Dose–Response Meta-Analysis. *J. Sex.*
+*Med.* **2018**, *15* [, 1300–1309. [CrossRef]](http://doi.org/10.1016/j.jsxm.2018.07.004)
+18. Cheng, I.; Witte, J.S.; Jacobsen, S.; Haque, R.; Quinn, V.P.; Quesenberry, C.P.; Caan, B.; Eeden, S.K.V.D. Prostatitis, Sexually
+Transmitted Diseases, and Prostate Cancer: The California Men’s Health Study. *PLoS ONE* **2010**, *5* [, e8736. [CrossRef]](http://doi.org/10.1371/journal.pone.0008736)
+19. Sun, D.; Cao, M.; Li, H.; Ren, J.; Shi, J.; Li, N.; Chen, W. Risk of prostate cancer in men with HIV/AIDS: A systematic review and
+meta-analysis. *Prostate Cancer Prostatic Dis.* **2021**, *24* [, 24–34. [CrossRef]](http://doi.org/10.1038/s41391-020-00268-2)
+20. Crum, N.F.; Spencer, C.R.; Amling, C.L. Prostate carcinoma among men with human immunodeficiency virus infection. *Cancer*
+**2004**, *101* [, 294–299. [CrossRef]](http://doi.org/10.1002/cncr.20389)
+21. Daling, J.R.; Madeleine, M.M.; Johnson, L.G.; Schwartz, S.; Shera, K.A.; Wurscher, M.A.; Carter, J.J.; Porter, P.L.; Galloway, D.A.;
+McDougall, J.K.; et al. Penile cancer: Importance of circumcision, human papillomavirus and smoking inin situ and invasive
+disease. *Int. J. Cancer* **2005**, *116* [, 606–616. [CrossRef] [PubMed]](http://doi.org/10.1002/ijc.21009)
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 14 of 16
+
+22. Mirghani, H.; Sturgis, E.M.; Aupérin, A.; Monsonego, J.; Blanchard, P. Is there an increased risk of cancer among spouses of
+patients with an HPV-related cancer: A systematic review. *Oral Oncol.* **2017**, *67* [, 138–145. [CrossRef]](http://doi.org/10.1016/j.oraloncology.2017.02.024)
+23. Iversen, T.H.; Tretli, S.; Johansen, A.; Holte, T. Squamous cell carcinoma of the penis and of the cervix, vulva and vagina in
+spouses: Is there any relationship? An epidemiological study from Norway, 1960–1992. *Br. J. Cancer* **1997**, *76* [, 658–660. [CrossRef]](http://doi.org/10.1038/bjc.1997.441)
+24. Madsen, B.S.; Brule, A.J.V.D.; Jensen, H.L.; Wohlfahrt, J.; Frisch, M. Risk Factors for Squamous Cell Carcinoma of the Penis–
+Population-Based Case-Control Study in Denmark. *Cancer Epidemiol. Biomark. Prev.* **2008**, *17* [, 2683–2691. [CrossRef] [PubMed]](http://doi.org/10.1158/1055-9965.EPI-08-0456)
+25. Lekoane, K.M.B.; Kuupiel, D.; Mashamba-Thompson, T.P.; Ginindza, T.G. The interplay of HIV and human papillomavirus-related
+cancers in sub-Saharan Africa: Scoping review. *Syst. Rev.* **2020**, *9* [, 1–13. [CrossRef]](http://doi.org/10.1186/s13643-020-01354-1)
+26. Algood, C.B.; Newell, G.R.; Johnson, D.E. Viral Etiology of Testicular Tumors. *J. Urol.* **1988**, *139* [, 308–310. [CrossRef]](http://doi.org/10.1016/S0022-5347(17)42394-9)
+27. Garolla, A.; Vitagliano, A.; Muscianisi, F.; Valente, U.; Ghezzi, M.; Andrisani, A.; Ambrosini, G.; Foresta, C. Role of Viral Infections
+in Testicular Cancer Etiology: Evidence from a Systematic Review and Meta-Analysis. *Front. Endocrinol.* **2019**, *10* [, 1–12. [CrossRef]](http://doi.org/10.3389/fendo.2019.00355)
+28. Grulich, A.E.; van Leeuwen, M.; Falster, M.; Vajdic, C. Incidence of cancers in people with HIV/AIDS compared with immunosuppressed transplant recipients: A meta-analysis. *Lancet* **2007**, *370* [, 59–67. [CrossRef]](http://doi.org/10.1016/S0140-6736(07)61050-2)
+29. Kao, L.-T.; Lin, H.-C.; Chung, S.-D.; Huang, C.-Y. Association between Testicular Cancer and Epididymoorchitis: A PopulationBased Case-Control Study. *Sci. Rep.* **2016**, *6* [, 23079. [CrossRef] [PubMed]](http://doi.org/10.1038/srep23079)
+30. Trabert, B.; Graubard, B.I.; Erickson, R.L.; McGlynn, K.A. Childhood infections, orchitis and testicular germ cell tumours: A
+report from the STEED study and a meta-analysis of existing data. *Br. J. Cancer* **2012**, *106* [, 1331–1334. [CrossRef] [PubMed]](http://doi.org/10.1038/bjc.2012.45)
+31. Capece, M.; Creta, M.; Calogero, A.; La Rocca, R.; Napolitano, L.; Barone, B.; Sica, A.; Fusco, F.; Santangelo, M.; Dodaro, C.; et al.
+Does Physical Activity Regulate Prostate Carcinogenesis and Prostate Cancer Outcomes? A Narrative Review. *Int. J. Environ. Res.*
+*Public Health* **2020**, *17* [, 1441. [CrossRef] [PubMed]](http://doi.org/10.3390/ijerph17041441)
+32. Maggi, M.; Gentilucci, A.; Salciccia, S.; Gatto, A.; Gentile, V.; Colarieti, A.; Von Heland, M.; Busetto, G.M.; Del Giudice, F.; Sciarra,
+A. Psychological impact of different primary treatments for prostate cancer: A critical analysis. *Andrology* **2019**, *51*, e13157.
+
+[[CrossRef]](http://doi.org/10.1111/and.13157)
+33. Tarantino, G.; Crocetto, F.; Di Vito, C.; Martino, R.; Pandolfo, S.D.; Creta, M.; Aveta, A.; Buonerba, C.; Imbimbo, C. Clinical factors
+affecting prostate-specific antigen levels in prostate cancer patients undergoing radical prostatectomy: A retrospective study.
+*Futur. Sci. OA* **2021**, *7* [, FSO643. [CrossRef] [PubMed]](http://doi.org/10.2144/fsoa-2020-0154)
+34. [Jsselmuiden, C.B.I.; Faden, R.R. The New England Journal of Medicine. 1956. Available online: https://www.massmed.org/](https://www.massmed.org/About/MMS-Leadership/History/Docendo-Discimus-(PDF)/)
+[About/MMS-Leadership/History/Docendo-Discimus-(PDF)/ (accessed on 12 March 2021).](https://www.massmed.org/About/MMS-Leadership/History/Docendo-Discimus-(PDF)/)
+35. Rosser, B.S.; Hunt, S.; Capistrant, B.; Kohli, N.; Konety, B.; Mitteldorf, D.; Ross, M.; Talley, K.; West, W. Understanding Prostate
+Cancer in Gay, Bisexual, and Other Men Who Have Sex with Men and Transgender Women: A Review of the Literature. In *Gay &*
+*Bisexual Men Living with Prostate Cancer* ; Harrington New York: New York, NY, USA, 2018; pp. 12–37.
+36. Isaacs, J.T. Prostatic structure and function in relation to the etiology of prostatic cancer. *Prostate* **1983**, *4* [, 351–366. [CrossRef]](http://doi.org/10.1002/pros.2990040405)
+37. Crocetto, F.; Boccellino, M.; Barone, B.; Di Zazzo, E.; Sciarra, A.; Galasso, G.; Settembre, G.; Quagliuolo, L.; Imbimbo, C.; Boffo,
+S.; et al. The Crosstalk between Prostate Cancer and Microbiota Inflammation: Nutraceutical Products Are Useful to Balance This
+Interplay? *Nutrition* **2020**, *12* [, 2648. [CrossRef]](http://doi.org/10.3390/nu12092648)
+38. Costello, L.; Franklin, R. The Intermediary Metabolism of the Prostate: A Key to Understanding the Pathogenesis and Progression
+of Prostate Malignancy. *Oncology* **2000**, *59* [, 269–282. [CrossRef]](http://doi.org/10.1159/000012183)
+39. Lian, W.-Q.; Luo, F.; Song, X.-L.; Lu, Y.-J.; Zhao, S.-C. Gonorrhea and Prostate Cancer Incidence: An Updated Meta-Analysis of 21
+Epidemiologic Studies. *Med. Sci. Monit.* **2015**, *21* [, 1895–1903. [CrossRef]](http://doi.org/10.12659/MSM.893579)
+40. Goedert, J.J.; Purdue, M.; McNeel, T.S.; McGlynn, K.A.; Engels, E.A. Risk of Germ Cell Tumors among Men with HIV/Acquired
+Immunodeficiency Syndrome. *Cancer Epidemiol. Biomark. Prev.* **2007**, *16* [, 1266–1269. [CrossRef]](http://doi.org/10.1158/1055-9965.EPI-07-0042)
+41. Hessol, N.A.; Pipkin, S.; Schwarcz, S.; Cress, R.D.; Bacchetti, P.; Scheer, S. The Impact of Highly Active Antiretroviral Therapy on
+Non-AIDS-Defining Cancers among Adults with AIDS. *Am. J. Epidemiol.* **2007**, *165* [, 1143–1153. [CrossRef] [PubMed]](http://doi.org/10.1093/aje/kwm017)
+42. Arbyn, M.; De Sanjosé, S.; Saraiya, M.; Sideri, M.; Palefsky, J.; Lacey, C.; Gillison, M.; Bruni, L.; Ronco, G.; Wentzensen, N.; et al.
+EUROGIN 2011 roadmap on prevention and treatment of HPV-related disease. *Int. J. Cancer* **2012**, *131* [, 1969–1982. [CrossRef]](http://doi.org/10.1002/ijc.27650)
+
+[[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed/22623137)
+43. Schiffman, M.; Castle, P.E.; Jeronimo, J.; Rodriguez, A.C.; Wacholder, S. Human papillomavirus and cervical cancer. *Lancet* **2007**,
+*370* [, 890–907. [CrossRef]](http://doi.org/10.1016/S0140-6736(07)61416-0)
+44. Scully, C. Oral squamous cell carcinoma; from an hypothesis about a virus, to concern about possible sexual transmission. *Oral*
+*Oncol.* **2002**, *38* [, 227–234. [CrossRef]](http://doi.org/10.1016/S1368-8375(01)00098-7)
+45. Bleeker, M.; Heideman, D.A.M.; Snijders, P.J.F.; Horenblas, S.; Dillner, J.; Meijer, C.J.L.M. Penile cancer: Epidemiology, pathogenesis and prevention. *World J. Urol.* **2009**, *27* [, 141–150. [CrossRef] [PubMed]](http://doi.org/10.1007/s00345-008-0302-z)
+46. Buitrago-Pérez, A.; Garaulet, G.; Vázquez-Carballo, A.; Paramio, J.M.; García-Escudero, R. Molecular Signature of HPV-Induced
+Carcinogenesis: pRb, p53 and Gene Expression Profiling. *Curr. Genom.* **2009**, *10* [, 26–34. [CrossRef]](http://doi.org/10.2174/138920209787581235)
+47. Glenn, W.K.; Ngan, C.C.; Amos, T.G.; Edwards, R.J.; Swift, J.; Lutze-Mann, L.; Shang, F.; Whitaker, N.J.; Lawson, J.S. High risk
+human papilloma viruses (HPVs) are present in benign prostate tissues before development of HPV associated prostate cancer.
+*Infect. Agents Cancer* **2017**, *12* [, 1–10. [CrossRef] [PubMed]](http://doi.org/10.1186/s13027-017-0157-2)
+48. Yin, B.; Liu, W.; Yue, C.; Liu, C.; Chen, Y.; Duan, X.; Liao, Z.; Chen, Y.; Wang, X.; Pan, X.; et al. Association between human
+papillomavirus and prostate cancer: A meta-analysis. *Oncol. Lett.* **2017**, *14* [, 1855–1865. [CrossRef] [PubMed]](http://doi.org/10.3892/ol.2017.6367)
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 15 of 16
+
+49. Guimarães, G.C.; Rocha, R.M.; Zequi, S.C.; Cunha, I.W.; Soares, F.A. Penile Cancer: Epidemiology and Treatment. *Curr. Oncol.*
+*Rep.* **2011**, *13* [, 231–239. [CrossRef]](http://doi.org/10.1007/s11912-011-0163-2)
+50. Parkin, D.M.; Bray, F. Chapter 2: The burden of HPV-related cancers. *Vaccine* **2006**, *24* [, S11–S25. [CrossRef] [PubMed]](http://doi.org/10.1016/j.vaccine.2006.05.111)
+51. Calmon, M.F.; Mota, M.T.; Vassallo, J.; Rahal, P. Penile Carcinoma: Risk Factors and Molecular Alterations. *Sci. World J.* **2011**, *11*,
+[269–282. [CrossRef]](http://doi.org/10.1100/tsw.2011.24)
+52. Chipollini, J.; Tang, D.H.; Sharma, P.; Spiess, P.E. National Trends and Predictors of Organ-sparing for Invasive Penile Tumors:
+Expanding the Therapeutic Window. *Clin. Genitourin. Cancer* **2018**, *16* [, e383–e389. [CrossRef]](http://doi.org/10.1016/j.clgc.2017.09.004)
+53. Kieffer, J.; Djajadiningrat, R.S.; Van Muilekom, E.A.; Graafland, N.M.; Horenblas, S.; Aaronson, N.K. Quality of Life for Patients
+Treated for Penile Cancer. *J. Urol.* **2014**, *192* [, 1105–1110. [CrossRef] [PubMed]](http://doi.org/10.1016/j.juro.2014.04.014)
+54. Barocas, D.A.; Chang, S.S. Penile Cancer: Clinical Presentation, Diagnosis, and Staging. *Urol. Clin. N. Am.* **2010**, *37*, 343–352.
+
+[[CrossRef]](http://doi.org/10.1016/j.ucl.2010.04.002)
+55. Muñoz, N.; Bosch, F.X.; De Sanjosé, S.; Herrero, R.; Castellsagué, X.; Shah, K.V.; Snijders, P.J.; Meijer, C.J. Epidemiologic
+Classification of Human Papillomavirus Types Associated with Cervical Cancer. *N. Engl. J. Med.* **2003**, *348* [, 518–527. [CrossRef]](http://doi.org/10.1056/NEJMoa021641)
+
+[[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed/12571259)
+56. Diorio, G.J.; Giuliano, A.R. The Role of Human Papilloma Virus in Penile Carcinogenesis and Preneoplastic Lesions. *Urol. Clin. N.*
+*Am.* **2016**, *43* [, 419–425. [CrossRef] [PubMed]](http://doi.org/10.1016/j.ucl.2016.06.003)
+57. Flaherty, A.; Kim, T.; Giuliano, A.; Magliocco, A.; Hakky, T.S.; Pagliaro, L.C.; Spiess, P.E. Implications for human papillomavirus
+in penile cancer. *Urol. Oncol. Semin. Orig. Investig.* **2014**, *32* [, 53.e1–53.e8. [CrossRef]](http://doi.org/10.1016/j.urolonc.2013.08.010)
+58. De Bruijn, R.E.; Heideman, D.A.; Kenter, G.G.; Van Beurden, M.; Van Tinteren, H.; Horenblas, S. Patients with penile cancer
+and the risk of (pre)malignant cervical lesions in female partners: A retrospective cohort analysis. *BJU Int.* **2013**, *112*, 905–908.
+
+[[CrossRef]](http://doi.org/10.1111/bju.12237)
+59. Ghosn, J.; Taiwo, B.; Seedat, S.; Autran, B.; Katlama, C. HIV. *Lancet* **2018**, *392* [, 685–697. [CrossRef]](http://doi.org/10.1016/S0140-6736(18)31311-4)
+60. Onywera, H.; Williamson, A.-L.; Ponomarenko, J.; Meiring, T.L. The Penile Microbiota in Uncircumcised and Circumcised
+Men: Relationships With HIV and Human Papillomavirus Infections and Cervicovaginal Microbiota. *Front. Med.* **2020**, *7*, 383.
+
+[[CrossRef] [PubMed]](http://doi.org/10.3389/fmed.2020.00383)
+61. Morris, B.J. Why circumcision is a biomedical imperative for the 21st century. *BioEssays* **2007**, *29* [, 1147–1158. [CrossRef] [PubMed]](http://doi.org/10.1002/bies.20654)
+62. Morris, B.J.; Krieger, J.N. Penile inflammatory skin disorders and the preventive role of circumcision. *Int. J. Prev. Med.* **2017**, *8*, 32.
+
+[[CrossRef]](http://doi.org/10.4103/ijpvm.IJPVM_377_16)
+63. Han, J.J.; Beltran, T.H.; Song, J.W.; Klaric, J.; Choi, Y.S. Prevalence of Genital Human Papillomavirus Infection and Human
+Papillomavirus Vaccination Rates among US Adult Men. *JAMA Oncol.* **2017**, *3* [, 810–816. [CrossRef] [PubMed]](http://doi.org/10.1001/jamaoncol.2016.6192)
+64. Dunne, E.F.; Nielson, C.M.; Stone, K.M.; Markowitz, L.E.; Giuliano, A.R. Prevalence of HPV Infection among Men: A Systematic
+Review of the Literature. *J. Infect. Dis.* **2006**, *194* [, 1044–1057. [CrossRef]](http://doi.org/10.1086/507432)
+65. Barnholtz-Sloan, J.; Maldonado, J.L.; Pow-Sang, J.; Guiliano, A.R. Incidence trends in primary malignant penile cancer. *Urol.*
+*Oncol. Semin. Orig. Investig.* **2007**, *25* [, 361–367. [CrossRef] [PubMed]](http://doi.org/10.1016/j.urolonc.2006.08.029)
+66. Larke, N.L.; Thomas, S.L.; Silva, I.D.S.; Weiss, H.A. Male circumcision and penile cancer: A systematic review and meta-analysis.
+*Cancer Causes Control* **2011**, *22* [, 1097–1110. [CrossRef]](http://doi.org/10.1007/s10552-011-9785-9)
+67. Horwich, A.; Shipley, J.; Huddart, R. Testicular germ-cell cancer. *Lancet* **2006**, *367* [, 754–765. [CrossRef]](http://doi.org/10.1016/S0140-6736(06)68305-0)
+68. Gilligan, T.; Lin, D.W.; Aggarwal, R.; Chism, D.; Cost, N.; Derweesh, I.H.; Emamekhoo, H.; Feldman, D.R.; Geynisman, D.M.;
+Hancock, S.L.; et al. Testicular Cancer, Version 2.2020, NCCN Clinical Practice Guidelines in Oncology. *J. Natl. Compr. Cancer*
+*Netw.* **2019**, *17* [, 1529–1554. [CrossRef] [PubMed]](http://doi.org/10.6004/jnccn.2019.0058)
+69. Ghazarian, A.A.; Rusner, C.; Trabert, B.; Braunlin, M.; McGlynn, K.A.; Stang, A. Testicular cancer among US men aged 50 years
+and older. *Cancer Epidemiol.* **2018**, *55* [, 68–72. [CrossRef]](http://doi.org/10.1016/j.canep.2018.05.007)
+70. Dieckmann, K.-P.; Pichlmeier, U. Clinical epidemiology of testicular germ cell tumors. *World J. Urol.* **2004**, *22* [, 2–14. [CrossRef]](http://doi.org/10.1007/s00345-004-0398-8)
+71. Aggarwal, B.B. Nuclear factor-κB: The enemy within. *Cancer Cell* **2004**, *6* [, 203–208. [CrossRef] [PubMed]](http://doi.org/10.1016/j.ccr.2004.09.003)
+72. Singh, N.; Baby, D.; Rajguru, J.P.; Patil, P.B.; Thakkannavar, S.S.; Pujari, V.B. Inflammation and cancer. *Ann. Afr. Med.* **2019**, *18*,
+[121–126. [CrossRef]](http://doi.org/10.4103/aam.aam_56_18)
+73. Pollard, J.W. Tumour-educated macrophages promote tumour progression and metastasis. *Nat. Rev. Cancer* **2004**, *4*, 71–78.
+
+[[CrossRef] [PubMed]](http://doi.org/10.1038/nrc1256)
+74. Newell, G.R.; Mills, P.K.; Johnson, D.E. Epidemiologic comparison of cancer of the testis and Hodgkin’s dis-ease among young
+males. *Cancer* **1984**, *54* [, 1117–1123. [CrossRef]](http://doi.org/10.1002/1097-0142(19840915)54:6&lt;1117::AID-CNCR2820540633&gt;3.0.CO;2-Y)
+75. Fenton, K.A. Changing Epidemiology of HIV/AIDS in the United States: Implications for Enhancing and Promoting HIV Testing
+Strategies. *Clin. Infect. Dis.* **2007**, *45* [, S213–S220. [CrossRef] [PubMed]](http://doi.org/10.1086/522615)
+76. Hentrich, M.; Pfister, D. HIV-Associated Urogenital Malignancies. *Oncol. Res. Treat.* **2017**, *40* [, 106–112. [CrossRef]](http://doi.org/10.1159/000457130)
+77. Fenton, L.Z.; Karakas, S.P.; Baskin, L.; Campbell, J.B. Sonography of pediatric blunt scrotal trauma: What the pediatric urologist
+wants to know. *Pediatr. Radiol.* **2016**, *46* [, 1049–1058. [CrossRef]](http://doi.org/10.1007/s00247-016-3600-4)
+78. Bieniek, J.M.; Juvet, T.; Margolis, M.; Grober, E.D.; Lo, K.C.; Jarvi, K.A. Prevalence and Management of Incidental Small Testicular
+Masses Discovered on Ultrasonographic Evaluation of Male Infertility. *J. Urol.* **2018**, *199* [, 481–486. [CrossRef]](http://doi.org/10.1016/j.juro.2017.08.004)
+79. Lawson, R.M. Sexually Transmitted Infections and Human Immunodeficiency Virus. *Nurs. Clin. N. Am.* **2020**, *55*, 445–456.
+
+[[CrossRef]](http://doi.org/10.1016/j.cnur.2020.06.007)
+
+*Int. J. Environ. Res. Public Health* **2021**, *18*, 8500 16 of 16
+
+80. Li, Z.; Purcell, D.W.; Sansom, S.L.; Hayes, D.; Hall, H.I. Vital Signs:HIV Transmission Along the Continuum of Care—United
+States, 2016. *MMWR Morb. Mortal. Wkly. Rep.* **2019**, *68* [, 267–272. [CrossRef]](http://doi.org/10.15585/mmwr.mm6811e1)
+81. Hirth, J. Disparities in HPV vaccination rates and HPV prevalence in the United States: A review of the literature. *Hum. Vaccines*
+*Immunother.* **2018**, *15* [, 146–155. [CrossRef]](http://doi.org/10.1080/21645515.2018.1512453)
+82. World Health Organization; Electronic address: sageexecsec@who.int. Human papillomavirus vaccines: WHO position paper,
+May 2017-Recommendations. *Vaccine* **2017**, *35* [, 5753–5755. [CrossRef]](http://doi.org/10.1016/j.vaccine.2017.05.069)
+83. José, F.X.B.; Quint, W.G.; Alemany, L.; Geraets, D.T.; Klaustermeier, J.E.; Lloveras, B.; Tous, S.; Felix, A.; Bravo, L.E.; Shin,
+H.-R.; et al. Human papillomavirus genotype attribution in invasive cervical cancer: A retrospective cross-sectional worldwide
+study. *Lancet Oncol.* **2010**, *11* [, 1048–1056. [CrossRef]](http://doi.org/10.1016/s1470-2045(10)70230-8)
+84. Cheng, L.; Wang, Y.; Du, J. Human Papillomavirus Vaccines: An Updated Review. *Vaccines* **2020**, *8* [, 391. [CrossRef] [PubMed]](http://doi.org/10.3390/vaccines8030391)
+85. Dobson, S.R.M.; McNeil, S.; Dionne, M.; Dawar, M.; Ogilvie, G.S.; Krajden, M.; Sauvageau, C.; Scheifele, D.W.; Kollmann, T.R.;
+Halperin, S.A.; et al. Immunogenicity of 2 Doses of HPV Vaccine in Younger Adolescents vs. 3 Doses in Young Women: A
+randomized clinical trial. *JAMA* **2013**, *309* [, 1793–1802. [CrossRef] [PubMed]](http://doi.org/10.1001/jama.2013.1625)
+86. Romanowski, B.; Schwarz, T.F.; Ferguson, L.M.; Peters, K.; Dionne, M.; Schulze, K.; Ramjattan, B.; Hillemanns, P.; Catteau, G.;
+Dobbelaere, K.; et al. Immunogenicity and safety of the HPV-16/18 AS04-adjuvanted vaccine administered as a 2-dose schedule
+compared to the licensed 3-dose schedule. *Hum. Vaccines* **2011**, *7* [, 1374–1386. [CrossRef]](http://doi.org/10.4161/hv.7.12.18322)
+87. Athanasiou, A.; Bowden, S.; Paraskevaidi, M.; Fotopoulou, C.; Martin-Hirsch, P.; Paraskevaidis, E.; Kyrgiou, M. HPV vaccination
+and cancer prevention. *Best Pract. Res. Clin. Obstet. Gynaecol.* **2020**, *65* [, 109–124. [CrossRef]](http://doi.org/10.1016/j.bpobgyn.2020.02.009)
+88. Herrero, R.; Quint, W.; Hildesheim, A.; Gonzalez, P.; Struijk, L.; Katki, H.A.; Porras, C.; Schiffman, M.; Rodriguez, A.C.; Solomon,
+D.; et al. Reduced Prevalence of Oral Human Papillomavirus (HPV) 4 Years after Bivalent HPV Vaccination in a Randomized
+Clinical Trial in Costa Rica. *PLoS ONE* **2013**, *8* [, e68329. [CrossRef]](http://doi.org/10.1371/journal.pone.0068329)
+89. Hillman, R.J.; Giuliano, A.R.; Palefsky, J.M.; Goldstone, S.; Moreira, E.D.; Vardas, E.; Aranda, C.; Jessen, H.; Ferris, D.G.; Coutlee,
+F.; et al. Immunogenicity of the Quadrivalent Human Papillomavirus (Type 6/11/16/18) Vaccine in Males 16 to 26 Years Old.
+*Clin. Vaccine Immunol.* **2012**, *19* [, 261–267. [CrossRef]](http://doi.org/10.1128/CVI.05208-11)
+90. Giuliano, A.R.; Palefsky, J.M.; Goldstone, S.; Moreira, E.; Penny, M.; Aranda, C.; Vardas, E.; Moi, H.; Jessen, H.; Hillman, R.; et al.
+Efficacy of Quadrivalent HPV Vaccine against HPV Infection and Disease in Males. *N. Engl. J. Med.* **2011**, *364* [, 401–411. [CrossRef]](http://doi.org/10.1056/NEJMoa0909537)
+91. Harder, T.; Wichmann, O.; Klug, S.J.; AB van der Sande, M.; Wiese-Posselt, M. Efficacy, effectiveness and safety of vaccination
+against human papillomavirus in males: A systematic review. *BMC Med.* **2018**, *16* [, 110. [CrossRef]](http://doi.org/10.1186/s12916-018-1098-3)
+92. Albero, G.; Castellsagué, X.; Lin, H.-Y.; Fulp, W.; Villa, L.L.; Lazcano-Ponce, E.; Papenfuss, M.; Abrahamsen, M.; Salmerón, J.;
+Quiterio, M.; et al. Male circumcision and the incidence and clearance of genital human papillomavirus (HPV) infection in men:
+The HPV Infection in men (HIM) cohort study. *BMC Infect. Dis.* **2014**, *14* [, 75. [CrossRef]](http://doi.org/10.1186/1471-2334-14-75)
+93. Tobian, A.A.R.; Serwadda, D.; Quinn, T.C.; Kigozi, G.; Gravitt, P.E.; Laeyendecker, O.; Charvat, B.; Ssempijja, V.; Riedesel, M.;
+Oliver, A.E.; et al. Male Circumcision for the Prevention of HSV-2 and HPV Infections and Syphilis. *N. Engl. J. Med.* **2009**, *360*,
+[1298–1309. [CrossRef] [PubMed]](http://doi.org/10.1056/NEJMoa0802556)
+94. Auvert, B.; Sobngwi-Tambekou, J.; Cutler, E.; Nieuwoudt, M.; Lissouba, P.; Puren, A.; Taljaard, D. Effect of Male Circumcision on
+the Prevalence of High-Risk Human Papillomavirus in Young Men: Results of a Randomized Controlled Trial Conducted in
+Orange Farm, South Africa. *J. Infect. Dis.* **2009**, *199* [, 14–19. [CrossRef] [PubMed]](http://doi.org/10.1086/595566)
+95. Friedman, B.; Khoury, J.; Petersiel, N.; Yahalomi, T.; Paul, M.; Neuberger, A. Pros and cons of circumcision: An evidence-based
+overview. *Clin. Microbiol. Infect.* **2016**, *22* [, 768–774. [CrossRef] [PubMed]](http://doi.org/10.1016/j.cmi.2016.07.030)
+96. Hakenberg, O.W.; Dräger, D.L.; Erbersdobler, A.; Naumann, C.M.; Jünemann, K.-P.; Protzel, C. The Diagnosis and Treatment of
+Penile Cancer. *Dtsch. Aerzteblatt Online* **2018**, *115* [, 646–652. [CrossRef] [PubMed]](http://doi.org/10.3238/arztebl.2018.0646)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

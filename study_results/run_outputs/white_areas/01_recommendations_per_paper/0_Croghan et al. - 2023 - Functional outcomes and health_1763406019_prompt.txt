@@ -1,0 +1,2016 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ## **Lieferschein **
+
+ZB MED - Informationszentrum Lebenswissenschaften
+
+ - Dokumentlieferung –
+
+Gleueler Str. 60
+
+D-50931 Koeln
+
+
+Tel.:
+
+Fax:
+
+Email:
+
+
+++49-221-999-892334
+
+++49-221-478-7451
+
+dokulieferung@zbmed.de
+
+
+**Empfänger**
+
+Klinik fuer Urologie
+
+Caritas-Krankenhaus St. Josef
+
+Landshuter Str. 65
+
+D-93053 Regensburg
+
+**Angaben zur Bestellung** **:**
+
+
+Bestelldatum:
+
+Bestellnummer:
+
+Name des Bestellers:
+Benutzerkennung: HSL17X00507
+
+Lieferdatum:
+Lieferpriorität: NORMAL
+Aktueller Lieferweg: Email
+E-Mail Adresse:
+
+Bemerkungen zur Auslieferung:
+
+
+
+
+
+**Angaben zum Dokument:**
+
+Signatur:
+Autor:
+
+Titel:
+
+Jahr: 2023
+Band / Jahrgang: 11 / 4
+Seiten: 441-459
+
+Aufsatzautor:
+
+Aufsatztitel:
+
+ISSN: 2050-0521
+
+ISBN:
+
+CODEN:
+
+Ihre Bemerkung zur Bestellung:
+
+
+
+[ONL] ND:2720478-9
+
+
+Sexual medicine reviews
+
+2023
+
+11 / 4
+
+441-459
+
+Croghan, Stefanie M; Cullen, Ivor M; Rah
+Functional outcomes and health-related quality of life fo
+
+2050-0521
+
+# **subito Urheberrechtshinweis **
+
+Die Bestellung und Nutzung der über subito gelieferten Aufsatzkopien
+unterliegen urheberrechtlichen Bestimmungen. Mit der Registrierung
+bei subito verpflichten Sie sich, diese einzuhalten.
+
+Kopien von subito sind grundsätzlich zum eigenen Gebrauch bestimmt
+und dürfen, außer, wenn sie durch eine Hilfsperson bestellt worden sind,
+nicht an Dritte weitergegeben werden. Für kommerzielle Nutzer der von subito gelieferten
+Kopien ist die gemeinsame Verwendung ausgelieferter Kopien innerhalb einer Firma oder
+eines Unternehmens allerdings ausdrücklich gestattet.
+
+Die Kopien sind mit einem Wasserzeichen versehen, welches einen
+Urheberrechtsvermerk enthält. Das von subito e.V. angebrachte Wasserzeichen darf nicht
+
+entfernt werden.
+
+Weiterverwendet werden können innerhalb Deutschlands durch deutsche Bibliotheken
+
+ausgelieferte Kopien unter Beachtung der urheberrechtlichen Schrankenregelungen. So
+können sie zum Beispiel unter Einhaltung der nach § 60a UrhG geltenden Bestimmungen
+für den Unterricht und die Lehre an Bildungseinrichtungen, etwa auch für
+Semesterapparate und in Schulen genutzt werden. Dies gilt nicht nur für analoge, sondern
+auch für digitale Plattformen für Unterrichts- und Lehrmedien. Unter Beachtung von § 45
+UrhG können analoge und digitale Kopien auch in Verfahren vor einem Gericht, einem
+Schiedsgericht oder einer Behörde verwendet werden.
+
+Für Kopienlieferungen mit dem Ziel außerhalb Deutschlands sind alle einschlägigen
+urheberrechtlichen Bestimmungen des Landes zu beachten, in dem der Nutzer seinen
+
+(Wohn-) Sitz hat.
+
+Im Zweifel wenden Sie sich bitte an die Rechtsabteilung Ihres Unternehmens oder an
+
+einen Rechtsanwalt.
+
+Deutsche Zentralbibliothek für Medizin (ZB MED)
+Informationszentrum Lebenswissenschaften
+
+Deutsche Zentralbibliothek für Medizin
+(ZB MED)
+Informationszentrum
+Lebenswissenschaften
+Gleueler Str. 60
+50931 Köln
++49 (0)221 478-7070 (Information)
+info@zbmed.de
+www.zbmed.de
+
+Herr/Frau
+Köln, 10.11.2025
+Caritas-Krankenhaus St. Josef Klinik fuer
+Urologie
+Landshuter Str. 65
+93053 Regensburg
+
+**SUBITO-Dokumentlieferung - Lieferschein (bitte Rechnung abwarten)**
+
+**Angaben zur Lieferung**
+
+Kundennummer: HSL17X00507
+
+Bestellnummer: SUBITO:VE25111000210
+
+Bestelldatum: 10.11.2025
+Lieferweg: FTP
+Lieferpriorität: Normal-Bestellung
+
+**Kundendaten**
+
+Name: Frau Cornelia Mohaupt
+E-Mail: cmohaupt@csj.de
+Ihr Aktenzeichen:
+
+**Angaben zum bestellten Dokument**
+
+Signatur: [ONL] ND:2720478-9
+Titel: Sexual medicine reviews
+
+Jahrgang/Heft: 11 / 4
+Erscheinungsjahr: 2023
+Seiten: 441-459
+
+Autor:
+
+Croghan, Stefanie M; Cullen, Ivor M; Rah
+Artikel: Functional outcomes and health-related quality of life following penile cancer surgery: a comprehens
+
+|Die ZB MED weist Sie als Empfänger darauf hin, dass Sie nach geltendem Urheberrecht die von uns übersandten Vervielfältigungsstücke ausschliesslich zum privaten oder sonstigen eigenen Gebrauch verwenden dürfen und weder entgeltlich noch unentgeltlich in Papierform oder als elektronische Kopie verbreiten dürfen.|Col2|
+|---|---|
+|ZB MED||
+
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Sexual Medicine Reviews, 2023, **11**, 441–459
+[https://doi.org/10.1093/sxmrev/qead021](https://doi.org/10.1093/sxmrev/qead021)
+Advance access publication date 18 May 2023
+
+**Review**
+# **Functional outcomes and health-related quality of life** **following penile cancer surgery: a comprehensive review**
+
+**Stefanie M. Croghan, MSc, MRCSI** **[1,2,*]** **, Ivor M. Cullen, MCh, FRCS Urol** **[2,3]** **, Omer Raheem, MD** **[4]**
+
+1 Department of Surgery, Royal College of Surgeons, Dublin D02 YN77, Ireland
+2 Department of Urology, Blackrock Clinic, Dublin A94 E4X7, Ireland
+3 Department of Urology, Beaumont Hospital, Dublin D09V2N0, Ireland
+4 Department of Surgery, Section of Urology, University of Chicago Medicine, Chicago, IL 60637, United States
+
+[*Corresponding author: Department of Urology, Blackrock Clinic, Blackrock Road, Dublin, A94 E4X7, Ireland. Email: stefaniecroghan@rcsi.ie](mailto:stefaniecroghan@rcsi.ie)
+
+**Abstract**
+
+**Introduction:** Organ-sparing surgery (OSS) in penile cancer management aspires to maintain organ form and function and preserve health-related
+quality of life (HRQoL), yet there is a lack of integrated evidence exploring these outcomes.
+**Objectives:** The aim sought to review HRQoL, functional, aesthetic, and psychological outcomes following OSS or radical penectomy for penile
+
+cancer.
+**Methods:** A systematic review of MEDLINE and Cochrane databases included studies reporting on function (sexual, urinary or sensory), genital
+appearance or HRQoL/psychological well-being following surgical treatment of primary penile cancer. English-language reports (2000-2022),
+incorporating patient-reported or objective clinical outcome measures, were eligible. Studies of nonsurgical treatment strategies and those in
+the context of metastatic disease were excluded. Data were compiled and analyzed.
+**Results:** Twenty-six studies were included. Sexual function was the most studied outcome (754 pooled respondents; 19 studies), most frequently
+with the original 15-item and abridged 5-item International Index of Erectile Function. Preservation of erectile function following OSS is generally
+described, with some reduction in overall sexual satisfaction cited. Heterogeneous assessment of voiding function with little preoperative
+evaluation render interstudy comparison difficult. Most patients appear able to void from a standing position following OSS, with spraying the
+most common symptom. Maintenance of some sensory function is described with both split-thickness skin grafting and urethral glanduloplasty
+following radical glansectomy. Limited studies suggest reasonable patient satisfaction with genital cosmesis post-OSS. A negative impact on
+HRQoL is described in most studies following penile cancer surgery, variably correlated with aggressiveness of penile surgery and addition of
+lymphadenectomy. Anxiety, depression, and reduced self-esteem have been reported in penile cancer survivors. Relationship well-being varies,
+with some survivors reporting this to be unchanged.
+**Conclusion:** OSS can preserve elements of sexual, urinary, and sensory function, supporting advantages over radical penectomy for eligible
+patients. However, a comprehensive understanding remains limited due to small, heterogeneous patient cohorts, challenges in obtaining
+premorbid data, and variability in outcome measures. Standardization of patient-reported outcomes following OSS is desirable.
+
+**Keywords:** patient-reported outcome measures.; quality of life; penile function; penile reconstruction; organ sparing; phallus preservation; penile cancer.
+
+
+**Introduction**
+
+Penile cancer is classified as a rare malignancy, with an incidence of <0.5 to 7.26 per 100 000 person years; the incidence
+range is a reflection of geographic heterogeneity. [1] Nevertheless, this translates to a worldwide volume in excess of 36 000
+new penile cancer diagnoses each year. [2] Furthermore, countries with a traditionally low incidence of penile neoplasia,
+including the United States, the United Kingdom, and Norway,
+have reported steadily increasing incidence rates. [3-5]
+
+Radicality was the cornerstone of traditional surgical management of penile cancer, with a 2-cm resection margin originally thought necessary. [6][,][7] Recent decades, however, have
+seen this principle challenged. Subsequent research has confirmed that a far more conservative surgical approach, with
+excision margins in the range of a few millimeters, is acceptable. [3][,][8] Although a higher local recurrence rate is observed
+with more conservative treatments, the overall and metastasisfree survival rates are comparable to those of patients treated
+with penile amputation. [9-11] These findings, combined with
+the propensity of penile cancer to arise distally, on the prepuce
+or glans penis, [12] paved the way for surgical treatments centered on phallus preservation. [13][,][14] Accordingly,organ-sparing
+
+
+surgery (OSS) for penile cancer has evolved. OSS is now
+recommended as an aim of penile cancer treatment, where
+feasible, in major urological guidelines. [15][,][16]
+
+Initial research on organ preservation in penile cancer
+management naturally focused on oncological outcomes. [17][,][18]
+
+However, there is growing awareness of the myriad of relevant
+nononcological endpoints that merit understanding and
+consideration following penile cancer surgery. We aimed
+to conduct a systematic review of penile cosmetic and
+functional outcomes, health-related quality of life (HRQoL),
+and psychological well-being in patients surgically treated for
+primary penile malignancies.
+
+**Methods**
+
+**Registration and search strategy**
+The review was prospectively registered (Open Science
+[Framework; osf.io/7h4er). The search strategy, published a](https://accounts.osf.io/login?service=https://osf.io/7h4er/)
+priori and available as Appendix 1, included search terms
+“Penile Neoplasm” (MeSH term), “Outcomes,” “Function,”
+and “Quality of life.” A systematic review was conducted
+following the PRISMA (Preferred Reporting Items for
+
+
+**Received:** February 28, 2023. **Revised:** April 18, 2023. **Accepted:** April 21, 2023
+© The Author(s) 2023. Published by Oxford University Press on behalf of The International Society of Sexual Medicine. All rights reserved. For permissions,
+please e-mail: journals.permissions@oup.com
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**442** Sexual Medicine Reviews, 2023, Vol 11, Issue 4
+
+
+Systematic Reviews and Meta-Analyses) statement. [19] MEDLINE and Cochrane controlled trial databases were searched
+for the years 2000 to 2022 for relevant English language
+publications. Abstracts were independently screened for
+eligibility by 2 authors. Potentially eligible studies were
+identified, with full texts retrieved for independent scrutiny. A
+reference trawl of included publications was also performed
+to identify additional sources meriting inclusion. Data were
+extracted according to a predefined template. Input from a
+third author was sought to resolve any disagreement between
+reviewers.
+
+**Eligibility criteria**
+***Inclusion criteria and rationale***
+
+Case series and cohort studies, with and without comparative
+groups, and randomized controlled trials were eligible for
+inclusion. The included publication time frame was 2000 to
+2022; given the magnitude of evolution in the field of penile
+cancer management over recent decades, studies conducted
+prior to this were felt to be at risk of incorporating outdated
+treatment strategies and thus to be incomparable to the recent
+literature. Studies presenting outcomes of radical penectomy
+or OSS, with or without inguinal lymph node dissection, in the
+management of primary penile cancer were eligible. Included
+studies reported on functional, aesthetic, psychological, or
+global health–related outcomes. To be eligible for inclusion,
+we required either application of an instrument, such as
+a questionnaire, or formal interviews with qualitative data
+interpretation to have been used by the authors for evaluation
+of at least 1 of the previously mentioned domains. We sought
+the use of standardized, validated instruments for assessment
+of outcomes but accepted the use of novel or customized
+tools in addition, so as to avoid the exclusion of understudied areas such as sensory function and cosmesis. However, studies reporting generic statements only, such as “all
+patients were satisfied with [outcome of interest],” were not
+included.
+
+***Exclusion criteria***
+
+Case reports and conference abstracts were excluded. Reports
+of nonprimary penile tumors (ie, metastatic deposits) and
+cutaneous malignancy of the penile shaft skin (eg, extramammary Paget’s disease) were excluded, given the difference in
+treatment algorithms. Studies reporting on oncological outcomes alone, without measurement of the specific variables
+of interest to this review, were not eligible for inclusion.
+Investigations of radiotherapy, brachytherapy, laser treatment,
+topical applications, or other treatment strategies for invasive
+or noninvasive penile malignancy were excluded, as were
+studies focusing on management of metastatic or extensive
+locally advanced disease.
+
+**Data extraction**
+
+Template-based data extraction was performed based on predefined variables including author and year of publication,
+patient demographics, treatment strategy employed, outcome
+measurement tools, results of outcome measurement, and
+follow-up duration. The majority of studies did not report
+outcomes across all domains of interest, as expected from a
+provisional scoping review of the literature. All relevant data
+were extracted from each study.
+
+
+**Outcome measures**
+
+Our primary outcomes were evaluated by subjective or objective measures, including patient-reported outcome measures
+and/or clinical assessment tools, in the following domains:
+global (overall quality of life), functional (urinary, sexual, or
+genital sensory function), aesthetic (genital appearance and
+cosmetic satisfaction), and psychological and interpersonal
+(self-esteem and psychosocial and relational wellness).
+
+**Data reporting and statistical analysis**
+Data are presented as reported by the study authors. Metaanalysis was not performed, due to heterogeneity of study
+variables.
+
+**Results**
+
+The search strategy resulted in 26 publications that were ultimately deemed relevant for inclusion (Figure 1 and Table 1).
+Diverse surgical cohorts were studied, with both inter- and
+intrastudy heterogeneity of patient populations.
+
+**Surgical techniques**
+Surgical techniques (Tables 2, 3, 4, 5, 6, and 7) [11][,][20][,][21] included
+the following:
+
+ - Radical penectomy: This term generally refers to complete
+amputation of the penis, and may occasionally be followed
+by phalloplasty involving, for example, free radial forearm
+flap reconstruction with or without penile prosthesis.
+
+ - Partial penectomy: We view this procedure as encompassing removal of the glans penis with a subcoronal incision,
+excising of a portion of the penile shaft, resulting in a
+remnant penile stump. Reconstructive methods include
+primary closure, split-thickness skin grafting, and urethral
+flap reconstruction, in which the distal urethra is preserved and inverted to cover the exposed remnant of the
+corporal bodies.
+
+ - Radical glansectomy: This technique involves excision of
+the entire glans penis with an incision along the coronal
+sulcus. A reconstructive technique generally follows this
+organ-sparing procedure, with use of split-thickness skin
+grafting or the redundant urethra (urethral glansplasty) to
+cover the exposed corporal bodies.
+
+ - Partial glansectomy: This refers to excision of a significant
+component of the glans penis but not the entirety. It may
+be followed by primary closure, skin graft application, or
+preputial flap reconstruction, in which, in an uncircumcised male, the outer layer of the prepuce can be used to
+reconstruct the defect.
+
+ - Wide local excision (WLE) and primary closure: This
+refers to excision of a lesion—generally a small lesion
+on the glans penis—with primary closure. There may be
+some overlap of this term with partial glansectomy. For
+the purpose of this review, we classified procedures as
+described by the authors.
+
+ - Total glans resurfacing: This is a potential treatment
+option for noninvasive tumors of the glans, particularly
+when diffuse, and involves surgical excision of the
+glandular epithelium and subepithelium, followed by
+application of a split-thickness skin graft to cover the
+entire glans penis.
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Sexual Medicine Reviews, 2023, Vol 11, Issue 4 **443**
+
+**Figure 1.** Inclusion flow chart.
+
+**Table 1.** Included studies (review part 1: sexual, sensory, and urinary function).
+
+**Author** **Year** **Journal** **Outcomes**
+
+Chavarriaga [41] 2022 Urol Oncol QoL, sexual and urinary function
+Croghan [35] 2021 Urology QoL; aesthestic satisfaction; urinary, sexual, and sensory function
+Draeger [56] 2018 Clin Genitourin Cancer QoL
+Ficarra [46] 2000 Urol Int QoL
+Garaffa [44] 2009 BJU Int Cosmesis, voiding, sexual activity
+Gulino [24] 2007 J Urol QoL, sexual function, penile length, satisfaction
+Gulino [23] 2013 Indian J Urol QoL, sexual function
+Harju [43] 2021 J Sex Med QoL, self-esteem, sexual function
+Kieffer [25] 2014 J Urol QoL, sexual function
+Li [26] 2011 Urology Sexual function, urination
+Monteiro [36] 2021 Int Braz J Urol Sexual function
+Mortensen [48] 2013 Dan Med J QoL including physical, sexual, emotional impact (qualitative)
+O’Kelly [37] 2017 J Urol Sexual function, overall satisfaction
+Perez [38] 2020 Urology QoL, sexual function, urinary function
+Romero [27] 2005 Urology Sexual function
+Sansalone [28] 2017 Asian J Androl Sexual function, relationship satisfaction
+Scarberry [29] 2015 Sex Med Sexual function, urinary function
+Sedigh [30] 2015 Can Urol Assoc J Sexual function
+Sosnowski [42] 2016 Cent European J Urol QoL, sexual function, self-esteem
+Sosnowski [47] 2017 Eur J Oncol Nurs QoL, relationship stability
+Sosnowski [40] 2019 Sex Health Sexual function, masculinity, self-esteem
+Suarez-Ibarrola [39] 2018 Urol Int QoL, sexual function
+Veeratterapillay [57] 2012 BJU Int Cosmetic satisfaction
+Wan [31] 2018 Eur J Surg Oncol QoL, sexual function, self-esteem and relationship satisfaction, urinary function
+Yang [32] 2014 Andrology Sexual function, cosmetic satisfaction
+Yu [33] 2016 Sci Rep Sexual function
+
+
+Abbreviation: QoL, quality of life.
+
+    - Radical circumcision: This involves excision of the entire
+prepuce, to treat a tumor arising from this region. In
+contrast to a standard circumcision, a cuff of the inner
+prepuce is not left in situ, and the penile shaft skin is
+sutured at the level of the coronal sulcus.
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+
+
+- Dynamic sentinel lymph node biopsy, superficial modified or radical inguinal lymphadenectomy, and occasional
+pelvic lymphadenectomy may be performed in some penile
+cancer patients at the time of the initial surgery, or at an
+interval.
+
+**Table 2.** Outcome: Sexual Function.
+
+**Author** **Year** **Treatment** **Popula-**
+**tion**
+
+**Size**
+
+
+**Mean Age** **Local** **Outcome** **Pre-operative** **Interval from**
+**Staging** **Measure** **Assessment** **Surgery**
+**(months)** [∗]
+
+
+**Findings**
+
+
+Chavar- 2022 Partial penectomy with inverted 51 62
+riaga urethral flap reconstruction (52–76)
+(median; IQR)
+
+
+Chavar- 2022 Partial penectomy with inverted 51 62 Tis – T3 IIEF-5 No 75 (38–121) Mean IIEF-5 total score by group (all underwent
+riaga urethral flap reconstruction (52–76) (median; IQR) urethral flap reconstruction)
+(median; IQR) Partial penctomy: 18 ± 5.2
+
+Partial penectomy + dynamic sentinel lymph node
+biopsy: 18.4 ± 7
+Partial penectomy + inguinal lymph node dissection:
+17.4 ± 6.8
+Croghan 2021 Partial or radical glansectomy, 35 61 Tis – T3 IIEF-5 No 22 (4–51) Nineteen patients (55.89%) were sexually active, with
+radical penectomy (31–79) mean IIEF-5 scores of 14.9 (5–25) (partial glansectomy)
+and 15.8 (5–25) (radical glansectomy).
+Gulino 2007 Glansectomy or partial penectomy 14 54 T1-T2 IIEF-15 Yes 13 The mean IIEF score related to the period before
+with urethral glansuloplasty (41–63) macroscopic evidence of penile tumor in the erection,
+ejaculation, orgasm and libido domains was 21, 13, 5
+and 8, respectively. No statistically significant differences
+were recorded in IIEF score 3 and 12 months after glans
+reconstruction
+Gulino 2013 Glansectomy or partial penectomy 42 56 Ta-T2 IIEF-15 Yes but? 6 IIEF-15 domain mean scores 2 weeks pre- and 6 months
+with urethral glansuloplasty retrospective post-surgery:
+recall
+
+
+6 IIEF-15 domain mean scores 2 weeks pre- and 6 months
+
+post-surgery:
+
+
+Scores 2 weeks pre were compared to scores 3 months
+prior (?from recall) and were not statistically different
+Harju 2021 Penectomy (n = 7), penile resection 68 70 Ta-T3 OSFQ No NR (report EHS – inadequate for penetration 49% (n = 33)
+(n = 27), glansectomy (n = 22), (45–91) EHS hetero- OSFQ severely reduced in 44% (n = 30)
+minor excision (n = 12). genous) Low self esteem in 30% (n = 20)
+Lymphadenectomy in 55 (80.8%)
+
+
+68 70 Ta-T3 OSFQ No NR (report
+(45–91) EHS heterogenous)
+
+
+EHS – inadequate for penetration 49% (n = 33)
+OSFQ severely reduced in 44% (n = 30)
+Low self esteem in 30% (n = 20)
+
+
+Kieffer 2014 Penile sparing surgery (60%),
+partial or radical penectomy 40%.
+Lymphadenectomy 28%.
+
+
+90 65.4 NR IIEF-15 No 3.9 years IIEF-15 Score (Mean ± SD)
+(35.7–99.5) (0.1–6.8)
+
+No significant difference with/without
+lymphadenectomy seen
+
+
+( *Continued* )
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**Table 2.** Continued
+
+**Author** **Year** **Treatment** **Population** **Mean Age** **Local** **Outcome** **Pre-operative** **Interval from**
+**Size** **Staging** **Measure** **Assessment** **Surgery**
+**(months)** [∗]
+
+
+**Findings**
+
+
+Li 2011 Radical circumcision,
+wide local excision or
+
+combination
+
+
+Li 2011 Radical circumcision, 29 Median 45.5 Tis-T2 IIEF-15 Yes 26.5 (2–61) Preoperative scoring = No/Mild ED in 22 and
+wide local excision or (24–70) moderate/severe in 7. 28 reported same ratings
+combination postoperatively and 1 reported mild/moderate ED as a
+
+decrease from preoperative rating.
+Mon- 2021 Partial penectomy 81 Median 62 Tis-T3 IIEF-5 “Satisfactory” 17 (IQR 7–36) Fifty patients (61.7%) had erectile dysfunction: ED mild in
+teiro (30–88) erectile function 9 (11.2%), mild to moderate in 17 (21%), moderate in 9
+at baseline an (11.2%), and severe in 15 (18.3%)
+inclusion
+
+criterion
+
+
+17 (IQR 7–36) Fifty patients (61.7%) had erectile dysfunction: ED mild in
+9 (11.2%), mild to moderate in 17 (21%), moderate in 9
+(11.2%), and severe in 15 (18.3%)
+
+
+O’Kelly 2016 Total glans resurfacing 19 Mean 54.8 Tis-T1 IIEF-5 Yes 3 months 14 patients were sexually active preoperatively and all
+(47–74) resumed sexual activity within 6 months. Mean IIEF-5
+score preoperatively =21; post-operatively = 22 (p = 1.0).
+81% reported an improvement in sex life following glans
+resurfacing.
+Perez 2020 OSS with split thickness 32 respon- Median 55.1 Tis-T3 IIEF-5 No 55.7 months Mean IIEF-5 Score (range)
+skin graft reconstruction dents. (IQR 29–90) (2–149) Resurfacing: 17.5 (5–24)
+(glans resurfacing n = 14, Age/follow Glansectomy: 18 (11–23)
+glansectomy =6, partial up relate to Partial penectomy: 19 (5–25)
+penectomy n = 12) original Statistically no difference between groups (p = 0.5)
+
+
+32 respondents.
+Age/follow
+up relate to
+original
+population
+of 57
+
+
+Median 55.1 Tis-T3 IIEF-5 No 55.7 months Mean IIEF-5 Score (range)
+(IQR 29–90) (2–149) Resurfacing: 17.5 (5–24)
+Glansectomy: 18 (11–23)
+Partial penectomy: 19 (5–25)
+Statistically no difference between groups (p = 0.5)
+
+
+Romero 2005 Partial penectomy 18 Median 52 T1-T3 IIEF- Yes 23.5 months Erectile: 14/18 high/very high confidence could get and
+15 + semi- (retrospective (6–62) maintain an erection
+structured recall). Qualitative: 6 of 18 maintained their satisfaction with their
+interviews Sexually active sex life following partial penectomy. 4 patients had
+
+at baseline a discontinued/not resumed sexual intercourse and reported
+criterion this due to feelings of low self-esteem and shame for the
+
+small penile size/absence of the glans penis
+Sansa- 2017 Partial penectomy with 25 Mean T1-T2 IIEF-5 Yes 14 (12–25) QEQ mean score (on a 0–1100 scale) postoperatively:
+lone urethral glansoplasty. 61.5 ± 2.5 QEQ 77.46 ± 16.20 (range: 33–91.6)
+Lymphadenectomy in EDITS
+11 (44%)
+
+
+Romero 2005 Partial penectomy 18 Median 52 T1-T3 IIEF15 + semistructured
+
+interviews
+
+
+Yes
+(retrospective
+recall).
+Sexually active
+at baseline a
+
+criterion
+
+
+25 Mean T1-T2 IIEF-5
+61.5 ± 2.5 QEQ
+EDITS
+
+
+Yes 14 (12–25) QEQ mean score (on a 0–1100 scale) postoperatively:
+77.46 ± 16.20 (range: 33–91.6)
+
+
+Mean EDITS Patient score was 74.97 ± 17.06 (range:
+43.18–93.18)
+Mean EDITS Partner score of 73.25 ± 15.20 (range:
+50–95.7)
+IIEF-15 Score (Mean ± SD)
+
+( *Continued* )
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**Table 2.** Continued
+
+**Author** **Year** **Treatment** **Popula-**
+**tion**
+
+**Size**
+
+
+**Mean Age** **Local** **Outcome** **Pre-operative** **Interval from**
+**Staging** **Measure** **Assessment** **Surgery**
+**(months)** [∗]
+
+
+**Findings**
+
+
+Scarberry 2015 Glansectomy and 6 67 ± 10 NR IIEF-15 No 52 ± 16 (25–84) Three patients (50%) reported erections with normal rigidity.
+glanuloplasty with (56–87) All three report low or moderate sexual desire. Two (33%)
+split-thickness skin graft reported sexual activity with successful penetration, orgasm,
+(n = 2) and distal and ejaculation at least a few times. Both of these patients
+corporectomy (n = 4). report dissatisfaction overall with respect to sexual QOL.
+Lymphadenectomy in 4. The remaining three patients consistently report no sexual
+
+activity or attempts at intercourse with severely or
+moderately reduced rigidity of erections and no sexual desire
+Sedigh 2015 Wide local excision 35 Group A 56 T1-T2 IIEF-15 Yes 12 months Wide Local Excision Group
+(Group A, n = 12), (28–72); SEP
+glansectomy with Group B 60
+urethral glanduloplasty (45–68)
+(Group B n = 23)
+
+
+Scarberry 2015 Glansectomy and
+glanuloplasty with
+split-thickness skin graft
+(n = 2) and distal
+corporectomy (n = 4).
+Lymphadenectomy in 4.
+
+
+35 Group A 56
+(28–72);
+Group B 60
+(45–68)
+
+
+T1-T2 IIEF-15 Yes 12 months Wide Local Excision Group
+SEP
+
+
+Statistically significant reduction in overall function Group B
+(p = 0.003)
+SEP pre and post operative = stable in WLE group
+SEP in glansectomy group showed post-operative decrease in
+possibility of achieving penetrative intercourse (p = 0.006)
+and perceived satisfaction (p = 0.004)
+
+( *Continued* )
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**Table 2.** Continued
+
+**Author** **Year** **Treatment** **Popu-**
+**lation**
+
+**Size**
+
+
+**Mean Age** **Local** **Outcome** **Pre-operative** **Interval from**
+**Staging** **Measure** **Assessment** **Surgery**
+**(months)** [∗]
+
+
+**Findings**
+
+
+Sosnowski 2016 Radical penectomy
+with or without
+lymphadenectomy
+
+
+Sosnowski 2016 Radical penectomy 10 Mean 60 T1b- Modified No 16 months Modified IIEF-15 used, with “intercourse” replaced with
+with or without (35–74) T3 IIEF-15 (7–49) “sexual activity”. Most patients did not experience orgasm and
+lymphadenectomy ejaculation during “sexual activity”. Sexual relations with a
+
+partner were defined as very unsatisfactory by the majority of
+patients; however, one patient described these relations as
+“very rewarding”.
+Sosnowski 2019 Partial penectomy 40 Mean NR IIEF-5 No Mean OSS IIEF 13.59 ± 8.2
+(n = 27) 63.6 ± 13.2 54.6 months Partial penectomy 16.77 ± 9.16
+Less radical OSS (not significantly different)
+(n = 13)
+
+
+40 Mean NR IIEF-5 No Mean OSS IIEF 13.59 ± 8.2
+63.6 ± 13.2 54.6 months Partial penectomy 16.77 ± 9.16
+(not significantly different)
+
+
+Suarez- 2018 Radical penectomy
+Ibarrola or partial penectomy;
+respondent
+breakdown unclear
+
+Wan 2018 Wide local excision
+(n = 7), partial
+penectomy (n = 8)
+
+
+10 54.3 (37–77)
+of population
+of n = 15 (10
+respondents)
+
+15 WLE:
+
+60.7 ± 10.18
+
+Partial
+
+penectomy
+62 ± 9.78
+
+
+T1-T4 IIEF-5 No 21.5 ± 13.4 IIEF-5 completed by 6 patients post partial penectomy. Mean
+score 6.5 (severe ED)
+
+
+Tis-T2 IIEF-15 IIEF + SEAR
+EDITS 4 weeks
+prior and
+6 months
+
+post surgery
+
+
+6 months Overall, an improvement in all scores for both groups was seen
+postoperatively (versus 4 weeks pre op) except for orgasmic
+function in partial penectomy group. No statistically significant
+difference between the two groups’ or their partners’ EDITS
+
+scores was seen
+
+( *Continued* )
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**Table 2.** Continued
+
+**Author** **Year** **Treatment** **Popula-**
+**tion**
+
+**Size**
+
+
+**Mean Age** **Local** **Outcome** **Pre-operative** **Interval from**
+**Staging** **Measure** **Assessment** **Surgery**
+**(months)** [∗]
+
+
+**Findings**
+
+
+Yang 2014 Partial glansectomy with
+primary closure (n = 59)
+or preputial flap (n = 46)
+
+
+142 55 (43–73)
+Primary closure:
+55.2 ± 8.6
+Preputial flap:
+54.7 ± 8.3
+
+
+Yang 2014 Partial glansectomy with 142 55 (43–73) Tis-T1a IIEF-15 Yes 29.8 (6–72) IIEF: Patients with preputial flap reconstruction
+primary closure (n = 59) Primary closure: Audio Video Sexual showed significant better performance in three
+or preputial flap (n = 46) 55.2 ± 8.6 Sexual measured domains (orgasmic function, intercourse
+
+Preputial flap: Stimulation Test month 6 satisfaction and overall satisfaction, all p < 0.05)
+54.7 ± 8.3 (RigiScan-Plus) RigiScan: Neither group showed a significant
+
+decline from preoperative score
+Yu 2016 Partial penectomy. 43 Median 56 IIEF-15 Yes Evaluated at IIEF-15
+Lymphadenectomy 6 months
+(laparoscopic) in 35
+
+
+Tis-T1a IIEF-15
+
+Audio Video
+
+Sexual
+
+Stimulation Test
+(RigiScan-Plus)
+
+
+Yes 29.8 (6–72)
+Sexual
+
+measured
+
+month 6
+
+
+43 Median 56 IIEF-15 Yes Evaluated at IIEF-15
+
+6 months
+
+
+-Significant decline in all domains
+-No clear difference between post op scores in
+patients with and without lymphadenectomy
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**Table 3.** Outcome: Urinary Function.
+
+**Author** **Year** **Treatment** **Population** **Mean Age** **Local** **Outcome** **Pre-operative** **Interval from**
+**Size** **Staging** **Measure** **Assessment** **Surgery**
+**(months)** [∗]
+
+
+**Findings**
+
+
+Chavar- 2022 Partial penectomy with
+riaga inverted urethral flap
+reconstruction
+
+
+51 62
+
+(52–76)
+(median; IQR)
+
+
+Tis – T3 No 75 (38–121) Mean ICIQ-MLUTS scores by group (all
+(median; IQR) underwent urethral flap reconstruction)
+
+
+Croghan 2021 Partial or radical
+glansectomy, radical
+
+penectomy
+
+
+Croghan 2021 Partial or radical 35 61 Tis – T3 Customised No 22 (4–51) 85.3% (29/34) could void from a standing
+glansectomy, radical (31–79) questionnaire position and 79.4% (27/34) reported little or no
+penectomy spraying of urine
+
+Garaffa 2008 Phalloplasty with free 15 Median 43.6 NR Customised N/A Median 18.2 14/15 can void whilst standing (1/15 urethral
+radial forearm flap (39–54) (4–6 months) recurrence requiring diversion)
+Li 2007 Radical circumcision, 29 Median 45.5 Tis-T2 Customised Yes 26.5 (2–61) All patients could void “as before” without meatal
+wide local excision or (24–70) stenosis
+combination
+
+
+29 Median 45.5 Tis-T2 Customised Yes 26.5 (2–61) All patients could void “as before” without meatal
+(24–70) stenosis
+
+
+Kieffer 2014 Penile sparing surgery
+(60%), partial or radical
+penectomy 40%.
+Lymphadenectomy
+28%.
+
+
+Kieffer 2014 Penile sparing surgery 90 65.4 NR Customised No 3.9 years 91% overall satisfied
+(60%), partial or radical (35.7–99.5) (0.1–6.8) 83% partial penectomy reported leakage during vs
+penectomy 40%. 43% penile sparing group (p < 0.0001)
+Lymphadenectomy 25% sat to void (perineal urethrostomy)
+28%. No influence of lymphadenectomy seen
+
+Perez 2020 OSS with split thickness 32 respon- Median 55.1 Tis-T3 ICIQ-MLUTS No 55.7 months Voiding Score: Mean (range)
+skin graft reconstruction dents. (IQR 29–90) (2–149) Resurfacing: 3.5 (1–15)
+(glans resurfacing n = 14, Age/follow Glansectomy: 4 (2–6)
+glansectomy =6, partial up relate to Partial penectomy: 3 (0–9)
+penectomy n = 12) original Statistically no difference between groups, p = 0.22
+
+
+32 respondents.
+Age/follow
+up relate to
+original
+population
+of 57
+
+
+Median 55.1 Tis-T3 ICIQ-MLUTS No 55.7 months Voiding Score: Mean (range)
+(IQR 29–90) (2–149) Resurfacing: 3.5 (1–15)
+Glansectomy: 4 (2–6)
+Partial penectomy: 3 (0–9)
+Statistically no difference between groups, p = 0.22
+
+
+( *Continued* )
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**Table 3.** Continued
+
+**Author** **Year** **Treatment** **Population** **Mean Age** **Local** **Outcome** **Pre-operative** **Interval from**
+**Size** **Staging** **Measure** **Assessment** **Surgery**
+**(months)** [∗]
+
+
+**Findings**
+
+
+No 52 ± 16 (25–84) Cystitis – None
+Stream – normal in 4/6
+Post void leakage – 3/6.
+Occasional incomplete emptying 4/6
+No interference with daily life 5/6
+
+
+Scarberry 2015 Glansectomy and
+glanuloplasty with
+split-thickness skin graft
+(n = 2) and distal
+corporectomy (n = 4)
+Lymohadenectomy in 4.
+
+Sos- 2016 Radical penectomy with
+nowski or without
+lymphadenectomy
+
+Wan 2018 Wide local excision
+(n = 7), partial
+penectomy (n = 8)
+
+**Table 4.** Outcome: sensory function.
+
+
+6 67 ± 10 (56–87) NR Urethral
+stricture
+
+PROM
+
+
+10 Mean 60 T1B-T3 IPSS 16 months IPSS median 12.5 (11–18)
+(35–74) (7–49)
+
+
+15 WLE:
+
+60.7 ± 10.18
+
+Partial
+
+penectomy
+62 ± 9.78
+
+
+Tis-T2 Uroflow No 6 months No statistically significant differences were
+QMax observed in urinary function between these two
+groups after undergoing either wide local excision
+or partial penectomy (19.53 ± 3.18 vs
+20.87 ± 2.05). All 15 patients were able to
+micturate while standing, and no cystitis or
+incontinence was reported in them; however, 1 of 8
+patients who underwent partial penectomy
+reported spraying of urine while micturating.
+
+
+**Author** **Year** **Treatment** **Population** **Age (y)** **Local** **Outcome** **Preoperative** **Interval from**
+**size** **staging** **measure** **assessment** **surgery (mo)** **[a]**
+
+
+**Findings**
+
+
+Croghan [35] 2021 Partial glansectomy, 35 Mean 61 Tis-T3 Customized No Mean 22 (4-51) All partial glansectomy patients and 81.2% of
+radical glansectomy (31-79) questionnaire radical glansectomy patients reported at least some
+with split-thickness skin sensation of their reconstructed glans penis. Quite
+graft, radical penectomy a bit of hyperaesthesia was reported by 11.7%
+
+with radical glansectomy
+Garaffa 44 2008 Phalloplasty with free 15 Median 43.6 NR Customized N/A Median 18.2 Complete sensation reported in 12 of 15
+radial forearm flap (39-54) (4-6)
+
+
+Gulino [24] 2007 Glansectomy or partial
+penectomy with urethral
+glansuloplasty
+
+Sedigh [30] 2015 WLE (group A, n = 12),
+glansectomy with
+urethral glanduloplasty
+(group B n = 23)
+
+
+14 Mean 54 T1-T2 Customized Yes Mean 13 14 of 14 reported sensitivity to touch; 12 of 14
+(41-63) reported static 2-point discrimination <2 mm
+
+
+35 Group A: mean
+56 (28-72);
+group B: mean
+60 (45-68)
+
+
+T1-T2 Customized Yes Mean 12 WLE reported unchanged sensitivity
+postoperatively
+The glansectomy group reported a reduction in
+sensitivity in 59.1%, with 9.1% reporting total
+absence of erogenous sensation
+
+
+Values reported in parentheses are ranges. Abbreviations: N/A = Not applicable; NR = Not reported; WLE, wide local excision. [a] Interval from surgery = mean time from diagnosis/surgery to outcome measure. Means
+reported unless otherwise stated.
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Sexual Medicine Reviews, 2023, Vol 11, Issue 4 **451**
+
+***Sexual function***
+Twenty studies, comprising a pooled total of 805 patient
+respondents, involved assessment of patients’ sexual function
+following penile cancer surgery (Table 2). The most frequently
+applied instrument was the International Index of Erectile
+Function (IIEF); the original 15-item IIEF questionnaire (IIEF15) [22] was applied in 10 studies, [23-33] the abridged 5-item
+version (IIEF-5) [34] in 8, [35-41] and a modified IIEF-15, in which
+“intercourse” was replaced with “sexual activity” in 1. [42]
+
+The Overall Sexual Functioning Questionnaire and the Erection Hardness Score were used in 1 study, [43] the Quality
+of Erection Questionnaire in 1, [28] the Erectile Dysfunction
+Inventory of Treatment Satisfaction in 2, [28][,][31] and the Sexual
+Encounter Profile (SEP) [30] in 1. In addition, patients in one
+study participated in semi-structured interviews. [27] Objective
+measurements were sought, in addition to the IIEF-15, in one
+study, in which patients underwent RigiScan assessment with
+audiovisual stimulation. [32] A standardized assessment of sexual function was made both before and after the penile cancer
+surgery in 8 studies. [24][,][26][,][28][,][30-33][,][37] One study recruited only
+patients with satisfactory erectile function at baseline, [36] and
+2 studies attempted to quantify preoperative status by retrospective recall. [23][,][27] The average interval between surgery and
+assessment of sexual function ranged from 3 to 54.6 months.
+The findings of each individual study regarding sexual
+function are summarized in Table 2. When sexual outcomes
+are reported for specific surgical populations, the results are
+summarized subsequently.
+
+**WLE and/or radical circumcision**
+Li et al [26] reported on 29 patients who had undergone WLE
+and/or radical circumcision at mean 26.5 (range 2-61) months
+follow-up. Twenty-two patients reported no erectile dysfunction or mild erectile dysfunction on the IIEF-15 preoperatively,
+and 7 reported moderate or severe erectile dysfunction ED.
+The same ratings were reported postoperatively in 28 of
+29, and a decrease in IIEF-15 was reported in 1 of 29. [26]
+
+Sedigh et al [30] reported a loss of 0.7 to 1.5 points in the
+mean scores of each domain of the IIEF-15 when assessing
+sexual function in 12 patients prior to, and at 12 months
+after, WLE. The greatest difference was seen in overall satisfaction (mean scores of 6 [range 5-9] preoperatively and 4.5
+
+[range 2-6] postoperatively). The authors also applied the SEP
+and found this to remain stable pre- and postoperatively. [30]
+
+Conversely, Wan et al [31] reported significant improvements in
+all domains of the IIEF-15 of >2 points in 7 patients who
+underwent WLE, comparing scores at 4 weeks preoperatively
+and 6 months postoperatively, but reported no statistically
+significant difference in Erectile Dysfunction Inventory of
+Treatment Satisfaction scores. [31]
+
+**Total glans resurfacing**
+O’Kelly et al [37] reported on 14 patients who were sexually
+active prior to total glans resurfacing. All resumed sexual
+activity within 6 months. The mean IIEF-5 score preoperatively was 21 preoperatively and 22 postoperatively ( *P* = 1.0).
+The majority of patients (81%) reported an improvement
+in their sex life following glans resurfacing. [37] Perez et al [38]
+
+studied a patient cohort at mean 55.7 months (range 2149 months) post–penile cancer surgery. Fourteen patients
+underwent glans resurfacing, with a mean IIEF-5 score of 17.5
+at follow-up. [38]
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**Table 6.** Outcome: Health-Related Quality of Life.
+
+**Author** **Year** **Treatment** **Population** **Mean Age** **Local** **Outcome** **Pre-operative** **Interval from**
+**Size** **Staging** **Measure** **Assessment** **Surgery**
+**(months)** [∗]
+
+
+**Findings**
+
+
+Chavarriaga 2022 Partial penectomy with
+inverted urethral flap
+reconstruction
+
+Croghan 2021 Partial or radical
+glansectomy, radical
+
+penectomy
+
+
+51 62
+
+(52–76)
+(median; IQR)
+
+
+Tis – T3 EQ-5D-3L No 75 (38–121)
+VAS (median; IQR)
+
+
+35 61 Tis – T3 EORTC No 22 (4–51) Mean QoL over past week on 7-point EORTC
+(31–79) QLQ-C30 QLQ-C30 scale was 5.88 (scale: 3–7)
+
+
+Draeger 2018 Organ-sparing with 76 64 ± 15.9 NR EORTC No 6 Global QoL score 54 ∗∗ some
+graft (n = 73), radical QLQ-C30 (scale: 0–100) patients
+penectomy (n = 3). HRO-PE29 in cohort
+Lymphadenectomy receiving
+(n = 25), chemotherapy chemother(n = 23) apy
+
+Ficarra 2000 Partial penectomy 16 63 NR ECOG No 69 GHQ pathological (score > 3 in 6/16 = 37.5%).
+GHQ Compared to RRP control group, overall health
+impaired (37.5% vs 9%, p = 0.08) and anxiety
+increased (31% vs 2%, p = 0.0001)
+Gulino 2007 Glansectomy or partial 14 54 T1-T2 Bigelow- Yes 13 All scores declined during disease period and
+penectomy with urethral (41–63) Young improved afterwards. Unpleasant feeling,
+glansuloplasty relationship and job scores no statistically
+
+
+Draeger 2018 Organ-sparing with
+graft (n = 73), radical
+penectomy (n = 3).
+Lymphadenectomy
+(n = 25), chemotherapy
+(n = 23)
+
+
+76 64 ± 15.9 NR EORTC
+QLQ-C30
+HRO-PE29
+
+
+No 6 Global QoL score 54
+(scale: 0–100)
+
+
+Gulino 2007 Glansectomy or partial 14 54 T1-T2 Bigelow- Yes 13 All scores declined during disease period and
+penectomy with urethral (41–63) Young improved afterwards. Unpleasant feeling,
+glansuloplasty relationship and job scores no statistically
+
+significant change to preop (trend to slightly
+worse)
+Gulino 2013 Glansectomy or partial 42 56 Ta-T2 Bigelow- Yes but? 6 Bigelow mean scores per domain “pre disease”
+penectomy with urethral Young retrospective (?retrospective recall) and at follow up
+glansuloplasty recall
+
+
+42 56 Ta-T2 Bigelow- Yes but?
+Young retrospective
+recall
+
+
+6 Bigelow mean scores per domain “pre disease”
+(?retrospective recall) and at follow up
+
+
+( *Continued* )
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**Table 6.** Continued
+
+**Author** **Year** **Treatment** **Population** **Mean Age** **Local** **Outcome** **Pre-operative** **Interval from**
+**Size** **Staging** **Measure** **Assessment** **Surgery**
+**(months)** [∗]
+
+
+**Findings**
+
+
+Harju 2021 Penectomy (n = 7), 68 70 Ta-T3 HRQoL 15D No NR (report Mean 0.841 ± 0.10, significantly below
+penile resection (n = 27), (45–91) hetero-genous) age-standardized Finnish population, p = 0.003.
+glansectomy (n = 22), Score related to sexual function. EHS –
+minor excision (n = 12). inadequate for penetration 49% (n = 33)
+Lymphadenectomy in OSFQ severely reduced in 44% (n = 30)
+55 (80.8%) Low self esteem in 30% (n = 20)
+
+Kieffer 2014 Penile sparing surgery 90 65.4 NR SF 36 No 3.9 years SF36 no difference between OSS and (partial)
+(60%), partial or radical (35.7–99.5) IOC (0.1–6.8) penectomy or with and without
+penectomy 40%. lymphadenectomy groups. Also similar to
+Lymphadenectomy age-matched Dutch general population.
+28%.
+
+
+Harju 2021 Penectomy (n = 7),
+penile resection (n = 27),
+glansectomy (n = 22),
+minor excision (n = 12).
+Lymphadenectomy in
+55 (80.8%)
+
+
+Kieffer 2014 Penile sparing surgery 90 65.4 NR SF 36 No 3.9 years SF36 no difference between OSS and (partial)
+(60%), partial or radical (35.7–99.5) IOC (0.1–6.8) penectomy or with and without
+penectomy 40%. lymphadenectomy groups. Also similar to
+Lymphadenectomy age-matched Dutch general population.
+28%. On IOC (partial) penectomy had significantly
+
+more appearance concerns (ES 0.61, p = 0.008)
+more life interference (ES 0.49, p = 0.032);
+lymphadenectomy group more life interference
+(ES 0.5, p = 0.037).
+Perez 2020 OSS with split thickness 32 respon- Median 55.1 Tis-T3 EQ-5D-3L No 55.7 months Mean global health score no difference between
+skin graft reconstruction dents. (IQR 29–90) VAS (2–149) groups, p = 0.2
+(glans resurfacing n = 14, Age/follow Resurfacing: 82.5 (50–90)
+glansectomy =6, partial up relate to Glansectomy: 85 (70–90)
+penectomy n = 12) original Partial penectomy: 87.5 (80–100)
+
+
+32 respondents.
+Age/follow
+up relate to
+original
+population
+of 57
+
+
+Median 55.1 Tis-T3 EQ-5D-3L No 55.7 months Mean global health score no difference between
+(IQR 29–90) VAS (2–149) groups, p = 0.2
+Resurfacing: 82.5 (50–90)
+Glansectomy: 85 (70–90)
+Partial penectomy: 87.5 (80–100)
+
+
+Sos- 2016 Radical penectomy with
+nowski or without
+lymphadenectomy
+
+
+Sos- 2016 Radical penectomy with 10 Mean 60 T1b-T3 EORTC- No 16 months Median for global health status domain of QoL
+nowski or without (35–74) QLQ-C30 (7–49) EORTC C-30 questionnaire was 50. Compared
+lymphadenectomy to literature reported median of 66.7 (cancer
+
+population) and 75 (general population)
+Sos- 2017 Radical penectomy 51 Mean 60 NR EORTC- No Mean 36.3 Correlation seen between aggressiveness of
+nowski (n = 11), partial (28–83) QLQ-C30 (14–83) surgery and the global health status (p = 0.04)
+penectomy (n = 27), and physical functioning (0.047) domains of
+wide local excision EORTC questionnaire; not significant re role,
+(n = 13) emotional, cognitive or social functioning
+
+
+Sos- 2017 Radical penectomy 51 Mean 60 NR EORTC- No Mean 36.3 Correlation seen between aggressiveness of
+nowski (n = 11), partial (28–83) QLQ-C30 (14–83) surgery and the global health status (p = 0.04)
+penectomy (n = 27), and physical functioning (0.047) domains of
+wide local excision EORTC questionnaire; not significant re role,
+(n = 13) emotional, cognitive or social functioning
+
+Suarez- 2018 Radical penectomy or 10 54.3 (37–77) of T1-T4 SF-36 No 21.5 ± 13.4 Surgery type and extent of resection were overall
+Ibarrola partial penectomy; population of not associated significantly with worse outcomes
+respondent breakdown n = 15 (10 on the assessed domains of quality of life.
+unclear
+
+
+Suarez- 2018 Radical penectomy or 10 54.3 (37–77) of T1-T4 SF-36 No 21.5 ± 13.4 Surgery type and extent of resection were overall
+Ibarrola partial penectomy; population of not associated significantly with worse outcomes
+respondent breakdown n = 15 (10 on the assessed domains of quality of life.
+unclear respondents) However, men treated with partial penectomy
+
+reported significantly more pain (p = 0.0547)
+than men treated with total penectomy. Similarly,
+men who underwent lymphadenectomy reported
+significantly more pain (p = 0.0547) than those
+who were spared from the procedure due to the
+primary tumor’s stage and grade.
+Wan 2018 Wide local excision 15 WLE: Tis-T2 EORTC- No 6 months EORTC Global health status
+(n = 7), partial 60.7 ± 10.18 QLQ-C30 WLE: 70.41 ± 6.42
+penectomy (n = 8) Partial Partial penectomy: 69.65 ± 5.05
+
+
+10 54.3 (37–77) of
+population of
+n = 15 (10
+respondents)
+
+
+15 WLE:
+
+60.7 ± 10.18
+
+Partial
+
+penectomy
+62 ± 9.78
+
+
+Tis-T2 EORTC- No 6 months EORTC Global health status
+QLQ-C30 WLE: 70.41 ± 6.42
+Partial penectomy: 69.65 ± 5.05
+Not statistically significant, p = 0.8
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**Table 7.** Outcome: self-image, social, relational, and psychological well-being.
+
+**Author** **Year** **Treatment** **Population** **Age (y)** **Local** **Outcome** **Preoperative** **Interval from**
+**size** **staging** **measure** **assessment** **surgery** **[a]**
+
+
+**Findings**
+
+
+Ficarra [46] 2000 Partial penectomy 16 Mean 63 NR ECOG No 69 mo Compared with radical retropubic prostatectomy
+GHQ control group, anxiety increased (31% vs 2%, *P =*
+.0001)
+Harju [43] 2021 Penectomy (n = 7), 68 Mean 70 Ta-T3 RSES No NR (report Low self-esteem in 30% (n = 20)
+penile resection (n = 27), (45-91) heterogenous)
+glansectomy (n = 22),
+minor excision (n = 12);
+lymphadenectomy in 55
+(80.8%)
+
+
+Mortensen [48] 2013 Range
+WLE—glansectomy;
+lymphadenectomy in 2
+
+
+Mortensen 2013 Range 4 Mean 58.5 NR Semi- No Mean 2-6 y Varying degrees of amputation affected the
+WLE—glansectomy; (44-72) structured participants’ sexual capabilities; still, 3
+lymphadenectomy in 2 interviews participants (66-72 years of age) said that their
+
+partner relationships were not negatively affected
+by the disease. In contrast, the impact on sexual
+function and self-esteem had been devastating to
+the fourth participant (44 years of age) who was
+single and worried about the disease impeding his
+chance of finding love in life. For all participants,
+having had a potentially fatal disease put the
+physical disease impact into perspective.
+Sansalone [28] 2017 Partial penectomy with 25 61.5 ± 2.5 T1-T2 SEAR No Mean 14 Converted to scores 0-100
+urethral glansplasty; (12-25) mo Domain 1: sexual relationship = 68.06 ± 19.14
+lymphadenectomy in 11 (28.12-96.8)
+(44%) Domain 2a: self-esteem = 73.25 ± 16.29
+
+
+4 Mean 58.5 NR Semi(44-72) structured
+interviews
+
+
+Sansalone 2017 Partial penectomy with 25 61.5 ± 2.5 T1-T2 SEAR No Mean 14 Converted to scores 0-100
+urethral glansplasty; (12-25) mo Domain 1: sexual relationship = 68.06 ± 19.14
+lymphadenectomy in 11 (28.12-96.8)
+(44%) Domain 2a: self-esteem = 73.25 ± 16.29
+
+(43.75-100)
+Domain 2b: overall relationship = 74.5 ± 22.67
+(25-100)
+Sos- 2016 Radical penectomy with 10 Mean 60 T1B-T3 RSES No Mean 16 (7-49) Self-esteem: median 75% (67%-87%) (not
+nowski [42] or without (35-74) mo
+
+
+2016 Radical penectomy with
+or without
+lymphadenectomy
+
+
+10 Mean 60 T1B-T3 RSES No Mean 16 (7-49) Self-esteem: median 75% (67%-87%) (not
+(35-74) mo described as low or very low by any patients)
+
+
+51 Mean 60 Customized:
+(28-83) asked to rate
+
+partner
+relationships
+
+as
+
+inferior/same/superior to
+prior
+
+40 63.6 ± 13.2 NR RSES
+
+Customized re
+
+partner
+relations
+
+
+No Mean 36.3 58.9% declared partner relationships were not
+(14-83) mo inferior since the surgery; the radicality of surgery
+did not appear to influence partner relations ( *P =*
+.619)
+
+No Mean 54.6 mo RSES
+
+OSS 28.81 ± 3.99
+Partial penectomy 29.62 ± 3.78
+(not significantly different)
+Partner relations after surgery: same (60%, n = 24),
+inferior (12.5%, n = 5), superior (2.5%, n = 1), N/A
+(25%, n = 10)
+
+( *Continued* )
+
+
+Sosnowski [47]
+
+Sosnowski [40]
+
+
+2017 Radical penectomy
+(n = 11), partial
+penectomy (n = 27),
+WLE (n = 13)
+
+2019 Partial penectomy
+(n = 27), less radical OSS
+(n = 13)
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Sexual Medicine Reviews, 2023, Vol 11, Issue 4 **455**
+
+**Partial glansectomy**
+Croghan et al [35] reported on 15 patients following partial
+glansectomy (11 with preputial flap reconstruction), of whom
+9 were sexually active at the time of follow-up, with mean
+IIEF-5 scores of 14.9 (range 5-25). A mean reduction in
+overall satisfaction with sexual function of 2.8 was reported
+compared with premorbid condition (based on retrospective
+recall), although statistical significance was not confirmed
+( *P =* .07). Yang et al [32] looked at 142 patients following
+partial glansectomy with either primary closure (n = 59) or
+preputial flap reconstruction (n = 46) at 6 months using IIEF15. The authors reported small mean improvements (approximately 0.5- to 1.5-point improvement in the mean score
+of each domain) from preoperative scoring on the IIEF-15.
+They found that patients with preputial flap reconstruction
+scored better than patients with primary closure in orgasmic
+function, intercourse satisfaction, and overall satisfaction ( *P*
+< .05). In addition, sexual partners were more likely to report
+satisfaction with appearance with preputial flap ( *P =* .011),
+but no significant difference in partners’ perception of acceptability for intercourse was noted. RigiScan measurements did
+not show a significant difference from preoperative scores. [32]
+
+**Radical glansectomy and reconstruction**
+Sedigh et al [30] described the sexual outcomes of 23 patients
+following glansectomy with urethral glanduloplasty at
+12 month follow-up. Mean score pre- and postoperatively
+in each domain were as follows: erectile function (19
+preoperatively, 15.7 postoperatively [scale 1-30]), orgasm (6
+preoperatively, 4.8 postoperatively [scale 0-10]), libido (7.2
+preoperatively, 6 postoperatively [scale 2-10]), intercourse
+satisfaction (9 preoperatively, 7 postoperatively [scale 0-15]),
+and overall satisfaction (7.3 preoperatively, 3.6 postoperatively [scale 2-10]). Combining this score across all domains,
+the authors reported a statistically significant decline post–
+radical glansectomy ( *P =* .003) and, using the SEP, found there
+to be a decrease in the possibility of achieving penetrative
+intercourse ( *P =* .006) and in patient-reported satisfaction
+( *P =* .004) in the postglansectomy group. Croghan et al [35]
+
+reported mean IIEF-5 scores of 15.8 (range 5-25) in patients
+post–radical glansectomy at mean follow-up of 22 (range 451) months, and Perez et al [38] reported mean IIEF-5 scores of
+18 (range 11-23) in 6 patients of a mixed cohort with overall
+mean follow-up of 55.7 (range 2-149) months.
+
+**Partial penectomy**
+Chavarriaga et al [41] studied outcomes of partial penectomy
+with inverted urethral flap reconstruction. Mean IIEF-5 scores
+varied from 17.4 to 18.4 and are stratified according to lymph
+node management technique in Table 2.
+
+***Urinary function***
+Urinary function was reported in 9 studies comprising 283
+patient respondents (Table 3). Preoperative assessment was
+performed in one but was not reported in a standardized
+manner. [26] Customized questionnaires were used as the outcome measure in 4 studies, [25][,][26][,][35][,][44] the International Consultation on Incontinence Questionnaire Male Lower Urinary
+Tract Symptoms questionnaire in 2, [38][,][41] the urethral stricture
+patient-reported outcome measure in 1, [29] the International
+Prostate Symptom Score in 1, [42] and maximum velocity of
+urinary stream (Q max ) on uroflowmetry in another. [31] The
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**456** Sexual Medicine Reviews, 2023, Vol 11, Issue 4
+
+
+average time of assessment of urinary function ranged from 6
+to 55.7 months postoperatively. Findings of individual studies
+are presented in Table 3.
+
+***Sensory function***
+Sensory function was enquired about in 4 studies, comprising
+99 patients. [35][,][44] Patients (n = 12) following WLE reported
+unchanged sensitivity after surgery at 12 months in one
+study. [30] Some sensitivity of the neoglans was reported by
+the majority of patients following radical glansectomy with
+split-thickness skin grafting or urethral glanduloplasty in
+3 studies. [24][,][30][,][35] A reduction from preoperative sensitivity
+was reported by 59.1% of 23 patients following urethral
+glanduloplasty reported by Gulino et al [23] ; however, a good
+degree of sensory preservation was objectively confirmed in
+a later study with 12 of 14 patients demonstrating 2 point
+discrimination <2 mm. [23] Quite a bit of hyperaesthesia was
+reported by 11.7% of radical glansectomy patients with
+split-thickness skin graft reconstruction by Croghan et al. [35]
+
+Garaffa et al [44] described a patient cohort (n = 15) following
+phalloplasty with free radial forearm flap, of whom 12 of 15
+reported complete sensation of the flap.
+
+***Cosmesis***
+
+Limited data exist on aesthetic satisfaction. The results of 4
+studies are presented in Table 5, with patient-reported outcomes in 3 of these. O’Kelly et al [37] reported visual analog
+scale scores of 4 to 5 out of 5 in all 19 patients following
+total glans resurfacing, and Croghan et al [35] found 82.4% of a
+patient cohort following a variety of OSS to report satisfaction
+or neutral feelings regarding genital appearance. Yang et al, [32]
+
+in a cohort (n = 142) of patients who underwent partial glansectomy, found significantly enhanced satisfaction reported by
+both patients and their sexual partners with preputial flap
+reconstruction as compared with primary closure.
+
+***Health-related quality of life***
+Thirteen studies assessed HRQoL in patients following penile
+cancer surgery (Table 6). A variety of instruments were used,
+most commonly the European Organizations for Research
+and the Treatment of Cancer (EORTC) Quality of Life Questionnaire C30. [45] Generally, premorbid measures were absent.
+Gulino et al [23][,][24] did attempt to compare predisease and postoperative scores, showing small declines across all BigelowYoung domains, without statistical significance, following
+radical glansectomy or partial penectomy and urethral gladuloplasty. Other authors have attempted to compare HRQoL in
+penile cancer surgery patients to that of other cohorts. Kieffer
+et al [25] reported similar 36-item Short-Form Survey scores
+between penile cancer surgery patients (partial penectomy
+or other OSS, with or without lymphadenectomy) and the
+age-matched general Dutch population. Conversely, however,
+Ficarra et al [46] reported a median global health status domain
+(EORTC C30) of 50 in patients following partial penectomy,
+compared with literature reported scores of 66.7 in a population with a cancer diagnosis and 75 in a general population.
+The same authors compared partial penectomy patients to a
+cohort post–radical retropubic prostatectomy and found the
+penile cancer patients to have significantly impaired overall
+health and increased anxiety. [46] Conflicting findings are also
+reported when the impact of surgical technique on HRQoL is
+examined. Several authors reported no significant difference
+in HRQoL scores between patients who underwent radical
+
+
+penectomy, partial penectomy, or more conservative OSS, with
+or without lymphadenectomy, [25][,][31][,][38][,][39] while Sosnowski et
+al [47] identified a correlation between the aggressiveness of the
+penile cancer surgery and the global health status domain of
+the EORTC C30.
+
+***Self-image and social, relational, and psychological***
+***well-being***
+The outcomes of studies specifically exploring self-image and
+social, relational, and psychological well-being in patients
+following penile cancer surgery are presented in Table 7.
+Anxiety and depression have been reported by patients following penile cancer surgery. [33][,][46] Self-esteem appears to vary
+significantly, with a proportion of patients reporting low selfesteem [43] and others reporting higher levels; a wide spectrum
+of results is apparent. [28][,][42] Wan et al, [31] in the only study
+with a preoperative evaluation of the SEAR (Self-Esteem
+and Relationship) questionnaire, found a significant decline
+between pre- and postoperative scores in a cohort post-WLE
+(n = 7) or partial penectomy (n = 8). While there are limited
+data overall, the majority of patients who were in a partnered
+relationship prior to surgery describe maintaining relational
+satisfaction postoperatively. [28][,][40][,][47][,][48]
+
+**Discussion**
+
+Penile cancer is an aggressive genitourinary malignancy that
+often equates to a life-altering diagnosis for a patient. Recent
+years have seen increased awareness of the concept of survivorship in cancer patients, and this must become a greater
+focus of penile cancer care and research. [49-51]
+
+OSS for penile cancer, when oncologically feasible, has
+evolved on the basis that some preservation of organ function
+may be possible, and that the psychological morbidity of
+radical penectomy may be avoided or reduced. [8][,][15][,][16][,][18] The
+former concept is confirmed by this review, while our findings
+highlight that psychological aspects of the disease and its
+treatment remain poorly understood overall.
+A number of challenges are posed to both interpretation of
+the current literature and future study design. Penile cancer
+is a rare malignancy, [3][,][6] and little research has been published from the geographical regions of highest prevalence.
+Accordingly, most studies are based on low patient numbers,
+and many incorporate heterogeneous populations, with some
+outcome results pooled across different surgical techniques.
+Lymph node management is variably reported. While some
+authors have stratified outcome according to lymph node
+management, [41] the majority did not. This could conceivably have a significant confounding influence on all studied
+outcomes, particularly in instances in which radical inguinal
+± pelvic lymphadenectomy has been performed. Similarly,
+histopathological stage and grade are not routinely reported
+in a way that allows correlation with nononcological outcomes, although this would be an interesting point of study in
+future research. Furthermore, a lack of standardized reporting, with heterogeneity of outcome measures, significantly
+limits interstudy comparison or data pooling. Many current
+studies are retrospective in design and fail to capture preoperative baseline data for control purposes. However, even
+prospectively designed studies are unavoidably limited, in that
+patients generally present to the urologist in the disease state,
+with a penile tumor and recent/impending cancer diagnosis
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Sexual Medicine Reviews, 2023, Vol 11, Issue 4 **457**
+
+
+exerting potential influences on aesthetic, functional, and
+global well-being. True premorbid baseline measures are desirable but realistically are not possible to capture in the majority
+of patients without the hazards of retrospective recall and
+associated bias. The impact of surgical technique is difficult to
+evaluate as an independent variable given the aforementioned
+challenges and that a randomized study is unlikely to be
+feasible or ethical.
+Currently available tools are often likely inadequate as
+stand-alone measures for exploration of each functional
+domain in penile cancer patients. Research of postprostatectomy patients has stressed that restoration of erectile function
+alone, as measured by the IIEF, does not necessarily equate to
+satisfactory overall sexuality for a patient. [52] Questionnaires
+assessing urinary tract symptoms tend to be designed for
+patients with outflow obstruction or storage symptoms
+but may not adequately explore specific urinary symptoms
+associated with penile cancer surgery, such as spraying or
+difficulty voiding from a standing position due to penile
+stump length. [35] Evaluation of quality of life and psychological
+well-being are particularly challenging, as they are influenced
+by multiple confounding variables, and premorbid baseline
+recordings are usually unavailable. The relationship between
+these variables and other domains also merits more in-depth
+exploration. A cancer diagnosis itself may impart significant
+psychological morbidity, including posttraumatic stress
+disorder. [53] However, changes in other domains covered in
+this review are also likely to influence QoL and psychological
+well-being; for example, sexual dysfunction has been directly
+associated with psychological distress in male survivors of
+pelvic malignancies. [54] Furthermore, we need to be assured
+of the sensitivity of measurement instruments to detect small
+changes. Current quantitative studies reporting on QoL and
+psychological and relational well-being are likely significantly
+underpowered to determine differences in these outcomes. For
+this reason, we feel that studies reporting, for example, that
+no relationship exists between the radicality of surgery and
+QoL, should be interpreted with caution.
+Our current understanding of penile cancer survivorship
+issues would be greatly enhanced by a larger volume of qualitative data exploring patients’ perceptions of the outcomes
+discussed in this review, and indeed any others that may
+emerge as important to patients. We would hope that such
+research would pave the way for a standardized penile cancer–specific patient-reported outcome measure incorporating
+functional, aesthetic, and global health–related domains that
+could be applied preoperatively and at intervals along a
+patient’s treatment and recovery pathway. This would greatly
+facilitate assessment of outcomes from potential interventions
+in this field, for example biopsychosocial rehabilitation programs such as those reported in prostate cancer survivors. [55]
+
+**Conclusion**
+
+A growing body of literature explores functional, aesthetic,
+and global well-being outcomes of penile cancer surgery. This
+confirms that OSS can preserve elements of sexual, urinary,
+and penile sensory function, offering potential advantages,
+compared with radical penectomy, to eligible patients. Further
+benefits to OSS may be reflected in improved quality of
+life, psychological health, and relational well-being, although
+conflicting results have been reported. Overall, current
+understanding is challenged by limited data, small,
+heterogeneous patient cohorts, a lack of premorbid baseline
+
+
+measurements,confounding variables and wide variability in
+outcome measures used. Future developments should incorporate further qualitative data to deepen our understanding
+of patients’ perspectives, priorities, and values. This ultimately
+result in the design of standardized patient-reported outcome
+measures (PROMs) and their routine implementation both
+before and after penile cancer surgery.
+
+**Funding**
+
+None declared.
+
+*Conflicts of interest:* None declared.
+
+**References**
+
+1. Montes, Cardona CE, Garcia-Perdomo HA. Incidence of penile
+cancer worldwide: systematic review and meta-analysis. *Rev*
+*Panam Salud Publica* . 2017; **41** [:e117. https://doi.org/10.26633/](https://doi.org/10.26633/RPSP.2017.117)
+[RPSP.2017.117.](https://doi.org/10.26633/RPSP.2017.117)
+2. Cancer Today, *International Agency for Research on Cancer* .
+World Health Organization; 2020.
+3. Hernandez BY, Barnholtz-Sloan J, German RR, *et al.* Burden
+of invasive squamous cell carcinoma of the penis in the United
+States, 1998-2003. *Cancer* . 2008; **113** [(S10):2883–2891. https://](https://doi.org/10.1002/cncr.23743)
+[doi.org/10.1002/cncr.23743.](https://doi.org/10.1002/cncr.23743)
+4. Cancer Research UK. *Penile cancer statistics* [. https://www.cance](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/penile-cancer)
+[rresearchuk.org/health-professional/cancer-statistics/statistics-by-](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/penile-cancer)
+[cancer-type/penile-cancer. (Accessed 18 February 2023).](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/penile-cancer)
+5. Hansen BT, Orumaa M, Lie AK, Brennhovd B, Nygard M.
+Trends in incidence, mortality and survival of penile squamous
+cell carcinoma in Norway 1956-2015. *Int J Cancer* . 2018; **142** (8):
+[1586–1593. https://doi.org/10.1002/ijc.31194.](https://doi.org/10.1002/ijc.31194)
+6. Bandini M, Ahmed M, Basile G, *et al.* A global approach to
+improving penile cancer care. *Nat Rev Urol* . 2021; **19** (4):231–239.
+[https://doi.org/10.1038/s41585-021-00557-y.](https://doi.org/10.1038/s41585-021-00557-y)
+7. O’Neill S, Barns M, Vujovic F, Lozinskiy M. The role of penectomy in penile cancer-evolving paradigms. *Transl Androl Urol* .
+2020; **9** [(6):3191–3194. https://doi.org/10.21037/tau.2019.08.14.](https://doi.org/10.21037/tau.2019.08.14)
+8. Minhas S, Kayes O, Hegarty P, Kumar P, Freeman A, Ralph
+D. What surgical resection margins are required to achieve
+oncological control in men with primary penile cancer? *BJU*
+*Int* . 2005; **96** [(7):1040–1043. https://doi.org/10.1111/j.1464-410](https://doi.org/10.1111/j.1464-410X.2005.05769.x)
+[X.2005.05769.x.](https://doi.org/10.1111/j.1464-410X.2005.05769.x)
+9. Kamel MH, Tao J, Su J, *et al.* Survival outcomes of organ sparing
+surgery, partial penectomy, and total penectomy in pathological
+T1/T2 penile cancer: report from the National Cancer Data Base.
+*Urol Oncol* . 2018; **36** [(2):82.e7–82.e15. https://doi.org/10.1016/j.u](https://doi.org/10.1016/j.urolonc.2017.10.017)
+[rolonc.2017.10.017.](https://doi.org/10.1016/j.urolonc.2017.10.017)
+10. Kamel MH,Bissada N,Warford R,Farias J,Davis R.Organ sparing
+surgery for penile cancer: a systematic review. *J Urol* . 2017; **198** (4):
+[770–779. https://doi.org/10.1016/j.juro.2017.01.088.](https://doi.org/10.1016/j.juro.2017.01.088)
+11. Baumgarten A, Chipollini J, Yan S, *et* *al.* Penile sparing
+surgery for penile cancer: a Multicenter international retrospective
+cohort. *J Urol* . 2018; **199** [(5):1233–1237. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.juro.2017.10.045)
+[juro.2017.10.045.](https://doi.org/10.1016/j.juro.2017.10.045)
+12. Pizzocaro G, Algaba F, Horenblas S, *et al.* EAU penile cancer
+guidelines 2009. *Eur Urol* . 2010; **57** [(6):1002–1012. https://doi.o](https://doi.org/10.1016/j.eururo.2010.01.039)
+[rg/10.1016/j.eururo.2010.01.039.](https://doi.org/10.1016/j.eururo.2010.01.039)
+13. Emmanuel A, Watkin N. Update on organ preserving surgical
+strategies for penile cancer. *Urol Oncol* . 2021; **40** (5):179–183.
+[https://doi.org/10.1016/j.urolonc.2021.01.012.](https://doi.org/10.1016/j.urolonc.2021.01.012)
+14. Crook J. Organ preserving radiation strategies for penile cancer.
+*Urol Oncol* . 2020; **40** [(5):184–190. https://doi.org/10.1016/j.urolo](https://doi.org/10.1016/j.urolonc.2020.06.025)
+[nc.2020.06.025.](https://doi.org/10.1016/j.urolonc.2020.06.025)
+15. Flaig TWSPE, Agarwal N, *et al. NCCN Clinical Practice Guidelines*
+*in Oncology. Penile Cancer Version 2* . National Comprehensive
+[Cancer Network; 2019. https://www2.tri-kobe.org/nccn/guideli](https://www2.tri-kobe.org/nccn/guideline/urological/english/penile.pdf)
+[ne/urological/english/penile.pdf.](https://www2.tri-kobe.org/nccn/guideline/urological/english/penile.pdf)
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+**458** Sexual Medicine Reviews, 2023, Vol 11, Issue 4
+
+
+16. Hakenberg O, Compérat E, Minhas S, *et al. EAU Guidelines on*
+*Penile Cancer* . European Association of Urology; 2019.
+17. Leijte JA, Kirrander P, Antonini N, Windahl T, Horenblas S.
+Recurrence patterns of squamous cell carcinoma of the penis:
+recommendations for follow-up based on a two-Centre analysis of 700 patients. *Eur Urol* . 2008; **54** [(1):161–169. https://doi.o](https://doi.org/10.1016/j.eururo.2008.04.016)
+[rg/10.1016/j.eururo.2008.04.016.](https://doi.org/10.1016/j.eururo.2008.04.016)
+18. Hakenberg OW, Drager DL, Erbersdobler A, Naumann CM,
+Junemann KP, Protzel C. The diagnosis and treatment of penile
+cancer. *Dtsch Arztebl Int* . 2018; **115** [(39):646–652. https://doi.o](https://doi.org/10.3238/arztebl.2018.0646)
+[rg/10.3238/arztebl.2018.0646.](https://doi.org/10.3238/arztebl.2018.0646)
+19. Page MJ, McKenzie JE, Bossuyt PM, *et al.* The PRISMA 2020
+statement: an updated guideline for reporting systematic reviews.
+*BMJ* . 2021; **372** [:n71. https://doi.org/10.1136/bmj.n71.](https://doi.org/10.1136/bmj.n71)
+20. Hegarty PK, Eardley I, Heidenreich A, *et al.* Penile cancer: organsparing techniques. *BJU Int* . 2014; **114** [(6):799–805. https://doi.o](https://doi.org/10.1111/bju.12338)
+[rg/10.1111/bju.12338.](https://doi.org/10.1111/bju.12338)
+21. Hegarty PK, Shabbir M, Hughes B, *et al.* Penile preserving surgery
+and surgical strategies to maximize penile form and function in
+penile cancer: recommendations from the United Kingdom experience. *World J Urol* . 2009; **27** [(2):179–187. https://doi.org/10.1007/](https://doi.org/10.1007/s00345-008-0312-x)
+[s00345-008-0312-x.](https://doi.org/10.1007/s00345-008-0312-x)
+22. Rosen RC, Riley A, Wagner G, Osterloh IH, Kirkpatrick J, Mishra
+A. The international index of erectile function (IIEF): a multidimensional scale for assessment of erectile dysfunction. *Urol-*
+*ogy* . 1997; **49** [(6):822–830. https://doi.org/10.1016/s0090-4295(97](https://doi.org/10.1016/s0090-4295(97)00238-0)
+[)00238-0.](https://doi.org/10.1016/s0090-4295(97)00238-0)
+23. Gulino G, Sasso F, Palermo G, *et al.* Sexual outcomes after organ
+potency-sparing surgery and glans reconstruction in patients with
+penile carcinoma. *Indian J Urol* . 2013; **29** [(2):119–123. https://doi.o](https://doi.org/10.4103/0970-1591.114033)
+[rg/10.4103/0970-1591.114033.](https://doi.org/10.4103/0970-1591.114033)
+24. Gulino G, Sasso F, Falabella R, Bassi PF. Distal urethral reconstruction of the glans for penile carcinoma: results of a novel technique
+at 1-year of followup. *J Urol* . 2007; **178** [(3):941–944. https://doi.o](https://doi.org/10.1016/j.juro.2007.05.059)
+[rg/10.1016/j.juro.2007.05.059.](https://doi.org/10.1016/j.juro.2007.05.059)
+25. Kieffer JM, Djajadiningrat RS, van Muilekom EA, Graafland NM,
+Horenblas S, Aaronson NK. Quality of life for patients treated
+for penile cancer. *J Urol* . 2014; **192** [(4):1105–1110. https://doi.o](https://doi.org/10.1016/j.juro.2014.04.014)
+[rg/10.1016/j.juro.2014.04.014.](https://doi.org/10.1016/j.juro.2014.04.014)
+26. Li J, Zhu Y, Zhang SL, *et al.* Organ-sparing surgery for
+penile cancer: complications and outcomes. *Urology* . 2011; **78** (5):
+[1121–1124. https://doi.org/10.1016/j.urology.2011.08.006.](https://doi.org/10.1016/j.urology.2011.08.006)
+27. Romero FR, Romero KR, Mattos MA, Garcia CR, de Carvalho
+Fernandes R, Perez MD. Sexual function after partial penectomy
+for penile cancer. *Urology* . 2005; **66** [(6):1292-1295. https://doi.o](https://doi.org/10.1016/j.urology.2005.06.081)
+[rg/10.1016/j.urology.2005.06.081.](https://doi.org/10.1016/j.urology.2005.06.081)
+28. Sansalone S, Silvani M, Leonardi R, Vespasiani G, Iacovelli V.
+Sexual outcomes after partial penectomy for penile cancer: results
+from a multi-institutional study. *Asian J Androl* . 2017; **19** (1):
+[57–61. https://doi.org/10.4103/1008-682X.168690.](https://doi.org/10.4103/1008-682X.168690)
+29. Scarberry K, Angermeier KW, Montague D, Campbell S, Wood
+HM. Outcomes for organ-preserving surgery for penile cancer. *Sex*
+*Med* . 2015; **3** [(2):62–66. https://doi.org/10.1002/sm2.56.](https://doi.org/10.1002/sm2.56)
+30. Sedigh O, Falcone M, Ceruti C, *et al.* Sexual function after surgical
+treatment for penile cancer: which organ-sparing approach gives
+the best results? *Can Urol Assoc J* . 2015; **9** [(7-8):423–427. https://](https://doi.org/10.5489/cuaj.2801)
+[doi.org/10.5489/cuaj.2801.](https://doi.org/10.5489/cuaj.2801)
+31. Wan X, Zheng D, Liu C, *et al.* A comparative study of two
+types of organ-sparing surgeries for early stage penile cancer: wide
+local excision vs partial penectomy. *Eur J Surg Oncol* . 2018; **44** (9):
+[1425–1431. https://doi.org/10.1016/j.ejso.2018.03.021.](https://doi.org/10.1016/j.ejso.2018.03.021)
+32. Yang J, Chen J, Wu XF, *et al.* Glans-reconstruction with
+preputial flap is superior to primary closure for post-surgical
+restoration of male sexual function in glans-preserving
+surgery. *Andrology* . 2014; **2** [(5):729–733. https://doi.org/10.1111/](https://doi.org/10.1111/j.2047-2927.2014.00239.x)
+[j.2047-2927.2014.00239.x.](https://doi.org/10.1111/j.2047-2927.2014.00239.x)
+33. Yu C, Hequn C, Longfei L, *et al.* Sexual function after partial Penectomy: a prospectively study from China. *Sci Rep* . 2016; **6** (1):21862.
+[https://doi.org/10.1038/srep21862.](https://doi.org/10.1038/srep21862)
+
+
+34. Rosen RC, Cappelleri JC, Smith MD, Lipsky J, Pena BM. Development and evaluation of an abridged, 5-item version of the
+international index of erectile function (IIEF-5) as a diagnostic
+tool for erectile dysfunction. *Int J Impot Res* . 1999; **11** (6):319–326.
+[https://doi.org/10.1038/sj.ijir.3900472.](https://doi.org/10.1038/sj.ijir.3900472)
+35. Croghan SM, Compton N, Daniels AE, Fitzgibbon L, Daly PJ,
+Cullen IM. Phallus preservation in penile cancer surgery: patientreported aesthetic & functional outcomes. *Urology* . 2021; **152** :
+[60–66. https://doi.org/10.1016/j.urology.2021.02.011.](https://doi.org/10.1016/j.urology.2021.02.011)
+36. Monteiro LL, Skowronski R, Brimo F, *et al.* Erectile function after
+partial penectomy for penile cancer. *Int Braz J Urol* . 2021; **47** (3):
+[515–522. https://doi.org/10.1590/S1677-5538.IBJU.2019.0119.](https://doi.org/10.1590/S1677-5538.IBJU.2019.0119)
+37. O’Kelly F, Lonergan P, Lundon D, *et al.* A prospective study of
+total glans resurfacing for localized penile cancer to maximize
+oncologic and functional outcomes in a tertiary referral network. *J Urol* . 2017; **197** [(5):1258–1263. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.juro.2016.12.089)
+[juro.2016.12.089.](https://doi.org/10.1016/j.juro.2016.12.089)
+38. Perez J, Chavarriaga J, Ortiz A, *et al.* Oncological and functional outcomes after organ-sparing plastic reconstructive surgery
+for penile cancer. *Urology* . 2020; **142** [:161–165.e1. https://doi.o](https://doi.org/10.1016/j.urology.2020.03.058)
+[rg/10.1016/j.urology.2020.03.058.](https://doi.org/10.1016/j.urology.2020.03.058)
+39. Suarez-Ibarrola R, Cortes-Telles A, Miernik A. Health-related
+quality of life and sexual function in patients treated for
+penile cancer. *Urol* *Int* . 2018; **101** (3):351–357. [https://doi.o](https://doi.org/10.1159/000491827)
+[rg/10.1159/000491827.](https://doi.org/10.1159/000491827)
+40. Sosnowski R, Wolski JK, Zi Talewicz U, Szyma Ski M, Baku
+AR, Demkow T. Assessment of selected quality of life domains
+in patients who have undergone conservative or radical surgical
+treatment for penile cancer: an observational study. *Sex Health* .
+2019; **16** [(1):32–38. https://doi.org/10.1071/SH17119.](https://doi.org/10.1071/SH17119)
+41. Chavarriaga J, Becerra L, Camacho D, *et al.* Inverted urethral flap
+reconstruction after partial penectomy: long-term oncological and
+functional outcomes. *Urol Oncol* . 2022; **40** (4):169.e13–169.e20.
+[https://doi.org/10.1016/j.urolonc.2022.02.006.](https://doi.org/10.1016/j.urolonc.2022.02.006)
+42. Sosnowski R, Kulpa M, Kosowicz M, *et al.* Quality of life in penile
+carcinoma patients – post-total penectomy. *Cent European J Urol* .
+2016; **69** [(2):204–211. https://doi.org/10.5173/ceju.2016.828.](https://doi.org/10.5173/ceju.2016.828)
+43. Harju E, Pakarainen T, Vasarainen H, *et al.* Health-related quality
+of life, self-esteem and sexual functioning among patients operated
+for penile cancer – a cross-sectional study. *J Sex Med* . 2021; **18** (9):
+[1524–1531. https://doi.org/10.1016/j.jsxm.2021.06.015.](https://doi.org/10.1016/j.jsxm.2021.06.015)
+44. Garaffa G, Raheem AA, Christopher NA, Ralph DJ. Total phallic
+reconstruction after penile amputation for carcinoma. *BJU*
+*Int* . 2009; **104** (6):852–856. [https://doi.org/10.1111/j.1464-410](https://doi.org/10.1111/j.1464-410X.2009.08424.x)
+[X.2009.08424.x.](https://doi.org/10.1111/j.1464-410X.2009.08424.x)
+45. Groenvold M, Klee MC, Sprangers MA, Aaronson NK. Validation of the EORTC QLQ-C30 quality of life questionnaire through combined qualitative and quantitative assessment
+of patient-observer agreement. *J Clin Epidemiol* . 1997; **50** (4):
+[441–450. https://doi.org/10.1016/s0895-4356(96)00428-3.](https://doi.org/10.1016/s0895-4356(96)00428-3)
+46. Ficarra V, Righetti R, D’Amico A, *et al.* General state of health
+and psychological well-being in patients after surgery for urological
+malignant neoplasms. *Urol Int* . 2000; **65** [(3):130–134. https://doi.o](https://doi.org/10.1159/000064857)
+[rg/10.1159/000064857.](https://doi.org/10.1159/000064857)
+47. Sosnowski R, Wolski JK, Kulpa M, *et al.* Assessment of quality
+of life in patients surgically treated for penile cancer: impact of
+aggressiveness in surgery. *Eur J Oncol Nurs* . 2017; **31** [:1–5. https://](https://doi.org/10.1016/j.ejon.2017.08.011)
+[doi.org/10.1016/j.ejon.2017.08.011.](https://doi.org/10.1016/j.ejon.2017.08.011)
+48. Mortensen GL, Jakobsen JK. Patient perspectives on quality of life
+after penile cancer. *Dan Med J* . 2013; **60** (7):A4655.
+49. Siegel R, DeSantis C, Virgo K, *et al.* Cancer treatment and survivorship statistics, 2012. *CA Cancer J Clin* . 2012; **62** (4):220–241.
+[https://doi.org/10.3322/caac.21149.](https://doi.org/10.3322/caac.21149)
+50. Gallicchio L, Tonorezos E, de Moor JS, *et al.* Evidence gaps in
+cancer survivorship care: a report from the 2019 National Cancer Institute cancer survivorship workshop. *J Natl Cancer Inst* .
+2021; **113** [(9):1136–1142. https://doi.org/10.1093/jnci/djab049.](https://doi.org/10.1093/jnci/djab049)
+51. Mead KH, Raskin S, Willis A, *et al.* Identifying patients’
+priorities for quality survivorship: conceptualizing a patient
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+Sexual Medicine Reviews, 2023, Vol 11, Issue 4 **459**
+
+
+centered approach to survivorship care. *J* *Cancer* *Surviv* .
+2020; **14** (6): 939–958. https://doi.org/10.1007/s11764-02000905-8.
+52. Fode M, Serefoglu EC, Albersen M, Sonksen J. Sexuality following radical prostatectomy: is restoration of erectile function enough? *Sex Med Rev* . 2017; **5** [(1):110–119. https://doi.o](https://doi.org/10.1016/j.sxmr.2016.07.005)
+[rg/10.1016/j.sxmr.2016.07.005.](https://doi.org/10.1016/j.sxmr.2016.07.005)
+53. Cordova MJ, Riba MB, Spiegel D. Post-traumatic stress disorder
+and cancer. *Lancet Psychiatry* . 2017; **4** [(4):330–338. https://doi.o](https://doi.org/10.1016/S2215-0366(17)30014-7)
+[rg/10.1016/S2215-0366(17)30014-7.](https://doi.org/10.1016/S2215-0366(17)30014-7)
+54. Twitchell DK, Wittmann DA, Hotaling JM, Pastuszak AW. Psychological impacts of male sexual dysfunction in pelvic cancer survivorship. *Sex Med Rev* . 2019; **7** [(4):614–626. https://doi.o](https://doi.org/10.1016/j.sxmr.2019.02.003)
+[rg/10.1016/j.sxmr.2019.02.003.](https://doi.org/10.1016/j.sxmr.2019.02.003)
+
+
+55. Elliott S, Matthew A. Sexual recovery following prostate cancer:
+recommendations from 2 established Canadian sexual rehabilitation clinics. *Sex Med Rev* . 2018; **6** [(2):279–294. https://doi.o](https://doi.org/10.1016/j.sxmr.2017.09.001)
+[rg/10.1016/j.sxmr.2017.09.001.](https://doi.org/10.1016/j.sxmr.2017.09.001)
+56. Draeger DL, Sievert KD, Hakenberg OW. Cross-sectional patientreported outcome measuring of health-related quality of life
+with establishment of cancer- and treatment-specific functional
+and symptom scales in patients with penile cancer. *Clin Geni-*
+*tourin Cancer* . 2018; **16** [(6):e1215–e1220. https://doi.org/10.1016/](https://doi.org/10.1016/j.clgc.2018.07.029)
+[j.clgc.2018.07.029.](https://doi.org/10.1016/j.clgc.2018.07.029)
+57. Veeratterapillay R, Sahadevan K, Aluru P, Asterling S, Rao GS,
+Greene D. Organ-preserving surgery for penile cancer: description
+of techniques and surgical outcomes. *BJU Int* . 2012; **110** (11):
+[1792–1795. https://doi.org/10.1111/j.1464-410X.2012.11084.x.](https://doi.org/10.1111/j.1464-410X.2012.11084.x)
+
+
+Kopie von subito e.V., geliefert für Caritas-Krankenhaus St. Josef (HSL17X00507)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

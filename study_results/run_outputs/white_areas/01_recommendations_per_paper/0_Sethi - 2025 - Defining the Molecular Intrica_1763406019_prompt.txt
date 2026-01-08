@@ -1,0 +1,1619 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Review Article
+# Defining the Molecular Intricacies of Human Papillomavirus-Associated Tonsillar Carcinoma
+
+Sneha Sethi, PhD [1] [](https://orcid.org/0000-0002-3571-5298)
+
+Abstract
+
+
+Cancer Control
+
+Volume 32: 1–15
+
+© The Author(s) 2025
+Article reuse guidelines:
+[sagepub.com/journals-permissions](https://us.sagepub.com/en-us/journals-permissions)
+[DOI: 10.1177/10732748241310932](https://doi.org/10.1177/10732748241310932)
+
+[journals.sagepub.com/home/ccx](https://journals.sagepub.com/home/ccx)
+
+
+Background: The past decade has shown a sharp incline in the human papillomavirus (HPV) infection associated oropharyngeal
+carcinoma cases, especially in men younger than 60 years old. Tonsils are one of the key sites, within the oropharyngeal region,
+which shows malignant changes due to HPV infection, and there is very limited literature to understand the specific dynamics in
+the tonsillar areas.
+
+Objective: This critical review was undertaken to explore and unravel the bio-molecular interactions and the role of specific
+proteins associated with HPV infection induced tumorigenesis for the tonsils.
+
+Design: A systematic search of the literature was performed utilising keywords and MeSH terms related to HPV and tonsillar
+carcinoma in PubMed, Scopus, Embase, and Web of Science without restrictions on dates until July 2023. All studies that reported on
+molecular biomarkers or genes/genetic proteins in the context of HPV associated tonsillar carcinoma were included in the study.
+
+Results: Preliminary searches revealed a total of 2734 studies of which 23 satisfied the final inclusion criteria and were included.
+More than 25 proteins and biomarkers were identified, and their role in the malignant process was extracted and compiled. This
+review also presents a short excerpt on each of the molecules identified to provide a better understanding of the pathogenesis.
+
+Conclusion: Given the rapidly increasing number of cases, there is an urgent need for more focused research on virally
+induced tonsillar cancers, to develop a better understanding, and for clarity of management and treatment.
+
+Plain Language Summary
+Human Papillomavirus is a common, sexually transmitted infection which effects more than 80% of people at least once in their
+lifetimes. In most cases it is cleared from the body spontaneously with little or no impact, but some types can persist and induce a
+cancerous change in the affected organs (cervix, penis, anal, oropharynx, tonsil). To elaborate on any specific site impacted by
+cancer, the understanding of molecular level events is critical, and information linking different events in the tonsils specifically is
+sparse, This review is an attempt to primarily collate all the HPV and tonsillar cancer data together, and generate an understanding of how cancer occurs, and different strategies to manage it.
+
+Keywords
+HPV, genes, biomarkers, tonsillar cancer, molecular
+
+Received August 12, 2024. Received revised December 5, 2024. Accepted for publication December 11, 2024.
+
+1 Adelaide Dental School, Faculty of Health and Medical Sciences, The University of Adelaide, Adelaide, SA, Australia
+
+Corresponding Author:
+Sneha Sethi, Australian Research Center for Population Oral Health, Adelaide Dental School, University of Adelaide, Rundle Mall Plaza, Rundle Mall, Adelaide
+SA 5001, Australia.
+[Email: Sneha.sethi@adelaide.edu.au](mailto:Sneha.sethi@adelaide.edu.au)
+
+[Creative Commons CC BY: This article is distributed under the terms of the Creative Commons Attribution 4.0 License (https://](https://creativecommons.org/licenses/by/4.0/)
+[creativecommons.org/licenses/by/4.0/) which permits any use, reproduction and distribution of the work without further](https://creativecommons.org/licenses/by/4.0/)
+[permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/](https://us.sagepub.com/en-us/nam/open-access-at-sage)
+[open-access-at-sage).](https://us.sagepub.com/en-us/nam/open-access-at-sage)
+
+2 Cancer Control
+
+
+Introduction
+
+Human papillomavirus (HPV) viruses are a heterogeneous
+group with circular, double-stranded, non-enveloped DNA
+and more than 200 genotypes have been isolated. These viruses have an affinity to infect and proliferate in the epithelial
+and mucous cells. [1] HPV infection is a sexually transmitted
+infection, [2] with women having an 85% chance and men
+having and 91% chance of acquiring it, at least once in their
+entire lifetime. [3] Given the odds, it is not surprising that the
+global prevalence of this infection has grown considerably
+over the past few decades. [4] Global burden of cancer indicates
+that, HPV infections alone contribute towards more than 80%
+of anal, more than 30% of oropharyngeal, around 80% of
+vaginal, and 50% of penile cancers worldwide. [5]
+
+Thirty HPV genotypes are currently clustered as alphapapillomavirus (‘mucosal HPV types’), characteristic of infecting oro-genital mucosal tracts.1 [1] Although HPV viruses
+characteristically wash out of the system after a transient phase
+of usually subclinical asymptomatic infection, certain virus
+subtypes show persistent behaviours and can initiate malignant changes within the mucosal cells. [6] This subgroup is
+termed the “high-risk” subtypes, with currently 14 subtypes
+recognised under this category. [1]
+
+Tonsils have been identified as the most common site to be
+infected within the oropharynx. [7] Traditionally, the incidence
+of tonsillar cancers was attributed to smoking and alcohol
+habits, but more recently the cases have been associated with a
+high-risk HPV persistent infection. [8] Alarmingly, HPV
+infection-associated tonsillar cancer cases increased by 30% in
+a period of 4 years (2005 to 2009), whereas the tonsillar cancer
+cases not associated with HPV infections did not show similar
+trends. [9] Thus, indicating a risk of increasing number of highrisk HPV infections, inducing malignant changes. In 2012, the
+American Centre for Disease Control and Prevention (CDC)
+also declared oropharyngeal cancer as the most frequently
+diagnosed cancer linked with persistent high-risk HPV infections, and the prevalence has now well exceeded the
+prevalence for cervical cancer. [6] Although, the rising numbers
+are worrisome, the good news is that HPVinfection-associated
+tonsillar cancers have a 25% higher 5-year overall survival
+rate, thus indicating a more favourable prognosis. [10] The detection of HPV DNA after chemotherapy or radiation therapy
+has shown to be predictor for risk of recurrence and survival
+outcomes. [11] This has clear clinical implications, which helps
+in determining risks, but data regarding assessment and
+evaluation of HPV-DNA in tonsillar cancers is sparse, and
+more research is recommended, exploring this connection.
+It has been observed that not all high-risk HPV infections
+are persistent, and induce cancerous changes, but there are
+certain molecular interactions which ascertain persistence and
+progression of cancerous changes. The molecular pathogenesis of HPV infection in cervical cancer has been well re
+searched and documented thus, providing an insight into its
+probable mechanism in the tonsils as well. The current
+
+
+knowledge based on research is limited and there is lack of
+dedicated evidence towards tonsils as an HPV affected site.
+
+Due to this gap, there is limited understanding of any unique
+circumstances around designing treatment strategies for hpvassociated tonsillar carcinoma. This review is an attempt to
+colate the different molecular events, in order to encourage the
+translation of this knowledge into clinical strategies. Viruses
+tend to induce cellular interactions and incite certain bio
+molecules to act in an uncontrolled manner, initiating cellular
+altercations and promoting tumorigenic environments. The
+cancer inducing viral - host interactions at a cellular level
+provide a clear understanding into the progression of the
+disease as well as encourage the development of targeted
+molecular therapy. This review aims to provide a comprehensive understanding of the bio-molecular interactions and to
+elucidate the normal and abnormal functions of proteins involved in HPV infections associated with tonsillar cancers.
+
+Materials and methods
+
+In order to ensure a comprehensive and complete representation of the current data related to HPV infection-associated
+
+tonsillar cancer, a systematic search strategy was employed.
+After extracting the relevant information, short excerpts on
+each biomarker and molecule identified, were presented. The
+possible role in tumorigenesis was highlighted and discussed.
+This review was inspired by the findings of a previously
+published systematic review, which evaluated the clinical
+behaviour of HPV infection-associated tonsillar cancers, as
+compared to tonsillar cancers not associated with HPV infections. [12] The findings of the study have been reported
+following the PRISMA guidelines [13] ; however, as the findings
+collated in the results are narrative in nature, a meta-analysis
+was not planned for this study. The study has been registered
+with PROSPERO (CRD42022306602).
+Given that no human or animal experiments or data were
+involved in the curation of this study, no ethical/review board
+approval was sought.
+
+Data Sources and Searches
+
+[A structured reproducible literature search (Appendix) was](https://journals.sagepub.com/doi/suppl/10.1177/10732748241310932)
+performed using keywords and MeSH terms related to human
+papillomavirus and tonsillar carcinoma. The search was
+performed in July 2023 in the PubMed (including the operators ‘OR’ and ‘AND’, in combination with subject terms
+(‘MeSH Terms’) and free text terms (‘Text Word’)) and
+modified to the Scopus, Embase and Web of Science databases. The academic search engines utilised for completing the
+search for this study were exhaustive, ensuring capture of all
+relevant data. Bibliographies of the relevant studies were then
+manually searched to identify additional relevant studies not
+captured by the search engines.
+
+Sethi 3
+
+
+Study Selection
+
+A predefined inclusion criterion was determined for this review (studies specifically evaluating HPV-associated tonsillar
+carcinoma). No restrictions on study design (cross-sectional,
+cohort and case-control, retrospective, case reports, case
+studies, and interventional studies) were imposed, excluding
+studies presenting secondary evidence, like systematic reviews. Titles and abstracts of all the identified studies were
+
+retrieved and analysed against the inclusion and exclusion
+criteria. All of the studies deemed fit to be included in the full
+text review stage were then retrieved and evaluated. Excluded
+studies included duplicates, studies not including HPV
+infection-associated tonsillar cancer, or had no full text
+available.
+
+Data Extraction and Quality Assessment
+
+Data extraction from the final list of relevant studies was
+
+performed and collated to a Microsoft Excel document.
+Quality assessment of the shortlisted papers was done using
+the Joanna Briggs Institute (JBI) appraisal tools,1 [14] which is
+essentially a series on nine questions assessed by two independent reviewers under ‘Yes’, ‘No’ or ‘Unclear’ categories.
+More information on the quality assessment of included papers has been published elsewhere. [12] The extracted and
+recorded data included: characteristics of the studies like
+
+country and year of publication, study design, biomarker
+studied, inference of study exploring the potential role of the
+particular protein in HPV-associated tonsillar carcinoma and
+the main findings were further explored.
+
+Results
+
+Study Characteristics
+
+A total of 2734 studies were identified and transferred to the
+
+reference managing software, EndNote (X9.3.3). After removal of duplicates, titles and abstracts of 1508 studies were
+screened. Adhering to the inclusion and exclusion criteria, a
+total of 38 studies proceeded to the full-text review stage.
+After reviewing the full texts of the retrieved studies,
+23 studies [15][–][37] were deemed eligible to be included in the final
+review (Figure 1).
+Geographically, these included studies were from
+Germany, [15][,][32][,][33][,][35] Sweden, [16][,][17][,][24][,][28][,][31][,][34][,][37] USA (United
+States of America), [18][,][21] Netherlands, [19][,][36] Republic of
+Korea, [20][,][23][,][27] Japan, [22][,][29] Czech Republic [25][,][30] and Italy. [26]
+
+These details and further characteristics of these studies are
+
+listed in Table 1.
+
+Most of the studies used the polymerase chain reaction
+(PCR) technique, [15][–][20][,][22][–][25][,][27][,][30][–][32][,][36] and the other popular
+choices were immunohistochemistry
+(IHC), [15][,][19][–][22][,][25][,][26][,][28][,][29][,][32][–][35][,][37] in-situ hybridization
+(ISH), [15][,][19][,][20][,][22] tissue micro-assay analysis (TMA), [20][,][23]
+
+
+microsatellite marker analysis (MSA), [15] western and southern blotting techniques. [15][,][36]
+
+The role of the different proteins identified in the review are
+tabulated in Table 2.
+
+Discussion and Review
+
+More than 25 biomarkers were identified through this review
+(Table 2), and the following section presents a short excerpt on
+each. The majority of the papers included in the review are
+from Europe, and a few were from America, Japan and Korea.
+Given that the prevalence of HPV-associated cancers is higher
+in lower socioeconomic countries, this paper also highlights
+the need of more representative data and studies to develop a
+deeper clearer understanding of the same.
+The role of each biomarker in prognosis, tumour formation
+and metastasis, in cancers of other sites as well as specifically,
+HPV infection-associated tonsillar cancers is discussed. This
+
+overview of the different biomarkers identified in HPV
+associated tonsillar cancers can help guide molecular pathways specific to the tonsillar cancers (Figure 2). This will also
+help in enhancing an understanding of the molecular level
+events in theses lesions, which could impact potential
+screening, diagnosis and treatment strategies. Although
+clinical implications cannot be directly suggested at this stage,
+but it definitely has the potential to impact clinical management and deliver translatable outcomes for patients diagnosed
+with HPV associated tonsillar cancer.
+
+Retinoblastoma Tumour Suppressor Protein (pRb)
+
+First identified in 1971 [39] as a key gene (located on chromosome 13) involved in hereditary retinoblastoma, [40] pRb
+plays a significant role in regulating pathways associated with
+cell cycle, [41] cell growth, [42] inflammation, [43] differentiation, [43]
+
+replication, renewal, turnover and death. [40][,][43][–][48] It has been
+speculated that in addition to cellular regulation, pRb is also
+involved in processes impacting tumour growth and extracellular interactions like genomic instability and cellular dedifferentiation. [43] The distinct role of pRb as a tumour suppressor protein can be explained by its recognised role in key
+processes involved in carcinogenesis like proliferating in
+unsuitable environments and the tendency to metastasize.
+Another important aspect of pRb associated with tumour
+initiation and growth, cytokine regulation and research links
+pRb inactivation with increased secretion of pro-inflammatory
+cytokines like IL-6, [43] thus establishing an inflammatory tumour microenvironment. The role of pRb has been reported in
+most of the cancers like prostrate, [49][,][50] breast, [51][,][52] small-lung
+carcinoma, [53][,][54] cervix [55][,][56] etc.
+
+Cyclins (D1 and A1)
+
+Cyclins are critical proteins, first discovered in 1982, which
+facilitate the cell cycle and the processes involved in the cell
+
+4 Cancer Control
+
+Figure 1. PRISMA 2020 flow diagram for this systematic review which included searches of databases, registers and other sources.
+
+
+cycle, by activating enzymes. [57][,][58] The cyclin family consists
+of cyclins (A, B, D, E, F) and cyclin-dependent kinases
+(CDK1, 2, 4, 6), all of which have distinct functions in the cell
+cycle and dysregulation of these proteins have been associated
+with tumorigenic processes. [59][,][60]
+
+Fibroblast Growth Factor Receptor 3 (FGFR3)
+
+Located on chromosome 4, [61] the Fibroblast Growth Factor
+Receptor gene is responsible for coding this protein. FGFR3 is
+intricately related to tyrosine kinases. Tyrosine kinases are the
+specific enzymes within cells that orchestrate the transfer of a
+phosphate group from an ATP (Adenosine triphosphate)
+molecule to a protein with tyrosine residues, thus thanatophoric dysplasia, achondroplasia, and hypochondroplasia
+
+p53
+
+p53 is a tumour suppressor gene that was first identified in
+1979 on chromosome 17. [62] It is critically involved in cell cycle
+regulation with either DNA reparation or apoptosis induction.
+Replication of damaged DNA involves p53 to be expressed and
+produced in the nucleus of the cell. Here, it undergoes chemical
+modifications [63] – phosphorylation and acetylation – allowing it
+to enter its functionally active form to transactivate target genes.
+The genes targeted are contingent on the extent of DNA damage,
+as the cell could undergo apoptosis or repair the DNA with the
+
+
+cell cycle being arrested at the G1/S checkpoint. [64] In the event of
+severe DNA damage, p53 activates pro-apoptotic genes of the
+Bcl-2 family, [65] including Puma and Noxa. Alternatively, in the
+latter case with p53-mediated cell cycle arrest, p21 undergoes
+transactivation to repair DNA before the cell returns to the normal
+cell cycle. [66] Dysfunctional p53 contributes approximately 38% –
+50% of human cancers [67] with the majority of dysfunctionality
+being resultant of genomic mutations that prevent appropriate
+protein conformation. [68] Somatic p53 mutations are associated
+with various aggressive carcinomas [69] as they transactivate oncogenic and growth-promoting genes. [70]
+
+PIK3CA - Phosphatidylinositol-4,5-Bisphosphate
+3-Kinase Catalytic Subunit Alpha
+
+Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic
+Subunit Alpha (PIK3CA) is a gene encoding p110 alpha
+(p110α) which is a catalytic subunit of phosphatidylinositol 3kinase (PI3K). [71] PI3K is a critical enzyme mediating the
+progression of the cell cycle and growth by activating various
+downstream factors, including PDK1. [72] Cancer-specific mutations on PIK3CAwere discovered in 2004 [73] on chromosome
+3, [71] with alterations increasing PI3K signalling, which in turn
+promotes growth factor independent development. [71] In patients testing HPV-positive and having head and neck squamous cell carcinomas, the genetic mutation was seen in 56%,
+
+Sethi 5
+
+Table 1. Summary of the Characteristics of Studies [15][–][37] .
+
+Author, Year Country Technique Proteins/Genes/Bio-Markers Studies
+
+Andl T et al (1998) Germany IHC [a], ISH [a], PCR [a], MSA [a], WB [a] pRb [a] ; Cyclin D1
+Bersani C, et al (2017) Sweden PCR [a] miR [a] -155, 185, 193b; PIK3CA [a]
+
+Bersani C, et al (2018) Sweden PCR [a] FGFR3 [a] ; p53
+Portugal LG, et al (1997) USA [a] PCR [a] p53
+Snijders PJ et al (1992) Netherlands PCR [a], SBH [a] E6, E7
+Snijders PJ et al (1994) Netherlands PCR [a], ISH [a], IHC [a] p53
+Chun SH, et al (2015) Republic of Korea TMA [a], ISH [a], IHC [a], PCR [a] PTEN [a]
+
+Fury MG, et al (2011) USA [a] TMA [a], IHC [a] Phosphorylated S6 and phosphorylated eIF4E
+Kondoh A, et al (2011) Japan IHC [a], PCR [a], ISH [a] Caludin-1,7 and Tricellulin
+Lee SH, et al (2014) Republic of Korea TMA [a], PCR [a], FISH [a] Syndecan1
+Lindquist D, et al (2007) Sweden PCR [a] E6, E7
+Salakova M, et al (2018) Czech Republic PCR [a], IHC [a] E6
+Morbini P, et al (2015) Italy IHC [a] Cytokeratin 7, AGR [a] -2, CD-63, MMP [a] -7
+Na II, et al (2007) Republic of Korea PCR [a] EFGR [a]
+
+Romanitan M, et al (2013) Sweden IHC [a] EFGR [a]
+
+N¨asman A, et al (2013) Sweden IHC [a] Classical HLA [a] -A, B, C
+Pham HT, et al (2020) Japan IHC [a] Semaphorin 3A
+Pokryvkova B, et al (2020) Czech Republic PCR [a] E2
+Ramqvist T, et al (2015) Sweden PCR [a] E2
+Quabius, ES, et al (2015) Germany PCR [a], IHC [a] SLPI [a]
+
+Stenner M, et al (2011) Germany IHC [a] E-cadherin, β-catenin
+Tertipis N, et al (2015) Sweden IHC [a] LMP7
+Weiss D, et al (2012) Germany IHC [a] Cyclin A1
+
+a
+USA – United States of America, IHC - Immunohistochemistry, ISH – in-situ hybridization, PCR – Polymerase chain reaction, MMA – Microsatellite marker
+analysis, WB – Western blotting, SBH – Southern Blotting Hybridization, TMA – Tissue microarray, FISH – Fluorescence in situ hybridization, pRb- Retinoblastoma tumour suppressor protein, miR - microRNA, FGFR3 - Fibroblast growth factor receptor 3, PIK3CA - Phosphatidylinositol-4,5-Bisphosphate
+3-Kinase Catalytic Subunit Alpha, PTEN - Phosphatase and tensin homolog, AGR – Anterior Gradient, CD - Cluster Differentiation, MMP- Matrix metalloproteinase, [38] EFGR – Epithelial Factor Growth Receptor, HLA – Human Leucocyte Antigen, SLPI - Synaptotagmin like protein, LMP7 - Low mass protein-7.
+
+
+whilst 34% [74] of HPV-negative patients, had the carcinoma and
+the mutation.
+
+PTEN
+
+Phosphatase and tensin homolog (PTEN) is a tumour suppressor enzyme that dimerizes [75] with another PTEN to allow it
+to bind to the cell membrane, where it dephosphorylates other
+enzymes, including PI3K. PTEN further aims to promote
+DNA repair and assist with chromosome stability. [76] Discovered in 1997 [77] on chromosome 10, [78] loss of the PTEN
+protein is more frequently associated with cancer, than PTEN
+gene mutations which are seen in approximately 13.5% of all
+human cancers. [79] With the loss of the negative regulator for
+PI3K, the PI3K pathway [80] is activated with cellular proliferation and survival resulting. Mutated PTEN has a reduced
+ability to repair damaged DNA and maintain chromosomal
+stability, hence, a poorer prognosis of cancer is seen from
+higher penetrance. This is also an outcome of PTEN deficiency as DNA replication and mitotic spindle formation are
+hindered. [81] Genetic alterations in PTEN are seen in greater
+frequencies amongst HPV-positive patients with oral squamous cell carcinomas, in comparison to patients testing
+
+
+HPV-negative. [82][,][83] Whilst somatic PTEN mutations are seen
+in various cancers, there is greater emphasis on endometrial
+cancers and glioblastomas. [84]
+
+Phosphorylated S6 and Phosphorylated eIF4E
+
+Phosphorylated S6 (p-S6) and Phosphorylated Eukaryotic
+Translation Factor Initiation Factor 4E (p-eIF4E) are involved
+in specific mRNA translation during protein synthesis, [85] with
+phosphorylation of these individual proteins being heavily
+controlled. Phosphorylation is mitigated by downstream effects
+of the mammalian target of the rapamycin (mTOR) pathway
+with dysregulation being apparent in various cancers. [86] p-S6
+and p-eIF4E were discovered in 1974 [87] and 1976, [88] respectively, with elevated levels of either protein being indicative of
+uncontrolled cell growth [87] from increased protein synthesis.
+Enhanced p-eIF4E levels further suppress apoptosis with antiapoptotic and pro-proliferative mRNAs [89] being translated.
+
+Claudin (�1, �7)
+
+Located across 12 chromosomes by over 17 genes, [90] the
+claudin family consists of over 24 membrane protein
+
+6 Cancer Control
+
+Table 2. Role of Different Proteins/Genes and Factors in Tonsillar Tumorigenesis Specifically Associated With HPV Infections.
+
+Gene/protein Role of Gene/Protein in HPV-Positive Tonsillar Cancer Outcomes
+
+Retinoblastoma tumour suppressor Associated with metastasis and tumour invasion. [15] Unfavorable
+protein (pRb)
+
+miR-155 Positive predictor of survival [16] Favorable
+miR-185 Associated with decreased survival [16] Unfavorable
+FGFR3 (Fibroblast growth factor Increased expression indicated a worse prognosis for tonsillar cancers [17] Unfavorable
+receptor 3)
+
+P53 P53 has not been shown to be a definite indicator of prognosis for HPV infection- Not definite
+associated tonsillar cancers [18][,][19]
+
+PTEN PTEN nuclear expression was observed in HPV-positive tonsillar cancers, with a Favorable
+favorable survival outcome [20]
+
+Phosphorylated S6 and eIF4E p16 positive tonsillar carcinoma is characterized by the expression of phosphorylated Unfavorable
+eIF4E [21]
+
+
+Claudin-1 and 7 Claudin-1, claudin-7, and tricellulin expressions are associated with tumor growth,
+invasion and progression in the tonsils, although no specific link to HPV infection has
+been identified so far. [22]
+
+SDC1 SDC1 expression was associated with nodal spread tumour resection margins. Positive
+expression with this marker was associated with unfavorable prognostic outcomes for
+tonsillar carcinomas. [23]
+
+E7 E6/E7 expressions have been consistently positive for all HPV-associated tonsillar cases,
+thus suggesting a key role the tumorigenic process. The E6/E7 transcripts in tonsillar
+carcinomas could be isolated from integrated as well as episomal DNA. [20][,][25][,][36]
+
+
+Unfavorable
+
+Unfavorable
+
+Unfavorable
+
+
+Cytokeratin (CK) 7 It has been postulated that the expression of squamous cell junction markers within the Unfavorable
+
+Anterior Gradient (AGR) 2 tonsillar crypt cells, could be the potential targets for HPV. The cells might be related Unfavorable
+Cluster Differentiation (CD) 63 to the embryological development of tonsillar structures; their partial could help in Unfavorable
+Matrix metalloproteinase (MMP) 7 developing or identifying specific markers for these tonsillar embryonic cells for Unfavorable
+
+identifying HPV infection and malignant transformation. CD-63, CK-7, AGR-2, and
+MMP-7 could be some of the few markers which could be used to help in estimating
+the prognosis of HPV infection-associated tonsillar carcinomas [26]
+
+EFGR (Epithelial factor growth The research with EGFR expressions has not indicated any indication of clinical Indefinite
+receptor) prognosis with tonsillar cancers. [27][,][37]
+
+Classical HLA-A, B, C The expression of HLA-A, B, C, irrespective of HPV status may serve as a useful Unfavorable
+(Human leucocyte antigen) biomarker for prognosis for tonsillar cancers [28]
+
+
+Semaphorin 3A (SEMA3A) The expression of SEMA3A, irrespective of HPV status, is a prognostic marker for
+survival and has been shown to be associated with angiogenesis in oropharyngeal
+cancers [29]
+
+
+Unfavorable
+
+
+E2 Either negative or no expression of E2 markers was found in HPV-associated tonsillar Favorable
+cancers. [30][,][31]
+
+SLPI (Synaptotagmin like proteins) Increased SLPI expression has indicated protection against HPV infection of tonsillar and Favorable
+non-tonsillar carcinoma. [32]
+
+E-cadherin The downregulation of E-cadherin expression is involved in tumor progression of Favorable
+tonsillar carcinomas. [33]
+
+β-catenin The up-regulation of nuclear β-catenin expression involved in tumour progression of Unfavorable
+tonsillar carcinomas. [33]
+
+LMP7 (Low mass protein 7) Low LMP7 expression is correlated to better clinical outcomes and has prognostic Unfavorable
+significance. [34]
+
+
+Cyclin A1 Cyclin A1 is an important cell cycle regulator with age-related increased expression in
+tonsils of children. Exact role in tonsillar cancer development is uncertain, but could
+be significant. [35]
+
+
+Indefinite
+
+
+members, each playing a key role in tight junctions. With tight
+junctions mitigating epithelial cell polarity, loss of tight
+junctions is closely associated with metastatic potential. [91] An
+imbalance in claudin (�1, �7) is seen in increased
+
+
+tumorigenicity of breast tissue. Down-regulation of claudin-1
+expression in breast epithelial cells has been seen to have neoplastic effects [92] with aggressive characteristics. This is similarly
+seen with claudin-7, as increased cellular discohesion is
+
+Sethi 7
+
+Figure 2. Expression of proteins/genes and factors in tonsillar tumorigenesis specifically associated with HPV infections.
+
+
+consistent with high-grade lesions. [93] Hence, tumour behavior
+has been seen to be heavily contingent on claudin (�1, �7)
+expression, with histological grade, invasiveness, and metastatic potential being determined. Tight junctions are further
+disrupted by HPV, [94] however, the association between HPV
+and the claudin members is limited since HPV is seen to
+instead degrade [95] MAGI-1.
+
+Tricellulin
+
+Analogous to its name, tricellulin is a protein found at junctions
+of three cells in the body, also called MARVELD2. [96] Intercellular junctional complexes include tight junctions, adherens
+junctions, and gap junctions, they intercede adhesion between
+connecting endothelial and epithelial cells. [97] Due to an epithelial
+barrier nature, it has been speculated that altered tricellulin
+expression is associated with advancing cancers, cellular invasion, and metastasis. [98] Research indicates the impact of altered tricellulin on NF-Κβ pathways and the epitheliamesenchymal transformation pathways. [98][–][100] Studies have reported an altered expression of tricellulin and tight junction
+proteins in colorectal cancers, [98] pancreatic cancers, [101] hepatocellular carcinomas, [102] and endometrial cancer. [103] Kondoh
+et al, [22] investigated the role of claudin-1,7 and tricellulin tight
+junction proteins in tonsillar cancers, and although there was
+some loss of expression for tricellulin junctional proteins in
+tonsillar squamous cell carcinomas, there was no loss of expression in the cases associated with HPV infections. This study
+states that HPV infections would not have an impact on the tight
+junctional proteins, and suggested alternative mechanisms of
+tumour invasion and metastasis. [22]
+
+Syndecan 1
+
+Belonging to the four-member syndecan proteoglycan family,
+this protein is an integral membrane protein with a central core
+
+
+protein with multiple glycosaminoglycans (both chondroitin
+sulfate and heparin sulfate) side chains. [104] Due to the involvement of syndecan-1 in cellular processes like proliferation, migration and other cell-cell matrix interactions, it
+positions itself as an important protein during tumour growth
+and invasion. [105] The expression of Syndecan-1 in each tumour
+type is contextual and its relevance depends on the cell type
+and its significance. Szatmari T et al, [105] presents an explorative review of the prognostic role of syndecan-1 with relation
+to the cellular localisation in different organs. Lee SH et al, [23]
+
+studied the prognostic significance of syndecan-1 in tonsillar
+cancers and found that in cases with SDC1 positivity, the
+outcome was unfavourable.
+
+Cytokeratin (CK) 7
+
+Epithelial cells are structurally comprised of cell organs like
+mitochondria, ribosomes, Golgi bodies and, cytoskeleton proteins which constitute the structure and function of the cytoskeleton of the cell. [106] There is an approximately 20 different
+cytoskeletal proteins, the expression of which is retained by the
+tumour cells. Cytoskeletal markers are routinely used to diagnose
+tumours of unknown origin or poorly differentiated cells. [107][,][108]
+
+Expression of CK-7 is strong in epithelial-derived tumours like
+colorectal cancers, [109][–][112] ovarian cancers [113][,][114] and cervical
+cancers. [115] Research with specifically HPV-associated tumours
+has revealed that CK-7 has a role in viral replication, thus
+promoting high-risk HPV-associated tumorigenesis. [116]
+
+Anterior Gradient (AGR) 2
+
+Belonging to the protein disulfide isomerase (PD 1) family, the
+anterior gradient 2 (AGR2) is an estrogen-responsive developmentally regulated gene. [117] First recognised in breast
+cancer cells as an estrogen receptor target, [118] but now also
+
+8 Cancer Control
+
+
+observed as overexpressed in other tumours like ovarian, [119]
+
+pancreatic, [120] and colorectal cancers. [121]
+
+Cluster Differentiation (CD) 63
+
+Encoded by the CD-63 gene, this protein is associated with
+intracellular vesicles inducing functions on the cell surface
+like cellular signalling for growth, proliferation and
+motility. [122][,][123] Platelet activation is one of its recognised
+roles, [124] as well as involvement in abnormal cellular growth
+leading to tumour formation. [125][,][126] The exact role of CD-63 in
+tumorigenesis is a bit controversial with some studies reporting a negative relationship and a few reporting a positive
+relationship. A systematic review exploring the prognostic
+value of CD-63 in different tumours was published in 2018, by
+Koh et al, [127] which reported an inverse relationship of CD-63
+expression with cancers of the ovaries, breasts, colon and
+lungs. [123][,][128][–][131] However it was found that CD-63 although
+not overly expressed in the tumor cells helped in the increased
+production of proteins which promote metastasis and invasion, thus showing higher levels in the plasma as compared to
+the tumor tissue itself. [132][,][133]
+
+Semaphorin 3A (SEMA3A)
+
+Semaphorin 3A is encoded by SEMA3A genes and belongs to
+the Semaphorin protein family, which are associated with
+nervous system development. These proteins are also identified as tumour suppressors, many cells possess Semaphorin
+receptors on their surface and inhibit cellular division and
+spread. [134] The connection to axons of neurons explains its
+expression in Alzheimer’s disease, [135] systemic lupus erythematosus, [134] schizophrenia, [135] scar tissues, rheumatoid arthritis, [134] and spinal cord injuries. [136] Additionally, SEMA3A
+is linked to multiple roles i.e., immune regulation, vascularization and angiogenesis, bone remodelling, organ formation,
+embryonic development, chemo repellent and oncogenesis [137]
+
+Synaptotagmin Like Proteins
+
+One of the primary functions of the cells in our body is to
+secrete molecules (hormones, lipids, neurotransmitters, etc.)
+in response to an external stimulus. These molecules are
+secreted in the form of membrane-bound vesicles by a process
+called exocytosis. This process includes a step that would
+show the contact between the membrane of the vesicle and the
+
+cell membrane before being secreted from the cell. This
+contact is mediated by the formation of phospholipid domains
+called C-2 domains, which include proteins like synaptotagmin like proteins (SLP-1). [138] The SLP-1 protein itself is
+comprised of an N-terminal and a C-terminal. [139] The role of
+SLP-1 is unclear in tumour progressions but has been found
+upregulated in prostate cancer cell lines [140] and endometrial
+cancer, [141] and its use has been suggested as a potential
+biomarker.
+
+
+E-Cadherin
+
+Cadherins are the calcium-dependent (hence the name)
+molecules that are responsible for forming cell-to-cell adhering complexes, [142] maintaining cellular structure by reinforcing cytoskeletal elements, [143] resisting cellular damage,
+and also participating in cellular signalling pathways. [144]
+
+Cadherins are of various types and have distinct functions
+but depending on their location, they are divided into
+E-cadherins (epithelial cells), N-cadherins (neurons),
+R-cadherin (retinal), VE-cadherin (vascular endothelial),
+K-cadherin (kidney), H-cadherin (heart), OB-cadherins (osteoblasts), M-cadherins (myotubule), LI-cadherin (liverintestine) and, P-cadherins (placenta). [145] Given the nature
+of tonsillar tumours, it can be argued that E-cadherins would
+be the most important in tumorigenic processes involving the
+tonsil, oral cavity or oropharynx. E-cadherins, given their
+adhesive function, are one of the most crucial tumour suppressive molecules and prevent the collection of neoplastic
+cells to detach from the epithelial membrane and metastasize
+into distant tissues. [146][,][147] This exchange of information and
+molecules is referred to as epithelial-mesenchymal
+transition. [147]
+
+β-Catenin
+
+Adhesion and transcription are two key cellular events that
+regulate carcinogenic transformations, and β-catenin is a
+protein known to be involved in both processes. [148][–][150] Wnt/
+β-catenin signalling is a key pathway that regulates almost all
+cellular events (differentiation, apoptosis, renewal and proliferation). β-catenin is the single most critical component of
+the complex which needs to be stable to activate this pathway;
+thus, regulates essential cellular processes. Any deviation or
+instability can influence these processes, resulting in neoplastic consequences. [151] Dysregulated genetic expressions of
+this protein have been associated with cancers of the
+colon, [152][–][154] breast, [155][–][158] ovaries [159][–][161] and liver. [162][–][164]
+
+Additionally, β-catenin’s linked to cardiac diseases like cardiomyopathy [165] and congenital heart disorders [166] and, behavioural issues like depression and stress. [167][–][169]
+
+LMP7 - Low Mass Protein-7
+
+Low mass proteins 7 and 2 both have a protective effect against
+cancer antigens and are known to play an active role in immune
+surveillance via regulating the MHC-1 pathways. [170][–][172] Genetic variations in the DNA sequence for LMP-7 have been
+associated with altered functional capability thus impacting the
+antigen processing mechanism and efficiency and is frequently
+associated with cancers of the colon, [173][,][174] cervix, [175][,][176] blood
+cells, [177] and gastric tract. [178][,][179] The association with cervical
+cancers highlights the connection with HPV infections and also
+a probable impact on the development of the tonsillar, oropharyngeal and other HPV infection-associated cancers. [179] It
+
+Sethi 9
+
+
+has already been reported that polymorphism in these genes
+leads to defects in protein structure and functions eventually
+impacting the ability of the infected person to clear the infection. [176] Deshpande et al, [176] also elaborates that any genes or
+proteins involved with the antigen processing for HLA class
+1 proteins may have an impact on malignant transformations of
+cells.
+
+E2
+
+E2 proteins are critical to the replication and transcription
+processes of the papillomavirus. It is linked to numerous viral
+survival and progressing processes, as well as proteins involved in the viral life cycle. [180] E2 proteins have been frequently linked to the carcinogenic pathways associated with
+persistent HPV infection. [181][–][183] A recent systematic review
+provided evidence of the E2 protein of HPV-16 to be involved
+with cellular death, via apoptotic pathways; although, the
+mechanism was still not well understood. [184] The role of these
+proteins is not well understood, a few studies [30][,][31] have not
+reported any significance so far, but further research is required to establish its specific role in tonsillar cancers.
+
+E6 and E7
+
+E6 and E7 are oncogenic viral proteins, which instigate cellular processes like angiogenesis, [185][,][186] uncontrolled cell
+division, [187][,][188] metastasis [189] etc; thus, critical to oncogenesis.
+Evidence also shows that E6 and E7 prevents apoptosis by
+destroying apoptosis inducing factors, leading to the production and persistent HPV affected cells. [190][,][191] Uninhibited
+E6/E7 expression mimics mutational activity of pRb and p53,
+resulting in an unstable genome, mutations, malignant
+changes and other cellular changes favourable for malignant
+transformation. [192] The role of E6/E7 oncoproteins in HPV
+induced malignancies is well defined and thoroughly reported. [189] Needless to say, these proteins play a critical role in
+HPV associated carcinogenesis, and are currently considered
+the gold-standard for diagnosing HPV-associated lesions of
+the head and neck.
+
+Limitations
+
+As all research papers and studies, the current review also has
+some limitations. It is primarily a literature review, an attempt
+to collate all the evidence which could potentially result in
+clinical implications for HPV-associated tonsillar cancers.
+Another limitation is that all the proteins identified have been
+discussed in limited capacity with brief correlations with HPV
+infections and their role in cancer initiation and progress.
+Although, this does compile all the theoretical evidence,
+translational outcomes of this evidence are yet to be researched and implemented. Another limitation is the geographical distribution of the papers included, which was
+primarily based out of research from Europe, and there is
+
+
+currently a lack of data/research from lower socio-economic
+countries, where the burden of HPV associated cancers is
+much higher. Given that this review is based of secondary
+evidence as generated by studies carried out in different
+populations, using different methods of investigation and
+sample size invariances, there is a potential of bias as well.
+
+Conclusion
+
+A clear understanding of the cellular interactions and protein
+expressions is critical whilst making clinical management
+decisions. The literature regarding the exact bimolecular
+mechanism of action for HPV-associated tonsillar cancers is
+
+inconclusive and lacks substantial evidence. This review
+
+provides a comprehensive overview of the proteins identified
+and the hypothesized pathogenesis, but further research targeting especially HPV infected cells and the related tumorigenesis process is recommended. The biomolecules and
+genetic processes involved in the malignant transformation
+of each cell type are unique and diagnostic as well as therapeutic decisions should not be made based on assumptions.
+Thus, further corroborating the need for focused bimolecular
+research for viral-induced carcinogenesis.
+
+Declaration of Conflicting Interests
+
+The author(s) declared no potential conflicts of interest with respect to
+the research, authorship, and/or publication of this article.
+
+Funding
+
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+ORCID iD
+
+[Sneha Sethi ](https://orcid.org/0000-0002-3571-5298) [https://orcid.org/0000-0002-3571-5298](https://orcid.org/0000-0002-3571-5298)
+
+Supplemental Material
+
+Supplemental material for this article is available online.
+
+References
+
+1. Sano D, Oridate N. The molecular mechanism of human
+
+papillomavirus-induced carcinogenesis in head and neck
+squamous cell carcinoma. Int J Clin Oncol. 2016;21(5):
+
+819-826.
+
+2. Mart´ın-Hern´an F, S´anchez-Hern´andez JG, Cano J, Campo J,
+del Romero J. Oral cancer, HPV infection and evidence of
+
+sexual transmission. Med Oral Patol Oral Cir Bucal. 2013;
+
+18(3):e439-e444.
+3. Chesson HW, Dunne EF, Hariri S, Markowitz LE. The esti
+mated lifetime probability of acquiring human papillomavirus
+in the United States. Sex Transm Dis. 2014;41(11):660-664.
+4. Chaturvedi AK, Song H, Rosenberg PS, et al. Tonsillectomy
+and incidence of oropharyngeal cancers. Cancer Epidemiol
+Biomarkers Prev. 2016;25(6):944-950.
+
+10 Cancer Control
+
+
+5. de Martel C, Plummer M, Vignat J, Franceschi S. Worldwide
+burden of cancer attributable to HPV by site, country and HPV
+type. Int J Cancer. 2017;141(4):664-670.
+
+6. Kombe Kombe AJ, Li B, Zahid A, et al. Epidemiology and
+burden of human papillomavirus and related diseases, molecular pathogenesis, and vaccine evaluation. Front Public
+Health. 2021;8:552028.
+
+7. Williamson AJMS, Gajra A. Tonsil Cancer. St. Petersburg, FL:
+StatPearls; 2023. [Updated 2023 Sep 4].
+
+8. N¨asman A, Attner P, Hammarstedt L, et al. Incidence of human
+
+papillomavirus (HPV) positive tonsillar carcinoma in Stockholm, Sweden: an epidemic of viral-induced carcinoma? Int J
+Cancer. 2009;125(2):362-366.
+
+9. Mehanna H, Beech T, Nicholson T, et al. Prevalence of human
+
+papillomavirus in oropharyngeal and nonoropharyngeal
+head and neck cancer--systematic review and meta-analysis
+of trends by time and region. Head Neck. 2013;35(5):
+
+747-755.
+
+10. Charfi L, Jouffroy T, de Cremoux P, et al. Two types of
+squamous cell carcinoma of the palatine tonsil characterized by
+distinct etiology, molecular features and outcome. Cancer Lett.
+2008;260(1-2):72-78.
+
+11. Sabeena S, Kuriakose S, Damodaran B, Ravishankar N,
+
+Arunkumar G. Human papillomavirus (HPV) DNA detection
+in uterine cervix cancer after radiation indicating recurrence: a
+systematic review and meta-analysis. J Gynecol Oncol. 2020;
+31(2):e20.
+
+12. Sethi S, Shahin A, Rahim INA. Association of human
+
+papillomavirus infection with tonsillar cancers: a systematic
+review. Indian J Otolaryngol Head Neck Surg. 2023;76:
+
+268–276.
+
+13. Page MJ, Moher D, Bossuyt PM, et al. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for
+reporting systematic reviews. BMJ. 2021;372:n160.
+
+14. Munn Z, Barker TH, Moola S, et al. Methodological quality of
+case series studies: an introduction to the JBI critical appraisal
+tool. JBI Evid Synth. 2020;18(10):2127-2133.
+
+15. Andl T, Kahn T, Pfuhl A, et al. Etiological involvement of
+oncogenic human papillomavirus in tonsillar squamous cell
+carcinomas lacking retinoblastoma cell cycle control. Cancer
+Res. 1998;58(1):5-13.
+
+16. Bersani C, Mints M, Tertipis N, et al. MicroRNA-155,185 and-193b as biomarkers in human papillomavirus positive
+and negative tonsillar and base of tongue squamous cell carcinoma. Oral Oncol. 2018;82:8-16.
+
+17. Bersani C, Sivars L, Haeggblom L, et al. Targeted sequencing
+of tonsillar and base of tongue cancer and human papillomavirus positive unknown primary of the head and neck reveals prognostic effects of mutated FGFR3. Oncotarget. 2017;
+8(21):35339-35350.
+
+18. Portugal LG, Goldenberg JD, Wenig BL, et al. Human papillomavirus expression and p53 gene mutations in squamous
+cell carcinoma. Arch Otolaryngol Head Neck Surg. 1997;
+123(11):1230-1234.
+
+
+19. Snijders PJ, Steenbergen RD, Top B, Scott SD, Meijer CJ,
+Walboomers JM. Analysis of p53 status in tonsillar carcinomas
+associated with human papillomavirus. J Gen Virol. 1994;
+75(10):2769-2775.
+
+20. Chun SH, Jung CK, Won HS, Kang JH, Kim YS, Kim MS.
+Divergence of P53, PTEN, PI3K, Akt and mTOR expression in
+tonsillar cancer. Head & neck. 2015;37(5):636-643.
+
+21. Fury MG, Drobnjak M, Sima CS, et al. Tissue microarray
+evidence of association between p16 and phosphorylated
+eIF4E in tonsillar squamous cell carcinoma. Head & neck.
+2011;33(9):1340-1345.
+
+22. Kondoh A, Takano K-I, Kojima T, et al. Altered expression of
+claudin-1, claudin-7, and tricellulin regardless of human
+papilloma virus infection in human tonsillar squamous cell
+carcinoma. Acta Otolaryngol. 2011;131(8):861-888.
+
+23. Lee SH, Choi EJ, Kim MS, et al. Prognostic significance of
+syndecan-1 expression in squamous cell carcinoma of the
+tonsil. Int J Clin Oncol. 2014;19(2):247-253.
+
+24. Lindquist D, Romanitan M, Hammarstedt L, et al. Human
+papillomavirus is a favourable prognostic factor in tonsillar
+cancer and its oncogenic role is supported by the expression of
+E6 and E7. Mol Oncol. 2007;1(3):350-355.
+
+25. Salakova M, Koslabova E, Grega M, et al. Mucosal and skin
+HPV types in tumour-free tonsils and tonsillar tumours. Neoplasma. 2018;65(2):278-286.
+
+26. Morbini P, Capello G, Alberizzi P, et al. Markers of squamocolumnar junction cells in normal tonsils and oropharyngeal
+cancer with and without HPV infection. Histol Histopathol.
+2015;30(7):833-839.
+
+27. Na I, Kang H, Park Y, et al. EGFR mutations and human
+papillomavirus in squamous cell carcinoma of tongue and
+tonsil. J Clin Oncol. 2006;24(18_suppl):10027.
+
+28. N¨asman A, Andersson E, Nordfors C, et al. MHC class I
+
+expression in HPV positive and negative tonsillar squamous
+
+cell carcinoma in correlation to clinical outcome. Int J Cancer.
+
+2013;132(1):72-81.
+
+29. Pham HT, Kondo S, Endo K, et al. Influences of semaphorin
+3A expression on clinicopathological features, human papillomavirus status, and prognosis in oropharyngeal carcinoma.
+Microorganisms. 2020;8(9):1286.
+30. Pokr´yvkov´a B, Sal´akov´a M, Smahelov´a J, Vojt [ˇ] echov´a Z,ˇ
+Novosadov´a V, Tachezy R. Detailed characteristics of tonsillar
+tumors with extrachromosomal or integrated form of human
+papillomavirus. Viruses. 2019;12(1):42.
+
+31. Ramqvist T, Mints M, Tertipis N, N¨asman A, Romanitan M,
+Dalianis T. Studies on human papillomavirus (HPV) 16 E2,
+E5 and E7 mRNA in HPV-positive tonsillar and base of tongue
+cancer in relation to clinical outcome and immunological
+parameters. Oral Oncol. 2015;51(12):1126-1131.
+
+32. Quabius ES, G¨or¨ogh T, Fischer GS, et al. The antileukoprotease secretory leukocyte protease inhibitor (SLPI)
+and its role in the prevention of HPV-infections in head and
+neck squamous cell carcinoma. Cancer Lett. 2015;357(1):
+
+339-345.
+
+Sethi 11
+
+
+33. Stenner M, Yosef B, Huebbers CU, et al. Nuclear translocation
+
+of β-catenin and decreased expression of epithelial cadherin in
+human papillomavirus-positive tonsillar cancer: an early event
+in human papillomavirus-related tumour progression? Histopathology. 2011;58(7):1117-1126.
+34. Tertipis N, Haeggblom L, Grün N, et al. Reduced expression of
+the antigen processing machinery components TAP2, LMP2,
+and LMP7 in tonsillar and base of tongue cancer and implications for clinical outcome. Transl Oncol. 2015;8(1):10-17.
+35. Weiss D, Koopmann M, Basel T, Rudack C. Cyclin A1 shows
+age-related expression in benign tonsils, HPV16-dependent
+overexpression in HNSCC and predicts lower recurrence rate
+in HNSCC independently of HPV16. BMC Cancer. 2012;
+12(1):259.
+36. Snijders PJ, Meijer CJ, van den Brule AJ, Schrijnemakers HF,
+Snow GB, Walboomers JM. Human papillomavirus (HPV)
+type 16 and 33 E6/E7 region transcripts in tonsillar carcinomas
+can originate from integrated and episomal HPV DNA. J Gen
+Virol. 1992;73(8):2059-2066.
+
+37. Romanitan M, N¨asman A, Munck-Wikland E, Dalianis T,
+
+Ramqvist T. EGFR and phosphorylated EGFR in relation to
+
+HPV and clinical outcome in tonsillar cancer. Anticancer Res.
+
+2013;33(4):1575-1583.
+38. Witkiewicz AK, Knudsen ES. Retinoblastoma tumor suppressor pathway in breast cancer: prognosis, precision medicine, and therapeutic interventions. Breast Cancer Res. 2014;
+16(3):207.
+39. Knudson AG. Mutation and cancer: statistical study of retinoblastoma. Proc Natl Acad Sci U S A. 1971;68(4):820-823.
+40. Sellers WR, Kaelin WG. Role of the retinoblastoma protein in
+the pathogenesis of human cancer. J Clin Oncol. 1997;15(11):
+
+3301-3312.
+
+41. Goodrich DW, Wang NP, Qian Y-W, Lee EYHP, Lee W-H. The
+retinoblastoma gene product regulates progression through the
+G1 phase of the cell cycle. Cell. 1991;67(2):293-302.
+42. Münger K, Howley PM. Human papillomavirus immortalization and transformation functions. Virus Res. 2002;89(2):
+
+213-228.
+
+43. Kitajima S, Takahashi C. Intersection of retinoblastoma tumor
+suppressor function, stem cells, metabolism, and inflammation.
+Cancer Sci. 2017;108(9):1726-1731.
+44. Kaelin WG. Functions of the retinoblastoma protein. Bioessays. 1999;21(11):950-958.
+45. Sherr CJ, Roberts JM. CDK inhibitors: positive and negative
+regulators of G1-phase progression. Genes Dev. 1999;13(12):
+
+1501-1512.
+
+46. La Thangue NB. DP and E2F proteins: components of a
+heterodimeric transcription factor implicated in cell cycle
+control. Curr Opin Cell Biol. 1994;6(3):443-450.
+47. Cress W, Nevins J. Use of the E2F transcription factor by DNA
+tumor virus regulatory proteins. Curr Top Microbiol Immunol.
+
+1996;208:63-78.
+
+48. Chellappan SP, Hiebert S, Mudryj M, Horowitz JM, Nevins JR.
+The E2F transcription factor is a cellular target for the RB
+protein. Cell. 1991;65(6):1053-1061.
+
+
+49. Macleod KF. The RB tumor suppressor: a gatekeeper to
+hormone independence in prostate cancer? J Clin Invest. 2010;
+120(12):4179-4182.
+
+50. Sharma A, Yeow W-S, Ertel A, et al. The retinoblastoma tumor
+
+suppressor controls androgen signaling and human prostate
+cancer progression. J Clin Invest. 2010;120(12):4478-4492.
+51. Bosco EE, Wang Y, Xu H, et al. The retinoblastoma tumor
+suppressor modifies the therapeutic response of breast cancer.
+J Clin Invest. 2007;117(1):218-228.
+52. Patel JM, Goss A, Garber JE, et al. Retinoblastoma protein
+expression and its predictors in triple-negative breast cancer.
+Npj Breast Cancer. 2020;6(1):19.
+53. Budak-Alpdogan T, Chen B, Warrier A, Medina DJ, Moore D,
+Bertino JR. Retinoblastoma tumor suppressor gene expression
+determines the response to sequential flavopiridol and doxorubicin treatment in small-cell lung carcinoma. Clin Cancer
+Res. 2009;15(4):1232-1240.
+54. Matsumoto S, Teramoto H, Nakamoto M, Igishi T, Kawasaki
+Y, Shimizu E. Presence of antibodies against retinoblastoma
+tumor suppressor protein in patients with lung cancer. Int J
+Oncol. 2001;19(5):1035-1039.
+55. Bourgo RJ, Braden WA, Wells SI, Knudsen ES. Activation of
+the retinoblastoma tumor suppressor mediates cell cycle inhibition and cell death in specific cervical cancer cell lines. Mol
+Carcinog. 2009;48(1):45-55.
+56. Salcedo M, Taja L, Utrera D, et al. Changes in retinoblastoma
+gene expression during cervical cancer progression. Int J Exp
+Pathol. 2002;83(6):275-286.
+57. Galderisi U, Jori FP, Giordano A. Cell cycle regulation and
+neural differentiation. Oncogene. 2003;22(33):5208-5219.
+58. Evans T, Rosenthal ET, Youngblom J, Distel D, Hunt T.
+Cyclin: a protein specified by maternal mRNA in sea urchin
+eggs that is destroyed at each cleavage division. Cell. 1983;
+33(2):389-396.
+59. Casimiro MC, Crosariol M, Loro E, Li Z, Pestell RG. Cyclins
+and cell cycle control in cancer and disease. Genes & cancer.
+2012;3(11-12):649-657.
+60. Shapiro GI. Cyclin-dependent kinase pathways as targets for
+cancer treatment. J Clin Oncol. 2006;24(11):1770-1783.
+61. Keegan K, Johnson DE, Williams LT, Hayman MJ. Isolation of
+an additional member of the fibroblast growth factor receptor
+family, FGFR-3. Proc Natl Acad Sci U S A. 1991;88(4):
+
+1095-1099.
+
+62. Marei HE, Althani A, Afifi N, et al. p53 signaling in cancer
+progression and therapy. Cancer Cell Int. 2021;21(1):703.
+63. Sionov RV, Haupt Y. The cellular response to p53: the decision
+between life and death. Oncogene. 1999;18(45):6145-6157.
+64. Senturk E, Manfredi JJ. p53 and cell cycle effects after DNA
+damage. Methods Mol Biol. 2013;962:49-61.
+65. Nag S, Zhang X, Srivenugopal KS, Wang MH, Wang W,
+Zhang R. Targeting MDM2-p53 interaction for cancer therapy:
+are we there yet? Curr Med Chem. 2014;21(5):553-574.
+66. Harper JW, Adami GR, Wei N, Keyomarsi K, Elledge SJ. The
+p21 Cdk-interacting protein Cip1 is a potent inhibitor of
+G1 cyclin-dependent kinases. Cell. 1993;75(4):805-816.
+
+12 Cancer Control
+
+
+67. Olivier M, Hollstein M, Hainaut P. TP53 mutations in human
+
+cancers: origins, consequences, and clinical use. Cold Spring
+Harb Perspect Biol. 2010;2(1):a001008.
+
+68. Vousden KH, Lu X. Live or let die: the cell’s response to p53.
+Nat Rev Cancer. 2002;2(8):594-604.
+
+69. Ozaki T, Nakagawara A. Role of p53 in cell death and human
+cancers. Cancers. 2011;3(1):994-1013.
+
+70. Chen PL, Chen YM, Bookstein R, Lee WH. Genetic mech
+anisms of tumor suppression by the human p53 gene. Science.
+1990;250(4987):1576-1580.
+
+71. Ligresti G, Militello L, Steelman LS, et al. PIK3CA mutations
+in human solid tumors: role in sensitivity to various therapeutic
+approaches. Cell Cycle. 2009;8(9):1352-1358.
+
+72. Manning BD, Cantley LC. AKT/PKB signaling: navigating
+downstream. Cell. 2007;129(7):1261-1274.
+
+73. Samuels Y, Waldman T. Oncogenic mutations of PIK3CA in
+human cancers. Curr Top Microbiol Immunol. 2010;347:
+
+21-41.
+
+74. Lawrence MS, Sougnez C, Lichtenstein L, Cibulskis K, Lander
+E, Gabriel SB. Comprehensive genomic characterization of
+head and neck squamous cell carcinomas. Nature. 2015;
+517(7536):576-582.
+
+75. Hopkins BD, Hodakoski C, Barrows D, Mense SM, Parsons
+RE. PTEN function: the long and the short of it. Trends Biochem Sci. 2014;39(4):183-190.
+
+76. Dillon LM, Miller TW. Therapeutic targeting of cancers with
+loss of PTEN function. Curr Drug Targets. 2014;15(1):65-79.
+
+77. Parsons R. Discovery of the PTEN tumor suppressor and its
+connection to the PI3K and AKToncogenes. Cold Spring Harb
+Perspect Med. 2020;10(8):a036129.
+
+78. Abdulkareem IH, Blair M. Phosphatase and tensin homologue
+deleted on chromosome 10. Niger Med J. 2013;54(2):79-86.
+
+79. Masson GR, Williams RL. Structural mechanisms of PTEN
+
+regulation. Cold Spring Harb Perspect Med. 2020;10(3):
+
+a036152.
+
+80. Porta C, Paglino C, Mosca A. Targeting PI3K/Akt/mTOR
+signaling in cancer. Front Oncol. 2014;4:64.
+
+81. Hou SQ, Ouyang M, Brandmaier A, Hao H, Shen WH. PTEN
+in the maintenance of genome integrity: from DNA replication
+[to chromosome segregation. Bioessays. 2017;39(10). doi:10.](https://doi.org/10.1002/bies.201700082)
+
+[1002/bies.201700082](https://doi.org/10.1002/bies.201700082)
+
+82. Gillison ML, Akagi K, Xiao W, et al. Human papillomavirus
+and the landscape of secondary genetic alterations in oral
+cancers. Genome Res. 2019;29(1):1-17.
+
+83. Lioni M, Brafford P, Andl C, et al. Dysregulation of claudin-7
+leads to loss of E-cadherin expression and the increased invasion of esophageal squamous cell carcinoma cells. Am J
+Pathol. 2007;170(2):709-721.
+
+84. Bonneau D, Longy M. Mutations of the human PTEN gene.
+Hum Mutat. 2000;16(2):109-122.
+
+85. Saraf A, Luo J, Morris DR, Storm DR. Phosphorylation of
+eukaryotic translation initiation factor 4E and eukaryotic
+translation initiation factor 4E-binding protein (4EBP) and
+their upstream signaling components undergo diurnal
+
+
+oscillation in the mouse hippocampus: implications for
+memory persistence. J Biol Chem. 2014;289(29):
+
+20129-20138.
+
+86. Fingar DC, Richardson CJ, Tee AR, Cheatham L, Tsou C,
+Blenis J. mTOR controls cell cycle progression through its cell
+growth effectors S6K1 and 4E-BP1/eukaryotic translation
+initiation factor 4E. Mol Cell Biol. 2004;24(1):200-216.
+
+87. Ruvinsky I, Sharon N, Lerer T, et al. Ribosomal protein
+S6 phosphorylation is a determinant of cell size and glucose
+homeostasis. Genes Dev. 2005;19(18):2199-2211.
+
+88. Filipowicz W, Sierra JM, Nombela C, Ochoa S, Merrick WC,
+Anderson WF. Polypeptide chain initiation in eukaryotes:
+initiation factor requirements for translation of natural messengers. Proc Natl Acad Sci U S A. 1976;73(1):44-48.
+
+89. Wendel HG, Silva RL, Malina A, et al. Dissecting eIF4E action
+in tumorigenesis. Genes Dev. 2007;21(24):3232-3237.
+
+90. Myal Y, Leygue E, Blanchard AA. Claudin 1 in breast tumorigenesis: revelation of a possible novel “claudin high”
+subset of breast cancers. J Biomed Biotechnol. 2010;2010:
+
+956897.
+
+91. Singh AB, Sharma A, Dhawan P. Claudin family of proteins
+and cancer: an overview. J Oncol. 2010;2010:541957.
+
+92. Kulawiec M, Safina A, Desouki MM, et al. Tumorigenic
+transformation of human breast epithelial cells induced by
+mitochondrial DNA depletion. Cancer Biol Ther. 2008;7(11):
+
+1732-1743.
+
+93. Kominsky SL, Argani P, Korz D, et al. Loss of the tight
+junction protein claudin-7 correlates with histological grade in
+
+both ductal carcinoma in situ and invasive ductal carcinoma of
+
+the breast. Oncogene. 2003;22(13):2021-2033.
+
+94. Kranjec C, Banks L. A systematic analysis of human papillomavirus (HPV) E6 PDZ substrates identifies MAGI-1 as a
+major target of HPV type 16 (HPV-16) and HPV-18 whose loss
+accompanies disruption of tight junctions. J Virol. 2011;85(4):
+
+1757-1764.
+
+95. Beauvais DM, Ell BJ, McWhorter AR, Rapraeger AC.
+Syndecan-1 regulates alphavbeta3 and alphavbeta5 integrin
+activation during angiogenesis and is blocked by synstatin, a
+novel peptide inhibitor. J Exp Med. 2009;206(3):691-705.
+
+96. Schuetz A, Radusheva V, Krug SM, Heinemann U. Crystal
+
+structure of the tricellulin C-terminal coiled-coil domain re
+veals a unique mode of dimerization. Ann N Y Acad Sci. 2017;
+1405(1):147-159.
+
+97. Krug SM, Amasheh S, Richter JF, et al. Tricellulin forms a
+barrier to macromolecules in tricellular tight junctions without
+affecting ion permeability. Mol Biol Cell. 2009;20(16):
+
+3713-3724.
+
+98. Zhang JX, Qin MB, Ye Z, et al. Association of tricellulin
+expression with poor colorectal cancer prognosis and metastasis. Oncol Rep. 2020;44(5):2174-2184.
+
+99. Kojima T, Fuchimoto J, Yamaguchi H, et al. c-Jun N-terminal
+kinase is largely involved in the regulation of tricellular tight
+junctions via tricellulin in human pancreatic duct epithelial
+cells. J Cell Physiol. 2010;225(3):720-733.
+
+Sethi 13
+
+
+100. Kyuno D, Takasawa A, Kikuchi S, Takemasa I, Osanai M,
+Kojima T. Role of tight junctions in the epithelial-tomesenchymal transition of cancer cells. Biochim Biophys
+Acta Biomembr. 2021;1863(3):183503.
+
+101. Takasawa A, Murata M, Takasawa K, et al. Nuclear locali
+zation of tricellulin promotes the oncogenic property of pancreatic cancer. Sci Rep. 2016;6:33582.
+102. Somor´acz A, Korompay A, T¨orzs¨ok P, et al. Tricellulin expression and its prognostic significance in primary liver carcinomas. Pathol Oncol Res. 2014;20(4):755-764.
+103. Shimada H, Abe S, Kohno T, et al. Loss of tricellular tight
+junction protein LSR promotes cell invasion and migration via
+upregulation of TEAD1/AREG in human endometrial cancer.
+Sci Rep. 2017;7(1):37049.
+104. Beauvais DM, Burbach BJ, Rapraeger AC. The syndecan-1
+ectodomain regulates alphavbeta3 integrin activity in human
+mammary carcinoma cells. J Cell Biol. 2004;167(1):171-181.
+105. Szatm´ari T, Otv¨os R, Hjerpe A, Dobra K. Syndecan-1 in [¨]
+cancer: implications for cell signaling, differentiation, and
+prognostication. Dis Markers. 2015;2015:796052.
+106. Ong MS, Deng S, Halim CE, et al. Cytoskeletal proteins in
+cancer and intracellular stress: a therapeutic perspective.
+Cancers. 2020;12(1):238.
+107. Hrudka J, Fiserov´a H, Jel´ˇ ınkov´a K, Matej R, Waldauf P.ˇ
+Cytokeratin 7 expression as a predictor of an unfavorable
+prognosis in colorectal carcinoma. Sci Rep. 2021;11(1):17863.
+108. Moll R. Cytokeratins as markers of differentiation in the diagnosis of epithelial tumors. Subcell Biochem. 1998;31:
+
+205-262.
+
+109. Bayrak R, Yenidünya S, Haltas H. Cytokeratin 7 and cytokeratin 20 expression in colorectal adenocarcinomas. Pathol
+Res Pract. 2011;207(3):156-160.
+110. Hernandez BY, Frierson HF, Moskaluk CA, et al. CK20 and
+
+CK7 protein expression in colorectal cancer: demonstration of
+the utility of a population-based tissue microarray. Hum
+Pathol. 2005;36(3):275-281.
+111. Zhang PJ, Shah M, Spiegel GW, Brooks JJ. Cytokeratin
+7 immunoreactivity in rectal adenocarcinomas. Appl Immunohistochem Mol Morphol. 2003;11(4):306-310.
+112. Fei F, Li C, Cao Y, et al. CK7 expression associates with the
+location, differentiation, lymph node metastasis, and the
+Dukes’ stage of primary colorectal cancers. J Cancer. 2019;
+10(11):2510-2519.
+113. Berezowski K, Stastny JF, Kornstein MJ. Cytokeratins 7 and
+20 and carcinoembryonic antigen in ovarian and colonic
+carcinoma. Mod Pathol. 1996;9(4):426-429.
+114. Lagendijk JH, Mullink H, Van Diest PJ, Meijer GA, Meijer CJ.
+Tracing the origin of adenocarcinomas with unknown primary
+using immunohistochemistry: differential diagnosis between
+colonic and ovarian carcinomas as primary sites. Hum Pathol.
+1998;29(5):491-497.
+115. Samyuktha A, Shetty P, Mysorker V. A study of cytokeratin-7
+expression and clinicopathological correlation in dysplasia and
+squamous cell carcinoma of the cervix. Asian Pac J Cancer
+Prev APJCP. 2022;23(3):885-891.
+
+
+116. Lee H, Lee H, Cho YK. Cytokeratin7 and cytokeratin19 expression in high grade cervical intraepithelial neoplasm and
+squamous cell carcinoma and their possible association in
+cervical carcinogenesis. Diagn Pathol. 2017;12(1):18.
+117. Vanderlaag KE, Hudak S, Bald L, et al. Anterior gradient-2
+plays a critical role in breast cancer cell growth and survival by
+modulating cyclin D1, estrogen receptor-alpha and survivin.
+Breast Cancer Res. 2010;12(3):R32.
+118. Kuang WW, Thompson DA, Hoch RV, Weigel RJ. Differential
+screening and suppression subtractive hybridization identified
+genes differentially expressed in an estrogen receptor-positive
+breast carcinoma cell line. Nucleic Acids Res. 1998;26(4):
+
+1116-1123.
+
+119. Park K, Chung YJ, So H, et al. AGR2, a mucinous ovarian
+cancer marker, promotes cell proliferation and migration. Exp
+Mol Med. 2011;43(2):91-100.
+120. Norris AM, Gore A, Balboni A, Young A, Longnecker DS,
+Korc M. AGR2 is a SMAD4-suppressible gene that modulates
+MUC1 levels and promotes the initiation and progression of
+pancreatic intraepithelial neoplasia. Oncogene. 2013;32(33):
+
+3867-3876.
+
+121. Kim HS, Kang SH, Park CH, et al. Genome-wide molecular
+
+characterization of mucinous colorectal adenocarcinoma
+
+using cDNA microarray analysis. Oncol Rep. 2011;25(3):
+
+717-727.
+
+122. Hurwitz SN, Cheerathodi MR, Nkosi D, York SB, Meckes DG.
+
+Tetraspanin CD63 bridges autophagic and endosomal processes to regulate exosomal secretion and intracellular signaling of Epstein-Barr virus LMP1. J Virol. 2018;92(5):
+[e01969–17. doi:10.1128/jvi.01969-17](https://doi.org/10.1128/jvi.01969-17)
+123. Pols MS, Klumperman J. Trafficking and function of the
+tetraspanin CD63. Exp Cell Res. 2009;315(9):1584-1592.
+124. Murakami T, Komiyama Y, Masuda M, et al. Flow cytometric
+analysis of platelet activation markers CD62P and CD63 in
+patients with coronary artery disease. Eur J Clin Invest. 1996;
+26(11):996-1003.
+125. Liu WH, Li X, Zhu XL, Hou ML, Zhao W. CD63 inhibits the
+
+cell migration and invasion ability of tongue squamous cell
+carcinoma. Oncol Lett. 2018;15(6):9033-9042.
+126. Radford KJ, Thorne RF, Hersey P. Regulation of tumor cell
+motility and migration by CD63 in a human melanoma cell
+line. J Immunol. 1997;158(7):3353-3358.
+127. Koh HM, Jang BG, Kim DC. Prognostic value of
+CD63 expression in solid tumors: a meta-analysis of the literature. In Vivo. 2020;34(5):2209-2215.
+
+128. Kwon MS, Shin S-H, Yim S-H, et al. CD63 as a biomarker for
+
+predicting the clinical outcomes in adenocarcinoma of lung.
+Lung Cancer. 2007;57(1):46-53.
+129. Koh H, An H, Jung J, Song D. The prognostic significance of
+CD63 expressionin patients with non-small cell lung cancer.
+Pol J Pathol. 2019;70(3):183-188.
+130. Zhijun X, Shulan Z, Zhuo Z. Expression and significance of the
+protein and mRNA of metastasis suppressor gene ME491/
+CD63 and integrin alpha5 in ovarian cancer tissues. Eur J
+Gynaecol Oncol. 2007;28(3):179-183.
+
+14 Cancer Control
+
+
+131. Sordat I, Decraene C, Silvestre T, et al. Complementary
+DNA arrays identify CD63 tetraspanin and alpha3 integrin
+chain as differentially expressed in low and high metastatic
+human colon carcinoma cells. Lab Invest. 2002;82(12):
+
+1715-1724.
+
+132. Rank A, Liebhardt S, Zwirner J, Burges A, Nieuwland R, Toth
+B. Circulating microparticles in patients with benign and
+malignant ovarian tumors. Anticancer Res. 2012;32(5):
+
+2009-2014.
+
+133. Seubert B, Cui H, Simonavicius N, et al. Tetraspanin
+CD63 acts as a pro-metastatic factor via β-catenin stabilization.
+Int J Cancer. 2015;136(10):2304-2315.
+134. Vadasz Z, Haj T, Halasz K, et al. Semaphorin 3A is a marker
+for disease activity and a potential immunoregulator in
+systemic lupus erythematosus. Arthritis Res Ther. 2012;
+14(3):R146.
+135. Good PF, Alapat D, Hsu A, et al. A role for semaphorin 3A
+signaling in the degeneration of hippocampal neurons during
+Alzheimer’s disease. J Neurochem. 2004;91(3):716-736.
+136. Mecollari V, Nieuwenhuis B, Verhaagen J. A perspective on
+the role of class III semaphorin signaling in central nervous
+system trauma. Front Cell Neurosci. 2014;8:328.
+137. Xu R. Semaphorin 3A: a new player in bone remodeling. Cell
+Adh Migr. 2014;8(1):5-10.
+138. M F The Role of Synaptotagmin and Synaptotagmin-like
+Protein (Slp) in Regulated Exocytosis. Austin (TX): Landes
+
+–
+Bioscience; 2000 2013;Madame Curie Bioscience Database
+
+[Internet].
+139. Holt O, Kanno E, Bossi G, et al. Slp1 and Slp2-a localize to the
+plasma membrane of CTL and contribute to secretion from the
+immunological synapse. Traffic. 2008;9(4):446-457.
+140. Catz SD, Babior BM, Johnson JL. JFC1 is transcriptionally
+activated by nuclear factor-kappaB and up-regulated by tumour
+necrosis factor alpha in prostate carcinoma cells. Biochem J.
+2002;367(Pt 3):791-799.
+141. Meijuan C, Meng X, Fang L, Qian W. Synaptotagmin-like
+protein 1 is a potential diagnostic and prognostic biomarker in
+endometrial cancer based on bioinformatics and experiments.
+J Ovarian Res. 2023;16(1):16.
+142. Maˆıtre JL, Heisenberg CP. Three functions of cadherins in cell
+adhesion. Curr Biol. 2013;23(14):R626-R633.
+143. Mège RM, Ishiyama N. Integration of cadherin adhesion and
+cytoskeleton at adherens junctions. Cold Spring Harb Perspect
+Biol. 2017;9(5):a028738.
+144. Yulis M, Kusters DHM, Nusrat A. Cadherins: cellular adhesive
+
+molecules serving as signalling mediators. J Physiol. 2018;
+596(17):3883-3898.
+145. Lodish HF. Molecular cell biology. Macmillan. 2008.
+146. Na T-Y, Schecterson L, Mendonsa AM, Gumbiner BM. The
+
+functional activity of E-cadherin controls tumor cell metastasis
+at multiple steps. Proc Natl Acad Sci U S A. 2020;117(11):
+
+5931-5937.
+
+147. Kaszak I, Witkowska-Piłaszewicz O, Niewiadomska Z,
+
+Dworecka-Kaszak B, Ngosa Toka F, Jurka P. Role of cadherins
+in cancer-A review. Int J Mol Sci. 2020;21(20):7624.
+
+
+148. Brembeck FH, Ros´ario M, Birchmeier W. Balancing cell
+adhesion and Wnt signaling, the key role of beta-catenin. Curr
+Opin Genet Dev. 2006;16(1):51-59.
+149. Valenta T, Hausmann G, Basler K. The many faces and
+functions of β-catenin. EMBO J. 2012;31(12):2714-2736.
+150. van der Wal T, van Amerongen R. Walking the tight wire
+between cell adhesion and WNT signalling: a balancing act for
+β-catenin. Open Biol. 2020;10(12):200267.
+151. Pai SG, Carneiro BA, Mota JM, et al. Wnt/beta-catenin
+
+pathway: modulating anticancer immune response. J Hematol
+Oncol. 2017;10(1):101.
+152. Arnold A, Tronser M, Sers C, et al. The majority of β-catenin
+mutations in colorectal cancer is homozygous. BMC Cancer.
+2020;20(1):1038.
+153. Brabletz T, Jung A, Reu S, et al. Variable beta-catenin expression in colorectal cancers indicates tumor progression
+driven by the tumor environment. Proc Natl Acad Sci U S A.
+2001;98(18):10356-10361.
+154. Yoshida N, Kinugasa T, Ohshima K, et al. Analysis of wnt and
+β-catenin expression in advanced colorectal cancer. Anticancer
+Res. 2015;35(8):4403-4410.
+155. Wang Z, Zhang H, Hou J, et al. Clinical implications of
+β-catenin protein expression in breast cancer. Int J Clin Exp
+Pathol. 2015;8(11):14989-14994.
+156. Li S, Li S, Sun Y, Li L. The expression of β-catenin in different
+subtypes of breast cancer and its clinical significance. Tumour
+Biol. 2014;35(8):7693-7698.
+157. Lin S-Y, Xia W, Wang JC, et al. Beta-catenin, a novel prognostic marker for breast cancer: its roles in cyclin
+D1 expression and cancer progression. Proc Natl Acad Sci U S
+A. 2000;97(8):4262-4266.
+158. Geyer FC, Lacroix-Triki M, Savage K, et al. β-Catenin
+pathway activation in breast cancer is associated with triplenegative phenotype but not with CTNNB1 mutation. Mod
+Pathol. 2011;24(2):209-231.
+159. Nguyen VHL, Hough R, Bernaudo S, Peng C. Wnt/β-catenin
+signalling in ovarian cancer: insights into its hyperactivation
+and function in tumorigenesis. J Ovarian Res. 2019;12(1):122.
+160. Arend RC, Londoño-Joshi AI, Straughn JM Jr., Buchsbaum
+DJ. The Wnt/β-catenin pathway in ovarian cancer: a review.
+Gynecol Oncol. 2013;131(3):772-779.
+161. Rask K, Nilsson A, Br¨annstr¨om M, et al. Wnt-signalling
+pathway in ovarian epithelial tumours: increased expression
+of beta-catenin and GSK3beta. Br J Cancer. 2003;89(7):
+
+1298-1304.
+
+162. Xu C, Xu Z, Zhang Y, Evert M, Calvisi DF, Chen X. β-Catenin
+signaling in hepatocellular carcinoma. J Clin Invest. 2022;
+132(4):e154515.
+163. Monga SP. β-Catenin signaling and roles in liver homeostasis,
+injury, and tumorigenesis. Gastroenterology. 2015;148(7):
+
+1294-1310.
+
+164. He S, Tang S. WNT/β-catenin signaling in the development of
+liver cancers. Biomed Pharmacother. 2020;132:110851.
+
+165. Chen X, Shevtsov SP, Hsich E, et al. The beta-catenin/T-cell
+
+factor/lymphocyte enhancer factor signaling pathway is
+
+Sethi 15
+
+
+required for normal and stress-induced cardiac hypertrophy.
+Mol Cell Biol. 2006;26(12):4462-4473.
+166. Linask KK, Huhta J. Folate protection from congenital heart
+defects linked with canonical Wnt signaling and epigenetics.
+Curr Opin Pediatr. 2010;22(5):561-566.
+167. Teo CH, Soga T, Parhar IS. Brain beta-catenin signalling
+during stress and depression. Neurosignals. 2018;26(1):31-42.
+168. Dias C, Feng J, Sun H, et al. β-catenin mediates stress resilience
+through Dicer1/microRNA regulation. Nature. 2014;516(7529):
+
+51-55.
+
+169. Deng Z-F, Zheng H-L, Chen J-G, et al. miR-214-3p targets
+β-catenin to regulate depressive-like behaviors induced by
+chronic social defeat stress in mice. Cereb Cortex. 2019;29(4):
+
+1509-1519.
+
+170. Wu Y, Liu DF, Zhang JJ, et al. Association between LMP2/
+LMP7 genetic variability and cancer susceptibility, especially
+among Asians: evidence from a meta-analysis. Oncotarget.
+2017;8(37):62445-62453.
+171. Xu C, Qi S, Gao L, et al. Genetic polymorphisms of LMP/TAP
+gene and hepatitis B virus infection risk in the Chinese population. J Clin Immunol. 2007;27(5):534-541.
+172. Maeurer MJ, Martin DM, Storkus WJ, Lotze MT. TCR usage
+in CTLs recognizing melanoma/melanocyte antigens. Immunol
+Today. 1995;16(12):603-604.
+173. Lee YM, Leu SY, Chiang H, Fung CP, Liu WT. Human
+papillomavirus type 18 in colorectal cancer. Journal of microbiology, immunology, and infection = Wei mian yu gan ran
+za zhi. 2001;34(2):87-91.
+174. Cabrera CM, Jim´enez P, Concha A, Garrido F, Ruiz-Cabello F.
+
+Promyelocytic leukemia (PML) nuclear bodies are disorganized
+in colorectal tumors with total loss of major histocompatibility
+complex class I expression and LMP7 downregulation. Tissue
+Antigens. 2004;63(5):446-452.
+175. Mehta AM, Spaans VM, Mahendra NB, et al. Differences in
+genetic variation in antigen-processing machinery components
+
+and association with cervical carcinoma risk in two Indonesian
+
+populations. Immunogenetics. 2015;67(5-6):267-275.
+176. Deshpande A, Wheeler CM, Hunt WC, et al. Variation in HLA
+class I antigen-processing genes and susceptibility to human
+papillomavirus type 16-associated cervical cancer. J Infect Dis.
+2008;197(3):371-381.
+177. Ozbas-Gerceker F, Bozman N, Kok S, et al. Association of an
+
+LMP2 polymorphism with acute myeloid leukemia and multiple
+myeloma. Asian Pac J Cancer Prev. 2013;14(11):6399-6402.
+178. Ma X, Yang C, Tang R, et al. Association between LMP2 and
+LMP7 gene polymorphisms and the risk of gastric cancer: a
+case-control study. Oncol Lett. 2015;10(1):509-517.
+
+
+179. Cao B, Tian X, Li Y, et al. LMP7/TAP2 gene polymorphisms
+and HPV infection in esophageal carcinoma patients from a
+high incidence area in China. Carcinogenesis. 2005;26(7):
+
+1280-1284.
+
+180. McBride AA. The papillomavirus E2 proteins. Virology. 2013;
+445(1-2):57-79.
+181. Graham SV. Human papillomavirus E2 protein: linking replication, transcription, and RNA processing. J Virol. 2016;
+90(19):8384-8388.
+182. Ren S, Gaykalova DA, Guo T, et al. HPV E2, E4, E5 drive
+alternative carcinogenic pathways in HPV positive cancers.
+Oncogene. 2020;39(40):6327-6339.
+183. Laanev¨ali A, Ustav M, Ustav E, Piirsoo M. E2 protein is the
+major determinant of specificity at the human papillomavirus origin of replication. PLoS One. 2019;14(10):
+
+e0224334.
+
+184. Jamal DF, Rozaimee QA, Osman NH, et al. Human papillomavirus 16 E2 as an apoptosis-inducing protein for cancer
+treatment: a systematic review. Int J Mol Sci. 2022;23(20):
+
+12554.
+
+185. Chen W, Li F, Mead L, et al. Human papillomavirus causes an
+angiogenic switch in keratinocytes which is sufficient to alter
+endothelial cell behavior. Virology. 2007;367(1):168-174.
+186. Zhang Y, Liu Y, Guo X, Hu Z, Shi H. Interfering human
+papillomavirus E6/E7 oncogenes in cervical cancer cells
+inhibits the angiogenesis of vascular endothelial cells via increasing miR-377 in cervical cancer cell-derived microvesicles. OncoTargets Ther. 2020;13:4145-4155.
+187. Vats A, Trejo-Cerro O, Thomas M, Banks L. Human papillomavirus E6 and E7: what remains? Tumour Virus Res. 2021;
+
+11:200213.
+
+188. Tomai´c V. Functional roles of E6 and E7 oncoproteins in HPVinduced malignancies at diverse anatomical sites. Cancers.
+2016;8(10):95.
+189. Peng Q, Wang L, Zuo L, et al. HPV E6/E7: insights into their
+regulatory role and mechanism in signaling pathways in HPVassociated tumor. Cancer Gene Ther. 2024;31(1):9-17.
+190. Shimada M, Yamashita A, Saito M, et al. The human papillomavirus E6 protein targets apoptosis-inducing factor (AIF)
+for degradation. Sci Rep. 2020;10(1):14195.
+191. Finzer P, Aguilar-Lemarroy A, R¨osl F. The role of human
+papillomavirus oncoproteins E6 and E7 in apoptosis. Cancer
+Lett. 2002;188(1):15-24.
+192. Hoppe-Seyler K, Bossler F, Braun JA, Herrmann AL, HoppeSeyler F. The HPV E6/E7 oncogenes: key factors for viral
+carcinogenesis and therapeutic targets. Trends Microbiol.
+2018;26(2):158-168.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

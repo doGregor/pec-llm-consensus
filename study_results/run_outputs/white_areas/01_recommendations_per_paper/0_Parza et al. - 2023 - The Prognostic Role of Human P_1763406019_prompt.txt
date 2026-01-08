@@ -1,0 +1,983 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    # ***cancers***
+
+*Systematic Review*
+## **The Prognostic Role of Human Papillomavirus and p16 Status** **in Penile Squamous Cell Carcinoma—A Systematic Review**
+
+**Kevin Parza** **[1,†]** **, Arfa Mustasam** **[2,†]** **, Filip Ionescu** **[1,2]** **, Mahati Paravathaneni** **[2]** **, Reagan Sandstrom** **[3]** **,**
+**Houssein Safa** **[4]** **, G. Daniel Grass** **[5]** **, Peter A. Johnstone** **[5]** **, Steven A. Eschrich** **[2]** **, Juskaran Chadha** **[2]** **,**
+**Niki Zacharias** **[6]** **, Curtis A. Pettaway** **[6]** **, Philippe E. Spiess** **[2]** **and Jad Chahoud** **[2,]** *****
+
+1 Internal Medicine, USF Health Morsani College of Medicine, Tampa, FL 33601, USA; kparza@usf.edu (K.P.);
+filip.ionescu@moffitt.org (F.I.)
+2 Genitourinary Oncology Department, H. Lee Moffitt Cancer Center, Tampa, FL 33601, USA;
+arfa.mustasam@moffitt.org (A.M.); mahati.paravathaneni@moffitt.org (M.P.);
+steven.eschrich@moffitt.org (S.A.E.); juskaran.chadha@moffitt.org (J.C.); philippe.spiess@moffitt.org (P.E.S.)
+3 Graduate Medication Education, USF Health Morsani College of Medicine, Tampa, FL 33602, USA;
+reagansandstrom@usf.edu
+4 Hematology Oncology Department, Baylor College of Medicine, Houston, TX 77001, USA;
+houssein.m.safa@gmail.com
+5 Radiation Oncology Department, H. Lee Moffitt Cancer Center, Tampa, FL 33601, USA;
+daniel.grass@moffitt.org (G.D.G.); peter.johnstone@moffitt.org (P.A.J.)
+6 Department of Urology, M.D. Anderson Cancer Center, University of Texas, Houston, TX 77001, USA;
+nmzacharias@mdanderson.org (N.Z.); cpettawa@mdanderson.org (C.A.P.)
+***** Correspondence: jad.chahoud@moffitt.org; Tel.: +1-813-745-6926
+
+                      - These authors contributed equally to this work.
+
+
+**Citation:** Parza, K.; Mustasam, A.;
+
+Ionescu, F.; Paravathaneni, M.;
+
+Sandstrom, R.; Safa, H.; Grass, G.D.;
+
+Johnstone, P.A.; Eschrich, S.A.;
+
+Chadha, J.; et al. The Prognostic Role
+
+of Human Papillomavirus and p16
+
+Status in Penile Squamous Cell
+
+Carcinoma—A Systematic Review.
+
+*Cancers* **2023**, *15* [, 3713. https://](https://doi.org/10.3390/cancers15143713)
+
+[doi.org/10.3390/cancers15143713](https://doi.org/10.3390/cancers15143713)
+
+Academic Editor: W. Martin Kast
+
+Received: 19 June 2023
+
+Revised: 11 July 2023
+
+Accepted: 19 July 2023
+
+Published: 21 July 2023
+
+**Copyright:** © 2023 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+[Attribution (CC BY) license (https://](https://creativecommons.org/licenses/by/4.0/)
+
+[creativecommons.org/licenses/by/](https://creativecommons.org/licenses/by/4.0/)
+
+4.0/).
+
+
+**Simple Summary:** Penile squamous cell carcinoma (PSCC) is a rare and aggressive cancer. About
+half of all PSCC cases are thought to be related to human papillomavirus (HPV) or have increased
+expression of p16 by immunohistochemistry (IHC), a surrogate marker for HPV infection. HPV/p16
+positivity is generally a marker of better outcomes in more common squamous cell carcinomas, but
+the studies evaluating its prognostic value in PSCC are conflicting. In this systematic review, we
+aim to summarize the existing literature on the impact of these biomarkers on PSCC prognosis and
+determine their potential value in identifying patients with more favorable biology.
+
+**Abstract:** PSCC is a rare cancer, with approximately half of all cases related to HPV. While HPV
+and p16 IHC testing have proven their prognostic value for oropharyngeal cancer, this is not yet
+established for PSCC. The current level of evidence exploring the relation between PSCC and HPV
+is moderate, so we conducted a systematic review following PRISMA guidelines to evaluate the
+prognostic role of HPV and p16 IHC in PSCC clinical outcomes. We searched the PubMed, Embase,
+and Cochrane databases and identified 34 relevant studies that met our inclusion criteria. Of these,
+33 were retrospective cohort studies, and one was a cross-sectional study. Nine studies reported that
+HPV-positive and p16-positive PSCC had better overall survival (OS) and disease-free survival (DFS).
+This study highlights the need for a meta-analysis to determine the role of routine HPV status or p16
+staining testing as part of the initial diagnosis and staging of PSCC patients worldwide.
+
+**Keywords:** penile cancer; human papillomavirus; p16; HPV-related cancers; rare cancers
+
+**1. Introduction**
+
+Penile squamous cell carcinoma (PSCC) is a rare genitourinary cancer with fewer than
+2500 newly diagnosed cases and 500 deaths annually reported in the United States [ 1 ].
+Incidence and mortality are even higher in developing countries [ 2 ]. Although surgery
+
+
+*Cancers* **2023**, *15* [, 3713. https://doi.org/10.3390/cancers15143713](https://doi.org/10.3390/cancers15143713) [https://www.mdpi.com/journal/cancers](https://www.mdpi.com/journal/cancers)
+
+*Cancers* **2023**, *15*, 3713 2 of 13
+
+can be curative in localized cases, lymph node involvement in locally advanced and advanced PSCC confers a significantly worse prognosis and typically warrants a multimodal
+therapeutic approach [3–7].
+The development of PSCC is frequently linked to multiple risk factors, such as inadequate hygiene, absence of circumcision, tobacco smoking, specific genetic conditions, and
+the presence of HPV, which can be found in 30–50% of cases [8–12].
+Two markers, namely p16 overexpression and HPV status, are associated with HPV
+in PSCC and play a crucial role in determining prognostic significance. Generally, PSCC
+cases that are positive for HPV and p16 exhibit a more favorable prognosis compared to
+those that are HPV-negative. Consequently, determining the HPV and p16 status can aid in
+estimating prognosis and making informed treatment decisions [8].
+While p16-positive status through immunohistochemistry (IHC) is considered a robust marker of HPV infection in oropharyngeal squamous cell carcinoma, according to
+the American Society of Clinical Oncology (ASCO) and National Comprehensive Cancer
+Network (NCCN) guidelines, its value in PSCC is less clear [ 13, 14 ]. Studies on the prognostic potential and predictive value of HPV and p16 in PSCC have yielded contradictory
+results [ 8, 15 ]. Currently, testing HPV status in the initial diagnostic workup of PSCC carries
+a level 2a evidence grade in the updated ASCO–European Association of Urology (EAU)
+guidelines, which emphasize the need for more data to support the recommendation of
+universally assessing HPV status in all PSCC patients [16].
+A previous systematic review and meta-analysis of twenty studies concluded that men
+with HPV-positive or p16-positive PSCC had significantly better disease-specific survival
+(DSS) [ 8 ]. However, the relationship between these biomarkers and overall survival (OS) or
+disease-free survival (DFS) was inconsistent among individual studies, and no statistically
+significant associations were found [ 8 ]. To complement this prior effort, we conducted
+an updated systematic review with a larger sample size and more widespread biomarker
+testing to explore the prognostic significance of HPV and p16 status on PSCC outcomes [ 8 ].
+
+**2. Materials and Methods**
+
+*2.1. Search Strategy*
+
+We performed a systematic literature search in the electronic databases PubMed,
+Embase, and the Cochrane Library, covering articles published between March 1992 and
+December 2022. The database search was filtered to include articles written in English.
+The search terms used were “Prognosis” OR “Prevalence” AND “HPV” OR “Human
+Papillomavirus” OR “Human Papillomaviruses” OR “Papillomaviridae” OR “human
+papillomavirus” OR “Cyclin-Dependent Kinase Inhibitor p16” OR “p16INK4” OR “CyclinDependent Kinase Inhibitor-2A” OR “p16INK4A Protein” OR “CDKN2A Protein” OR
+“CDKN2 Protein” AND “Penile Neo-plasms” OR “Penile Neoplasms” OR “Penis Neoplasms” OR “Penis Neoplasm” OR “Penile Neoplasm” OR “Penis Cancer” OR “Penile
+Cancer” OR “Penile carcinoma” OR “penis carcinoma” OR “penis tumor” OR “penile
+cancers”.
+
+JC conducted the initial search, and subsequently, KP and AM independently verified
+the abstracts and selected manuscripts. Disagreements were resolved through collaborative
+discussions to achieve consensus. A fourth author, RS, addressed any unresolved conflicts.
+Supplementary information was reviewed using reference lists to ensure comprehensiveness. The study adhered to the guidelines outlined by the Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses (PRISMA) checklist (Figure 1) [17].
+
+*2.2. Study Selection*
+
+Only peer-reviewed studies in English or with available translations were eligible for
+inclusion in the analysis. In cases where a study population was reported in multiple papers,
+only data from the most up-to-date paper and providing the most complete information
+were utilized. Case reports, abstracts, letters to the editor, and review articles were excluded
+from the analysis.
+
+~~*Cancers*~~ ~~**2023**~~, ~~*15*~~, ~~3713~~ ~~3~~ ~~of~~ ~~13~~
+
+**Figure 1.** PRISMA diagram.
+
+*2.3. Quality Assessment*
+
+Two reviewers independently evaluated the quality of the chosen papers using a
+modified Newcastle–Ottawa Scale (NOS). The scale comprised 8 items divided into three
+domains: subject selection criteria (0–4 points), comparability of subjects (0–2 points), and
+outcomes (0–3 points). The maximum achievable score was 9 points, with a score of more
+than 5 points indicating high quality. Supplemental Table S1 provides a summary of the
+assessment of the NOS scores with a median total score of 7 (IQR 7–8.25).
+
+*2.4. Data Extraction*
+
+A total of 34 articles were identified and selected for data extraction. Data tables were
+created to systematically capture relevant information from the texts, tables, and figures
+of each included study. These tables included details such as the first author, publication
+year, country, year of sample collection, follow-up time, type of tissue testing method, p16
+testing technique, the definition of p16 positivity (overexpression), number of evaluators
+for p16 staining, sample size, the number of HPV-positive and HPV-negative PSCC cases,
+the number of p16-positive PSCC cases, and various survival endpoints. The examined
+survival outcomes encompassed overall survival (OS), disease-specific survival (DSS), and
+disease-free survival (DFS).
+
+*2.5. Mean Age Adjustment*
+
+During our research, we encountered studies that presented the median age of patients,
+along with either the interquartile range (IQR) or range, rather than providing the mean
+and standard deviation. To approximate the mean age, we adopted the methodology
+introduced by Wan et al. [ 18 ] in 2014, which provides formulas to estimate the sample mean
+and standard deviation based on factors such as the sample size, median, and either the
+IQR or range [ 18 ]. By employing these formulas, we successfully estimated the mean age of
+patients in the aforementioned studies and calculated the overall mean for our sample size.
+
+*Cancers* **2023**, *15*, 3713 4 of 13
+
+**3. Results**
+
+*3.1. Study Characteristics*
+
+In this systematic review, we conducted an analysis of the data derived from a total
+of 34 studies encompassing 3994 patients diagnosed with PSCC. These studies spanned
+the period from 1970 to 2022. The estimated mean age of the patients was determined to
+be 62.3 years. Among the studies included in our analysis, Brazil and the United States
+both had the highest number of studies, with each country contributing eight studies
+(refer to Figure 2 for details). Fourteen studies reported on both HPV and p16 IHC status [4,13,19–30], fifteen studies [15,31–44] focused solely on HPV, and five studies [ 45 – 49 ]
+reported only on p16 status. For a summary of HPV and p16 positivity across the 34 included studies, please refer to Table 1 and Supplemental Table S2.
+
+**Figure 2.** ( **A**, **B** ) Original geographical distribution and bar graph representation of number of patients
+included in the study from 1970–2022.
+
+**Table 1.** Prevalence of HPV and p16 positivity across the included studies.
+
+**Study ID** **HPV Status** **p16 Status**
+
+29 Tested
+
+Wiener et al., 1992 [31] 9 Positive N/A
+31% Positive
+
+82 Tested
+
+(Artur) Bezerra et al., 2001 [15] 25 Positive N/A
+30% Positive
+
+171 Tested
+
+Lont et al., 2006 [32] 50 Positive N/A
+29% Positive
+
+*Cancers* **2023**, *15*, 3713 5 of 13
+
+**Table 1.** *Cont.*
+
+**Study ID** **HPV Status** **p16 Status**
+
+
+24 Tested
+
+Guerrero et al., 2008 [19] 11 Positive
+46% Positive
+
+
+# Tested = 24
+
+# Positive = 15
+
+% Positive = 63%
+
+
+72 Tested
+
+Scheiner et al., 2008 [33] 58 Positive N/A
+81% Positive
+
+
+77 Tested
+
+Ferrandiz-Pulido et al., 2013 [20] 31 Positive
+40% Positive
+
+
+67 Tested
+
+23 Positive
+
+34% Positive
+
+
+92 Tested
+
+Gunia et al., 2012 [45] N/A 54 Positive
+59% Positive
+
+40 Tested
+
+Bethune et al., 2012 [46] N/A 23 Positive
+58% Positive
+
+30 Tested
+
+Dilorenzo et al., 2013 [34] 8 Positive N/A
+26% Positive
+
+82 Tested
+
+de Fonseca et al., 2013 [35] 50 Positive N/A
+61% Positive
+
+79 Tested
+
+Hernandez et al., 2014 [36] 50 Positive N/A
+63% Positive
+
+
+53 Tested
+(Stephania) Bezerra et al., 2015 [21] 8 Positive
+15% Positive
+
+
+52 Tested
+
+23 Positive
+
+44% Positive
+
+
+212 Tested
+Djajadiningrat et al., 2015 [37] 53 Positive N/A
+25% Positive
+
+
+43 Tested
+
+McDaniel et al., 2015 [22] 5 Positive
+12% Positive
+
+58 Tested
+
+Steinestel et al., 2015 [23] 18 Positive
+31% Positive
+
+
+38 Tested
+
+11 Positive
+
+28% Positive
+
+58 Tested
+
+34 Positive
+
+59% Positive
+
+
+119 Tested
+Tang et al., 2015 [47] N/A 59 Positive
+50% Positive
+
+
+57 Tested
+Zargar-Shoshtari et al., 2016 [24] 24 Positive
+42% Positive
+
+122 Tested
+
+Afonso et al., 2017 [25] 79 Positive
+65% Positive
+
+
+57 Tested
+
+23 Positive
+
+40% Positive
+
+99 Tested
+
+28 Positive
+
+28% Positive
+
+
+179 Tested
+de Araújo et al., 2018 [38] 56 Positive N/A
+31% Positive
+
+213 Tested
+
+Ottenhof et al., 2018 [39] 52 Positive N/A
+24% Positive
+
+*Cancers* **2023**, *15*, 3713 6 of 13
+
+**Table 1.** *Cont.*
+
+**Study ID** **HPV Status** **p16 Status**
+
+
+55 Tested
+
+Vicenilma Martins et al., 2018 [13] 49 Positive
+89% Positive
+
+
+55 Tested
+
+22 Positive
+
+40% Positive
+
+
+44 Tested
+
+Takamoto et al., 2018 [40] 5 Positive N/A
+11% Positive
+
+35 Tested
+
+De Bacco et al., 2020 [48] N/A 13 Positive
+37% Positive
+
+292 Tested
+Wang et al., 2020 [41] 130 Positive N/A
+45% Positive
+
+137 Tested
+Ashley et al., 2020 [42] 74 Positive N/A
+54% Positive
+
+35 Tested
+
+Pereira-Lourenço et al., 2020 [49] N/A 8 Positive
+23% Positive
+
+
+47 Tested
+Valquíria Martins et al., 2020 [26] 21 Positive
+45% Positive
+
+32 Tested
+
+Muresu et al., 2020 [27] 9 Positive
+28% Positive
+
+226 Tested
+
+Chu et al., 2020 [28] 74 Positive
+33% Positive
+
+
+26 Tested
+
+12 Positive
+
+46% Positive
+
+32 Tested
+
+7 Positive
+
+22% Positive
+
+226 Tested
+
+59 Positive
+
+26% Positive
+
+
+825 Tested
+Chipollini et al., 2021 [43] 321 Positive N/A
+39% Positive
+
+
+123 Tested
+Mohanty et al., 2021 [29] 57 Positive
+46% Positive
+
+58 Tested
+
+Müller et al., 2020 [27] 33 Positive
+57% Positive
+
+
+123 Tested
+
+65 Positive
+
+53% Positive
+
+60 Tested
+
+31 Positive
+
+52% Positive
+
+
+81 Tested
+
+Browne et al., 2022 [44] 45 Positive N/A
+56% Positive
+
+
+143 Tested
+
+Chahoud et al., 2022 [4] 47 Positive
+33% Positive
+
+
+143 Tested
+
+45 Positive
+
+32% Positive
+
+
+Median (%positive) 79 (39%) 57(44%)
+
+Q1 53 (29%) 37 (33%)
+
+Q3 143 (54%) 94 (53%)
+
+*3.2. HPV Detection Methods*
+
+Among the studies included in our analysis, a total of twenty-nine studies reported
+HPV status. Out of these, eighteen studies employed the polymerase chain reaction (PCR)
+method for HPV detection [ 13, 15, 19, 20, 22, 23, 25 – 28, 31 – 33, 35 – 39 ], six studies utilized in situ
+hybridization (ISH) [ 4, 21, 24, 29, 34, 40 ], and four studies did not specify the method used for
+
+*Cancers* **2023**, *15*, 3713 7 of 13
+
+HPV detection [ 41 – 44 ]. Additionally, one study employed a Quantus fluorometer for the detection of HPV nucleic acid [ 30 ]. For further details, please refer to Supplemental Table S2 .
+
+*3.3. p16 Detection Methods*
+
+Nineteen studies included in our analysis examined samples to evaluate the p16+
+status using immunohistochemical (IHC) staining. Two different methodologies were employed for grading p16 on IHC. Six studies utilized a quantitative measurement approach,
+where the cut-off for considering a sample as p16-positive ranged from >10% to >75% of
+cells exhibiting positive staining [ 4, 20, 24, 26, 29, 48 ]. Conversely, twelve studies employed
+subjective criteria to define p16 positivity, using descriptions such as strong and diffuse
+staining, vital staining of proliferative cells, continuous and complete cytoplasmic staining,
+intense confluent staining, or focal scattering of staining in the cytoplasm and nucleus of
+cells [ 13, 19, 21 – 23, 25, 28, 30, 42, 45, 47, 49 ]. Bethune et al. [ 46 ] adopted a mixed methodology,
+considering a qualitative cut-off of >30% staining with nuclear and cytoplasmic staining,
+moderate sample staining with at least 30% of cells staining, or strong cytoplasmic and
+nuclear staining as positive for p16 [ 46 ]. One study did not specify the criteria used to
+determine p16 positivity [27]. For further details, please refer to Supplemental Table S2.
+
+*3.4. HPV + and p16+ Impact on Overall Survival*
+
+None of the included studies demonstrated a significant association between HPV
+positivity and improved overall survival (OS). However, p16 status was found to be associated with improved OS in three independent analyses [ 4, 29, 46 ]. Notably, Chahoud et al. [ 4 ]
+investigated both biomarkers in the same population and discovered a positive correlation
+between p16-positive cases and superior OS, while no such association was observed
+for HPV+ cases [ 4 ]. These discrepancies could potentially be attributed to the variations
+in defining p16 positivity during IHC analysis, indicating the presence of heterogeneity
+among the studies. For further details on the impact HPV and p16 positivity had on overall
+survival, please refer to Table 2.
+
+**Table 2.** HPV+ and p16+ on overall survival (OS).
+
+**Study ID** **HPV+ HR with 95% CI** **p16+ HR with 95% CI**
+
+**HR** **Lower Limit** **Upper Limit** **HR** **Lower Limit** **Upper Limit**
+
+Wiener et al., 1992 [31] 1.15 0.39 3.36
+
+Guerrero et al., 2008 [19] 4.37 0.51 37.47 0.56 0.11 2.83
+
+Ferrandiz-pulido et al.,
+0.28 0.061343 1.278 0.28 0.061343 1.278
+2013 [20]
+
+(Steph) Bezerra et al., 2015 [ 21 ] 1.76 0.61 5.12 1.53 0.52 4.54
+
+Hernandez et al., 2014 [36] 0.86 0.4 1.86
+
+Chippollini et al., 2021 [43] 0.89 0.67 1.19
+
+Martins et al., 2020 [26] 0.92471 0.37166 2.3 0.7067 0.23 2.164
+
+Chahoud et al., 2022 [4] 0.8362 0.497 1.4068 0.36 * 0.2 0.67
+
+Muresu et al., 2020 [27] 0.6 0.1 2.7 1 0.2 5.2
+
+De Bacco et al., 2019 [48] 1.52 0.5 4.62
+
+Muller et al., 2021 [30] 0.607 0.201 1.83 0.628 0.207 1.899
+
+Bethune et al., 2012 [46] 0.55 * 0.31 0.94
+
+Mohanty et al., 2021 [29] 0.32 * 0.2 0.5
+
+Brown et al., 2022 [44] 0.461 0.1719 1.236
+
+Note: (*) denotes statistically significant data.
+
+*Cancers* **2023**, *15*, 3713 8 of 13
+
+*3.5. HPV+ and p16+ Impact on Disease-Free Survival*
+
+The presence of HPV positivity was associated with improved disease-free survival
+(DFS) and was statistically significant in four of the studies [ 13, 26, 28, 39 ]. Similarly, p16
+positivity was also associated with improved DFS and was statistically significant in two
+of the studies [ 42, 47 ]. For further details on the impact HPV and p16 positivity had on
+disease-free survival, please refer to Table 3.
+
+**Table 3.** HPV+ and p16 + on disease-free survival (DFS).
+
+**Study ID** **HPV+ HR with 95% CI** **p16+ HR with 95% CI**
+
+**Lower** **Lower**
+**HR** **Upper Limit** **HR** **Upper Limit**
+**Limit** **Limit**
+
+Guerrero et al., 2008 [19] 1.02 0.31 3.37 0.91 0.29 2.91
+
+Scheiner et al., 2008 [33] 0.69 0.33 1.46
+
+Dilorenzo et al., 2013 [34] 0.8 0.1 4.2
+
+de Fonseca et al., 2013 [35] 0.87 0.49 1.55
+
+Afonso et al., 2017 [25] 0.8056 0.377 1.72
+
+Martins et al., 2020 [26] 0.3 * 0.09 0.97
+
+Chu et al., 2020 [28] 0.334 * 0.158 0.705
+
+Martins et al., 2018 [13] 0.1234 * 0.0407 0.373
+
+Ottenhof et al., 2018 [39] 0.207 * 0.049 0.87
+
+de Araujo et al., 2018 [38] 0.8134 0.365 1.8078
+
+Tang et al., 2015 [47] 0.066 * 0.007 0.556
+
+Ashley et al., 2020 [42] 0.41 * 0.18 0.94
+
+Per Lourenco et al., 2020 [49] 0.55 0.11 2.57
+
+Browne et al., 2022 [44] 0.7403 0.281 1.946
+
+Note: (*) denotes statistically significant data.
+
+*3.6. HPV+ and p16+ Impact on Disease-Specific Survival*
+
+In three of the studies, HPV positivity was associated with improved disease-specific
+survival (DSS) [ 28, 32, 37 ]. Conversely, p16 positivity was linked with improved DSS in four
+of the studies [ 4, 24, 28, 45 ]. Notably, the study conducted by Chu et al. [ 28 ] demonstrated
+statistically significant associations for both biomarkers within the same population [ 28 ].
+For further details on the impact HPV and p16 positivity had on disease-specific survival,
+please refer to Table 4.
+
+**Table 4.** HPV+ and p16+ on disease-specific survival (DSS).
+
+**Study ID** **HPV+ HR with 95% CI** **p16+ HR with 95% CI**
+
+**HR** **Lower Limit** **Upper Limit** **HR** **Lower Limit** **Upper Limit**
+
+Wiener et al., 1992 [31] 1.37 0.43 4.32
+
+(Artur) Bezerra et al., 2001 [15] 0.96 0.41 2.27
+
+Lont et al., 2006 [32] 0.21 * 0.06 0.76
+
+Ferrandiz-pulido et al., 2013 [ 20 ] 0.26 0.04 1.91
+
+(Steph) Bezerra et al., 2015 [21] 1.05 0.21 5.07 0.54 0.13 2.19
+
+Djajadiningrat et al., 2015 [37] 0.2 * 0.1 0.9
+
+Steinestel et al., 2015 [23] 0.14 0.02 1.04 0.51 0.2 1.3
+
+*Cancers* **2023**, *15*, 3713 9 of 13
+
+**Table 4.** *Cont.*
+
+**Study ID** **HPV+ HR with 95% CI** **p16+ HR with 95% CI**
+
+**HR** **Lower Limit** **Upper Limit** **HR** **Lower Limit** **Upper Limit**
+
+Chu et al., 2020 [28] 0.38 * 0.18 0.82 0.56 * 0.183 0.824
+
+Chahoud et al., 2022 [4] 0.5964 0.293 1.211 0.2 * 0.07 0.54
+
+Takamoto et al., 2017 [40] 0.7416 0.094 5.7955
+
+Gunia et al., 2011 [45] 0.25 * 0.08 0.79
+
+Bethune et al., 2012 [46] 0.53 0.26 1.06
+
+Zargar-Shoshtari et al., 2016 [ 24 ] 0.36 * 0.13 0.99
+
+Note: (*) denotes statistically significant data.
+
+**4. Discussion**
+
+This systematic review presents an analysis of 34 studies, aiming to provide an up-todate overview of the prognostic significance of HPV status and p16 expression in PSCC.
+The inclusion of recent studies has significantly enhanced previous efforts on this topic,
+notably by substantially increasing the sample size and incorporating a more diverse
+patient population from various global sites.
+The risk factors for PSCC can vary across countries and regions. While some risk
+factors, like HPV, are consistent globally, others may be more prevalent in specific populations. For example, Brazil has been identified as having one of the highest incidence rates
+of PSCC worldwide, possibly due to a high prevalence of HPV infection, lower rates of
+circumcision, and socioeconomic factors such as limited access to healthcare and education
+about safe sex practices [ 11 ]. On the other hand, westernized countries like Portugal may
+have a lower incidence of PSCC due to public health campaigns and educational initiatives
+that raise awareness about the disease and promote preventive measures such as good
+hygiene and regular medical check-ups. These efforts may facilitate timely diagnosis and
+treatment, potentially reducing the occurrence of PSCC [50].
+Certain high-risk HPV genotypes, particularly HPV-16 and HPV-18, are strongly associated with p16 overexpression in infected cells. HPV-16—being the most oncogenic and
+prevalent high-risk genotype—is strongly linked to the development of various cancers,
+including cervical, anal, vulvar, vaginal, certain head and neck cancers, and penile cancers [ 51, 52 ]. In contrast, low-risk HPV genotypes like HPV-6 and HPV-11 are commonly
+associated with benign lesions and typically not associated with p16 overexpression [ 53, 54 ].
+It is crucial to note that combining multiple prevention strategies, including HPV
+vaccination, screening, and safe sexual practices, can have the greatest impact on reducing
+HPV-related diseases. However, challenges such as vaccine hesitancy, lack of awareness,
+and limited access to vaccination programs can hinder vaccine uptake. Sociocultural factors
+and stigma surrounding discussions about sexual health and genital cancers may also
+create barriers to open dialogue, education, and prevention efforts [55–57].
+The 2022 World Health Organization (WHO) classification of penile cancer, as suggested by Menon et al., recommends the utilization of p16 screening whenever possible
+to differentiate between HPV-associated and HPV-independent PSCC [ 58 ]. This updated
+recommendation is expected to result in increased p16 testing and the accumulation of
+additional studies, which can contribute to the statistical power of future meta-analyses.
+In our review, we conducted a multivariate analysis and found that p16 positivity
+was associated with improved OS and DSS in a subset of published studies. Specifically,
+in 3 out of 11 (27%) studies, p16 positivity was associated with improved OS, and in 4
+out of 7 (57%) studies, p16 positivity was associated with improved DSS. In comparison,
+HPV positivity was not significantly associated with improved OS in any of the 10 studies
+analyzed (0%), and it was associated with improved DSS in only 3 out of 10 (30%) studies.
+Most of the included studies in our review demonstrated good methodological quality, with
+a majority achieving a Newcastle–Ottawa Scale (NOS) score higher than 7 and a median
+
+*Cancers* **2023**, *15*, 3713 10 of 13
+
+total score of 7 (IQR 7–8.25). However, it is important to acknowledge the limitations of
+our systematic review. We did not include unpublished studies or studies published in
+languages other than English, which may introduce publication bias and limit the comprehensiveness of the evidence base. Furthermore, another limitation in our study arises from
+the observed variability in the definitions of p16 positivity among the twenty included
+studies that assessed p16 status. Out of these studies, six [ 4, 20, 24, 26, 29, 48 ] employed a
+quantitative measurement approach, while twelve [ 13, 19, 21 – 23, 25, 28, 30, 42, 45, 47, 49 ] relied
+on descriptive criteria. Additionally, Bethune et al. [ 46 ] and Chahoud et al. [ 4 ] utilized
+both methodologies, reporting both quantitative and descriptive elements to define p16
+positivity. The existence of such diverse definitions for p16 positivity presents a challenge
+in drawing definitive conclusions and synthesizing the findings across studies.
+The inclusion of fourteen additional studies, since the publication of the meta-analysis
+by Sand et al. [ 8 ], provides significant additions to the current body of evidence regarding
+the prognostic significance of HPV and p16 biomarkers in PSCC. Although the systematic
+review has not yielded conclusive results regarding the overall data on HPV and P16
+biomarkers, it has provided new evidence of the possible correlation of p16 using IHC with
+better prognosis in PSCC and highlighted some discrepancy between p16 and HPV status
+in PSCC.
+
+The current guidelines from EAU–ASCO recommend conducting p16 testing through
+IHC in all individuals diagnosed with PSCC [ 16 ]. This underscores the importance of
+assessing p16 expression as a valuable diagnostic tool in PSCC management. Looking
+ahead, we anticipate that an upcoming meta-analysis will provide additional clarity and a
+deeper understanding of this subject in the future, further advancing our knowledge of the
+prognostic significance of HPV and p16 biomarkers in PSCC.
+
+**5. Conclusions**
+
+Our systematic review highlights the importance of conducting an updated comprehensive meta-analysis to define the potential role of these biomarkers in PSCC. We
+anticipate that this will address the discordance between p16 and HPV and uncover a
+potentially stronger prognostic value for p16 positivity on the outcomes of PSCC patients.
+
+**Supplementary Materials:** [The following information can be downloaded at https://www.mdpi.](https://www.mdpi.com/article/10.3390/cancers15143713/s1)
+[com/article/10.3390/cancers15143713/s1. Supplemental Table S1 provides a summary of the as-](https://www.mdpi.com/article/10.3390/cancers15143713/s1)
+sessment of the NOS scores with a median total score of 7 (IQR 7–8.25). Supplemental Table S2
+is demographic data and method of HPV and or P16 Detection of the 34 studies included in our
+retrospective analysis.
+
+**Author Contributions:** Conceptualization, K.P., J.C. (Jad Chahoud), C.A.P. and P.E.S.; methodology,
+K.P., A.M., F.I. and J.C. (Jad Chahoud); software, K.P. and A.M.; validation, A.M., F.I. and R.S.; formal
+analysis, K.P., A.M., S.A.E. and P.E.S.; investigation, A.M. and F.I.; resources, J.C. (Jad Chahoud); data
+curation, K.P., A.M., F.I., M.P., H.S., P.E.S. and J.C. (Jad Chahoud); writing—original draft preparation,
+K.P., A.M., F.I., R.S. and J.C. (Jad Chahoud); writing—review and editing, K.P., A.M., F.I., M.P., R.S.,
+H.S., G.D.G., P.A.J., J.C. (Juskaran Chadha), N.Z., C.A.P., P.E.S. and J.C. (Jad Chahoud); supervision,
+J.C. (Jad Chahoud); project administration, K.P. and J.C. (Jad Chahoud). All authors have read and
+agreed to the published version of the manuscript.
+
+**Funding:** This research received no external funding.
+
+**Data Availability Statement:** The data presented in this study are available on request from the
+corresponding author.
+
+**Conflicts of Interest:** J.C. received consulting fees from Pfizer, Exelixis, Aveo. The authors declare no
+conflict of interest.
+
+**References**
+
+1. Siegel, R.L.; Miller, K.D.; Wagle, N.S.; Jemal, A. Cancer Statistics, 2023. *CA Cancer J. Clin.* **2023**, *73* [, 17–48. [CrossRef] [PubMed]](https://doi.org/10.3322/caac.21763)
+2. Fu, L.; Tian, T.; Yao, K.; Chen, X.F.; Luo, G.; Gao, Y.; Lin, Y.F.; Wang, B.; Sun, Y.; Zheng, W.; et al. Global Pattern and Trends in
+Penile Cancer Incidence: Population-Based Study. *JMIR Public Health Surveill.* **2022**, *8* [, e34874. [CrossRef] [PubMed]](https://doi.org/10.2196/34874)
+
+*Cancers* **2023**, *15*, 3713 11 of 13
+
+3. Joshi, V.B.; Chadha, J.; Chahoud, J. Penile Cancer: Updates in Systemic Therapy. *Asian J. Urol.* **2022**, *9* [, 374–388. [CrossRef]](https://doi.org/10.1016/j.ajur.2022.03.006)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/36381603)
+4. Chadha, J.; Chahoud, J.; Spiess, P.E. An Update on Treatment of Penile Cancer. *Ther. Adv. Med. Oncol.* **2022**, *14*, 17588359221127254.
+
+[[CrossRef]](https://doi.org/10.1177/17588359221127254)
+5. Chahoud, J.; Pham, R.; Sonpavde, G. Innovative Systemic Therapies for Penile Cancer. *Curr. Opin. Urol.* **2022**, *32* [, 8–16. [CrossRef]](https://doi.org/10.1097/MOU.0000000000000941)
+6. Chahoud, J.; Kohli, M.; Spiess, P.E. Management of Advanced Penile Cancer. *Mayo Clin. Proc.* **2021**, *96* [, 720–732. [CrossRef]](https://doi.org/10.1016/j.mayocp.2020.06.031)
+7. Chahoud, J.; Tamil, M.; Necchi, A. Second Line Salvage Systemic Therapy for Advanced Penile Cancer. *Urol. Oncol.* **2022**, *40*,
+[229–234. [CrossRef]](https://doi.org/10.1016/j.urolonc.2020.08.001)
+8. Sand, F.L.; Rasmussen, C.L.; Frederiksen, M.H.; Andersen, K.K.; Kjaer, S.K. Prognostic Significance of HPV and P16 Status in Men
+Diagnosed with Penile Cancer: A Systematic Review and Meta-Analysis. *Cancer Epidemiol. Biomark. Prev.* **2018**, *27*, 1123–1132.
+
+[[CrossRef]](https://doi.org/10.1158/1055-9965.EPI-18-0322)
+9. Chahoud, J.; Zacharias, N.M.; Pham, R.; Qiao, W.; Guo, M.; Lu, X.; Alaniz, A.; Segarra, L.; Martinez-Ferrer, M.; Gleber-Netto, F.O.;
+et al. Prognostic Significance of P16 and Its Relationship with Human Papillomavirus Status in Patients with Penile Squamous
+Cell Carcinoma: Results of 5 Years Follow-Up. *Cancers* **2022**, *14* [, 6024. [CrossRef]](https://doi.org/10.3390/cancers14246024)
+10. de Martel, C.; Plummer, M.; Vignat, J.; Franceschi, S. Worldwide Burden of Cancer Attributable to HPV by Site, Country and HPV
+Type. *Int. J. Cancer* **2017**, *141* [, 664–670. [CrossRef]](https://doi.org/10.1002/ijc.30716)
+11. Vieira, C.B.; Feitoza, L.; Pinho, J.; Teixeira-Júnior, A.; Lages, J.; Calixto, J.; Coelho, R.; Nogueira, L.; Cunha, I.; Soares, F.; et al.
+Profile of Patients with Penile Cancer in the Region with the Highest Worldwide Incidence. *Sci. Rep.* **2020**, *10* [, 2965. [CrossRef]](https://doi.org/10.1038/s41598-020-59831-5)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/32076037)
+12. Patel, A.; Naghavi, A.O.; Johnstone, P.A.; Spiess, P.E.; Grass, G.D. Updates in the Use of Radiotherapy in the Management of
+Primary and Locally-Advanced Penile Cancer. *Asian J. Urol.* **2022**, *9* [, 389–406. [CrossRef] [PubMed]](https://doi.org/10.1016/j.ajur.2022.05.010)
+13. Martins, V.A.; Pinho, J.D.; Teixeira Júnior, A.A.L.; Nogueira, L.R.; Silva, F.F.; Maulen, V.E.; Khayat, A.S.; Calixto, J.R.R.; Costa,
+H.A.; Ramalho, L.N.Z.; et al. P16INK4a Expression in Patients with Penile Cancer. *PLoS ONE* **2018**, *13* [, e0205350. [CrossRef]](https://doi.org/10.1371/journal.pone.0205350)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/30312320)
+14. Adelstein, D.J.; Ismaila, N.; Ku, J.A.; Burtness, B.; Swiecicki, P.L.; Mell, L.; Beitler, J.J.; Gross, N.; Jones, C.U.; Kaufman, M.; et al.
+Role of Treatment Deintensification in the Management of P16+ Oropharyngeal Cancer: ASCO Provisional Clinical Opinion. *J.*
+*Clin. Oncol.* **2019**, *37* [, 1578–1589. [CrossRef] [PubMed]](https://doi.org/10.1200/JCO.19.00441)
+15. Bezerra, A.L.R.; Lopes, A.; Santiago, G.H.; Ribeiro, K.C.B.; Latorre, M.R.D.O.; Villa, L.L. Human Papillomavirus as a Prognostic
+Factor in Carcinoma of the Penis: Analysis of 82 Patients Treated with Amputation and Bilateral Lymphadenectomy. *Cancer* **2001**,
+*91* [, 2315–2321. [CrossRef]](https://doi.org/10.1002/1097-0142(20010615)91:12&lt;2315::AID-CNCR1263&gt;3.0.CO;2-C)
+16. [European Association of Urology. EAU-ASCO Guidelines on Penile Cancer. Available online: https://d56bochluxqnz.cloudfront.](https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-ASCO-Guidelines-on-Penile-Cancer-2023_2023-03-08-131333_piyo.pdf)
+[net/documents/full-guideline/EAU-ASCO-Guidelines-on-Penile-Cancer-2023_2023-03-08-131333_piyo.pdf (accessed on 15](https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-ASCO-Guidelines-on-Penile-Cancer-2023_2023-03-08-131333_piyo.pdf)
+April 2023).
+17. Page, M.J.; McKenzie, J.E.; Bossuyt, P.M.; Boutron, I.; Hoffmann, T.C.; Mulrow, C.D.; Shamseer, L.; Tetzlaff, J.M.; Akl, E.A.;
+Brennan, S.E.; et al. The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews. *BMJ* **2021**, *372*, n71.
+
+[[CrossRef]](https://doi.org/10.1136/bmj.n71)
+18. Wan, X.; Wang, W.; Liu, J.; Tong, T. Estimating the Sample Mean and Standard Deviation from the Sample Size, Median, Range
+and/or Interquartile Range. *BMC Med. Res. Methodol.* **2014**, *14* [, 135. [CrossRef]](https://doi.org/10.1186/1471-2288-14-135)
+19. Guerrero, D.; Guarch, R.; Ojer, A.; Casas, J.M.; Ropero, S.; Mancha, A.; Pesce, C.; Lloveras, B.; Garcia-Bragado, F.; Puras, A.
+Hypermethylation of the Thrombospondin-1 Gene Is Associated with Poor Prognosis in Penile Squamous Cell Carcinoma. *BJU*
+*Int.* **2008**, *102* [, 747–755. [CrossRef]](https://doi.org/10.1111/j.1464-410X.2008.07603.x)
+20. Ferrándiz-Pulido, C.; Masferrer, E.; De Torres, I.; Lloveras, B.; Hernandez-Losa, J.; Mojal, S.; Salvador, C.; Morote, J.; Ramon, Y.;
+Cajal, S.; et al. Identification and Genotyping of Human Papillomavirus in a Spanish Cohort of Penile Squamous Cell Carcinomas:
+Correlation with Pathologic Subtypes, P16INK4a Expression, and Prognosis. *J. Am. Acad. Dermatol.* **2013**, *68* [, 73–82. [CrossRef]](https://doi.org/10.1016/j.jaad.2012.05.029)
+21. Bezerra, S.M.; Chaux, A.; Ball, M.W.; Faraj, S.F.; Munari, E.; Gonzalez-Roibon, N.; Sharma, R.; Bivalacqua, T.J.; Burnett, A.L.;
+Netto, G.J. Human Papillomavirus Infection and Immunohistochemical P16INK4a Expression as Predictors of Outcome in Penile
+Squamous Cell Carcinomas. *Human. Pathol.* **2015**, *46* [, 532–540. [CrossRef]](https://doi.org/10.1016/j.humpath.2014.12.004)
+22. McDaniel, A.S.; Hovelson, D.H.; Cani, A.K.; Liu, C.J.; Zhai, Y.; Zhang, Y.; Weizer, A.Z.; Mehra, R.; Feng, F.Y.; Alva, A.S.; et al.
+Genomic Profiling of Penile Squamous Cell Carcinoma Reveals New Opportunities for Targeted Therapy. *Cancer Res.* **2015**, *75*,
+[5219–5227. [CrossRef] [PubMed]](https://doi.org/10.1158/0008-5472.CAN-15-1004)
+23. Steinestel, J.; Al Ghazal, A.; Arndt, A.; Schnoeller, T.J.; Schrader, A.J.; Moeller, P.; Steinestel, K. The Role of Histologic Subtype,
+P16INK4a Expression, and Presence of Human Papillomavirus DNA in Penile Squamous Cell Carcinoma. *BMC Cancer* **2015**,
+*15* [, 220. [CrossRef] [PubMed]](https://doi.org/10.1186/s12885-015-1268-z)
+24. Zargar-Shoshtari, K.; Spiess, P.E.; Berglund, A.E.; Sharma, P.; Powsang, J.M.; Giuliano, A.; Magliocco, A.M.; Dhillon, J. Clinical
+Significance of P53 and P16ink4a Status in a Contemporary North American Penile Carcinoma Cohort. *Clin. Genitourin. Cancer*
+**2016**, *14* [, 346–351. [CrossRef] [PubMed]](https://doi.org/10.1016/j.clgc.2015.12.019)
+25. Afonso, L.A.; Carestiato, F.N.; Ornellas, A.A.; Ornellas, P.; Rocha, W.M.; Cordeiro, T.I.; Lisboa, D.C.; Alves, G.B.; Cavalcanti,
+S.M.B. Human Papillomavirus, Epstein-Barr Virus, and Methylation Status of P16ink4a in Penile Cancer. *J. Med. Virol.* **2017**, *89*,
+[1837–1843. [CrossRef] [PubMed]](https://doi.org/10.1002/jmv.24833)
+
+*Cancers* **2023**, *15*, 3713 12 of 13
+
+26. Martins, V.; Cunha, I.W.; Figliuolo, G.; Rondon, H.; de Souza, P.M.; Torres Silva, F.L.; Torres Silva, G.L.; de Souza Bastos, M.;
+de Castro, D.B.; Santana, M.F.; et al. Presence of HPV with Overexpression of P16INK4a Protein and EBV Infection in Penile
+Cancer—A Series of Cases from Brazil Amazon. *PLoS ONE* **2020**, *15* [, e0232474. [CrossRef]](https://doi.org/10.1371/journal.pone.0232474)
+27. Muresu, N.; Sotgiu, G.; Saderi, L.; Sechi, I.; Cossu, A.; Marras, V.; Meloni, M.; Martinelli, M.; Cocuzza, C.; Tanda, F.; et al. Italian
+Observational Study on HPV Infection, E6, and P16 Expression in Men with Penile Cancer. *Virol. J.* **2020**, *17* [, 161. [CrossRef]](https://doi.org/10.1186/s12985-020-01424-9)
+28. Chu, C.; Chen, K.; Tan, X.; Lu, J.; Yang, Y.; Zhang, Y.J.; Yao, K.; Cao, Y. Prevalence of Human Papillomavirus and Implication on
+Survival in Chinese Penile Cancer. *Virchows Arch.* **2020**, *477* [, 667–675. [CrossRef]](https://doi.org/10.1007/s00428-020-02831-7)
+29. Mohanty, S.K.; Mishra, S.K.; Bhardwaj, N.; Sardana, R.; Jaiswal, S.; Pattnaik, N.; Pradhan, D.; Sharma, S.; Kaushal, S.; Baisakh,
+M.R.; et al. P53 and P16ink4a As Predictive and Prognostic Biomarkers for Nodal Metastasis and Survival in A Contemporary
+Cohort of Penile Squamous Cell Carcinoma. *Clin. Genitourin. Cancer* **2021**, *19* [, 510–520. [CrossRef]](https://doi.org/10.1016/j.clgc.2021.07.001)
+30. Müller, T.; Demes, M.; Lehn, A.; Köllermann, J.; Vallo, S.; Wild, P.J.; Winkelmann, R. The Peri- and Intratumoral Immune Cell
+Infiltrate and PD-L1 Status in Invasive Squamous Cell Carcinomas of the Penis. *Clin. Transl. Oncol.* **2022**, *24* [, 331–341. [CrossRef]](https://doi.org/10.1007/s12094-021-02694-7)
+31. Wiener, J.S.; Effert, P.J.; Humphrey, P.A.; Yu, L.; Liu, E.T.; Walther, P.J. Prevalence of Human Papillomavirus Types 16 and 18 in
+Squamous-Cell Carcinoma of the Penis: A Retrospective Analysis of Primary and Metastatic Lesions by Differential Polymerase
+Chain Reaction. *Int. J. Cancer* **1992**, *50* [, 694–701. [CrossRef]](https://doi.org/10.1002/ijc.2910500505)
+32. Lont, A.P.; Kroon, B.K.; Horenblas, S.; Gallee, M.P.W.; Berkhof, J.; Meijer, C.J.L.M.; Snijders, P.J.F. Presence of High-Risk Human
+Papillomavirus DNA in Penile Carcinoma Predicts Favorable Outcome in Survival. *Int. J. Cancer* **2006**, *119* [, 1078–1081. [CrossRef]](https://doi.org/10.1002/ijc.21961)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/16570278)
+33. Scheiner, M.A.; Campos, M.M.; Ornellas, A.A.; Chin, E.W.; Ornellas, M.H.; Andrada-Serpa, M.J. Human Papillomavirus and
+Penile Cancers in Rio de Janeiro, Brazil: HPV Typing and Clinical Features. *Int. Braz. J. Urol.* **2008**, *34* [, 467–474. [CrossRef]](https://doi.org/10.1590/S1677-55382008000400009)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/18778498)
+34. Di Lorenzo, G.; Perdonà, S.; Buonerba, C.; Sonpavde, G.; Gigantino, V.; Pannone, G.; Quarto, G.; Ferro, M.; Gaudioso, G.;
+Terracciano, D.; et al. Cytosolic Phosphorylated EGFR Is Predictive of Recurrence in Early Stage Penile Cancer Patients: A
+Retropective Study. *J. Transl. Med.* **2013**, *11* [, 161. [CrossRef] [PubMed]](https://doi.org/10.1186/1479-5876-11-161)
+35. da Fonseca, A.G.; Soares, F.A.; Burbano, R.R.; Silvestre, R.V.; Pinto, L.O.A.D. Human Papilloma Virus: Prevalence, Distribution
+and Predictive Value to Lymphatic Metastasis in Penile Carcinoma. *Int. Braz. J. Urol.* **2013**, *39* [, 542–550. [CrossRef] [PubMed]](https://doi.org/10.1590/S1677-5538.IBJU.2013.04.12)
+36. Hernandez, B.Y.; Goodman, M.T.; Unger, E.R.; Steinau, M.; Powers, A.; Lynch, C.F.; Cozen, W.; Saber, M.S.; Peters, E.S.; Wilkinson,
+E.J.; et al. Human Papillomavirus Genotype Prevalence in Invasive Penile Cancers from a Registry-Based United States Population.
+*Front. Oncol.* **2014**, *4* [, 9. [CrossRef]](https://doi.org/10.3389/fonc.2014.00009)
+37. Djajadiningrat, R.S.; Jordanova, E.S.; Kroon, B.K.; Van Werkhoven, E.; De Jong, J.; Pronk, D.T.M.; Snijders, P.J.F.; Horenblas, S.;
+Heideman, D.A.M. Human Papillomavirus Prevalence in Invasive Penile Cancer and Association with Clinical Outcome. *J. Urol.*
+**2015**, *193* [, 526–531. [CrossRef]](https://doi.org/10.1016/j.juro.2014.08.087)
+38. de Araújo, L.A.; De Paula, A.A.P.; da Silva Cintra de Paula, H.; Porto Ramos, J.E.; de Oliveira, B.R.; De Carvalho, K.P.A.;
+Guimarães, R.A.; de Alencar, R.D.C.G.; Barroso Duarte, E.C.; Rabelo Santos, S.H.; et al. Human Papillomavirus (HPV) Genotype
+Distribution in Penile Carcinoma: Association with Clinic Pathological Factors. *PLoS ONE* **2018**, *13* [, e0199557. [CrossRef]](https://doi.org/10.1371/journal.pone.0199557)
+39. Ottenhof, S.R.; Djajadiningrat, R.S.; Thygesen, H.H.; Jakobs, P.J.; Józwiak, K.; Heeren, A.M.; de Jong, J.; Sanders, J.; Horenblas, S.;
+Jordanova, E.S. The Prognostic Value of Immune Factors in the Tumor Microenvironment of Penile Squamous Cell Carcinoma.
+*Front. Immunol.* **2018**, *9* [, 1253. [CrossRef]](https://doi.org/10.3389/fimmu.2018.01253)
+40. Takamoto, D.; Kawahara, T.; Kasuga, J.; Sasaki, T.; Yao, M.; Yumura, Y.; Uemura, H. The Analysis of Human Papillomavirus DNA
+in Penile Cancer Tissue by in Situ Hybridization. *Oncol. Lett.* **2018**, *15* [, 8102–8106. [CrossRef]](https://doi.org/10.3892/ol.2018.8351)
+41. Wang, B.; Gu, W.; Wan, F.; Wei, Y.; Xiao, W.; Lu, X.; Zhang, G.; Zhou, J.; Wang, Q.; Ding, X.; et al. Prognosis of the 8th TNM
+Staging System for Penile Cancer and Refinement of Prognostication by Incorporating High Risk Human Papillomavirus Status.
+*J. Urol.* **2020**, *203* [, 562–569. [CrossRef]](https://doi.org/10.1097/JU.0000000000000584)
+42. Ashley, S.; Shanks, J.H.; Oliveira, P.; Lucky, M.; Parnham, A.; Lau, M.; Sangar, V. Human Papilloma Virus (HPV) Status May
+Impact Treatment Outcomes in Patients with Pre-Cancerous Penile Lesions (an EUROGEN Study). *Int. J. Impot. Res.* **2021**, *33*,
+[620–626. [CrossRef]](https://doi.org/10.1038/s41443-020-0327-4)
+43. Chipollini, J.; Pollock, G.; Hsu, C.H.; Batai, K.; Recio-Boiles, A.; Lee, B.R. National Trends and Survival Outcomes of Penile
+Squamous Cell Carcinoma Based on Human Papillomavirus Status. *Cancer Med.* **2021**, *10* [, 7466–7474. [CrossRef]](https://doi.org/10.1002/cam4.4258)
+44. Browne, E.; Foley, M.P.; O’Kelly, J.; Ríogh, A.N.A.; Shah, N.; Shilling, C.; Keane, J.P.; Daly, P.; Cullen, I.M. The Relationship of
+Human Papillomavirus Positivity with Tumor Characteristics in an Irish Penile Cancer Population. *Can. Urol. Assoc. J.* **2022**, *16*,
+[435–438. [CrossRef]](https://doi.org/10.5489/cuaj.7821)
+45. Gunia, S.; Erbersdobler, A.; Hakenberg, O.W.; Koch, S.; May, M. P16 INK4a Is a Marker of Good Prognosis for Primary Invasive
+Penile Squamous Cell Carcinoma: A Multi-Institutional Study. *J. Urol.* **2012**, *187* [, 899–907. [CrossRef]](https://doi.org/10.1016/j.juro.2011.10.149)
+46. Bethune, G.; Campbell, J.; Rocker, A.; Bell, D.; Rendon, R.; Merrimen, J. Clinical and Pathologic Factors of Prognostic Significance
+in Penile Squamous Cell Carcinoma in a North American Population. *Urology* **2012**, *79* [, 1092–1097. [CrossRef]](https://doi.org/10.1016/j.urology.2011.12.048)
+47. Tang, D.H.; Clark, P.E.; Giannico, G.; Hameed, O.; Chang, S.S.; Gellert, L.L. Lack of P16ink4a over Expression in Penile Squamous
+Cell Carcinoma Is Associated with Recurrence after Lymph Node Dissection. *J. Urol.* **2015**, *193* [, 519–525. [CrossRef]](https://doi.org/10.1016/j.juro.2014.08.120)
+48. De Bacco, M.W.; Carvalhal, G.F.; MacGregor, B.; Marçal, J.M.B.; Wagner, M.B.; Sonpavde, G.P.; Fay, A.P. PD-L1 and P16 Expression
+in Penile Squamous Cell Carcinoma from an Endemic Region. *Clin. Genitourin. Cancer* **2020**, *18* [, e254–e259. [CrossRef]](https://doi.org/10.1016/j.clgc.2019.10.014)
+
+*Cancers* **2023**, *15*, 3713 13 of 13
+
+49. Pereira-Lourenço, M.; Vieira e Brito, D.; Peralta, J.P.; Godinho, R.; Conceição, P.; Reis, M.; Rabaça, C.; Sismeiro, A.; Eliseu, M.;
+Castelo-Branco, N. Prognostic Value of P16INK4a Overexpression in Penile Cancer. *Arch. Ital. Urol. Androl.* **2020**, *92*, 11–16.
+
+[[CrossRef]](https://doi.org/10.4081/aiua.2020.1.11)
+50. Douglawi, A.; Masterson, T.A. Penile Cancer Epidemiology and Risk Factors: A Contemporary Review. *Curr. Opin. Urol.* **2019**, *29*,
+[145–149. [CrossRef]](https://doi.org/10.1097/MOU.0000000000000581)
+51. Quinlan, J.D. Human Papillomavirus: Screening, Testing, and Prevention. *Am. Fam. Physician* **2021**, *104*, 152–159.
+52. Ramakrishnan, S.; Partricia, S.; Mathan, G. Overview of High-Risk HPV’s 16 and 18 Infected Cervical Cancer: Pathogenesis to
+Prevention. *Biomed. Pharmacother.* **2015**, *70* [, 103–110. [CrossRef] [PubMed]](https://doi.org/10.1016/j.biopha.2014.12.041)
+53. Hoai, B.N.; Cao, T.N.; Luong Thi, L.A.; Nguyen, M.N.; Duong, H.-Q.; Than, V.T. Human Papillomavirus Prevalence and Genotype
+Distribution in Vietnamese Male Patients between 2016 and 2020. *J. Med. Virol.* **2022**, *94* [, 2892–2896. [CrossRef] [PubMed]](https://doi.org/10.1002/jmv.27497)
+54. Derbie, A.; Mekonnen, D.; Nibret, E.; Maier, M.; Woldeamanuel, Y.; Abebe, T. Human Papillomavirus Genotype Distribution in
+Ethiopia: An Updated Systematic Review. *Virol. J.* **2022**, *19* [, 13. [CrossRef] [PubMed]](https://doi.org/10.1186/s12985-022-01741-1)
+55. Chen, M.M.; Mott, N.; Clark, S.J.; Harper, D.M.; Shuman, A.G.; Prince, M.E.P.; Dossett, L.A. HPV Vaccination among Young
+Adults in the US. *JAMA* **2021**, *325* [, 1673–1674. [CrossRef]](https://doi.org/10.1001/jama.2021.0725)
+56. Thompson, E.L.; Garg, A.; Galvin, A.M.; Moore, J.D.; Kasting, M.L.; Wheldon, C.W. Correlates of HPV Vaccination Intentions
+among Adults Ages 27–45 Years Old in the U.S. *J. Community Health* **2021**, *46* [, 893–902. [CrossRef]](https://doi.org/10.1007/s10900-021-00968-3)
+57. Walling, E.B.; Benzoni, N.; Dornfeld, J.; Bhandari, R.; Sisk, B.A.; Garbutt, J.; Colditz, G. Interventions to Improve HPV Vaccine
+Uptake: A Systematic Review. *Pediatrics* **2016**, *138* [, e20153863. [CrossRef]](https://doi.org/10.1542/peds.2015-3863)
+58. Menon, S.; Moch, H.; Berney, D.M.; Cree, I.A.; Srigley, J.R.; Tsuzuki, T.; Compérat, E.; Hartmann, A.; Netto, G.; Rubin, M.A.; et al.
+WHO 2022 Classification of Penile and Scrotal Cancers: Updates and Evolution. *Histopathology* **2023**, *82* [, 508–520. [CrossRef]](https://doi.org/10.1111/his.14824)
+
+**Disclaimer/Publisher’s Note:** The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

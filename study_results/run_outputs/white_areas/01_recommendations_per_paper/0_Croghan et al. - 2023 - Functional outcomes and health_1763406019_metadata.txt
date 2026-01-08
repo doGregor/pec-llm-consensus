@@ -1,0 +1,39 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=236 candidates_tokens_details=None prompt_token_count=33722 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=28046), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=5676)] thoughts_token_count=2592 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=36550 traffic_type=None
+
+
+**Extraction of Treatment Recommendations from "Functional outcomes and health-related quality of life following penile cancer surgery: a comprehensive review"**
+
+Alright, after meticulously going through this paper, here's what I've distilled in terms of *explicit* treatment recommendations, keeping in mind this is a review focusing on outcomes, not a clinical guideline:
+
+Here's the table summarizing the key recommendations:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment (General Aim)** | **Organ-Sparing Surgery (OSS) is recommended as an aim of penile cancer treatment, where feasible, as stated in major urological guidelines.**  (The paper does *not* specify T-stages, tumor grades, or other clinical criteria to determine feasibility. This is a general statement referring to guidelines). |
+| **Surgical Technique** | A conservative surgical approach with excision margins of a few millimeters is acceptable, representing a shift from historical practice. |
+| **Primary Treatment (Specific Technique)** | **Total Glans Resurfacing is a potential treatment option for noninvasive tumors of the glans, particularly when diffuse.** |
+
+That's it.  The paper focuses strongly on *outcomes* of these procedures, not on dictating precise indications.  I've stuck to only what the paper *explicitly* states as a recommendation or a shift in the standard approach, as requested. The limitations of this review in providing detailed recommendations are reflected in this table. I trust this meets the user's need, given the nature of the document.
+
+
+
+**Extraction of Treatment Recommendations from "Functional outcomes and health-related quality of life following penile cancer surgery: a comprehensive review"**
+
+Alright, after meticulously going through this paper, here's what I've distilled in terms of *explicit* treatment recommendations, keeping in mind this is a review focusing on outcomes, not a clinical guideline:
+
+Here's the table summarizing the key recommendations:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment (General Aim)** | **Organ-Sparing Surgery (OSS) is recommended as an aim of penile cancer treatment, where feasible, as stated in major urological guidelines.**  (The paper does *not* specify T-stages, tumor grades, or other clinical criteria to determine feasibility. This is a general statement referring to guidelines). |
+| **Surgical Technique** | A conservative surgical approach with excision margins of a few millimeters is acceptable, representing a shift from historical practice. |
+| **Primary Treatment (Specific Technique)** | **Total Glans Resurfacing is a potential treatment option for noninvasive tumors of the glans, particularly when diffuse.** |
+
+That's it.  The paper focuses strongly on *outcomes* of these procedures, not on dictating precise indications.  I've stuck to only what the paper *explicitly* states as a recommendation or a shift in the standard approach, as requested. The limitations of this review in providing detailed recommendations are reflected in this table. I trust this meets the user's need, given the nature of the document.
+ Based on the provided systematic review, the following explicit treatment recommendations are identified. It is important to note that this paper is a review of functional outcomes and not a clinical practice guideline; therefore, it contains a limited number of direct recommendations and does not provide comprehensive details on all aspects of care (e.g., follow-up schedules, systemic therapy).
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Primary Treatment (Guiding Principle)** | **Organ-Sparing Surgery (OSS):** Organ-sparing surgery is recommended as a primary goal in the treatment of penile cancer whenever it is clinically feasible. This approach aims to preserve organ form and function. |
+| **Primary Treatment (Surgical Technique)** | **Surgical Margins:** A conservative surgical approach with excision margins in the range of a few millimeters is considered acceptable. This is a change from the historically required 2-cm margin. |
+| **Primary Treatment (Specific Modality)** | **Total Glans Resurfacing:** This is a potential treatment option for noninvasive tumors located on the glans, especially in cases where the tumor is diffuse. |

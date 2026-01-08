@@ -1,0 +1,6 @@
+Based on the provided paper, here are the explicit treatment and diagnostic recommendations identified:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Lymph Node Management / Staging** | **Sentinel Lymph Node (SLN) Biopsy:** The paper notes that SLN biopsy is included in the guidelines of the European Association of Urology as a management option for penile cancer. It is positioned as an alternative to inguinal lymphadenectomy (ILND) and serves a critical role in determining whether performing an ILND is necessary. The context implies its use in patients with clinically non-palpable lymph nodes. |
+| **Diagnosis / Lymph Node Management** | **Indocyanine Green (ICG) Imaging:** The paper concludes that ICG imaging **cannot be recommended as a standard test** in daily clinical practice for sentinel lymph node (SLN) localization in penile cancer at this time. While ICG is effective for identifying SLN tissue, its very low specificity for determining the presence of tumor metastasis and the need for more high-quality studies limit its current application as a standard diagnostic procedure. |

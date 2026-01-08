@@ -1,0 +1,779 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 World Journal of Surgical
+https://doi.org/10.1186/s12957-025-03664-x
+
+Oncology
+## **RESEARCH Open Access**
+# Evaluation of C-reactive protein levels in patients with penile cancer: a systematic review and meta-analysis
+
+Tao Qin [1,2†], Shuixian Du [3†], Kening Zhang [4], Likai Wang [5], Lin Zong [6], Litong Wang [5*] and Wenjun Yu [1,2*]
+
+**Abstract**
+**Background** C-reactive protein (CRP) is an essential biomarker for evaluating penile cancer prognosis. Previous
+studies have reported conflicting outcomes concerning the correlation between CRP levels and penile cancer
+prognosis. This study aimed to investigate this relationship by conducting a meta-analysis of published literature.
+**Methods** A systematic literature search was conducted using the Cochrane Library, PubMed, and Embase databases
+to analyze the prognostic significance of serum CRP levels in individuals diagnosed with penile cancer. Pooled risk
+estimates were calculated using fixed-effects or random-effects models, depending on the degree of interstudy
+heterogeneity.
+**Results** Sixty-eight articles were reviewed, identifying 8 articles and 989 patients that met the inclusion criteria
+for the meta-analysis. The pooled analysis revealed a significant association between serum CRP levels and adverse
+outcomes in penile cancer cases (hazard ratio [HR] = 2.37, 95% confidence interval [CI] = 1.46–3.858). Additional
+meta-analysis findings showed a negative correlation between elevated CRP levels and overall survival (HR = 1.97,
+95% CI = 1.23–3.16, *p* <0.01), cancer-specific survival (HR = 3.42, 95% CI = 1.38–8.47, *p* <0.01), and disease-specific
+survival (HR = 3.23, 95% CI = 1.79–5.8, *p* <0.01) in patients with penile cancer. In the subgroup analysis, the HRs (95%
+CI) were 1.66 (0.61–4.48) in Europeans, 3.08 (2–4.74) in Asians, 3.04 (1.93–4. 77) in Chinese, 2.07 (1.21–3.53) in the
+group of cutoff value ≥ 5 mg/L, 2.43 (1.44–4.12) in the group of cutoff value ≥ 10 mg/L, 2.12 (1.04–4.32) in the group of
+surgical intervention, and 3.07 (1.76–5.37) in the group of multitherapy. This study also found a significant relationship
+between serum CRP levels and lymph node metastasis in patients with penile cancer (relative risk = 2.27, 95%
+CI = 1.61–3.2, *p* <0.01).
+**Conclusion** This meta-analysis indicates that increased CRP levels were associated with a poorer prognosis in penile
+cancer. Therefore, CRP levels could potentially serve as a prognostic indicator of penile cancer.
+**Keywords** C-reactive protein, Penile cancer, Meta-analysis
+
+- Tao Qin and Shuixian Du co-first author.
+
+*Correspondence:
+Litong Wang
+litongwanglv@163.com
+Wenjun Yu
+ywjyjx@sina.com
+
+Full list of author information is available at the end of the article
+
+© The Author(s) 2025. **Open Access** This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or
+[exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h ​t ​t ​p ​​: ​/ ​/ ​​c ​r ​e ​a ​​t ​i ​​](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+[v ​e ​c ​​o ​m ​m ​​o ​n ​s ​. ​​o ​r ​​g ​/ ​l ​​i ​c ​e ​​n ​s ​e ​s ​​/ ​b ​​y ​- ​n ​c ​- ​n ​d ​/ ​4 ​. ​0 ​/.](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 Page 2 of 10
+
+
+**Introduction**
+
+Penile cancer is a rare malignant tumor of the male
+reproductive system with a poor prognosis among
+patients with an advanced stage. According to the Inter-­
+national Agency for Cancer Research, the number of
+new penile cancer cases in 2020 was 36,068 globally, with
+the highest incidence occurring in the age group > 60
+years [1]. Regional lymph node metastasis (LNM) at all
+stages (pN1-3) is associated with a lower survival rate
+(approximately 46%). The presence of extranodal exten-­
+sion and lymphatic infiltration significantly increases
+the risk of death and tumor recurrence in patients with
+advanced-stage penile cancer [2]. Therefore, identifying
+the potential predictors of therapeutic efficacy and longterm prognosis in patients with advanced penile cancer
+is crucial.
+
+Previous studies have found that tumor stage, histo-­
+logical grade, lymphatic and vascular infiltration, and
+histological subtypes are closely associated with poor
+prognosis in advanced penile cancer [3, 4]. Recent studies
+indicated that inflammatory processes within the tumor
+microenvironment (TME) could also be pivotal in the ini-­
+tiation, growth, advancement, and spread of penile carci-­
+nomas [5]. Inflammatory reactions, such as leukocytosis,
+neutropenia, and thrombocytopenia, commonly occur
+due to the growth and spread of cancer cells in advanced
+penile cancer. C-reactive protein (CRP), a widely used
+marker for systemic inflammation in standard clinical
+diagnostics, has been identified as being correlated with
+unfavorable prognosis in a range of cancers, includ-­
+ing breast [6], bladder [7], and lung [8] cancers. Higher
+CRP levels may correlate with more aggressive cancers or
+advanced diseases, reflecting the extent or severity of the
+malignancy. CRP can participate in inflammatory pro-­
+cesses within the TME, influencing tumor progression
+and metastasis.
+
+Elevated CRP levels in patients with cancer may indi-­
+cate that malignant tumor cells have invaded the sur-­
+rounding tissues and organs, potentially leading to
+metastasis. Additionally, CRP can influence the immune
+function of patients and contribute to related complica-­
+tions [9]. Chen et al. [10] found a significant correlation
+between elevated circulating CRP levels, LNMs, and sur-­
+vival rates in patients with oral squamous cell carcinoma.
+Multivariate analysis has revealed that high CRP levels
+serve as indicators or predictive factors for lymph node
+and distant metastases in T3 colorectal cancer [11]. Some
+researchers have suggested that elevated CRP levels are
+associated with poor prognosis in patients with advanced
+penile cancer and that monitoring changes in CRP levels
+during treatment may aid in assessing treatment response
+and clinical management decisions [12, 13]. However,
+other researchers have argued that there may be no sig-­
+nificant correlation between CRP levels and prognosis
+
+
+in patients with advanced penile cancer. Ghoshal et al.
+
+[14] conducted a serological assessment of inflammatory
+markers in 50 men with penile cancer and found no sta-­
+tistically significant correlation between CRP levels and
+the risk of penile cancer. They noted limitations due to
+technical constraints that prevented quantifying any CRP
+level < 10 mg/L, potentially leading to underestimating
+the relationship between serum CRP levels and penile
+cancer. Therefore, our investigation undertook a compre-­
+hensive meta-analysis of all reputable scholarly literature
+to estimate the correlation between CRP levels and the
+
+prognosis of penile carcinoma.
+
+**Materials and methods**
+
+**Literature search strategy**
+We assessed the Cochrane Library, PubMed, and Embase
+databases from inception to August 1, 2024. The heading
+terms and keywords were “C-reactive protein,” “C reac-­
+tive protein,” or “CRP,” combined with “Penile Cancer.”
+Additionally, we evaluated other eligible articles among
+the retrieved articles to identify potential articles that
+met the criteria. This study was registered in Prospero
+(registration number: CRD 42023432350).
+
+**Inclusion and exclusion criteria**
+The study selection process included an independent
+review of all papers by two authors (S.Du and T.Qin).
+Uncertainties and discrepancies were resolved through
+consensus discussions with senior researchers. For inclu-­
+sion in the meta-analysis, studies were required to meet
+the following criteria: (a) using a cohort or case-control
+study design, (b) reported results on serum CRP levels,
+(c) using penile cancer survival rate as the outcome of
+interest, and (d) reported estimates of relative risk (RR)
+(or OR [odds ratio] and HR [hazard ratio] estimates in
+case-control and cohort studies, respectively) and their
+corresponding 95% confidence intervals (CI). When
+duplicate studies were identified, we included the sub-­
+sequent publication or one that provided more detailed
+information. Review articles and editorials that contained
+
+original data were included in the analysis, whereas
+abstracts were excluded.
+
+**Search strategy and data abstraction**
+After identifying the studies that met the inclusion cri-­
+teria, we extracted standardized data from the literature,
+including the following: name of the first author, year
+of publication, nationality, study design (cohort or case
+study), time of enrollment, duration of follow-up for
+cohort studies, subjects and cancer cases, subject char-­
+acteristics, CRP threshold (mg/L), CRP markers, and
+method of clinical outcome assessment (RR, OR, or HR
+estimates, and their corresponding 95% CI for continu-­
+ous variables). We also extracted adjusted risk estimates
+
+Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 Page 3 of 10
+
+
+for each study, considering the maximum number of
+potential confounders [15].
+
+**Literature quality evaluation and statistical analysis**
+We evaluated the quality of the included literature on
+treatment using the Newcastle-Ottawa Quality Rating
+Scale (NOS). This scale assesses the selection of study
+populations, the comparability between groups, and the
+exposure factors. Only studies with scores of > 5 were
+included in the meta-analysis. The NOS evaluation was
+completed independently and cross-blinded by two
+researchers. Any disagreements were resolved by a third
+person. Stata software was used to calculate the com-­
+bined results of elevated CRP levels and penile cancer
+risk using RR, OR, or HR for each natural log unit change
+in CRP, along with their corresponding 95% CI. We
+assessed statistical heterogeneity among eligible stud-­
+ies by performing the Cochran’s Q test ( *p* < 0.1 indicating
+high statistical heterogeneity) and I [2] (with values of 25%,
+50%, and 75% representing low, medium, and high het-­
+erogeneity, respectively). Studies were considered homo-­
+geneous if *p* - 0.1 and I [2] ≤ 50%, and effect values were
+combined using a fixed effects model. Sensitivity analy-­
+ses were conducted to assess the stability of the com-­
+bined effect values by changing the data analysis model
+to account for the heterogeneity between studies. Finally,
+we conducted funnel plot analysis and statistical tests to
+detect publication bias.
+
+**Results**
+
+**Characteristics of the included studies**
+
+A preliminary search yielded 68 publications. Among
+these, 46 papers were retrieved using EndNote soft-­
+ware, and an additional 20 papers were selected based
+on a preliminary screening of their titles and abstracts.
+Twelve papers were excluded because they did not meet
+the specified inclusion and exclusion criteria, resulting in
+the final selection of eight retrospective cohort studies
+(Fig. 1). The essential characteristics of the selected stud-­
+ies with a total cumulative sample size of 989 cases are
+detailed in Table 1. The characteristics of the eight stud-­
+ies are summarized in Table 1. One study was conducted
+in Japan, four in China, one in Sweden, and two in Ger-­
+many. These studies collectively involved 989 patients,
+with five focusing solely on surgical intervention, while
+the remaining three implemented a combination of treat-­
+ments, such as chemotherapy, radiation, and surgery.
+The CRP cutoff values varied across studies, ranging
+from 2.1 mg/L to 15 mg/L, with the majority opting for
+5 mg/L or 10 mg/L as the standard threshold. All eight
+studies provided documented HR. The NOS scores of the
+included studies were ≥ 7 points, indicating a high qual-­
+ity. The quality assessments of these studies are summa-­
+rized in Table 1.
+
+
+**Meta-analysis**
+The eight studies yielded I [2] = 58.5% (> 50%) for the het-­
+erogeneity test and *p* = 0.019 (< 0.1) for the Q test, sug-­
+gesting a strong heterogeneity among the studies. Thus,
+the random effects model was selected for the meta-anal-­
+ysis. The forest plot is shown in Fig. 2. The meta-analy-­
+sis results given by random effects showed that elevated
+CRP caused penile cancer adverse outcomes in the con-­
+trol group (HR = 2.37, 95% CI = 1.46–3.85), implying that
+elevated CRP might increase the risk of poor prognosis in
+penile cancer.
+
+A subgroup analysis was conducted to explore further
+the correlation between elevated CRP levels and poor
+prognosis in penile cancer. Eight studies were categorized
+based on “country,” “cutoff value,” and “treatment style.”
+
+Upon stratification by “country,” the analysis comprised
+three studies from European countries (HR = 1.66, 95%
+CI 0.61–4.48), five from Asian countries (HR = 3.08, 95%
+CI = 2–4.74), and four specifically from China (HR = 3.04,
+95% CI = 1.93–4.77) (Fig. 3).
+
+When segregated by “cutoff value,” four studies fell
+into the “≥ 10 mg/L” group (HR = 2.43, 95% CI = 1.44–
+4.12) and six into the “≥ 5 mg/L” group (HR = 2.07,
+95% CI = 1.21–3.53) (Fig. 4). One study [19] selected “≥
+2.1 mg/L” as their threshold, resulting in their exclusion
+from the subgroup analysis, leaving just seven studies in
+this subgroup.
+
+Categorized by “treatment style,” the “surgical inter-­
+vention” category comprised five studies (HR = 2.12, 95%
+CI = 1.04–4.32), and the “multitherapy” group included
+three studies (HR = 3.07, 95% CI = 1.76–5.37 (Fig. 5).
+
+In the overall survival (OS) analysis, a random model
+was employed to determine the combined HR and the
+corresponding 95% CI. The results indicated a signifi-­
+cant association between CRP levels and OS, with an
+observed combined HR of 1.97 (95% CI, 1.23–3.16).
+Regarding cancer-specific survival (CSS) and diseasespecific survival (DSS), elevated CRP levels were found
+to be a predictor of adverse outcomes, yielding combined
+HRs of 3.42 (95% CI, 1.38–8.47) for CSS and 3.23 (95%
+CI, 1.79–5.80) for DSS. Therefore, CRP level has emerged
+as a noteworthy prognostic biomarker for OS, CSS, and
+DSS (Fig. 6).
+
+The T, N, and M grades play pivotal roles in the prog-­
+nosis of penile cancer. However, only two studies have
+explored the association between serum CRP levels
+and LNM. Thus, our analysis investigated the correla-­
+tion between serum CRP levels and the N grade. These
+two studies examined the correlation between increased
+serum CRP levels and N staging (specifically N0 versus
+N1–3), yielding an RR of 2.27 (95% CI = 1.61–3.2) (Fig. 7).
+
+Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 Page 4 of 10
+
+**Fig. 1** Flow diagram of systematic literature search
+
+
+**Publication bias and sensitivity analysis**
+Sensitivity analyses were conducted to mitigate poten-­
+tial heterogeneity stemming from variations in the qual-­
+ity of the included studies and assess their ramifications
+on the overall effect. We observed substantial heteroge-­
+neity arising from the study by Gholshal (2017), which
+significantly affected the combined data (Supplementary
+Fig. 1). After excluding this particular study, heterogene-­
+ity within the pooled data markedly decreased (Supple-­
+mentary Fig. 2). The elevated heterogeneity observed in
+the study by Gholshal might stem from the sample size in
+the original article or variances in the detection method-­
+ologies employed.
+
+As depicted in Fig. 8, Begg’s funnel plots revealed evi-­
+dence of publication bias, whereas Egger’s test indicated
+no significant publication bias in the prognosis of penile
+cancer ( *p* = 0.173). The trim-and-fill method [21] main-­
+tained the reliability of the analysis (Supplementary
+
+
+Fig. 3) by incorporating four studies with small sample
+sizes. The corrected HR (95% CI) was 2.65 (1.89–4.44).
+
+**Discussion**
+Penile cancer, a rare yet highly aggressive form of malig-­
+nancy, has a profound and deleterious effect on the wellbeing of men. This condition, characterized by its rapid
+progression and potential for severe complications, poses
+a significant threat to the health and quality of life of
+affected individuals. Owing to insufficient awareness of
+this disease, many patients delay seeking medical atten-­
+tion. Therefore, identifying reliable prognostic factors is
+crucial for recognizing high-risk patients with poor out-­
+comes. In this study, we conducted a systematic review
+and meta-analysis of 989 patients from Western and
+Eastern countries to evaluate the prognostic value of CRP
+expression levels in patients with penile cancer. The find-­
+ings revealed a significant correlation between elevated
+CRP levels and diminished survival probabilities among
+
+Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 Page 5 of 10
+
+Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 Page 6 of 10
+
+**Fig. 2** Forest plots for the estimate of CRP associated with the risk of poor prognosis for penile cancer in the meta-analysis
+
+
+individuals with penile carcinoma. This association has
+been observed to affect the OS, CSS, and DSS metrics,
+underscoring the prognostic implications of CRP as a
+biomarker in this patient population. Subgroup analyses
+demonstrated the persistent impact of elevated CRP lev-­
+els on survival rates, considering factors such as country,
+treatment method, CRP cutoff values, and lymph node
+metastasis.
+
+Tumor initiation and progression constitute a multi-­
+faceted process intricately linked to the conditions and
+biological attributes of tumor cells. Inflammation con-­
+tributes substantially to cancer progression and dissemi-­
+nation. This is achieved by releasing bioactive factors into
+the tumor microenvironment, including growth factors
+that stimulate cell proliferation and proangiogenic fac-­
+tors that induce neovascularization, thereby accelerat-­
+ing tumor cell invasion and metastasis [22]. Peripheral
+blood inflammatory assays offer a convenient and costeffective means for discerning the extent of inflamma-­
+tory response. Prior studies have reported inflammatory
+mediators as prognostic markers in penile cancer, specifi-­
+cally the neutrophil-to-lymphocyte and platelet-to-lym-­
+phocyte ratios [23]. Our meta-analysis further confirmed
+that CRP level holds considerable predictive value for the
+prognosis of patients with penile cancer.
+
+High CRP levels are associated with poor progno-­
+sis and can predict the survival time and recurrence
+rate of malignant tumors [24]. Postoperative CRP levels
+are closely related to the prognosis of breast [25], gas-­
+tric [26], and colorectal [27] cancers. A comprehensive
+study [17] that specifically concentrated on the surgical
+management of metastatic penile cancer revealed a sig-­
+nificant association between elevated CRP levels and an
+
+
+increased risk of tumor recurrence after surgical inter-­
+vention. In the prognostic indicators for penile cancer,
+our data demonstrate that CRP levels are statistically
+significant predictors of OS, CSS, and DSS ( *p* < 0.05). An
+HR > 2 is currently considered a strong predictive factor
+threshold. In our meta-analysis, elevated CRP levels are
+reliable predictors of adverse outcomes related to CSS
+and DSS, with combined HRs of 3.42 (95% CI, 1.38–8.47)
+for CSS and 3.23 (95% CI, 1.79–5.80) for DSS.
+
+Similarly, changes in CRP levels can serve as valu-­
+able biomarkers reflecting the response of patients with
+malignant tumors to anticancer therapy. Several stud-­
+ies have demonstrated a close relationship between
+decreased CRP levels and treatment response in lung
+cancer [28, 29], lymphoma [30], and other malignant
+tumors. Niklas et al. conducted both retrospective and
+prospective validation cohort studies. They found that
+early CRP kinetics strongly predicted immunotherapy
+response in patients with lung cancer, regardless of the
+histological subtype. Specifically, CRP kinetics within the
+first four weeks of treatment is a cost-effective and eas-­
+ily identified biomarker that can predict the response to
+immunotherapy [29]. Other factors, such as infection
+and inflammation, may influence CRP levels. It is highly
+advisable to incorporate biomarkers into a comprehen-­
+sive prognostic assessment system to enhance the preci-­
+sion and reliability of prognostic evaluations. Recently,
+significant advancements have been made with the
+introduction of the modified Glasgow Prognostic Score
+(mGPS), specifically designed to evaluate the prognosis
+of metastatic penile cancer using inflammation-based
+scoring. The mGPS meticulously assesses elevated CRP
+levels > 10 mg/L and hypoalbuminemia falling < 35 g/L
+
+Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 Page 7 of 10
+
+[2]. It has emerged as a valuable indicator for determin-­
+ing prognosis and treatment responsiveness in patients
+with metastatic penile cancer .
+
+Studies on using potential indicators to predict penile
+squamous cell carcinoma metastasis to the inguinal
+lymph nodes are crucial in clinical practice. Inflamma-­
+tion is key in developing and spreading primary penile
+squamous cell carcinoma to lymph nodes [31]. CRP lev-­
+els are associated with poor outcomes in patients with
+penile squamous cell carcinoma, although there is mixed
+evidence regarding their ability to predict LNM specifi-­
+cally [32]. In the subgroup analysis, elevated serum CRP
+levels were closely associated with LNM, indicating a
+potential correlation (RR = 2.27, 95% CI = 1.61–3.2). This
+meta-analysis had several limitations, such as method-­
+ological differences and restrictions in the patient popu-­
+lations included in the original articles and systematic
+reviews/meta-analyses. Despite these limitations, by syn-­
+thesizing current clinical research data, it has been fur-­
+ther validated that elevated CRP levels may be valuable
+in predicting LNM in patients with penile cancer. Fur-­
+ther clinical data and studies are required to validate and
+strengthen this conclusion. This emphasizes the need for
+further research to explore additional indicators that can
+enhance the predictive accuracy of metastasis in penile
+squamous cell carcinoma to improve patient outcomes.
+
+
+**Fig. 3** Subgroup Analyses of Pooled HR for High Serum CRP Expression
+and the risk of poor prognosis for penile cancer. ( **a** ) European subgroup
+( **b** ) Asian subgroup ( **c** ) Chinese subgroup
+
+
+There are some limitations in evaluating the results of
+this research. First, there was heterogeneity in the rel-­
+evant data provided by different researchers involved in
+the meta-analysis, including different source countries,
+CRP diagnostic methods, and CRP biomarkers. Second,
+the subgroup analysis only presented the relationship
+between the source country, LNM, CRP concentration,
+and prognosis of patients with penile cancer. This was
+mainly because not all relevant studies provided com-­
+prehensive information. Owing to the limitations of
+the available data, it was not possible to evaluate the
+
+
+**Fig. 4** Subgroup Analyses of Pooled HR for High Serum CRP Expression and the risk of poor prognosis for penile cancer. ( **a** ) cut-off = 5 mg/L; ( **b** ) cut-off
+= 10 mg/L
+
+Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 Page 8 of 10
+
+**Fig. 5** Subgroup analyses of Pooled HR for High Serum CRP Expression and the risk of poor prognosis for penile cancer. ( **a** ) “surgical intervention” category
+( **b** ) “multi-therapy” category
+
+**Fig. 7** Subgroup Analyses of Pooled RR for serum CRP levels associated
+with lymph node metastasis in patients with penile cancer
+
+**Fig. 8** Funnel plot for analysis results of publication bias
+
+
+**Fig. 6** Forrest plots of studies evaluating hazard ratios with 95% confi-­
+dence interval (95% CI) for high CRP levels as compared with low levels.
+Survival data are reported as overall survival ( **a** ), cancer-specific survival
+( **b** ), and disease specific survival ( **c** )
+
+
+correlation between CRP levels and the risk of penile
+cancer stratified by TNM staging. Further large prospec-­
+tive studies are necessary to validate the prognostic value
+of serum CRP levels in patients with penile cancer and
+its predictive potential for assessing the efficacy of anti-­
+tumor therapy. Finally, there was a publication bias in
+this systematic review, which may be attributed to several
+
+Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 Page 9 of 10
+
+
+factors. Current research articles on penile cancer are
+relatively limited. We only included articles published in
+English and Chinese during the literature collection pro-­
+cess, potentially overlooking unpublished studies with
+insignificant results. However, after incorporating the
+four missing studies into the funnel plot, no significant
+changes were observed in the overall results. We believe
+that this meta-analysis is reliable.
+
+**Conclusions**
+Our meta-analysis indicates that CRP expression is asso-­
+ciated with an unfavorable prognosis in penile cancer.
+CRP is a significant predictor of survival outcomes, with
+a notable impact on CSS and DSS. Our comprehensive
+findings indicate that CRP is promising as a biomarker
+for the prognostic evaluation of patients with penile
+
+cancer.
+
+**Abbreviations**
+CRP C-reactive protein
+CI Confidence interval
+CSS Cancer-specific survival
+DSS Disease-specific survival
+FIGO International Federation of Gynecology and Obstetrics
+HR Hazard ratio
+NOS Newcastle-Ottawa Quality Assessment Scale
+LNM Lymph node metastasis
+OR Odds ratio
+OS Overall survival
+PFS Progression-free survival
+RR Relative risk
+
+**Supplementary Information**
+[The online version contains supplementary material available at ​h ​t ​t ​p ​​s ​: ​/ ​​/ ​d ​o ​i ​​. ​o ​​r ​](https://doi.org/10.1186/s12957-025-03664-x)
+[g ​/ ​​1 ​0 ​. ​​1 ​1 ​8 ​6 ​​/ ​s ​​1 ​2 ​9 ​5 ​7 ​- ​0 ​2 ​5 ​- ​0 ​3 ​6 ​6 ​4 ​- ​x.](https://doi.org/10.1186/s12957-025-03664-x)
+
+Supplementary Material 1
+
+Supplementary Material 2
+
+Supplementary Material 3
+
+**Acknowledgements**
+The authors would like to thank the Natural Science Foundation of Shandong
+Province for supporting the scientific research of this work (grant code
+ZR2022QH055).
+
+**Author contributions**
+
+S.Du analyzed the data and T.Qin wrote the manuscript. K.Zhang, L.Wang,
+L.Zong and W.Yu conceived the study and stastics analysis; L.Wang assisted
+in revising the manuscript; All authors read and approved the final manuscript.
+
+**Funding**
+The authors would like to thank the Natural Science Foundation of Shandong
+Province for supporting the scientific research of this work (grant code
+ZR2022QH055).
+
+**Data availability**
+No datasets were generated or analysed during the current study.
+
+**Declarations**
+
+**Ethics approval and consent to participate**
+Not applicable.
+
+
+**Consent for publication**
+Not applicable.
+
+**Competing interests**
+The authors declare no competing interests.
+
+**Author details**
+1 The Third Clinical School of Medical Science, Qingdao University,
+Qingdao Municipal Hospital, Qingdao, Shandong, P.R. China
+2 Department of Oncology, Qingdao Hospital, University of Health
+and Rehabilitation Sciences (Qingdao Municipal Hospital), Qingdao,
+Shandong, P.R. China
+3 Department of Infectious Disease, Qingdao Municipal Hospital, Qingdao,
+Shandong, China
+4 Department of Interventional Radiotherapy, Pingdu Hospital of
+Traditional Chinese Medicine, Pingdu, Shandong, P.R. China
+5 Department of Neurological Rehabilitation, The Second Affiliated
+Hospital of Dalian Medical University, Liaoning, PR China
+6 Qingdao Women and Children’s Hospital of Qingdao University,
+Qingdao, Shandong, P.R. China
+
+Received: 21 June 2024 / Accepted: 18 January 2025
+
+**References**
+1. Giona S. The Epidemiology of Penile Cancer. In: Barber N, Ali A, editors.
+Urologic Cancers [Internet]. Brisbane (AU): Exon Publications; 2022 Sep 12.
+Chapter 11.
+2. Draeger DL, Groh S, Buchholz T, Woehl M, Nolting J, Hakenberg OW. Predic-­
+tion of treatment response and survival with chemotherapy for meta-­
+static Penile Cancer by the modified Glasgow Prognostic score. Urol Int.
+2023;107(5):489–95.
+3. Zhou X, Zhong Y, Song L, Wang Y, Wang Y, Zhang Q, et al. Nomograms to
+predict the presence and extent of inguinal lymph node metastasis in penile
+cancer patients with clinically positive lymph nodes. Transl Andro Urol.
+2020;9(2):621–8.
+4. Nascimento ADMTD, Pinho JD, Júnior AALT, Larges JS, Soares FM, Calixto JRR
+et al. Angiolymphatic invasion and absence of koilocytosis predict lymph
+node metastasis in penile cancer patients and might justify prophylactic
+lymphadenectomy. Medicine (Baltimore). 2020;99(9):e19128.
+5. Walter M. Tumor Microenvironment in Penile Cancer. Adv Exp Med Biol.
+2020;1296:291–307.
+6. Mikkelsen MK, Lindblom NAF, Dyhl-Polk A, Juhl CB, Johansen JS, Nielsen D.
+Systematic review and meta-analysis of C-reactive protein as a biomarker in
+breast cancer. Crit Rev Clin Lab Sci. 2022;59(7):480–500.
+7. O’Brian D, Prunty M, Hill A, Shoag J. The role of C-Reactive protein in kidney,
+bladder, and prostate cancers. Front Immunol. 2021;12:721989.
+8. Leuzzi G, Galeone C, Gisabella M, Duranti L, Taverna F, Suatoni P, Morelli D,
+Pastorino U. Baseline C-reactive protein level predicts survival of early-stage
+lung cancer: evidence from a systematic review and meta-analysis. Tumori.
+2016;102(5):441–9.
+9. Feng JR, Li X, Han C, Chang Y, Fu Y, Feng GC, Lei Y, Li HY, Tang PM, Ji SR, Hou
+Y, Wu Y. C-Reactive protein induces immunosuppression by activating
+FcγR2B in Pulmonary macrophages to promote lung metastasis. Cancer Res.
+2024;84(24):4184–98.
+10. Chen IH, Liao CT, Wang HM, Huang JJ, Kang CJ, Huang SF. Using SCC antigen
+
+and CRP levels as prognostic biomarkers in recurrent oral cavity squamous
+cell carcinoma. PLoS ONE. 2014;9(7):e103265.
+11. Ishizuka M, Nagata H, Takagi K, Kubota K. C-reactive protein is associ-­
+
+ated with distant metastasis of T3 colorectal cancer. Anticancer Res.
+
+2012;32(4):1409–15.
+12. Roxburgh CS, McMillan DC. Role of systemic inflammatory response in
+
+predicting survival in patients with primary operable cancer. Future Oncol.
+[2010;6:149. ​h ​t ​t ​p ​​s ​: ​/ ​​/ ​d ​o ​i ​​. ​o ​​r ​g ​/ ​​1 ​0 ​. ​​2 ​2 ​1 ​7 ​​/ ​f ​​o ​n ​. ​0 ​9 ​. ​1 ​3 ​6.](https://doi.org/10.2217/fon.09.136)
+13. Steffens S, Al Ghazal A, Steinestel J, Lehmann R, Wegener G, Schnoeller TJ,
+
+Cronauer MV, Jentzmik F, Schrader M, Kuczyk MA, Schrader AJ. High CRP
+values predict poor survival in patients with penile cancer. BMC Cancer.
+[2013;13:223. ​h ​t ​t ​p ​​s ​: ​/ ​​/ ​d ​o ​i ​​. ​o ​​r ​g ​/ ​​1 ​0 ​. ​​1 ​1 ​8 ​6 ​​/ ​1 ​​4 ​7 ​1 ​- ​2 ​4 ​0 ​7 ​- ​1 ​3 ​- ​2 ​2 ​3.](https://doi.org/10.1186/1471-2407-13-223)
+
+Qin *et al. World Journal of Surgical Oncology* (2025) 23:78 Page 10 of 10
+
+
+14. Ghoshal A, Garmo H, Arthur R, Hammar N, Jungner I, Malmström H, Lambe M,
+
+Walldius G, Hemelrijck MV. Serum biomarkers to predict risk of testicular and
+penile cancer in AMORIS. Ecancermedicalscience. 2017;11:762.
+15. Parmar MK, Torri V, Stewart L. Extracting summary statistics to perform
+
+meta- analyses of the published literature for survival endpoints. Stat Med.
+[1998;17(24):2815–34. ​h ​t ​t ​p ​s ​: ​​​/ ​​/ ​d ​o ​​i ​. ​​o ​r ​​g ​/ ​​1 ​0 ​. ​1 ​0 ​0 ​2 ​/ ​( ​s ​i ​c ​i ​) ​1 ​0 ​9 ​7 ​- ​0 ​2 ​5 ​8 ​( ​1 ​9 ​9 ​8 ​1 ​2 ​3 ​0 ​) ​1 ​7 ​: ​2 ​4 ​](https://doi.org/10.1002/(sici)1097-0258(19981230)17:24%3C2815::aid-sim110%3E3.0.co;2-8)
+[% ​3 ​C ​2 ​8 ​1 ​5 ​: ​: ​a ​i ​d ​- ​s ​i ​m ​1 ​1 ​0 ​% ​3 ​E ​3 ​. ​0 ​. ​c ​o ​; ​2 ​- ​8.](https://doi.org/10.1002/(sici)1097-0258(19981230)17:24%3C2815::aid-sim110%3E3.0.co;2-8)
+16. Li ZS, Yao K, Li YH, Chen JP, Deng CZ, Zhao Q, Chen P, Wang B, Mi QW, Liu
+
+ZW, Qin ZK, Han H, Zhou FJ. Clinical significance of preoperative C-reactive
+protein and squamous cell carcinoma antigen levels in patients with penile
+squamous cellcarcinoma. BJU Int. 2016;118(2):272–8.
+17. Li ZS, Chen P, Yao K, Wang B, Li J, Mi QW, Chen XF, Zhao Q, Li YH, Chen JP,
+
+Deng CZ, Ye YL, Zhong MZ, Liu ZW, Qin ZK, Lin XT, Liang WC, Han H, Zhou FJ.
+Development of a new outcome prediction model for Chinese patients with
+penile squamous cell carcinoma based on preoperative serum C-reactive
+protein, body mass index, and standard pathological risk factors: the TNCB
+score group system. Oncotarget. 2016;7(15):21023–33.
+18. Zhou QH, Deng CZ, Chen JP, Huang KB, Liu TY, Yao K, Liu ZW, Qin ZK, Li YH,
+
+Guo SJ, Ye YL, Zhou FJ, Huang W, Liu RY, Han H. Elevated serum LAMC2 is
+associated with lymph node metastasis and predicts poor prognosis in
+penile squamous cell carcinoma. Cancer Manag Res. 2018;10:2983–95.
+19. Kawase M, Takagi K, Kawada K, Ishida T, Tomioka M, Enomoto T, Fujimoto S,
+
+Taniguchi T, Ito H, Kameyama K, Yamada T, Kawase K, Kato D, Takai M, Iinuma
+K, Nakane K, Koie T. Clinical lymph node involvement as a predictor for
+Cancer- Specific Survival in patients with Penile squamous cell Cancer. Curr
+Oncol. 2022;29(8):5466–74.
+20. Xue T, Li ZS, Wu C, Li YH, Liu ZW, Qin ZK, Yao K, Zhou FJ, Han H. Prognostic
+
+value of inflammation biomarkers in Penile squamous cell carcinoma patients
+without distant metastasis. Clin Genitourin Cancer. 2023;21(5):e334-e342.e1.
+21. Duval S, Tweedie R. Trim and fill: a simple funnel-plot based method of
+
+testing and adjusting for publication bias in meta-analysis. Biometrics.
+2000;56:455.
+22. Fischer-Fodor E, Miklasova N, Berindan-Neagoe I, Saha B. Iron, inflammation
+
+and invasion of cancer cells. Clujul Med. 2015;88(3):272–7.
+23. Li Z, Li X, Zhang X, Chen P, Wang B, Chen X, Han H, Zhou F. Prognostic signifi-­
+
+cance of common preoperative laboratory variables in penile squamous cell
+carcinoma. Int J Urol. 2020;27(1):76–82.
+24. Allin KH, Nordestgaard BG. Elevated C-reactive protein in the diagnosis,
+
+prognosis, and cause of cancer. Crit Rev Clin Lab Sci. 2011;48(4):155–70.
+
+
+25. Tibau A, Ennis M, Goodwin PJ. Post-surgical highly sensitive C-reactive
+
+protein and prognosis in early-stage breast cancer. Breast Cancer Res Treat.
+2013;141(3):485–93.
+26. Luo B, Liao Q, Zheng J, Hu W, Yao X, Li Y, Wang J. The ratio of serum C-reactive
+
+protein level on postoperative day 3 to day 2 is a good marker to predict
+postoperative complications after laparoscopic radical gastrectomy for
+gastric cancer. Langenbecks Arch Surg. 2022;407(4):1451–60.
+27. Yamamoto M, Saito H, Uejima C, Tanio A, Takaya S, Sakamoto T, Honjo S,
+
+Maeta Y, Ashida K, Fujiwara Y. Prognostic value of the combination of pre- and
+postoperative C-reactive protein in colorectal cancer patients. Surg Today.
+2018;48(11):986–93.
+28. Ajona D, Remirez A, Sainz C, Bertolo C, Gonzalez A, Varo N, Lozano MD,
+
+Zulueta JJ, Mesa-Guzman M, Martin C, Perez-Palacios A, Perez-Gracia R,
+Massion JL, Montuenga PP, Pio LM. A model based on the quantification of
+complement C4c, CYFRA 21 – 1 and CRP exhibits high specificity for the early
+diagnosis of lung cancer. Transl Res. 2021;233:77–91.
+29. Klümper N, Saal J, Berner F, Lichtensteiger C, Wyss N, Heine A, Bauernfeind FG,
+
+Ellinger J, Brossart P, Diem S, Schmid S, Joerger M, Frueh M, Ritter M, Hölzel
+M, Flatz L, Bald T. C reactive protein flare predicts response to checkpoint
+inhibitor treatment in non-small cell lung cancer. J Immunother Cancer.
+2022;10(3):e004024.
+30. Mallard J, Gagez AL, Baudinet C, Herbinet A, Maury J, Bernard PL, Cartron G.
+
+C-Reactive protein level: a key predictive marker of Cachexia in Lymphoma
+and Myeloma patients. J Hematol. 2019;8(2):55–9.
+31. Azizi M, Peyton CC, Boulware DC, Chipollini J, Juwono T, Pow-Sang JM, Spiess
+
+PE. Prognostic Value of Neutrophil-to-lymphocyte ratio in Penile squamous
+cell carcinoma patients undergoing Inguinal Lymph Node Dissection. Eur
+Urol Focus. 2019;5(6):1085–90.
+32. Hu J, Cui Y, Liu P, Zhou X, Ren W, Chen J, Zu X. Predictors of inguinal lymph
+
+node metastasis in penile cancer patients: a meta-analysis of retrospective
+studies. Cancer Manag Res. 2019;11:6425–41.
+
+**Publisher’s note**
+
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

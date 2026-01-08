@@ -1,0 +1,1731 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided guideline on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Guideline (context):
+    
+    # e Penile cancer: ESMO EURACAN Clinical Practice Guideline for diagnosis, treatment and follow-up [5]
+
+A. Muneer [1][,][2], M. Bandini [3], E. Compérat [[4]](Delta:1_given name) [, G. De Meerleer](Delta:1_surname) [[5]](Delta:1_surname) [, K. Fizazi](Delta:1_given name) [6], J. Gietema [7], S. Gillessen [8][,][9] [, A. Kirkham](Delta:1_surname) [10] [, V. Sangar](Delta:1_given name) [[11]](Delta:1_given name),
+C. Alifrangis [[12]](Delta:1_surname) & T. Powles [[13]](Delta:1_given name), on behalf of the ESMO Guidelines Committee [�]
+
+1 Department of Urology and NIHR Biomedical Research Centre, University College London Hospitals NHS Foundation Trust, London; 2 Division of Surgery and
+Interventional Science, University College London, UK; [3] Division of Experimental Oncology/Unit of Urology, URI, IRCCS Ospedale San Raffaele, Milan, Italy;
+4 Department of Pathology, Medical University Vienna, Austria; 5 Department of Radiation Oncology, University Hospitals Leuven, Leuven, Belgium; 6 Department of
+Cancer Medicine, Institut Gustave Roussy, University of Paris Saclay, Villejuif, France; [7] Department of Medical Oncology, University Medical Center Groningen,
+Groningen, The Netherlands; [8] Oncology Institute of Southern Switzerland (IOSI), Ente Ospedaliero Cantonale (EOC), Bellinzona; [9] Universita della Svizzera Italiana,
+Lugano, Switzerland; [10] Department of Radiology, University College London Hospitals NHS Foundation Trust, London; [11] Department of Urology, The Christie NHS
+Foundation Trust, Manchester; [12] Department of Oncology and NIHR Biomedical Research Centre, University College London Hospitals NHS Foundation Trust, London;
+13 Barts Experimental Cancer Medicine Centre, Barts Cancer Institute, Queen Mary University of London, London, UK
+
+Available online 11 July 2024
+
+Key words: diagnosis, ESMO Clinical Practice Guideline, penile cancer, recommendations, treatment
+
+
+INCIDENCE AND EPIDEMIOLOGY
+
+Penile cancer is a rare genital malignancy with an estimated
+global incidence of 36 068 new cases in 2020. [1] In Western
+Europe and the United States, the age-adjusted incidence of
+penile cancer is 0.3-2.1 per 100 000. [2] Conversely, in countries where circumcision is routine practice due to religious
+or cultural reasons, [3] penile cancer is almost non-existent,
+whereas areas within South America, South Asia and SubSaharan Africa have the highest prevalence in the world
+(3-7 per 100 000 men). [1][,][4]
+
+A number of aetiological factors have been linked with
+penile cancer and its geographical distribution. Among
+them, ethnicity, human papilloma virus (HPV), population
+age, social and cultural habits and prevalence of neonatal
+circumcision are the most important. [3] HPV infection has
+been reported in up to 50.8% [95% confidence interval (CI)
+44.8% to 56.7%] of penile cancer cases and in up to 79.8%
+(95% CI 69.3% to 88.6%) of patients with penile intraepithelial neoplasia (PeIN). [5] The predominant oncogenic
+HPV subtype in penile cancer is HPV 16, which is prevalent
+in up to 70% of HPV-positive penile cancers; [6] other common HPV subtypes include HPV 6, 11, 18, 31 and 33. [7]
+
+Lichen sclerosus, a chronic inflammatory condition of
+unknown aetiology which mainly affects the anogenital area
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Office,
+Via Ginevra 4, CH-6900 Lugano, Switzerland
+[E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).](mailto:clinicalguidelines@esmo.org)
+
+5 Note: Approved by the ESMO Guidelines Committee: October 2013, last
+update May 2024. This publication supersedes the previously published versiondAnn Oncol. 2013;24(suppl 6):vi115-vi124.
+2059-7029/© 2024 The Author(s). Published by Elsevier Ltd on behalf of
+European Society for Medical Oncology. This is an open access article under the
+[CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+(85%-98%), has also been associated with the development
+of penile cancer. Lichen sclerosus is associated with up to
+30% of penile cancer cases, and in particular those that are
+not HPV driven. [8][,][9] Other risk factors include smoking, poor
+penile hygiene and treatment with psoralen ultraviolet
+(UV)-A phototherapy (PUVA).
+
+DIAGNOSIS, STAGING AND PATHOLOGY
+
+Diagnosis
+
+The most common tumour affecting the penis is squamouscell carcinoma (SCC). SCCs are predominantly exophytic lesions originating from the mucosal surface of the glans and
+inner prepuce as opposed to the keratinised skin of the
+penile shaft. Incisional or excisional biopsies of suspected
+penile cancer should be carried out to confirm a histological
+diagnosis. Penile cancer has an accepted stepwise lymphatic
+dissemination whereby it initially drains to the inguinal
+lymph nodes (LNs) followed by the pelvic LNs.
+A proposed algorithm for the diagnostic work-up of
+penile cancer is shown in Figure 1.
+
+Assessment of the primary tumour. Clinical assessment of
+the primary tumour should record the size, morphology and
+~~re~~ lationship to adjacent structures in order to plan penilepreserving surgery where possible. Lesions on the glans
+penis should be assessed for invasion into the distal corpus
+cavernosum. Where there is uncertainty, magnetic resonance imaging (MRI) or penile ultrasound (US) combined
+with an intracavernosal injection of prostaglandin E1 to
+induce an artificial erection can be helpful to stage the
+primary lesion. [10-12]
+
+
+Volume 9 - Issue 7 - 2024 [https://doi.org/10.1016/j.esmoop.2024.103481](https://doi.org/10.1016/j.esmoop.2024.103481) 1
+
+ESMO Open A. Muneer et al.
+
+
+
+
+
+
+
+Figure 1. Proposed algorithm for the diagnostic work-up of penile cancer.
+Purple: algorithm title; white: other aspects of management.
+AJCC, American Joint Committee on Cancer; CT, computed tomography; FNAC, fine-needle aspiration cytology; HPV, human papillomavirus; LN, lymph node; MRI,
+magnetic resonance imaging; PET, positron emission tomography; UICC, Union for International Cancer Control; US, ultrasound; WHO, World Health Organization.
+
+
+Assessment of regional LNs. Evaluation of the LNs is critical
+as characteristics, such as the involvement of inguinal LNs,
+the number and site of metastatic nodes and extracapsular
+nodal involvement, provide the strongest prognostic factors
+for disease-specific survival (DSS). [13]
+
+Impalpable inguinal nodes. Clinically impalpable inguinal
+LNs (cN0) should undergo US imaging and fine-needle
+aspiration cytology (FNAC) of morphologically abnormal
+inguinal nodes.
+
+Palpable inguinal nodes. Palpable inguinal nodes are
+likely due to metastatic disease in >80% of cases; this
+can be confirmed by carrying out percutaneous FNAC or a
+biopsy of the LN. In cases of a negative biopsy and
+clinically suspicious nodes, a repeat FNAC or excisional
+biopsy of the node is advised. [14] In the presence of fungating primary lesions, lymphadenopathy can develop
+secondary to inflammatory changes. If nodes are
+palpable, US � FNAC has a high sensitivity for detecting
+
+
+cancer, although it can still miss micrometastases in
+reactive nodes. [15]
+
+MRI and computed tomography (CT) scanning can detect
+enlarged inguinal and pelvic LNs. CT is primarily used,
+despite the low sensitivity (36%). The use of [ [18] F]2-fluoro-2deoxy- D -glucose (FDG)epositron emission tomography
+
+e
+(PET) CT remains uncertain, although the sensitivity is reported as 96% for palpable nodes. [16]
+
+Assessment of distant metastases. MRI or CT fusion PET
+
+probably has the highest sensitivity for detecting distant
+metastasis and can be used in high-risk cases. For routine
+staging at diagnosis and follow-up, however, CT of the chest,
+abdomen and pelvis is sufficient.
+
+Staging
+
+Tumour staging must be carried out according to a recognised staging classification systemdeither the World Health
+Organization (WHO) 2022, the Union for International
+
+
+2 https://doi.org/10.1016/j.esmoop.2024.103481 Volume 9 [-](https://doi.org/10.1016/j.esmoop.2024.103481) [Issue 7](https://doi.org/10.1016/j.esmoop.2024.103481) [-](https://doi.org/10.1016/j.esmoop.2024.103481) [2024](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+A. Muneer et al. ESMO Open
+
+
+Cancer Control (UICC) eighth edition or the American Joint
+Committee on Cancer (AJCC) eighth edition. [17-21] The TNM
+(tumourenodeemetastasis) clinical and pathological classification of penile cancer according to the UICC eighth
+edition is shown in Supplementary Table S1, available at
+[https://doi.org/10.1016/j.esmoop.2024.103481.](https://doi.org/10.1016/j.esmoop.2024.103481)
+Staging of the primary lesion and regional LNs requires
+accurate knowledge of the penile anatomy. In the distal
+penis, three different epithelial mucosal compartments exist:
+glans, coronal sulcus and inner prepuce of the foreskin.
+
+Pathology
+
+Precursor lesions. Premalignant disease of the penis is
+termed PeIN. Here, the basement membrane remains intact
+but intraepithelial changes occur. PeIN is a recognised
+precursor of invasive SCC; it was integrated into the WHO
+2016 classification [22] and is maintained in the WHO 2022
+classification. [21] Precursor lesions of SCC are outlined in
+
+[Supplementary Table S2, available at https://doi.org/10.](https://doi.org/10.1016/j.esmoop.2024.103481)
+[1016/j.esmoop.2024.103481. Two](https://doi.org/10.1016/j.esmoop.2024.103481) major subgroups of
+PeIN can be distinguished, as shown in Supplementary
+[Table S3, available at https://doi.org/10.1016/j.esmoop.](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+[2024.103481.](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+Invasive carcinoma. WHO 2022 has retained the classifica
+tion of invasive penile cancer based on the association with
+HPV, [23] in line with the classification of precursor lesions,
+giving due importance to the pathogenesis. [21]
+
+Non-HPV-related penile cancer. The most common histological subtype in this group is SCC usual type, which also
+includes the well differentiated pseudo-hyperplastic form.
+Grading of these lesions should be according to the WHO
+system. [21] Other subtypes are verrucous carcinoma, which
+includes a low-grade entity called carcinoma cuniculatum, [24]
+
+papillary carcinoma, pseudoglandular carcinoma, mixed
+carcinoma, the rare sarcomatoid carcinoma and the
+extremely rare adenosquamous carcinoma (including
+mucoepidermoid carcinoma). The frequency and prognosis [25] for each histological subtype are summarised in
+[Supplementary Table S4, available at https://doi.org/10.](https://doi.org/10.1016/j.esmoop.2024.103481)
+[1016/j.esmoop.2024.103481.](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+HPV-related penile cancer. HPV-associated SCC is related to
+high-risk HPV, such as HPV 16 and 18, and demonstrates
+p16 expression. Histological subtypes include basaloid
+SCC, [26] warty carcinoma, [27][,][28] clear-cell carcinoma, [29]
+
+lymphoepithelioma-like carcinoma [30] and mixed (previously
+termed warty-basaloid) carcinoma. The frequency and
+prognosis [25] of each histological subtype are shown in
+[Supplementary Table S5, available at https://doi.org/10.](https://doi.org/10.1016/j.esmoop.2024.103481)
+[1016/j.esmoop.2024.103481.](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+Others. SCC not otherwise specified. Invasive keratinising
+carcinoma without any special features and which cannot be
+tested for HPV is designated as SCC not otherwise specified
+(NOS). No established prognostic or treatment differences
+between HPV-associated and HPV-independent penile cancers currently exist. Some recent studies suggest, however,
+
+
+that HPV-associated SCC may respond better to radiotherapy (RT) or multimodality treatments. [31][,][32]
+
+Mandatory and recommended information to include in
+the pathology report for penile cancers is provided in
+[Supplementary Table S6, available at https://doi.org/10.](https://doi.org/10.1016/j.esmoop.2024.103481)
+[1016/j.esmoop.2024.103481.](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+Recommendations
+
+� Clinical assessment of the primary tumour should record size,
+morphology and relationship to adjacent structures [III, A].
+� The use of MRI or US combined with an intracavernosal
+
+injection of prostaglandin E1 is useful to assess the primary lesion [III, B].
+� FNAC should be used in clinically impalpable inguinal
+nodes when they are detected as morphologically
+abnormal on US [IV, A].
+� Clinicians should carry out percutaneous FNAC for
+palpable inguinal nodes and repeat the FNAC or carry
+out an excisional biopsy in case of negative findings for
+clinically suspicious nodes [III, A].
+� CT is advised in all cases for the assessment of distant
+
+metastases [III, A]. MRI or CT fusion PET can be used
+in patients with high-risk disease [IV, B].
+� The following are recommended for disease staging classification: WHO 2022, UICC eighth edition or AJCC eighth
+edition [I, A].
+� Pathological assessment should include HPV status, histological grade and tumour type [III, A].
+� The WHO system is recommended for disease grading
+
+[IV, A].
+
+MANAGEMENT OF LOCAL AND LOCOREGIONAL DISEASE
+
+Management of local disease according to stage
+
+It is important to note that the treatment of penile cancer is
+based on non-randomised data largely derived from heterogeneous patient cohorts, typically from high-volume
+institutional series. No randomised studies have been un
+dertaken in this disease that have suggested a survival
+benefit of one approach over another. The rarity of the
+disease makes large randomised trials unfeasible.
+According to the AJCC eighth edition, localised penile
+cancer includes stage I (T1a N0 M0) and stage II (T1b-T3 N0
+M0) disease. For both stages, treatment should be carried
+out with curative intent with surgical resection or RT which
+includes brachytherapy and/or external beam RT (EBRT) in
+selected cases. Although brachytherapy is not widely
+available, it is potentially suitable for selected cases when
+the lesion is located in the distal penis and the patient does
+not want to undergo surgical intervention. A proposed algorithm for the management of primary penile tumours is
+shown in Figure 2.
+The primary aim of surgical intervention is to remove the
+tumour using penile-preserving techniques. Preservation of
+the aesthetic, sexual and urinary function is an important
+outcome to allow penetrative sexual intercourse and voiding standing up.
+
+
+Volume 9 - Issue 7 - 2024 [https://doi.org/10.1016/j.esmoop.2024.103481](https://doi.org/10.1016/j.esmoop.2024.103481) 3
+
+ESMO Open A. Muneer et al.
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Proposed algorithm for the management of primary penile tumours.
+Purple: algorithm title; turquoise: combination of treatments or treatment modalities; white: other aspects of management.
+ChT, chemotherapy; EBRT, external beam radiotherapy; T, tumour; Tis, carcinoma in situ; WLE, wide local excision.
+
+
+Several organ-sparing surgery (OSS) options have been
+described to manage the primary penile cancer. Nonetheless, no randomised controlled trials or comparative studies
+are available to define the best OSS in patients with localised penile cancer. Thus, surgical options should be tailored
+according to the disease stage, patient willingness for
+reconstruction and clear surgical margins.
+
+Premalignant disease (PeIN). In cases of biopsy-proven PeIN
+located on the glans or prepuce, circumcision is mandatory
+as the initial management. Following circumcision, any
+residual PeIN can be treated using topical agents, such as 5fluorouracil (5-FU) [33] or imiquimod. Alternatively, carbon
+dioxide (CO 2 ) laser ablation (penetration is 2-2.5 mm) can be
+used. Following topical treatment, the response should be
+assessed clinically or with a repeat biopsy of any new lesions
+which may indicate progression to invasive disease. If topical
+treatment fails, wide local excision or glans resurfacing,
+whereby the mucosal layer is removed and replaced with a
+split-thickness skin graft (SSG), should be considered. The
+5-year local recurrence rate after laser treatment is
+w50% [34][,][35] which emphasises the importance of close clinical follow-up. [34] Vaccination against HPV in HPV-related PeIN
+has not been routinely used as the long-term efficacy is
+unclear, but in high-risk individuals, it is an option that can
+be discussed in unvaccinated men. [36] Therefore, concomitant
+
+use of local treatment and nonavalent vaccine in HPV
+related PeIN is an option but requires further validation.
+
+Ta-1 disease. Patients with tumour localised to the foreskin
+
+can undergo a circumcision, which is often therapeutic. Wide
+local excision of the lesion with reconstruction using an SSG
+
+
+or advancement flap using penile shaft skin is preferable for
+small tumours located on the glans penis. Long-term followup, depending on the tumour stage, is mandatory for both
+procedures as recurrence rates can reach 15.4% according to
+contemporary evidence. [37] Glans resurfacing is recommended for PeIN or T1a lesions with excellent oncological
+outcomes as well as aesthetic and functional outcomes. [38]
+
+The local recurrence rate is up to 4.5%, [39] but positive surgical margins (48%) and repeat surgery (28%) are common. [40]
+
+Mohs micrographic surgery can be used for small, low-grade
+penile lesions (T1) but again there is a high recurrence rate
+(32%) [41] and the need for a more complicated clinical set-up,
+including a pathologist.
+
+T2 disease. Glansectomy, with or without distal urethrectomy, is the surgical treatment of choice for T2 tumours on the glans penis. An SSG is recommended to
+reconstruct a neo-glans from the preserved distal corporal
+tips. Surgical margins of >1 mm are now accepted, with
+the risk of local recurrence being low. According to a
+recent systematic review, local recurrence and positive
+surgical margin rates after glansectomy are 2.6%-16.7%
+and 2.9%-22.6%, respectively. The incidence of salvage
+penectomy for positive margins and/or recurrence is 1.2%8.3%. The overall survival (OS) rate is 78.6%-91.9% and the
+
+DSS rate is 89%-96.6%. Good cosmetic outcomes are re
+ported in 95%-100% and normal erectile function in 50%100% of cases. [42] Partial or total penectomy still remain
+valid alternatives whenever adequate surgical margins
+cannot be guaranteed or when the patient is unfit for
+reconstruction after OSS.
+
+
+4 https://doi.org/10.1016/j.esmoop.2024.103481 Volume 9 [-](https://doi.org/10.1016/j.esmoop.2024.103481) [Issue 7](https://doi.org/10.1016/j.esmoop.2024.103481) [-](https://doi.org/10.1016/j.esmoop.2024.103481) [2024](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+A. Muneer et al. ESMO Open
+
+
+T3 disease. Partial penectomy or total penectomy combined with a perineal urethrostomy are the treatments of
+choice when the cancer infiltrates proximally into the
+corpus cavernosum. The penile shaft length should be
+evaluated before surgery. In the presence of an adequate
+penile shaft length, partial penectomy with an SSG or urethral advancement [43] for neo-glans reconstruction are valid
+options. For shorter penile shaft lengths or where there is a
+buried penis, total penectomy with urinary diversion via a
+perineal urethrostomy is advised. Total phallic reconstruction can be considered following subtotal or total penectomy. Radial-artery free flaps [44] and latissimus dorsi flaps [45]
+
+are the preferred options in patients with penile cancer.
+
+T4 disease. With more extensive disease, total penectomy
+with perineal urethrostomy is the recommended option.
+Toilet procedures with urinary diversion are also considered
+as palliative treatment in advanced cases when negative
+margins cannot be achieved. This allows easier wound
+management for patients in the community setting.
+
+Inguinal LN disease
+
+The inguinal LNs represent the initial site for metastatic disease in patients with penile cancer due to the stepwise
+
+
+lymphogenic spread before any haematogenic spread. The
+presence of metastatic disease in the inguinal LNs is the most
+important prognostic indicator in patients with penile cancer,
+with 5-year survival rates dropping from 90% in localised
+disease to 50% when there is regional LN involvement. [46]
+
+Thus, the clinical and pathological assessment of the
+inguinal LNs is pivotal in the management of patients diagnosed with penile cancer. A proposed algorithm for the
+management of inguinal LNs is shown in Figure 3.
+The management of the inguinal LNs depends on the
+clinical stage, which is still classified according to whether
+they are palpable or not. Accordingly, patients with impalpable inguinal LNs are classified as cN0 and those with unior bilateral palpable disease are classified as cN1-2. Cases of
+grossly enlarged or fungating inguinal LNs are classified as
+
+cN3.
+
+In patients with cN0 disease, no imaging technique has
+the desired sensitivity to detect micrometastatic disease. As
+such, the clinical management is often based on the disease
+characteristics of the primary tumour, such as pT stage,
+histological grade and the presence of lymphovascular invasion. Accordingly, cN0 patients are classified into low-,
+intermediate- and high-risk groups based on the aforementioned characteristics, [47] as shown in Supplementary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Proposed algorithm for the management of inguinal LNs.
+Purple: algorithm title; orange: surgery; turquoise: combination of treatments or treatment modalities; white: other aspects of management.
+c, clinical; ChT, chemotherapy; DSLNB, dynamic sentinel lymph node biopsy; ENE, extranodal extension; G, grade; ILND, inguinal lymph node dissection; LN, lymph node;
+N, node; PLND, pelvic lymph node dissection; RT, radiotherapy; T, tumour; Tis, carcinoma in situ.
+
+Volume 9 - Issue 7 - 2024 [https://doi.org/10.1016/j.esmoop.2024.103481](https://doi.org/10.1016/j.esmoop.2024.103481) 5
+
+ESMO Open A. Muneer et al.
+
+
+[Table S7, available at https://doi.org/10.1016/j.esmoop.](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+[2024.103481.](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+Management of cN0 disease. Treatment options for patients with cN0 disease include clinical surveillance, dynamic sentinel LN biopsy (DSLNB) followed by radical
+inguinal lymphadenectomy where there is micrometastatic
+disease detected in the sentinel node or a superficial
+modified inguinal lymphadenectomy with frozen section or
+modified inguinal lymphadenectomy when DSLNB is unavailable. As the risk of micrometastatic disease is up to
+25%, subjecting all patients with cN0 disease to an open
+lymphadenectomy procedure would be deemed as overtreatment. In patients with low-risk disease following
+observation, the 5-year crude inguinal relapse-free survival
+is 90%. [48] Given these considerations, patients with cN0 lowrisk disease should be managed with clinical surveillance,
+whereas active treatment is recommended for patients with
+intermediate- and high-risk disease. [49]
+
+DSLNB followed by radical inguinal lymphadenectomy is
+an option for patients with intermediate- or high-risk metastatic disease. [50] A proven protocol which relies on preoperative US combined with FNAC for morphologically
+abnormal LNs followed by sentinel node localisation using a
+combination of technetium-99m ( [99m] TC) nanocolloid and
+patent blue dye has a false-negative rate of 10%. [51] Colocalisation of the sentinel node with indocyanine green (ICG)
+has also been used. [52][,][53]
+
+The most comprehensive meta-analysis on DSLNB in patients with cN0 disease pooled 28 studies and reported a
+sensitivity of 87%. [54]
+
+Modified inguinal LN dissection (ILND) aims to decrease
+the morbidity associated with radical inguinal lymphadenectomy by limiting the surgical dissection to the superficial
+LNs above the fascia lata and reducing the boundaries of
+the femoral triangle. Despite the promising results and the
+lower morbidity rate, no randomised controlled trial has
+compared the false-negative rate of modified and radical
+ILNDs. Similarly, no randomised trial has compared modified
+
+ILND and DSLNB.
+
+Superficial modified inguinal lymphadenectomy reduces
+the boundary of dissection and requires intraoperative
+frozen section analysis before proceeding to a radical
+inguinal lymphadenectomy in the presence of metastatic
+nodes. Again, this is an alternative surgical option to reduce
+the post-operative morbidity.
+DSLNB is recommended in all patients with intermediateor high-risk cN0 disease. Modified ILND in patients with
+intermediate- and high-risk disease, which can be combined
+with an on-table frozen section, can be carried out when
+
+DSLNB is not available.
+
+Management of cN1-2 disease. Each groin should be
+considered as a separate unit since the lymphatic drainage
+from the penis travels bilaterally. In patients with clinically
+doubtful inguinal LN disease, FNAC or an excisional biopsy
+of the LN is recommended to confirm the diagnosis followed by radical inguinal lymphadenectomy if metastatic
+disease is confirmed.
+
+
+Radical inguinal lymphadenectomy removes the superficial and deep inguinal LNs with preservation of the long
+saphenous vein and fascia lata where possible. This is the
+recommended procedure where there are confirmed metastatic inguinal LNs.
+The morbidity associated with inguinal lymphadenectomy is high, with complication rates of up to 55% reported. [55] Where there is extensive skin involvement,
+myocutaneous flap reconstruction [56] is an option to cover
+the groin defect. Epidermal vacuum-assisted wound
+closure [57] has not shown a net benefit for preventing postoperative complications and so is not currently recommended. The outcomes from using a fascial-sparing
+approach for radical inguinal lymphadenectomy, however,
+appear to reduce the wound complication rates. [58]
+
+Minimally invasive approaches (robotic or laparoscopic)
+have demonstrated similar oncological outcomes but with
+less intraoperative blood loss, shorter hospital stay, reduced
+wound infection rates and reduced skin necrosis rates. [59]
+
+The number of patients in these series, however, is too
+small to conclude if there are any benefits in terms of
+oncological outcomes or lymphocele and lymphoedema
+
+rates.
+
+Management of cN3 disease. Bulky or ulcerated disease
+requires imaging with CT and MRI scans followed by
+multimodal treatment.
+
+Neoadjuvant chemotherapy (ChT) followed by ipsilateral
+radical inguinal and pelvic lymphadenectomy in responders
+is recommended. Contralateral procedures should be evaluated according to the clinical and pathological assessment.
+
+Pelvic LN dissection. Patients with pelvic LN metastases
+have a poorer 5-year cancer-specific survival than those
+with only inguinal LN metastases (33.2% versus 71.0%,
+respectively). [60]
+
+Ipsilateral pelvic LN metastases are more common in
+patients with two or more inguinal LN metastases, extranodal extension and metastasis with a diameter of �30
+mm. [60][,][61] A recent series also highlighted the importance of
+local tumour stage as pelvic LN metastases were present in
+44.2%, 59.0% and 58.3% of patients with pT2, pT3 and pT4
+disease, respectively. [62] More than four bilateral inguinal LN
+metastases are associated with a significantly higher risk of
+bilateral pelvic LN metastases compared with a lower
+number of inguinal LN metastases [odds ratio (OR) 14.0, CI
+1.71-115]. [63] Additionally, the belief that contralateral pelvic
+LN metastases do not occur when the inguinal LNs are
+negative on the same side has now been challenged. An LN
+yield of nine or more pelvic LNs at the time of pelvic LN
+dissection (PLND) seems to improve recurrence-free
+survival. [64]
+
+The authors recommend unilateral pelvic lymphadenectomy in patients with two or more ipsilateral inguinal metastases, metastasis diameter �30 mm or extranodal
+
+extension.
+
+Salvage ILND. After primary inguinal lymphadenectomy, the
+presence of cN3 disease, three or more pathologically
+
+
+6 https://doi.org/10.1016/j.esmoop.2024.103481 Volume 9 [-](https://doi.org/10.1016/j.esmoop.2024.103481) [Issue 7](https://doi.org/10.1016/j.esmoop.2024.103481) [-](https://doi.org/10.1016/j.esmoop.2024.103481) [2024](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+A. Muneer et al. ESMO Open
+
+
+involved LNs and extranodal extension are associated with a
+
+higher risk of inguinal recurrence. Salvage inguinal lymphadenectomy with myocutaneous flap reconstruction is an
+option in patients with recurrent inguinal disease without
+distant metastases. Surgical intervention is challenging and
+is associated with a risk of wound infection and debilitating
+lymphoedema; the reported 5-year cancer-specific survival
+was 20.9 months in the myocutaneous flap group. [65]
+
+Multimodal treatment with neoadjuvant or adjuvant ChT
+is therefore advised.
+
+RT for primary disease
+
+The optimal tumour characteristics which render a penile
+cancer best suitable for RT are superficial or exophytic lesions measuring <4 cm and located on the glans or coronal
+sulcus. [66]
+
+External beam RT. Although EBRT has the advantage of
+being widely available, [66] the use of RT to treat the primary
+lesion is reserved for selected cases. Localised lesions can
+
+be treated using orthovoltage beams or electrons of 9 MeV
+with a total dose in the range of 35 Gy delivered in 10
+fractions over 2 weeks. [67] Most patients with penile cancer
+referred to the radiation oncology department, however,
+present with advanced disease requiring external megavoltage RT as a palliative option. A tissue-equivalent bolus is
+often required to provide sufficient dose build-up to the
+surface of the lesion and three-dimensional printers are
+currently used to custom design immobilisation devices. [67] A
+typical radical external beam course consists of one daily
+fraction of about 2 Gy given as five fractions per week for 67 weeks to a total dose of 66-74 Gy. [66] Of interest, fractions
+of <2 Gy are suboptimal, possibly due to the prolongation
+of treatment time, and hypofractionation, e.g. 50-55 Gy
+delivered in 16 fractions is associated with more severe
+long-term sequelae. [66][,][67]
+
+According to findings from a literature review, which
+included an analysis of data from 19 retrospective studies,
+EBRT had a significantly worse local control rate (50%)
+compared with penectomy and brachytherapy (P < 0.001).
+This analysis, however, was limited by the retrospective
+nature of the studies and inherent selection bias of the
+data. [68] In a literature review reported by Patel and colleagues, [66] EBRT was associated with a local control rate of
+60% (range: 41%-69%).
+Acute side-effects following EBRT are penile oedema,
+radiation dermatitis and moist desquamation. [67]
+
+Long-term toxicities include penile necrosis (1%-3%),
+meatal stenosis (10%) and urethral stenosis (17%) with
+normofractionation (2 Gy per fraction), which increase
+when hypofractionation is used. [66-68]
+
+Brachytherapy. Optimal candidates for brachytherapy are
+those with disease limited to the glans that is <4 cm in
+diameter. [66] In general, brachytherapy results in 5-year local
+control rates varying between 70% and 90%, with T stage
+and tumour size being important predictors, with modest
+impact on functional outcomes and quality of life. [66][,][69]
+
+
+There are two distinct methods to carry out brachytherapy for penile cancer:
+� Low-dose-rate (LDR) or pulse-dose-rate (PDR) brachytherapy. This treatment type should be reserved for tumours confined to the glans that are <4 cm in
+diameter. In case of high-grade tumours, surgical nodal
+staging is necessary. [67] The usual dose is 60-65 Gy delivered continuously (LDR) or in hourly pulses (PDR) over 5
+days. Local control rates achieved are 85% at 5 years and
+70% at 10 years. [70]
+
+� High-dose-rate (HDR) brachytherapy. Patient selection is
+the same as for LDR. [67] Dose prescription varies between
+different series as well as the number of treatments, [67][,][71]
+
+but the most frequently proposed schedule is 42-45 Gy
+in 12-14 fractions. [72] In one of the largest series
+(N ¼ 76), actuarial local control rate at 5 years was
+66%. [73] Smaller series with mostly shorter follow-up have
+reported 5-year local control rates of 60%-100%. [67] Findings from a single-institution study from France evaluating
+clinical outcomes following HDR brachytherapy (35 Gy in
+nine fractions over 5 days) in 29 patients showed that after a median follow-up of 72 months, the 5-year local
+relapse-free survival rate was 82% and the median time
+to local recurrence was 29 months. [71] HDR brachytherapy
+has become the preferred option due to less radiation
+exposure to health care staff and family along with greater
+patient convenience. [66]
+
+In the literature review published in 2015, [68] brachytherapy had a 5% higher local relapse rate compared with
+penectomy but this was significantly lower compared with
+EBRT. Of interest, when the comparison between brachytherapy and penectomy was limited to patients presenting
+with Tis, T1 or T2 disease, there was no significant difference in terms of local control or OS. Overall, the 5-year
+penile preservation rate after brachytherapy was 74%.
+In a prospective study, 31 patients with Tis or T1 penile
+cancer were treated with HDR brachytherapy to a cumulative dose of 54 Gy in 18 fractions (two fractions per day).
+Most patients had low-grade disease. After a median followup of 117.5 months, local control rates at 5 and 10 years
+were 80.7% and 68.3%, respectively. Median time to local
+recurrence was 47 months. Salvage therapy resulted in a
+local disease control rate of 100%. [74]
+
+Penile necrosis and urethral stenosis are reported sideeffects, [67] with a mean occurrence rate of up to 33% in some
+series, [68] although other series report a much lower incidence. [74] Telangiectasia has been described in 17% [71] and
+sexual dysfunction has been reported in <20% of patients. [68] In all cases, a circumcision should be carried out
+before brachytherapy.
+
+Neoadjuvant or adjuvant therapy for locally advanced
+
+disease
+
+Cytotoxic ChT has been used as palliative treatment to
+prolong life and improve symptoms in patients with metastatic, inoperable penile cancer. More recently, it has moved
+
+
+Volume 9 - Issue 7 - 2024 [https://doi.org/10.1016/j.esmoop.2024.103481](https://doi.org/10.1016/j.esmoop.2024.103481) 7
+
+ESMO Open A. Muneer et al.
+
+
+forward in the therapeutic algorithm as an important
+perioperative treatment for patients with high-risk, locally
+advanced or node-positive disease. [75]
+
+In many other genitourinary (GU) malignancies, there is a
+clear mandate for intervention with systemic therapy in
+node-positive and/or locally advanced disease. In penile
+cancer, multimodality treatment to manage positive
+regional LNs has been controversial. Men who present with
+high-risk nodal disease, i.e. with bulky >4 cm or fixed
+regional LNs, are highly unlikely to be cured by surgery
+alone, and both ChT and RT have been considered as
+perioperative treatments to improve the chances of local
+control and to reduce the chance of metastatic progression.
+No randomised data exist currently, however, to guide the
+clinician. The InPACT trial, a multicentre international
+collaboration using a randomised Bayesian trial design, is
+currently recruiting and will establish the standard of care
+for patients with locally advanced penile cancer. [76]
+
+Several non-randomised studies have explored the efficacy of combination ChT as neoadjuvant treatment before
+surgery for bulky >4 cm, fixed or cN3 LN disease. [77][,][78] A key
+phase II study demonstrating the ability to achieve a
+meaningful response with ChT in this setting utilised
+
+e e
+cisplatin paclitaxel ifosfamide (TIP) in a 3-day regimen
+every 21 days as neoadjuvant treatment of locally advanced,
+inoperable disease. [78] This study reported a response rate of
+w50% with an acceptable toxicity profile, and importantly,
+w30% of patients were free of disease having undergone
+radical surgery at a median follow-up of 34 months. Complete responses and surgical downstaging with some longterm responders were also reported, with a complete
+pathological response rate of 13% achieved among patients
+who underwent surgery. Other non-randomised studies have
+also shown an OS benefit in patients undergoing neoadjuvant ChT for cN2 and cN3 disease. [79]
+
+Therefore, neoadjuvant ChT with up to four cycles of a
+triplet regimen, such as TIP or docetaxelecisplatinefluorouracil (TPF), in all eligible patients with locally advanced
+(T4), inoperable, primary penile or urethral SCC, [80] or those
+patients presenting with fixed inoperable regional nodes
+(cN3), [81][,][82] should be discussed. Most physicians have
+continued to advocate the importance of this intervention
+through the COVID-19 pandemic, which was also reflected
+in a European Reference Network Urogenital-Diseases section (eUROGEN) consensus statement. [83]
+
+For patients with high-risk disease (pN2-pN3), i.e. more
+than two bilateral involved inguinal LNs, the presence of
+positive pelvic LNs or extranodal extension seen on histopathology, who have undergone radical inguinal lymphadenectomy but have not received neoadjuvant ChT, the
+data are less clear.
+
+Some centres have extrapolated neoadjuvant data to use
+adjuvant ChT with four cycles TIP or platinumetaxanee5-FU.
+Published data showing the benefit of adjuvant treatment in
+patients with high-risk, node-positive disease following
+inguinal lymphadenectomy are limited to small retrospective
+cohort studies. [84-87] Multicentre studies have shown im
+provements in OS in patients with highest-risk disease,
+
+
+including those with pelvic LN involvement. [88] Conversely, a
+study from a United States National registry [89] suggested that
+receipt of adjuvant ChT in node-positive disease was not
+associated with improved OS on multivariate analysis.
+Although there continues to be a lack of prospective published data, adjuvant ChT with four cycles of TIP or TPF should
+be discussed in eligible patients with high-risk, node-positive
+penile cancer following radical lymphadenectomy who have
+not received neoadjuvant ChT before surgery.
+
+Adjuvant post-operative RT for the management of
+regional LN metastases
+
+The role of adjuvant post-operative RT is still considered
+controversial and there is a lack of prospective studies to
+guide its use. [66] A recent meta-analysis of published studies
+evaluating adjuvant RT in penile cancer concluded that
+there was no OS benefit or reduction in relapse rate
+afforded by the addition of adjuvant RT and therefore no
+good evidence to support its use in routine practice. The
+data reported in this meta-analysis, however, were heterogenous in terms of radiation dosage and indication and
+may not reflect current standards. Moreover, there has
+been some positive evidence reported supporting the use
+of adjuvant RT in high-risk node-positive disease. [90]
+
+An analysis of the United States National Cancer Database demonstrated an OS benefit, both at 3 and 5 years, in
+favour of adjuvant RT [hazard ratio (HR) 0.58]. This benefit
+was driven by patients presenting with N2 disease and was
+absent in patients presenting with N1 disease. [91] This
+benefit was confirmed by Tang et al., [92] who demonstrated a
+significant OS benefit of 4 months when adjuvant pelvic RT
+was applied in patients presenting with positive pelvic LNs
+after PLND. HPV-positive patients receiving post-operative
+RT to the LNs had a significantly longer OS compared
+with those with an HPV-negative status. This difference
+amounted to 23 months and 32 months at 5 and 7 years of
+follow-up, respectively. [32] These differences in OS also held
+true after propensity score-matching (P ¼ 0.006).
+The recommended dose is 50 Gy in 2 Gy fractions [86][,][92] or
+a biological equivalent dose at 1.8 Gy fractions. This dose
+has been questioned by Johnstone et al., [93] however, who
+suggested that a dose of up to 66 Gy (2 Gy per fraction)
+might be necessary to achieve sufficiently high local control
+rates. This dose-response relationship was also suggested by
+Ager at al., [94] who concluded that a dose �50 Gy resulted in
+more in-field recurrences compared with >50 Gy (31%
+versus 14%). There are no arguments to support hypofractionation. Although studies in other SCCs of the perineal
+area, e.g. vulvar and anal cancer, have demonstrated the
+efficacy of chemoradiotherapy (CRT) regimens, prospective
+studies of such strategies are unavailable in penile cancer.
+In patients presenting with pN3 disease, defined in this
+particular study as those having positive inguinal LNs with
+extracapsular extension, adjuvant CRT significantly improved
+3-year cause-specific survival (CSS) compared with adjuvant
+ChT alone (29% versus 16%; P ¼ 0.036), corresponding to a
+CSS benefit of nearly 8 months. In a multivariate analysis, the
+
+
+8 https://doi.org/10.1016/j.esmoop.2024.103481 Volume 9 [-](https://doi.org/10.1016/j.esmoop.2024.103481) [Issue 7](https://doi.org/10.1016/j.esmoop.2024.103481) [-](https://doi.org/10.1016/j.esmoop.2024.103481) [2024](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+A. Muneer et al. ESMO Open
+
+
+use of CRT was the only significant predictor for CSS. [95] These
+results were confirmed in a single-institution study from India, [86] where adjuvant multimodality treatment with CRT
+resulted in the highest 2-year OS rate compared with singlemodality treatment or no treatment (75% versus 67% and
+28%, respectively). Similar differences were observed for 2year disease-free survival (DFS; 73% versus 54% and 16%,
+respectively). Of note, single-modality RT resulted in a superior 2-year OS and DFS compared with single-modality
+cisplatin-based ChT (81% versus 57% and 68% versus 44%,
+respectively).
+Jaipuria et al. conducted a retrospective analysis based
+on 45 patients presenting with positive inguinal LNs after LN
+dissection. [96] Most patients had pN3 disease (extracapsular
+extension) and 13 also presented with positive pelvic LNs. In
+patients with positive groin but negative pelvic LNs, adjuvant RT resulted in a better OS compared with adjuvant ChT.
+This advantage disappeared, however, in the presence of
+positive pelvic LNs.
+Adjuvant RT is associated with the development of lower
+limb lymphoedema in approximately half of patients undergoing treatment. This can also impact ambulation in a
+significant proportion of patients. [96]
+
+Thus, although contradictory evidence exists for the efficacy of adjuvant RT, for patients with involved inguinal
+and/or pelvic LNs, it remains a reasonable approach and
+should be considered as a tool in the post-operative management of patients with high-risk node-positive disease.
+There remains a lack of consensus as to which patients
+benefit the most from this approach and prospective clinical
+trial data are needed to inform decision making for both
+clinicians and patients.
+
+Recommendations
+
+PeIN
+
+� Circumcision is recommended as the initial treatment in
+
+any biopsy-proven PeIN located on the glans or prepuce
+
+[IV, A].
+� Following circumcision, any residual PeIN can be treated
+using topical agents, such as 5-FU or imiquimod. Alternatively, CO 2 laser ablation can be used [IV, B].
+
+Ta-1 disease
+
+� Wide local excision of lesions involving the glans or a
+glans resurfacing procedure is recommended, with
+reconstruction using SSG or penile shaft skin [IV, A].
+� Clinicians may carry out Mohs micrographic surgery for
+low-grade penile lesions (T1) but only if the right clinical
+set-up, including a pathologist, is available [IV, C].
+� Brachytherapy is an alternative to surgery in pT1 disease
+and patients should be referred to specialist centres for
+multidisciplinary consideration of the suitability of surgery or brachytherapy in this context [III, A].
+
+T2-4 disease
+
+� In T2 tumours of the glans penis, glansectomy with or
+without distal urethrectomy and SSG reconstruction is
+recommended [III, A].
+
+
+� In selected patients with low-volume T1-T2 disease,
+brachytherapy is an option in specialist centres [III, B].
+� Partial or total penectomy with perineal urethrostomy is
+recommended where the cancer infiltrates proximally
+into the corpus cavernosum (T3-T4) [IV, A].
+
+cN0 disease
+
+� Clinical surveillance of the inguinal nodes is recommended in patients presenting with cN0 tumours with lowrisk features (pTa/pTis and pT1G1) [III, A].
+� For patients with cN0 intermediate or high-risk disease
+(pT1G2, pT1-4G3/G4 or lymphovascular invasion), DSLNB
+should be carried out before proceeding to a radical
+inguinal lymphadenectomy in the presence of metastatic
+nodes [III, A].
+
+cN1-2 disease
+
+� In patients with cN1-2 disease, radical inguinal lymphadenectomy is recommended to remove the superficial
+and deep inguinal LNs with preservation of the long
+saphenous vein and the fascia lata where possible [III, A].
+
+cN3 disease
+
+� For bulky or ulcerated disease (cN3), neoadjuvant ChT
+followed by ipsilateral radical inguinal lymphadenectomy, with or without pelvic lymphadenectomy in responders, should be discussed for eligible patients [II, B].
+
+PLND
+
+� Unilateral pelvic lymphadenectomy is recommended in
+patients with two or more ipsilateral inguinal metastases, metastasis with a diameter of �30 mm or extranodal extension [III, A].
+
+Salvage ILND
+
+� Clinicians may recommend salvage inguinal lymphadenectomy with myocutaneous flap reconstruction in
+recurrent inguinal disease [IV, B]. Salvage ILND should
+be considered as part of multimodal treatment which
+should also include neoadjuvant or adjuvant ChT [III, A].
+
+RT for primary disease
+
+� A typical EBRT course is 66-74 Gy in 2 Gy fractions, five
+times per week [III, C].
+� Physicians in specialist centres may recommend LDR or
+HDR brachytherapy for the treatment of penile cancer,
+especially if surgery is not an option [III, C].
+o The usual dose is 60-65 Gy delivered continuously (LDR)
+or in hourly pulses (PDR) over 5 days and 35 Gy in nine
+fractions over 5 days for HDR brachytherapy [III, B].
+o Low-volume residual disease can be treated with
+
+38.4 Gy in 12 fractions but for intact tumours, the
+most frequently proposed schedule is 42-45 Gy in
+12-14 fractions [III, C].
+
+Systemic therapy for locally advanced disease
+
+� Patients with cN3 fixed nodes should be considered for
+
+neoadjuvant ChT with triplet regimens such as TIP or
+TPF [III, B].
+
+
+Volume 9 - Issue 7 - 2024 [https://doi.org/10.1016/j.esmoop.2024.103481](https://doi.org/10.1016/j.esmoop.2024.103481) 9
+
+ESMO Open A. Muneer et al.
+
+
+� Responders should be considered for consolidation surgery (bilateral and deep ILND and ipsilateral PLND if
+possible) [III, C].
+� Patients with disease progression or unresectable LNs
+may consider additional systemic ChT, local-field RT or
+participation in a clinical trial [III, C].
+� Patients with pN2 and pN3 disease following LND should
+be considered for adjuvant ChT following surgery [III, B].
+
+Adjuvant post-operative RT for regional LN metastases
+
+� Clinicians may consider the use of adjuvant RT with at
+least 50 Gy in 2 Gy fractions or a biological equivalent
+dose in 1.8 Gy fractions in combination with adjuvant
+ChT in patients with pN3 disease [III, B]. Higher doses
+up to 66 Gy have also been recommended.
+
+MANAGEMENT OF ADVANCED AND METASTATIC DISEASE
+
+Recurrent disease
+
+Patients can develop recurrent disease at the site of the
+primary tumour or within the inguinal areas. When feasible,
+further surgery can help palliate these patients and allow
+easier wound management. Inoperable cases, however,
+present a challenge. Recurrent disease on the glans without
+corpus cavernosum invasion can be managed with wide
+local excision, distal corporectomy, or in selected cases,
+brachytherapy may be an option. More extensive disease
+involving the corpus cavernosum may require a partial or
+total penectomy.
+
+Palliative ChT for metastatic disease
+
+In the presence of metastatic inoperable disease, ChT has
+been used as a palliative intervention to improve symptoms
+and prolong life. Platinum-based ChT is the classical backbone of therapy for metastatic disease, with regimens often
+utilised that have demonstrated activity in other GU cancers
+
+e
+or SCCs. Older regimens, such as methotrexate bleomycinecisplatin, [85] have been largely superseded due to concerns over toxicity. [97] The most commonly utilised
+approaches include cisplatine5-FU, with a median
+progression-free survival (PFS) of 20 weeks and an OS of
+8 months, [98] and platinumetaxane. [99] The use of such regimens in penile cancer have been associated with partial
+response or clinical benefit rates of 20%-40%, and rarely,
+profound durable responses have also been reported. There
+is also evidence for the efficacy of triplet regimens. A UK
+study of the regimen TPF reported a response rate of 38%
+and a grade 3-4 toxicity rate of 63%. [100] As mentioned
+earlier, a study which used TIP as a 3-day regimen every 21
+days for the neoadjuvant treatment of inoperable disease
+reported a response rate of w50% and an acceptable
+toxicity profile. [78] Newer first-line studies have included the
+vinca alkaloid vinflunine, with an overall clinical benefit rate
+of 45% and a response rate of 27% reported in this
+setting. [101] A phase II study of the pan-human epidermal
+growth factor receptor (HER) tyrosine kinase inhibitor
+dacomitinib reported a response rate of 33% with an
+
+
+acceptable toxicity profile and a median 12-month PFS of
+26%. [102] The phase II or retrospective nature of the studies
+reported to-date, along with their small sample sizes, and
+the lack of any randomised clinical trials comparing
+different regimens, however, preclude the identification of a
+superior drug regimen for the first-line treatment of patients with distant metastatic disease.
+
+First-line cisplatin-based combination ChT, selected based
+on patient comorbidities and Eastern Cooperative Oncology
+Group (ECOG) performance status (PS), is recommended for
+the treatment of metastatic disease. Cisplatin plus 5-FU,
+carboplatin plus paclitaxel, TIP and TPF are reasonable
+choices for first-line systemic therapy in patients considered
+fit enough. Following failure of first-line ChT, median OS in
+patients with metastatic penile SCC is only 6-8 months.
+There are very limited data on the use of systemic therapies
+in the second-line setting. Single-agent paclitaxel has been
+used in the second-line setting as it is well tolerated and
+was associated with a median OS of 23 weeks in a small
+phase II study. [103] A retrospective review evaluating secondline treatment with epidermal growth factor receptortargeted therapy (mostly cetuximab) reported a median
+OS of 29.6 weeks. [104]
+
+Molecular profiling and immunotherapy
+
+Although no immunotherapy is currently licensed in unselected patients with penile cancer, preclinical work has
+shown that penile SCC expresses programmed death-ligand
+1 (PD-L1) and may be amenable to therapeutic intervention
+with PD-L1-targeted immunotherapies that have been successful in other GU cancers. [105] The anti-PD-L1 agent cemiplimab has been approved by the United States Food and
+Drug Administration (FDA) for patients with cutaneous,
+inoperable SCC following results from a phase II trial which
+reported a response rate of 47%. Although cutaneous SCC is
+a malignancy with a different aetiology and pathogenesis,
+these cancers have a high tumour mutational burden
+(TMB), which has been associated with a higher likelihood
+of response to immunotherapy. [106] The unselected phase II
+PERICLES trial, evaluating atezolizumab with or without RT
+in 32 patients with advanced penile SCC, reported a median
+PFS of 2.6 months (2.6 months in the atezolizumab mono
+e
+therapy arm and 3.9 months in the atezolizumab RT arm),
+a median OS of 11.3 months (8.9 months in the atezolizumab monotherapy arm and 12.0 months in the
+atezolizumabeRT arm) and a response rate of 16.7% in both
+treatment arms. [107] Responses to other immune checkpoint
+inhibitors (ICIs) have been observed in patients with metastatic penile cancer. Recent data from the Global Society of
+Rare Genitourinary Tumors (GSRGT) retrospective study [108]
+
+has reported response rates to immune checkpoint therapy in the first- and second-line setting in metastatic penile
+cancer. Among 66 assessable patients, the overall disease
+control rate was 35%, including seven complete and partial
+responses. Toxicity was comparable to that seen in other GU
+malignancies. Patients with penile cancer have also been
+included in basket trials of rare GU cancers. In one cohort, a
+
+
+10 https://doi.org/10.1016/j.esmoop.2024.103481 Volume 9 [-](https://doi.org/10.1016/j.esmoop.2024.103481) [Issue 7](https://doi.org/10.1016/j.esmoop.2024.103481) [-](https://doi.org/10.1016/j.esmoop.2024.103481) [2024](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+A. Muneer et al. ESMO Open
+
+
+response was seen in one patient with a high TMB, [109] and
+in another, a response was seen in a patient with a microsatellite instability-high (MSI-H) tumour. [110] Pembrolizumab has an FDA approval in a tumour-agnostic
+setting based on the responses seen across tumour types in
+patients with unresectable or metastatic MSI-H or mismatch
+repair deficient (dMMR) solid tumours as well as those with
+a high TMB status. [111] Ongoing trials will elucidate the role
+of immunotherapy in an unselected penile cancer patient
+population and its utility in combination with ChT. Early
+data therefore suggest that although the response rate to
+immunotherapy in an unselected population is not high, it
+may be a useful strategy, even in chemo-resistant disease,
+as a potential option in patients whose tumours have the
+genomic characteristics of TMB high, MSI-H or dMMR.
+In health care settings where there is coverage for
+genomic testing and the provision of licensed tumouragnostic therapies, such therapies may be considered for
+eligible patients whose tumours are resistant to standard
+[therapies (see Supplementary Table S8, available at https://](https://doi.org/10.1016/j.esmoop.2024.103481)
+[doi.org/10.1016/j.esmoop.2024.103481).](https://doi.org/10.1016/j.esmoop.2024.103481) Without insurance coverage, however, these treatments are very expensive and may be financially challenging to the patient and
+their family.
+
+Histopathological subtypes
+
+There is some evidence to suggest that poorer outcomes
+are seen in certain subtypes of penile SCC. Across various
+GU malignancies, sarcomatoid SCC has been associated with
+a more aggressive disease course and tempo, with a propensity for early metastatic disease. This aggressive behaviour has also been reported in penile SCC. [112] There is
+currently no evidence to suggest that the earlier use of
+systemic therapy for the management of these tumour
+subtypes provides a benefit, but given the poor outcome if
+left untreated, it remains reasonable to consider ChT in this
+rare group of patients.
+
+Recommendations
+
+Recurrent disease
+
+� For recurrences without invasion of the corpora cavernosa, salvage penile-sparing options can be considered
+
+[IV, C].
+� Invasion of the corpora cavernosa warrants partial or total penectomy [IV, B].
+� For regional recurrences in the inguinal and pelvic LNs,
+consider systemic ChT, EBRT, surgery or a combination
+
+[III, C].
+
+Metastatic penile cancer
+
+� Treatment options for patients with metastatic penile
+cancer include systemic ChT with platinum-based combination regimens e.g. cisplatine5FU, carboplatine
+paclitaxel, TIP or TPF, depending on the patient’s comorbidities, fitness and ECOG PS. Clinical trial enrolment is
+strongly recommended [III, C].
+
+
+o For those with no response or disease progression,
+second-line systemic ChT or RT for local control and/
+or best supportive care or a clinical trial may be
+considered [IV, C].
+� Palliative RT or RT with concurrent ChT for sites requiring
+local control should be considered [V, C].
+
+Molecular profiling
+
+� Biomarker-selected clinical trials should be considered
+
+where available [V, C].
+� In selected patients whose tumours have a high TMB,
+MSI-H or dMMR, the use of anti-PD-L1 immunotherapy
+can be considered [V, C].
+
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND
+
+SURVIVORSHIP
+
+The aim of follow-up of patients with penile cancer after
+treatment is to detect local, regional and/or distant recurrence. Most recurrences develop within 5 years of primary
+treatment, with the majority detected within 2 years.
+Published data from a retrospective study of 700 patients
+showed that 66% of local recurrences, 86% of regional
+recurrence and all distant recurrences were detected within
+the first 2 years. [113] Thus, close clinical follow-up is required
+for the first 2 years after surgery.
+As penile-preserving techniques have now become
+standard of care, close clinical follow-up is required as
+recurrence rates are 20%-50%. If detected early, further
+surgery does not impact on the DSS.
+The risk of regional recurrence is largely dependent on
+whether the patient’s disease is staged as pN0 or pNþ, as
+well as the surgical technique used to remove the LNs.
+DSLNB removes very few inguinal LNs and the falsenegative rate is w10%. pNþ disease can have a recurrence rate of 20%-40%, [114] however, and requires close
+surveillance. Unlike recurrent disease at the site of the
+
+primary tumour, regional recurrence does have a negative
+impact on DSS.
+Risk of distant recurrence is largely dependent on the
+primary tumour histological subtype and the presence of
+pathological LNs in the inguinal region. The presence of
+distant disease in penile cancer is a poor prognostic indicator due to the poor response to adjuvant treatment.
+Regular follow-up also allows patients to access psychological support and address urinary and sexual dysfunction
+as a result of the surgical interventions. Inguinal and pelvic
+lymphadenectomy is also associated with lower limb lymphoedema. Thus, dedicated lymphoedema teams can help
+reduce the risk of recurrent cellulitis, help with mobility and
+reduce the extent of lower limb and genital swelling.
+
+Recommendations
+
+� Close follow-up every 3-4 months for the first 2 years
+following primary surgery is required to detect local
+recurrence [IV, A].
+
+
+Volume 9 - Issue 7 - 2024 [https://doi.org/10.1016/j.esmoop.2024.103481](https://doi.org/10.1016/j.esmoop.2024.103481) 11
+
+ESMO Open A. Muneer et al.
+
+
+� Follow-up should include clinical examination as well as
+imaging, which may include US of the inguinal LNs if
+the patient has undergone DSLNB or regular CT surveillance if the patient has undergone radical inguinal lymphadenectomy for pNþ disease [IV, A].
+� Regular follow-up can provide psychological support and
+address sexual and urinary dysfunction as well as
+lymphoedema-related complications [IV, A].
+
+METHODOLOGY
+
+This Clinical Practice Guideline (CPG) was developed in
+accordance with the ESMO standard operating procedures
+[for CPG development (https://www.esmo.org/Guidelines/](https://www.esmo.org/Guidelines/ESMO-Guidelines-Methodology)
+[ESMO-Guidelines-Methodology). The](https://www.esmo.org/Guidelines/ESMO-Guidelines-Methodology) relevant literature
+has been selected by the expert authors. The FDA/EMA or
+other regulatory body approval status of new therapies/
+indications is reported at the time of writing this CPG.
+Levels of evidence and grades of recommendation have
+been applied using the system shown in Supplementary
+[Table S9, available at https://doi.org/10.1016/j.esmoop.](https://doi.org/10.1016/j.esmoop.2024.103481)
+[2024.103481.](https://doi.org/10.1016/j.esmoop.2024.103481) [115] Statements without grading were considered justified standard clinical practice by the authors. For
+future updates to this CPG, including eUpdates and Living
+Guidelines, please see the ESMO Guidelines website:
+[https://www.esmo.org/guidelines/guidelines-by-topic/geni](https://www.esmo.org/guidelines/guidelines-by-topic/genitourinary-cancers/penile-cancer)
+[tourinary-cancers/penile-cancer.](https://www.esmo.org/guidelines/guidelines-by-topic/genitourinary-cancers/penile-cancer)
+
+ACKNOWLEDGEMENTS
+
+Asif Muneer is supported by the NIHR Biomedical Research
+Centre University College London Hospital. Manuscript
+editing support was provided by Jennifer Lamarre and Claire
+Bramley (ESMO Guidelines staff) and Angela Corstorphine
+of Kstorfin Medical Communications Ltd (KMC); this support
+was funded by ESMO.
+
+FUNDING
+
+No external funding has been received for the preparation
+of this guideline. Production costs have been covered by
+ESMO from central funds.
+
+DISCLOSURE
+
+AM reports personal fees as an invited speaker for Boston
+Scientific and Coloplast; personal travel grants from Coloplast; and institutional research grants from Bayer (unrestricted) and National Institute for Health and Care Research
+(penile cancer trial).
+MB reports personal travel grants from Centro Chirurgico Toscano (CCT); personal travel/expenses grants
+from the European Association of Urology (EAU)-Young
+Academic Urologists working group penile cancer; institutional fees as an invited speaker for Atena Congressi; an
+institutional research grant as a PhD student from Ministero Della Salute Italiano; membership of the Board of
+Directors of the EAU-Young Academic Urologists working
+group penile cancer; non-remunerated membership of
+EAU, the GSRGT, the International Society of
+
+
+Reconstructive Urology (ISORU), the Società Italiana di
+Andrologia and the Società Italiana di Urologia; and a nonremunerated advisory role as a co-principal investigator
+(PI) for the EAU-Research Foundation.
+EC reports personal fees as an invited speaker for Janssen; and a non-remunerated advisory role as consulting
+pathologist for the EAU Guidelines on Bladder Cancer.
+GdM reports institutional fees as an advisory board
+member for Ferring and Janssen; institutional fees an
+invited speaker for Astellas, Bayer and Ipsen; and a nonremunerated role as a PI for Astellas and Ipsen.
+KF reports personal fees as an advisory board member for
+Arvinas, CureVac, MacroGenics and Orion; institutional fees
+as an advisory board member for AAA, Astellas, AstraZeneca, Bayer, Daiichi Sankyo, Janssen, MSD, Novartis/AAA
+and Pfizer; institutional fees as an invited speaker for
+Astellas, AstraZeneca, Bayer, Janssen, MSD, Novartis, Pfizer
+and Sanofi; institutional research grants as Trial Chair from
+AstraZeneca, Bayer, Bristol Myers Squibb (BMS), Janssen,
+MSD, Orion and Pfizer; and non-remunerated roles as a PI
+and Trial Chair for AstraZeneca, Bayer, BMS, Clovis, Merck,
+Novartis/AAA, Orion and Pfizer.
+JG reports institutional research grants from AbbVie,
+Roche and Siemens.
+
+SG reports personal fees as an advisory board member
+for MSD and Sanofi; personal fees as an invited speaker for
+DESO, the Swiss Group for Clinical Cancer Research (SAKK)
+and the Swiss Academy of Multidisciplinary Oncology
+(SAMO) - International Breast Cancer Study Group (IBCSG);
+personal travel grants from AstraZeneca and Bayer; other
+personal fees from Radiotelevisione Svizzera (RSI; Swiss
+television); institutional fees as an advisory board member
+for AAA International, Amgen, AstraZeneca, Bayer, BMS,
+Boehringer Ingelheim, Daiichi Sankyo, Innomedica, Modra
+Pharmaceuticals Holding B.V., MSD, Myriad Genetics,
+Novartis, Orion and Telix Pharma; institutional fees as an
+invited speaker for ESMO, Ipsen, SAKK, Silvio Grasso
+Consulting, the Swiss Society of Medical Oncology and
+TOLREMO; institutional funding as a co-investigator from
+Astellas; other institutional fees from Amgen (Steering
+Committee membership), PeerVoice (interview) and
+WebMD-Medscape (faculty activity); and a nonremunerated advisory role for ProteoMediX.
+VS reports personal fees as an advisory board member
+for BMS and Vaccitech; stocks/shares of Axsome Therapeutics; and a non-remunerated advisory role for NHS
+England.
+CA reports personal fees as a consultant for Astellas; and
+a non-remunerated role as a PI for AstraZeneca, BMS and
+
+Regeneron.
+TP reports personal fees for advisory board membership
+from Astellas, AstraZeneca, BMS, Eisai, Exelixis, Gilead,
+Incyte, Ipsen, Johnson & Johnson, Merck, Merck Serono,
+MSD, Novartis, Pfizer, Roche and Seattle Genetics; personal
+travel grants from AstraZeneca, Ipsen, MSD, Pfizer and
+Roche; personal sponsorship for the Uromigos Podcast from
+Mashup Ltd and institutional research grants from Astellas,
+AstraZeneca, BMS, Eisai, Exelixis, Gilead, Ipsen, Johnson &
+
+
+12 https://doi.org/10.1016/j.esmoop.2024.103481 Volume 9 [-](https://doi.org/10.1016/j.esmoop.2024.103481) [Issue 7](https://doi.org/10.1016/j.esmoop.2024.103481) [-](https://doi.org/10.1016/j.esmoop.2024.103481) [2024](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+A. Muneer et al. ESMO Open
+
+
+Johnson, Merck, Merck Serono, MSD, Novartis, Pfizer, Roche
+
+and Seattle Genetics.
+
+AK declares no conflicts of interest.
+
+REFERENCES
+
+1. World Health Organization. International Agency for Research on
+[Cancer. 2022. Available at. Cancer today https://gco.iarc.fr/today/](https://gco.iarc.fr/today/home)
+[home. Accessed December 14, 2022.](https://gco.iarc.fr/today/home)
+
+[2. Barnholtz-Sloan JS, Maldonado JL, Pow-sang J, et al. Incidence trends](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref2)
+[in primary malignant penile cancer. Urol Oncol. 2007;25(5):361-367.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref2)
+[3. Bandini M, Ahmed M, Basile G, et al. A global approach to improving](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref3)
+[penile cancer care. Nat Rev Urol. 2022;19(4):231-239.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref3)
+[4. Christodoulidou M, Sahdev V, Houssein S, et al. Epidemiology of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref4)
+[penile cancer. Curr Probl Cancer. 2015;39(3):126-136.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref4)
+[5. Olesen TB, Sand FL, Rasmussen CL, et al. Prevalence of human](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref5)
+[papillomavirus DNA and p16(INK4a) in penile cancer and penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref5)
+[intraepithelial neoplasia: a systematic review and meta-analysis.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref5)
+[Lancet Oncol. 2019;20(1):145-158.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref5)
+[6. Backes DM, Kurman RJ, Pimenta JM, et al. Systematic review of hu-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref6)
+[man papillomavirus prevalence in invasive penile cancer. Cancer](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref6)
+[Causes Control. 2009;20(4):449-457.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref6)
+[7. Wendland EM, Caierão J, Domingues C, et al. POP-Brazil study pro-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref7)
+[tocol: a nationwide cross-sectional evaluation of the prevalence and](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref7)
+[genotype distribution of human papillomavirus (HPV) in Brazil. BMJ](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref7)
+[Open. 2018;8(6):e021170.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref7)
+[8. Perceau G, Derancourt C, Clavel C, et al. Lichen sclerosus is frequently](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref8)
+[present in penile squamous cell carcinomas but is not always asso-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref8)
+[ciated with oncogenic human papillomavirus. Br J Dermatol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref8)
+[2003;148(5):934-938.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref8)
+[9. Kravvas G, Shim TN, Doiron PR, et al. The diagnosis and management](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref9)
+[of male genital lichen sclerosus: a retrospective review of 301 pa-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref9)
+[tients. J Eur Acad Dermatol Venereol. 2018;32(1):91-95.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref9)
+[10. Kirkham A. MRI of the penis. Spec No 1. Br J Radiol. 2012;85(Spec Iss](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref10)
+[1):S86-S93.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref10)
+[11. Kayes O, Minhas S, Allen C, et al. The role of magnetic resonance](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref11)
+[imaging in the local staging of penile cancer. Eur Urol. 2007;51(5):](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref11)
+
+[1313-1318. discussion 1318-1319.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref11)
+
+[12. Bozzini G, Provenzano M, Romero Otero J, et al. Role of penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref12)
+[doppler US in the preoperative assessment of penile squamous cell](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref12)
+[carcinoma patients: results from a large prospective multicenter](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref12)
+[European study. Urology. 2016;90:131-135.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref12)
+[13. Horenblas S, van Tinteren H. Squamous cell carcinoma of the penis.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref13)
+[IV. Prognostic factors of survival: analysis of tumor, nodes and](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref13)
+[metastasis classification system. J Urol. 1994;151(5):1239-1243.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref13)
+[14. Graafland NM, Leijte JA, Olmos RA, et al. Repeat dynamic sentinel](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref14)
+node biopsy in locally [recurrent](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref14) penile carcinoma. BJU Int.
+[2010;105(8):1121-1124.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref14)
+[15. Senthil Kumar MP, Ananthakrishnan N, Prema V. Predicting regional](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref15)
+[lymph node metastasis in carcinoma of the penis: a comparison](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref15)
+[between fine-needle aspiration cytology, sentinel lymph node biopsy](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref15)
+[and medial inguinal lymph node biopsy. Br J Urol. 1998;81(3):453-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref15)
+
+[457.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref15)
+
+[16. Sadeghi R, Gholami H, Zakavi SR, et al. Accuracy of 18F-FDG PET/CT](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref16)
+[for diagnosing inguinal lymph node involvement in penile squamous](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref16)
+[cell carcinoma: systematic review and meta-analysis of the literature.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref16)
+[Clin Nucl Med. 2012;37(5):436-441.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref16)
+[17. Compérat E, Varinot J, Eymerit C, et al. [Comparison of UICC and AJCC](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref17)
+[8th edition TNM classifications in uropathology]. Ann Pathol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref17)
+[2019;39(2):158-166.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref17)
+[18. Paner GP, Stadler WM, Hansel DE, et al. Updates in the eighth edition](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref18)
+[of the tumor-node-metastasis staging classification for urologic can-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref18)
+[cers. Eur Urol. 2018;73(4):560-569.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref18)
+[19. Amin MB, Edge S, Greene F, et al., editors. AJCC Cancer Staging](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref19)
+[Manual. New York, NY: Springer; 2017.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref19)
+[20. Brierley JD, Gospodarowicz MK, Wittekind C, editors. UICC TNM](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref20ad)
+[Classification of Malignant Tumours. 8th ed. Oxford, UK: Wiley-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref20ad)
+[Blackwell; 2017.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref20ad)
+
+
+[21. Moch H, Amin MB, Berney DM, et al. The 2022 World Health Orga-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref21)
+[nization classification of tumours of the urinary system and male](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref21)
+[genital organs-part A: renal, penile, and testicular tumours. Eur Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref21)
+[2022;82(5):458-468.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref21)
+[22. Moch H, Cubilla AL, Humphrey PA, et al. The 2016 WHO classification](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref22)
+[of tumours of the urinary system and male genital organs-part A:](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref22)
+[renal, renile, and testicular tumours. Eur Urol. 2016;70(1):93-105.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref22)
+[23. Cupp MR, Malek RS, Goellner JR, et al. The detection of human papil-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref23)
+[lomavirus deoxyribonucleic acid in intraepithelial, in situ, verrucous and](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref23)
+[invasive carcinoma of the penis. J Urol. 1995;154(3):1024-1029.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref23)
+[24. Barreto JE, Velazquez EF, Ayala E, et al. Carcinoma cuniculatum: a](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref24)
+[distinctive variant of penile squamous cell carcinoma: report of 7](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref24)
+[cases. Am J Surg Pathol. 2007;31(1):71-75.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref24)
+[25. Chaux A, Reuter V, Lezcano C, et al. Comparison of morphologic](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref25)
+
+[features and outcome of resected recurrent and nonrecurrent](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref25)
+
+[squamous cell carcinoma of the penis: a study of 81 cases. Am J Surg](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref25)
+[Pathol. 2009;33(9):1299-1306.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref25)
+[26. Cubilla AL, Lloveras B, Alemany L, et al. Basaloid squamous cell car-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref26)
+[cinoma of the penis with papillary features: a clinicopathologic study](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref26)
+[of 12 cases. Am J Surg Pathol. 2012;36(6):869-875.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref26)
+[27. Yorita K, Kuroda N, Naroda T, et al. Penile warty mucoepidermoid](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref27)
+[carcinoma with features of stratified mucin-producing intra-epithelial](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref27)
+[lesion and invasive stratified mucin-producing carcinoma. Histopa-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref27)
+[thology. 2018;72(5):867-873.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref27)
+[28. Manipadam MT, Bhagat SK, Gopalakrishnan G, et al. Warty carcinoma](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref28)
+[of the penis: a clinicopathological study from South India. Indian J](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref28)
+[Urol. 2013;29(4):282-287.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref28)
+[29. Sanchez DF, Rodriguez IM, Piris A, et al. Clear cell carcinoma of the](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref29)
+[penis: an HPV-related variant of squamous cell carcinoma: a report of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref29)
+[3 cases. Am J Surg Pathol. 2016;40(7):917-922.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref29)
+[30. Mentrikoski MJ, Frierson HF Jr, Stelow EB, et al. Lymphoepithelioma-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref30)
+[like carcinoma of the penis: association with human papilloma virus](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref30)
+[infection. Histopathology. 2014;64(2):312-315.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref30)
+[31. Yuan Z, Naghavi AO, Tang D, et al. The relationship between HPV](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref31)
+[status and chemoradiotherapy in the locoregional control of penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref31)
+[cancer. World J Urol. 2018;36(9):1431-1440.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref31)
+[32. Bandini M, Ross JS, Zhu Y, et al. Association between human papil-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref32)
+[lomavirus infection and outcome of perioperative nodal radiotherapy](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref32)
+[for penile carcinoma. Eur Urol Oncol. 2021;4(5):802-810.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref32)
+[33. Alnajjar HM, Lam W, Bolgeri M, et al. Treatment of carcinoma in situ](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref33)
+[of the glans penis with topical chemotherapy agents. Eur Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref33)
+[2012;62(5):923-928.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref33)
+[34. Tang DH, Yan S, Ottenhof SR, et al. Laser ablation as monotherapy for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref34)
+[penile squamous cell carcinoma: a multi-center cohort analysis. Urol](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref34)
+[Oncol. 2018;36(4):147-152.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref34)
+[35. van Bezooijen BP, Horenblas S, Meinhardt W, et al. Laser therapy for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref35)
+[carcinoma in situ of the penis. J Urol. 2001;166(5):1670-1671.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref35)
+[36. Harder T, Wichmann O, Klug SJ, et al. Efficacy, effectiveness and safety](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref36)
+[of vaccination against human papillomavirus in males: a systematic](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref36)
+[review. BMC Med. 2018;16(1):110.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref36)
+[37. Philippou P, Shabbir M, Malone P, et al. Conservative surgery for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref37)
+[squamous cell carcinoma of the penis: resection margins and long-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref37)
+[term oncological control. J Urol. 2012;188(3):803-808.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref37)
+[38. O’Kelly F, Lonergan P, Lundon D, et al. A prospective study of total](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref38)
+[glans resurfacing for localized penile cancer to maximize oncologic](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref38)
+[and functional outcomes in a tertiary referral network. J Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref38)
+[2017;197(5):1258-1263.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref38)
+[39. Chipollini J, Yan S, Ottenhof SR, et al. Surgical management of penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref39)
+[carcinoma in situ: results from an international collaborative study](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref39)
+[and review of the literature. BJU Int. 2018;121(3):393-398.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref39)
+[40. Shabbir M, Muneer A, Kalsi J, et al. Glans resurfacing for the treat-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref40)
+[ment of carcinoma in situ of the penis: surgical technique and out-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref40)
+[comes. Eur Urol. 2011;59(1):142-147.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref40)
+[41. Shindel AW, Mann MW, Lev RY, et al. Mohs micrographic surgery for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref41)
+penile cancer: management [and](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref41) long-term followup. J Urol.
+[2007;178(5):1980-1985.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref41)
+[42. Pang KH, Muneer A, Alnajjar HM. Glansectomy and reconstruction for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref42)
+[penile cancer: a systematic review. Eur Urol Focus. 2022;8(5):1318-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref42)
+
+[1322.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref42)
+
+
+Volume 9 - Issue 7 - 2024 [https://doi.org/10.1016/j.esmoop.2024.103481](https://doi.org/10.1016/j.esmoop.2024.103481) 13
+
+ESMO Open A. Muneer et al.
+
+
+[43. Belinky JJ, Cheliz GM, Graziano CA, et al. Glanuloplasty with urethral](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref43)
+[flap after partial penectomy. J Urol. 2011;185(1):204-206.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref43)
+[44. Falcone M, Blecher G, Anfosso M, et al. Total phallic reconstruction in](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref44)
+[the genetic male. Eur Urol. 2021;79(5):684-691.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref44)
+[45. Perovic SV, Djinovic R, Bumbasirevic M, et al. Total phalloplasty using](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref45)
+[a musculocutaneous latissimus dorsi flap. BJU Int. 2007;100(4):899-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref45)
+
+[905. discussion 905.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref45)
+
+[46. Cancer.Net. Penile cancer: statistics. 2022. Available at https://www.](https://www.cancer.net/cancer-types/penile-cancer/statistics)
+[cancer.net/cancer-types/penile-cancer/statistics. Accessed December](https://www.cancer.net/cancer-types/penile-cancer/statistics)
+
+14, 2022.
+[47. Winters BR, Mossanen M, Holt SK, et al. Predictors of nodal upstaging](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref47)
+[in clinical node negative patients with penile carcinoma: a National](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref47)
+[Cancer Database Analysis. Urology. 2016;96:29-34.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref47)
+[48. Nazzani S, Catanzaro M, Biasoni D, et al. Clinical outcomes in clinical](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref48)
+[N0 squamous cell carcinoma of the penis according to nodal man-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref48)
+[agement: early, delayed or selective (following dynamic sentinel node](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref48)
+[biopsy) inguinal lymph-node dissection. J Urol. 2021;206(2):354-363.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref48)
+[49. Woldu SL, Ci B, Hutchinson RC, et al. Usage and survival implications](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref49)
+[of surgical staging of inguinal lymph nodes in intermediate- to high-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref49)
+[risk, clinical localized penile cancer: a propensity-score matched](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref49)
+[analysis. Urol Oncol. 2018;36(4):159.e7-159.e17.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref49)
+[50. Zhu Y, Gu WJ, Xiao WJ, et al. Important therapeutic considerations in](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref50)
+[T1b penile cancer: prognostic significance and adherence to treat-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref50)
+[ment guidelines. Ann Surg Oncol. 2019;26(2):685-691.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref50)
+[51. Dell’Oglio P, de Vries HM, Mazzone E, et al. Hybrid indocyanine green-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref51)
+[(99m)Tc-nanocolloid for single-photon emission computed tomography](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref51)
+[and combined radio- and fluorescence-guided sentinel node biopsy in](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref51)
+[penile cancer: results of 740 inguinal basins assessed at a single insti-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref51)
+[tution. Eur Urol. 2020;78(6):865-872.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref51)
+[52. Brunckhorst O, Ahmed K, Alnajjar HM, et al. Sentinel lymph node](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref52)
+[biopsy using indocyanine green in penile cancer. Nat Rev Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref52)
+[2020;17(10):541-542.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref52)
+[53. Vreeburg MTA, Azargoshasb S, van Willigen D, et al. Comparison of two](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref53)
+[hybrid sentinel node tracers: indocyanine green (ICG)-(99m)Tc-nano-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref53)
+[colloid vs. ICG-(99m)Tc-nanoscan from a nuclear medicine and surgical](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref53)
+[perspective. Eur J Nucl Med Mol Imaging. 2023;50(8):2282-2291.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref53)
+[54. Sadeghi R, Gholami H, Zakavi SR, et al. Accuracy of sentinel lymph](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref54)
+[node biopsy for inguinal lymph node staging of penile squamous cell](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref54)
+[carcinoma: systematic review and meta-analysis of the literature.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref54)
+[J Urol. 2012;187(1):25-31.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref54)
+[55. Gopman JM, Djajadiningrat RS, Baumgarten AS, et al. Predicting](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref55)
+[postoperative complications of inguinal lymph node dissection for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref55)
+[penile cancer in an international multicentre cohort. BJU Int.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref55)
+[2015;116(2):196-201.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref55)
+[56. Azevedo RA, Roxo AC, Alvares SHB, et al. Use of flaps in inguinal](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref56)
+[lymphadenectomy in metastatic penile cancer. Int Braz J Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref56)
+[2021;47(6):1108-1119.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref56)
+[57. Schmid SC, Seitz AK, Haller B, et al. Final results of the PräVAC trial:](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref57)
+[prevention of wound complications following inguinal lymph node](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref57)
+[dissection in patients with penile cancer using epidermal vacuum-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref57)
+[assisted wound closure. World J Urol. 2021;39(2):613-620.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref57)
+[58. Schifano N, Fallara G, Rezvani S, et al. Outcomes following radical](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref58)
+[inguinal lymphadenectomy for penile cancer using a fascial-sparing](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref58)
+[surgical technique. World J Urol. 2023;41(6):1581-1588.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref58)
+[59. Hu J, Li H, Cui Y, et al. Comparison of clinical feasibility and oncological](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref59)
+[outcomes between video endoscopic and open inguinal lymphade-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref59)
+[nectomy for penile cancer: a systematic review and meta-analysis.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref59)
+[Medicine (Baltimore). 2019;98(22):e15862.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref59)
+[60. Lughezzani G, Catanzaro M, Torelli T, et al. The relationship between](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref60)
+[characteristics of inguinal lymph nodes and pelvic lymph node](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref60)
+[involvement in penile squamous cell carcinoma: a single institution](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref60)
+[experience. J Urol. 2014;191(4):977-982.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref60)
+[61. Lont AP, Kroon BK, Gallee MP, et al. Pelvic lymph node dissection for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref61)
+[penile carcinoma: extent of inguinal lymph node involvement as an](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref61)
+[indicator for pelvic lymph node involvement and survival. J Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref61)
+[2007;177(3):947-952. discussion 952.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref61)
+[62. Yao K, Chen Y, Ye Y, et al. Lymph node mapping in patients with penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref62)
+[cancer undergoing pelvic lymph node dissection. J Urol. 2021;205(1):](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref62)
+
+[145-151.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref62)
+
+
+[63. Zargar-Shoshtari K, Djajadiningrat R, Sharma P, et al. Establishing](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref63)
+[criteria for bilateral pelvic lymph node dissection in the management](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref63)
+[of penile cancer: lessons learned from an International Multicenter](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref63)
+[Collaboration. J Urol. 2015;194(3):696-701.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref63)
+[64. Chipollini J, Azizi M, Lo Vullo S, et al. Identifying an optimal lymph](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref64)
+[node yield for penile squamous cell carcinoma: prognostic impact of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref64)
+[surgical dissection. BJU Int. 2020;125(1):82-88.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref64)
+[65. Baumgarten AS, Alhammali E, Hakky TS, et al. Salvage surgical](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref65)
+[resection for isolated locally recurrent inguinal lymph node metas-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref65)
+[tasis of penile cancer: international study collaboration. J Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref65)
+[2014;192(3):760-764.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref65)
+[66. Patel A, Naghavi AO, Johnstone PA, et al. Updates in the use of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref66)
+[radiotherapy in the management of primary and locally-advanced](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref66)
+[penile cancer. Asian J Urol. 2022;9(4):389-406.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref66)
+[67. Crook J. Organ preserving radiation strategies for penile cancer. Urol](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref67)
+[Oncol. 2022;40(5):184-190.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref67)
+[68. Hasan S, Francis A, Hagenauer A, et al. The role of brachytherapy in](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref68)
+[organ preservation for penile cancer: a meta-analysis and review of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref68)
+[the literature. Brachytherapy. 2015;14(4):517-524.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref68)
+[69. Gambachidze D, Lebacle C, Maroun P, et al. Long-term evaluation of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref69)
+[urinary, sexual, and quality of life outcomes after brachytherapy for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref69)
+[penile carcinoma. Brachytherapy. 2018;17(1):221-226.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref69)
+[70. Escande A, Haie-Meder C, Mazeron R, et al. Brachytherapy for con-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref70)
+[servative treatment of invasive penile carcinoma: prognostic factors](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref70)
+[and long-term analysis of outcome. Int J Radiat Oncol Biol Phys.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref70)
+[2017;99(3):563-570.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref70)
+[71. Martz N, Bodokh Y, Gautier M, et al. High-dose rate brachytherapy in](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref71)
+[localized penile cancer: 5-year clinical outcome analysis. Clin Transl](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref71)
+[Radiat Oncol. 2021;27:89-95.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref71)
+[72. Marbán M, Crook J, Keyes M, et al. High-dose-rate brachytherapy for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref72)
+[localized penile cancer: evolution of a technique. Brachytherapy.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref72)
+[2020;19(2):201-209.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref72)
+[73. Kellas-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref73) [�] [Sleczka S, Białas B, Fijałkowski M, et al. Nineteen-year single-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref73)
+Î
+[center experience in 76 patients with penile cancer treated with](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref73)
+[high-dose-rate brachytherapy. Brachytherapy. 2019;18(4):493-502.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref73)
+[74. Pohanková D, Sirák I, Vo�smik M, et al. High-dose-rate brachytherapy](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref74)
+[as an organ-sparing treatment for early penile cancer. Cancers (Basel).](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref74)
+[2022;14(24):6248.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref74)
+[75. Chahoud J, Kohli M, Spiess PE. Management of advanced penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref75)
+[cancer. Mayo Clin Proc. 2021;96(3):720-732.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref75)
+[76. Canter DJ, Nicholson S, Watkin N, et al. The international penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref76)
+[advanced cancer trial (InPACT): rationale and current status. Eur Urol](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref76)
+[Focus. 2019;5(5):706-709.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref76)
+[77. Bermejo C, Busby JE, Spiess PE, et al. Neoadjuvant chemotherapy](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref77)
+[followed by aggressive surgical consolidation for metastatic penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref77)
+[squamous cell carcinoma. J Urol. 2007;177(4):1335-1338.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref77)
+[78. Pagliaro LC, Williams DL, Daliani D, et al. Neoadjuvant paclitaxel,](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref78)
+[ifosfamide, and cisplatin chemotherapy for metastatic penile cancer:](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref78)
+[a phase II study. J Clin Oncol. 2010;28(24):3851-3857.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref78)
+[79. Bandini M, Albersen M, Chipollini J, et al. Optimising the selection of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref79)
+[candidates for neoadjuvant chemotherapy amongst patients with node-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref79)
+[positive penile squamous cell carcinoma. BJU Int. 2020;125(6):867-875.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref79)
+[80. Dayyani F, Hoffman K, Eifel P, et al. Management of advanced primary](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref80)
+[urethral carcinomas. BJU Int. 2014;114(1):25-31.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref80)
+[81. Hakenberg OW, Compérat EM, Minhas S, et al. EAU guidelines on](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref81)
+[penile cancer: 2014 update. Eur Urol. 2015;67(1):142-150.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref81)
+[82. Castiglione F, Alnajjar HM, Christodoulidou M, et al. Primary squa-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref82)
+[mous cell carcinoma of the male proximal urethra: outcomes from a](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref82)
+[single centre. Eur Urol Focus. 2021;7(1):163-169.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref82)
+[83. Cakir OO, Castiglione F, Tandogdu Z, et al. Management of penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref83)
+[cancer patients during the COVID-19 pandemic: an eUROGEN accel-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref83)
+[erated Delphi consensus study. Urol Oncol. 2021;39(3):197.e9-197.e17.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref83)
+[84. Alifrangis C, Lee AJX, Fernando S, et al. 784P perioperative multi-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref84)
+[modality treatment in high-risk node-positive penile cancer: a single](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref84)
+[institution study of patients treated in a supraregional centre. Ann](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref84)
+[Oncol. 2020;31(suppl 4):S599.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref84)
+[85. Hakenberg OW, Nippgen JB, Froehner M, et al. Cisplatin, metho-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref85)
+[trexate and bleomycin for treating advanced penile carcinoma. BJU](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref85)
+[Int. 2006;98(6):1225-1227.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref85)
+
+
+14 https://doi.org/10.1016/j.esmoop.2024.103481 Volume 9 [-](https://doi.org/10.1016/j.esmoop.2024.103481) [Issue 7](https://doi.org/10.1016/j.esmoop.2024.103481) [-](https://doi.org/10.1016/j.esmoop.2024.103481) [2024](https://doi.org/10.1016/j.esmoop.2024.103481)
+
+A. Muneer et al. ESMO Open
+
+
+[86. Khurud P, Krishnatry R, Telkhade T, et al. Impact of adjuvant treatment](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref86)
+[in pN3 penile cancer. Clin Oncol (R Coll Radiol). 2022;34(3):172-178.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref86)
+[87. Pizzocaro G, Piva L, Bandieramonte G, et al. Up-to-date management](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref87)
+[of carcinoma of the penis. Eur Urol. 1997;32(1):5-15.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref87)
+[88. Sharma P, Djajadiningrat R, Zargar-Shoshtari K, et al. Adjuvant](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref88)
+[chemotherapy is associated with improved overall survival in pelvic](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref88)
+[node-positive penile cancer after lymph node dissection: a multi-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref88)
+[institutional study. Urol Oncol. 2015;33(11):496.e417-496.e423.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref88)
+[89. Joshi SS, Handorf E, Strauss D, et al. Treatment trends and outcomes](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref89)
+[for patients with lymph node-positive cancer of the penis. JAMA](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref89)
+[Oncol. 2018;4(5):643-649.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref89)
+[90. Robinson R, Marconi L, MacPepple E, et al. Risks and benefits of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref90)
+[adjuvant radiotherapy after inguinal lymphadenectomy in node-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref90)
+[positive penile cancer: a systematic review by the European Associ-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref90)
+[ation of Urology Penile Cancer Guidelines Panel. Eur Urol. 2018;74(1):](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref90)
+
+[76-83.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref90)
+
+[91. Winters BR, Kearns JT, Holt SK, et al. Is there a benefit to adjuvant](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref91)
+[radiation in stage III penile cancer after lymph node dissection?](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref91)
+[Findings from the National Cancer Database. Urol Oncol. 2018;36(3):](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref91)
+
+[92.e11-92.e16.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref91)
+
+[92. Tang DH, Djajadiningrat R, Diorio G, et al. Adjuvant pelvic radiation is](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref92)
+[associated with improved survival and decreased disease recurrence](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref92)
+[in pelvic node-positive penile cancer after lymph node dissection: a](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref92)
+[multi-institutional study. Urol Oncol. 2017;35(10):605.e617-605.e623.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref92)
+[93. Johnstone PAS, Spiess PE, Sedor G, et al. Changing radiotherapy](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref93)
+[paradigms in penile cancer. Eur Urol Open Sci. 2022;36:47-48.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref93)
+[94. Ager M, Njoku K, Serra M, et al. Long-term multicentre experience of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref94)
+[adjuvant radiotherapy for pN3 squamous cell carcinoma of the penis.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref94)
+[BJU Int. 2021;128(4):451-459.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref94)
+[95. Li ZS, Li XY, Wang B, et al. Radiotherapy plus chemotherapy versus](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref95)
+[chemotherapy alone in penile cancer patients with extracapsular](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref95)
+[nodal extension after inguinal lymph node surgery: a multi-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref95)
+[institutional study. World J Urol. 2021;39(1):113-119.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref95)
+[96. Jaipuria J, Kohli T, Venkatasubramaniyan M, et al. Adjuvant radiation](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref96)
+[compares favorably to chemotherapy in patients with carcinoma](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref96)
+[penis and nodal positivity restricted to groin. Urol Oncol. 2020;38(7):](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref96)
+
+[641.e9-641.e18.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref96)
+
+[97. Protzel C, Hakenberg OW. Chemotherapy in patients with penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref97)
+[carcinoma. Urol Int. 2009;82(1):1-7.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref97)
+[98. Shammas FV, Ous S, Fossa SD. Cisplatin and 5-fluorouracil in](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref98)
+[advanced cancer of the penis. J Urol. 1992;147(3):630-632.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref98)
+[99. Patil VM, Noronha V, Joshi A, et al. Palliative chemotherapy in car-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref99)
+[cinoma penis: does platinum and taxane combination holds a](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref99)
+[promise? Urol Ann. 2014;6(1):18-22.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref99)
+[100. Nicholson S, Hall E, Harland SJ, et al. Phase II trial of docetaxel,](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref100)
+[cisplatin and 5FU chemotherapy in locally advanced and metastatic](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref100)
+[penis cancer (CRUK/09/001). Br J Cancer. 2013;109(10):2554-2559.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref100)
+[101. Nicholson S, Tovey H, Elliott T, et al. VinCaP: a phase II trial of vin-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref101)
+[flunine in locally advanced and metastatic squamous carcinoma of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref101)
+[the penis. Br J Cancer. 2022;126(1):34-41.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref101)
+
+
+[102. Necchi A, Lo Vullo S, Perrone F, et al. First-line therapy with daco-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref102)
+[mitinib, an orally available pan-HER tyrosine kinase inhibitor, for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref102)
+[locally advanced or metastatic penile squamous cell carcinoma: re-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref102)
+[sults of an open-label, single-arm, single-centre, phase 2 study. BJU](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref102)
+[Int. 2018;121(3):348-356.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref102)
+[103. Di Lorenzo G, Federico P, Buonerba C, et al. Paclitaxel in pretreated](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref103)
+[metastatic penile cancer: final results of a phase 2 study. Eur Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref103)
+[2011;60(6):1280-1284.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref103)
+[104. Carthon BC, Ng CS, Pettaway CA, et al. Epidermal growth factor](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref104)
+[receptor-targeted therapy in locally advanced or metastatic squa-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref104)
+[mous cell carcinoma of the penis. BJU Int. 2014;113(6):871-877.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref104)
+[105. Cocks M, Taheri D, Ball MW, et al. Immune-checkpoint status in penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref105)
+[squamous cell carcinoma: a North American cohort. Hum Pathol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref105)
+
+[2017;59:55-61.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref105)
+
+[106. Migden MR, Rischin D, Schmults CD, et al. PD-1 Blockade with](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref106)
+[cemiplimab in advanced cutaneous squamous-cell carcinoma. N Engl](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref106)
+[J Med. 2018;379(4):341-351.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref106)
+[107. de Vries HM, Rafael TS, Gil-Jimenez A, et al. Atezolizumab with or](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref107)
+[without radiotherapy for advanced squamous cell carcinoma of the](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref107)
+[penis (The PERICLES Study): a phase II trial. J Clin Oncol. 2023;41(31):](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref107)
+
+[4872-4880.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref107)
+
+[108. El Zarif T, Nassar A, Jiang L, et al. Safety and efficacy of immune](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref108)
+[checkpoint inhibitors (ICI) in advanced penile squamous cell carci-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref108)
+[noma (PeCa): an international study from the Global Society of Rare](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref108)
+[Genitourinary Tumors (GSRGT). J Clin Oncol. 2023;41(suppl 6). 5-5.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref108)
+[109. Chahoud J, Skelton WP IV, Spiess PE, et al. Case report: two cases of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref109)
+[chemotherapy refractory metastatic penile squamous cell carcinoma](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref109)
+[with extreme durable response to pembrolizumab. Front Oncol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref109)
+
+[2020;10:615298.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref109)
+[110. Hahn AW, Chahoud J, Campbell MT, et al. Pembrolizumab for](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref110)
+[advanced penile cancer: a case series from a phase II basket trial.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref110)
+[Invest New Drugs. 2021;39(5):1405-1410.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref110)
+[111. Marcus L, Lemery SJ, Keegan P, et al. FDA approval summary: pem-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref111)
+[brolizumab for the treatment of microsatellite instability-high solid](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref111)
+[tumors. Clin Cancer Res. 2019;25(13):3753-3758.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref111)
+[112. Chaux A, Cubilla AL. Advances in the pathology of penile carcinomas.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref112)
+[Hum Pathol. 2012;43(6):771-789.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref112)
+[113. Leijte JA, Kirrander P, Antonini N, et al. Recurrence patterns of](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref113)
+[squamous cell carcinoma of the penis: recommendations for follow-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref113)
+[up based on a two-centre analysis of 700 patients. Eur Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref113)
+[2008;54(1):161-168.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref113)
+[114. Djajadiningrat RS, van Werkhoven E, Meinhardt W, et al. Penile](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref114)
+[sparing surgery for penile cancer-does it affect survival? J Urol.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref114)
+[2014;192(1):120-125.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref114)
+[115. Dykewicz CA. Summary of the Guidelines for preventing opportunistic](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref115)
+[infections among hematopoietic stem cell transplant recipients. Clin](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref115)
+[Infect Dis. 2001;33(2):139-144 [adapted from: Gross PA, Barrett TL,](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref115)
+[Dellinger EP, et al. Purpose of quality standards for infectious dis-](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref115)
+[eases. Infectious Diseases Society of America. Clin Infect Dis.](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref115)
+[1994;18(3):421].](http://refhub.elsevier.com/S2059-7029(24)01250-X/sref115)
+
+
+Volume 9 - Issue 7 - 2024 [https://doi.org/10.1016/j.esmoop.2024.103481](https://doi.org/10.1016/j.esmoop.2024.103481) 15
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the guideline are listed.

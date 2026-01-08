@@ -1,0 +1,934 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    # ***cancers***
+
+*Systematic Review*
+## **Malignancy Associated with Low-Risk HPV6 and HPV11: A** **Systematic Review and Implications for Cancer Prevention**
+
+**Leandro Lima da Silva** **[1]** **, Amanda Mara Teles** **[1,2]** **, Joana M. O. Santos** **[3]** **, Marcelo Souza de Andrade** **[1]** **,**
+**Rui Medeiros** **[3]** **, Ana I. Faustino-Rocha** **[4,5]** **, Paula A. Oliveira** **[4,5]** **, Ana Paula Azevedo dos Santos** **[1,6]** **,**
+**Fernanda Ferreira Lopes** **[7]** **, Geraldo Braz** **[8]** **, Haissa O. Brito** **[1]** **and Rui M. Gil da Costa** **[1,3,4,5,9,10,]** *****
+
+
+**Citation:** Silva, L.L.d.; Teles, A.M.;
+
+Santos, J.M.O.; Souza de Andrade,
+
+M.; Medeiros, R.; Faustino-Rocha,
+
+A.I.; Oliveira, P.A.; dos Santos, A.P.A.;
+
+Ferreira Lopes, F.; Braz, G.; et al.
+
+Malignancy Associated with
+
+Low-Risk HPV6 and HPV11: A
+
+Systematic Review and Implications
+
+for Cancer Prevention. *Cancers* **2023**,
+
+*15* [, 4068. https://doi.org/10.3390/](https://doi.org/10.3390/cancers15164068)
+
+[cancers15164068](https://doi.org/10.3390/cancers15164068)
+
+Academic Editor: Brian Gabrielli
+
+Received: 30 June 2023
+
+Revised: 28 July 2023
+
+Accepted: 8 August 2023
+
+Published: 11 August 2023
+
+**Copyright:** © 2023 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+[Attribution (CC BY) license (https://](https://creativecommons.org/licenses/by/4.0/)
+
+[creativecommons.org/licenses/by/](https://creativecommons.org/licenses/by/4.0/)
+
+4.0/).
+
+
+1 Post-Graduate Program in Adult Health (PPGSAD), Federal University of Maranhão (UFMA),
+São Luís 65080-805, MA, Brazil; ana.azevedo@ufma.br (A.P.A.d.S.); haissa.brito@ufma.br (H.O.B.)
+2 Post-Graduate Program in Animal Health, State University of Maranhão, São Luís 65099-110, MA, Brazil
+3 Molecular Oncology and Viral Pathology Group, Portuguese Institute of Oncology of Porto Research
+Center (CI-IPOP)/RISE@CI-IPOP (Health Research Network), Portuguese Institute of Oncology of
+Porto (IPO-Porto)/Porto Comprehensive Cancer Center (Porto.CCC), 4200-072 Porto, Portugal
+4 Centre for the Research and Technology of Agro-Environmental and Biological Sciences (CITAB),
+University of Trás-os-Montes and Alto Douro, 5000-801 Vila Real, Portugal;
+anafaustino.faustino@sapo.pt (A.I.F.-R.)
+5 Inov4Agro—Institute for Innovation, Capacity Building and Sustainability of Agri-Food Production,
+University of Trás-os-Montes and Alto Douro, 5000-801 Vila Real, Portugal
+6 Post-Graduate Program in Health Sciences, Federal University of Maranhão (UFMA),
+São Luís 65080-805, MA, Brazil
+7 Post-Graduate Program in Odontology, Federal University of Maranhão (UFMA),
+São Luís 65080-805, MA, Brazil; fernanda.ferreira@ufma.br
+8 Post-Graduate Program in Computing Sciences, Federal University of Maranhão (UFMA),
+São Luís 65080-805, MA, Brazil; geraldo.braz@ufma.br
+9 Laboratory for Process Engineering, Environment, Biotechnology and Energy (LEPABE),
+Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal
+10 Associate Laboratory in Chemical Engineering (ALiCE), Faculty of Engineering, University of Porto,
+4200-465 Porto, Portugal
+***** Correspondence: rui.costa@ufma.br
+
+**Simple Summary:** Vaccination against human papillomavirus (HPV) helps prevent cancer caused by
+this virus. Determining which viral genotypes should be included is key for developing successful
+vaccination strategies. Low-risk genotypes, especially HPV6 and HPV11, are associated with benign
+warts. However, some studies also report their presence in cancers. We reviewed the scientific
+literature to estimate the proportion of cancers that bear single or dual HPV6/11 infections. HPV6
+and HPV11 have been reported in up to 5.5% of penile and 87.5% of laryngeal cancers; however, they
+have not been reported in vulvar, vaginal or oral cancers. Next, we compared the HPV6/11 genomes
+with HPV16, the most common high-risk HPV genotype, and observed that the similarities mainly
+involved the *E7* gene, suggesting a limited ability to interfere with the differentiation of the host cells.
+These findings support the use of HPV vaccines that cover HPV6/11 not only for preventing genital
+warts but also for preventing specific types of cancers.
+
+**Abstract:** High-risk human papillomavirus (HPV) is etiologically related to cervical cancer, other
+anogenital cancers and oropharyngeal carcinomas. Low-risk HPV, especially HPV6 and HPV11,
+cause genital warts and laryngeal papillomas. However, the accumulating data suggests that
+HPV6 and HPV11 may cause malignant lesions at non-cervical anatomic sites. This review aims to
+estimate the proportions of single and dual HPV6/11 infections in multiple cancers reported in the
+last 10 years in the Cochrane, Embasa and PubMed databases. Secondly, the genomes of HPV6/11
+were compared with the most common high-risk genotype, HPV16, to determine the similarities
+and differences. A total of 11 articles were selected, including between one and 334 HPV+ cancer
+patients. The frequencies of single or dual HPV6/11 infections ranged between 0–5.5% for penile
+and 0–87.5% for laryngeal cancers and were null for vulvar, vaginal and oral cancers. The genomic
+similarities between HPV6/11 and HPV16 mainly involved the *E7* gene, indicating a limited
+
+
+*Cancers* **2023**, *15* [, 4068. https://doi.org/10.3390/cancers15164068](https://doi.org/10.3390/cancers15164068) [https://www.mdpi.com/journal/cancers](https://www.mdpi.com/journal/cancers)
+
+*Cancers* **2023**, *15*, 4068 2 of 13
+
+ability to block cell differentiation. The presence of single or dual HPV6/11 infections in variable
+proportions of penile and laryngeal cancers support the vaccination strategies that cover these
+genotypes, not only for preventing genital warts but also for cancer prevention. Other risk factors
+and co-carcinogens are likely to participate in epithelial carcinogenesis associated with low-risk
+
+HPV.
+
+**Keywords:** vaccine; squamous cell carcinoma; papillomavirus; retinoblastoma protein; low-risk HPV
+
+**1. Introduction**
+
+Human papillomaviruses are host species-specific, double-stranded DNA viruses
+that exhibit a conserved icosahedral morphology, ranging between 50–55 nm in diameter
+with a molecular weight of 5 *×* 10 [6] Da [ 1, 2 ]. Infection through tissue microdamage
+allows the virus to gain access to basal keratinocytes in the epidermis and keratinized
+mucosae [ 3, 4 ]. The HPV genome contains a set of genes that are expressed early in the
+viral cycle upon cell entry, designated the “early” (E) genes, and two “late” (L) genes,
+L1 and L2, which are expressed later in the viral cycle and encode the structural capsid
+proteins as well as the regulatory regions [ 5 ]. Based on their nucleotide sequence of
+the L1 gene, HPVs are divided into types which are grouped in five genera (alpha,
+beta, gamma, mu and nu), where alpha is the main genus, comprising the HPV types
+associated with the development of cervical cancer known as high-risk (HR) HPVs
+(e.g., HPV16 and HPV18) and the types associated with genital warts, termed low-risk
+(LR) HPVs (e.g., HPV6 and HPV11) [ 6 – 10 ]. The HPV types are defined based on a 10%
+variation in their L1 nucleotide sequence and may be further subdivided into variants
+with different biological properties based on smaller differences [ 11 – 14 ]. The HPV
+types may also be divided according to their target epithelial site, i.e., cutaneous versus
+mucocutaneous [ 15 ]. Quadrivalent and nonavalent HPV vaccines are protective against
+HPV6 and HPV11 infections along with infections by HR-HPVs, while the bivalent
+vaccine only targets HPV16 and HPV18 [ 16 ]. Low-risk genital types are often responsible
+for benign lesions, such as condyloma acuminata, and may also cause low-grade cervical
+dysplasia. However, the risk of developing invasive cervical carcinoma is low [ 17 ].
+HPV6 and HPV11 are most frequently found in genital warts [ 18 ] and are also involved
+in respiratory papillomas [ 19, 20 ]. In contrast, HR-HPVs are able to establish persistent
+infections; interfere with cell proliferation, differentiation and survival; and are the
+etiologic agents of cervical cancer [ 5 ]. However, in contrast with cervical cancer, a
+limited number of studies have found single infections caused by LR-HPV, specifically
+HPV6 and HPV11, in small proportions of some non-cervical anogenital cancers, such as
+vulvar [ 21 ] and penile [ 22 ] cancers. Such observations suggest the hypothesis that these
+two HPV types may exert a more significant oncogenic effect on those specific anatomic
+sites than in the uterine cervix. If this is the case, the knowledge of the proportion of
+cancers potentially associated with HPV6/11 would help tailor vaccination strategies,
+especially in world regions where such cancers are more common. The present work
+adopted two complementary approaches to study this hypothesis. First, we performed
+a systematic review of the scientific literature from the last 10 years to determine the
+prevalence of single or dual HPV6 and HPV11 infections in the sites of HPV-associated
+cancers. Secondly, the genomic organization of these viruses was comparatively studied
+against HPV16, the most common high-risk HPV genotype, to identify meaningful
+similarities and differences. Finally, based on the results from both these studies, the
+factors that may contribute to a possible oncogenic role for HPV6 and HPV11 were
+discussed.
+
+*Cancers* **2023**, *15*, 4068 3 of 13
+
+**2. Materials and Methods**
+
+*2.1. Systematic Review of HPV6 and HPV11 in Cancer*
+
+The systematic review was performed in accordance with the preferred reporting
+items for systematic reviews and meta-analyses (PRISMA) guidelines [ 23 ], according
+to the following parameters. Population: HNSCCs, anal, cervical, penile, vaginal and
+vulvar cancer patients. Intervention: the frequency of HPV6 and HPV11 single infections.
+The search strategy contemplated three standard databases on biomedicine: PubMed,
+Embase and Cochrane, accessed in March and April 2022. The keywords “cancer AND
+HPV6” or “cancer AND HPV11” were applied. A total of 541 articles were retrieved from
+PubMed, 695 articles from Embase and 29 articles from Cochrane. Duplicated records were
+excluded based on the article’s bibliographic reference. The following inclusion criteria
+were established concerning the type of study (case series and case–control studies in
+humans), tumor sample type (formalin-fixed paraffin-embedded and fresh tissue biopsies),
+tumor location (head and neck, uterine cervix, anorectum, penis, prepuce, vulva and
+vagina), histological diagnosis (squamous cell carcinoma), HPV detection methodology
+performed (PCR-based or sequencing techniques) and the type of agents identified (the
+frequency of single or dual HPV6 and HPV11 infections reported with or without a report
+of the infections by other LR-HPV types). The exclusion criteria were a lack of histological
+confirmation of cancer, a lack of identification of single/dual HPV6 or HPV11 infections,
+case reports, review articles and meta-analyses. The abstracts and, when necessary, the
+materials and methods were analyzed to apply the inclusion and exclusion criteria.
+
+*2.2. Comparative Genomic Analysis of HPV6, HPV11 and HPV16*
+
+The HPV6 and HPV11 genomes were compared with HPV16, the most commonly
+identified high-risk HPV in cancer, to identify the similarities and differences in the key
+genes involved in the cell transformation. The complete genomes of HPV16 (NC_001526.4)
+and HPV6 (NC_001355.1) were retrieved from the RefSeq database, available at NCBI.
+The RefSeq database was unavailable for HPV11. Therefore, its complete genome was
+retrieved from the GeneBank database, available at NCBI (MW404328.1). Then, the complete genomes of HPV16, HPV6 and HVP11 were uploaded to the Proksee/CGView Server
+online tool, which is a system for genome assembly, annotation and visualization [ 24 ]. In
+this tool, BLAST (blastn) was used to identify the regions of similarity between the genomic
+sequences. The amino acid sequences of the early proteins E6, E7, E5A and E5B from HPV16
+and HPV6 were retrieved from the RefSeq database, available at NCBI, and the proteins
+from HPV11 were retrieved from the GenePept database, available at NCBI. The blastp tool
+from NCBI was used to evaluate the similarities between the early protein sequences.
+
+**3. Results**
+
+*3.1. Systematic Review of HPV6 and HPV11 in Cancer*
+
+Most of the initially screened publications were excluded since they dealt with benign
+lesions instead of cancer, which was in line with the known role of HPV6 and HPV11 in warts.
+Overall, after applying the inclusion and exclusion criteria, 11 articles were selected for further
+analysis (Figure 1). A total of three articles were analyzed for cervical cancer [ 25 – 27 ], six for
+HNSCCs [ 28 – 33 ], none for anal cancer, three for penile cancer [ 28, 34, 35 ], one for vaginal
+cancer [ 28 ] and one for vulvar cancer [ 28 ]. The characteristics of all 11 publications that
+were selected for further analysis are summarized in Table 1.
+The selected publications (Table 1) spanned the period between 2012 and 2021 and
+dealt with patient cohorts varying in size between eight and 1010 total patients. HPV
+detection was primarily performed using PCR-based methods, except for Aldersley et al.
+(2021) who used previously obtained whole exome data. The proportion of HPV-positive
+cases ranged between 1/85 [ 30 ] and 142/142 [ 25 ]. Seven studies used formalin-fixed
+paraffin-embedded (FFPE) material [ 28 – 32, 34, 35 ]; however, one used fresh biopsies [ 33 ]
+and another used tissue stored in RNAlater [ 26 ]. HPV genotyping was performed using
+
+*Cancers* **2023**, *15*, 4068 4 of 13
+
+a variet y of commercial and custom methods. Three studies addressed the frequency of
+HPV6/11 infections in cervical cancer [25–27] (Table 2).
+
+**Figure 1.** Systematic review of HPV6 and HPV11 in cancer and the resulting publications selected
+for analysis.
+
+**Table 1.** Characteristics of the 11 articles included in the HPV6 and HPV11 systematic review.
+
+**Total Sample and**
+**References** **Type of Sample** **Detection Method** **Genotyping Method**
+**(HPV + Sample)**
+
+Tao et al., 2017 PCR/Luminex 200 (Tellgen, PCR/Luminex 200
+Cervical scrappings 142 (142)
+
+[25] Shanghai, China) (Tellgen, China)
+
+
+Das et al., 2013
+
+[26]
+
+Aldersley
+et al., 2021
+
+[27]
+
+
+Tissue biopsy in Digene HPV Hybrid
+RNAlater (Qiagen, Nested PCR Capture II Test (Qiagen, 107 (105)
+Hilden, Germany) Germany)
+
+
+Whole exome data
+from previous
+publications
+
+
+SureSelect Exon
+Capture (Agilent) and
+HiSeq sequencing
+(Illumina, USA)
+
+
+SureSelect Exon Capture
+(Agilent, Santa Clara, CA, USA)
+and HiSeq sequencing
+(Illumina, San Diego, CA, USA)
+
+
+72 (62)
+
+
+Barzon et al., 2014
+FFPE PCR (Inno-LiPa, Tokyo, Japan) Real-time PCR 59 (18)
+
+[34]
+
+
+LIPA25 (Laboratory
+Biomedical Products,
+The Netherlands) and
+Sanger sequencing
+
+
+Alemany et al., 2016 FFPE
+
+[35]
+
+
+SPF-10/DEIA/LIPA25
+(Laboratory Biomedical
+Products, Rijswijk, The
+Netherlands)
+
+
+1010 (334)
+
+
+Vietía et al., 2014
+Fresh biopsies PCR (Inno-LiPa, Japan) PCR (Inno-LiPa, Japan) 71 (48)
+
+[33]
+
+Taberna et al., 2016
+FFPE PCR (Inno-LiPa, Japan) Real-Time PCR 404 (54)
+
+[29]
+
+Lam et al., 2018
+FFPE Nested PCR Sanger sequncing 85 (1)
+
+[30]
+
+*Cancers* **2023**, *15*, 4068 5 of 13
+
+**Table 1.** *Cont.*
+
+**Total Sample and**
+**References** **Type of Sample** **Detection Method** **Genotyping Method**
+**(HPV + Sample)**
+
+Weiss et al., 2015 Real-Time PCR GP5+/6+ and
+FFPE Real-Time PCR 8 (6)
+
+[31] In Situ Hybridization
+
+Sun et al., 2012 PCR for HPV 6/11 and HPV PCR for HPV 6/11 and
+FFPE 83 (42)
+
+[32] 16/18 HPV 16/18
+
+Magaña-León SPF-10/DEIA/LIPA25
+et al., 2015 FFPE (Laboratory Biomedical PCR (Inno-LiPa, Japan) 35 (10)
+
+[28] Products, The Netherlands)
+
+These studies generally identified an extremely low prevalence of single HPV6/11
+infections or infections with HPV6/11 in the context of other LR-HPV in cervical cancer.
+A single case of HPV11 mono-infection was reported by [ 25 ], which also had the largest
+caseload of the three. Three studies addressed penile cancer [ 28, 34, 35 ]. Alemany et al. (2016)
+presented the largest caseload of the three and reported that 3.6% and 1.2% of HPV-positive
+cases carried HPV6 and HPV11 mono-infections, respectively. Barzon et al. (2014) reported
+a case showing HPV11 mono-infection and Magaña-León et al. (2015) reported none. In the
+larynx, the proportions of single infections varied between 0% and 75% cases for HPV6 and
+between 0% and 12.5% cases for HPV11. No studies observed single HPV6/11 infections in
+oral, vaginal or vulvar SCCs.
+
+**Table 2.** Prevalence of HPV6 and HPV11 single infections in different types of HPV-associated cancers.
+
+**Anatomic Location** **HPV6** **HPV11** **Multiple Low-Risk%** **Geographical** **References**
+**% (n/N)** **% (n/N)** **(n/N)** **Location**
+
+0/142 1/142 1/142 China Tao et al., 2017
+
+[25]
+
+
+Uterine cervix
+
+Penis
+
+
+Barzon et al., 2014
+0/18 5.5% (1/18) 1/18 Italy [34]
+
+3.6% (12/334) 1.2% (4/334) 4.8% (16/334) 25 Countries Alemany et al., 2016[35]
+
+0/8 0/8 0/8 Mexico Magaña-León et al., 2015
+
+[28]
+
+
+0/105 0/105 0/105 India Das et al., 2013
+
+[26]
+
+
+Republic of
+1.4% (1/62) 0/62 1/62 Korea/United
+States/France
+
+
+Aldersley et al., 2021
+
+[27]
+
+
+Oral cavity 0/9 0/9 0/9 Mexico Magaña-Le[28ón et al., 2015]
+
+3.7% (2/54) 3.7% (2/54) 4/54 United States Taberna et al., 2016[29]
+
+1.2% (1/85) 0/85 1/85 China Lam et al., 2018[30]
+
+
+Head and
+neck
+
+
+Larynx
+
+
+Weiss et al., 2015
+75.0% (6/8) 12.5% (1/8) 7/8 Germany [31]
+
+Not tested Not tested 9.6% (8/42) China Sun et al., 2012[32]
+
+0/9 0/9 0/9 Mexico Magaña-León et al., 2015
+
+[28]
+
+
+locationsMixed 12.5% (6/48) 0% (0/48) 16.67% (8/48) Venezuela Vietía et al., 2014[33]
+
+Vagina 0/7 0/7 1/7 * Mexico Magaña-Le[28ón et al., 2015]
+
+Vulva 0/1 0/1 0/1 Mexico Magaña-León et al., 2015
+
+[28]
+
+           - One single HPV54 infection among seven vaginal SCC cases in the Magaña-Leon et al. (2015) study, which
+included 35 SCCs from multiple locations.
+
+*Cancers* **2023**, *15*, 4068 6 of 13
+
+The HPV surrogate marker p16 [INK4a] was studied using immunohistochemistry in five
+
+                                                                             articles. Two studies found that most penile cancers harboring HR-HPV were p16 [INK4a]
+positive [ 34, 35 ]. However, the larger Alemany et al. [ 35 ] study found that only a small
+proportion of cancers with LR-HPV were p16 [INK4a] -positive. Three studies described
+p16 [INK4a] immunostaining in laryngeal cancers [ 29 – 31 ] and reported a poor correlation with
+the presence of HPV DNA. Weiss et al. found two positive LR-HPV cases [31].
+
+*3.2. HPV6/11/16 Comparative Genomic Analysis*
+
+HPV16 had a circular dsDNA with a total of 7906 bp and eight coding sequences
+(Figure 2). When performing a blastn analysis at Proksee/CGView to compare both the
+HPV16/HPV6 and HPV16/HPV11 genomes, it was possible to observe that the majority
+of the similarities between the genomic sequences were located in the E1, E2, L2, L1 and
+E7 coding regions. No similarities between the genomic sequences at the E6 and E5 regions
+were found using these tools. The early proteins from HPV16 and HPV6/11 were then
+evaluated regarding the similarity of their amino acid sequence (Supplementary Table S1)
+using blastp. The identities, positives and expected values are presented in Tables 3 and 4,
+where the identity describes the similarities of the se q uences (the number of identical amino
+acids) and positives correspond to the number of amino acids that were either identical or
+had similar chemical properties.
+
+**Figure 2.** Comparative genomic organization of HPV6, HV11 and HPV16.
+
+According to the data obtained, the protein with highest similarity between HPV16
+and HPV6 was E7, while E5 was the protein with lowest similarity. Similar results were
+obtained for HPV16 and HPV11.
+
+*Cancers* **2023**, *15*, 4068 7 of 13
+
+**Table 3.** A comparative analysis of the HPV6 and HPV16 E6, E7 and E5 oncoproteins.
+
+**HPV6**
+
+**E6 (NP_040296.1)** **E7 (NP_040297.1)** **E5A (NP_040301.1)** **E5B (NP_040302.1)**
+
+Identities: 39%;
+E6 (NP_041325.1) Positives: 60%;
+Expect: 2 *×* 10 *[−]* [41]
+
+
+HPV16
+
+HPV16
+
+
+**Table 4.** A comparative analysis of the HPV11 and HPV16 E6, E7 and E5 oncoproteins.
+
+**HPV11**
+
+**E6 (QXM18822.1)** **E7 (QXM18823.1)** **E5A (QXM18827.1)** **E5B (QXM18828.1)**
+
+Identities: 37%;
+E6 (NP_041325.1) Positives: 61%;
+Expect: 2 *×* 10 *[−]* [40]
+
+Identities: 55%;
+E7 (NP_041326.1) Positives: 70%;
+Expect: 1 *×* 10 *[−]* [33]
+
+No significant similarity No significant
+E5 (NP_041330.2)
+found. similarity found.
+
+**4. Discussion**
+
+High-risk (HR)-HPVs, particularly HPV16, have been identified as the etiologic agents of
+multiple anogenital and oropharyngeal cancers, as shown by numerous observational and
+experimental studies [ 36 – 41 ]. LR-HPVs mostly cause benign lesions, such as condylomas, but
+have also been suggested to be involved in subsets of malignant non-cervical lesions [ 42, 43 ].
+The present work provided a systematic analysis of the data published in the last 10 years
+to determine the frequencies of HPV6 and HPV11 as single infections in anogenital and
+head and neck cancers. The 11 selected articles showed significant geographic diversity,
+including works from four continents, as well as a large international penile cancer study by
+Alemany et al. (2016). While some studies showed a low HPV-positive caseload for specific
+sites, such as the Weiss et al. (2015) and Magaña-Leon et al. (2015) reports, others were much
+larger and included dozens or hundreds of patients, such as the Taberna et al. (2016) or
+Alemany et al. (2016) articles. These heterogeneous results recommended caution when
+interpreting the findings from our systematic review. Smaller studies may highlight
+locally important phenomena, such as a higher HPV6/11 infection rate, while larger
+studies may dilute those observations and provide a more general picture. One study
+from Venezuela [ 33 ] reported data from multiple head and neck locations. However, it
+was impossible to ascribe specific HPV genotypes to each anatomical site. We chose to
+include this study because it provided data on the frequencies of LR-HPVs in head and
+neck SCCs in general. However, it could not replace the detailed reports ascribing HPV6
+and HPV11 to more specific anatomic sites. We began by analyzing the studies focused
+on cervical cancer. Approx. 95% of women with cervical cancer were infected with one
+or more HR-HPV subtype, with HPV16 and 18 being the most common [ 44, 45 ]. LR-HPV
+was associated with benign neoplasia and scientific data accumulated over decades does
+not support its involvement in cervical SCCs [ 46, 47 ]. In line with such observations, our
+systematic review showed considerably low frequencies for HPV6 and HPV11 monoinfections in cervical cancer. Quadrivalent and nonavalent HPV vaccines conferred
+
+
+Identities: 57%;
+E7 (NP_041326.1) Positives: 69%;
+Expect: 3 *×* 10 *[−]* [34]
+
+Identities: 24%;
+E5 (NP_041330.2) Positives: 58%;
+Expect: 0.018
+
+
+No significant
+similarity found.
+
+*Cancers* **2023**, *15*, 4068 8 of 13
+
+protection against these LR-HPV types and their associated lesions [ 16 ]. Advanced
+cervical cancer had dramatic consequences for patients due to cancer invasion and
+metastasis, but also due to psychological issues and paraneoplastic syndromes [ 48 – 50 ].
+Even intraepithelial lesions were associated with significant morbidity, which could
+recur after surgical excision [ 51, 52 ]. HPV-associated head and neck cancers were most
+frequently located in the oropharynx, where HPV16 was responsible for approximately
+95% of the HPV-related cases [ 13, 36, 53 ]. The head and neck studies in our systematic
+review mostly reported data from the larynx, which likely reflected the known role
+of HPV6 and HPV11 in respiratory papillomas in this anatomic area [ 17 ]. HPV6 and
+HPV11 were the main causative agents of laryngeal papillomas, the most frequent
+benign tumors in the lower respiratory tract [ 17 ]. Respiratory lesions associated with
+the HPV11 type are suggested to be more aggressive compared to those associated with
+HPV6 [ 54 ]. Our systematic review showed that laryngeal SCCs carried HPV6 and HPV11
+in varying proportions. While large studies from China and the USA showed frequencies
+ranging between 1% and 4%, a smaller German study showed much higher figures,
+with up to 75% of cases showing HPV11 mono-infections. It is likely that these widely
+varying figures reflected different geographical realities, but the results supported the
+involvement of HPV6 and HPV11 in a significant proportion of laryngeal SCCs. Other
+studies showed similar results [ 55 ]. The association between HPV6, HPV11 and this
+anatomic area may reflect local microenvironmental factors and an exposure to chemical
+carcinogens, as well as immunological impairment. These factors were not screened
+in this systematic review. Minimal data were available concerning other head and
+neck locations, with one study indicating null figures for oral SCCs [ 28 ] and the [ 33 ]
+study reporting figures for mixed locations. LR-HPV, such as HPV6 and HPV11, were
+associated with penile condylomas [ 56 ]. While it is possible that some penile condylomas
+may progress to SCCs [ 57 ], there is still insufficient data to support this hypothesis. Our
+systematic review showed that HPV6 and HPV11 infections were found in a significant
+proportion of penile SCCs, in agreement with the previous reports on penile cancer and
+penile intraepithelial neoplasia by multiple teams [ 58, 59 ], including a meta-analysis
+by [ 22 ]. While the Magaña-Leon study with only eight cases did not identify any HPV6
+orHPV11 single infections, larger studies such as those of Barzon et al. (2014) and
+especially Alemany et al. (2016), indicated that HPV6 and HPV11 mono-infections
+were found in approximately 5% of penile SCCs. Multiple LR-HPV infections were also
+found in 4% of other cases, according to Alemany et al. (2016). Taken together, these
+observations support the involvement of the LR-HPV types in a significant proportion of
+penile SCCs, suggesting that the penis and prepuce are anatomical sites with a particular
+susceptibility to carcinogenesis induced by these agents. Vaccines covering HPV6 and
+HPV11 may be more adequate for preventing penile neoplasia than bivalent vaccines
+targetting only HPV16 and HPV18. In the vulva and vagina, HPV6 and HPV11 were
+commonly associated with benign neoplasia, most often condylomas [ 47, 60, 61 ]. In our
+systematic review, a single study [ 28 ] addressed the frequency of HPV6 and HPV11
+mono-infections in the vagina and vulva, limiting our ability to draw conclusions. This
+study suggested that a low frequency of infection caused by these LR-HPV types could
+be associated with vaginal SCCs. However, no cases of vulva SCCs with HPV6/11
+were identified. These results were in agreement with the previous reports [ 62 ]. In our
+10-year study period, no studies focused on anal cancer fulfilled the inclusion criteria,
+and we could not conclude the involvement of HPV6 and HPV11 mono-infections in this
+
+type of cancer. This was regrettable, as other studies identified the presence of a small
+proportion of anal SCCs associated with those LR-HPV types, especially in the context
+of immunosuppression induced by HIV [63–66].
+It is possible that genomic similarities with high-risk HPV allow for HPV6 and HPV11
+to interact with important cellular targets, conferring a limited carcinogenic potential. The
+HPV early proteins had regulatory functions and could be found in both high- and low-risk
+HPVs [ 67 – 72 ]. Among these, the E5, E6 and E7 oncoproteins were believed to be the main
+
+*Cancers* **2023**, *15*, 4068 9 of 13
+
+transforming proteins of HR-HPV [ 5 ]. While E5 may have a low transforming activity
+when expressed alone in a cell culture, it could play important roles in carcinogenesis
+induced by high-risk HPV [ 73, 74 ]. The E6 protein was able to inactivate the p53 tumor
+suppressor protein and also perform p53-independent functions, thus playing a major
+role in the HPV-induced cell transformation [ 75, 76 ]. The E7 protein played several major
+roles in carcinogenesis, especially by driving the degradation of the retinoblastoma protein
+(pRb) and thereby promoting cell proliferation [ 77, 78 ]. It has been previously suggested
+that low-risk HPV types do not use their E6 and E7 gene products to drive extensive
+cell proliferation in the basal and parabasal cell layers, thereby drastically reducing their
+ability to induce cancer [ 79 ]. Indeed, our genomic analysis showed that the HPV6/11 and
+HPV16 genomes shared important differences concerning the E5, E6 and E7 oncogenes.
+However, they also exhibited some similarities. The E7 coding region was most conserved
+among all three viruses, while no similarities were found between the genomic sequences
+at the E6 and E5 regions. This suggests that the lower oncogenic potential of HPV6 and
+HPV11 compared with HPV16 was at least partly related to the differences on their E5
+and E6 oncogenes. Conversely, the similarities observed in the E7 oncogene could help
+explain why HPV6 and HPV11 seemed to show some carcinogenic potential towards noncervical tissues. Indeed, the HPV6 and HPV11 E7 proteins interacted with the pRb family
+member p130, inducing its proteasomal degradation. This mechanism could contribute to
+deregulating cell differentiation and proliferation in the suprabasal epithelial layers [ 80 – 82 ].
+Classically, the accumulation of the p16INK4a protein was assessed immunohistochemically
+in squamous cell carcinomas as a surrogate marker for pRb downregulation to confirm
+viral activity [ 83 ]. Two of the studies included in this review [ 34, 35 ] reported results for
+p16INK4a immunostaining in penile cancer, suggesting that only a minority of cases with
+LR-HPV were positive for this marker, which was in line with their limited ability to
+induce the degradation of pRb family proteins. Three studies of laryngeal cancer [ 29 – 31 ]
+reported that p16INK4a immunostaining had a poor correlation with the HPV DNA status
+in this type of cancer and, as observed for penile cancer, some LR-HPV-positive cases were
+p16INK4a-positive [29,31].
+
+**5. Conclusions**
+
+Overall, the present review combined and analyzed the data concerning the frequency
+of HPV6 and HPV11 mono-infections across multiple types of cancer. This analysis was
+limited by the small caseload of some studies and also by the absence of data concerning
+possible carcinogenic co-factors that could synergize with HPV6 and HPV11 to promote
+their tumorigenic potential. HPV6 and HPV11 mono-infections were mostly associated
+with SCCs of the larynx and penis. SCCs of the cervix, vagina, vulva and the head and
+neck (apart from the pharynx) showed the lowest frequencies of HPV6 and HPV11 monoinfections. It is plausible that factors such as immune suppression and specific changes to
+the local microbiome may contribute to the enhancement of viral persistence, while chemical
+agents may also act as co-carcinogens in the pharyngeal and penile mucosae. Establishing
+the etiologic role of these LR-HPVs in the penis and pharynx and the contributions of other
+co-factors will require additional studies and experimental demonstrations.
+
+**Supplementary Materials:** The following supporting information can be downloaded at:
+[https://www.mdpi.com/article/10.3390/cancers15164068/s1, Table S1: HPV6, HPV11 and HPV16](https://www.mdpi.com/article/10.3390/cancers15164068/s1)
+E5, E6 and E7 protein sequences.
+
+**Author Contributions:** Conceptualization, M.S.d.A., H.O.B. and R.M.G.d.C.; methodology, M.S.d.A.,
+G.B., R.M. and J.M.O.S.; validation, F.F.L. and A.P.A.d.S.; investigation, L.L.d.S. and A.M.T.; resources,
+P.A.O., R.M. and R.M.G.d.C.; data curation, A.I.F.-R., P.A.O. and R.M.G.d.C.; writing—original draft
+preparation, A.M.T. and R.M.G.d.C.; writing—review and editing, L.L.d.S., J.M.O.S., M.S.d.A., R.M.,
+A.I.F.-R., P.A.O., A.P.A.d.S., F.F.L., G.B. and H.O.B.; supervision, R.M., R.M.G.d.C. and H.O.B.; project
+administration, R.M.G.d.C. and R.M.; funding acquisition, R.M., P.A.O. and R.M.G.d.C. All authors
+have read and agreed to the published version of the manuscript.
+
+*Cancers* **2023**, *15*, 4068 10 of 13
+
+**Funding:** This research was funded by the following institutions: CAPES (finance code 001 and grant
+13/2020), PDPG Amazônia Legal 0810/2020/88881.510244/2020-01 (grants IECT-FAPEMA-05796/18
+and FAPEMA IECT 30/2018), IECT Saúde (grant PPSUS-02160/20 financed by FAPEMA, CNPq and the
+Brazilian Ministry of Health), the Research Center of the Portuguese Oncology Institute of Porto (project
+no. PI86-CI-IPOP-66-2017), the European Investment Fund, the FEDER/COMPETE/POCI—Operational
+Competitiveness and Internationalization Program, and national funds from the FCT—Portuguese Foundation for Science and Technology under projects UID/AGR/04033/2020 and UIDB/CVT/00772/2020.
+This work was also supported by LA/P/0045/2020 (ALiCE), UIDB/00511/2020 and UIDP/00511/2020
+(LEPABE), funded by national funds through FCT/MCTES (PIDDAC) and 2SMART (NORTE-01-0145FEDER-000054) and supported by the Norte Portugal Regional Operational Programme (NORTE
+2020) under the PORTUGAL 2020 Partnership Agreement through the European Regional Development Fund (ERDF). Rui Gil da Costa received a FAPEMA postdoctoral grant (BPD-01343/23). Leando
+Lima da Silva and Amanda Teles were supported by CAPES research grants under the project PDPG
+Amazônia Legal 0810/2020/88881.510244/2020-01.
+
+**Institutional Review Board Statement:** Not applicable.
+
+**Informed Consent Statement:** Not applicable.
+
+**Data Availability Statement:** The data produced in this study are available in this article and in
+Supplementary Table S1.
+
+**Conflicts of Interest:** The authors declare no conflict of interest. The funders had no role in the design
+of the study; in the collection, analyses, or interpretation of the data; in the writing of the manuscript;
+or in the decision to publish the results.
+
+**References**
+
+1. Tommasino, M. The human papillomavirus family and its role in carcinogenesis. *Semin. Cancer Biol.* **2014**, *26* [, 13–21. [CrossRef]](https://doi.org/10.1016/j.semcancer.2013.11.002)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/24316445)
+2. Vashisht, S.; Mishra, H.; Mishra, P.K.; Ekielski, A.; Talegaonkar, S. Structure, genome, infection cycle and clinical manifestations
+associated with human papillomavirus. *Curr. Pharm. Biotechnol.* **2019**, *20* [, 1260–1280. [CrossRef] [PubMed]](https://doi.org/10.2174/1389201020666190802115722)
+3. Liu, Y.; Baleja, J. Structure and function of the papillomavirus E6 protein and its interacting proteins. *Front. Biosci.* **2008**, *1*, 121–134.
+
+[[CrossRef]](https://doi.org/10.2741/2664)
+4. De Sanjose, S.; Brotons, M.; Pavon, M.A. The natural history of human papillomavirus infection. *Best Pract. Res. Clin. Obstet.*
+*Gynaecol.* **2018**, *47* [, 2–13. [CrossRef]](https://doi.org/10.1016/j.bpobgyn.2017.08.015)
+5. Estêvão, D.; Costa, N.R.; da Costa RM, G.; Medeiros, R. Hallmarks of HPV carcinogenesis: The role of E6, E7 and E5 oncoproteins
+in cellular malignancy. *Biochim. Biophys. Acta–Gene Regul. Mech.* **2019**, *1862* [, 153–162. [CrossRef]](https://doi.org/10.1016/j.bbagrm.2019.01.001)
+6. Zur Hausen, H. Papillomaviruses and cancer: From basic studies to clinical application. *Nat. Rev. Cancer* **2002**, *2*, 342–350.
+
+[[CrossRef]](https://doi.org/10.1038/nrc798)
+7. Zur Hausen, H. Papillomavirus infections: A major cause of human cancers. In *Infections Causing Human Cancer* ; Zur Hausen, H.,
+Ed.; Wiley–VCH: Weinheim, Germany, 2006; pp. 145–243.
+8. Bernard, H.U.; Burk, R.D.; Chen, Z.; van Doorslaer, K.; Zur Hausen, H.; de Villiers, E.M. Classification of papillomaviruses (PVs)
+based on 189 PV types and proposal of taxonomic amendments. *Virology* **2010**, *401* [, 70–79. [CrossRef]](https://doi.org/10.1016/j.virol.2010.02.002)
+9. De Villiers, E.M.; Fauquet, C.; Broker, T.R.; Bernard, H.U.; Zur Hausen, H. Classification of papillomaviruses. *Virology* **2004**,
+*324* [, 17–27. [CrossRef]](https://doi.org/10.1016/j.virol.2004.03.033)
+10. Muñoz, N.; Bosch, F.X.; De Sanjosé, S.; Herrero, R.; Castellsagué, X.; Shah, K.V.; Snijders, P.J.F.; Meijer, C.J.L.M. Epidemiologic
+classifcation of human papillomavirus types associated with cervical cancer. *N. Engl. J. Med.* **2003**, *348* [, 518–527. [CrossRef]](https://doi.org/10.1056/NEJMoa021641)
+11. Salgado, A.H.; Martín-Gámez, D.C.; Moreno, P.; Murillo, R.; Bravo, M.M.; Villa, L.; Molano, M. E6 molecular variants of human
+papillomavirus (HPV) type 16: An updated and unified criterion for clustering and nomenclature. *Virology* **2011**, *410*, 201–215.
+
+[[CrossRef]](https://doi.org/10.1016/j.virol.2010.10.039)
+12. Sichero, L.; Sobrinho, J.S.; Villa, L.L. Oncogenic potential diverge among human papillomavirus type 16 natural variants. *Virology*
+**2012**, *432* [, 127–132. [CrossRef]](https://doi.org/10.1016/j.virol.2012.06.011)
+13. Cochicho, D.; da Costa, R.G.; Felix, A. Exploring the roles of HPV16 variants in head and neck squamous cell carcinoma: Current
+challenges and opportunities. *Virol. J.* **2021**, *18* [, 217. [CrossRef]](https://doi.org/10.1186/s12985-021-01688-9)
+14. Leto, M.D.G.P.; Santos Júnior, G.F.D.; Porro, A.M.; Tomimori, J. Human papillomavirus infection: Etiopathogenesis, molecular
+biology and clinical manifestations. *An. Bras. Dermatol.* **2011**, *86* [, 306–317. [CrossRef] [PubMed]](https://doi.org/10.1590/S0365-05962011000200014)
+15. Kroupis, C.; Vourlidis, N. Human papilloma virus (HPV) molecular diagnostics. *Clin. Chem. Lab. Med.* **2011**, *49*, 1783–1799.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1515/cclm.2011.685)
+16. Hampson, I.N. Effects of the prophylactic HPV vaccines on HPV type prevalence and cervical pathology. *Viruses* **2022**, *14*, 757.
+
+[[CrossRef] [PubMed]](https://doi.org/10.3390/v14040757)
+
+*Cancers* **2023**, *15*, 4068 11 of 13
+
+17. Handisurya, A.; Schellenbacher, C.; Kirnbauer, R. Diseases caused by human papillomaviruses (HPV). *J. Dtsch. Dermatol. Ges.*
+**2009**, *7* [, 453–666, quiz 466, 467. [CrossRef] [PubMed]](https://doi.org/10.1111/j.1610-0387.2009.06988.x)
+18. Forman, D.; de Martel, C.; Lacey, C.J.; Soerjomataram, I.; Lortet-Tieulent, J.; Bruni, L.; Vignat, J.; Ferlay, J.; Bray, F.; Plummer, M.; et al. Global burden of human papillomavirus and related diseases. *Vaccine* **2012**, *30* [, F12–F23. [CrossRef]](https://doi.org/10.1016/j.vaccine.2012.07.055)
+19. Yuan, H.; Zhou, D.; Wang, J.; Schlegel, R. Divergent human papillomavirus associated with recurrent respiratory papillomatosis
+with lung involvement. *Genome Announc.* **2013**, *1* [, 10. [CrossRef]](https://doi.org/10.1128/genomeA.00474-13)
+20. Donne, A.; Hampson, L.; Homer, J.; Hampson, I. The role of HPV type in recurrent respiratory papillomatosis. *Int. J. Pediatr.*
+*Otorhinolaryngol.* **2010**, *74* [, 7–14. [CrossRef]](https://doi.org/10.1016/j.ijporl.2009.09.004)
+21. Faber, M.T.; Sand, F.L.; Albieri, V.; Norrild, B.; Kjær, S.K.; Verdoodt, F. Prevalence and type distribution of human papillomavirus
+in squamous cell carcinoma and intraepithelial neoplasia of the vulva. *Int. J. Cancer* **2017**, *141* [, 1161–1169. [CrossRef]](https://doi.org/10.1002/ijc.30821)
+22. Olesen, T.B.; Sand, F.L.; Rasmussen, C.L.; Albieri, V.; Toft, B.G.; Norrild, B.; Munk, C.; Kjær, S.K. Prevalence of human
+papillomavirus DNA and p16INK4a in penile cancer and penile intraepithelial neoplasia: A systematic review and meta-analysis.
+*Lancet Oncol.* **2019**, *20* [, 145–158. [CrossRef]](https://doi.org/10.1016/S1470-2045(18)30682-X)
+23. Page, M.J.; McKenzie, J.E.; Bossuyt, P.M.; Boutron, I.; Hoffmann, T.C.; Mulrow, C.D.; Shamseer, L.; Tetzlaff, J.M.; Akl, E.A.;
+Brennan, S.E.; et al. The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *Int. J. Surg.* **2021**,
+*88* [, 105906. [CrossRef]](https://doi.org/10.1016/j.ijsu.2021.105906)
+24. Grant, J.R.; Stothard, P. The CGView server: A comparative genomics tool for circular genomes. *Nucleic Acids Res.* **2008**,
+*36* [, W181–W184. [CrossRef] [PubMed]](https://doi.org/10.1093/nar/gkn179)
+25. Tao, G.; Yaling, G.; Zhan, G.; Pu, L.; Miao, H. Human papillomavirus genotype distribution among HPV-positive women in
+Sichuan province, Southwest China. *Arch. Virol.* **2017**, *163* [, 65–72. [CrossRef]](https://doi.org/10.1007/s00705-017-3556-1)
+26. Das, D.; Rai, A.K.; Kataki, A.C.; Barmon, D.; Deka, P.; Sharma, J.D.; Sarma, A.; Shrivastava, S.; Bhattacharyya, M.; Kalita, A.K.; et al.
+Nested multiplex PCR based detection of human papillomavirus in cervical carcinoma patients of North-East India. *Asian Pac. J.*
+*Cancer Prev.* **2013**, *14* [, 785–790. [CrossRef] [PubMed]](https://doi.org/10.7314/APJCP.2013.14.2.785)
+27. Aldersley, J.; Lorenz, D.R.; Mouw, K.W.; D’Andrea, A.D.; Gabuzda, D. Genomic landscape of primary and recurrent anal
+squamous cell carcinomas in relation to HPV integration, copy-number variation, and DNA damage response genes. *Mol. Cancer*
+*Res.* **2021**, *19* [, 1308–1321. [CrossRef]](https://doi.org/10.1158/1541-7786.MCR-20-0884)
+28. Magaña-León, C.; Oros, C.; López-Revilla, R. Human papillomavirus types in non-cervical high-grade intraepithelial neoplasias
+and invasive carcinomas from San Luis Potosí, Mexico: A retrospective cross-sectional study. *Infect. Agents Cancer* **2015**, *10*, 33.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1186/s13027-015-0027-8)
+29. Taberna, M.; Resteghini, C.; Swanson, B.; Pickard, R.K.; Jiang, B.; Xiao, W.; Mena, M.; Kreinbrink, P.; Chio, E.; Gillison, M.L. Low
+etiologic fraction for human papillomavirus in larynx squamous cell carcinoma. *Oral. Oncol.* **2016**, *61* [, 55–61. [CrossRef]](https://doi.org/10.1016/j.oraloncology.2016.08.009)
+30. Lam, E.W.H.; Chan, M.M.H.; Wai, C.K.C.; Ngai, C.M.; Chen, Z.; Wong, M.C.S.; Yeung, A.C.M.; Tong, J.H.M.; Chan, A.B.W.; To,
+K.F.; et al. The role of human papillomavirus in laryngeal cancer in Southern China. *J. Med. Virol.* **2018**, *90* [, 1150–1159. [CrossRef]](https://doi.org/10.1002/jmv.25058)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/29446476)
+31. Weiss, D.; Heinkele, T.; Rudack, C. Reliable detection of human papillomavirus in recurrent laryngeal papillomatosis and
+associated carcinoma of archival tissue. *J. Med. Virol.* **2015**, *87* [, 860–870. [CrossRef]](https://doi.org/10.1002/jmv.24124)
+32. Sun, J.; Xiong, J.; Zhen, Y.; Chen, Z.L.; Zhang, H. P53 and PCNA is positively correlated with HPV infection in laryngeal
+epitheliopapillomatous lesions in patiets with different ethnic backgrounds in Xinjiang. *Asian Pac. J. Cancer Prev.* **2012**, *13*, 5439–
+[5444. [CrossRef]](https://doi.org/10.7314/APJCP.2012.13.11.5439)
+33. Vietía, D.; Liuzzi, J.; Avila, M.; De Guglielmo, Z.; Prado, Y.; Correnti, M. Human papillomavirus detection in head and neck
+squamous cell carcinoma. *Ecancermedicalscience* **2014**, *8* [, 475. [CrossRef]](https://doi.org/10.3332/ecancer.2014.475)
+34. Barzon, L.; Cappellesso, R.; Peta, E.; Militello, V.; Sinigaglia, A.; Fassan, M.; Simonato, F.; Guzzardo, V.; Ventura, L.; Blandamura,
+S.; et al. Profiling of expression of human papillomavirus-related cancer miRNAs in penile squamous cell carcinomas. *Am. J.*
+*Pathol.* **2014**, *184* [, 3376–3383. [CrossRef]](https://doi.org/10.1016/j.ajpath.2014.08.004)
+35. Alemany, L.; Cubilla, A.; Halec, G.; Kasamatsu, E.; Quirós, B.; Masferrer, E.; Tous, S.; Lloveras, B.; Hernández-Suarez, G.; Lonsdale,
+R.; et al. Role of human papillomavirus in penile carcinomas worldwide. *Eur. Urol.* **2016**, *69* [, 953–961. [CrossRef]](https://doi.org/10.1016/j.eururo.2015.12.007)
+36. Lechner, M.; Liu, J.; Masterson, L.; Fenton, T.R. HPV-associated oropharyngeal cancer: Epidemiology, molecular biology and
+clinical mangement. *Nat. Rev. Clin. Oncol.* **2022**, *19* [, 306–327. [CrossRef]](https://doi.org/10.1038/s41571-022-00603-7)
+37. Serrano, B.; Brotons, M.; Bosch, F.X.; Bruni, L. Epidemiology and burden of HPV-related disease. *Clin. Obstet. Gynaecol.* **2018**,
+*47* [, 14–26. [CrossRef]](https://doi.org/10.1016/j.bpobgyn.2017.08.006)
+38. Mestre, V.F.; Medeiros-Fonseca, B.; Estêvão, D.; Casaca, F.; Silva, S.; Félix, A.; Silva, F.; Colaço, B.; Seixas, F.; Bastos, M.M.; et al.
+HPV16 is sufficient to induce squamous cell carcinoma specifically in the tongue base in transgenic mice. *J. Pathol.* **2020**, *251*, 4–11.
+
+[[CrossRef]](https://doi.org/10.1002/path.5387)
+39. Medeiros-Fonseca, B.; Mestre, V.F.; Estêvão, D.; Sánchez, D.F.; Cañete-Portillo, S.; Fernández-Nestosa, M.J.; Casaca, F.; Silva, S.;
+Brito, H.; Félix, A.; et al. HPV16 induces penile intraepithelial neoplasia and squamous cell carcinoma in transgenic mice: First
+mpouse model for HPV-related penile cancer. *J. Pathol.* **2020**, *251* [, 411–419. [CrossRef]](https://doi.org/10.1002/path.5475)
+40. Stelzer, M.K.; Pitot, H.C.; Liem, A.; Schweizer, J.; Mahoney, C.; Lambert, P.F. A mouse model for human anal cancer. *Cancer Prev.*
+*Res.* **2010**, *3* [, 1534–1541. [CrossRef]](https://doi.org/10.1158/1940-6207.CAPR-10-0086)
+
+*Cancers* **2023**, *15*, 4068 12 of 13
+
+41. Cochicho, D.; Nunes, A.; Gomes, J.P.; Martins, L.; Cunha, M.; Medeiros-Fonseca, B.; Oliveira, P.; Bastos, M.M.S.M.; Medeiros,
+R.; Mendonça, J.; et al. Characterization of the human papillomavirus 16 oncogenes in K14HPV16 mice: Sublineage A1 drives
+multi-organ carcinogenesis. *Int. J. Mol. Sci.* **2022**, *23* [, 12371. [CrossRef]](https://doi.org/10.3390/ijms232012371)
+42. Trottier, H.; Franco, E.L. The epidemiology of genital human papillomavirus infection. *Vaccine* **2006**, *24* [, S4–S15. [CrossRef]](https://doi.org/10.1016/j.vaccine.2005.09.054)
+43. Garbuglia, A.R.; Gentile, M.; Del Nonno, F.; Lorenzini, P.; Lapa, D.; Lupi, F.; Pinnetti, C.; Baiocchini, A.; Libertone, R.; Cicalini, S.;
+et al. An anal cancer screening program for MSM in Italy: Prevalence of multiple HPV types and vaccine-targeted infections. *J.*
+*Clin. Virol.* **2015**, *72* [, 49–54. [CrossRef]](https://doi.org/10.1016/j.jcv.2015.09.001)
+44. Jain, M.A.; Limaiem, F. *Cervical Intraepithelial Squamous Cell Lesion* ; StatPearls Publishing: Treasure Island, FL, USA, 2021.
+45. Cohen, P.A.; Jhingran, A.; Oaknin, A.; Denny, L. Cervical cancer. *Lancet* **2019**, *393* [, 169–182. [CrossRef]](https://doi.org/10.1016/S0140-6736(18)32470-X)
+46. Li, N.; Franceschi, S.; Howell-Jones, R.; Snijders, P.J.; Clifford, G.M. Human papillomavirus type distribution in 30,848 invasive
+cervical cancers worldwide: Variation by geographical region, histological type and year of publication. *Int. J. Cancer* **2011**,
+*128* [, 927–935. [CrossRef]](https://doi.org/10.1002/ijc.25396)
+47. Manyere, N.R.; Dube Mandishora, R.S.; Magwali, T.; Mtisi, F.; Mataruka, K.; Mtede, B.; Palefsky, J.M.; Chirenje, Z.M. Human
+papillomavirus genotype distribution in genital warts among women in Harare-Zimbabwe. *J. Obstet. Gynaecol.* **2020**, *40*, 830–836.
+
+[[CrossRef]](https://doi.org/10.1080/01443615.2019.1673710)
+48. Viau, M.; Renaud, M.C.; Grégoire, J.; Sebastianelli, A.; Plante, M. Paraneoplastic syndromes associated with gynecological cancers:
+A systematic review. *Gynecol. Oncol.* **2017**, *146* [, P661–P671. [CrossRef]](https://doi.org/10.1016/j.ygyno.2017.06.025)
+49. Pang, S.S.; Murphy, M.; Markham, M.J. Current management of locally advanced and metastatic cervical cancer in the United
+States. *JCO Oncol. Pract.* **2022**, *18* [, 417–422. [CrossRef]](https://doi.org/10.1200/OP.21.00795)
+50. Peixoto da Silva, S.; Santos, J.M.; Costa e Silva, M.P.; Gil da Costa, R.M.; Medeiros, R. Cancer cachexia and its pathophysiology:
+Links with sarcopenia, anorexia and asthenia. *J. Cachexia Sarcopenia Muscle* **2020**, *11* [, 619–635. [CrossRef]](https://doi.org/10.1002/jcsm.12528)
+51. Monti, M.; D’Aniello, D.; Scopelliti, A.; Tibaldi, V.; Santangelo, G.; Colagiovanni, V.; Giannini, A.; DI Donato, V.; Palaia, I.;
+Perniola, G.; et al. Relationship between cervical excisional treatment for cervical intraepithelial neoplasia and obstectrical
+outcome. *Minerva Obstet. Gynecol.* **2020**, *73*, 233–246.
+52. Giannini, A.; Di Donato, V.; Sopracordevole, F.; Ciavattini, A.; Ghelardi, A.; Vizza, E.; D’Oria, O.; Simoncini, T.; Plotti, F.; Casarin,
+J.; et al. Outcomes of high-grade cervical dysplasia with positive margins anf HPV persistence after cervical conization. *Vaccines*
+**2022**, *11* [, 698. [CrossRef]](https://doi.org/10.3390/vaccines11030698)
+53. Cochicho, D.; Esteves, S.; Rito, M.; Silva, F.; Martins, L.; Montalvão, P.; Cunha, M.; Magalhães, M.; Gil da Costa, R.M.; Felix, A.
+PIK3CA gene mutations in HNSCC: Systematic review and correlations with HPV status and patient survival. *Cancers* **2022**,
+*14* [, 1286. [CrossRef]](https://doi.org/10.3390/cancers14051286)
+54. Rabah, R.; Lancaster, W.D.; Thomas, R.; Gregoire, L. Human papillomavirus-11-associated recurrent respiratory papillomatosis is
+more aggressive than human papillomavirus-6-associated disease. *Pediatr. Dev. Pathol.* **2001**, *4* [, 68–72. [CrossRef]](https://doi.org/10.1007/s100240010105)
+55. Lee, L.-A.; Cheng, A.-J.; Fang, T.-J.; Huang, C.-G.; Liao, C.-T.; Chang, J.T.-C.; Li, H.-Y. High incidence of malignant transformation
+of laryngeal papilloma in Taiwan. *Laryngoscope* **2008**, *118* [, 50–55. [CrossRef]](https://doi.org/10.1097/MLG.0b013e318155a288)
+56. Wieland, U.; Kreuter, A. HPV-induced anal lesions. *Hautarzt* **2015**, *66* [, 439–445. [CrossRef]](https://doi.org/10.1007/s00105-015-3630-0)
+57. Zaouak, A.; Ebdelli, W.; Bacha, T.; Koubaa, W.; Hammami, H.; Fenniche, S. Verrucous carcinoma arising in an extended giant
+condyloma acuminatum. *Skinmed* **2023**, *21*, 53–54.
+58. De Sousa, I.D.B.; Vidal, F.C.B.; Vidal, J.P.C.B.; de Mello, G.C.F.; Nascimento, M.D.D.S.B.; Brito, L.M.O. Prevalence of human
+papillomavirus in penile malignant tumors: Viral genotyping and clinical aspects. *BMC Urol.* **2015**, *15* [, 13. [CrossRef]](https://doi.org/10.1186/s12894-015-0007-8)
+59. Fernández-Nestosa, M.J.; Guimerà, N.; Sanchez, D.F.; Cañete-Portillo, S.; Velazquez, E.F.; Jenkins, D.; Quint, W.; Cubilla, A.L.
+Human papillomavirus (HPV) genotypes in condylomas, intraepithelial neoplasia, and invasive carcinoma of the penis using
+laser capture microdissection (LCM)-PCR: A study of 191 lesions in 43 patients. *Am. J. Surg. Pathol.* **2017**, *41* [, 820–832. [CrossRef]](https://doi.org/10.1097/PAS.0000000000000821)
+60. Srodon, M.; Stoler, M.H.; Baber, G.B.; Kurman, R.J. The distribution of low and high-risk HPV types in vulvar and vaginal
+intraepithelial neoplasia (VIN and VaIN). *Am. J. Surg. Pathol.* **2006**, *30* [, 1513–1518. [CrossRef]](https://doi.org/10.1097/01.pas.0000213291.96401.48)
+61. Facio, F.N., Jr.; Facio, M.F.W.; Spessoto, A.C.N.; Godoy, M.; Tessaro, H.; Campos, R.; Zanatto, D.; Calmon, M.; Rahal, P.; Fava, L.C.;
+et al. Clinical and molecular profile of patients with condyloma acuminatum treated in the Brazilian public healthcare system.
+*Cureus* **2022**, *14* [, e21961. [CrossRef]](https://doi.org/10.7759/cureus.21961)
+62. Horn, L.C.; Klostermann, K.; Hautmann, S.; Höhn, A.K.; Beckmann, M.W.; Mehlhorn, G. HPV-associated alterations of the vulva
+and vagina. Morphology and molecular pathology. *Pathologe* **2011**, *32* [, 467–475. [CrossRef]](https://doi.org/10.1007/s00292-011-1476-5)
+63. Cornall, A.M.; Roberts, J.M.; Garland, S.M.; Hillman, R.J.; Grulich, A.E.; Tabrizi, S.N. Anal and perianal squamous carcinomas
+and high-grade intraepithelial lesions exclusively associated with “low-risk” HPV genotypes 6 and 11. *Int. J. Cancer* **2013**,
+*133* [, 2253–2258. [CrossRef]](https://doi.org/10.1002/ijc.28228)
+64. de Pokomandy, A.; Rouleau, D.; Ghattas, G.; Vézina, S.; Coté, P.; Macleod, J.; Allaire, G.; Franco, E.L.; HIPVIRG Study Group.
+Prevalence, clearance, and incidence of anal human papillomavirus infection in HIV-infected men: The HIPVIRG Cohort Study. *J.*
+*Infect. Dis.* **2009**, *199* [, 965–973. [CrossRef]](https://doi.org/10.1086/597207)
+65. Goldstone, S.; Palefsky, J.M.; Giuliano, A.R.; Moreira, E.D.; Aranda, C.; Jessen, H.; Hillman, R.J.; Ferris, D.G.; Coutlee, F.; Liaw,
+K.-L.; et al. Prevalence of and risk factors for human papillomavirus (HPV) infection among HIV-seronegative men who have sex
+with men. *J. Infect. Dis.* **2011**, *203* [, 66–74. [CrossRef]](https://doi.org/10.1093/infdis/jiq016)
+
+*Cancers* **2023**, *15*, 4068 13 of 13
+
+66. Alexandrou, A.; Dimitriou, N.; Levidou, G.; Griniatsos, J.; Sougioultzis, S.; Korkolopoulou, P.; Felekouras, E.; Pikoulis, E.;
+Diamantis, T.; Tsigris, C.; et al. The incidence of HPV infection in anal cancer patients in Greece. *Acta Gastroenterol. Belg.* **2014**,
+*77* [, 213–216. [PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/25090818)
+67. Egawa, N.; Nakahara, T.; Ohno, S.; Narisawa-Saito, M.; Yugawa, T.; Fujita, M.; Yamato, K.; Natori, Y.; Kiyono, T. The E1 protein
+of human papillomavirus type 16 is dispensable for maintenance replication of the viral genome. *J. Virol.* **2012**, *86*, 3276–3283.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1128/JVI.06450-11)
+68. Hughes, F.J.; Romanos, M.A. E1 protein of human papillomavirus is a DNA helicase/ATPase. *Nucleic Acids Res.* **1993**, *21*, 5817–
+[5823. [CrossRef] [PubMed]](https://doi.org/10.1093/nar/21.25.5817)
+69. Doorbar, J.; Egawa, N.; Griffin, H.; Kranjec, C.; Murakami, I. Human papillomavirus molecular biology and disease association.
+*Rev. Med. Virol.* **2015**, *25* [(Suppl. S1), 2–23. [CrossRef]](https://doi.org/10.1002/rmv.1822)
+70. Sanders, C.M.; Stenlund, A. Transcription factor-dependent loading of the E1 initiator reveals modular assembly of the papillomavirus origin melting complex. *J. Biol. Chem.* **2000**, *275* [, 3522–3534. [CrossRef]](https://doi.org/10.1074/jbc.275.5.3522)
+71. Võsa, L.; Sudakov, A.; Remm, M.; Ustav, M.; Kurg, R. Identification and analysis of papillomavirus E2 protein binding sites in the
+human genome. *J. Virol.* **2012**, *86* [, 348–357. [CrossRef]](https://doi.org/10.1128/JVI.05606-11)
+72. Wang, X.; Meyers, C.; Wang, H.-K.; Chow, L.T.; Zheng, Z.-M. Construction of a full transcription map of human papillomavirus
+type 18 during productive viral infection. *J. Virol.* **2011**, *85* [, 8080–8092. [CrossRef]](https://doi.org/10.1128/JVI.00670-11)
+73. Müller, M.; Prescott, E.L.; Wasson, C.W.; Macdonald, A. Human papillomavirus E5 oncoprotein: Function and potential target for
+antiviral therapeutics. *Future Virol.* **2015**, *10* [, 27–39. [CrossRef]](https://doi.org/10.2217/fvl.14.99)
+74. DiMaio, D.; Petti, L.M. The E5 proteins. *Virology* **2013**, *445* [, 99–114. [CrossRef] [PubMed]](https://doi.org/10.1016/j.virol.2013.05.006)
+75. Filippova, M.; Johnson, M.M.; Bautista, M.; Filippov, V.; Fodor, N.; Tungteakkhun, S.S.; Williams, K.; Duerksen-Hughes, P.J. The
+large and small isoforms of human papillomavirus type 16 E6 bind to and differentially affect procaspase 8 stability and activity.
+*J. Virol.* **2007**, *81* [, 4116–4129. [CrossRef]](https://doi.org/10.1128/JVI.01924-06)
+76. Genther Williams, S.M.; Disbrow, G.L.; Schlegel, R.; Lee, D.; Threadgill, D.W.; Lambert, P.F. Requirement of epidermal growth
+factor receptor for hyperplasia induced by E5, a high-risk human papillomavirus oncogene. *Cancer Res.* **2005**, *65*, 6534–6542.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1158/0008-5472.CAN-05-0083)
+77. Roman, A.; Munger, K. The papillomavirus E7 proteins. *Virology* **2013**, *445* [, 138–168. [CrossRef] [PubMed]](https://doi.org/10.1016/j.virol.2013.04.013)
+78. McLaughlin-Drubin, M.E.; Bromberg-White, J.L.; Meyers, C. The role of the human papillomavirus type 18 E7 oncoprotein during
+the complete viral life cycle. *Virology* **2005**, *338* [, 61–68. [CrossRef]](https://doi.org/10.1016/j.virol.2005.04.036)
+79. Egawa, N.; Doorbar, J. The low-risk papillomaviruses. *Virus Res.* **2017**, *231* [, 119–127. [CrossRef]](https://doi.org/10.1016/j.virusres.2016.12.017)
+80. Barrow-Laing, L.; Chen, W.; Romão, A. Low- and high-risk human papillomavirusE7 proteins regulate p130 differently. *Virology*
+**2010**, *400* [, 233–239. [CrossRef]](https://doi.org/10.1016/j.virol.2010.01.034)
+81. Zhang, B.; Chen, W.; Roman, A. The E7 proteins of low- and high-risk human papillomaviruses share the ability to target the pRB
+family member p130 for degradation. *Proc. Natl. Acad. Sci. USA* **2006**, *103* [, 437–442. [CrossRef]](https://doi.org/10.1073/pnas.0510012103)
+82. Genovese, N.J.; Broker, T.R.; Chow, L.T. Nonconserved lysine residues attenuate the biological function of the low-risk human
+papillomavirus E7 protein. *J. Virol.* **2011**, *85* [, 5546–5554. [CrossRef]](https://doi.org/10.1128/JVI.02166-10)
+83. Singhi, A.D.; Westra, W.H. Comparison of human papillomavirus in situ hybridization and p16 immunohistochemistry in the
+detection of human papillomavirus-associated head and neck cancer based on a prospective clinical experience. *Cancer* **2010**,
+*116* [, 2166–2173. [CrossRef] [PubMed]](https://doi.org/10.1002/cncr.25033)
+
+**Disclaimer/Publisher’s Note:** The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

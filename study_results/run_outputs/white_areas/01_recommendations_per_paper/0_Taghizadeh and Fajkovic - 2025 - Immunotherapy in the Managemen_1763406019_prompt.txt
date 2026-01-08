@@ -1,0 +1,1023 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    *Systematic Review*
+# **Immunotherapy in the Management of Penile** **Cancer—A Systematic Review**
+
+**Hossein Taghizadeh** **[1,2,3]** **and Harun Fajkovic** **[2,4,5,6,]** *****
+
+1 Division of Oncology, Department of Internal Medicine I, University Hospital St. Pölten,
+3100 St. Pölten, Austria; hossein.taghizadeh@stpoelten.lknoe.at
+2 Divison of Oncology, Karl Landsteiner University of Health Sciences, 3500 Krems, Austria
+3 Karl Landsteiner Institute for Oncology and Nephrology, Dunant-Platz 1, 3100 St. Pölten, Austria
+4 Department of Urology and Andrology, University Hospital St. Pölten, 3100 St. Pölten, Austria
+5 Karl Landsteiner Institute for Urological Research and Training, 3100 St. Pölten, Austria
+6 Comprehensive Cancer Center, Department of Urology, Medical University of Vienna, Vienna General Hospital,
+1090 Vienna, Austria
+***** Correspondence: harun.fajkovic@stpoelten.lknoe.at; Tel.: +43-2742-9004 (ext. 22178)
+
+**Simple Summary:** Penile cancer is a rare and challenging disease, particularly in its
+advanced stages where treatment options are limited. Recent advances in immunotherapy,
+especially immune checkpoint inhibitors (ICIs), offer new hope by enhancing the body’s
+immune response against cancer cells. These therapies show promise in improving survival
+rates, particularly in patients with specific biomarkers such as PD-L1 expression and HPV
+positivity. Combining ICIs with chemotherapy or radiotherapy may further increase their
+effectiveness. However, due to the rarity of penile cancer, international collaboration is
+essential to conduct large-scale trials and optimize treatments. This review summarizes the
+current clinical evidence on ICIs, emphasizing their potential to improve outcomes and
+quality of life in patients with advanced penile cancer.
+
+
+Academic Editors: Juan J. Chipollini
+
+and Ahmet Murat Aydin
+
+Received: 20 January 2025
+
+Revised: 22 February 2025
+
+Accepted: 2 March 2025
+
+Published: 4 March 2025
+
+**Citation:** Taghizadeh, H.; Fajkovic,
+
+H. Immunotherapy in the
+
+Management of Penile Cancer—A
+
+Systematic Review. *Cancers* **2025**, *17*,
+
+[883. https://doi.org/10.3390/](https://doi.org/10.3390/cancers17050883)
+
+[cancers17050883](https://doi.org/10.3390/cancers17050883)
+
+**Copyright:** © 2025 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license
+
+[(https://creativecommons.org/](https://creativecommons.org/licenses/by/4.0/)
+
+[licenses/by/4.0/).](https://creativecommons.org/licenses/by/4.0/)
+
+
+**Abstract: Background/Objectives:** Penile squamous cell carcinoma (PSCC) is a rare and
+challenging malignancy with limited treatment options for advanced disease stages. Immune checkpoint inhibitors (ICIs) have emerged as a promising therapeutic strategy, leveraging the immune system’s ability to counteract tumor-induced immune evasion. This
+systematic review aims to synthesize current evidence on the efficacy of ICIs in PSCC,
+with a focus on their application in advanced and refractory settings. **Methods:** A comprehensive literature search was conducted across PubMed, Web of Science, Embase, and
+ClinicalTrials.gov to identify studies investigating ICIs in the treatment of PSCC. Studies
+were selected based on predefined inclusion and exclusion criteria, and data on treatment
+efficacy, biomarker relevance, and safety were extracted and analyzed. **Results:** Clinical
+trials and real-world data indicate that ICIs can provide durable responses in a subset of
+patients with advanced PSCC, particularly those with biomarkers such as PD-L1 expression and HPV positivity. Combination approaches, including ICIs with chemotherapy
+or radiotherapy, as well as neoadjuvant or adjuvant use, show potential for expanding
+treatment paradigms. However, due to the rarity of PSCC, robust evidence remains limited, necessitating further research and international collaboration. **Conclusions:** ICIs
+represent a promising therapeutic avenue for PSCC, with the potential to improve patient
+outcomes and quality of life. However, optimizing treatment strategies requires enhanced
+patient stratification, exploration of earlier incorporation of ICIs, and investigation of novel
+combination therapies. Centralized care and collaborative research efforts are essential to
+advancing the role of immunotherapy in PSCC management.
+
+
+*Cancers* **2025**, *17*, 883 [https://doi.org/10.3390/cancers17050883](https://doi.org/10.3390/cancers17050883)
+
+*Cancers* **2025**, *17*, 883 2 of 15
+
+**Keywords:** penile squamous cell carcinoma (PSCC); immune checkpoint inhibitors (ICIs);
+human papillomavirus (HPV)
+
+**1. Introduction**
+
+Penile cancer, though a rare malignancy, presents a significant challenge in the domain
+of male genitourinary oncology, particularly due to its limited treatment options and due
+to the profound physical and psychological impact on patients [1].
+Among all malignant neoplasms of the penis, approximately 95% are classified as
+penile squamous cell carcinomas (PSCC). Notably, around 50% of these cases originate
+from the non-keratinized epithelium of the glans or the inner layer of the prepuce [ 2 ]. For
+a detailed categorization, refer to Table 1, which presents the World Health Organization
+(WHO) classification of penile tumors [3].
+
+**Table 1.** WHO classification of tumors of the penis [3].
+
+**Non-HPV-Related** **HPV-Related**
+
+S q uamous cell carcinoma (SCC), usual t yp e Basaloid SCC
+
+Pseudoh yp er p lastic carcinoma Pa p illar y basaloid carcinoma
+
+Verrucous carcinoma Wart y carcinoma
+
+Carcinoma cuniculatum Warty-basaloid carcinoma
+
+Pa p illar y carcinoma NOS Clear-cell carcinoma
+
+Adenos q uamous carcinoma L y m p hoe p ithelioma-like carcinoma
+
+Sarcomatoid carcinoma
+
+Mixed squamous cell carcinoma
+
+In 2020, a total of 36,068 new cases were reported worldwide, as documented by the
+International Agency for Research on Cancer [4].
+However, the global incidence varies dramatically. In high-income countries, it affects
+approximately 0.1 to 1 per 100,000 men, whereas in parts of Africa, Asia, and South America,
+it can account for up to 10% of all male cancers [ 4 ]. This striking disparity highlights the
+influence of geographical, cultural, and socioeconomic factors, including hygiene practices,
+circumcision rates, access to healthcare, and prevalence of human papillomavirus (HPV)
+infection [ 5 ]. Penile cancer affects primarily elderly men, with a median age of diagnosis of
+65 and above [6–8].
+The pathogenesis of penile cancer is a multifactorial process influenced by various
+risk factors. Approximately one-third of all cases are associated with infection by human
+papillomavirus (HPV). Immunohistochemical detection of the p16 protein serves as a
+surrogate marker for HPV-associated malignancies. In HPV-positive cancers, the viral
+oncoprotein E7 inactivates the retinoblastoma (Rb) protein, leading to upregulation of p16.
+This overexpression is commonly observed in HPV-associated malignancies, including
+PSCC. The most frequently identified HPV serotypes in penile cancer include HPV 16, 18,
+31, 33, 45, 56, and 65 [9,10].
+Phimosis, a condition where the foreskin cannot be retracted, is another significant
+risk factor, likely due to the accumulation of smegma and chronic inflammation. Chronic
+inflammatory conditions of the penis, such as balanitis xerotica obliterans, also increase
+susceptibility. Tobacco smoking is an independent risk factor, with carcinogens in cigarette
+
+*Cancers* **2025**, *17*, 883 3 of 15
+
+smoke contributing to DNA damage. Age is also a factor, with the majority of diagnoses
+occurring in men over 55 years of age, although younger men can also be affected [10].
+In contrast, circumcision in childhood significantly reduces the prevalence of
+the condition [11].
+Clinically, penile cancer often presents with subtle initial symptoms, which can delay
+diagnosis. These can include non-healing sores or ulcers, persistent redness or rashes,
+changes in skin color or texture, and the presence of foul-smelling discharge under the
+foreskin. In some cases, a palpable lump or growth may be present. Because these early
+signs can be easily overlooked or mistaken for benign conditions, patient education and
+physician awareness are crucial for early detection [5].
+PSCC prognosis varies significantly based on the TNM staging at diagnosis. The TNM
+system evaluates the primary tumor (T), regional lymph node involvement (N), and distant
+metastasis (M).
+In localized stages (T1–T2, N0, M0), where the cancer is confined to the penis without
+lymph node involvement or distant spread, the 5-year relative survival rate is approximately
+79%. As the disease progresses to regional spread (any T, N1–N2, M0), involving nearby
+lymph nodes but no distant metastasis, the 5-year relative survival rate decreases to around
+51%. In advanced stages with distant metastasis (any T, any N, M1), where the cancer has
+spread to other parts of the body, the 5-year relative survival rate drops significantly to
+approximately 9%.
+Further stratification based on lymph node involvement provides additional insights.
+Patients with no regional lymph node metastasis (N0) have over a 90% 5-year survival
+rate. Those with metastasis in a single inguinal lymph node (N1) have nearly a 75% 5-year
+survival rate. Metastasis in multiple or bilateral inguinal lymph nodes (N2) corresponds to
+about a 60% 5-year survival rate. When metastasis involves pelvic lymph nodes or there is
+extranodal extension (N3), the 5-year survival rate is approximately 35% [12].
+The management of penile cancer depends on the stage and grade of the tumor.
+Treatment options range from conservative approaches for the early-stage disease to more
+aggressive interventions for advanced cases. Conservative treatments include topical
+creams containing 5-fluorouracil or imiquimod for carcinoma in situ, and laser ablation
+or circumcision for small, localized lesions. More invasive treatments include partial or
+total penectomy (surgical removal of part or all of the penis) with or without urinary
+diversion and inguinal lymph node dissection, and radiation therapy. Chemotherapy,
+typically cisplatin-based regimens, is used for advanced or metastatic disease [12–14].
+Despite these treatment modalities, the prognosis for advanced penile cancer remains
+poor, and the morbidity associated with radical surgery can be significant, impacting
+patients’ sexual function and quality of life. The limitations of conventional chemotherapy
+have spurred research into novel therapeutic approaches. Immunotherapy, particularly
+immune checkpoint inhibitors targeting PD-1/PD-L1, has shown promising results in some
+patients with advanced or refractory disease by harnessing the body’s own immune system
+to fight cancer cells [12,15].
+
+*Rationale for Immunotherapy in Penile Cancer*
+
+Penile cancer is an uncommon malignancy, and in its advanced stages treatment options are limited. Chemotherapy regimens, such as traditional platinum-based chemotherapies such as the TIP regimen (paclitaxel, ifosfamide, and cisplatin), have demonstrated
+objective response rates of approximately 50% in neoadjuvant settings, with a pathological
+complete response rate of 10%. However, these responses are often short-lived, underscoring the necessity for novel therapeutic approaches, including immune checkpoint
+inhibitors (ICIs) [16,17].
+
+*Cancers* **2025**, *17*, 883 4 of 15
+
+The rationale for immunotherapy in penile cancer is supported by the immune system’s intrinsic capacity to recognize and eliminate malignant cells, alongside the observation that tumors frequently evade immune surveillance by exploiting regulatory “checkpoint” pathways [16,17].
+Immune checkpoints are molecules that function as inhibitory regulators of immune
+cell activity, preventing excessive damage to normal tissues. Tumor cells often co-opt
+these pathways to escape detection. ICIs—agents that block checkpoint proteins—therefore
+enhance anti-tumor immune responses by preventing these inhibitory interactions. Among
+the most extensively studied checkpoints is the interaction between programmed cell death
+protein 1 (PD-1), primarily expressed on T cells, and its ligand (PD-L1), frequently expressed
+on tumor cells. When PD-1 binds to PD-L1, the T cell’s activity is suppressed, reducing
+its capacity to kill cancer cells. ICIs such as pembrolizumab (anti-PD-1), nivolumab (antiPD-1), and atezolizumab (anti-PD-L1) disrupt this interaction and restore T-cell-mediated
+tumor cell killing [ 18, 19 ]. In the context of PSCC, the PD-1/PD-L1 axis plays a pivotal role
+in T-cell exhaustion. PD-1, predominantly expressed on activated CD8+ T cells, binds to
+PD-L1 expressed on tumor cells and antigen-presenting cells within the TME, leading to
+T-cell dysfunction. This interaction not only suppresses cytotoxicity but also limits T-cell
+proliferation and cytokine release. While CD3+CD8+ T cells are particularly susceptible
+to this exhaustion pathway, emerging evidence suggests that CD4+ T cells and NK cells
+also exhibit PD-1-mediated functional impairments, contributing to immune evasion and
+tumor progression.
+Programmed death-ligand 1 (PD-L1) expression is observed in up to 79% of both
+primary and metastatic penile squamous cell carcinomas (SCC), suggesting its potential
+as a predictive biomarker for the efficacy of immune checkpoint inhibitors (ICIs) [ 20 – 23 ].
+Notably, PD-L1 expression has been associated with a poor prognosis, particularly in
+human papillomavirus (HPV)-negative penile tumors, indicating that higher PD-L1 levels
+correlate with adverse clinical outcomes. This dual role of PD-L1—as a prognostic marker
+and as a predictor of response to ICIs—underscores its significance in identifying patient
+subgroups that may derive the greatest benefit from anti-PD-1/PD-L1 therapies. However,
+it is essential to recognize that while PD-L1 expression is associated with a poor prognosis,
+it is predictive for the efficacy of immunotherapy [23–25].
+Histopathological evaluations reveal that PD-L1 positivity is more frequent in usualtype SCC, whereas warty-type and verrucous-type tumors—typically associated with better
+prognoses—rarely show PD-L1 positivity in PSCC. PD-L1 expression is more common in
+HPV-negative cases due to factors such as a higher tumor mutational burden (TMB), chronic
+inflammation, and immune microenvironment composition. A higher TMB produces
+neoantigens that trigger immune responses, prompting tumor cells to upregulate PD-L1.
+Chronic inflammation promotes continuous immune cell infiltration, sustaining PD-L1
+expression. Additionally, CTLA4-positive immune cells in the tumor microenvironment
+further increase PD-L1 levels. In contrast, HPV-positive SCCs, with a lower TMB and
+inflammation, show reduced PD-L1 expression, as their viral oncogenes elicit weaker
+immune responses [22].
+It is important to stress that ICIs can produce immune-related adverse events (irAEs),
+including diarrhea, pneumonitis, and elevated liver enzymes. The incidence of severe irAEs is
+lower with anti-PD-1/PD-L1 therapies than with anti-CTLA-4 agents [ 26, 27 ]. However, compared with chemotherapy, ICIs generally elicit fewer severe toxicities, as shown in two large
+meta-analyses comprising several thousand patients with solid malignancies [28,29].
+Thus, the balance of efficacy and tolerability further supports the use of ICIs in
+penile cancer.
+The most commonly used ICIs in this disease are PD-1 and PD-L1 inhibitors (see Table 2).
+
+*Cancers* **2025**, *17*, 883 5 of 15
+
+**Table 2.** Overview: Clinical investigation of the immune checkpoint inhibitors in penile cancer in
+alphabetical order.
+
+**Substance** **Brand** **Substance**
+**Name** **Name** **Number** **Pharmaceutical Company** **Antibody Type** **Target**
+
+
+Atezolizumab Tecentriq MPDL3280A
+
+
+Genentech/Roche
+South San Francisco, CA,
+USA/
+Basel, Switzerland
+
+
+IgG1-humanized PD-L1
+
+
+Merck KGaA
+Avelumab Bavencio MSB0010718C IgG1-human PD-L1
+Darmstadt, Germany
+
+Cemiplimab Libtayo REGN2810 Regeneron Pharmaceuticals IgG4-human PD-1
+Tarrytown, NY, USA
+
+GSK
+Dostarlimab Jemperli GSK-4057190 IgG4-human PD-1
+Brentford, UK
+
+Ipilimumab Yervoy MDX-010 Bristol-Myers Squibb IgG1k-human CTLA-4
+Lawrenceville, GA, USA
+
+Nivolumab Opdivo BMS-936558 Bristol-Myers Squibb IgG4-human PD-1
+Lawrenceville, GA, USA
+
+Merck & Co
+Pembrolizumab Keytruda MK-3475 IgG4-humanized PD-1
+Rahway, NJ, USA
+
+Retifanlimab Zynyz INCMGA00012 Incyte IgG4-human PD-1
+Wilmington, DE, USA
+
+**2. Methods**
+
+Eligibility Criteria: The inclusion criteria were studies investigating the use of immune checkpoint inhibitors (ICIs) in the management of penile squamous cell carcinoma
+(PSCC), published in peer-reviewed journals. Only studies with human participants, including randomized controlled trials, observational studies, and case series, were included.
+The exclusion criteria were case reports and studies involving non-human subjects, nonPSCC malignancies, penile intraepithelial neoplasia (PeIN), or articles without original
+data. Studies were grouped based on the treatment approach: maintenance therapy postchemotherapy, combination therapy with chemotherapy or radiotherapy, ICI monotherapy,
+and novel immunotherapeutic combinations.
+Information Sources: A comprehensive search was conducted across PubMed, Web
+of Science, Embase, and ClinicalTrials.gov. The reference lists of identified studies and
+relevant reviews were manually screened for additional studies. The search was last
+conducted on 10 February 2025.
+Search Strategy: The search strategy included a combination of MeSH terms and
+keywords, as follows: “penile cancer”, “penile squamous cell carcinoma”, “immune checkpoint inhibitors”, “PD-1”, “PD-L1”, “nivolumab”, “pembrolizumab”, “atezolizumab”,
+and “dostarlimab”. The filters applied included human studies, English language, and
+publication date from 2010 onward.
+Selection Process: Two independent reviewers screened the titles and abstracts for eligibility. Full-text articles were assessed for inclusion by both reviewers, with discrepancies
+resolved through discussion or a third reviewer if necessary. Covidence software was used
+to streamline the selection process.
+Data Collection Process: Data extraction was performed independently by two reviewers
+using a standardized form that included study design, sample size, treatment regimen, outcomes, and safety data. In case of missing information, corresponding authors
+
+were contacted.
+
+Data Items: Primary outcomes included overall response rate (ORR), progression-free
+survival (PFS), and overall survival (OS). Data on patient characteristics, PD-L1 expression,
+HPV status, and tumor mutational burden (TMB) were also collected.
+Effect Measures: effect measures included risk ratios for binary outcomes, hazard
+ratios for time-to-event data, and mean differences for continuous outcomes.
+
+*Cancers* **2025**, *17*, 883 6 of 15
+
+Synthesis Methods: studies were synthesized by grouping results according to
+
+treatment strategy.
+Reporting Bias Assessment: Publication bias was assessed using funnel plots and
+Egger’s test for outcomes with sufficient studies. Selective reporting bias was evaluated by
+comparing reported outcomes with study protocols where available.
+Certainty Assessment: the certainty of evidence was assessed using the Grading of
+Recommendations Assessment, Development and Evaluation (GRADE) approach, considering study limitations, inconsistency, indirectness, imprecision, and publication bias.
+Please see Figure 1.
+
+**Figure 1.** PRISMA 2020 flow diagram for new systematic reviews in the field of penile cancer
+(Supplementary Materials).
+
+*Cancers* **2025**, *17*, 883 7 of 15
+
+**3. Results**
+
+*3.1. Evidence for Immunotherapy in Clinical Trials in Penile Cancer*
+
+Clinical trials have demonstrated the clinical activity of immunotherapy with an
+ORR of as high as 39.4% in the HERCULES trial [ 30 ]. Durable responses can occur in
+a small subset of patients with advanced penile cancer who received ICIs after progressing on prior chemotherapy. In particular, those with microsatellite instability high
+(MSI-High) status and high tumor mutational burden (TMB-High), which is present
+in approximately 1% of all cases, benefit from a durable response referring to an objective response lasting at least 6 months. MSI-High and TMB-High are biomarkers
+associated with increased neoantigen formation, enhancing tumor immunogenicity.
+This heightened immunogenicity renders such tumors more susceptible to immune
+checkpoint blockade, as the immune system can better recognize and target cancer
+cells. Currently, the ESMO clinical practice guidelines recommend the consideration of
+immune checkpoint inhibitors for PSCC patients with MSI-High and as well as those
+with TMB-High who are resistant to standard therapies [ 12 ]. See Table 3 for an overview
+of trials investigating ICIs in the field of PSCC.
+
+**Table 3.** ( **A** ) Comparative overview of the listed Phase 2 trials in advanced penile cancer with
+reported results. ( **B** ) Comparative overview of the listed Phase 2 trials in advanced penile cancer
+with pending results.
+
+**NCT Number** **Status** **Intervention** **Primary End** **Number of Patients** **Outcome**
+**(Trial Name)** **Point**
+
+( **A** )
+
+
+Survival without progression
+or death
+
+at 3 months 63.5%
+
+at 6 months 63.5%
+
+at 12 months 63.5%
+
+and 15 months 42.3%
+
+Overall survival
+
+at 12 months 88.9%
+
+and 15 months 88.9%
+
+ORR assessed by investigator 39.4%
+ORR central review 42.4%
+CBR assessed by investigator 45.5%
+mDOR 5.9 months
+
+mPFS 5.4 months
+
+mOS 9.6 months
+
+PFS at one year: 12.5% *−→* primary
+endpoint not met
+mOS. 11.3 months
+
+ORR: 16.7%
+
+12-week ORR: 14%
+
+mPFS 2.9 months
+
+mOS: 8.5 months
+
+6-month PFS rate: 27.9%
+
+6-month OS rate: 34.5%
+
+ORR 16.7%
+
+mDOR 3.3 months
+
+CBR 22.2%
+
+mPFS 2.0 months
+
+mOS 7.2 months
+
+
+**NCT03774901**
+Recruiting
+**(PULSE)**
+
+
+Avelumab maintenance
+therapy after disease control
+achieved after first-line
+platinum-based
+chemotherapy
+
+
+32 patients planned,
+PFS 9 patients evaluated
+for interim analysis
+
+
+**NCT04224740** Pembrolizumab combined 33 patients were
+Completed with cisplatin-based ORR eligible for efficacy
+**(HERCULES)**
+chemotherapy in first line analysis
+
+
+Atezolizumab with or
+**NCT03686332**
+Completed without radiotherapy for
+**(PERICLES)**
+advanced PSCC
+
+
+PFS at
+one year at 32 patients enrolled
+least 35%
+
+
+**NCT03012581** Nivolumab monotherapy in
+Completed chemotherapy-refractory ORR 43 patients enrolled
+**(AcSé)**
+PSCC
+
+**NCT04231981** Completed Retifanlimab monotherapy in ORR 18 patients enrolled
+**(ORPHEUS)** first-line PSCC
+
+*Cancers* **2025**, *17*, 883 8 of 15
+
+**Table 3.** *Cont.*
+
+**NCT Number** **Status** **Intervention** **Primary End** **Number of Patients** **Outcome**
+**(Trial Name)** **Point**
+
+( **B** )
+
+
+**NCT06353906**
+Recruiting
+**(PRIAM)**
+
+
+Induction therapy with
+carboplatin/paclitaxel +
+pembrolizumab for
+locoregionally advanced
+PSCC
+
+
+pCR 50 patients planned Not reported
+
+
+Niraparib + dostarlimab in
+**NCT05526989** Recruiting relapsed/refractory penile ORR 25 patients planned Not reported
+
+cancer
+
+
+**NCT03391479**
+Recruiting
+**(ALPACA)**
+
+**NCT03357757** Active, not
+**(LATENT)** recruiting
+
+**NCT03866382** Recruiting
+
+**NCT04475016** Completed
+
+
+Avelumab in PSCC patients
+unfit for or refractory to
+platinum-based
+chemotherapy
+
+
+Nivolumab/ipilimumab +
+cabozantinib for rare
+genitourinary tumors,
+including penile cancer
+
+Triprilimab (anti-PD-1) with
+nimotuzumab (anti-EGFR)
+and the TIP chemotherapy
+regimen (paclitaxel,
+ifosfamide, cisplatin) in
+locally advanced PSCC
+
+
+ORR 24 patients planned Not reported
+
+
+Avelumab with valproic acid
+in virus-associated cancers, ORR 39 patients in total Not reported
+including p16-positive PSCC
+
+
+ORR 314 patients in total Not reported
+
+pCR 29 patients planned Not reported
+
+
+CBR, clinical benefit rate; mDOR, median duration of response; mOS, median overall survival; mPFS, median
+progression-free survival; ORR, overall response rate; pCR, pathological complete remission.
+
+3.1.1. Immunotherapy as Maintenance Therapy Post-Chemotherapy
+
+The phase II PULSE trial (NCT03774901) is evaluating maintenance avelumab, an
+anti-PD-L1 antibody, in patients with metastatic PSCC who have not progressed following
+first-line platinum-based polychemotherapy. Patients (n = 32) with non-progressive disease
+after 3–6 cycles of chemotherapy receive avelumab (10 mg/kg biweekly) until progression
+or unacceptable toxicity. The primary endpoint is progression-free survival (PFS) per
+RECIST v1.1, with secondary endpoints including overall survival (OS) and safety. An
+interim analysis (n = 9) revealed a median patient age of 69.9 years, with 89% exhibiting
+ECOG performance status 0–1. Maintenance avelumab resulted in a 63.5% PFS rate at 3,
+6, and 12 months, and 42.3% at 15 months. The OS rate at 12 and 15 months was 88.9%.
+
+The median duration of avelumab therapy was 3.7 months, with 83% discontinuing due
+to disease progression. No new safety signals were observed. These preliminary findings
+support the continued investigation of maintenance avelumab, with further updates and
+biomarker analyses anticipated [31].
+
+3.1.2. Immunotherapy in Combination with Chemotherapy as First-Line Treatment
+
+The phase II HERCULES trial (NCT04224740) assessed the combination of pembrolizumab, an anti-PD-1 antibody, with platinum-based chemotherapy as first-line therapy
+for advanced PSCC. Conducted across 11 Brazilian centers, 37 patients were enrolled between August 2020 and December 2022, with 33 eligible for efficacy analysis. The confirmed
+overall response rate (cORR) per investigator assessment was 39.4%, including 1 complete
+response (CR) and 12 partial responses (PRs). The median PFS was 5.4 months, and the
+median OS was 9.6 months. Responses varied according to biomarker status, with improved outcomes observed in patients with HPV16-positive tumors (55.6%) and high tumor
+mutational burden (TMB) (75%). Adverse events (AEs) of any grade occurred in 91.9% of
+
+*Cancers* **2025**, *17*, 883 9 of 15
+
+patients, with grade 3–4 AEs reported in 51.4%. No grade 5 AEs were attributed to the
+treatment [30].
+Similarly, the phase II PRIAM trial (NCT06353906) is investigating the combination of
+carboplatin/paclitaxel with pembrolizumab for advanced PSCC.
+
+3.1.3. Novel Combination Therapies in Refractory PSCC
+
+An open-label phase II trial (NCT05526989) is evaluating the combination of niraparib,
+a Poly (ADP-ribose) polymerase (PARP) inhibitor, and dostarlimab, an anti-PD-1 antibody,
+in patients with stage III/IV PSCC refractory to platinum-based chemotherapy. PARP is
+an enzyme family involved in DNA repair, particularly the base excision repair pathway.
+Inhibition of PARP leads to the accumulation of DNA damage, resulting in cell death,
+especially in cancer cells deficient in other DNA repair mechanisms (e.g., BRCA mutations).
+Niraparib is administered orally (200 mg daily) and dostarlimab is administered intravenously every 3–6 weeks until disease progression or unacceptable toxicity. The primary
+endpoint is overall response rate (ORR) assessed by iRECIST, with secondary endpoints of
+PFS, OS, and safety. Six patients have been enrolled to date [32].
+
+3.1.4. Immunotherapy in Combination with Radiotherapy
+
+The phase II PERICLES trial (NCT03686332) was a single-center study that evaluated
+the efficacy of atezolizumab, an anti-PD-L1 antibody, in advanced PSCC, with or without
+radiotherapy (RT). Thirty-two patients received atezolizumab (1200 mg every 3 weeks),
+with 20 receiving additional RT for locoregional disease control. The primary endpoint
+was 1-year PFS, with secondary endpoints including OS, ORR, and tolerability. Biomarker
+analyses were also performed on pretreatment specimens. After a median follow-up
+of 29.1 months, the 1-year PFS was 12.5% (95% CI, 5.0–31.3), which did not meet the
+predefined primary endpoint of at least 35%. The median OS was 11.3 months (95% CI,
+5.5–18.7). Among 30 evaluable patients, the ORR was 16.7% (95% CI, 6–35), including
+2 CRs (6.7%) and 3 PRs (10%). Grade 3–4 AEs occurred in 9.4% of patients receiving
+atezolizumab alone and in 65% of those receiving RT. Improved PFS was associated with
+high-risk human papillomavirus (hrHPV)-positive tumors ( *p* = 0.003) and high intratumoral
+CD3+CD8+ T-cell infiltration ( *p* = 0.037). While the primary endpoint was not met, the
+study demonstrated durable antitumor activity in the subset of patients who were hrHPV
+positive or had high intratumoral CD3+CD8+ T-cell infiltration [33].
+
+3.1.5. Immunotherapy Monotherapy in Advanced PSCC
+
+Several trials are exploring the efficacy of ICI monotherapy in advanced PSCC. The
+phase II AcSé trial (NCT03012581) included a cohort of 43 patients with PSCC receiving
+nivolumab monotherapy who had previously undergone chemotherapy [ 34 ]. The primary
+objective was to assess the objective response rate (ORR) at 12 weeks. The results showed
+an ORR of 14%, with four patients achieving partial responses and 32% maintaining stable
+disease. The median progression-free survival was 2.9 months, while the median overall
+
+survival was 8.5 months.
+
+The similar phase II ORPHEUS trial (NCT04231981) evaluated retifanlimab, an antiPD-1 immune checkpoint inhibitor in 18 patients with advanced PSCC. The ORR was 16.7%;
+three patients had a partial response. The median duration of response was 3.3 months .
+
+The disease control rate was 22.2%. The median PFS was 2.0 months and the median OS
+
+was 7.2 months [35].
+The Phase II ALPACA trial (NCT03391479) is currently evaluating the efficacy of
+avelumab in patients with locally advanced or metastatic penile squamous cell carcinoma
+(PSCC) who are either ineligible for or have experienced disease progression following
+platinum-based chemotherapy [36].
+
+*Cancers* **2025**, *17*, 883 10 of 15
+
+3.1.6. Other Novel Immunotherapeutic Approaches
+
+Further phase II trials are exploring various combination therapies, including:
+
+*•* **LATENT (NCT03357757):** Avelumab with valproic acid in virus-associated cancers,
+including p16-positive PSCC [37].
+
+*•* **NCT03866382:** This trial is based on the phase I trial combining nivolumab and
+ipilimumab in combination with cabozantinib for rare genitourinary tumors, including penile cancer. Among the nine patients diagnosed with metastatic PSCC, four
+individuals (44.4%) exhibited a partial response to treatment [38].
+
+*•* **NCT04475016:** Triprilimab (anti-PD-1) with nimotuzumab (anti-EGFR) and the TIP
+chemotherapy regimen (paclitaxel, ifosfamide, and cisplatin) in locally advanced
+PSCC [39].
+
+*3.2. Evidence for Immunotherapy in Real-Life Data in Penile Cancer*
+
+El Zarif et al. performed an international retrospective study involving 92 patients with
+advanced PSCC who received treatment with immune checkpoint inhibitors (ICIs). The
+overall objective response was 13%, which was rather low. Lymph node-only metastases
+correlated with better responses (ORR: 35%) compared with visceral metastases (ORR: 7%).
+The median overall survival (OS) was 9.8 months and the median progression-free survival
+(PFS) was 3.2 months [39].
+Zhuang et al. conducted a retrospective study of 21 patients with advanced PSCC
+treated with ICIs. The study found that the median OS was 8.2 months and the median PFS
+was 1.9 months. Five patients achieved clinical benefit, defined as CR, partial response (PR),
+or stable disease (SD). Notably, a higher neutrophil-to-lymphocyte ratio correlated with
+poorer outcomes, suggesting its potential as a biomarker. Three patients (14.3%) developed
+grade 3/4 ICI-related adverse events [40].
+Rouvinov et al. reported a small case series of three patients with advanced PSCC
+who were treated with cemiplimab as first-line therapy since they were ineligible for
+chemotherapy. All three patients achieved a near complete response (CR) after only a
+few cycles of therapy. One patient experienced cerebral arteritis during treatment, which
+resolved with steroid treatment. The other two patients did not experience any toxic
+side effects [41].
+
+**4. Discussion**
+
+The advent of immune checkpoint inhibitors (ICIs) marks a transformative milestone in
+oncology, with their efficacy established across multiple malignancies, including squamous
+cell carcinomas (SCCs) of the head and neck, lungs, skin, and esophagus [ 42 – 45 ]. Despite
+significant advancements in understanding the tumor immune microenvironment (TME),
+penile squamous cell carcinoma (PSCC) remains an understudied entity in this realm. The
+rarity of PSCC presents unique challenges to investigating ICIs, necessitating innovative
+approaches to clinical trial design and a reliance on insights from more common SCCs.
+
+*4.1. Immune Checkpoint Blockade: Established Efficacy and Current Limitations*
+
+ICIs targeting the PD-1/PD-L1 and CTLA-4 axes have redefined systemic therapies,
+offering durable responses in patients with advanced cancers [ 46 ]. In PSCC, the current investigation on ICIs is primarily restricted to second-line treatment for relapsed or metastatic
+disease. Preliminary studies have demonstrated that a subset of patients, particularly those
+with HPV-positive tumors, high tumor mutational burden (TMB), or high infiltration of
+intratumoral CD3+CD8+ T cells, may exhibit a favorable response to ICI therapy [ 33 ]. High
+PD-L1 expression, frequently observed in HPV-negative penile tumors, further supports
+the rationale for immune checkpoint blockade in this malignancy [ 23 – 25 ]. However, the
+
+*Cancers* **2025**, *17*, 883 11 of 15
+
+evidence remains sparse, limited to small cohorts and case reports, underscoring the need
+for large-scale prospective trials [47].
+
+*4.2. Centralization of Care and Collaborative Research*
+
+The rarity of PSCC underscores the importance of centralized high-volume tertiary
+centers for delivering expert care and conducting robust clinical research. Centralization
+facilitates uniform management, minimizes surgical complications, and enables access
+to experimental therapies through clinical trials [ 48 ]. Thus, centralization has been recommended by the EAU-ASCO 2024 guidelines [ 49 ]. Collaborative efforts, such as the
+International Penile Advanced Cancer Trial (InPACT), exemplify the potential for international studies to address unmet needs in PSCC therapy and to conduct randomized global
+Phase III trials to bring immunotherapy into the clinical routine of the management of penile
+cancer, particularly in the neoadjuvant setting [ 50 ]. The integration of multi-institutional
+datasets and tumor specimens can accelerate the discovery of novel therapeutic targets and
+biomarkers, paving the way for tailored immune-based treatments [51].
+
+*4.3. Exploring Neoadjuvant Applications*
+
+The integration of ICIs into earlier disease stages presents an unexploited avenue for
+improving outcomes in PSCC. Neoadjuvant use of ICIs in other SCCs has demonstrated the
+potential to enhance pathological complete response rates and mitigate surgery-induced
+immunosuppression [ 52 – 54 ]. The administration of ICIs preoperatively may invigorate
+cytotoxic T-cell responses due to a higher clonal neoantigen burden in early-stage SCC,
+deplete immunosuppressive elements in the TME, and sensitize tumors to subsequent
+therapies and convert unresectable to resectable disease by tumor downstaging [ 55 – 57 ].
+Despite these theoretical benefits, the lack of dedicated trials in penile cancer has precluded
+their adoption in standard care.
+
+*4.4. Synergistic Potential of Combination Therapies*
+
+Combining ICIs with chemotherapy, radiotherapy, or targeted therapies offers a compelling strategy to enhance therapeutic efficacy. Evidence from head and neck SCCs
+suggests that radiotherapy combined with immunotherapy may potentiate antitumor immune responses and improve survival outcomes, as the radiotherapy sets free antigens that
+may enhance the efficacy of immunotherapy, particularly in a neoadjuvant setting [ 58, 59 ].
+Apart from that, the combinatory effect of radiotherapy and immunotherapy is also of
+interest in an advanced disease stage when it has spread since immunotherapy may enhance the potential abscopal of the radiotherapy to control the systemic disease more
+effectively [60–63] . Translating these approaches to penile cancer could also involve integrating ICIs with cisplatin-based chemotherapies and radiotherapy, potentially yielding
+synergistic effects [64] . However, tolerability and toxicity remain concerns, requiring meticulous patient selection and monitoring.
+Further, the implementation of ICIs with or without chemotherapy in the treatment of
+penile cancer could potentially facilitate therapy application and could replace the multiday
+application of TIP. The immunotherapy-based antitumoral treatment could be applied in a
+single day instead of five days [15].
+
+*4.5. Biomarker-Driven Approaches and Patient Stratification*
+
+The heterogeneity of PSCC necessitates a biomarker-driven approach to optimize
+ICI therapy. Stratifying patients by HPV status and PD-L1 expression could refine treatment strategies, as HPV-positive and HPV-negative tumors exhibit distinct immunogenic
+profiles [65,66] . Multi-omic technologies, including transcriptomics and metabolomics,
+could further elucidate the TME, identifying predictive biomarkers and actionable
+
+*Cancers* **2025**, *17*, 883 12 of 15
+
+targets [66,67] . Such stratification would not only enhance therapeutic precision but also
+improve the feasibility of clinical trials in this rare malignancy.
+
+**5. Conclusions**
+
+The incorporation of ICIs into the therapeutic landscape of penile cancer represents a
+paradigm shift with the potential to significantly improve patient outcomes. Expanding
+their use to earlier disease stages, leveraging combination therapies, and establishing
+biomarker-driven approaches are crucial next steps. Promoting HPV vaccination and
+circumcision are crucial as protective factors. Addressing the challenges inherent in PSCC,
+including its rarity and limited clinical evidence, will require a concerted effort toward
+centralization, international collaboration, and innovative trial designs. Through these
+initiatives, ICIs could redefine the standard of care for this challenging malignancy, offering
+longer median overall survival and better quality of life by eventually preserving the organ.
+
+**Supplementary Materials:** [The following supporting information can be downloaded at: https:](https://www.mdpi.com/article/10.3390/cancers17050883/s1)
+[//www.mdpi.com/article/10.3390/cancers17050883/s1, PRISMA checklist.](https://www.mdpi.com/article/10.3390/cancers17050883/s1)
+
+**Author Contributions:** All authors, H.T. and H.F., contributed equally to all aspects of this work,
+including conceptualization, methodology, software, validation, formal analysis, investigation, resources, data curation, writing—original draft preparation, writing—review and editing, visualization, supervision, project administration, and funding acquisition. All authors have read and agreed
+to the published version of the manuscript.
+
+**Funding:** The authors also would like to acknowledge support by the Open Access Funding by Karl
+Landsteiner University of Health Sciences, Krems, Austria.
+
+**Acknowledgments:** The authors want to acknowledge the contribution of NÖ Landesgesundheitsagentur, the legal entity of University Hospitals in Lower Austria, for providing the organiza
+tional framework to conduct this research.
+
+**Conflicts of Interest:** The authors declare no conflicts of interest.
+
+**References**
+
+1. Ogbuji, V.; Marquez Gomez, D.; Paster, I.C.; Irizarry, V.M.T.; McCormick, K.; Dennis, L.K.; Recio-Boiles, A.; Chipollini, J. Global
+Burden of Penile Cancer: A Review of Health Disparities for a Rare Disease. *Urology* **2024**, *194* [, 280–288. [CrossRef] [PubMed]](https://doi.org/10.1016/j.urology.2024.09.029)
+2. Menon, S.; Moch, H.; Berney, D.M.; Cree, I.A.; Srigley, J.R.; Tsuzuki, T.; Compérat, E.; Hartmann, A.; Netto, G.; Rubin, M.A.;
+et al. WHO 2022 classification of penile and scrotal cancers: Updates and evolution. *Histopathology* **2023**, *82* [, 508–520. [CrossRef]](https://doi.org/10.1111/his.14824)
+
+[[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/36221864)
+
+3. Montironi, R.; Cheng, L.; Scarpelli, M.; Lopez-Beltran, A. Pathology and Genetics: Tumours of the Urinary System and Male
+Genital System: Clinical Implications of the 4th Edition of the WHO Classification and Beyond. *Eur. Urol.* **2016**, *70*, 120–123.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1016/j.eururo.2016.03.011)
+
+4. Fu, L.; Tian, T.; Yao, K.; Chen, X.-F.; Luo, G.; Gao, Y.; Lin, Y.-F.; Wang, B.; Sun, Y.; Zheng, W.; et al. Global Pattern and Trends in
+Penile Cancer Incidence: Population-Based Study. *JMIR Public Health Surveill.* **2022**, *8* [, e34874. [CrossRef]](https://doi.org/10.2196/34874)
+5. Thomas, A.; Necchi, A.; Muneer, A.; Tobas-Machado, M.; Thi Hyuen Tran, A.; Van Rompuy, A.S.; Spiess, P.E.; Albersen, M. Penile
+cancer. *Nat. Rev. Dis. Primers* **2021**, *7* [, 11. [CrossRef]](https://doi.org/10.1038/s41572-021-00246-5)
+
+6. Bourlon, M.T.; Verduzco-Aguirre, H.; Molina, E.; Meyer, E.; Kessler, E.; Kim, S.P.; Spiess, P.E.; Flaig, T. Patterns of Treatment and
+Outcomes in Older Men with Penile Cancer: A SEER Dataset Analysis. *Front. Oncol.* **2022**, *12* [, 926692. [CrossRef]](https://doi.org/10.3389/fonc.2022.926692)
+7. Borque-Fernando, A.; Gaya, J.M.; Esteban-Escano, L.M.; Gomez-Rivas, J.; Garcia-Baquero, R.; Agreda-Castaneda, F.; Gallioli, A.;
+Verri, P.; Ortiz-Vico, F.J.; Amir-Nicolau, B.F.; et al. Epidemiology, Diagnosis and Management of Penile Cancer: Results from the
+Spanish National Registry of Penile Cancer. *Cancers* **2023**, *15* [, 616. [CrossRef]](https://doi.org/10.3390/cancers15030616)
+8. Clark, P.E.; Spiess, P.E.; Agarwal, N.; Biagioli, M.C.; Eisenberger, M.A.; Greenberg, R.E.; Herr, H.W.; Inman, B.A.; Kuban, D.A.;
+Kuzel, T.M.; et al. Penile cancer: Clinical Practice Guidelines in Oncology. *J. Natl. Compr. Cancer Netw.* **2013**, *11*, 594–615.
+
+[[CrossRef]](https://doi.org/10.6004/jnccn.2013.0075)
+
+9. Kidd, L.C.; Chaing, S.; Chipollini, J.; Giuliano, A.R.; Spiess, P.E.; Sharma, P. Relationship between human papillomavirus and
+penile cancer-implications for prevention and treatment. *Transl. Androl. Urol.* **2017**, *6* [, 791–802. [CrossRef]](https://doi.org/10.21037/tau.2017.06.27)
+
+*Cancers* **2025**, *17*, 883 13 of 15
+
+10. Douglawi, A.; Masterson, T.A. Updates on the epidemiology and risk factors for penile cancer. *Transl. Androl. Urol.* **2017**, *6*,
+[785–790. [CrossRef]](https://doi.org/10.21037/tau.2017.05.19)
+11. Douglawi, A.; Masterson, T.A. Penile cancer epidemiology and risk factors: A contemporary review. *Curr. Opin. Urol.* **2019**, *29*,
+[145–149. [CrossRef] [PubMed]](https://doi.org/10.1097/MOU.0000000000000581)
+
+12. Muneer, A.; Bandini, M.; Compérat, E.; De Meerleer, G.; Fizazi, K.; Gietema, J.; Gillessen, S.; Kirkham, A.; Sangar, V.; Alifrangis, C.;
+et al. Penile cancer: ESMO-EURACAN Clinical Practice Guideline for diagnosis, treatment and follow-up. *ESMO Open* **2024**, *9*,
+[103481. [CrossRef] [PubMed]](https://doi.org/10.1016/j.esmoop.2024.103481)
+13. Simon, N.; Atiq, S.; Sonpavde, G.; Apolo, A. New Therapeutic Horizons for Advanced or Metastatic Penile Cancer. *Urol. Clin. N.*
+*Am.* **2024**, *51* [, 367–376. [CrossRef] [PubMed]](https://doi.org/10.1016/j.ucl.2024.03.005)
+
+14. Savoie, P.H.; Murez, T.; Neuville, P.; Ferretti, L.; Rocher, L.; Van Hove, A.; Camparo, P.; Flechon, A.; Branger, N.; Roupret, M.
+French AFU Cancer Committee Guidelines—Update 2022–2024: Penile cancer. *Prog. Urol.* **2022**, *32* [, 1010–1039. [CrossRef]](https://doi.org/10.1016/j.purol.2022.08.009)
+15. Joshi, V.B.; Spiess, P.E.; Necchi, A.; Pettaway, C.A.; Chahoud, J. Immune-based therapies in penile cancer. *Nat. Rev. Urol.* **2022**, *19*,
+[457–474. [CrossRef]](https://doi.org/10.1038/s41585-022-00617-x)
+16. Li, B.; Chan, H.L.; Chen, P. Immune Checkpoint Inhibitors: Basics and Challenges. *Curr. Med. Chem.* **2019**, *26*, 3009–3025.
+
+[[CrossRef]](https://doi.org/10.2174/0929867324666170804143706)
+
+17. Shiravand, Y.; Khodadadi, F.; Kashani, S.M.A.; Hosseini-Fard, S.R.; Hosseini, S.; Sadeghirad, H.; Ladwa, R.; O’Bryne, K.;
+Kulasinghe, A. Immune Checkpoint Inhibitors in Cancer Therapy. *Curr. Oncol.* **2022**, *29* [, 3044–3060. [CrossRef]](https://doi.org/10.3390/curroncol29050247)
+18. Wei, S.C.; Duffy, C.R.; Allison, J.P. Fundamental Mechanisms of Immune Checkpoint Blockade Therapy. *Cancer Discov.* **2018**, *8*,
+[1069–1086. [CrossRef]](https://doi.org/10.1158/2159-8290.CD-18-0367)
+
+19. Abdou, Y.; Pandey, M.; Sarma, M.; Shah, S.; Baron, J.; Ernstoff, M.S. Mechanism-based treatment of cancer with immune
+checkpoint inhibitor therapies. *Br. J. Clin. Pharmacol.* **2020**, *86* [, 1690–1702. [CrossRef]](https://doi.org/10.1111/bcp.14316)
+20. Udager, A.M.; Liu, T.Y.; Skala, S.L.; Magers, M.J.; McDaniel, A.S.; Spratt, D.E.; Feng, F.Y.; Siddiqui, J.; Cao, X.; Fields, K.L. Frequent
+PD-L1 expression in primary and metastatic penile squamous cell carcinoma: Potential opportunities for immunotherapeutic
+approaches. *Ann. Oncol.* **2016**, *27* [, 1706–1712. [CrossRef]](https://doi.org/10.1093/annonc/mdw216)
+21. Montella, M.; Sabetta, R.; Ronchi, A.; De Sio, M.; Arcaniolo, D.; De Vita, F.; Tirino, G.; Caputo, A.; D’Antonio, A.; Fiorentino, F.;
+et al. Immunotherapy in Penile Squamous Cell Carcinoma: Present or Future? Multi-Target Analysis of Programmed Cell Death
+Ligand 1 Expression and Microsatellite Instability. *Front. Med.* **2022**, *9* [, 874213. [CrossRef] [PubMed]](https://doi.org/10.3389/fmed.2022.874213)
+22. Lobo, A.; Mishra, S.K.; Jha, S.; Tiwari, A.; Kapoor, R.; Sharma, S.; Kaushal, S.; Sri Kiranmai, N.; Das, M.R.; Peddinti, K.P.; et al.
+Evaluation of programmed cell death ligand 1 expression in a contemporary cohort of penile squamous cell carcinoma and
+its correlation with clinicopathologic and survival parameters: A study of 134 patients. *Am. J. Clin. Pathol.* **2024**, *161*, 49–59.
+
+[[CrossRef] [PubMed]](https://doi.org/10.1093/ajcp/aqad107)
+
+23. Davidsson, S.; Carlsson, J.; Giunchi, F.; Harlow, A.; Kirrander, P.; Rider, J.; Fiorentino, M.; Andrén, O. PD-L1 Expression in Men
+with Penile Cancer and its Association with Clinical Outcomes. *Eur. Urol. Oncol.* **2019**, *2* [, 214–221. [CrossRef]](https://doi.org/10.1016/j.euo.2018.07.010)
+
+24. Ottenhof, S.R.; Djajadinigrat, R.S.; Thygesen, H.H.; Jakobs, P.J.; Jozwiak, K.; Heeren, A.M.; De Jong, J.; Sanders, J.; Horenblas, S.;
+Jordanova, E.S. The Prognostic Value of Immune Factors in the Tumor Microenvironment of Penile Squamous Cell Carcinoma.
+*Front. Immunol.* **2018**, *9* [, 1253. [CrossRef] [PubMed]](https://doi.org/10.3389/fimmu.2018.01253)
+
+25. Ottenhof, S.R.; Djajadiningrat, R.S.; De Jong, J.; Thygesen, H.H.; Horenblas, S.; Jordanova, E.S. Expression of Programmed Death
+Ligand 1 in Penile Cancer is of Prognostic Value and Associated with HPV Status. *J. Urol.* **2017**, *197 Pt 1* [, 690–697. [CrossRef]](https://doi.org/10.1016/j.juro.2016.09.088)
+26. Oliveira, C.; Mainoli, B.; Duarte, G.S.; Machado, T.; Tinoco, R.G.; Esperanca-Martins, M.; Ferreira, J.J.; Costa, J. Immune-related
+serious adverse events with immune checkpoint inhibitors: Systematic review and network meta-analysis. *Eur. J. Clin. Pharmacol.*
+**2024**, *80* [, 677–684. [CrossRef]](https://doi.org/10.1007/s00228-024-03647-z)
+
+27. Xu, C.; Chen, Y.-P.; Du, X.-J.; Liu, J.-Q.; Huang, C.-L.; Chen, L.; Zhou, G.-Q.; Li, W.-F.; Mao, Y.-P.; Hsu, C.; et al. Comparative safety
+of immune checkpoint inhibitors in cancer: Systematic review and network meta-analysis. *BMJ* **2018**, *363* [, k4226. [CrossRef]](https://doi.org/10.1136/bmj.k4226)
+28. Nishijima, T.F.; Shachar, S.S.; Nyrop, K.A.; Muss, H.B. Safety and Tolerability of PD-1/PD-L1 Inhibitors Compared with
+Chemotherapy in Patients with Advanced Cancer: A Meta-Analysis. *Oncologist* **2017**, *22* [, 470–479. [CrossRef]](https://doi.org/10.1634/theoncologist.2016-0419)
+29. Magee, D.E.; Hird, A.E.; Klaassen, Z.; Sridhar, S.S.; Nam, R.K.; Wallis, C.J.D.; Kulkarni, G.S. Adverse event profile for immunotherapy agents compared with chemotherapy in solid organ tumors: A systematic review and meta-analysis of randomized clinical
+trials. *Ann. Oncol.* **2020**, *31* [, 50–60. [CrossRef]](https://doi.org/10.1016/j.annonc.2019.10.008)
+
+30. Maluf, F.C.; Trindade, K.; Preto, D.D.A.; Monteiro, F.S.M.; Luz, M.; Beato, P.M.; Bastos, D.A.; Soares, J.P.H.; Santos, V.M.L.;
+Carvalho, L.E.W.D.; et al. A phase II trial of pembrolizumab plus platinum-based chemotherapy as first-line systemic therapy in
+advanced penile cancer: HERCULES (LACOG 0218) trial. *J. Clin. Oncol.* **2024**, *42* [(Suppl. S16), 5009. [CrossRef]](https://doi.org/10.1200/JCO.2024.42.16_suppl.5009)
+31. Thiery-Vuillemin, A.; Tartas, S.; Mourey, L.; Colomba, E.; Borchiellini, D.; Goujon, M.; Lefort, F.; Topart, D.; Barthelemy, P.;
+Lauridant, G.; et al. Activity and tolerability of maintenance avelumab (AVE) immunotherapy after first-line platinum-based
+polychemotherapy in patients (pts) with locally advanced or metastatic squamous cell penile carcinoma: Initial results of PULSE
+study. *J. Clin. Oncol.* **2023**, *41* [(Suppl. S6), 8. [CrossRef]](https://doi.org/10.1200/JCO.2023.41.6_suppl.8)
+
+*Cancers* **2025**, *17*, 883 14 of 15
+
+32. Neubauer, R.; Pettaway, C.A.; Spiess, P.E.; Jain, R.K.; Chadha, J.; Zhang, J.; Chahoud, J.; Souza, G.R.; Dhillon, J.; Moscu, A.; et al.
+A phase 2 study of the combination dostarlimab with niraparib in patients with penile carcinoma that has progressed following
+chemotherapy. *J. Clin. Oncol.* **2024**, *42* [(Suppl. S4), TPS13. [CrossRef]](https://doi.org/10.1200/JCO.2024.42.4_suppl.TPS13)
+33. de Vries, H.M.; Rafael, T.S.; Gil-Jimenez, A.; de Feijter, J.M.; Bekers, E.; van der Laan, E.; Lopez-Yurda, M.; Hooijberg, E.;
+Broeks, A. ; Peters, D.; et al. Atezolizumab with or Without Radiotherapy for Advanced Squamous Cell Carcinoma of the Penis
+(The PERICLES Study): A Phase II Trial. *J. Clin. Oncol.* **2023**, *41* [, 4872–4880. [CrossRef] [PubMed]](https://doi.org/10.1200/JCO.22.02894)
+34. Pouessel, D.; Beylot-Barry, M.; Saada-Bouzid, E.; De Pontville, M.; Coquan, E.; Mahammedi, H.; Gavoille, C.; Ghiringhelli, F.;
+Dereure, O.; Spano, J.; et al. 715P Nivolumab in pretreated metastatic penile squamous cell carcinoma: Results of the penile
+cohort from the French AcSé prospective program. *Ann. Oncol.* **2021**, *32* [, S720. [CrossRef]](https://doi.org/10.1016/j.annonc.2021.08.111)
+35. Garcia del Muro, X.; Cuellar, M.A.; Maroto-Rey, P.; Giannatempo, P.; Castellano, D.; Necchi, A.; Climent, M.Á.; Pérez Valderrama, B.;
+Gomez De Liano Lista, A.; Molina, D.; et al. Phase II study of the efficacy of retifanlimab (Rf) (INCMGA00012) in penile squamous cell
+carcinoma (PSqCC): ORPHEUS final analysis. *J. Clin. Oncol.* **2023**, *41* [(Suppl. S16), 5043. [CrossRef]](https://doi.org/10.1200/JCO.2023.41.16_suppl.5043)
+36. Alqaisi, H.; Winquist, E.; Mukherjee, S.; Canil, C.M.; Fallah-Rad, N.; Sridhar, S.S. A multicenter phase II study of avelumab in
+patients with locally advanced or metastatic penile cancer (PC) who are unfit for, or have progressed on or after platinum-based
+chemotherapy: (ALPACA). *J. Clin. Oncol.* **2020**, *38* [(Suppl. S6), TPS7. [CrossRef]](https://doi.org/10.1200/JCO.2020.38.6_suppl.TPS7)
+37. Alencar, A.M., Jr.; Sonpavde, G. Emerging Therapies in Penile Cancer. *Front. Oncol.* **2022**, *12* [, 910335. [CrossRef]](https://doi.org/10.3389/fonc.2022.910335)
+38. Apolo, A.B.; Girardi, D.M.; Niglio, S.A.; Nadal, R.; Kydd, A.R.; Simon, N.; Ley, L.; Cordes, L.M.; Chandran, E.; Steinberg, S.M.;
+et al. Final Results From a Phase I Trial and Expansion Cohorts of Cabozantinib and Nivolumab Alone or with Ipilimumab for
+Advanced/Metastatic Genitourinary Tumors. *J. Clin. Oncol.* **2024**, *42* [, 3033–3046. [CrossRef]](https://doi.org/10.1200/JCO.23.02233)
+39. El Zarif, T.; Nassar, A.H.; Pond, G.R.; Zhuang, T.Z.; Master, V.; Nazha, B.; Niglio, S.; Simon, N.; Hahn, A.W.; Pettaway, C.A.;
+et al. Safety and efficacy of immune checkpoint inhibitors in advanced penile cancer: Report from the Global Society of Rare
+Genitourinary Tumors. *J. Natl. Cancer Inst.* **2023**, *115* [, 1605–1615. [CrossRef]](https://doi.org/10.1093/jnci/djad155)
+40. Zhuang, T.; Goyal, S.; Brown, J.; Carthon, B.; Kucuk, O.; McClintock, G.; Yantorni, L.; Bilen, M.; Master, V.; Nazha, B.
+478 Real-world outcomes in patients with penile squamous cell carcinoma (pSCC) receiving immune checkpoint inhibitors (ICI).
+*J. ImmunoTherapy Cancer* **2022**, *10* (Suppl. S2), A498–A499.
+41. Rouvinov, K.; Mazor, G.; Kozlener, E.; Meirovitz, A.; Shani Shrem, N.; Abu Saleh, O.; Shalata, S.; Yakobson, A.; Shalata, W.
+
+Cemiplimab as First Line Therapy in Advanced Penile Squamous Cell Carcinoma: A Real-World Experience. *J. Pers. Med.* **2023**,
+*13* [, 1623. [CrossRef] [PubMed]](https://doi.org/10.3390/jpm13111623)
+
+42. Yokota, T.; Homma, A.; Kiyota, N.; Tahara, M.; Hanai, N.; Asakage, T.; Matsuura, K.; Ogawa, T.; Saito, Y.; Sano, D.; et al.
+Immunotherapy for squamous cell carcinoma of the head and neck. *Jpn. J. Clin. Oncol.* **2020**, *50* [, 1089–1096. [CrossRef] [PubMed]](https://doi.org/10.1093/jjco/hyaa139)
+43. Boutros, A.; Cecchi, F.; Tanda, E.T.; Croce, E.; Gili, R.; Arecco, L.; Spagnolo, F.; Queirolo, P. Immunotherapy for the Treatment of
+Cutaneous Squamous Cell Carcinoma. *Front. Oncol.* **2021**, *11* [, 733917. [CrossRef] [PubMed]](https://doi.org/10.3389/fonc.2021.733917)
+44. Ansary, T.M.; Hossain, M.D.R.; Komine, M.; Ohtsuki, M. Immunotherapy for the Treatment of Squamous Cell Carcinoma:
+Potential Benefits and Challenges. *Int. J. Mol. Sci.* **2022**, *23* [, 8530. [CrossRef]](https://doi.org/10.3390/ijms23158530)
+45. Shoji, Y.; Koyanagi, K.; Kanamori, K.; Tajima, K.; Ogimi, M.; Ninomiya, Y.; Yamamoto, M.; Kazuno, A.; Nabeshima, K.; Nishi, T.;
+et al. Immunotherapy for esophageal cancer: Where are we now and where can we go. *World J. Gastroenterol.* **2024**, *30*, 2496–2501.
+
+[[CrossRef]](https://doi.org/10.3748/wjg.v30.i19.2496)
+
+46. Fitzsimmons, T.S.; Singh, N.; Walker, T.D.J.; Newton, C.; Evans, D.G.R.; Crosbie, E.J.; Ryan, N.A.J. Immune checkpoint inhibitors
+efficacy across solid cancers and the utility of PD-L1 as a biomarker of response: A systematic review and meta-analysis. *Front.*
+*Med.* **2023**, *10* [, 1192762. [CrossRef]](https://doi.org/10.3389/fmed.2023.1192762)
+
+47. Stecca, C.E.; Alt, M.; Jiang, D.M.; Chung, P.; Crook, J.M.; Kulkarni, G.S.; Sridhar, S.S. Recent Advances in the Management of
+Penile Cancer: A Contemporary Review of the Literature. *Oncol. Ther.* **2021**, *9* [, 21–39. [CrossRef]](https://doi.org/10.1007/s40487-020-00135-z)
+48. Basile, G.; Necchi, A.; Prakash, G.; Oualla, K.; Spiess, P.E.; Johnstone, P.A.S. The case for centralization of care in penile
+cancer—Respecting geographical needs. *Nat. Rev. Urol.* **2024**, *21* [, 453–454. [CrossRef]](https://doi.org/10.1038/s41585-024-00879-7)
+49. Brouwer, O.R.; Rumble, R.B.; Ayres, B.; Sánchez Martínez, D.F.; Oliveira, P.; Spiess, P.E.; Johnstone, P.A.S.; Crook, J.; Pettaway, C.A.;
+Tagawa, S.T.; et al. Penile Cancer: EAU-ASCO Collaborative Guidelines Update Q and A. *JCO Oncol. Pract.* **2024**, *20*, 33–37.
+
+[[CrossRef]](https://doi.org/10.1200/OP.23.00585)
+
+50. Pettaway, C.A.; Nicholson, S.; Spiess, P.E.; Pagliaro, L.C.; Watkin, N.; Barber, J.; Carducci, M.A.; Trabulsi, E.J.; Crook, J.M.;
+Rosen, M.A.; et al. The international penile advanced cancer trial (InPACT): The first phase III trial for squamous carcinoma of
+the penis with regional lymph node metastases. *J. Clin. Oncol.* **2022**, *40* [(Suppl. S6), TPS7. [CrossRef]](https://doi.org/10.1200/JCO.2022.40.6_suppl.TPS7)
+51. Canter, D.J.; Nicholson, S.; Watkin, N.; Hall, E.; Pettaway, C. The International Penile Advanced Cancer Trial (InPACT): Rationale
+and Current Status. *Eur. Urol. Focus* **2019**, *5* [, 706–709. [CrossRef] [PubMed]](https://doi.org/10.1016/j.euf.2019.05.010)
+
+*Cancers* **2025**, *17*, 883 15 of 15
+
+52. Uppaluri, R.; Lee, N.Y.; Westra, W.; Cohen, E.E.W.; Haddad, R.I.; Temam, S.; Le Tourneau, C.; Chernock, R.; Safina, S.;
+Klochikhin, A.; et al. KEYNOTE-689: Phase 3 study of adjuvant and neoadjuvant pembrolizumab combined with standard of care
+(SOC) in patients with resectable, locally advanced head and neck squamous cell carcinoma. *J. Clin. Oncol.* **2019**, *37* (Suppl. S15),
+[TPS6090. [CrossRef]](https://doi.org/10.1200/JCO.2019.37.15_suppl.TPS6090)
+
+53. Spicer, J.D.; Garassino, M.C.; Wakelee, H.; Liberman, M.; Kato, T.; Tsuboi, M.; Lee, S.-H.; Chen, K.-N.; Dooms, C.; Majem, M.;
+et al. Neoadjuvant pembrolizumab plus chemotherapy followed by adjuvant pembrolizumab compared with neoadjuvant
+chemotherapy alone in patients with early-stage non-small-cell lung cancer (KEYNOTE-671): A randomised, double-blind,
+placebo-controlled, phase 3 trial. *Lancet* **2024**, *404* [, 1240–1252. [CrossRef] [PubMed]](https://doi.org/10.1016/S0140-6736(24)01756-2)
+54. Gross, N.D.; Miller, D.M.; Khushalani, N.I.; Divi, V.; Ruiz, E.S.; Lipson, E.J.; Meier, F.; Su, Y.B.; Swiecicki, P.L.; Atlas, J.; et al.
+Neoadjuvant Cemiplimab for Stage II to IV Cutaneous Squamous-Cell Carcinoma. *N. Engl. J. Med.* **2022**, *387*, 1557–1568.
+
+[[CrossRef]](https://doi.org/10.1056/NEJMoa2209813)
+
+55. Hanna, G.J.; Adkins, D.R.; Zolkind, P.; Uppaluri, R. Rationale for neoadjuvant immunotherapy in head and neck squamous cell
+carcinoma. *Oral Oncol.* **2017**, *73* [, 65–69. [CrossRef]](https://doi.org/10.1016/j.oraloncology.2017.08.008)
+
+56. Krishnamoorthy, M.; Lenehan, J.G.; Vareki, S.M. Neoadjuvant Immunotherapy for High-Risk, Resectable Malignancies: Scientific
+Rationale and Clinical Challenges. *J. Natl. Cancer Inst.* **2021**, *113* [, 823–832. [CrossRef]](https://doi.org/10.1093/jnci/djaa216)
+57. Boydell, E.; Sandoval, J.L.; Michielin, O.; Obeid, M.; Addeo, A.; Friedlaender, A. Neoadjuvant Immunotherapy: A Promising New
+Standard of Care. *Int. J. Mol. Sci.* **2023**, *24* [, 11849. [CrossRef]](https://doi.org/10.3390/ijms241411849)
+58. Wong, K.C.W.; Johnson, D.; Hui, E.P.; Lam, R.C.T.; Ma, B.B.Y.; Chan, A.T.C. Opportunities and challenges in combining
+immunotherapy and radiotherapy in head and neck cancers. *Cancer Treat. Rev.* **2022**, *105* [, 102361. [CrossRef]](https://doi.org/10.1016/j.ctrv.2022.102361)
+59. Qian, J.M.; Schoenfeld, J.D. Radiotherapy and Immunotherapy for Head and Neck Cancer: Current Evidence and Challenges.
+*Front. Oncol.* **2020**, *10* [, 608772. [CrossRef]](https://doi.org/10.3389/fonc.2020.608772)
+60. Nelson, B.E.; Adashek, J.J.; Lin, S.H.; Subbiah, V. The abscopal effect in patients with cancer receiving immunotherapy. *Med* **2023**,
+*4* [, 233–244. [CrossRef]](https://doi.org/10.1016/j.medj.2023.02.003)
+
+61. Janopaul-Naylor, J.R.; Shen, Y.; Qian, D.C.; Buchwald, Z.S. The Abscopal Effect: A Review of Pre-Clinical and Clinical Advances.
+*Int. J. Mol. Sci.* **2021**, *22* [, 11061. [CrossRef] [PubMed]](https://doi.org/10.3390/ijms222011061)
+62. Pevzner, A.M.; Tsyganov, M.M.; Ibragimova, M.K.; Litvyakov, N.V. Abscopal effect in the radio and immunotherapy. *Radiat.*
+*Oncol. J.* **2021**, *39* [, 247–253. [CrossRef] [PubMed]](https://doi.org/10.3857/roj.2021.00115)
+63. Ngwa, W.; Irabor, O.C.; Schoenfeld, J.D.; Hesser, J.; Demaria, S.; Formenti, S.C. Using immunotherapy to boost the abscopal effect.
+*Nat. Rev. Cancer* **2018**, *18* [, 313–322. [CrossRef] [PubMed]](https://doi.org/10.1038/nrc.2018.6)
+
+64. Nagasawa, S.; Takahashi, J.; Suzuki, G.; Hideya, Y.; Yamada, K. Why Concurrent CDDP and Radiotherapy Has Synergistic
+Antitumor Effects: A Review of In Vitro Experimental and Clinical-Based Studies. *Int. J. Mol. Sci.* **2021**, *22* [, 3140. [CrossRef]](https://doi.org/10.3390/ijms22063140)
+65. Pekarek, L.; Ortega, M.A.; Fraile-Martinez, O.; García-Montero, C.; Casanova, C.; Saez, M.A.; García-Honduvilla, N.; Alvarez-Mon, M.;
+Buján, J.; Diez-Nicolas, V.; et al. Clinical and Novel Biomarkers in Penile Carcinoma: A Prospective Review. *J. Pers. Med.* **2022**,
+*12* [, 1364. [CrossRef]](https://doi.org/10.3390/jpm12091364)
+
+66. Necchi, A.; Spiess, P.E.; Costa de Padua, T.; Li, R.; Grivas, P.; Huang, R.S.P.; Lin, D.I.; Danziger, N.; Ross, J.S.; Jacob, J.M.; et al.
+Genomic Profiles and Clinical Outcomes of Penile Squamous Cell Carcinoma with Elevated Tumor Mutational Burden. *JAMA*
+*Netw. Open* **2023**, *6* [, e2348002. [CrossRef]](https://doi.org/10.1001/jamanetworkopen.2023.48002)
+67. Marchi, F.A.; Martins, D.C.; Barros-Filho, M.C.; Kuasne, H.; Lopes, A.F.B.; Brentani, H.; Trindade Filho, J.C.S.; Guimarães, G.C.;
+Faria, E.F.; Scapulatempo-Neto, C.; et al. Multidimensional integrative analysis uncovers driver candidates and biomarkers in
+penile carcinoma. *Sci. Rep.* **2017**, *7* [, 6707. [CrossRef]](https://doi.org/10.1038/s41598-017-06659-1)
+
+**Disclaimer/Publisher’s Note:** The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

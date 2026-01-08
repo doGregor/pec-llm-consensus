@@ -1,0 +1,1178 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    Journal of Medical Virology
+
+REVIEW
+# Prevalence of HPV Infection Among Chinese Males With ‐ HPV Related Diseases: A Systematic Review and ‐ Meta Analysis
+
+Zexin Tao [1] | Zhi Li [2] | Baoli Chen [3] | Xingxing Zhang [3] | Rui Bian [3] | Christine Velicer [4] | Aiqiang Xu [1] | Xiaodong Sun [5]
+
+1 Shandong Center for Disease Control and Prevention, Jinan, China | 2 Institute of Immunization, Shanghai Municipal Center for Disease Control and
+Prevention, Shanghai, China | [3] Value & Implementation Global Medical & Scientific Affairs, MSD China, Shanghai, China | [4] Global Medical and Scientific
+Affairs, Merck & Co. Inc., Rahway, New Jersey, USA | [5] Shanghai Municipal Center for Disease Control and Prevention, Shanghai, China
+
+[Correspondence: Aiqiang Xu (aqxuepi@163.com) | Xiaodong Sun (sunxiaodong@scdc.sh.cn)](mailto:aqxuepi@163.com)
+
+Received: 5 April 2025 | Revised: 6 June 2025 | Accepted: 18 June 2025
+
+Keywords: China | HPV | male | prevalence | systematic review
+
+ABSTRACT
+
+The prevalence and impact of HPV infection among Chinese males have not been comprehensively explored. This systematic
+
+review and meta‐analysis aims to investigate the prevalence of HPV infection among Chinese males diagnosed with HPV‐
+
+related diseases. A systematic search was conducted across multiple electronic databases from inception to June 2023. Studies
+
+reporting the prevalence of HPV infection among Chinese males diagnosed with diseases potentially associated with HPV,
+
+without requiring sample type documentation, were included. Data extraction and quality assessment were performed inde
+pendently by two reviewers. A random‐effects meta‐analysis was used to estimate the pooled prevalence of HPV infection.
+
+‐
+Among 105 studies on genital warts, the pooled prevalence was 81.25% for any HPV type, with 55.84% for low risk (LR)
+
+‐
+genotypes and 20.11% for high risk (HR) genotypes. Single infections (53.93%) were most common, with HPV 6 and 11 being the
+
+most prevalent. Among the LR genotypes, the prevalence was 73.76% for HPV 6 or 11. The most prevalent HR genotypes were
+
+HPV 16, 52, 58, 18, and 51. Among 102 studies on cancers, the prevalence was 10.83%, 28.97%, 28.14%, 19.50%, and 45.01% for
+
+oropharyngeal cancer, oral cancer, tonsil cancer, laryngeal cancer, and penile cancer, respectively. For anal cancer, one study
+
+‐
+reported 87.5% were HPV positive. This study highlights the prevalence of HPV genotypes 6, 11, 16, 18, 52, and 58 in males with
+
+genital warts, and the prevalence of HPV 16 and 18 in males with cancers in which HPV has been detected. Future investment
+
+in resources focused on male is needed.
+
+
+1 | Introduction
+
+Human papillomavirus (HPV) infection is one of the most
+common sexually transmitted infections globally, affecting individuals of all genders. Over 200 genotypes have been identified,
+some of which have been confirmed to possess carcinogenic
+potential. HPV genotypes are typically categorized into high‐risk
+
+‐
+(HR) and low risk (LR) types according to their carcinogenic
+potential [1]. In female, persistent HR‐HPV infection can lead to
+
+Zexin Tao and Zhi Li contributed equally to this study.
+
+
+cervical cancer, a leading cause of global morbidity and mortality
+
+[2]. Much attention has been focused on HPV infection among
+
+‐
+females, although HPV related diseases in males have gained
+increasing recognition in recent years.
+
+Estimates for male from 2018 suggest that HPV infection has
+been implicated in nearly all cases of anal squamous cell carcinoma, 52.9% of penile carcinoma, 30.9% of oropharyngeal
+carcinoma, 2.4% of laryngeal cancer, and 2.1% of oral cavity
+
+
+[This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly](http://creativecommons.org/licenses/by/4.0/)
+
+cited.
+
+© 2025 Merck & Co., Inc., and The Author(s). Journal of Medical Virology published by Wiley Periodicals LLC.
+
+Journal of Medical Virology, 2025; 97:e70469 1 of 10
+[https://doi.org/10.1002/jmv.70469](https://doi.org/10.1002/jmv.70469)
+
+cancer [3]. The latest global estimate in 2023 suggests that
+nearly one in three males worldwide are infected with at least
+one genital HPV type (31%), and around one in five males carry
+at least one HR‐HPV type (21%) [4]. HPV also contributes to
+other associated diseases, such as genital warts and recurrent
+respiratory papillomatosis (RRP) [5, 6]. Studies report that 90%
+of genital warts and RRP cases are associated with HPV 6 and
+11 [7]. Additionally, HPV infection has been detected in a
+subset of esophageal and lung cancers, although its causal role
+in these cancers remains inconclusive [8, 9]. HPV contributes
+significantly to the disease burden in males by increasing
+morbidity, reducing quality of life, and imposing substantial
+economic and psychosocial impacts [10–13]. In case of cancers
+in which HPV has been detected, it also contributes to increased
+mortality rates [11]. Additionally, as HPV is sexually transmitted, infection in males can also lead to significant morbidity
+and mortality in females [14].
+
+Despite the significant burden of diseases among males in
+which HPV has been detected, there remains a lack of comprehensive data in China, with greater public awareness of the
+impact of HPV on females [15, 16]. A 2017 systematic review
+and meta‐analysis in China indicated HPV prevalence rate from
+genital and anal swabs as 14.5% in male who have sex with male
+and female and 59.9% in male who have sex with men (MSM)
+
+[17]. However, among the 274 articles included, only 18 provided male‐specific data, highlighting the focus on females in
+the literature. Furthermore, the review did not address HPV
+prevalence among males with diseases potentially associated
+with HPV. A more recent systematic review estimated the
+prevalence of anal HPV among MSM in China to be 85.1% and
+
+‐ ‐
+53.6% among HIV positive and HIV negative males, respectively [18]. However, the authors did not summarize the HPV
+prevalence at other anatomical sites.
+
+Our review aims to summarize the prevalence of HPV among
+males with diseases in which HPV has been detected in China
+
+to both enhance the knowledge of healthcare professionals and
+the public and improve awareness of prevention, particularly
+through HPV vaccination.
+
+2 | Methods
+
+This study followed the Preferred Reporting Items for Systematic Reviews and Meta‐analyses (PRISMA 2020) extension
+statement [19]. The protocol was registered on Prospero
+(registration number: CRD42023483562).
+
+2.1 | Data Sources and Literature Search
+
+An electronic database search of PubMed, Embase, the Cochrane Library, Web of Science (WoS), China National
+Knowledge Infrastructure (CNKI), Wanfang, China Biology
+Medicine Database (CBM), and VIP was conducted on June 9,
+2023 using the following keywords: Papillomaviridae or Human
+Papillomavirus Viruses, Male, Morbidity or Epidemiology, and
+China. No restrictions were applied on date/time, language, or
+document type. The search strategy is provided in Supporting
+Information S1: Supplementary S1.
+
+
+2.2 | Study Selection
+
+We included observational and cross‐sectional studies investi
+gating the prevalence of HPV infection among males with diseases in which HPV has been detected, including cancer,
+precancerous lesions, genital warts, or RRP, as defined in the
+original studies. Notably, all identified articles that met the
+inclusion criteria were included in our analysis, even though a
+clear causal link with HPV infection has not been confirmed for
+
+some types of cancer. According to WHO position paper [20], 12
+
+‐
+HPV types are defined as high risk: (types 16, 18, 31, 33, 35, 39,
+45, 51, 52, 56, 58, 59). HPV prevalence refers to the proportion
+of male who tested positive for HPV DNA, confirmed through
+PCR testing. As sample types (e.g., swabs vs. biopsies) were not
+always specified, results should be interpreted accordingly. We
+
+‐
+excluded case reports, therapeutic studies, reviews, meta
+analyses, and studies focused on clinical diagnostic methods.
+Studies not reported in English or Chinese were also excluded.
+Two reviewers (Baoli Chen and Zexin Tao) independently
+screened articles for eligibility, with any disagreements resolved
+through discussion with a third reviewer (Zhi Li).
+
+2.3 | Data Extraction
+
+Two reviewers (Baoli Chen and Zexin Tao) independently extracted
+the following data from each study into a predefined data extraction
+form: study characteristics (first author name and publication year,
+study design, provinces, and sample size), participant characteristics
+(age, disease, diagnosis, detection methods and samples, sexual
+orientation, and HIV infection), and HPV‐related outcome data
+(number of samples testing positive for any HPV genotype, any
+
+‐ ‐
+high risk (HR) or low risk (LR) HPV genotype, single infection,
+double infection, and multiple infection, and attribution of HPV
+genotypes to cancer development). Any disagreements were
+resolved by discussion with a third reviewer (Zhi Li).
+
+2.4 | Data Analysis
+
+Meta‐analyses were performed using a random‐effects model with
+the meta package in R software (version 4.1.1) to account for the
+potential high heterogeneity across population samples, study
+methodologies, and HPV DNA detection methods. We extracted
+the reported HPV prevalence estimates for each study, from which
+
+‐
+we calculated the HPV type combination specific prevalence (e.g.,
+“any HR type”, etc.) and 95% confidence interval (CI), and we
+
+‐
+pooled these prevalence estimates by meta analysis. Before pooling
+
+–
+the prevalence estimates, the Freeman Tukey double arcsine
+transformation was employed to stabilize the variance of the raw
+prevalence observed in each included study. When data were
+insufficient for meta‐analysis (i.e., fewer than three studies for a
+particular combination of endpoint and HPV type combination),
+we calculated the prevalence by dividing the number of infected
+patients by the total sample size of the available studies.
+
+The heterogeneity of studies was assessed using the Cochrane Q
+test with a significance level of 0.05 and the I [2] statistic, where
+I [2] ≥ 50% coupled with p < 0.05 from the Q test was interpreted as
+evidence of substantial heterogeneity [21]. In such cases, we provided a descriptive narrative of the outcomes. Additionally,
+
+
+2 of 10 Journal of Medical Virology, 2025
+
+subgroup analyses based on publication year were conducted to
+explore heterogeneity. The rising proportion of multiple infections
+in recent years may be due to changes in sexual behavior and
+improvements in HPV testing. Therefore, outcomes were analyzed
+
+–
+by time period: within 10 years, 10 20 years ago, and over 20 years
+ago. Egger's test and Begg's test was conducted, funnel plots were
+created for outcomes with data from 10 or more studies to evaluate
+
+publication bias. A p < 0.05 in Egger's test and Begg's test indicated
+the presence of significant publication bias. When the number of
+included studies was small, the validity of the Begg's test was relatively reduced [22], so when the results of the two test were
+inconsistent, we reported the results with reference to Egger's test.
+
+2.5 | Quality Assessment
+
+The quality of the included studies was assessed independently
+by two reviewers (Baoli Chen and Zexin Tao) using Joanna
+Briggs Institute (JBI) critical appraisal tools for prevalence
+studies [23]. Nine questions were used to assess sample representation, appropriateness of recruitment, sample size, detailed
+description of subjects and setting, sufficient data analysis, use
+of standard criteria, reliability of condition measurement,
+appropriateness of statistical analysis, and identification of
+confounding factors. Any disagreements were resolved by discussion with a third reviewer (Zhi Li).
+
+3 | Results
+
+3.1 | Results of Study Selection
+
+The database search yielded 8253 results, with 3206 unique
+citations remaining after duplicate removal. A total of 787 articles
+were identified for retrieval based on their titles and abstracts
+
+meeting the inclusion criteria. With authorized access, 767 full
+publications were obtained for further review. Ultimately, 206
+studies met our inclusion criteria and were included in this
+
+review (Figure 1), 105 of which had genital warts data and 102
+had cancer/precancer data (with 1 study containing both genital
+warts and cancer/precancer). No studies assessed the relative
+contribution of HPV to the genital warts or precancers. Reference
+list is provided in Supporting Information S1: Supplementary S2.
+
+3.2 | Quality Assessment of Included Studies
+
+All of the 105 studies reporting genital warts demonstrated
+strengths in sample representation, appropriate recruitment,
+data analysis, use of standard criteria, reliability of condition
+measurement and identification of confounding factors (100%).
+Most studies provided detailed descriptions of the subjects and
+settings (95%) and conducted data analysis with comprehensive
+coverage of the identified sample (84%). However, notable
+weaknesses were identified regarding the adequacy of the
+sample size (61%) (Supporting Information S1: Table S1). Similarly, the assessment of the 102 studies reporting cancer and
+precancer revealed strengths across most aspects but highlighted a significant weakness in sample size adequacy (23%)
+(Supporting Information S1: Table S2).
+
+
+3.3 | Characteristics of Studies and Patients
+
+Of the 206 studies included, 105 focused on patients with genital warts, 102 examined patients with cancer and precancer,
+and one study contributed data for both genital warts and
+cancer [24]. In the studies focusing on genital warts, the sample
+size varied from 12 to 5717, while in the studies concerning
+cancer, the sample size ranged from 10 to 1,197. Detailed
+summaries of the studies and patients are given in Supporting
+Information S1: Table S3 for genital warts and in Supporting
+Information S1: Table S4 for cancer and precancer.
+
+3.4 | Prevalence of HPV Infection in Patients
+With Genital Warts
+
+The pooled prevalence of HPV infection of any genotype among
+patients diagnosed with genital warts was 81.25% (95%
+CI = 80.43%–83.27%, Figure 2), aggregated from 87 studies
+involving 32,904 patients. In addition, the prevalence was
+
+–
+55.84% (95% CI = 47.60% 63.92%) for any LR genotype and
+
+–
+20.11% (14.93% 25.84%) for any HR genotype. Results indicated
+that 53.93% of HPV‐infected male patients had a single infection
+
+–
+(95% CI = 48.07% 59.80%, 43 studies with 18 526 patients),
+
+–
+23.35% had double infections (95% CI = 18.81% 27.88%, 12
+studies with 4825 patients), and 13.49% had multiple infections
+
+–
+(95% CI = 9.95% 17.48%, 12 studies with 4820 patients). Among
+patients with a single infection, the most prevalent genotypes
+
+–
+were HPV 6 (25.30%, 95% CI = 20.96% 29.65%), followed by
+
+–
+HPV 11 (19.04%, 95% CI = 15.08% 23.01%), HPV 16 (4.53%, 95%
+CI = 2.90%–6.15%), HPV 18 (1.41%, 95% CI = 0.51%–2.31%), and
+
+–
+HPV 31 (1.09%, 95% CI = 0.35% 3.41%). Among the patients
+with double infections, the prevalences of infection with two LR
+genotypes, two HR genotypes, and one LR genotype plus one
+HR genotype were 3.96%, 6.71%, and 9.67%, respectively.
+
+Regarding the genotypes targeted by vaccines, the prevalence
+
+–
+was 42.67% (95% CI = 36.57% 48.77%) for HPV 6, 29.53%
+
+–
+(95% CI = 24.92% 34.99%) for HPV 11, and 73.76% (95%
+CI = 55.75%–86.24%) for HPV6/11. Among the 12 HR HPVs
+detected in the included studies, the most prevalent types were
+
+–
+HPV 16 (10.18%, 95% CI = 8.73% 11.63%), HPV 52 (5.04%, 95%
+CI = 4.10%–5.97%), HPV 58 (4.35%, 95% CI = 3.38%–5.45%),
+
+–
+HPV 18 (4.11%, 95% CI = 3.32% 4.90%), and HPV 51 (3.65%,
+95% CI = 2.85%–4.45%).
+
+As the results of the meta‐analysis showed a high level of heterogeneity between studies, we explored whether publication
+time was responsible for the high level of heterogeneity through
+subgroup analyses. However, the results showed that grouping
+in this way did not reduce heterogeneity. Subgroup analysis also
+revealed no significant differences (p > 0.05, Supporting Information S1: Figures S1‐S5) in the prevalence of any HPV type,
+single, multiple, double infections, or HPV types 6/11 across the
+
+–
+three time periods (within 10 years, 10 20 years ago, and over
+20 years ago).
+
+Publication bias detection results showed that any type of HPV,
+HPV 6, HPV 16, HPV 18, HPV 33, HPV 35, HPV 39, HPV 45,
+HPV 51, HPV 52, HPV 56, HPV 58, and HPV 59 in genital warts
+were in higher likelihood of publication bias in the included
+
+3 of 10
+
+FIGURE 1 | PRISMA flow chart of study selection.
+
+studies (Egger's test p < 0.05). Single infection, double infection,
+multiple infection, HPV 6/11, HPV 11, and HPV 31 may not be
+subject to publication bias (Egger's test and Begg's test p > 0.05).
+(Figures S6‐S24).
+
+3.5 | Prevalence of HPV Infection in Patients
+With Cancer and Precancerous Lesions
+
+Among the 102 studies that provided data on patients with
+cancer, meta‐analyses were performed to pool the prevalence of
+HPV infection for patients with seven types of cancers
+(Figure 3).
+
+
+3.5.1 | Anal Cancer and Precancer
+
+In one study [24], seven of eight patients with anal cancer were
+tested for HPV, and all were found to be positive. For anal
+precancerous lesions [24–27], the prevalence of HPV among 163
+patients across four studies ranged from 92.86% to 100.0%.
+
+3.5.2 | Penile Cancer and Precancer
+
+Eight studies involving 900 patients with penile cancer
+revealed a prevalence of HPV infection of any type of 45.01%
+
+–
+(95% CI = 31.01% 59.01%), with a pooled prevalence of
+
+
+4 of 10 Journal of Medical Virology, 2025
+
+FIGURE 2 | Prevalence of specific HPV types among male patients with genital warts.
+
+FIGURE 3 | Prevalence of specific HPV types among male patients with HPV‐related cancers.
+
+
+40.35% (95% CI = 26.85%–53.84%) for HPV 16, 35.02%
+
+–
+(95% CI = 21.23% 48.80%) for HPV 18, and 0.71% (95%
+CI = 0.01%–1.34%) for HPV 6. One study [28] reported a
+prevalence of 100.0% among 10 patients with precancerous
+lesions of penile cancer.
+
+
+3.5.3 | Head and Neck Cancers
+
+Among the patients with head and neck cancers, the pooled
+prevalence of HPV infection of any type was 22.65% (95%
+CI = 17.59%–28.16%, 41 studies with 7520 patients). For
+
+5 of 10
+
+oropharyngeal cancer, the pooled prevalence of HPV infec
+–
+tion of any type was 10.83% (95% CI = 6.55% 15.11%, seven
+
+‐
+studies with 3051 patients). For laryngeal cancer, the meta
+analysis of 11 studies with 1405 patients gave a pooled
+prevalence of HPV infection of any type of 19.50% (95%
+CI = 8.71%–33.31%). Specifically, the prevalence of HPV 16
+
+–
+and 18 was 21.20% (95% CI = 7.17% 35.22%) and 1.98% (95%
+CI = 0.00%–6.01%), respectively. One study [29] reported that
+the prevalence of HPV infection of any type for precancerous
+lesions of the larynx was 73.33% among 15 patients. Another
+study [30] involving 110 patients with larynx cancer and
+hypopharynx cancer reported a prevalence rate of 16.36% for
+any type. The pooled prevalence of HPV infection of any type
+for tonsil cancer [31–33] was 28.14% (95% CI = 0.00%–64.53%,
+three studies with 216 patients). One study reported the
+prevalence of HPV infection of any type was 20.48% in patients with tongue cancer [34].
+
+For oral cancer patients, the pooled prevalence of HPV infection
+
+–
+of any type was 28.97% (95% CI = 20.03% 38.82%, 15 studies
+with 2159 patients). Specifically, the prevalence of HPV 16 and
+
+–
+18 among these patients was 18.52% (95% CI = 11.69 27.14%)
+
+–
+and 8.46% (95% CI = 2.20% 14.72%), respectively. For precancerous lesions of oral cancer, the prevalence of HPV infection was 24.58%, calculated from two studies [35, 36] with 179
+patients.
+
+For nasopharyngeal carcinoma, one study [37] reported a
+prevalence of HPV infection of any type of 27.78%. For pharyngeal carcinoma, the prevalence of HPV infection of any type
+was 9.52%, based on a study [38] involving 168 patients. Additionally, the prevalence of HPV infection of any type was reported to be 8.33% in patients with nasal cancer [39] and 78.57%
+in patients with ear cancer [40].
+
+3.5.4 | Other Cancers
+
+Meta‐analysis was also performed for esophageal cancer and
+lung cancer. For esophageal cancer [41–58], the prevalence of
+
+–
+HPV infection was 32.07% (95% CI = 23.41% 40.73%) for any
+
+–
+type, 28.96% (95% CI = 17.47% 40.44%) for HPV 16, and 2.38%
+(95% CI = 0.00%–5.21%) for HPV 18. For lung cancer [59–66],
+the prevalence of HPV infection was 32.20% (95%
+CI = 19.55%–44.86%) for any type. Additionally, the prevalence
+of any type was 62.50% for bladder cancer [67], 16.51% for
+prostate cancer [68, 69], and 42.31% for gastric cancer [70]
+(Supporting Information S1: Table S5).
+
+Significant publicationchageal cancer (Egger's test p = 0.0004).
+No significant bias was found for laryngeal cancer (Egger's test
+p = 0.0552) and oral cancer (Egger's test p = 0.1713) (Supporting
+Information S1: Figures S25–S27).
+
+4 | Discussion
+
+‐
+This systematic review and meta analysis revealed a concerning
+prevalence of HPV infection among Chinese males diagnosed
+with diseases in which HPV has been detected, including genital warts and cancers. Although RRP is also caused by HPV
+
+
+infection (i.e., primarily HPV 6 and 11), our search did not
+reveal data for China. This highlights a significant gap in the
+current research and suggests a clear direction for future
+studies. Specifically, our findings indicated that among patients
+with genital warts, HPV 6 and 11 were the most prevalent LR
+genotypes, and HPV 16, 52, 58, 18, and 51 were the most
+prevalent HR genotypes. Among patients with cancers, HPV 16
+and 18 were the most prevalent genotypes for most types of
+cancers, highlighting the critical role of these HPV types in
+cancers known to be caused by HPV in this population and
+underscoring the need for effective prevention and control
+
+measures.
+
+Our study reveals the presence of multiple HPV infections for
+genital warts, alongside a notable prevalence of HR genotypes,
+highlights a significant shift in the epidemiology of HPV‐related
+diseases. Our findings reveal that double and multiple infections now account for nearly 37% of genital warts, with HR
+genotypes such as HPV 16, 52, and 58 becoming increasingly
+
+‐
+prevalent. This warrants attention, as co infections involving HR
+types are associated with a higher risk of persistent infection and
+progression to malignancy, particularly in the context of anogenital and oropharyngeal cancers [71]. These changes may
+underscore the advantages of multivalent vaccines, which offer
+broader protection by targeting a wider range of prevalent
+HPV genotypes. Additionally, our analysis highlights a notable
+prevalence of HPV infection among male patients with various
+cancers, including anal cancer (87.5%), penile cancer (45.01%),
+and oropharyngeal cancer (10.83%), esophageal cancer
+(32.07%), lung cancer (32.20%). The high prevalence observed
+among Chinese males emphasize the potential health benefits
+of expanding HPV vaccination programs to include males,
+thereby reducing the overall burden of diseases in which HPV
+has been detected.
+
+Globally, oropharyngeal cancer rates are increasing, especially
+in males, with the US seeing an annual age‐standardized incidence rate of 6.41/100,000, compared to 0.39/100,000 in China
+
+[72]. However, lack of comprehensive and robust HPV data for
+oropharyngeal cancer in China creates uncertainty about future
+trends. For example, in the US between 2000 and 2021, oropharyngeal cancer rates increased 117% in males, surpassing
+cervical cancer as the most common HPV‐related cancer
+
+[73, 74]. It is hypothesized that the rising oropharyngeal cancer
+rates are due to changes in sexual behavior [75], while the
+decreasing cervical cancer trends are due to cervical screening,
+with rates expected to decrease even further as younger vaccinated cohorts age. This highlights a need for more research to
+understand these cancer trends in China.
+
+Current HPV vaccines target HPV 16 and 18, which are commonly linked to HPV‐related cancers [76]. In addition, 4‐valent
+and 9‐valent vaccines provide coverage against genital warts
+and the 9‐valent vaccine provides protection against 5 additional cancer‐causing HPV types. The direct protection offered
+
+‐
+by HPV vaccines is crucial for reducing the incidence of HPV
+related diseases in males. Moreover, transmission of infection
+between partners can result in persistent infections, which
+heighten the risk of progressing to severe cervical abnormalities
+and, eventually, cervical cancer [77–79]. Increasing uptake of
+HPV vaccination among males may indirectly reduce the
+
+
+6 of 10 Journal of Medical Virology, 2025
+
+likelihood of HPV‐related diseases among females, such as
+cervical cancer. The most expedient approach to eliminating
+
+‐
+cervical cancer is gender neutral HPV vaccination, which can
+achieve this goal more quickly than a girls‐only strategy [80].
+This approach is also resilient to disruptions, such as those
+
+‐
+caused by the COVID 19 pandemic, and offers direct protection
+for both genders [80, 81]. An agent‐based model demonstrated
+
+‐
+that adopting a gender neutral strategy significantly improves
+resilience and enhances vaccination coverage, helping achieve
+WHO elimination thresholds by reducing cervical cancer incidence [81]. These findings provide valuable insights for China.
+
+It is aware that some of the included studies used genotyping
+assays with limited HPV type coverage, which may have led to
+an underestimation of infection rates. However, the impact is
+likely minimal. As a retrospective analysis, it was not feasible to
+exclude studies based on the specific genotyping kits used.
+
+Subgroup analysis based on publication year was also conducted to explore potential sources of heterogeneity. However,
+this analysis did not identify any clear patterns or explanations
+for the observed heterogeneity. One possible reason is that
+studies published in different time periods may vary significantly in terms of sample size, population characteristics, and
+methodological approaches. Additionally, the uneven distribution of studies across decades might have limited the statistical
+power of this analysis, making it difficult to draw firm conclusions. Therefore, while publication year was considered as a
+potential source of heterogeneity, it may not have fully captured
+the underlying differences between studies.
+
+4.1 | Strengths and Limitations
+
+‐
+To our knowledge, this systematic review and meta analysis
+represents the first comprehensive summary of HPV prevalence
+among male patients with disease in which HPV has been
+detected in China. Through extensive search, rigorous analysis,
+and systematic synthesis, we provide valuable epidemiological
+insights. However, our study has limitations. First, studies on
+HPV in Chinese males, particularly for cancers, precancers, and
+other diseases, is limited [3]. Due to the limited number of
+studies for each cancer type, subgroup analysis was not feasible.
+
+‐
+Future large scale epidemiological studies are warranted to
+validate our findings. Globally, anal cancer accounts for
+approximately 0.5% of all new cancer cases, rising to 2.7% in the
+US [82, 83]. Yet China lacks specific prevalence data, with only
+one study on anal cancer in our review. In addition, data on age
+and sexual orientation are sparse, despite their influence on
+HPV prevalence and disease outcomes. Previous research suggests potential variations by age and geographical disparities in
+HPV prevalence among males across China [18]. Future studies
+could examine these factors in greater detail. Second, study
+heterogeneity exists in HPV types reported and sampling
+methods (e.g., swab exfoliated samples, biopsies, etc.), which
+may affect result accuracy. Moreover, the study lacks data on
+the relative contribution of specific HPV types to diseases in
+China. Prevalence estimates should not be interpreted as causal
+proportions, as other factors could contribute to these conditions. Identifying the specific HPV types involved and their
+proportionate contribution to cancers and precancers is
+
+
+essential for vaccination assessment. Some studies examined
+
+anatomical sites where HPV's causal role is speculative, like
+nasal and ear cancers, highlighting the need for further research
+using biomarkers or mRNA analysis. Some studies calculated
+the “any HPV type” rate, which includes individuals with
+multiple types, making direct comparisons with LR and HR
+rates inappropriate. This overlap affects the accuracy of summed prevalences and indicates a need for standardized reporting in future research. In addition, Egger's test and funnel plots
+revealed significant publication bias (p < 0.05) for certain HPV
+types in genital warts and cancers. This suggests that smaller
+studies with nonsignificant or negative findings may have been
+underrepresented, potentially leading to an overestimation of
+the prevalence of these HPV types. However, no significant bias
+was detected for other types, indicating relatively robust findings for these outcomes. Finally, due to limited relevant literature, we were unable to provide pooled HPV prevalence for
+certain types of cancers.
+
+5 | Conclusion
+
+Our results highlight the noteworthy prevalence of HPV infection among male patients with HPV‐related diseases in China.
+HPV genotypes 6, 11, 16, 18, 52, and 58 were found to be
+prevalent among patients with genital warts. The findings also
+
+‐
+reveal gaps in the accurate reporting of the burden of HPV
+related cancers among Chinese males and a lack of comprehensive data on the HPV types driving these cancers. The study
+underscores the urgent need for greater resource allocation to
+address HPV‐related health issues in males. The widespread
+adoption of HPV multivalent vaccines in males holds clinical
+significance for preventing HPV‐related diseases in both males
+and females. Future studies could explore HPV infection prevalence among populations with different baselines.
+
+Author Contributions
+
+Baoli Chen, Zhi Li, Xiaodong Sun and Aiqiang Xu, Rui Bian and
+Xingxing Zhang conceived, designed and planned the study; Baoli Chen
+and Zexin Tao collected the data; Baoli Chen, Zhi Li, Xiaodong Sun and
+Xingxing Zhang performed analysis; Zhi Li, Xiaodong Sun, Christine
+Velicer and Xingxing Zhang interpreted the results; Baoli Chen, Zexin
+Tao wrote the initial draft, Zhi Li, Xiaodong Sun, Aiqiang Xu, Christine
+Velicer and Xingxing Zhang provided substantive suggestions for revision or critically reviewed subsequent iterations of the manuscript. All
+authors reviewed and approved final version of the paper.
+
+Acknowledgments
+
+We sincerely thank Wenjie Zhang, Yang Zhang, and Dr. Sitong Dong
+from Systematic Review Solutions. Ltd. for professional statistical support and medical writing support. Statistical support and medical
+writing support were funded by MSD China.
+
+Conflicts of Interest
+
+Baoli Chen, Xingxing Zhang, and Rui Bian are employees of MSD
+China. Christine Velicer is an employee of Merck Sharp & Dohme LLC,
+a subsidiary of Merck & Co. Inc. Rahway, NJ, USA and may own stock
+and/or hold stock option in Merck & Co. Inc. Rahway, NJ, USA. All the
+other authors have no conflict of interest to declare.
+
+7 of 10
+
+Data Availability Statement
+
+All data generated or analyzed during this study are included in this
+published article.
+
+References
+
+1. V. Bouvard, R. Baan, K. Straif, et al., “A Review of Human
+Carcinogens—Part B: Biological Agents,” Lancet Oncology 10, no. 4
+[(2009): 321–322, https://doi.org/10.1016/S1470-2045(09)70096-8.](https://doi.org/10.1016/S1470-2045(09)70096-8)
+
+2. H. Sung, J. Ferlay, R. L. Siegel, et al., “Global Cancer Statistics 2020:
+GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36
+Cancers in 185 Countries,” CA: A Cancer Journal for Clinicians 71, no. 3
+[(2021): 209–249, https://doi.org/10.3322/caac.21660.](https://doi.org/10.3322/caac.21660)
+
+3. C. de Martel, D. Georges, F. Bray, J. Ferlay, and G. M. Clifford,
+“Global Burden of Cancer Attributable to Infections in 2018: A
+
+Worldwide Incidence Analysis,” Lancet Global Health 8, no. 2 (2020):
+[e180–e190, https://doi.org/10.1016/S2214-109X(19)30488-7.](https://doi.org/10.1016/S2214-109X(19)30488-7)
+
+4. L. Bruni, G. Albero, J. Rowley, et al., “Global and Regional Estimates
+of Genital Human Papillomavirus Prevalence Among Men: A Systematic Review and Meta‐Analysis,” Lancet Global Health 11, no. 9 (2023):
+[e1345–e1362, https://doi.org/10.1016/S2214-109X(23)00305-4.](https://doi.org/10.1016/S2214-109X(23)00305-4)
+
+5. C. S. Derkay, “Recurrent Respiratory Papillomatosis,” Laryngoscope
+[111, no. 1 (2001): 57–69, https://doi.org/10.1097/00005537-](https://doi.org/10.1097/00005537-200101000-00011)
+
+[200101000-00011.](https://doi.org/10.1097/00005537-200101000-00011)
+
+6. S. Woodhall, T. Ramsey, C. Cai, et al., “Estimation of the Impact of
+Genital Warts on Health‐Related Quality of Life,” Sexually Transmitted
+[Infections 84, no. 3 (2008): 161–166, https://doi.org/10.1136/sti.2007.](https://doi.org/10.1136/sti.2007.029512)
+
+[029512.](https://doi.org/10.1136/sti.2007.029512)
+
+7. A. R. Giuliano, G. Anic, and A. G. Nyitray, “Epidemiology and
+Pathology of Hpv Disease In Males,” Gynecologic Oncology 117, no. S2
+[(2010): S15–S19, https://doi.org/10.1016/j.ygyno.2010.01.026.](https://doi.org/10.1016/j.ygyno.2010.01.026)
+
+8. S. Hussain, J. Rani, S. Tulsyan, et al., “Influence of HPV Infection in
+Esophageal Cancer: A Systematic Review and Meta‐Analysis,” Gene
+[Reports 28 (2022): 101640, https://doi.org/10.1016/j.genrep.2022.101640.](https://doi.org/10.1016/j.genrep.2022.101640)
+
+9. Z. Han, A. Aizezi, L. Ma, Y. Su, L. Fan, and J. Liu, “The Association
+Between Human Papillomavirus and Lung Cancer: A Mendelian Randomization Study,” Infection, Genetics and Evolution 123 (2024): 105646,
+[https://doi.org/10.1016/j.meegid.2024.105646.](https://doi.org/10.1016/j.meegid.2024.105646)
+
+10. G. L. Mortensen and H. K. Larsen, “The Quality of Life of Patients
+With Genital Warts: A Qualitative Study,” BMC Public Health 10, no. 1
+[(2010): 113, https://doi.org/10.1186/1471-2458-10-113.](https://doi.org/10.1186/1471-2458-10-113)
+
+11. M. Arya, R. Li, K. Pegler, et al., “Long‐Term Trends in Incidence,
+Survival and Mortality of Primary Penile Cancer in England,” Cancer
+[Causes & Control: CCC 24, no. 12 (2013): 2169–2176, https://doi.org/10.](https://doi.org/10.1007/s10552-013-0293-y)
+[1007/s10552-013-0293-y.](https://doi.org/10.1007/s10552-013-0293-y)
+
+12. H. W. Chesson, D. U. Ekwueme, M. Saraiya, E. F. Dunne, and
+L. E. Markowitz, “The Cost‐Effectiveness of Male HPV Vaccination in
+[the United States,” Vaccine 29, no. 46 (2011): 8443–8450, https://doi.](https://doi.org/10.1016/j.vaccine.2011.07.096)
+[org/10.1016/j.vaccine.2011.07.096.](https://doi.org/10.1016/j.vaccine.2011.07.096)
+
+13. J. T. F. Lau, Z. Wang, M. Lau, and C. H. Y. Lai, “Perceptions of HPV,
+Genital Warts, and Penile/Anal Cancer and High‐Risk Sexual Behaviors
+Among Men Who Have Sex With Men in Hong Kong,” Archives of
+[Sexual Behavior 43, no. 4 (2014): 789–800, https://doi.org/10.1007/](https://doi.org/10.1007/s10508-013-0172-3)
+
+[s10508-013-0172-3.](https://doi.org/10.1007/s10508-013-0172-3)
+
+14. B. Y. Hernandez, L. R. Wilkens, X. Zhu, et al., “Transmission of
+Human Papillomavirus in Heterosexual Couples,” Emerging Infectious
+[Diseases 14, no. 6 (2008): 888–894, https://doi.org/10.3201/eid1406.](https://doi.org/10.3201/eid1406.070616)
+
+[070616.](https://doi.org/10.3201/eid1406.070616)
+
+15. W. Wang, “The Impact of Vaccine Access Difficulties on HPV
+Vaccine Intention and Uptake Among Female University Students in
+China,” International Journal for Equity in Health 24, no. 1 (2025): 4,
+[https://doi.org/10.1186/s12939-024-02370-6.](https://doi.org/10.1186/s12939-024-02370-6)
+
+
+16. Z. Y. Shi, J. Q. Hao, J. H. Shi, et al., “Knowledge, Attitude and
+Practice About Human Papillomavirus and HPV Vaccine in Chinese
+Mainland: A Meta‐Analysis,” Cancer Research on Prevention and
+Treatment 49, no. 5 (2022): 464–471.
+
+17. X. Ma, Q. Wang, J. J. Ong, et al., “Prevalence of Human Papillomavirus by Geographical Regions, Sexual Orientation and HIV Status in
+
+‐ ”
+China: A Systematic Review and Meta Analysis, Sexually Transmitted
+[Infections 94, no. 6 (2018): 434–442, https://doi.org/10.1136/sextrans-](https://doi.org/10.1136/sextrans-2017-053412)
+
+[2017-053412.](https://doi.org/10.1136/sextrans-2017-053412)
+
+18. Y. Zhou, Y. F. Lin, L. Gao, et al., “Human Papillomavirus Prevalence
+Among Men Who Have Sex With Men in China: A Systematic Review
+and Meta‐Analysis,” European Journal of Clinical Microbiology &
+[Infectious Diseases 40, no. 7 (2021): 1357–1367, https://doi.org/10.](https://doi.org/10.1007/s10096-021-04229-y)
+[1007/s10096-021-04229-y.](https://doi.org/10.1007/s10096-021-04229-y)
+
+19. M. J. Page, J. E. McKenzie, P. M. Bossuyt, et al., “The PRISMA 2020
+Statement: An Updated Guideline for Reporting Systematic Reviews,”
+Systematic Reviews 10, no. 1 (2021): 89.
+
+20. paper Wp. World Health Organization, accessed May 2025. Pub[lished 2022, https://www.who.int/publications/i/item/who-wer9750-](https://www.who.int/publications/i/item/who-wer9750-645-672)
+
+[645-672.](https://www.who.int/publications/i/item/who-wer9750-645-672)
+
+21. J. J. Deeks, J. P. Higgins, D. G. Altman, and C. S. M. Group,
+“Analysing Data and Undertaking Meta‐Analyses,” in Cochrane
+Handbook for Systematic Reviews of Interventions (2019), 241–284.
+
+22. C. B. Begg and M. Mazumdar, “Operating Characteristics of a Rank
+Correlation Test for Publication Bias,” Biometrics 50, no. 4 (1994):
+
+1088–1101.
+
+23. Z. Munn, S. Moola, K. Lisy, D. Riitano, and C. Tufanaru, Chapter 5:
+Systematic Reviews of Prevalence and Incidence: In. 2020.
+
+24. T. F. Tsai, G. T. Kuo, L. T. Kuo, and C. H. Hsiao, “Prevalence Status
+and Association With Human Papilloma Virus of Anal Squamous
+Proliferative Lesions in a Patient Sample in Taiwan,” Sexually
+[Transmitted Diseases 35, no. 8 (2008): 721–724, https://doi.org/10.](https://doi.org/10.1097/OLQ.0b013e3181705878)
+[1097/OLQ.0b013e3181705878.](https://doi.org/10.1097/OLQ.0b013e3181705878)
+
+25. S. H. Cheng, F. Y. Chu, C. C. Wang, and Y. M. Hsueh, “Screening
+and Risk Factors for Anal Cancer Precursors in Men Infected With HIV
+
+in Taiwan,” Journal of Medical Virology 86, no. 2 (2014): 193–201,
+[https://doi.org/10.1002/jmv.23825.](https://doi.org/10.1002/jmv.23825)
+
+26. S. H. Cheng, C. C. Wang, S. L. Chang, F. Y. Chu, and Y. M. Hsueh,
+“Oncogenic Human Papillomavirus Is not Helpful for Cytology
+Screening of the Precursor Lesions of Anal Cancers in Taiwanese Men
+Who Are Infected With Human Immunodeficiency Virus,”
+International Journal of Clinical Oncology 20, no. 5 (2015): 943–951,
+[https://doi.org/10.1007/s10147-015-0804-9.](https://doi.org/10.1007/s10147-015-0804-9)
+
+27. S. H. Cheng, K. S. Liao, C. C. Wang, C. Y. Cheng, and F. Y. Chu,
+“Multiple Types of Human Papillomavirus Infection and Anal Precancerous Lesions in Hiv‐Infected Men in Taiwan: A Cross‐Sectional
+
+[Study,” BMJ Open 8, no. 1 (2018): e019894, https://doi.org/10.1136/](https://doi.org/10.1136/bmjopen-2017-019894)
+[bmjopen-2017-019894.](https://doi.org/10.1136/bmjopen-2017-019894)
+
+28. Y. L. Liu, R. Q. Liu, and H. S. Chen, “The Role of Human Papillomavirus and Oncogenes in the Development of Human Genital Carcinoma,” Journal of Clinical Dermatology no. 4 (1995): 216–218.
+
+29. X. L. Min and X. H. Liu, “Qualitative Diagnostic Value of HPV
+Subtypes in Laryngeal Phosphoid Cell Carcinoma and Precancerous
+Lesions,” Journal of Tropical Medicine 17, no. 9 (2017): 1160–1163.
+
+30. L. Chen, P. Dong, and Z. Yu, “Detection of Human Papillomavirus
+Infection in Laryngeal and Hypopharyngeal Carcinoma Using Droplet
+Digital PCR and Its Correlation With Prognosis,” Postgraduate Medicine
+[133, no. 6 (2021): 619–625, https://doi.org/10.1080/00325481.2021.1904669.](https://doi.org/10.1080/00325481.2021.1904669)
+
+31. C. Y. Chien, C. Y. Su, F. M. Fang, et al., “Lower Prevalence but
+
+‐
+Favorable Survival for Human Papillomavirus Related Squamous Cell
+Carcinoma of Tonsil in Taiwan,” Oral Oncology 44, no. 2 (2008):
+[174–179, https://doi.org/10.1016/j.oraloncology.2007.01.018.](https://doi.org/10.1016/j.oraloncology.2007.01.018)
+
+
+8 of 10 Journal of Medical Virology, 2025
+
+32. W. Li, N. Tran, C. Soon Lee, et al., “New Evidence for Geographic
+Variation in the Role of Human Papillomavirus In Tonsillar Carcino[genesis,” Pathology 39, no. 2 (2007): 217–222, https://doi.org/10.1080/](https://doi.org/10.1080/00313020701230823)
+
+[00313020701230823.](https://doi.org/10.1080/00313020701230823)
+
+33. K. T. Kuo, C. H. Hsiao, C. H. Lin, L. T. Kuo, S. H. Huang, and
+M. C. Lin, “The Biomarkers of Human Papillomavirus Infection in
+
+‐
+Tonsillar Squamous Cell Carcinoma Molecular Basis and Predicting
+Favorable Outcome,” Modern Pathology 21, no. 4 (2008): 376–386,
+[https://doi.org/10.1038/modpathol.3800979.](https://doi.org/10.1038/modpathol.3800979)
+
+34. K. Huang, G. Ni, B. Ma, et al., “Importance of Human Papillomavirus Infection in Squamous Cell Carcinomas of the Tongue in
+Guangdong Province, China,” Journal of International Medical Research
+[48, no. 1 (2020): 300060519897187, https://doi.org/10.1177/030006051](https://doi.org/10.1177/0300060519897187)
+
+[9897187.](https://doi.org/10.1177/0300060519897187)
+
+35. C. W. Luo, C. H. Roan, and C. J. Liu, “Human Papillomaviruses In
+
+‐
+Oral Squamous Cell Carcinoma and Pre Cancerous Lesions Detected by
+PCR‐Based Gene‐Chip Array,” International Journal of Oral and
+[Maxillofacial Surgery 36, no. 2 (2007): 153–158, https://doi.org/10.](https://doi.org/10.1016/j.ijom.2006.09.005)
+[1016/j.ijom.2006.09.005.](https://doi.org/10.1016/j.ijom.2006.09.005)
+
+36. S. W. Yang, Y. S. Lee, T. A. Chen, C. J. Wu, and C. N. Tsai, “Human
+Papillomavirus in Oral Leukoplakia Is no Prognostic Indicator of
+Malignant Transformation,” Cancer Epidemiology 33, no. 2 (2009):
+[118–122, https://doi.org/10.1016/j.canep.2009.05.003.](https://doi.org/10.1016/j.canep.2009.05.003)
+
+37. C. C. Huang, J. R. Hsiao, M. W. Yang, et al., “Human Papilloma
+
+‐
+Virus Detection In Neoplastic and Non Neoplastic Nasopharyngeal
+Tissues in Taiwan,” Journal of Clinical Pathology 64, no. 7 (2011):
+[571–577, https://doi.org/10.1136/jcp.2010.087742.](https://doi.org/10.1136/jcp.2010.087742)
+
+38. Z. Wang, R. H. Xia, D. X. Ye, and J. Li, “Human Papillomavirus 16
+Infection and TP53 Mutation: Two Distinct Pathogeneses for Oropharyngeal Squamous Cell Carcinoma in an Eastern Chinese Popula[tion,” PloS One 11, no. 10 (2016): e0164491, https://doi.org/10.1371/](https://doi.org/10.1371/journal.pone.0164491)
+[journal.pone.0164491.](https://doi.org/10.1371/journal.pone.0164491)
+
+39. C. Hu, H. Quan, L. Yan, J. Sun, L. Lan, and S. Wang, “Prevalence of
+Human Papillomavirus in Sinonasal Squamous Cell Carcinoma With
+and Without Association of Inverted Papilloma in Eastern China,”
+[Infectious Agents and Cancer 15, no. 1 (2020): 36, https://doi.org/10.](https://doi.org/10.1186/s13027-020-00298-4)
+[1186/s13027-020-00298-4.](https://doi.org/10.1186/s13027-020-00298-4)
+
+40. Y. T. Jin, S. T. Tsai, C. Li, et al., “Prevalence of Human Papillomavirus in Middle Ear Carcinoma Associated With Chronic Otitis
+
+Media,” American Journal of Pathology 150, no. 4 (1997): 1327–1333.
+
+41. L. Wang, J. Li, J. Hou, et al., “p53 Expression but not p16(INK4A)
+
+‐
+Correlates With Human Papillomavirus Associated Esophageal Squamous Cell Carcinoma in Kazakh Population,” Infectious Agents and
+[Cancer 11 (2016): 19, https://doi.org/10.1186/s13027-016-0065-x.](https://doi.org/10.1186/s13027-016-0065-x)
+
+42. D. H. Zhang, Q. Y. Zhang, C. Q. Hong, J. Y. Chen, Z. Y. Shen, and
+Y. Zhu, “Prevalence and Association of Human Papillomavirus 16,
+
+‐ ‐
+Epstein Barr Virus, Herpes Simplex virus 1 and Cytomegalovirus
+
+‐ ”
+Infection With Human Esophageal Carcinoma: A Case Control Study,
+[Oncology Reports 25, no. 6 (2011): 1731–1738, https://doi.org/10.3892/](https://doi.org/10.3892/or.2011.1234)
+
+[or.2011.1234.](https://doi.org/10.3892/or.2011.1234)
+
+43. S. Li, H. Shen, J. Li, X. Hou, K. Zhang, and J. Li, “Prevalence of the
+Integration Status for Human Papillomavirus 16 In Esophageal Carcinoma Samples,” Turkish Journal of Gastroenterology 29, no. 2 (2020):
+[157–163, https://doi.org/10.5152/tjg.2018.17568.](https://doi.org/10.5152/tjg.2018.17568)
+
+44. T. Liu, Q. Liu, M. Liang, et al., “Viral Load of HPV 16/18 in Esophageal Squamous Cell Carcinoma in Three Ethnic Groups Living in
+Xinjiang Autonomous Region, China,” Molecular Biology Reports 40,
+[no. 2 (2013): 2045–2052, https://doi.org/10.1007/s11033-012-2263-y.](https://doi.org/10.1007/s11033-012-2263-y)
+
+45. J. M. Hu, L. Li, Y. Z. Chen, et al., “Human Papillomavirus Type 16
+Infection May Be Involved in Esophageal Squamous Cell Carcinoma
+Carcinogenesis in Chinese Kazakh Patients,” Diseases of the Esophagus:
+Official Journal of the International Society for Diseases of the Esophagus
+[26, no. 7 (2013): 703–707, https://doi.org/10.1111/dote.12009.](https://doi.org/10.1111/dote.12009)
+
+
+46. Q. Y. Zhang, D. H. Zhang, Z. Y. Shen, L. Y. Xu, E. M. Li, and
+W. W. Au, “Infection and Integration of Human Papillomavirus in
+Esophageal Carcinoma,” International Journal of Hygiene and
+[Environmental Health 214, no. 2 (2011): 156–161, https://doi.org/10.](https://doi.org/10.1016/j.ijheh.2010.11.001)
+[1016/j.ijheh.2010.11.001.](https://doi.org/10.1016/j.ijheh.2010.11.001)
+
+47. S. Li, H. Shen, Z. Liu, et al., “Integration of Human Papillomavirus
+16 in Esophageal Carcinoma Samples,” Infectious Agents and Cancer 12,
+[no. 1 (2017): 53, https://doi.org/10.1186/s13027-017-0164-3.](https://doi.org/10.1186/s13027-017-0164-3)
+
+48. K. Shuyama, A. Castillo, F. Aguayo, et al., “Human Papillomavirus
+In High‐ and Low‐Risk Areas of Oesophageal Squamous Cell Carcinoma in China,” British Journal of Cancer 96, no. 10 (2007): 1554–1559,
+[https://doi.org/10.1038/sj.bjc.6603765.](https://doi.org/10.1038/sj.bjc.6603765)
+
+49. X. M. Lu, S. Monnier‐Benoit, L. Z. Mo, et al., “Human Papillomavirus in Esophageal Squamous Cell Carcinoma of the High‐Risk Kazakh
+Ethnic Group In Xinjiang, China,” European Journal of Surgical
+[Oncology (EJSO) 34, no. 7 (2008): 765–770, https://doi.org/10.1016/j.](https://doi.org/10.1016/j.ejso.2007.11.007)
+[ejso.2007.11.007.](https://doi.org/10.1016/j.ejso.2007.11.007)
+
+50. X. Cui, Y. Chen, L. Liu, et al., “Heterozygote of PLCE1 rs2274223
+Increases Susceptibility to Human Papillomavirus Infection in Patients
+With Esophageal Carcinoma Among the Kazakh Populations,” Journal
+[of Medical Virology 86, no. 4 (2014): 608–617, https://doi.org/10.1002/](https://doi.org/10.1002/jmv.23775)
+[jmv.23775.](https://doi.org/10.1002/jmv.23775)
+
+51. K. Y. Lam, D. He, L. Ma, et al., “Presence of Human Papillomavirus
+in Esophageal Squamous Cell Carcinomas of Hong Kong Chinese and
+Its Relationship With p53 Gene Mutation,” Human Pathology 28, no. 6
+[(1997): 657–663, https://doi.org/10.1016/s0046-8177(97)90174-x.](https://doi.org/10.1016/s0046-8177(97)90174-x)
+
+52. W. K. Liu, X. Y. Jiang, M. P. Zhang, and Z. X. Zhang, “The Relationship Between HPV16 and Expression of cyclooxygenase‐2, P53 and
+Their Prognostic Roles in Esophageal Squamous Cell Carcinoma,”
+European Journal of Gastroenterology & Hepatology 22, no. 1 (2010):
+[67–74, https://doi.org/10.1097/MEG.0b013e32832c7e76.](https://doi.org/10.1097/MEG.0b013e32832c7e76)
+
+53. X. Du, “Expression of P53 and P73 in Esophageal Carcinoma Tissues
+and Their Correlation With HPV16/18 Infection,” Shanxi Medical
+University (2010).
+
+54. The Relationship Between Human Papillomavirues (HPV)., "Infection and MHC‐I Molecules With Esophageal Squamous Cell Carcinoma," Hebei Medical University (2014).
+
+55. Y. F. Wang, X. S. Wang, S. G. Gao, et al., “Clinical Significance of
+Combined Detection of Human Papilloma Virus Infection and Human
+Telomerase RNA Component Gene Amplification in Patients With
+Squamous Cell Carcinoma of the Esophagus in Northern China,”
+[European Journal of Medical Research 18, no. 1 (2013): 11, https://doi.](https://doi.org/10.1186/2047-783X-18-11)
+[org/10.1186/2047-783X-18-11.](https://doi.org/10.1186/2047-783X-18-11)
+
+56. W. L. Wang, Y. C. Wang, C. T. Lee, et al., “The Impact of Human
+Papilloma Virus Infection on the Survival and Treatment Response of
+Patients With Esophageal Cancers,” Journal of Digestive Diseases 16,
+[no. 5 (2015): 256–263, https://doi.org/10.1111/1751-2980.12236.](https://doi.org/10.1111/1751-2980.12236)
+
+57. P. K. Chan, K. F. To, S. H. Tsang, et al., “Human Papilloma Virus
+Infection and Squamous Cell Carcinoma in Hong Kong: A Case‐Control
+Study,” Hong Kong Medical Journal 5, no. 4 (2017): 8–11.
+
+58. D. Zhang, W. Zhang, W. Liu, et al., “Human Papilloma Virus
+Infection Increases the Chemoradiation Response of Esophageal Squamous Cell Carcinoma Based on P53 Mutation,” Radiotherapy &
+[Oncology 124, no. 1 (2017): 155–160, https://doi.org/10.1016/j.radonc.](https://doi.org/10.1016/j.radonc.2017.06.008)
+
+[2017.06.008.](https://doi.org/10.1016/j.radonc.2017.06.008)
+
+59. F. He, W. Xiong, F. Yu, et al., “Human Papillomavirus Infection
+Maybe Not Associated With Primary Lung Cancer in the Fujian Pop[ulation of China,” Thoracic Cancer 11, no. 3 (2020): 561–569, https://](https://doi.org/10.1111/1759-7714.13282)
+[doi.org/10.1111/1759-7714.13282.](https://doi.org/10.1111/1759-7714.13282)
+
+60. Y. Wang, A. Wang, R. Jiang, et al., “Human Papillomavirus Type 16
+and 18 Infection Is Associated With Lung Cancer Patients From the
+Central Part of China,” Oncology Reports 20, no. 2 (2008): 333–339.
+
+9 of 10
+
+61. X. Fan, K. Yu, J. Wu, J. Shao, L. Zhu, and J. Zhang, “Correlation
+Between Squamous Cell Carcinoma of the Lung and Human Papillomavirus Infection and the Relationship to Expression of p53 and P16,”
+[Tumor Biology 36, no. 4 (2015): 3043–3049, https://doi.org/10.1007/](https://doi.org/10.1007/s13277-014-2940-7)
+
+[s13277-014-2940-7.](https://doi.org/10.1007/s13277-014-2940-7)
+
+62. Y. W. Cheng, H. L. Chiou, J. T. Chen, et al., “Gender Difference In
+
+‐
+Human Papillomarvirus Infection for Non Small Cell Lung Cancer in
+[Taiwan,” Lung Cancer 46, no. 2 (2004): 165–170, https://doi.org/10.](https://doi.org/10.1016/j.lungcan.2004.03.023)
+[1016/j.lungcan.2004.03.023.](https://doi.org/10.1016/j.lungcan.2004.03.023)
+
+63. J. L. Wang, C. L. Fang, M. Wang, et al., “Human Papillomavirus
+Infections as a Marker to Predict Overall Survival in Lung Adenocarcinoma,” International Journal of Cancer 134, no. 1 (2014): 65–71,
+[https://doi.org/10.1002/ijc.28349.](https://doi.org/10.1002/ijc.28349)
+
+64. M. Zhang, C. H. Wu, Y. J. Wang, Y. H. Yuan, and Q. Yang, “The
+Relationship Between Hpv Infection and the Expression of Insulin‐Like
+Growth Factor II in Lung Cancer and Its Clinical Significance,” Tumor
+[29, no. 8 (2009): 749–753, https://doi.org/10.3781/j.issn.1000-7431.2009.](https://doi.org/10.3781/j.issn.1000-7431.2009.08.010)
+
+[08.010.](https://doi.org/10.3781/j.issn.1000-7431.2009.08.010)
+
+65. Y. Yu, X. Liu, Y. Yang, et al., “Effect of FHIT Loss and p53 Mutation
+on HPV‐Infected Lung Carcinoma Development,” Oncology Letters 10,
+[no. 1 (2015): 392–398, https://doi.org/10.3892/ol.2015.3213.](https://doi.org/10.3892/ol.2015.3213)
+
+66. M. F. Wu, Y. W. Cheng, J. C. Lai, et al., “Frequent p16INK4a Promoter Hypermethylation in Human Papillomavirus‐Infected Female
+Lung Cancer In Taiwan,” International Journal of Cancer 113, no. 3
+[(2005): 440–445, https://doi.org/10.1002/ijc.20597.](https://doi.org/10.1002/ijc.20597)
+
+67. L. J. Qu, H. Wang, and H. L. Liu, “Association of High‐Risk Human
+Papillomavirus With Transitional Cell Carcinoma of the Bladder in
+Men,” Journal of Logistics University of PAP (Medical Sciences) 19, no. 5
+(2010): 357–359.
+
+68. L. Huang, M. G. Wu, J. He, et al., “Correlation of High‐Risk HPV 16/
+18 Infections With Prostate Cancer,” Zhonghua nan ke xue = National
+Journal of Andrology 22, no. 6 (2016): 501–505.
+
+69. H. J. Chang, Y. H. Pong, C. Y. Chiang, et al., “A Matched Case‐
+Control Study In Taiwan to Evaluate Potential Risk Factors for Prostate
+[Cancer,” Scientific Reports 13, no. 1 (2023): 4382, https://doi.org/10.](https://doi.org/10.1038/s41598-023-31434-w)
+[1038/s41598-023-31434-w.](https://doi.org/10.1038/s41598-023-31434-w)
+
+70. T. Y. Ma, W. K. Liu, Y. L. Chu, et al., “Detection of Human Papillomavirus Type 16 DNA in Formalin‐Fixed, Paraffin‐Embedded
+Tissue Specimens of Gastric Carcinoma,” European Journal of
+[Gastroenterology & Hepatology 19, no. 12 (2007): 1090–1096, https://](https://doi.org/10.1097/MEG.0b013e3282eeb4dc)
+[doi.org/10.1097/MEG.0b013e3282eeb4dc.](https://doi.org/10.1097/MEG.0b013e3282eeb4dc)
+
+71. X. Castellsagué, M. Díaz, S. de Sanjosé, et al., “Worldwide Human
+Papillomavirus Etiology of Cervical Adenocarcinoma and Its Cofactors:
+Implications for Screening and Prevention,” JNCI: Journal of the
+[National Cancer Institute 98, no. 5 (2006): 303–315, https://doi.org/10.](https://doi.org/10.1093/jnci/djj067)
+[1093/jnci/djj067.](https://doi.org/10.1093/jnci/djj067)
+
+72. Y. Zhou, C. Wang, H. Zhu, et al., “Diagnostic Accuracy of PIK3CA
+
+‐
+Mutation Detection by Circulating Free DNA in Breast Cancer: A Meta
+Analysis of Diagnostic Test Accuracy,” PLoS One 11, no. 6 (2016):
+[e0158143, https://doi.org/10.1371/journal.pone.0158143.](https://doi.org/10.1371/journal.pone.0158143)
+
+73. A. K. Chaturvedi, W. F. Anderson, J. Lortet‐Tieulent, et al.,
+“Worldwide Trends in Incidence Rates for Oral Cavity and Oropharyngeal Cancers,” Journal of Clinical Oncology 31, no. 36 (2013):
+[4550–4559, https://doi.org/10.1200/jco.2013.50.3870.](https://doi.org/10.1200/jco.2013.50.3870)
+
+74. H. Pang, R. Flinn, A. Patsialou, et al., “Differential Enhancement of
+Breast Cancer Cell Motility and Metastasis by Helical and Kinase
+Domain Mutations of Class IA Phosphoinositide 3‐Kinase,” Cancer
+[Research 69, no. 23 (2009): 8868–8876, https://doi.org/10.1158/0008-](https://doi.org/10.1158/0008-5472.can-09-1968)
+
+[5472.can-09-1968.](https://doi.org/10.1158/0008-5472.can-09-1968)
+
+75. A. K. Chaturvedi, E. A. Engels, R. M. Pfeiffer, et al., “Human Papillomavirus and Rising Oropharyngeal Cancer Incidence in the United
+States,” Journal of Clinical Oncology 29, no. 32 (2011): 4294–4301,
+[https://doi.org/10.1200/jco.2011.36.4596.](https://doi.org/10.1200/jco.2011.36.4596)
+
+
+76. S. de Sanjosé, B. Serrano, S. Tous, et al., “Burden of Human Papillomavirus (HPV)‐Related Cancers Attributable to HPVs 6/11/16/18/
+31/33/45/52 and 58,” JNCI Cancer Spectrum 2, no. 4 (2018): pky045,
+[https://doi.org/10.1093/jncics/pky045.](https://doi.org/10.1093/jncics/pky045)
+
+77. S. Franceschi, X. Castellsagué, L. Dal Maso, et al., “Prevalence and
+Determinants of Human Papillomavirus Genital Infection in Men,”
+[British Journal of Cancer 86, no. 5 (2002): 705–711, https://doi.org/10.](https://doi.org/10.1038/sj.bjc.6600194)
+[1038/sj.bjc.6600194.](https://doi.org/10.1038/sj.bjc.6600194)
+
+78. K. Zou, Y. Huang, and Z. Li, “Prevention and Treatment of Human
+Papillomavirus in Men Benefits Both Men and Women,” Frontiers in
+[Cellular and Infection Microbiology 12 (2022): 1077651, https://doi.org/](https://doi.org/10.3389/fcimb.2022.1077651)
+[10.3389/fcimb.2022.1077651.](https://doi.org/10.3389/fcimb.2022.1077651)
+
+79. L. Chihu‐Amparan, A. Pedroza‐Saavedra, and L. Gutierrez‐
+Xicotencatl, “The Immune Response Generated Against HPV Infection
+in Men and Its Implications in the Diagnosis of Cancer,”
+[Microorganisms 11, no. 6 (2023): 1609, https://doi.org/10.3390/](https://doi.org/10.3390/microorganisms11061609)
+[microorganisms11061609.](https://doi.org/10.3390/microorganisms11061609)
+
+80. M. Lehtinen, L. Bruni, M. Elfström, et al., “Scientific Approaches
+Toward Improving Cervical Cancer Elimination Strategies,”
+[International Journal of Cancer 154, no. 9 (2024): 1537–1548, https://](https://doi.org/10.1002/ijc.34839)
+[doi.org/10.1002/ijc.34839.](https://doi.org/10.1002/ijc.34839)
+
+81. I. Man, D. Georges, R. Sankaranarayanan, P. Basu, and I. Baussano,
+
+“ ‐
+Building Resilient Cervical Cancer Prevention Through Gender
+[Neutral HPV Vaccination,” eLife 12 (2023): e85735, https://doi.org/10.](https://doi.org/10.7554/eLife.85735)
+[7554/eLife.85735.](https://doi.org/10.7554/eLife.85735)
+
+82. A. A. Deshmukh, R. Suk, M. S. Shiels, et al., “Recent Trends in
+Squamous Cell Carcinoma of the Anus Incidence and Mortality in the
+United States, 2001‐2015,” JNCI: Journal of the National Cancer Institute
+[112, no. 8 (2020): 829–838, https://doi.org/10.1093/jnci/djz219.](https://doi.org/10.1093/jnci/djz219)
+
+83. R. L. Siegel, A. N. Giaquinto, and A. Jemal, “Cancer Statistics, 2024,”
+[CA: A Cancer Journal for Clinicians 74, no. 1 (2024): 12–49, https://doi.](https://doi.org/10.3322/caac.21820)
+[org/10.3322/caac.21820.](https://doi.org/10.3322/caac.21820)
+
+Supporting Information
+
+Additional supporting information can be found online in the
+Supporting Information section.
+
+
+10 of 10 Journal of Medical Virology, 2025
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

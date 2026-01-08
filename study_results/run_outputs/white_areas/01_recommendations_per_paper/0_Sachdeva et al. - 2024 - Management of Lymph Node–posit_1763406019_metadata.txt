@@ -1,0 +1,50 @@
+cache_tokens_details=None cached_content_token_count=None candidates_token_count=877 candidates_tokens_details=None prompt_token_count=45253 prompt_tokens_details=[ModalityTokenCount(modality=<MediaModality.TEXT: 'TEXT'>, token_count=40867), ModalityTokenCount(modality=<MediaModality.DOCUMENT: 'DOCUMENT'>, token_count=4386)] thoughts_token_count=2892 tool_use_prompt_token_count=None tool_use_prompt_tokens_details=None total_token_count=49022 traffic_type=None
+
+
+**Here's how I'm approaching this task:**
+
+I'm starting with a firm grasp of the goal: provide a structured table of explicit treatment recommendations for lymph node-positive penile cancer, as derived from this systematic review. My expertise allows me to quickly identify the crucial elements in the request, such as the table format (Aspect of Care and Recommendation columns) and the required specificity in recommendations (stage, treatment modality, limitations).
+
+My process is methodical. First, I understand the scope – this paper focuses on nodal involvement, so I need to filter for LN-related recommendations. Then, I plan to comb the paper for sentences that translate directly into clinical advice. Key sections include the Abstract's conclusions, the Introduction for standard of care, the Results' synthesis, and the Discussion for implications and the final Conclusions for the most concise statements.
+
+I'm aware that a systematic review summarizes existing evidence, which means I'll need to work to extract the underlying recommendations. I'll read and re-read, focusing on phrasing that indicates an action or a preferred approach: “should be considered,” “not recommended,” “is indicated for,” etc.
+
+For each potential recommendation, I will extract specific clinical indications (stage, grade, anatomy). For treatment details, I'll pay attention to nuances (specific treatment, qualifiers, limitations, and additional clinical details like palpable vs. non-palpable nodes).
+
+Next, I'll build the table, organizing the recommendations into logical categories such as General Management Principles, Inguinal Lymph Node Management (Surgery), Inguinal Lymph Node Management (Systemic/Adjuvant Therapy), and Pelvic Lymph Node Management. I will re-phrase the recommendations in a concise manner without losing the original meaning, to ensure the table is easy to digest.
+
+Finally, I'll meticulously check the results against my source material. I'll make sure the phrasing accurately reflects the original paper's intent. My expert knowledge allows me to integrate information efficiently and ensure clarity. I will use the "Implications for clinical practice" section heavily. The conclusions are often the best distillation of a systematic review's key advice, so they're another key place to search.
+
+
+
+**Here's how I'm approaching this task:**
+
+I'm starting with a firm grasp of the goal: provide a structured table of explicit treatment recommendations for lymph node-positive penile cancer, as derived from this systematic review. My expertise allows me to quickly identify the crucial elements in the request, such as the table format (Aspect of Care and Recommendation columns) and the required specificity in recommendations (stage, treatment modality, limitations).
+
+My process is methodical. First, I understand the scope – this paper focuses on nodal involvement, so I need to filter for LN-related recommendations. Then, I plan to comb the paper for sentences that translate directly into clinical advice. Key sections include the Abstract's conclusions, the Introduction for standard of care, the Results' synthesis, and the Discussion for implications and the final Conclusions for the most concise statements.
+
+I'm aware that a systematic review summarizes existing evidence, which means I'll need to work to extract the underlying recommendations. I'll read and re-read, focusing on phrasing that indicates an action or a preferred approach: “should be considered,” “not recommended,” “is indicated for,” etc.
+
+For each potential recommendation, I will extract specific clinical indications (stage, grade, anatomy). For treatment details, I'll pay attention to nuances (specific treatment, qualifiers, limitations, and additional clinical details like palpable vs. non-palpable nodes).
+
+Next, I'll build the table, organizing the recommendations into logical categories such as General Management Principles, Inguinal Lymph Node Management (Surgery), Inguinal Lymph Node Management (Systemic/Adjuvant Therapy), and Pelvic Lymph Node Management. I will re-phrase the recommendations in a concise manner without losing the original meaning, to ensure the table is easy to digest.
+
+Finally, I'll meticulously check the results against my source material. I'll make sure the phrasing accurately reflects the original paper's intent. My expert knowledge allows me to integrate information efficiently and ensure clarity. I will use the "Implications for clinical practice" section heavily. The conclusions are often the best distillation of a systematic review's key advice, so they're another key place to search.
+ Based on the systematic review provided, the following explicit treatment recommendations for lymph node-positive penile cancer have been identified and extracted.
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **General Management Principle** | Individualised management for patients with nodal disease should be discussed in an experienced multidisciplinary team setting. |
+| **Inguinal Lymph Node Management (Surgery)** | **Standard of Care:** Surgery is the mainstay of treatment. Radical inguinal lymph node dissection (ILND) is the standard of care for positive, resectable inguinal lymph nodes. |
+| **Inguinal Lymph Node Management (Surgery)** | **Timing of Surgery:** Early lymphadenectomy improves survival. Delaying ILND beyond 3 months is detrimental and should be avoided, particularly in patients with high-risk primary disease (Grade 3 or ≥T1b stage). |
+| **Inguinal Lymph Node Management (Surgery)** | **Surveillance:** Surveillance or delayed ILND for patients with clinically suspected positive nodes (cN+) is not recommended as it risks missing a curative opportunity and is associated with higher regional recurrence rates compared to immediate ILND or RT. |
+| **Inguinal Lymph Node Management (Surgery)** | **Minimally Invasive Surgery:** Minimally invasive ILND (e.g., VEIL, RAVEIL) can be considered. It appears feasible and may reduce wound-related morbidity, but more data is needed to confirm long-term oncological safety in patients with clinically positive (cN+) disease. |
+| **Inguinal Lymph Node Management (Systemic Therapy)** | **Neoadjuvant Chemotherapy (NACT):** NACT is reserved for patients with fixed or bulky inguinal lymph nodes (cN2–3), particularly when the disease is not immediately resectable, with the goal of enabling subsequent surgical consolidation. It can also be considered in other resectable cN2-3 cases. |
+| **Inguinal Lymph Node Management (Systemic Therapy)** | **(Neo)adjuvant Therapy for Early Nodal Disease:** (Neo)adjuvant treatment (chemotherapy or radiotherapy) is not recommended for pN1 disease as it has no proven survival benefit. |
+| **Inguinal Lymph Node Management (Systemic Therapy)** | **Adjuvant Radiotherapy (ART):** ART should be considered for pN2–3 disease after ILND, as it may reduce recurrence and offer a survival benefit. A benefit is apparent in pN2 disease but not pN1 disease. |
+| **Inguinal Lymph Node Management (Systemic Therapy)** | **Adjuvant Chemotherapy (ACT):** ACT may be of benefit in pN2–3 disease, particularly for patients with pN3 disease, but is associated with considerable toxicity. It does not improve survival in pN1-2 disease. |
+| **Inguinal Lymph Node Management (Systemic Therapy)** | **Adjuvant Chemoradiotherapy (ACRT):** ACRT may provide a modest additional benefit in reducing locoregional recurrence and improving survival in pN3 disease, especially in cases with extranodal extension (ENE) or HPV positivity. |
+| **Pelvic Lymph Node Management** | **Indications for Pelvic Lymph Node Dissection (PLND):** PLND should be performed after ILND in patients with predictors for pelvic lymph node involvement, which include the presence of three or more positive inguinal nodes or extranodal extension (ENE). PLND improves outcomes in pN2 disease. |
+| **Pelvic Lymph Node Management** | **Adjuvant Therapy after PLND:** Both adjuvant chemotherapy (ACT) and adjuvant radiotherapy (ART) show modest improvements in recurrence and survival outcomes after PLND. |
+| **Pelvic Lymph Node Management** | **Adjuvant Chemotherapy (ACT) after PLND:** ACT is associated with a significant overall survival benefit in patients with pelvic lymph node metastases (pelvic pN3 disease) and should be considered. |
+| **Pelvic Lymph Node Management** | **Adjuvant Radiotherapy (ART) after PLND:** ART may offer improved recurrence-free and overall survival in pN3 disease after PLND, particularly in the absence of extranodal extension (ENE). |

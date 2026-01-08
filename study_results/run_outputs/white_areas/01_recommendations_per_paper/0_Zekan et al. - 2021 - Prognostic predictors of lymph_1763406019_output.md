@@ -1,0 +1,10 @@
+Based on the systematic review provided, the following explicit treatment recommendations, primarily cited from NCCN and EAU guidelines, are identified:
+
+| Aspect of Care | Recommendation |
+| :--- | :--- |
+| **Lymph Node Management** | **For patients with low-risk (cTis, cTa, cT1a) penile cancer and non-palpable inguinal lymph nodes:**<br>• The recommended management is **surveillance**. |
+| **Lymph Node Management** | **For patients with intermediate or high-risk (cT1b, cT2 or higher) penile cancer and non-palpable inguinal lymph nodes:**<br>• Recommended management includes **chest/abdomen/pelvic imaging** followed by either **inguinal lymph node dissection (ILND)** or **dynamic sentinel lymph node biopsy (DSLNB)**. |
+| **Lymph Node Management** | **For patients with palpable inguinal lymph nodes and a high-risk primary lesion (defined as T1, high-grade, lymphovascular invasion, perineural invasion, or >50% poorly differentiated):**<br>• The recommendation is to proceed directly to **inguinal lymph node dissection (ILND)**. |
+| **Lymph Node Management / Diagnosis** | **For patients with palpable inguinal lymph nodes and low-risk disease:**<br>• **Percutaneous biopsy** is the suggested diagnostic step. |
+| **Diagnosis / Staging** | **For patients being evaluated for metastases or when physical examination is limited:**<br>• **Cross-sectional imaging (CT and MRI)** is recommended as helpful for detecting metastases in the pelvis/retroperitoneum and in patients whose body habitus limits physical examination. |
+| **Diagnosis / Staging** | **For patients with a high clinical suspicion of inguinal lymph node metastasis (ILNM):**<br>• A comprehensive **workup** at the time of initial biopsy is suggested to inform the decision for ILND. This includes:<br>  • Blood and tumor markers (e.g., CRP, NLR, PD-L1, p53, SCC-Ag, SOD2, and ID1).<br>  • Advanced imaging. |

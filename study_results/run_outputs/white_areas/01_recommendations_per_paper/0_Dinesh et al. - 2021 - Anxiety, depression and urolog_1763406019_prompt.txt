@@ -1,0 +1,1443 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    [Urologic Oncology: Seminars and Original Investigations 39 (2021) 816−828](https://doi.org/10.1016/j.urolonc.2021.08.003)
+
+Review Article
+# Anxiety, depression and urological cancer outcomes: A systematic review
+## Ayushi Anna Dinesh, B.S.c. (Hons) [a], Sofia Helena Pagani Soares Pinto, B.S.c. (Hons) [a], Oliver Brunckhorst, M.B.B.S., B.S.c. (Hons), M.R.C.S [a], Prokar Dasgupta, M.B.B.S, M.S.c., M.D., F.R.C.S., F.E.B.U., F.L.S., F.K.C. [a], Kamran Ahmed, M.B.B.S., P.h.D., F.R.C.S. [a][,][b][,] *
+
+a MRC Centre for Transplantation, Guy’s Hospital Campus, King’s College London, King’s Health Partners, London, United Kingdom
+b Department of Urology, King’s College Hospital, London, United Kingdom
+
+Received 30 May 2021; received in revised form 25 July 2021; accepted 5 August 2021
+
+Abstract
+
+Purpose: The interplay between physical and mental aspects of a cancer diagnosis are well recognised. However, little consensus exists
+on the impact of depression and anxiety on urological cancer outcomes. Therefore, this systematic review aimed to investigate the relationship between these conditions and functional or oncological outcomes in urological malignancy.
+Materials and Methods: A systematic search was conducted using PubMed, Embase, PsycINFO and Global Health databases up to June
+2020. Studies evaluating the relationship of anxiety and depression disorders or symptoms on functional and mortality outcomes were included.
+Outcome measures included validated urinary, sexual, body image questionnaire scores and all-cause or disease-specific mortality.
+Results: Of 3,966 studies screened, 25 studies with a total of 175,047 urological cancer patients were included. Significant anxiety and
+depressive symptoms and disorders were found to impact functional outcomes in several cancer types. A consistent negative association
+existed for sexual function in prostate, testicular and penile cancer patients. Additionally, poorer urinary function scores were seen in prostate cancer, with increased body image issues in testicular and prostate cancer. Importantly, both overall and disease-specific mortality outcomes were poorer in bladder and prostate cancer patients.
+Conclusions: Co-existing depression and anxiety appears to be negatively associated with functional and mortality outcomes in urological cancers. This appears especially evident in male cancers, including prostate and testicular cancer. Although not proving causation, these
+findings highlight the importance of considering mental wellbeing during follow-up for early recognition and treatment. However, current
+evidence remains heterogenous, with further studies required exploring patients at risk. � 2021 Published by Elsevier Inc.
+
+Keywords: Anxiety; Depression; Urological cancer; Outcomes; Functional; Mortality
+
+
+1. Introduction
+
+Urological cancer diagnoses, their treatments and related
+sequelae have a large impact on a patient’s physical quality
+of life (QoL) [1-3]. Important functional issues encountered
+across urological malignancies include urinary, sexual or
+bowel dysfunction, and body image issues [4-8]. Beyond
+the physical impact, mental wellbeing during treatment and
+survivorship is also often impacted [9-12]. Whilst the
+
+*Corresponding author. Tel.: +44-0-20 7188 5906; fax: +44-0-20 3312
+
+6787.
+
+[E-mail address: kamran.ahmed@kcl.ac.uk (K. Ahmed).](mailto:kamran.ahmed@kcl.ac.uk)
+
+[https://doi.org/10.1016/j.urolonc.2021.08.003](https://doi.org/10.1016/j.urolonc.2021.08.003)
+1078-1439/� 2021 Published by Elsevier Inc.
+
+
+mental health effect of urological malignancies is well
+investigated [9,12-14], the impact mental health symptoms
+or diagnoses have on functional and mortality outcomes is
+less well defined.
+The link between mental and physical health is clear
+when the biopsychosocial model is considered [15]. The
+interdependence of biological, psychological and socio-environmental factors contributes to an individual’s general wellbeing, meaning poor psychological health has repercussions
+on biological aspects. Poor mental health is known to be
+associated with increased overall mortality [16], with effects
+noted in several cancers [17-20]. With psychological factors
+commonly affecting genitourinary functions [21-23], and
+
+A.A. Dinesh et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 816−828 817
+
+
+with evidence of negative effects in other cancer outcomes,
+there is a need for further evaluation of this relationship
+within urological cancers. This systematic review aims to
+address the following clinical questions:
+
+1. Assessing the potential impact of depression and anxiety
+disorders and symptoms on functional outcomes including urinary function, sexual function and body
+image - in the following individual urological cancers −
+renal, bladder, prostate, testicular and penile cancers
+2. Evaluating the potential impact of depression and anxiety on mortality in these urological cancers.
+
+2. Methods
+
+This systematic review was conducted according to the
+Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses (PRISMA) [24] and Synthesis without
+Meta-analysis (SWiM) reporting guidelines [25]. The protocol was prospectively registered on PROSPERO
+(CRD42020159606).
+
+2.1. Data information sources and search
+
+A broad search of electronic databases including MEDLINE (via PubMed), Embase, Global Health and APA PsycINFO was conducted from inception to 1 [st] June 2020. A
+combination of MeSH and key terms for mental health,
+oncological and urological conditions were combined with
+the outcomes of interest (Supplementary material 1). A reference review of identified articles and reviews was conducted, with grey literature searched through ongoing
+clinical trial registries (WHO International Clinical Trials
+Registry Platform and ClinicalTrials.gov) and authors contacted for any preliminary data.
+
+2.2. Eligibility criteria
+
+We considered studies assessing the impact of depression and anxiety disorders or symptoms on functional outcomes, namely urinary or sexual dysfunction, body image
+issues and overall or disease-specific mortality in urological
+malignancies. Observational study types were included,
+except for case reports and case series of fewer than 10
+cases per variable or 30 cases overall. For inclusion, a clear
+definition of significant anxiety or depressive symptoms or
+disorders was required, using either validated psychometric
+scales or a formal clinical diagnosis. We placed no restrictions on time since cancer diagnosis.
+We excluded studies with no English translation, those
+with insufficient data points including conference abstracts,
+and interventional studies only considering the effect of a
+treatment on mental health. Data points were deemed insufficient if the functional outcomes of interest were assessed using
+a patient’s narrative account rather than validated assessment
+
+
+scales. Data from studies assessing the impact of mental health
+conditions on mortality were deemed insufficient if they were
+not expressed through risk and hazard ratios. Additionally, we
+excluded studies where no urinary malignancy specific information was provided or only systematic syndromes, such as
+von Hippel-Lindau syndrome, were studied.
+
+2.3. Study selection
+
+Two reviewers AAD and SPSP independently reviewed
+potentially relevant records arising from the search. Following de-duplication, title, abstract and subsequently full text
+screening was undertaken against the eligibility criteria. A
+third reviewer (OB) evaluated any inconsistencies until
+total agreement was achieved.
+
+2.4. Data collection and data items
+
+One reviewer AAD extracted data onto a pre-defined sheet.
+Specific information extracted were author, year, study type
+and patient demographics. Additionally, mental health specific
+information was extracted including time and method of diagnosis of disorder or symptoms. Outcome measures extracted
+were divided into functional and mortality measures. Functional outcomes included sexual or urinary dysfunction and
+body or self-image issues as measured through validated questionnaires (Supplementary material 2). Mortality was assessed
+through all-cause and disease-specific mortality as expressed
+through risk and hazard ratios.
+
+2.5. Risk of bias (quality) assessment
+
+Quality assessment of individual studies was completed
+using the Newcastle-Ottawa Scale (NOS) [26]. The conversion criteria used for converting NOS scores to the Agency
+for Healthcare Research and Quality (ARHQ) standards are
+presented in Supplementary material 4. The rationale for the
+conversion criteria was adapted from previous studies [2729]. Furthermore, the Grading of Recommendations Assessment, Development and Evaluation (GRADE) for assessment of evidence about prognosis was implemented to
+determine the certainty of evidence on an individual outcome
+measure basis [30] (Supplementary material 5, Tables 1-3).
+
+3. Results
+
+3.1. Study selection and characteristics
+
+A total of 3,966 unique records were identified and evaluated (Fig. 1). The references of studies rejected at the fulltext level are included in Supplementary material 6. A final
+25 studies were included in this review spanning all urological cancers. Studies were observational, with ten crosssectional and fifteen longitudinal cohort studies. Eleven
+studies evaluated the effect of depression on functional outcomes and mortality, six studied the effects of anxiety and
+
+818 A.A. Dinesh et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 816−828
+
+Fig. 1. PRISMA flow diagram for study selection.
+
+
+eight evaluated both. Sexual dysfunction was evaluated in
+17 studies, urinary dysfunction in seven, body image issues
+in three and mortality in six articles. Table 1 and Supplementary material 3 provide extracted data of included
+articles.
+
+3.2. Prostate cancer
+
+Prostate cancer was the most investigated genitourinary
+malignancy with 14 studies [31-44] identified, combing
+101,441 patients. Ten studies [31-40] assessed the impact
+of anxiety and depressive disorders or symptoms on sexual
+dysfunction with mixed findings. Baseline data on mental
+health symptoms and conditions were collected at various
+times in these studies − either prior to a cancer diagnosis
+
+[39], post-diagnosis and before treatment [32,36-38], or
+after cancer treatment [31,33,34,40]. Cumulatively, these
+studies included patients who had undergone various types
+
+
+of treatments i.e., active surveillance, radiotherapy, chemotherapy and surgery.
+Whilst two studies demonstrated higher anxiety symptom
+scores at baseline or during treatment to be associated with
+poorer sexual function scores (both P = 0.01) [33,34], four
+identified no associations between these two outcomes (moderate certainty of evidence) [31,32,36,37]. When evaluating
+depressive symptoms, the findings were more concordant
+across four studies [33,38-40]. Erectile and sexual dysfunction (P <0.05) and sexual bother symptoms (P <0.01) were
+significantly affected by the presence of depressive symptoms during follow-up [33,38]. Similarly, a diagnosis of
+depressive symptoms at baseline was predictive of sexual
+dysfunction at six (P <0.05) and twelve months (P = 0.01)
+post diagnosis (moderate certainty of evidence) [39,40].
+Urinary function and bother were significantly impacted
+across all seven studies identified (low to very low certainty
+of evidence) [31,33,35-37,39,40]. Depressive and anxiety
+
+Table 1
+
+Characteristics of included studies
+
+Author/Study Type Cancer Type (Stage) Number of Age (Years) Gender Ethnicity Time of Mental Health
+Participants Symptom Assessment/
+Diagnosis
+
+
+PROSTATE CANCER
+
+Jayadevappa et al.,
+2012/retrospective
+
+cohort
+
+
+Prostate (all stages) 50,147 Mean at Male White (81.6%),
+diagnosis = 74.3 African American
+(11.7%), Hispanic
+(6.8%)
+
+
+1-year pre-cancer
+diagnosis till 8 years
+post-cancer diagnosis
+
+
+Assessment Form/Diagnosis
+
+ICD-9 depressive disorders
+
+codes
+
+
+Lin et al., 2017/ cross- Prostate (Stage 2-4) 133 Mean = 74.7 § 7.9 Male Not reported At study enrolment (post CES-D
+sectional cancer treatment)
+
+
+Lin et al., 2018/ Prostate (All stages) 1101 At diagnosis:
+retrospective cohort <60 = 5.2% 60
+70 = 29.21% 70
+80 = 29.21%
+
+≥80 = 52.81%
+
+
+Male Not reported From cancer diagnosis ICD-9 depressive disorders
+(1998-2003) till 2012 codes
+
+
+Mohamed et al., 2012/ Prostate (Localized 869 Mean = 65.45 § Male Caucasian (90.6%),
+prospective cohort [T1-2N0M0]) 7.57 African American/
+Hispanic/Asian/
+Other (7.4%)
+
+Monahan et al., 2007/ Prostate (stage 1-3) 105 Mean = 64.3 § 8.1 Male Caucasian (88%),
+prospective cohort African American
+(9%), Other (2%),
+Unknown (2%)
+
+
+At cancer diagnosis and 6
+months post-cancer
+
+treatment
+
+
+CES-D
+
+
+Within 4 weeks post CES-D
+
+cancer treatment
+
+
+Male Not reported Symptom assessment
+after treatment (32.9 §
+
+13.1 months after
+
+radical prostatectomy,
+29.5 § 9.8 months after
+
+EBRT)
+
+
+Namiki et al., 2007/
+retrospective cross
+sectional
+
+
+Localized prostate 340 RP = 68.9§5.9
+cancer EBRT = 75.7§
+
+4.5
+
+
+Parker at al., 2016/ Low-risk prostate
+prospective cohort cancer (3 + 3 GS in
+
+one core or 3 + 4 GS
+
+in one core and PSA
+
+<4ng/mL)
+
+
+180 Mean = 67.2 § 8.9 Male White (86.1%), Black
+(6.7%), Hispanic
+(6.1%), Asian
+(1.1%)
+
+
+At study enrolment
+(within 6 months post
+cancer diagnosis) and
+every 6 months (up to
+30 months)
+
+At study enrolment (post
+cancer diagnosis) and
+every 6 months over
+first 24 months of AS
+
+
+HADS
+
+STAI, MAX-PC
+
+MAX-PC
+
+
+Pearce et al., 2015/ Prostate (<T2a) 195 Mean at
+prospective cohort enrolment =
+66.5 § 6.8
+
+
+Male White (84.6%),
+
+African American
+
+(6.7%), Other
+(8.7%)
+
+
+Pompe et al., 2018/
+retrospective
+longitudinal
+
+
+Prostate (T2-T3b) 5,553 Median = 64.2 Male Not reported Before cancer treatment PHQ-4
+
+
+(continued on next page)
+
+Table 1 (Continued)
+
+Author/Study Type Cancer Type (Stage) Number of Age (Years) Gender Ethnicity Time of Mental Health
+Participants Symptom Assessment/
+Diagnosis
+
+
+Assessment Form/Diagnosis
+
+
+Prasad et al., 2014/ Prostate (localized) 41,275 At diagnosis: 67retrospective cohort 69 = 22.2% 70
+74 = 33.9%
+
+≥75 = 43.8%
+
+
+Male Non-Hispanic White
+(80.1%), Black
+(9.7%), Hispanic
+(6.0%), Asian
+(4.2%)
+
+
+2 years before cancer ICD-9 depressive disorders
+diagnosis codes
+
+
+Punnen et al., 2013/ Prostate 679 Mean at Male Caucasian (89.2%),
+prospective cohort diagnosis = 60.1 Asian/pacific
+islander (4.4%),
+
+African American
+
+(1.3%), Latino
+(1.2%), Native
+American (0.1%),
+Mixed (0.6%),
+Other (0.6%)
+
+
+At study enrolment (post
+cancer treatment),
+within 1 year and 13 years from enrolment
+
+
+PHQ-9,GAD-7, DT
+
+HADS
+
+HADS, PHQ-9
+
+
+Saini et al., 2013/ cross- Prostate 103 Median:
+
+sectional ADT = 73.0
+
+Follow-up only
+(RP)= 70.0
+
+Sciarra et al., 2018/ Prostate (T1 - T2 220 AS = 70.84
+prospective cohort [64%], T3 [36%]) RP = 65.34
+EBRT = 70.63
+
+
+Male Not reported At least 6 months post
+
+cancer treatment
+
+Months since
+
+diagnosis = 62.6 (ADT),
+69.5 (follow-up only)
+
+Male Not reported 1 week before treatment
+then 1 month, 3 months,
+
+6 months, and 12
+
+months after treatment
+
+
+Tavlarides et al., 2013/ Prostate (T1c-T3b) 365 Median at Male Caucasian (90%),
+retrospective cohort surgery = 63.9 Non-Caucasian
+(10%)
+
+
+1 year post-treatment MAX-PC
+
+
+TESTICULAR
+
+CANCER
+
+Alacacioglu et al., Testicular TCS = 41 HV= 38 Mean = 36.5
+2014/ cross-sectional (TCS) and 38
+(healthy
+volunteers)
+
+
+Male Not reported At study enrolment post HADS
+
+cancer treatment
+
+
+Bumbasirevic et al., Testicular germ-cell 202 Mean = 35.5 § 9.5 Male Not reported At study enrolment post
+2013/ cross-sectional cancer treatment (47.3
+§ 26.8 months)
+
+
+Dahl et al., 2005/ cross- Testicular (seminoma TCS = 1408
+sectional and non-seminoma) comparison
+group = 23,837
+
+Dahl et al., 2007/ cross- Testicular (seminoma, TCS = 1084
+sectional non-seminoma) comparison
+group = 929
+
+
+Mean = 42.5 § 7.8
+
+Mean at
+
+diagnosis = 31.3
+§ 7.5
+
+
+Mean = 44.6 § Male Not reported At study enrolment post
+
+10.2 cancer treatment
+
+(Follow up time: 11.3 §
+4.2 years post
+diagnosis)
+
+
+SF-36
+
+HADS
+
+
+Male Not reported At study enrolment (4- HADS
+18 years post treatment)
+
+
+(continued on next page)
+
+Table 1 (Continued)
+
+Author/Study Type Cancer Type (Stage) Number of Age (Years) Gender Ethnicity Time of Mental Health
+Participants Symptom Assessment/
+Diagnosis
+
+
+Assessment Form/Diagnosis
+
+
+Grov et al., 2009/ cross- Testicular 1428 Age range = 18-75 Male Not reported At study enrolment (4- HADS, EPQ-18
+sectional 18 years post treatment)
+
+
+Smith et al., 2016/ Testicular 244 Range = 25-35
+cross-sectional (mean at
+diagnosis 34.9)
+
+
+Male Not reported At study enrolment (6
+months − 5 years post
+cancer treatment)
+
+
+DASS21,
+
+CES-D
+
+
+Tuinman et al., 2010/ Testicular (non- TCS = 93 normal
+prospective cohort seminoma) population
+(control) = 109
+
+
+Mean = 29.4 § 7.5 Male Not reported At study enrolment postsurgery before
+chemotherapy (T1), 3
+
+months after T1 and 1
+
+year after T1
+
+
+BLADDER CANCER
+
+Lin et al., 2015/ Bladder (NMIBC,
+prospective cohort MIBC and
+metastatic)
+
+
+464 Mean at Male (79.3%), Female White (93.1%), Hispanic
+diagnosis = 65 (20.7%) (3.23%), Black
+(3.23%), Other (0.44%)
+
+
+Lin et al., 2015/ Bladder (NMIBC, 464 Mean at Male (79.3%), Female White (93.1%), Hispanic At study enrolment (within 1prospective cohort MIBC and diagnosis = 65 (20.7%) (3.23%), Black year post-cancer diagnosis,
+metastatic) (3.23%), Other (0.44%) post-treatment)
+
+CES-D, SCID
+(depressive disorder)
+Sathianathen et al., Bladder (Localized Total = 66,476 ≥68 Male (75.5%), Female White (86.8%), Black Within 3 years prior to cancer
+2019/ retrospective [non-muscle 4468 = mental 24.5%) (4.2%), Hispanic diagnosis
+cohort invasive, health issue (5.7%), Other/unknown
+
+
+≥68 Male (75.5%), Female White (86.8%), Black
+24.5%) (4.2%), Hispanic
+(5.7%), Other/unknown
+(3.3%)
+
+
+Bladder (Localized
+
+[non-muscle
+invasive,
+unknown])
+
+
+Total = 66,476
+
+4468 = mental
+
+health issue
+
+62,008 = no mental
+
+health issue
+
+
+Within 3 years prior to cancer
+diagnosis
+
+
+ICD-9 diagnosis codes
+
+RENAL CANCER
+
+Packiam et al., 2019/ Renal clear cell
+prospective cohort carcinoma
+(unilateral sporadic,
+M0)
+
+
+1,990 At surgery = 62.0 Male (64.8%), Female White (96.5%), All others Prior to or at surgery
+(35.2%) (3.5%)
+
+
+ICD-9 anxiety and
+depression codes
+
+PENILE CANCER
+
+Yu et al., 2016/ Penile (T1-T3) 43 Median = 56 Male Not reported Before treatment and 6 SAS, SDS
+prospective cohort months post treatment
+
+Index: ADT − Androgen Deprivation Therapy, AS − Active Surveillance, CES-D - Center for Epidemiologic Studies Depression Scale, DASS - Depression, Anxiety and Stress Scale, EBRT − External
+Beam Radiation Therapy, EPQ - Eysenck Personality Questionnaire, GAD − Generalised Anxiety Disorder, GS − Gleason Score, HADS − Hospital Anxiety and depression Scale, HV − Healthy Volunteers,
+ICD − International Classification of Diseases, MAX-PC - Memorial Anxiety Scale for Prostate Cancer, MIBC − Muscle Invasive Bladder Cancer, NMIBC − Non-Muscle Invasive Bladder Cancer, PHQ −
+Patient Health Questionnaire, PSA − Prostate Specific Antigen, RP − Radical Prostatectomy, SAS - Zung’s Self-rating Anxiety Scale, SDS - Zung’s Self-rating Depression Scale, SF − Short Form, STAI State-Trait Anxiety Inventory, TCS − Testicular Cancer Survivors.
+
+822 A.A. Dinesh et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 816−828
+
+
+symptoms were associated with a statistically significant
+increase in urinary bother and poorer function scores
+
+[35,36,39]. Similarly, a diagnosis of depressive symptoms at
+baseline was associated with poorer urinary bother and function scores at four, six, seven, and twelve months post diagnosis (all P <0.02) (low certainty of evidence) [39,40].
+When assessing body image issues, a single study demonstrated a weak but significant correlation with depressive
+symptom scores and body image scores (r = 0.21, P = 0.03)
+(low certainty of evidence) [41]. Two studies identified
+depression and anxiety symptoms as independent predictors
+of urinary dysfunction following regression analyses [35,36].
+Three studies [42-44] assessed the impact of depressive
+disorders on mortality post prostate cancer diagnosis, with
+all identifying significant worsening in outcomes (moderate
+certainty of evidence). A large effect size was seen in some
+studies [42], which was present even after adjustment to confounders in other studies (adjusted HR = 1.37, P = 0.01) [43].
+These effects were seen regardless of the prostate cancer risk
+level, (low risk: RR=1.86, P <0.001 vs. high risk: RR = 1.16,
+P = 0.02) [44]. It is important to note that the baseline mental
+health data for these studies were collected either before a
+
+cancer diagnosis [42,44] or at diagnosis [43].
+In summary, of the 14 studies on prostate cancer, four
+studies identified no associations between mental health
+and functional outcomes. Ten studies demonstrated that
+
+anxiety and depressive symptoms and disorders seem to be
+associated with poorer functional and mortality outcomes.
+Four studies identified no associations between mental
+health and functional outcomes. These studies range from
+very low to a moderate certainty of evidence.
+
+3.3. Testicular cancer
+
+Seven studies [45-51], with a combined 4,500 patients,
+assessed the impact of depression and anxiety symptoms on
+sexual dysfunction and body image in patients with testicular cancer. All these studies included patients that had been
+treated for their cancer. They collected information on baseline mental health symptoms and diagnoses after cancer
+treatment. Six studies [45-49,51] evaluated the impact of
+depressive and anxiety symptoms on erectile dysfunction
+and sexual function. Higher depressive symptom load postoperatively was significantly correlated with worsening of
+erectile function scores (P = 0.045) [45], which persisted at
+three months post-operatively (P <0.05) (moderate certainty of evidence) [51]. Anxiety symptoms were also consistently correlated with worsening sexual function. Three
+studies demonstrated increased odds of sexual dysfunction
+in those with significant anxiety symptoms (OR = 1.1-6.6,
+all P <0.001) (low certainty of evidence) (47-49).
+Body image and self-image issues were identified to be
+increased in those with significant anxiety and depression
+symptoms in two studies (low certainty of evidence)
+
+[49,50]. Significant anxiety symptoms resulted in a worsening of self-image (OR=1.75, P = <0.001) and body image
+
+
+(P = <0.001) [46]. Similarly, depressive symptoms were
+also associated with worse body image scores (P = <0.001)
+
+[50]. One study revealed that depressive and anxiety symptoms were independent predictors of worse body image
+scores through regression analyses [50]. No studies were
+identified which evaluated the impact of depressive or anxiety symptoms or disorders on either urinary functions or
+mortality outcomes in testicular cancer.
+
+3.4. Bladder cancer
+
+Two studies [52,53] with a combined 66,940 treated
+patients assessed the impact of mental health on mortality
+in bladder cancer. One study collected baseline data on
+mental health symptoms and diagnoses prior to cancer diagnosis [53] and the other [52] after cancer treatment. Both
+identified significant effects, with depressive disorders and
+symptoms associated with increased mortality risk
+(HR=1.83, P = 0.024) [52], reduced disease-specific survival (HR=1.20, P <0.01) and reduced overall survival
+(HR=1.31, P <0.01) (low certainty of evidence) [53]. Similarly, anxiety disorders were associated with reduced overall survival (HR=1.12, P <0.01) with the same effect when
+concurrent depression and anxiety disorders were present
+(P <0.01) (low certainty of evidence) [53]. Significant
+recent depressive symptoms also had a negative association
+with all-cause mortality (HR=1.83, P = 0.024) [52]. No
+studies identified evaluated the impact of depression and
+anxiety on any functional outcome of interest in bladder
+
+cancer.
+
+3.5. Renal cancer
+
+A single study [54] evaluated the impact of both anxiety
+and depression diagnoses on mortality in treated renal cancer in 1,990 patients. Baseline data on mental health diagnoses was collected either prior to or at surgery. No
+statistically significant association was identified when
+assessing disease-specific mortality (P = 0.42), with only a
+trend seen with all-cause mortality (P = 0.065) (low certainty of evidence). No studies were identified that evaluated the impact of mental health on functional outcomes of
+interest in renal cancer.
+
+3.6. Penile cancer
+
+A single small study of 43 patients evaluated sexual
+function in surgically treated penile cancer patients [55].
+Baseline data on mental health symptoms was collected in
+the post-diagnosis pre-treatment time and six months posttreatment. A statistically significant correlation between
+erectile function and anxiety and depression symptoms
+scores was noted (both P <0.01) (very low certainty of evidence). This study identified anxiety and depression symptoms as independent predictors of worse erectile function
+scores through regression analyses. No studies were
+
+A.A. Dinesh et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 816−828 823
+
+Table 2
+
+Risk of bias assessment for cross-sectional studies
+
+Selection Comparability Outcome Total
+
+Representativeness Sample Non Ascertainment ** Assessment Statistical /8 ARHQ
+Study of Sample Size Respondents of Exposure of Outcome Test Quality Score
+
+Prostate cancer
+
+Lin et al., 2017 - - - - - - 6 Good
+
+Namiki et al., 2007 - - - ** - - 7 Good
+
+Saini et al., 2013 - - - - - - - 7 Good
+
+Tavlarides et al., 2013 - - - - - - 6 Fair
+
+Testicular cancer
+
+Alacacioglu et al., 2014 - - - - 4 Fair
+Bumbasirevic et al., 2013 - - - - - 5 Fair
+Dahl et al., 2005 - - - - ** - - 8 Good
+
+Dahl et al., 2007 - - - - - - - 7 Good
+
+Grov et al., 2009 - - - - - - 6 Fair
+
+Smith et al., 2016 - - - - - - 6 Good
+
+
+identified assessing the impact of depression and anxiety on
+any other functional or mortality outcome.
+
+3.7. Risk of bias assessment
+
+Risk of bias assessment revealed overall adequate individual study quality. Seventeen studies were rated as ‘good’
+quality, six ‘fair’ and two ‘poor’ quality according to
+AHRQ standards (Tables 2 and 3). Predominant issues
+identified were a lack in comparability criteria, with poor
+quality studies particularly lacking in cohort selection.
+Prostate cancer studies were overall of good quality, with
+adequate comparability and follow-up. With regards to certainty of evidence, four outcomes displayed a moderate certainty, eight outcomes a low certainty and one outcome had
+a very low certainty of evidence (Supplementary material
+5, Tables 1-3). It is important to note that while individual
+studies demonstrated statistically significant results, the certainty of evidence assessment around outcomes ranged
+from moderate to very low.
+
+4. Discussion
+
+This systematic review provides an overview of current
+literature surrounding the impact of depression and anxiety
+on urological cancer outcomes. Current evidence demonstrates that co-existing depression and anxiety symptoms or
+disorders have an important impact on both functional and
+mortality outcomes in most urological malignancies. Male
+cancers, such as prostate and testicular cancers, appear to
+be particularly impacted. Sexual function was consistently
+negatively associated with both anxiety and depressive
+symptoms in these, with body image issues similarly
+impacted. Additionally, in prostate cancer urinary function
+was worse in those affected by these psychiatric symptoms.
+Importantly, both disease-specific and all-cause mortality
+outcomes were impacted in those with depressive disorders
+
+
+in bladder and prostate cancer. Considering the regression
+values identified across studies, it appears that the effect
+size for this is small to medium. Unfortunately, only scarce
+evidence is available evaluating depression and anxiety
+effects on renal, bladder and penile cancer. Some evidence
+demonstrates the effect of depressive disorders on renal and
+bladder cancer mortality, however, there is surprisingly no
+significant evaluation on functional outcomes in any of
+these malignancies. The studies included in this review
+highlight an associative relationship between mental health
+and the outcomes of interest (functional outcomes and mortality). Whilst not proving absolute causation due to the
+observational design of studies; with the significant impact
+mental health issues have on patient’s QoL during survivorship, these findings are important for clinicians and can
+guide future research in these cohorts to evaluate the potential links identified.
+The significant associations identified could be
+explained by a variety of factors. Patients with pre-existing
+mental health issues have been found to present at a more
+advanced stage compared to the general population [53] or
+are more commonly misdiagnosed [56]. Depression is also
+associated with other patient factors, including reduced
+treatment adherence, smoking, poor diet and physiologic
+changes to the cardiovascular system which could contribute to the increased mortality rates [57-60]. Both anxiety
+and depression are also known to be associated with physiologic and endocrine dysfunction, impacting both urinary
+and sexual function [23,61-64]. Lastly, anxiety and depression are known to be associated with negative body image
+
+[65,66]. In testicular cancer specifically, this could be due
+to the reproductive role and the symbolic role in masculinity played by the testes [49,67,68].
+Our findings should however be interpreted within the
+limitations of currently available data. The existing literature
+is profoundly heterogenous in terms of methodology, exact
+outcomes evaluated, and findings seen. Additionally, in view
+
+Table 3
+
+Risk of bias assessment for cohort studies
+
+Study Selection Comparability Outcome Total ARHQ Quality Score
+
+
+Representativeness Selection of Ascertainment Outcome
+of Cohort Non-Exposed Cohort of Exposure of Interest Accounted
+for/ not Present at Start of Study
+
+
+** Assessment Adequacy and Length /9
+of Outcome of Follow-up **
+
+
+Renal cancer
+
+Packiam et al., 2019 - - - - ** - ** 9 Good
+
+Bladder cancer
+
+Lin et al., 2015 - - - ** - ** 8 Good
+
+Sathianathen et al., 2019 - - - - - ** 7 Fair
+
+Prostate cancer
+
+Jayadevappa et al., 2012 - - - - ** - ** 9 Good
+Lin et al., 2018 - - - - ** - ** 9 Good
+
+Mohamed et al., 2012 - - - - - - 6 Good
+
+Monahan et al., 2007 - - - - - - - 7 Good
+Parker et al., 2016 - - - ** - ** 8 Good
+
+Pearce et al., 2015 - - - - ** 6 Fair
+Pompe et al., 2018 - - - - - - - 7 Good
+Prasad et al., 2014 - - - - - - ** 8 Good
+
+Punnen et al., 2013 - - - - - ** 7 Good
+
+Sciarra et al., 2018 - - - - - - 6 Good
+
+Testicular cancer
+
+Tuinman et al., 2010 - - - - - 5 Poor
+
+Penile cancer
+
+Yu et al., 2016 - - - - 4 Poor
+
+A.A. Dinesh et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 816−828 825
+
+
+of the observational design of included studies, it is difficult
+to determine an absolute causal relationship between mental
+health and cancer-related functional and mortality outcomes,
+with a variety of possible confounding factors present. Many
+papers included in this review measure mental health symptoms and diagnoses post-treatment. Multiple studies have
+shown that the treatment modality can affect mental health
+scores [4,6,40,55,69-72]. Unfortunately given the heterogenous methodology used by studies included in this review,
+we were unable to stratify results into outcomes for treated
+patients followed by outcomes for untreated patients. Additionally, sociodemographic factors such as social support
+
+[50,73], relationship status [48,51], home income [38] and
+unemployment [74,75] may play an important role. Furthermore, combining these confounders with the complex relationship that exists between physical and mental health it is
+difficult to definitively state the directionality of the relationship identified. The reverse relationship has previously been
+demonstrated through deteriorating functional outcomes
+leading to poorer mental health [75,76]. Additionally, within
+benign pathology in prostatic hyperplasia the relationship
+between urinary symptoms and depression has even been
+suggested to be bidirectional [77]. Therefore, it is important
+to consider these factors when definitively considering the
+directionality of the relationship discussed within this review.
+While studies demonstrate a statistically significant association, the poor study quality and low certainty of evidence
+identified in some penile and testicular cancer studies should
+be considered. Their results should be interpreted with caution and as an indication for areas of improvement in future
+research.
+
+To our knowledge, this is the first systematic review considering the impact of anxiety and depression on urological
+outcomes. Despite current limitations in available data, the
+
+
+findings of this review have important clinical implications.
+The significant associations between mental health and
+these outcomes highlights the need for increased awareness
+of these issues during urological cancer care. A proactive
+approach by clinicians is required, especially with patients
+reticent about mental health issues, classically men
+
+[69,72,78-80]. Early identification via screening patients
+during routine follow-up and referral to appropriate resources for accurate management of any mental health issues
+can lead to a better QoL [69,81-83]. This could potentially
+also address the increased mortality rates identified in urological cancer patients with mental health issues.
+Current weaknesses in the available literature should be
+
+addressed considering many outcomes in this review demonstrated low to very low certainty of evidence. Therefore,
+further large well-controlled prospective studies are needed
+to carefully assess the impact of mental health on functional
+outcomes. A comparator group of patients with mental
+health disorders, but no urological malignancies could be
+contrasted with participants with mental health disorders
+and urological malignancies. This would provide further
+assessment of the impact of mental health on functional outcomes and their natural history in patients with mental
+health disorders, potentially adding further evidence for the
+complex relationship between the two. Additionally, confounding effects of treatment modalities on functional outcomes seen in current studies can be mitigated by
+investigating patients undergoing a single treatment. Importantly, current evidence also does not allow for accurate
+stratification and comparison of patients by treatment subtypes, particularly in evaluating those who undergo no
+treatment, for example active surveillance in prostate cancer, compared to active treatment. This would aid in identifying any variances in the impact of mental health on
+
+
+Fig. 2. Flowchart summarising main points of the systematic review.
+
+826 A.A. Dinesh et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 816−828
+
+
+functional outcomes in these groups. Further subgroup analyses could consider the severity of mental health disorders
+in urological cancer patients and whether this has varying
+impacts on functional outcomes. Lastly, given the high incidence rates of bladder and renal cancers and the relative
+
+lack of data it is important to expand research in this group
+of urological patients. However, whilst penile cancers
+require further evidence, due to its low incidence research
+in this area may be more limited to specialist centres given
+low patient numbers and a potential lack of research funding.
+There is a current lack of evidence in identifying patients
+at risk of developing psychological issues [84]. Analysis of
+sociodemographic and cancer related potential risk factors
+for the development of mental health issues (such as time
+since diagnosis and oncological characteristics such as disease stage), would be beneficial. This could allow for the
+development of risk prediction models, aiding identification
+of at-risk patients who can be targeted for screening and
+treatment. Furthermore, anxiety and depression varies over
+time in patients with prostate cancer [85]. It would be interesting to investigate whether functional outcomes varied
+alongside the patient’s mental health, providing clinicians
+with increased insight into the impact of depression and
+anxiety on functional outcomes. Fig. 2 highlights the main
+points of this review.
+Beyond the limitations of the currently available data
+this systematic review does have its own limitations.
+Despite the comprehensive search strategy and broad sources used, there is the potential for further pertinent articles
+to have been missed. Additionally, with limited data available in renal and penile cancers, limited interpretations
+could be made in these cohorts. Lastly, a formal statistical
+data synthesis of the results via a meta-analysis was unfortunately not possible due to the heterogeneity of data types
+and outputs encountered within the literature.
+
+5. Conclusion
+
+Depressive and anxiety symptoms and disorders have
+important implications for functional and mortality outcomes in urological cancers. Urinary and sexual function,
+and body image issues appear to be negatively impacted,
+particularly in prostate and testicular cancer. Additionally,
+mortality was negatively impacted in most studies included
+in bladder and prostate cancer. These findings reveal a clear
+associative relationship between depression, anxiety and
+functional and mortality outcomes in many urological
+malignancies. However, in view of current study designs
+these studies cannot prove a causative association or absolute directionality of the relationship and further appropriately designed studies are required to explore this.
+However, these results remain significant, highlighting the
+importance of considering the biopsychosocial aspect of
+health through early identification of these problems,
+
+
+allowing for prompt referral for care and potential improvement of outcomes for urological patients.
+
+Conflicts of interest
+
+The authors declare no conflicts of interest.
+
+Acknowledgments
+
+OB, PD and KA acknowledge research support from the
+MRC Centre for Transplantation and funding from the
+King’s Medical Research Trust and the Coptcoat Charity.
+PD also acknowledges funding from the KCL-Vattikuti
+Institute of Robotic Surgery and the GSTT Charity. KA further acknowledges funding from the Royal College of Surgeons of England, The Urology Foundation and the Pelican
+Foundation.
+
+Supplementary materials
+
+Supplementary material associated with this article can
+[be found in the online version at https://doi.org/10.1016/j.](https://doi.org/10.1016/j.urolonc.2021.08.003)
+[urolonc.2021.08.003.](https://doi.org/10.1016/j.urolonc.2021.08.003)
+
+References
+
+[[1] Ficarra V, Righetti R, D’Amico A, Pilloni S, Balzarro M, Schiavone](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0001)
+[D, et al. General state of health and psychological well-being in](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0001)
+[patients after surgery for urological malignant neoplasms. Urol Int](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0001)
+[2000;65(3):130–4.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0001)
+
+[[2] Song L, Ji Y, Nielsen ME. Quality of life and health status among](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0002)
+[prostate cancer survivors and noncancer population controls. Urology](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0002)
+[2014;83(3):658–63.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0002)
+
+[[3] Jung A, Nielsen ME, Crandell JL, Palmer MH, Bryant AL, Smith SK,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0003)
+[et al. Quality of life in non-muscle-invasive bladder cancer survivors:](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0003)
+[a systematic review. Cancer Nurs 2019;42(3):E21–33.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0003)
+
+[[4] Mak KS, Smith AB, Eidelman A, Clayman R, Niemierko A, Cheng](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0004)
+[JS, et al. Quality of life in long-term survivors of muscle-invasive](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0004)
+[bladder cancer. Int J Radiat Oncol Biol Phys 2016;96(5):1028–36.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0004)
+
+[[5] Rossen P, Pedersen AF, Zachariae R, von der Maase H. Sexuality and](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0005)
+[body image in long-term survivors of testicular cancer. Eur J Cancer](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0005)
+[2012;48(4):571–8.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0005)
+
+[[6] Wortel RC, Ghidey Alemayehu W, Incrocci L. Orchiectomy and](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0006)
+[radiotherapy for stage I-II testicular seminoma: a prospective evalua-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0006)
+[tion of short-term effects on body image and sexual function. J Sex](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0006)
+[Med 2015;12(1):210–8.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0006)
+
+[[7] Namiki S, Ishidoya S, Ito A, Kawamura S, Tochigi T, Saito S, et al.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0007)
+[Quality of life after radical prostatectomy in Japanese men: a 5-Year](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0007)
+[follow up study. Int J Urol 2009;16(1):75–81.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0007)
+
+[[8] Eton DT, Lepore SJ. Prostate cancer and health-related quality of life:](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0008)
+[a review of the literature. Psychooncology 2002;11(4):307–26.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0008)
+
+[[9] Couper JW, Love AW, Duchesne GM, Bloch S, Macvean M, Dunai](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0009)
+[JV, et al. Predictors of psychosocial distress 12 months after diagno-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0009)
+[sis with early and advanced prostate cancer. Med J Aust 2010;193](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0009)
+[(S5):S58–61.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0009)
+
+[[10] Hahn EE, Hays RD, Kahn KL, Litwin MS, Ganz PA. Post-traumatic](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0010)
+[stress symptoms in cancer survivors: relationship to the impact of](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0010)
+[cancer scale and other associated risk factors. Psychooncology](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0010)
+[2015;24(6):643–52.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0010)
+
+A.A. Dinesh et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 816−828 827
+
+
+
+[[11] Deimling GT, Kahana B, Bowman KF, Schaefer ML. Cancer survi-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0011)
+[vorship and psychological distress in later life. Psychooncology](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0011)
+[2002;11(6):479–94.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0011)
+
+[[12] Nelson CJ, Mulhall JP, Roth AJ. The association between erectile](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0012)
+[dysfunction and depressive symptoms in men treated for prostate can-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0012)
+[cer. J Sex Med 2011;8(2):560–6.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0012)
+
+[[13] Albaugh JA, Sufrin N, Lapin BR, Petkewicz J, Tenfelde S. Life after](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0013)
+[prostate cancer treatment: a mixed methods study of the experiences](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0013)
+[of men with sexual dysfunction and their partners. BMC Urol](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0013)
+[2017;17(1):45.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0013)
+
+[[14] Schepisi G, De Padova S, De Lisi D, Casadei C, Meggiolaro E, Ruffi-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0014)
+[lli F, et al. Psychosocial issues in long-term survivors of testicular](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0014)
+[cancer. Front Endocrinol (Lausanne) 2019;10:113.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0014)
+
+[[15] Engel GL. The biopsychosocial model and the education of health](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0015)
+[professionals. Ann N Y Acad Sci 1978;310:169–87.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0015)
+
+[[16] Walker ER, McGee RE. Druss BG. Mortality in mental disorders and](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0016)
+[global disease burden implications: a systematic review and meta-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0016)
+[analysis. JAMA Psychiatry 2015;72(4):334–41.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0016)
+
+[[17] Speer JJ, Hillenberg B, Sugrue DP, Blacker C, Kresge CL, Decker](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0017)
+[VB, et al. Study of sexual functioning determinants in breast cancer](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0017)
+[survivors. Breast J 2005;11(6):440–7.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0017)
+
+[[18] Traa MJ, Roukema JA, De Vries J, Rutten HJ, Langenhoff B, Jansen](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0018)
+[W, et al. Biopsychosocial predictors of sexual function and quality of](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0018)
+[sexual life: a study among patients with colorectal cancer. Transl](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0018)
+[Androl Urol 2015;4(2):206–17.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0018)
+
+[[19] Onitilo AA, Nietert PJ, Egede LE. Effect of depression on all-cause](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0019)
+[mortality in adults with cancer and differential effects by cancer site.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0019)
+[Gen Hosp Psychiatry 2006;28(5):396–402.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0019)
+
+[[20] Lloyd S, Baraghoshi D, Tao R, Garrido-Laguna I, Gilcrease GW 3rd,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0020)
+[Whisenant J, et al. Mental health disorders are more common in colo-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0020)
+
+[rectal cancer survivors and associated with decreased overall sur-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0020)
+
+[vival. Am J Clin Oncol 2019;42(4):355–62.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0020)
+
+[[21] Mallis D, Moysidis K, Nakopoulou E, Papaharitou S, Hatzimouratidis](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0021)
+[K, Hatzichristou D. Psychiatric morbidity is frequently undetected in](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0021)
+[patients with erectile dysfunction. J Urol 2005;174(5):1913–6.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0021)
+
+[[22] Kwak Y, Kwon H, Kim Y. Health-related quality of life and mental](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0022)
+[health in older women with urinary incontinence. Aging Ment Health](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0022)
+[2016;20(7):719–26.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0022)
+
+[[23] Coyne KS, Kvasz M, Ireland AM, Milsom I, Kopp ZS, Chapple CR.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0023)
+[Urinary incontinence and its relationship to mental health and health-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0023)
+[related quality of life in men and women in Sweden, the United King-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0023)
+[dom, and the United States. Eur Urol 2012;61(1):88–95.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0023)
+
+[[24] Moher D, Liberati A, Tetzlaff J, Altman DG. Group P. Preferred](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0024)
+[reporting items for systematic reviews and meta-analyses: the](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0024)
+[PRISMA statement. BMJ 2009;339:b2535.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0024)
+
+[[25] Campbell M, McKenzie JE, Sowden A, Katikireddi SV, Brennan SE,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0025)
+[Ellis S, et al. Synthesis without meta-analysis (SWiM) in systematic](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0025)
+[reviews: reporting guideline. Bmj 2020;368:l6890.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0025)
+
+[26] GA Wells BS, D O’Connell, J Peterson, V Welch, M Losos, P Tugwell. The Newcastle-Ottawa Scale (NOS) for assessing the quality of
+nonrandomised studies in meta-analyses. Ottawa, ON: Ottawa Hospi
+tal Research Institute.
+
+[27] Penson DF KS, Jules A, et al. Evaluation and treatment of
+cryptorchidism
+
+[[28] Ribeiro CM, Beserra BTS, Silva NG, Lima CL, Rocha PRS, Coelho](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0028)
+[MS, et al. Exposure to endocrine-disrupting chemicals and anthropo-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0028)
+[metric measures of obesity: a systematic review and meta-analysis.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0028)
+[BMJ Open 2020;10(6):e033509.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0028)
+
+[[29] Pequeno NPF, Cabral NLA, Marchioni DM, Lima S, Lyra CO. Quality](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0029)
+[of life assessment instruments for adults: a systematic review of popu-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0029)
+[lation-based studies. Health Qual Life Outcomes 2020;18(1):208.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0029)
+
+[[30] Foroutan F, Guyatt G, Zuk V, Vandvik PO, Alba AC, Mustafa R,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0030)
+
+[et al. GRADE Guidelines 28: Use of GRADE for the assessment of](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0030)
+
+[evidence about prognostic factors: rating certainty in identification of](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0030)
+[groups of patients with different absolute risks. J Clin Epidemiol](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0030)
+[2020;121:62–70.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0030)
+
+
+
+[[31] Namiki S, Saito S, Tochigi T, Numata I, Ioritani N, Arai Y. Psycho-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0031)
+[logical distress in Japanese men with localized prostate cancer. Int J](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0031)
+[Urol 2007;14(10):924–9.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0031)
+
+[[32] Pearce SM, Wang CH, Victorson DE, Helfand BT, Novakovic KR,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0032)
+[Brendler CB, et al. A longitudinal study of predictors of sexual dys-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0032)
+[function in men on active surveillance for prostate cancer. Sex Med](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0032)
+[2015;3(3):156–64.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0032)
+
+[[33] Punnen S, Cowan JE, Dunn LB, Shumay DM, Carroll PR, Cooper-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0033)
+[berg MR. A longitudinal study of anxiety, depression and distress as](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0033)
+[predictors of sexual and urinary quality of life in men with prostate](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0033)
+[cancer. BJU Int 2013;112(2):E67–75.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0033)
+
+[[34] Tavlarides AM, Ames SC, Diehl NN, Joseph RW, Castle EP, Thiel](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0034)
+[DD, et al. Evaluation of the association of prostate cancer-specific](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0034)
+[anxiety with sexual function, depression and cancer aggressiveness](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0034)
+[in men 1 year following surgical treatment for localized prostate can-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0034)
+[cer. Psychooncology 2013;22(6):1328–35.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0034)
+
+[[35] Parker PA, Davis JW, Latini DM, Baum G, Wang X, Ward JF, et al.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0035)
+[Relationship between illness uncertainty, anxiety, fear of progression](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0035)
+[and quality of life in men with favourable-risk prostate cancer under-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0035)
+[going active surveillance. BJU Int 2016;117(3):469–77.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0035)
+
+[[36] Sciarra A, Gentilucci A, Salciccia S, Von Heland M, Ricciuti GP,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0036)
+[Marzio V, et al. Psychological and functional effect of different pri-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0036)
+[mary treatments for prostate cancer: A comparative prospective anal-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0036)
+[ysis. Urol Oncol 2018;36(7):340 e7- e21.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0036)
+
+[[37] Pompe RS, Kruger A, Preisser F, Karakiewicz PI, Michl U, Graefen](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0037)
+[M, et al. The impact of anxiety and depression on surgical and func-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0037)
+[tional outcomes in patients who underwent radical prostatectomy.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0037)
+[Eur Urol Focus 2018.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0037)
+
+[[38] Lin HY, Lai HL, Chen CI, Huang CY. Depression and health-related](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0038)
+[quality of life and their association with resourcefulness in survivors](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0038)
+[of prostate cancer. Arch Psychiatr Nurs 2017;31(4):407–13.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0038)
+
+[[39] Mohamed NE, Bovbjerg DH, Montgomery GH, Hall SJ, Diefenbach](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0039)
+[MA. Pretreatment depressive symptoms and treatment modality pre-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0039)
+[dict post-treatment disease-specific quality of life among patients](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0039)
+[with localized prostate cancer. Urol Oncol 2012;30(6):804–12.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0039)
+
+[[40] Monahan PO, Champion V, Rawl S, Giesler RB, Given B, Given](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0040)
+[CW, et al. What contributes more strongly to predicting QOL during](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0040)
+[1-year recovery from treatment for clinically localized prostate can-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0040)
+[cer: 4-weeks-post-treatment depressive symptoms or type of treat-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0040)
+[ment? Qual Life Res 2007;16(3):399–411.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0040)
+
+[[41] Saini A, Berruti A, Cracco C, Sguazzotti E, Porpiglia F, Russo L, et al.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0041)
+[Psychological distress in men with prostate cancer receiving adjuvant](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0041)
+[androgen-deprivation therapy. Urol Oncol 2013;31(3):352–8.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0041)
+
+[[42] Jayadevappa R, Malkowicz SB, Chhatre S, Johnson JC, Gallo JJ. The](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0042)
+[burden of depression in prostate cancer. Psychooncology 2012;21](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0042)
+[(12):1338–45.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0042)
+
+[[43] Lin PH, Liu JM, Hsu RJ, Chuang HC, Chang SW, Pang ST, et al.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0043)
+[Depression negatively impacts survival of patients with metastatic](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0043)
+[prostate cancer. Int J Environ Res Public Health 2018;15(10).](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0043)
+
+[[44] Prasad SM, Eggener SE, Lipsitz SR, Irwin MR, Ganz PA, Hu JC.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0044)
+[Effect of depression on diagnosis, treatment, and mortality of men](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0044)
+[with clinically localized prostate cancer. J Clin Oncol 2014;32](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0044)
+[(23):2471–8.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0044)
+
+[[45] Alacacioglu A, Ulger E, Varol U, Yavuzsen T, Akyol M, Yildiz Y,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0045)
+[et al. Sexual satisfaction, anxiety, depression and quality of life in tes-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0045)
+[ticular cancer survivors. Med Oncol 2014;31(7):43.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0045)
+
+[[46] Bumbasirevic U, Bojanic N, Pekmezovic T, Janjic A, Janicic A,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0046)
+[Milojevic B, et al. Health-related quality of life, depression, and sex-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0046)
+[ual function in testicular cancer survivors in a developing country: a](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0046)
+[Serbian experience. Support Care Cancer 2013;21(3):757–63.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0046)
+
+[[47] Dahl AA, Haaland CF, Mykletun A, Bremnes R, Dahl O, Klepp O,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0047)
+[et al. Study of anxiety disorder and depression in long-term survivors](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0047)
+[of testicular cancer. J Clin Oncol 2005;23(10):2389–95.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0047)
+
+[[48] Dahl AA, Bremnes R, Dahl O, Klepp O, Wist E, Fossa SD. Is the sex-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0048)
+[ual function compromised in long-term testicular cancer survivors?](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0048)
+[Eur Urol 2007;52(5):1438–47.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0048)
+
+828 A.A. Dinesh et al. / Urologic Oncology: Seminars and Original Investigations 39 (2021) 816−828
+
+
+
+[[49] Grov EK, Fossa SD, Bremnes RM, Dahl O, Klepp O, Wist E, et al.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0049)
+[The personality trait of neuroticism is strongly associated with long-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0049)
+[term morbidity in testicular cancer survivors. Acta Oncol 2009;48](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0049)
+[(6):842–9.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0049)
+
+[[50] Smith AB, Butow P, Olver I, Luckett T, Grimison P, Toner GC, et al.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0050)
+[The prevalence, severity, and correlates of psychological distress and](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0050)
+[impaired health-related quality of life following treatment for testicu-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0050)
+[lar cancer: a survivorship study. J Cancer Surviv 2016;10(2):223–33.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0050)
+
+[[51] Tuinman MA, Hoekstra HJ, Vidrine DJ, Gritz ER, Sleijfer DT, Fleer](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0051)
+[J, et al. Sexual function, depressive symptoms and marital status in](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0051)
+[nonseminoma testicular cancer patients: a longitudinal study. Psy-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0051)
+[chooncology 2010;19(3):238–47.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0051)
+
+[[52] Lin J, Blalock JA, Chen M, Ye Y, Gu J, Cohen L, et al. Depressive](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0052)
+[symptoms and short telomere length are associated with increased](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0052)
+[mortality in bladder cancer patients. Cancer Epidemiol Biomarkers](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0052)
+[Prev 2015;24(2):336–43.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0052)
+
+[[53] Sathianathen NJ, Fan Y, Jarosek SL, Konety I, Weight CJ, Vinogra-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0053)
+[dov S, et al. Disparities in bladder cancer treatment and survival](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0053)
+[amongst elderly patients with a pre-existing mental illness. Eur Urol](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0053)
+
+[Focus 2019.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0053)
+
+[[54] Packiam VT, Tyson Ii MD, Tsivian M, Lohse CM, Boorjian SA, Che-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0054)
+[ville JC, et al. The association of anxiety and depression with periop-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0054)
+[erative and oncologic outcomes among patients with clear cell renal](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0054)
+[cell carcinoma undergoing nephrectomy. Urol Oncol 2020;38(2):](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0054)
+
+[41.e19–27.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0054)
+
+[[55] Yu C, Hequn C, Longfei L, Minfeng C, Zhi C, Feng Z, et al. Sexual](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0055)
+[function after partial penectomy: A prospectively study from China.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0055)
+[Sci Rep 2016;6:21862.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0055)
+
+[[56] Jones S, Howard L, Thornicroft G. Diagnostic overshadowing’:](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0056)
+[worse physical health care for people with mental illness. Acta Psy-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0056)
+[chiatr Scand 2008;118(3):169–71.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0056)
+
+[[57] Martin LR, Williams SL, Haskard KB, Dimatteo MR. The challenge](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0057)
+[of patient adherence. Ther Clin Risk Manag 2005;1(3):189–99.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0057)
+
+[[58] Larson SL, Owens PL, Ford D, Eaton W. Depressive disorder, dys-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0058)
+[thymia, and risk of stroke: thirteen-year follow-up from the Baltimore](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0058)
+[epidemiologic catchment area study. Stroke 2001;32(9):1979–83.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0058)
+
+[[59] Appelhans BM, Whited MC, Schneider KL, Ma Y, Oleski JL, Mer-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0059)
+[riam PA, et al. Depression severity, diet quality, and physical activity](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0059)
+[in women with obesity and depression. J Acad Nutr Diet 2012;112](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0059)
+[(5):693–8.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0059)
+
+[[60] Roshanaei-Moghaddam B, Katon WJ, Russo J. The longitudinal](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0060)
+[effects of depression on physical activity. Gen Hosp Psychiatry](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0060)
+[2009;31(4):306–15.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0060)
+
+[[61] Felde G, Ebbesen MH, Hunskaar S. Anxiety and depression associ-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0061)
+[ated with urinary incontinence. A 10-year follow-up study from the](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0061)
+[Norwegian HUNT study (EPINCONT). Neurourol Urodyn 2017;36](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0061)
+[(2):322–8.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0061)
+
+[[62] de Groat WC. Influence of central serotonergic mechanisms on lower](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0062)
+[urinary tract function. Urology 2002;59(5 Suppl 1):30–6.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0062)
+
+[[63] Thor KB, Kirby M, Viktrup L. Serotonin and noradrenaline involve-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0063)
+[ment in urinary incontinence, depression and pain: scientific basis for](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0063)
+[overlapping clinical efficacy from a single drug, duloxetine. Int J](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0063)
+[Clin Pract 2007;61(8):1349–55.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0063)
+
+[64] Michael A, O’Keane V. Sexual dysfunction in depression. 2000;15
+(5):337-45.
+
+[[65] Scheffers M, van Duijn MAJ, Beldman M, Bosscher RJ, van Bussch-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0065)
+[bach JT, Schoevers RA. Body attitude, body satisfaction and body](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0065)
+[awareness in a clinical group of depressed patients: An observational](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0065)
+[study on the associations with depression severity and the influence](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0065)
+[of treatment. J Affect Disord 2019;242:22–8.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0065)
+
+[[66] Gillen MM. Associations between positive body image and indicators](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0066)
+[of men’s and women’s mental and physical health. Body Image](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0066)
+[2015;13:67–74.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0066)
+
+
+
+[[67] Gurevich M, Bishop S, Bower J, Malka M, Nyhof-Young J. Dis)](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0067)
+[embodying gender and sexuality in testicular cancer. Soc Sci Med](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0067)
+[2004;58(9):1597–607.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0067)
+
+[[68] Carpentier MY, Fortenberry JD, Ott MA, Brames MJ, Einhorn LH.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0068)
+[Perceptions of masculinity and self-image in adolescent and young](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0068)
+[adult testicular cancer survivors: implications for romantic and sexual](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0068)
+[relationships. Psychooncology 2011;20(7):738–45.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0068)
+
+[[69] Raphael MJ, Gupta S, Wei X, Peng Y, Soares CN, Bedard PL, et al.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0069)
+[Long-term mental health service utilization among survivors of tes-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0069)
+[ticular cancer: A population-based cohort study. J Clin Oncol](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0069)
+[2021;39(7):779–86.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0069)
+
+[[70] Jazzar U, Yong S, Klaassen Z, Huo J, Hughes BD, Esparza E, et al.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0070)
+[Impact of psychiatric illness on decreased survival in elderly patients](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0070)
+[with bladder cancer in the United States. Cancer 2018;124(15):3127–35.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0070)
+
+[[71] Harrington JM, Jones EG, Badger T. Body image perceptions in men](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0071)
+[with prostate cancer. Oncol Nurs Forum 2009;36(2):167–72.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0071)
+
+[[72] Raphael MJ, Griffiths R, Peng Y, Gupta S, Siemens DR, Soares C,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0072)
+[et al. Mental health resource use among patients undergoing curative](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0072)
+
+[intent treatment for bladder cancer. J Natl Cancer Inst 2021.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0072)
+
+[[73] Yang YL, Liu L, Li MY, Shi M, Wang L. Psychological disorders](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0073)
+[and psychosocial resources of patients with newly diagnosed bladder](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0073)
+[and kidney cancer: A cross-sectional study. PLoS One 2016;11(5):](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0073)
+[e0155607.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0073)
+
+[[74] Singer S, Szalai C, Briest S, Brown A, Dietz A, Einenkel J, et al. Co-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0074)
+[morbid mental health conditions in cancer patients at working age](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0074)
+[−prevalence, risk profiles, and care uptake. Psychooncology 2013;22](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0074)
+[(10):2291–7.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0074)
+
+[[75] Niedzwiedz CL, Knifton L, Robb KA, Katikireddi SV, Smith DJ.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0075)
+[Depression and anxiety among people living with and beyond cancer:](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0075)
+[a growing clinical and research priority. BMC Cancer 2019;19](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0075)
+[(1):943.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0075)
+
+[[76] De Sousa A, Sonavane S, Mehta J. Psychological aspects of prostate](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0076)
+[cancer: a clinical review. Prostate Cancer Prostatic Dis 2012;15](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0076)
+
+[(2):120–7.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0076)
+
+[[77] Dunphy C, Laor L, Te A, Kaplan S, Chughtai B. Relationship](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0077)
+[between depression and lower urinary tract symptoms secondary to](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0077)
+[benign prostatic hyperplasia. Rev Urol 2015;17(2):51–7.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0077)
+
+[[78] Bilsker D, Fogarty AS, Wakefield MA. Critical issues in men’s men-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0078)
+[tal health. Can J Psychiatry 2018;63(9):590–6.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0078)
+
+[[79] Smith JA, Braunack-Mayer A, Wittert G. What do we know about](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0079)
+[men’s help-seeking and health service use? Med J Aust 2006;184](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0079)
+[(2):81–3.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0079)
+
+[[80] Coen SE, Oliffe JL, Johnson JL, Kelly MT. Looking for Mr. PG:](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0080)
+[masculinities and men’s depression in a northern resource-based](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0080)
+[Canadian community. Health Place 2013;21:94–101.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0080)
+
+[[81] Berchuck JE, Meyer CS, Zhang N, Berchuck CM, Trivedi NN, Cohen](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0081)
+[B, et al. Association of mental health treatment with outcomes for US](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0081)
+[veterans diagnosed with non-small cell lung cancer. JAMA Oncol](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0081)
+
+[2020.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0081)
+
+[[82] Galway K, Black A, Cantwell M, Cardwell CR, Mills M, Donnelly](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0082)
+[M. Psychosocial interventions to improve quality of life and emo-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0082)
+[tional wellbeing for recently diagnosed cancer patients. Cochrane](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0082)
+[Database Syst Rev 2012;11:CD007064.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0082)
+
+[[83] Recklitis CJ, Syrjala KL. Provision of integrated psychosocial serv-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0083)
+[ices for cancer survivors post-treatment. Lancet Oncol 2017;18(1):](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0083)
+[e39–50.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0083)
+
+[[84] Brunckhorst O, Hashemi S, Martin A, George G, Van Hemelrijck M,](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0084)
+[Dasgupta P, et al. Depression, anxiety, and suicidality in patients](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0084)
+[with prostate cancer: a systematic review and meta-analysis of obser-](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0084)
+
+[vational studies. Prostate Cancer Prostatic Dis 2020.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0084)
+
+[85] Sharpley CF, Christie DR, [Bitsika V. Variability in anxiety and](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0085)
+[depression over time following diagnosis in patients with prostate](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0085)
+[cancer. J Psychosoc Oncol 2010;28(6):644–65.](http://refhub.elsevier.com/S1078-1439(21)00362-8/sbref0085)
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.

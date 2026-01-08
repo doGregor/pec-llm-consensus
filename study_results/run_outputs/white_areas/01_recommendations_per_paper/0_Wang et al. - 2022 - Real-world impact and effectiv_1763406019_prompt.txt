@@ -1,0 +1,1983 @@
+gemini-2.5-pro
+# Task:
+    
+From the provided paper on penile cancer, identify and extract all explicit treatment recommendations. For each recommendation, ensure the following elements are included and clearly presented:
+
+1. Aspect of Care: Categorize according to the relevant clinical area (e.g., diagnosis, primary treatment, lymph node management, systemic therapy, follow-up care).
+
+2. Specific Clinical Indications:
+
+* Stage-specific details: Clearly specify applicable T-stages (e.g., PeIN, Ta, Tis, T1, T2, etc.) or relevant classification (e.g., grade, invasive vs. non-invasive).
+
+* Grading information: Include tumor grade where mentioned (e.g., G1/G2/G3).
+
+* Anatomical specifics: Clarify the anatomical location (e.g., prepuce, glans, shaft).
+
+3. Treatment Modality with Precise Conditions:
+
+* Include precise treatment modality (e.g., laser therapy, wide local excision, glansectomy) along with qualification clauses (e.g., "if clinically feasible", "if facilities available", "not recommended after failed treatment").
+
+* Indications of treatment limitations: Clearly state any limitations (e.g., "off-label use", "not to be repeated after failure").
+
+4. Additional Clinical Clarifications:
+
+* For recommendations involving lymph node management, explicitly clarify if they refer to palpable or non-palpable nodes.
+
+* For topical therapies or surveillance, specify applicable stages (e.g., PeIN/Tis/Ta), and include any mandatory control assessments (e.g., biopsy after treatment).
+
+* For follow-up, explicitly state if it applies after curative treatment and specify follow-up frequency and duration.
+
+    
+    
+    
+    # Paper (context):
+    
+    ## **Expert Review of Vaccines**
+
+**ISSN: 1476-0584 (Print) 1744-8395 (Online) Journal homepage:** **[www.tandfonline.com/journals/ierv20](https://www.tandfonline.com/journals/ierv20?src=pdf)**
+# **Real-world impact and effectiveness assessment** **of the quadrivalent HPV vaccine: a systematic** **review of study designs and data sources**
+
+**Wei Wang, Smita Kothari, Marc Baay, Suzanne M. Garland, Anna R. Giuliano,**
+**Mari Nygård, Christine Velicer, Joseph Tota, Anushua Sinha, Jozica Skufca,**
+**Thomas Verstraeten & Karin Sundström**
+
+**To cite this article:** Wei Wang, Smita Kothari, Marc Baay, Suzanne M. Garland, Anna R. Giuliano,
+Mari Nygård, Christine Velicer, Joseph Tota, Anushua Sinha, Jozica Skufca, Thomas Verstraeten
+& Karin Sundström (2022) Real-world impact and effectiveness assessment of the quadrivalent
+HPV vaccine: a systematic review of study designs and data sources, Expert Review of Vaccines,
+21:2, 227-240, DOI: [10.1080/14760584.2022.2008243](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/14760584.2022.2008243)
+
+**To link to this article:** [https://doi.org/10.1080/14760584.2022.2008243](https://doi.org/10.1080/14760584.2022.2008243)
+
+
+© 2021 P95, Merck. Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+
+
+[View supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/14760584.2022.2008243)
+
+
+Published online: 13 Dec 2021. [Submit your article to this journal](https://www.tandfonline.com/action/authorSubmission?journalCode=ierv20&show=instructions&src=pdf)
+
+Article views: 6060 [View related articles](https://www.tandfonline.com/doi/mlt/10.1080/14760584.2022.2008243?src=pdf)
+
+[View Crossmark data](http://crossmark.crossref.org/dialog/?doi=10.1080/14760584.2022.2008243&domain=pdf&date_stamp=13%20Dec%202021) [Citing articles: 12 View citing articles](https://www.tandfonline.com/doi/citedby/10.1080/14760584.2022.2008243?src=pdf)
+
+Full Terms & Conditions of access and use can be found at
+[https://www.tandfonline.com/action/journalInformation?journalCode=ierv20](https://www.tandfonline.com/action/journalInformation?journalCode=ierv20)
+
+EXPERT REVIEW OF VACCINES
+
+2022, VOL. 21, NO. 2, 227–240
+https://doi.org/10.1080/14760584.2022.2008243
+
+SYSTEMATIC REVIEW
+### **Real-world impact and effectiveness assessment of the quadrivalent HPV vaccine: a ** **systematic review of study designs and data sources**
+
+Wei Wang [a], Smita Kothari [a], Marc Baay b, Suzanne M. Garland c, Anna R. Giuliano d, Mari Nygård e,
+Christine Velicer [a], Joseph Tota [a], Anushua Sinha [a], Jozica Skufca [b], Thomas Verstraeten b and Karin Sundström f
+
+a Center for Observational and Real-world Evidence, Merck & Co. Inc., Kenilworth, NJ, USA; b P95 Epidemiology & Pharmacovigilance, Leuven,
+Belgium; [c] Department Obstetrics and Gynaecology, University of Melbourne, Centre Women’s Infectious Diseases Research, Royal Women’s
+Hospital, and Infection & Immunity Murdoch Children’s Research Institute, Parkville, Australia; [d] Center for Immunizaton and Infection Research in
+Cancer, Moffitt Cancer Center, Tampa, FL, USA; [e] Department of Research, Cancer Registry of Norway, Oslo, Norway; [f] Department of Laboratory
+Medicine, Division of Pathology, Karolinska Institutet, Stockholm, Sweden
+
+
+**ABSTRACT**
+**Introduction:** Vaccine effectiveness and impact studies are typically observational, generating evidence
+after vaccine launch in a real-world setting. For human papillomavirus (HPV) vaccination studies, the
+variety of data sources and methods used is pronounced. Careful selection of study design, data
+capture and analytical methods can mitigate potential bias in such studies.
+**Areas covered:** We systematically reviewed the different study designs, methods, and data sources in
+published evidence (1/2007–3/2020), which assessed the quadrivalent HPV vaccine effectiveness and
+impact on cervical/cervicovaginal, anal, and oral HPV infections, anogenital warts, lesions in anus, cervix,
+oropharynx, penis, vagina or vulva, and recurrent respiratory papillomatosis.
+**Expert opinion:** The rapid growth in access to real-world data allows global monitoring of effects of
+different public health interventions, including HPV vaccination programs. But the use of data which are
+not collected or organized to support research also underscore a need to develop robust methodology
+that provides insight of vaccine effects and consequences of different health policy decisions. To
+achieve the WHO elimination goal, we foresee a growing need to evaluate HPV vaccination programs
+globally. A critical appraisal summary of methodology used will provide timely guidance to researchers
+who want to initiate research activities in various settings.
+
+
+**ARTICLE HISTORY**
+Received 14 September
+2021
+Accepted 16 November
+2021
+
+**KEYWORDS**
+Human papillomavirus; realworld evidence; study
+design; vaccine
+effectiveness; vaccine impact
+
+
+**1. Introduction**
+
+Human papillomavirus (HPV) infections can resolve sponta-­
+neously without causing disease. However, in some indivi-­
+duals, persistent high-risk HPV infections can ultimately
+cause progressive disease, leading to cancers of the cervix,
+vagina, vulva, penis, anus, and cancerous lesions of the oro-­
+pharynx [1,2]. Furthermore, low-risk HPV infection, primarily
+types 6 and 11, can cause anogenital warts (AGWs) and recur-­
+rent respiratory papillomatosis (RRP).
+
+Four vaccines have been developed toward primary pre-­
+vention of infection with certain HPV types and related dis-­
+eases: two bivalent (2vHPV, HPV16/18, *Cervarix* ®,
+
+GlaxoSmithKline, licensed in 2007; 2vHPV, HPV16/18,
+Cecolin®, Xiamen Innovax Biotech Co, approved by the
+Chinese Medical Products Administration in 2019), a quadriva-­
+lent (4vHPV, HPV6/11/16/18, *Gardasil/Silgard* ®, Merck & Co.
+Inc., Kenilworth, Nj, USA, licensed in 2006), and a nonavalent
+vaccine (9vHPV, HPV6/11/16/18/31/33/45/52/58, *Gardasil 9* ®,
+
+Merck & Co. Inc., Kenilworth, NJ, USA, licensed in 2014) [3,4].
+
+Once a vaccine is approved and used in a vaccination
+program, monitoring of the vaccine’s benefits becomes an
+
+
+integral part of its life cycle [5–7]. The effects of vaccination
+can be evaluated and defined either as vaccine effectiveness
+
+or as vaccine impact. In vaccine effectiveness (VE) studies, the
+direct effect of vaccination is measured at the individual level
+by comparing the occurrence of the vaccine-preventable out-­
+comes between vaccinated and unvaccinated individuals from
+
+the same population – this means that the individual vaccina-­
+tion status for each study participant has to be known within
+the study. In vaccine impact studies, the vaccine’s combined
+direct and indirect effects are measured at the population
+level by comparing the occurrence of the preventable out-­
+comes before and after vaccine introduction, agnostic of the
+vaccination status of each individual [5].
+
+In contrast to clinical trials, which are performed on highly
+selected, preferably uninfected populations, vaccine effective-­
+ness and impact studies are observational, generating com-­
+plementary evidence of vaccine effects in settings in which
+individuals are vaccinated as recommended by the health
+authorities – with some variation related to the degree of
+compliance with said authority recommendations.
+Monitoring the effect of a vaccine in a population requires
+
+
+**CONTACT** Karin Sundström karin.sundstrom@ki.se Karolinska Institutet, Stockholm, Sweden
+Preliminary results of this study were presented at IPVC 2020 (virtual, July 20-24, 2020) and Eurogin 2021 (virtual, May 30 – 1 June 2021)
+
+Supplemental data for this article can be accessed [here](https://doi.org/10.1080/14760584.2022.2008243)
+
+© 2021 P95, Merck. Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/),
+which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+228 W. WANG ET AL.
+
+methods to capture data and frequently relies on existing,
+real-world data sources. Consequently, study methods used
+for measuring vaccine effectiveness or impact will need to
+take into account/be tailored to the purpose and availability
+of actual real-world data. In the case of HPV vaccines, with
+many vaccine-preventable outcomes and various implementa-­
+tion approaches at hand, the variety of data sources and
+methods used is large. In addition, there is an increased risk
+for confounding when utilizing real-world data. Thus, careful
+selection of study design, data capture, and analytical meth-­
+ods can mitigate potential bias in vaccine effectiveness and
+impact studies.
+
+This study aims to systematically review the different study
+designs, methods, and data sources in published evidence,
+which assessed the HPV vaccine effectiveness and impact on
+both cervical and non-cervical endpoints. Built on the 2016
+Garland et al. [8], this review has expanded from both scope
+and time-frame perspectives. We also provided recommenda-­
+tions on how researchers from countries of different resource
+levels, with access to different sources of HPV data, can con-­
+sider designing and initiating vaccine effectiveness or impact
+
+assessment.
+
+
+**2. Methods**
+
+***2.1. Search strategy and selection criteria***
+
+This systematic review includes data extracted from studies of
+4vHPV (and/or 9vHPV) vaccine effectiveness (VE) and impact
+on cervical/cervicovaginal, anal, and oral HPV infections, AGW,
+precancerous or cancerous lesions in anus, cervix, oropharynx,
+penis, vagina or vulva and recurrent respiratory papillomatosis
+(RRP). We included studies published between January 2007
+and March 2020 (for an overview of the methodology applied,
+see Supplemental file 1). A PRISMA diagram displaying the
+literature search is in Figure 1.
+
+Cervical abnormalities were identified based on cytology
+and histology (see Supplemental file 1). Anal abnormalities
+were identified based on histology. Detailed study inclusion
+and exclusion criteria are shown in Table 1. Juvenile-onset RRP
+
+(JO-RRP) was distinguished from adult-onset RRP (AO-RRP)
+based on the age at diagnosis: JO-RRP is found in children
+following HPV transmission from the mother during childbirth,
+compared to AO-RRP, which has adult onset (ages 18 years
+and older) [9]. As no published paper on AO-RRP was identi-­
+fied, below we report on JO-RRP studies only.
+
+
+**Figure 1.** PRISMA diagram with details of the literature search and extraction process for the period 01–01-2007 – 31-03-2020, on all outcomes.
+
+EXPERT REVIEW OF VACCINES 229
+
+
+**Table 1.** Criteria for study inclusion/exclusion.
+
+
+Population
+
+(s)
+
+
+
+- 4vHPV and/or 9vHPV vaccinated or non-vaccinated females and males of any age from any country.
+
+
+Interventions - Vaccination with 4vHPV vaccine and/or 9vHPV vaccine
+
+Comparator - Vaccine effectiveness: vaccinated vs. vaccine-naive subjects from the same or a similar population
+
+       - Vaccine impact: pre-vaccination period vs. post-vaccination period, or time trend analyses after the start of vaccination.
+
+Outcomes - HPV genital, anal or oral infections
+
+       - Anogenital warts
+
+       - Recurrent respiratory papillomatosis
+
+       - Cervical or anal lesions
+
+       - Anal, cervical, oropharyngeal, penile, vaginal or vulvar cancer
+
+Time 1 January 2007–31 March 2020
+Study design Observational studies aiming to evaluate ‘real-world benefit’ on:
+
+       - Vaccine effectiveness – the proportion of infection or disease prevented among vaccinated individuals, estimated by comparing the frequency of
+
+outcomes in vaccinated vs unvaccinated individuals within similar populations.
+
+       - Vaccine impact – the population-prevented fraction of infection or disease, assessed by comparing prevalence or incidence in the vaccine era to a
+
+comparable population from the pre-vaccine era or by measuring population-level trends over time.
+
+Included:
+Observational studies (including cohort, cross-sectional, case-control), on 4vHPV and/or 9vHPV vaccine effectiveness and impact in any language
+aiming to evaluate ‘real-world benefit’
+Excluded:
+Burden of disease studies with no concurrent vaccine uptake, health-economic studies, modeling/simulation/extrapolation studies, awareness,
+knowledge, and/or acceptability studies, results of long-term follow-up studies of clinical trial populations, studies exclusively reporting data on
+2vHPV vaccine, literature review articles, conference abstracts
+
+
+***2.2. Data extraction and analysis***
+
+Two researchers independently performed title/abstract selec-­
+tion of the publications using Rayyan [10], applying the pre-­
+defined selection criteria. The full-text selection was
+
+performed by one reviewer, with 10% of non-selected pub-­
+lications being checked by a second reviewer as a quality
+control measure. Similarly, data extraction was performed by
+one reviewer with re-extraction of one publication per end-­
+point by a second reviewer as a quality control measure. We
+assessed the quality of identified literature by a modification
+of the Robins-I tool (method see Supplemental file 1). We
+extracted information on country, year, study population, key
+study features like study design (i.e. cohort, cross-sectional,
+repeated cross-sectional or case–control design), effectiveness
+and/or impact type measured, outcomes, and confounders
+(see Supplemental file 1 for the full list of variables and their
+definitions). VE and impact trends recorded in the publications
+over time and across countries were summarized. The study
+design, population features, outcome, and exposure data
+sources for each HPV-related endpoint were reviewed for
+both VE and impact studies.
+
+Finally, observational studies are prone to several limita-­
+tions, including biases and confounding. We examined and
+described the main strategic approach investigators
+attempted to mitigate against biases and confounding factors
+in these observational studies.
+
+**3. Results**
+
+***3.1. Studies included***
+
+In total, 158 publications describing 178 studies of VE or
+impact of the quadrivalent HPV vaccine were included: 78 VE
+studies [11–78], 82 impact studies [79–158], and 18 studies
+reporting both VE and impact [62,159–174]. The number of
+
+
+studies (175) exceeded the number of publications (158)
+because some publications covered multiple countries
+(n = 2) or multiple outcomes (n = 16), where each country or
+outcome was counted as a separate study. As the length of
+time of use of the 9vHPV vaccine was relatively short, no
+published studies on 9vHPV were found. Hence, this review
+focuses on 4vHPV only.
+
+The number of publications per calendar year are shown in
+Figure 2A. Sorting the evidence by year of publication shows a
+steady increase in the number of publications over time, with
+the highest number of publications (36 studies) occurring in
+2019. The first impact study was published in 2009, which
+preceded effectiveness studies by three years [79]. In recent
+years, there has been an increase in combined publications,
+with 7/36 in 2019 reporting both effectiveness and impact.
+
+Studies were reported from 23 countries (Figure 2B).
+[Applying the World Bank Development Indicators (www.world](http://www.worldbank.org)
+[bank.org), these publications were mainly from high-income](http://www.worldbank.org)
+countries, as those countries were the first to introduce
+national HPV vaccination programs and are also more likely
+to have outcome data sources, which facilitate impact studies.
+Nevertheless, we could note that a new set of reporting
+countries have recently emerged in the effectiveness/impact
+study field. Indeed, VE against infection [31,59,60], as well as
+cervical lesions [59], has been reported for some early-imple-­
+menting low- and lower-middle-income countries, including
+Bhutan, India, Mongolia, and Rwanda. Franceschi et al. used
+urine testing in Bhutan and Rwanda to measure HPV preva-­
+lence at vaccine program introduction and observed a statis-­
+tically significantly lower prevalence among vaccinated than
+unvaccinated students in Rwanda (vaccine type prevalence
+ratio = 0.12, 95% CI 0.03–0.51) and a similar tendency in
+Bhutan, although with wide CIs [31]. Basu et al. investigated
+protection conferred against incident HPV16/18 infection
+among a cohort of HPV-vaccinated, unmarried girls in India
+
+230 W. WANG ET AL.
+
+**Figure 2.** Trend in publications of vaccine impact and effectiveness studies.
+
+over a median follow-up of 7 years and could make observa-­
+tions relative to dose scheduling for 15–18-year-old girls [59].
+Finally, Batmunkh et al. performed a retrospective cohort
+study on VE using self-administered vaginal swabs subjected
+to high-risk HPV testing, 5 years after an original vaccination
+campaign. The study observed a reduced prevalence of vac-­
+cine-type HPV among vaccinated women compared to the
+unvaccinated women [60].
+
+The majority of studies included women only (118/178,
+66%, Figure 2C), a smaller number of studies (43/178, 24%)
+included both women and unvaccinated men (impact studies
+with the possibility to assess herd protection [AGW, n = 30;
+infection, n = 13]), while 10 studies focused on unvaccinated
+males only (10/178, 6%), mostly related to AGW or anal infec-­
+tion, to assess herd protection. With increased gender-neutral
+vaccination, a set of recent studies (7/178, 4%) have been
+performed in vaccinated men (effectiveness studies [AGW, n
+= 3; infection, n = 4]).
+
+Six outcomes were examined: AGW, cervical lesions, geni-­
+tal, anal and oral infection, and finally JO-RRP. Figure 2D shows
+the number of studies for each of these outcomes per year.
+The first publication was a pre-post impact study of a femaleonly 4vHPV program on AGW, which is an initial marker of
+vaccine impact because AGW can be diagnosed shortly follow-­
+ing HPV infection. The study used the electronic database of
+the Melbourne Sexual Health Center to investigate a time
+trend in the diagnosis of genital warts, without linkage to
+vaccination status [79]. The number of studies on AGW
+appears stable, while publications on cervical lesions (first
+publication in 2011) and genital infections (first publications
+in 2012) steadily increased. As for the other outcomes, pub-­
+lications on anal infection are intermittent, without a clear
+
+
+trend. Interest in oral infection is increasing, with four publica-­
+tions in 2019. Finally, for JO-RRP only a single publication was
+available through our search and for AO-RRP we found no
+publications.
+
+Data extracted from the studies are provided in
+Supplements 2–5, with separate tables for the major out-­
+comes, AGW, cervical lesions, and genital infections, and a
+single table for the remaining outcomes, anal and oral infec-­
+tion, and JO-RRP. A compilation of study details is shown in
+Table 2, by outcome and by study focus.
+
+***3.2. Study design***
+
+The two most commonly utilized study designs were the
+repeated cross-sectional design (85, 43.3%) and the cohort
+design (83, 42.3%). Repeated cross-sectional studies were con-­
+ducted slightly more frequently to evaluate impact (53, 62.4%)
+than VE (32, 37.6%), and were most frequently used to study
+genital infection (53, 62.4%). Cohort studies, on the other
+hand, were conducted slightly more frequently to evaluate
+VE (45, 54.2%) than impact (38, 45.8%), and were most fre-­
+quently used to study cervical lesions (40, 48.2%) and AGW
+(34, 40.1%). Single timepoint cross-sectional studies were con-­
+ducted more frequently to evaluate VE (14, 60.9%) than
+impact (9, 39.1%), and were most frequently used to study
+genital infection (12, 52.2%) and oral infection (5, 21.7%). Only
+a limited number of case–control studies (5, 3.1%) were per-­
+formed, exclusively in VE studies (as expected, given that
+impact studies would not need to know the vaccine exposure
+for cases/controls) and mainly for cervical lesion endpoints (4,
+80%), generally with a limited study sample size [20,34,55,59].
+
+EXPERT REVIEW OF VACCINES 231
+
+
+**Table 2.** Study characteristics.
+
+
+Outcomes
+
+Anogenital warts Cervical lesions Genital infection Anal infection or lesion Oral infection JO-RRP Total
+
+I *VE* I *VE* I *VE* I *VE* I *VE* I *VE* I *VE*
+
+Study details 37 *13* 28 *31* 31 *37* 1 *4* 1 *10* 1 99* *95**
+
+**Study design**
+Cohort 22 [A1] *12* *[B1]* 16 [C1] *24* *[D1]* - *4* *[F1]* - *3* *[H1]* - *2* *[J1]* - - 38 *45*
+Cross-sectional 2 [A2] *1* *[B2]* 2 [C2] *1* *[D2]* 3 [E2] *8* *[F2]* - - 1 [I1] *4* *[J2]* - - 8 *14*
+Repeated Cross-sectional 13 [A3] - 10 [C3] *2* *[D3]* 28 [E3] *24* *[F3]* 1 [G3] *1* *[H3]* - *4* *[J3]* 1 [K3] - 53 *31*
+Case-control - - - *4* *[D4]* - *1* *[F4]* - - - - - - - *5*
+**Population**
+Female 6 [A5] *10* *[B5]* 28 [C5] *31* *[D5]* 24 [E5] *33* *[F5]* - *2* *[H5]* - *3* *[J5]* - - 58 *79*
+Male - *1* *[B6]* - - 5 [E6] *3* *[F6]* 1 [G6] *2* *[H6]* - *7* *[J6]* - - 6 *13*
+Female and male 31 [A7] *2* *[B7]* - - 2 [E7] *1* *[F7]* - - 1 [I7] - 1 [K7] - 35 *3*
+
+**Outcome data source**
+Claims database 12 [A8] *5* *[B8]* 3 [C8] *3* *[D8]* - - - - - - - - 15 *8*
+Electronic health record 11 [A9] *3* *[B9]* 8 [C9] *6* *[D9]* 1 [E9] *1* *[F9]* - - - - 1 [K9] - 21 *10*
+Registry 13 [A10] *4* *[B10]* 13 [C10] *18* *[D10]* 4 [E10] *3* *[F10]* - - - - - - 30 *25*
+Survey 1 [A11] *1* *[B11]* 4 [C11] *4* *[D11]* 26 [E11] *33* *[F11]* 1 [G11] *4* *[H11]* 1 [I11] *10* *[J11]* - - 33 *52*
+**Exposure data source**
+Claims database 3 [A12] *3* *[B12]* - *1* *[D12]* - - - *1* *[H12]* - - - - 3 *5*
+Electronic health record - *2* *[B13]* 1 [C13] *2* *[D13]* 1 [E13] - - - - - - - 2 *4*
+Registry 3 [A14] *7* *[B14]* 4 [C14] *16* *[D14]* 8 [E14] *7* *[F14]* - - - *1* *[J14]* - - 15 *31*
+Survey - *1* *[B15]* 2 [C15] *8* *[D15]* 15 [E15] *22* *[F15]* 1 [G15] *1* *[H15]* - *6* *[J15]* 1 [K15] - 19 *38*
+Not described 31 [A16] - 21 [C16] *2* *[D16]* 7 [E16] *5* *[F16]* - - 1 [I16] *1* *[J16]* - - 60 *8*
+Other [#] - - - *2* *[D17]* - *3* *[F17]* - *2* *[H17]* - *2* *[J17]* - - - *9*
+
+a Including 18 studies that performed both impact and effectiveness. I – impact; JO-RRP – juvenile-onset recurrent respiratory papillomatosis; VE – vaccine
+
+effectiveness
+# Other includes combinations of listed data sources, or a study-specific database.
+**Number as in reference list:**
+
+**A1** : 86, 89, 90, 93, 95, 100, 110, 112, 115, 117, 122, 125, 130, 132, 134, 139, 140, 148, 152, 153, 159, 161; **A2** : 84, 97; **A3** : 79, 81, 82, 83, 87, 88, 98, 102, 106, 116, 119,
+
+129, 143; **A5** : 86, 93, 98, 116, 159, 161; **A7** : 79, 81, 82, 83, 84, 87, 88, 89, 90, 95, 97, 100, 102, 106, 110, 112, 115, 117, 119, 122, 125, 129, 130, 132, 134, 139, 140,
+143, 148, 152, 153; **A8** : 84, 90, 93, 95, 115, 125, 130, 132, 139, 148, 159, 161; **A9** : 79, 81, 82, 83, 87, 106, 116, 122, 129, 140, 143; **A10** : 86, 88, 89, 97, 100, 102, 110,
+112, 117, 119, 134, 152, 153; **A11** : 98; **A12** : 125, 132, 159; **A14** : 152, 153, 161; **A16** : 79, 81, 82, 83, 84, 86, 87, 88, 89, 90, 93, 95, 97, 98, 100, 102, 106, 110, 112, 115,
+116, 117, 119, 122, 129, 130, 134, 139, 140, 143, 148; **B1** : 16, 18, 22, 24, 26, 41, 43, 52, 57, 58; **B2** : 8; **B5** : 16, 18, 22, 26, 41, 43, 52, 57, 159, 161; **B6** : 24; **B7** : 48, 58;
+**B8** : 43, 57, 58, 159, 161; **B9** : 24, 41, 52; **B10** : 16, 18, 22, 26; **B11** : 48; **B12** : 43, 58, 159; **B13** : 24, 52; **B14** : 16, 18, 22, 26, 41, 57, 161; **B15** : 48; **C1** : 80, 96, 104, 105, 113,
+114, 120, 127, 142, 155, 156, 158, 161, 166, 167, 172; **C2** : 91, 133; **C3** : 94, 109, 123, 128, 145, 146, 150, 151, 154, 157; **C5** : 80, 91, 94, 96, 104, 105, 109, 113, 114, 120,
+123, 127, 128, 133, 142, 145, 146, 150, 151, 154, 155, 156, 157, 158, 161, 166, 167, 172; **C8** : 114, 161, 167; **C9** : 109, 141, 145, 146, 150, 151, 157, 172; **C10** : 80, 91, 96,
+104, 105, 113, 120, 123, 128, 133, 154, 155, 156, 158; **C11** : 94, 127, 142, 166; **C13** : 145; **C14** : 151, 155, 161, 167; **C15** : 166, 172; **C16** : 80, 91, 94, 96, 104, 105, 109,
+113, 114, 120, 123, 127, 128, 133, 142, 146, 150, 154, 156, 157, 158; **D1** : 17, 19, 23, 27, 32, 33, 36, 37, 42, 44, 49, 59, 61, 64, 69, 72, 74, 75, 76, 78, 161, 166, 167, 172;
+**D2** : 30; D **3** : 28, 68; **D4** : 20, 34, 55, 67; D **5** : 17, 19, 20, 23, 27, 28, 30, 32, 33, 34, 36, 37, 42, 44, 49, 55, 59, 61, 64, 67, 68, 69, 72, 74, 75, 76, 78, 161, 166, 167, 172; D **8** :
+75, 161, 167; D **9** : 28, 33, 36, 67, 76, 172; D **10** : 17, 19, 20, 23, 27, 32, 34, 37, 42, 44, 49, 55, 61, 64, 69, 72, 74, 78; D **11** : 30, 59, 68, 166; **D12** : 75; D **13** : 55, 64; D **14** : 161,
+167; D **15** : 30, 36, 42, 44, 68, 76, 166, 172; **D16** : 28, 37; D **17** : 59, 67; **E2** : 131, 165, 173; **E3** : 62, 85, 92, 99, 101, 103, 107, 108, 111, 118, 121, 123, 124, 126, 135, 136,
+137, 144, 147, 149, 162, 163, 164, 168, 169, 170, 171, 174; **E5** : 85, 92, 99, 103, 107, 108, 111, 118, 121, 124, 131, 135, 136, 137, 144, 147, 162, 164, 165, 168, 170,
+171, 173, 174; **E6** : 123, 126, 149, 163, 169; **E7** : 62, 101; **E9** : 124; **E10** : 103, 108, 131, 144; **E11** : 62, 85, 92, 99, 101, 107, 111, 118, 121, 123, 126, 135, 136, 137, 147,
+149, 162, 163, 164, 165, 168, 169, 170, 171, 173, 174; **E13** : 108; **E14** : 85, 101, 131, 137, 144, 162, 165, 174; **E15** : 62, 118, 121, 123, 124, 135, 136, 147, 149, 164, 168,
+169, 170, 171, 173; **E16** : 92, 99, 103, 107, 111, 126, 163; **F1** : 13, 36, 59, 60; **F2** : 30, 31, 39, 51, 53, 65, 165, 173; **F3** : 12, 15, 21, 25, 35, 38, 45, 50, 54, 56, 62, 66, 70, 71,
+73, 77, 162, 163, 164, 168, 169, 170, 171, 174; **F4** : 11; **F5** : 11, 12, 13, 15, 21, 25, 30, 31, 35, 36, 39, 45, 50, 51, 53, 54, 56, 59, 60, 65, 66, 70, 71, 73, 77, 162, 164, 165,
+168, 170, 171, 173, 174; **F6** : 38, 163, 169; **F7** : 62; **F9** : 36; **F10** : 12, 45, 73; **F11** : 11, 13, 15, 21, 25, 30, 31, 35, 38, 39, 50, 51, 53, 54, 56, 59, 60, 62, 65, 66, 70, 71, 77,
+162, 163, 164, 165, 168, 169, 170, 171, 173, 174; **F14** : 45, 56, 65, 77, 162, 165, 174; **F15** : 11, 15, 25, 30, 31, 36, 38, 39, 45, 50, 51, 53, 54, 56, 62, 65, 66, 70, 71, 77,
+162, 164, 165, 168, 169, 170, 171, 173, 174; **F16** : 12, 13, 21, 35, 163; **F17** : 59, 60, 73; **G3** : 149; **G6** : 149; **G11** : 149; **G15** : 149; **H1** : 13, 24, 36; **H3** : 46; **H5** : 13, 36; **H6** : 24,
+46; **H11** : 13, 24, 36, 46; **H12** : 24; **H15** : 46; **H17** : 13, 36; **I1** : 160; **I7** : 160; **I11** : 160; **I16** : 160; **J1** : 13, 36; **J2** : 29, 62, 65, 160; **J3** : 40, 47, 63, 195; **J5** : 13, 36, 65; **J6** : 29, 40,
+47, 62, 63, 160, 195; **J11** : 13, 29, 36, 40, 47, 62, 63, 65, 160, 195; **J14** : 65; **J15** : 29, 40, 47, 62, 63, 195; **J16** : 160; **J17** : 13, 36; **K3** : 138; **K7** : 138; **K9** : 138; **K15** : 138;
+
+
+***3.3. Population features***
+
+We identified a number of different types of study populations
+chosen to reflect the specific outcome of interest, mode of
+transmission (horizontal vs vertical) and whether particular risk
+groups (such as MSM and anal cancer) are known. As a conse-­
+quence, AGW impact studies were predominantly performed in
+both females and males (31/37, 83.8%, Table 2), whereas AGW VE
+studies were more frequently focused on females only (10/13,
+76.9%). Anal infection studies were relatively frequently per-­
+formed in men (3/5, 60%), and oral infection studies were often
+performed in both females and males (8/11, 72.7%). In the JORRP study, children (both male and female) born to vaccinated
+and unvaccinated women were investigated. Several studies
+focused on higher-risk populations (patients in sexual health
+clinics, n = 13; MSM, n = 4; HIV-infected population, n = 1).
+
+
+***3.4. Outcome data sources***
+
+The most frequently used sources of outcome data for both VE
+and impact studies were special studies specifically designed
+to assess outcomes for reporting effectiveness or impact
+(n = 86, 44%), especially when studying HPV infection as an
+outcome (Table 2). In such a study, researchers typically select
+a sample of the population of interest, gather information on
+vaccination status using a questionnaire, and assess HPV infec-­
+tion in samples collected by a clinician or by the participant
+themselves. The second most frequent source of HPV disease
+information was from registries (56, 29%), primarily cervical
+screening and cancer registries. Such registries exist in many
+high-income countries and were already established before
+the introduction of the HPV vaccine. As an example, a fre-­
+quently studied registry in this literature review was the
+
+232 W. WANG ET AL.
+
+Victoria Cervical Cytology registry in Australia, with a total of 6
+publications during years 2011–2016, reflecting that Australia
+implemented large-scale vaccination early after vaccine
+approval and thus accumulated sufficient time to observe
+results at an early stage compared to other nations. The
+remaining sources of information were electronic health
+records (31, 16%) or claims databases (23, 12%) to study
+genital warts and cervical lesions.
+
+***3.5. Exposure data sources***
+
+Generally, impact studies utilized vaccination coverage data at
+the national level, whereas vaccine effectiveness studies (38,
+39.6%) often relied on self-reported vaccination status (Table
+2). In one-third of the studies reviewed, self-reported vaccina-­
+tion status was verified in a proportion of the participants
+using claim databases (7/38, 18%) or EHR (6/38, 16%).
+Registries were also a frequently used source of data to ascer-­
+tain HPV vaccination status (45/196, 23%). In general, these
+registries pre-dated the HPV vaccine and are used for all
+(childhood) vaccinations and all or a selection of adolescent
+and adult-age vaccinations. As an example, the Danish
+Vaccination Register covers all vaccinations, including those
+given outside the National Immunization Program.
+Registration is in real-time and data retrieval and linkage can
+be performed for surveillance or research [175]. In Australia, a
+national HPV vaccination registry was implemented at the
+time of the roll-out of the immunization program. Recently,
+this registry has been included into the Australian
+Immunization Registry.
+
+***3.6. Approaches to controlling confounding***
+
+As per standard epidemiological practice, a number of studies
+addressed potential confounding at the design stage. Several
+studies attempted to control for potential confounders
+through the inclusion of a restricted population. Most typi-­
+cally, studies included only sexually active young participants
+recruited at sexual health clinics (n = 18). While this choice
+may sometimes have been made for opportunistic reasons of
+feasibility (ease of access to, and acceptability by, the higher
+risk population) and statistical power (higher infection rates), it
+has also been done to reduce the risk of confounding by
+difference in/lack of sexual activity. Another approach was
+taken in matched case–control studies (n = 6) where controls
+were matched to cases for potential confounders, such as age
+or time since first cytology in the health system.
+
+The large majority of studies, however, relied upon analy-­
+tical rather than a priori design-based methods to address
+potential confounding. For most of these studies (140, 82%),
+simple stratification during analysis was used to assess
+whether the risk estimate differed by stratum, e.g. age. Other
+methods for assessing or minimizing the effect of potential
+confounders included multivariate analyses (n = 75), propen-­
+sity score weighting, e.g. vaccination by age, gender and race
+(n = 9), or simple matching (n = 5). In ecological studies, where
+many potential confounding factors are unmeasured and indi-­
+vidual-level vaccination status is unknown, a comparison to
+time trends of other sexually transmitted infections (e.g.
+
+
+chlamydia, gonorrhea) is utilized as a control. For example, if
+HPV infection declines in the community post-vaccination but
+other sexually transmitted infections remain constant, investi-­
+gators would assume the HPV decline is attributable to vacci-­
+nation [30,48,121].
+
+**4. Discussion**
+
+We identified 167 publications between January 2007 and
+March 2020, assessing vaccine effectiveness (VE) or impact of
+4vHPV. The number of VE and impact studies published per
+year of the review steadily increased, with expanded reporting
+worldwide and, consistent with longer time since vaccine
+introduction, providing sufficient follow-up time to observe
+certain HPV-related diseases, as well as the progression of
+vaccine introduction globally. By 2020, 23 different countries
+reported VE/impact data, ranging from a single study in
+Bhutan, Colombia, India, Israel, Luxembourg, Mongolia,
+Rwanda, South Korea, Spain, and the UK (after the switch
+from bivalent to quadrivalent vaccine) to 60 studies from the
+US. As anogenital warts (AGWs) occur relatively quickly postinfection, many of the initial VE and impact studies focused on
+AGWs. Over time, there has been a significant increase in the
+number of publications focused on cervical lesion outcomes.
+With the move in many countries to HPV testing for cervical
+cancer screening, infection prevalence (and incidence,
+depending on the program) can be assessed within the popu-­
+lation. For programs with type-specific HPV testing, the eva-­
+luation of the real-world benefit of vaccination will be
+
+enhanced, as this provides a built-in surveillance system for
+types targeted by the vaccines [61,176]. However, there
+remains limited data on other early markers of vaccine impact,
+for example, juvenile-onset recurrent respiratory papillomato-­
+sis (JO-RRP) and oral/anal HPV infection. Due to the lag time
+between infection and disease, data pertaining to HPV-related
+cervical cancer has been slower to obtain and may be even
+slower for oropharyngeal, vaginal, and vulvar cancer, where
+pre-stages are lacking entirely or less systematically diagnosed
+than for the cervix. However, after the completion of our study
+period, an individually linked effectiveness study utilizing the
+Swedish national registries was published evaluating the risk
+of cervical cancer by HPV vaccination status in a population of
+1,672,983 women. The cumulative incidence of cervical cancer
+was 47 cases per 100,000 persons among women who had
+been vaccinated and 94 cases per 100,000 persons among
+those who had not been vaccinated. After adjustment for
+potential confounders, the incidence rate ratio was 0.12 (95%
+CI, 0.00 to 0.34) among women who had been vaccinated
+before the age of 17 years and 0.47 (95% CI, 0.27 to 0.75)
+among women who had been vaccinated at the age of 17–
+30 years [177].
+
+Studying the VE and impact of HPV vaccines is challenging
+due to a number of aspects such as the multiplicity of out-­
+comes [1,2]; the lack of routine screening in males and in noncervical endpoints in females; the high proportion of asymp-­
+tomatic HPV infections [178], and; the scarcity of vaccine
+registries [179–182]. Despite these challenges, HPV VE and
+impact studies are increasingly being conducted across the
+globe, using a wide variety of methods and data sources. We
+
+EXPERT REVIEW OF VACCINES 233
+
+**Table 3.** Considerations for study design.
+
+Impact Vaccine Effectiveness
+
+**Study design**
+
+
+Preferred design:
+
+- Repeated cross-sectional study, large population at low cost. Best suited to
+
+assess the total effect.
+
+- Disease incidence is the preferred to disease prevalence as outcome.
+
+- Stratification for potential confounders (e.g. age at first sexual intercourse,
+
+condom use, positive history of STI) is possible but can be subject to recall
+bias.
+
+**Study population**
+
+The study population is not necessary to be of age eligible for vaccination.
+
+
+Preferred design:
+
+- Cohort study provides highest level of confidence; alternative: repeated cross
+sectional study with knowledge of vaccination status. Case–control studies
+will be more useful for long term and more infrequent outcomes such as
+
+cancer.
+
+- Disease incidence is preferred to disease prevalence as outcome.
+
+- Stratification for potential confounders (e.g. age at first sexual intercourse,
+
+condom use, positive history of STI) is possible but can be subject to recall
+bias.
+
+The vaccinated cohort should be of age eligible for vaccination. To reduce bias,
+
+
+Inclusion of males or unvaccinated female could show herd protection. With controls should be selected within the same age range. In NIPs with GNV
+increasing GNV, preferably both women and men are included in the study preferably both women and men are included, to assess effectiveness in
+population. both genders.
+
+**Outcome data source**
+
+
+
+- AGW: as most people with AGW will be treated at some point, claims
+
+databases are good data sources. CL: cervical cancer screening registries,
+linked to pathology databases, have been used successfully. *
+
+- INF: if HPV-based screening is performed, cervical cancer screening registries
+
+provide very useful data, although HPV type information may not be
+available.
+
+- Anal and oral INF: no routine sample collection is available, making surveys
+
+the only option to collect data.
+
+**Exposure data source**
+
+Vaccination status at the individual level is not necessary for impact studies, as
+
+
+
+- Outcome data need to be linked to exposure data to determine
+
+effectiveness.
+
+- INF: in the absence of HPV-based screening, surveys provide the best data.
+
+- Anal and oral INF: no routine sample collection is available, making surveys
+
+the only option to collect data.
+
+Vaccination registries/immunization information systems with strong
+
+
+pre- and post-vaccination periods are compared. Knowledge of the organization are preferred as sources of exposure data where available, as
+vaccination coverage at population level is important. date of immunization and number of doses are generally more reliable than
+
+self-reported vaccination status (avoiding exposure misclassification bias).
+**Time since start vaccination program**
+AGW and INF (so-called short incubation outcomes) are most likely to show early impact. CL may take longer to develop and is most easily detected in
+
+populations eligible for cervical cancer screening in an established, organized cervical cancer screening program, including appropriate registration of
+outcomes. Evidence of an effect on cervical cancer, as well as JO-RRP, will take relatively longer, as it concerns an outcome with a long delay or an outcome
+among the children of vaccinated women.
+**Vaccination coverage rate**
+
+
+Essentially, the higher the vaccination coverage rate, the more likely impact can
+
+
+Not necessary to have a high VCR. With a high VCR, unvaccinated controls may
+
+
+be observed. However, for AGW and INF, a low but significant impact has not be available. Use of other control groups (e.g. older [non-eligible] age)
+been demonstrated with coverage rates as low as 30%. may impact confounders (e.g. sexual activity).
+
+**Source material for HPV detection**
+
+- The drive toward HPV-based cervical cancer screening will likely result in the HPV status being recorded in the EHR.
+
+- Increasingly, self-collected cervicovaginal material is considered a valid source for HPV detection, simplifying survey studies on genital infection. First-void urine
+
+may be considered as a noninvasive replacement for women.
+
+AGW – anogenital warts; CL – cervical lesions; EHR – electronic health records; GNV – gender-neutral vaccination; INF – infection; JO-RRP – juvenile-onset recurrent
+
+respiratory papillomatosis; STI – sexually transmitted infection; VCR – vaccine coverage rate
+
+
+have summarized in Table 3 a number of considerations for
+conducting VE or impact studies after HPV vaccine introduc-­
+tion that derive from this review.
+
+***4.1. Study design***
+
+Among observational studies, cohort studies are ranked high-­
+est in their capacity to generate high-quality evidence but are
+resource- and data-intensive and tend to focus on selected
+
+populations that agree to participate in long-term studies.
+
+[183,184] Cross-sectional studies, on the other hand, typically
+rank lowest in terms of quality of the evidence due to their
+inability to assess temporality, but allow large populations,
+with fewer selection biases, to be studied at relatively low
+expense. All observational studies, regardless of design, are
+susceptible to systematic error in terms of bias and confound-­
+ing, and these can be addressed both by design and at the
+analytical stage. For rare outcomes, such as JO-RRP, case–
+control studies may be an option in settings with limited
+
+
+data but the ability to know the underlying population from
+which the JO-RRP cases arise. In some settings, a case series
+may suffice for JO-RPP impact. However, a cohort design,
+including all subjects, whether cases or controls, measuring
+the person-time exposed, incidence rates, etc. is more power-­
+ful and offers substantial analytical flexibility. Comprehensive
+cohort studies are possible in settings with national vaccine
+registries, such as the Nordic countries, where person-time can
+be divided into vaccinated and unvaccinated, with high relia-­
+bility, and should thus be kept in mind also for rare outcomes.
+
+***4.2. Data sources***
+
+AGW and cervical lesions are generally recorded in registries,
+claims databases, and EHRs in a standardized fashion. The
+registration of HPV infection and/or specific genotypes is
+newer to the prevention field and less frequently registered
+in comprehensive databases. They may sporadically be cap-­
+tured in EHRs from managed care organizations (e.g. the US
+
+234 W. WANG ET AL.
+
+organization Kaiser Permanente) but most likely not in claims
+databases, often necessitating special studies to collect these
+data.
+
+For exposure data, systematic vaccination registries would
+be the preferred source given their reliability and complete-­
+ness [185]. However, not all countries have the ability to
+implement such, and/or they may be incomplete. Especially
+in countries starting a national immunization program (NIP), or
+incorporating HPV vaccination into the NIP, it has been recom-­
+mended to establish a vaccination registry [186]. Similarly,
+several countries are improving healthcare infrastructure by
+improving completeness and accuracy of the registration of
+cervical cancer prevention efforts, and to monitor progress
+toward cervical cancer control and eventual elimination, as
+posited by the WHO global cervical cancer elimination cam-­
+paign [187].
+
+Regardless of which endpoint VE was assessed for, the
+possibility of linkage of vaccination and screening registries
+is a key facilitator in the study of disease rather than infection
+as an endpoint.
+
+***4.3. Methods for Molecular Studies***
+
+Current cervical screening programs use cervicovaginal exfo-­
+liated cells, typically for HPV detection and subsequent triage
+methods. In program settings that save test residuals, linkage
+of vaccine and screening registries can be performed to iden-­
+tify samples of interest and then perform HPV typing to esti-­
+mate VE in vaccinated women, as well as potentially type
+replacement after vaccination [101]. There are several alterna-­
+tive sampling methods we identified in our search, apart from
+clinician-obtained tests. In combination with high-risk HPV
+assays based on polymerase chain reaction, testing of selfcollected samples is as accurate as clinician samples [188].
+Furthermore, first-void urine showed good agreement in HPV
+DNA viral load with reference cervical samples and provides a
+noninvasive method which may be preferable to participants
+
+[189]. Urine samples have already been used in VE studies in
+females [31,165], but the sensitivity of HPV detection in urine
+in males is lower [190–192], and male urine samples are thus
+currently not strongly endorsed for VE studies. To monitor the
+effectiveness of male HPV vaccination programs, a sentinel
+surveillance model offers an appropriate strategy [193].
+Monitoring HPV genotypes over time will detect changes in
+circulating HPV types. Sampling of the penile shaft, the glans,
+the coronal sulcus, and the scrotum provides the highest
+detection rates as these sites are most likely to become colo-­
+nized with HPV during intercourse [193]. Swabbing without
+abrasion is acceptable to participants and allows for self-col-­
+lected samples [193]. Several examples of this approach have
+been published [38,62,123,126,149,169]. In summary, the
+growing utilization of molecular tests and self-sampling
+options will enhance our ability to conduct VE and impact
+studies on large populations.
+
+In resource-limited environments, we identified several
+types of studies of high quality that used a pre-post study
+approach to measure HPV prevalence through approaches
+such as urine sampling and self-testing for HPV [31,59,60]. If
+
+
+such methodology is deemed beyond the capacity of the local
+context, the opportunistic re-use of existing data sources (such
+as medical charts or register data, where existent) may provide
+e.g. information to investigate overall trends in cervical cancer
+incidence [194]. Furthermore, although studies on HPV preva-­
+lence with cross-sectional designs could not conclude on
+causal effects of the HPV vaccination program, it still provides
+insights on changes in disease burden associated with HPV
+vaccination programs in such areas/settings.
+
+We acknowledge the following limitations to our work. We
+only reviewed effectiveness and impact studies of the 4vHPV
+and 9vHPV, but not 2vHPV. However, the approach for assess-­
+ment of effectiveness and impact of HPV vaccines would
+essentially be the same, though effectiveness/impact studies
+for RRP and AGW would be more appropriate in settings with
+vaccines that target HPV 6/11, which are responsible for 90%
+of genital warts cases. Similarly, in an increasing number of
+countries, there is mixed-use or sequential use of different HPV
+vaccines, due to tendering systems, making it more challen-­
+ging to assign the effectiveness or impact found to a specific
+vaccine. How this type of delivery evolution in national immu-­
+nization programs influences the real-world vaccine effective-­
+ness and impact assessment needs to be further studied.
+Additionally, so far, studies have predominantly been per-­
+formed in high-income settings (HIC). The good practices
+summarized from HIC may not be applied to LMIC, given the
+different settings with potentially limited resources. Finally,
+inevitably with any systematic review, there will be a lag
+time between end-of-study period (March 2020) and study
+publication. However, we believe this gap has limited impact
+on the study findings and conclusion, given the objective of
+this study was to review and summarize study designs, meth-­
+ods, and data sources.
+
+**5. Conclusions**
+
+To our knowledge, this is the first study to systematically
+review, appraise, and provide recommendations on the design
+of HPV vaccine effectiveness and impact studies, showing that
+both robust study methodology and healthcare data infra-­
+structure are essential for evaluating a vaccination program.
+To establish robust evidence on vaccine effectiveness and
+
+impact, researchers have to overcome the methodology chal-­
+lenges given the complexity of HPV-related disease and the
+availability of well-validated data sources. Study designs and
+methodologies should be selected appropriately case by case,
+especially in resource-limited settings. Although HPV infection
+leads to a multitude of diseases across the life course, with
+
+attention to research methods and data sources, studies can
+demonstrate and track the protective effect of HPV vaccines
+on these disease outcomes.
+
+**6. Expert opinion**
+
+The rapid growth in access to real-world data, such as electro-­
+nic health records, claims, billing data, and disease registries
+allows global monitoring of effects of different public health
+interventions, including HPV vaccination programs. But the
+use of data which is primarily not collected or organized to
+
+support research also underline a need to develop a robust
+methodology which provide insight of vaccine effects as well
+as on consequences of different health policy decisions. A
+robust study methodology and understanding both opportu-­
+nities as well as limitation of different data sources are essen-­
+tial for generating real-world evidence. To establish robust
+evidence on vaccine effectiveness and impact, researchers
+must overcome the methodology challenges given the variety
+and heterogeneity of HPV-related disease, and the availability
+of well-validated and integrated data sources. Study designs
+and methodologies should be selected appropriately case by
+case according to the research need (e.g. to evaluate shortterm or long-term effectiveness or impact of vaccination pro-­
+gram), and the capability of the data system settings.
+Especially in the resource-limited settings, options are also
+available to measure vaccine program effect based on what
+we learned from existing evidence. As posited by WHO in the
+global cervical cancer elimination campaign, all countries must
+reach and maintain an incidence rate of below 4 per 100,000
+women and should meet the ‘90–70-90’ targets by 2030 to get
+on the path to eliminate cervical cancer within the next cen-­
+tury. To achieve the elimination goal, we could foresee a
+growing need for HPV vaccination program evaluation in the
+coming years globally. A critical and appraisal summary of a
+robust methodology used in the HPV vaccine effectiveness
+and impact evaluation will provide timely technical guidance
+to researchers who would like to initiate such research activ-­
+ities in various settings.
+
+**Funding**
+
+This work was supported by Merck Sharp & Dohme Corp., a subsidiary of
+Merck & Co., Inc., Kenilworth, NJ, USA (MSD). As MSD employees are
+among the co-authors, the sponsor had a role in study design; in the
+collection, analysis, and interpretation of data; in the writing of the report;
+and in the decision to submit the article for publication.
+
+**Declaration of interests**
+
+W Wang, S Kothari, C Velicer, J Tota and A Sinha are employees of Merck
+Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Kenilworth, NJ,
+USA (MSD), and may own stock in Merck & Co., Inc., Kenilworth, NJ, USA; M
+Baay, J Skufca and T Verstraeten are employees of P95 and have received
+consulting fees from vaccine-producing companies, including MSD; SM
+Garland has received grants through her institution from Merck and has
+delivered lectures, received speaking fees from MSD for work performed
+in her personal time and is a member of the Merck HPV Global Advisory
+Board. ARG has received financial support from Merck for her role as a
+member of several advisory boards and as a speaker at conference sym-­
+posia and has received research grants through her institution. M Nygard
+has received research grants from MSD Norway through her affiliating
+institute. K Ssundstrom has received research grants from MSD to her
+institution. The authors have no other relevant affiliations or financial
+
+involvement with any organization or entity with a financial interest in
+or financial conflict with the subject matter or materials discussed in the
+manuscript apart from those disclosed.
+
+**Reviewer disclosures**
+
+Peer reviewers on this manuscript have no relevant financial or other
+relationships to disclose.
+
+
+EXPERT REVIEW OF VACCINES 235
+
+**Author contributions**
+
+W Wang, S Kothari, and T Verstraeten designed the study. The data were
+acquired and analyzed by J Skufca, M Baay, T Verstraeten, and W Wang. All
+authors contributed to the interpretation of the results. W Wang, S
+Kothari, J Skufca, M Baay, and T Verstraeten drafted the manuscript. All
+authors critically reviewed and revised earlier versions and approved the
+final version of the manuscript.
+
+**ORCID**
+
+Marc Baay http://orcid.org/0000-0001-7266-551X
+Suzanne M. Garland http://orcid.org/0000-0002-6869-311X
+Anna R. Giuliano http://orcid.org/0000-0002-5440-8859
+Mari Nygård http://orcid.org/0000-0002-4100-4855
+Thomas Verstraeten http://orcid.org/0000-0002-4507-7285
+Karin Sundström http://orcid.org/0000-0002-6865-0224
+
+**References**
+
+Papers of special note have been highlighted as either of interest (•) or of
+considerable interest (••) to readers.
+
+1. WHO. Human papillomavirus vaccines: WHO position paper, May
+
+2017. Contract No1:19.
+
+2. Harper DM, DeMars LR. HPV vaccines - A review of the first decade.
+
+Gynecol Oncol. 2017;146(1):196–204.
+
+**•• An overview of the first 10 years after licensure.**
+
+3. FDA. Human papillomavirus vaccine. 2018 Available from: [https://](https://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm172678.htm)
+
+[www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/](https://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm172678.htm)
+[ucm172678.htm.](https://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm172678.htm)
+
+4. Qiao YL, Wu T, Li RC, et al. Efficacy, safety, and immunogenicity of
+
+an escherichia coli-produced bivalent human papillomavirus vac-­
+cine: an interim analysis of a randomized clinical trial. J Natl Cancer
+Inst. 2020;112(2):145–153.
+5. Hanquet G, Valenciano M, Simondon F, et al. Vaccine effects and
+
+impact of vaccination programmes in post-licensure studies.
+Vaccine. 2013;31(48):5634–5642.
+
+**•• Careful explanation of vaccine effects.**
+
+6. Halloran ME, Struchiner CJ. Study designs for dependent happen-­
+
+ings. Epidemiology. 1991;2(5):331–338.
+
+**•• Pivotal review developing the conceptual framework for study**
+
+**designs that differentiate and account for direct and indirect**
+**effects of intervention programs.**
+7. Oliveira CR, Niccolai LM. Monitoring HPV vaccine impact on cervical
+
+disease: status and future directions for the era of cervical cancer
+
+elimination. Prev Med. 2021;144:106363.
+8. Garland SM, Kjaer SK, Munoz N, et al. Impact and effectiveness of
+
+the quadrivalent human papillomavirus vaccine: a systematic
+review of 10 years of real-world experience. Clin Infect Dis.
+2016;63(4):519–527.
+
+**• First review to look at the impact and effectiveness of the**
+
+**quadrivalent HPV vaccine 10 years after licensure.**
+9. Derkay CS, Wiatrak B. Recurrent respiratory papillomatosis: a
+
+review. Laryngoscope. 2008;118(7):1236–1247.
+10. Ouzzani M, Hammaday H, Federowicx Z, et al. Rayyan - a web and
+
+mobile app for systematic reviews. Syst Rev. 2016;5:210.
+11. Cummings T, Zimet GD, Brown D, et al. Reduction of HPV infections
+
+through vaccination among at-risk urban adolescents. Vaccine.
+2012;30(37):5496–5499.
+12. Powell SE, Hariri S, Steinau M, et al. Impact of human papilloma-­
+
+virus (HPV) vaccination on HPV 16/18-related prevalence in pre-­
+cancerous cervical lesions. Vaccine. 2012;31(1):109–113.
+13. Schlecht NF, Burk RD, Nucci-Sack A, et al. Cervical, anal and oral
+
+HPV in an adolescent inner-city health clinic providing free vacci-­
+nations. PLoS One. 2012;7(5):e37419.
+14. Swedish KA, Factor SH, Goldstone SE. Prevention of recurrent high
+grade anal neoplasia with quadrivalent human papillomavirus
+
+236 W. WANG ET AL.
+
+vaccination of men who have sex with men: a nonconcurrent
+
+cohort study. Clin Infect Dis. 2012;54(7):891–898.
+15. Tabrizi SN, Brotherton JM, Kaldor JM, et al. Fall in human papillo-­
+
+mavirus prevalence following a national vaccination program. J
+Infect Dis. 2012;206(11):1645–1651.
+16. Blomberg M, Dehlendorff C, Munk C, et al. Strongly decreased risk
+
+of genital warts after vaccination against human papillomavirus:
+nationwide follow-up of vaccinated and unvaccinated girls in
+Denmark. Clin Infect Dis. 2013;57(7):929–934.
+17. Gertig DM, Brotherton JM, Budd AC, et al. Impact of a population
+based HPV vaccination program on cervical abnormalities: a data
+linkage study. BMC Med. 2013;11:227.
+18. Leval A, Herweijer E, Ploner A, et al. Quadrivalent human papillo-­
+
+mavirus vaccine effectiveness: a Swedish national cohort study. J
+Natl Cancer Inst. 2013;105(7):469–474.
+19. Baldur-Felskov B, Dehlendorff C, Junge J, et al. Incidence of cervical
+
+lesions in Danish women before and after implementation of a
+national HPV vaccination program. Cancer Causes Control. 2014;25
+(7):915–922.
+20. Crowe E, Pandeya N, Brotherton JM, et al. Effectiveness of quad-­
+
+rivalent human papillomavirus vaccine for the prevention of
+cervical abnormalities: case-control study nested within a popu-­
+lation based screening programme in Australia. BMJ. 2014;348:
+g1458.
+21. Delere Y, Remschmidt C, Leuschner J, et al. Human Papillomavirus
+
+prevalence and probable first effects of vaccination in 20 to 25
+year-old women in Germany: a population-based cross-sectional
+study via home-based self-sampling. BMC Infect Dis. 2014;14:87.
+22. Herweijer E, Leval A, Ploner A, et al. Association of varying number
+
+of doses of quadrivalent human papillomavirus vaccine with inci-­
+dence of condyloma. JAMA. 2014;311(6):597–603.
+23. Mahmud SM, Kliewer EV, Lambert P, et al. Effectiveness of the
+
+quadrivalent human papillomavirus vaccine against cervical dyspla-­
+sia in Manitoba, Canada. J Clin Oncol. 2014;32(5):438–443.
+24. Swedish KA, Goldstone SE. Prevention of anal condyloma with
+
+quadrivalent human papillomavirus vaccination of older men who
+have sex with men. PLoS One. 2014;9(4):e93393.
+25. Tabrizi SN, Brotherton JM, Stevens MP, et al. HPV genotype pre-­
+
+valence in Australian women undergoing routine cervical screen-­
+ing by cytology status prior to implementation of an HPV
+vaccination program. J Clin Virol. 2014;60(3):250–256.
+26. Blomberg M, Dehlendorff C, Sand C, et al. Dose-related differences
+
+in effectiveness of human papillomavirus vaccination against geni-­
+tal warts: a nationwide study of 550,000 young girls. Clin Infect Dis.
+2015;61(5):676–682.
+27. Brotherton JML, Malloy M, Budd AC, et al. Effectiveness of less than
+
+three doses of quadrivalent human papillomavirus vaccine against
+cervical intraepithelial neoplasia when administered using a stan-­
+dard dose spacing schedule: observational cohort of young women
+in Australia. Papillomavirus Res. 2015;1:59–73.
+28. Hariri S, Bennett NM, Niccolai LM, et al. Reduction in HPV 16/18
+associated high grade cervical lesions following HPV vaccine intro-­
+duction in the United States - 2008-2012. Vaccine. 2015;33
+
+(13):1608–1613.
+29. Kahn JA, Rudy BJ, Xu J, et al. Behavioral, immunologic, and virolo-­
+
+gic correlates of oral human papillomavirus infection in HIVinfected youth. Sex Transm Dis. 2015;42(5):246–252.
+30. Arbyn M, Broeck DV, Benoy I, et al. Surveillance of effects of HPV
+
+vaccination in Belgium. Cancer Epidemiol. 2016;41:152–158.
+31. Franceschi S, Chantal Umulisa M, Tshomo U, et al. Urine testing to
+
+monitor the impact of HPV vaccination in Bhutan and Rwanda. Int J
+Cancer. 2016;139(3):518–526.
+32. Herweijer E, Sundstrom K, Ploner A, et al. Quadrivalent HPV vaccine
+
+effectiveness against high-grade cervical lesions by age at vaccina-­
+tion: a population-based study. Int J Cancer. 2016;138(12):2867–
+
+2874.
+33. Hofstetter AM, Ompad DC, Stockwell MS, et al. Human papilloma-­
+
+virus vaccination and cervical cytology outcomes among urban
+low-income minority females. JAMA Pediatr. 2016;170(5):445–452.
+
+
+34. Kim J, Bell C, Sun M, et al. Effect of human papillomavirus vaccina-­
+
+tion on cervical cancer screening in Alberta. CMAJ. 2016;188(12):
+
+E281–8.
+35. Markowitz LE, Liu G, Hariri S, et al. Prevalence of HPV after intro-­
+
+duction of the vaccination program in the United States. Pediatrics.
+2016;137(3):e20151968.
+36. Schlecht NF, Diaz A, Shankar V, et al. Risk of delayed human
+
+papillomavirus vaccination in inner-city adolescent women. J
+Infect Dis. 2016;214(12):1952–1960.
+37. Ozawa N, Ito K, Tase T, et al. Beneficial effects of human papillo-­
+
+mavirus vaccine for prevention of cervical abnormalities in Miyagi,
+Japan. Tohoku J Exp Med. 2016;240(2):147–151.
+38. Han JJ, Beltran TH, Song JW, et al. Prevalence of genital human
+
+papillomavirus infection and human papillomavirus vaccination
+rates among US adult men: National Health and Nutrition
+Examination Survey (NHANES) 2013-2014. JAMA Oncol. 2017;3
+(6):810–816.
+39. Heard I, Tondeur L, Arowas L, et al. Effectiveness of human papillo-­
+
+mavirus vaccination on prevalence of vaccine genotypes in young
+sexually active women in France. J Infect Dis. 2017;215(5):757–763.
+40. Hirth JM, Chang M, Resto VA. HPV Study Group. Prevalence of oral
+
+human papillomavirus by vaccination status among young adults
+(18-30 years old). Vaccine. 2017;35(27):3446–3451.
+41. Navarro-Illana E, Lopez-Lacort M, Navarro-Illana P, et al.
+
+Effectiveness of HPV vaccines against genital warts in women
+from Valencia, Spain. Vaccine. 2017;35(25):3342–3346.
+42. Ozawa N, Ito K, Tase T, et al. Lower incidence of cervical intrae-­
+
+pithelial neoplasia among young women with human papilloma-­
+virus vaccination in Miyagi, Japan. Tohoku J Exp Med. 2017;243
+(4):329–334.
+43. Perkins RB, Lin M, Wallington SF, et al. Impact of number of human
+
+papillomavirus vaccine doses on genital warts diagnoses among a
+national cohort of U.S. adolescents. Sex Transm Dis. 2017;44
+
+(6):365–370.
+44. Tanaka H, Shirasawa H, Shimizu D, et al. Preventive effect of human
+
+papillomavirus vaccination on the development of uterine cervical
+lesions in young Japanese women. J Obstet Gynaecol Res. 2017;43
+(10):1597–1601.
+45. Carozzi F, Puliti D, Ocello C, et al. Monitoring vaccine and non
+vaccine HPV type prevalence in the post-vaccination era in women
+living in the Basilicata region, Italy. BMC Infect Dis. 2018;18(1):38.
+46. Chandler E, Ding L, Gorbach P, et al. Epidemiology of any and
+
+vaccine-type anogenital human papillomavirus among 13-26year-old young men after HPV vaccine introduction. J Adolesc
+Health. 2018;63(1):43–49.
+47. Chaturvedi AK, Graubard BI, Broutian T, et al. Effect of prophylactic
+
+Human Papillomavirus (HPV) vaccination on oral HPV infections
+among young adults in the United States. J Clin Oncol. 2018;36
+(3):262–267.
+48. Cocchio S, Bertoncello C, Baldovin T, et al. Self-reported genital
+
+warts among sexually-active university students: a cross-sectional
+study. BMC Infect Dis. 2018;18(1):41.
+49. Dehlendorff C, Sparén P, Baldur-Felskov B, et al. Effectiveness of
+
+varying number of doses and timing between doses of quadriva-­
+lent HPV vaccine against severe cervical lesions. Vaccine. 2018;36
+(43):6373–6378.
+50. Garland SM, Cornall AM, Brotherton JML, et al. Final analysis of a
+
+study assessing genital human papillomavirus genoprevalence in
+young Australian women, following eight years of a national vacci-­
+nation program. Vaccine. 2018;36(23):3221–3230.
+51. Goggin P, Sauvageau C, Gilca V, et al. Low prevalence of vaccine
+type HPV infections in young women following the implementa-­
+tion of a school-based and catch-up vaccination in Quebec,
+Canada. Hum Vaccin Immunother. 2018;14(1):118–123.
+52. Hariri S, Schuler MS, Naleway AL, et al. Human papillomavirus
+
+vaccine effectiveness against incident genital warts among female
+health-plan enrollees, United States. Am J Epidemiol. 2018;187
+(2):298–305.
+53. Jeannot E, Viviano M, de Pree C, et al. Prevalence of vaccine type
+
+infections in vaccinated and non-vaccinated young women: HPV
+IMPACT, a self-sampling study. Int J Environ Res Public Health.
+2018;15:7.
+54. Saccucci M, Franco EL, Ding L, et al. Non-vaccine-type human
+
+papillomavirus prevalence after vaccine introduction: no evidence
+for type replacement but evidence for cross-protection. Sex Transm
+Dis. 2018;45(4):260–265.
+55. Silverberg MJ, Leyden WA, Lam JO, et al. Effectiveness of catch-up
+
+human papillomavirus vaccination on incident cervical neoplasia in
+a US health-care setting: a population-based case-control study.
+Lancet Child Adolesc Health. 2018;2(10):707–714.
+56. Vänskä S, Söderlund-Strand A, Uhnoo I, et al. Estimating effective-­
+
+ness of HPV vaccination against HPV infection from post-vaccina-­
+tion data in the absence of baseline data. Vaccine. 2018;36
+
+(23):3239–3246.
+57. Willows K, Bozat-Emre S, Righolt CH, et al. Early evidence of the
+
+effectiveness of the human papillomavirus vaccination program
+against anogenital warts in Manitoba, Canada: a registry cohort
+study. Sex Transm Dis. 2018;45(4):254–259.
+58. Zeybek B, Lin YL, Kuo YF, et al. The impact of varying numbers of
+
+quadrivalent human papillomavirus vaccine doses on anogenital
+warts in the United States: a database study. J Low Genit Tract Dis.
+2018;22(3):189–194.
+59. Basu P, Muwonge R, Bhatla N, et al. Two-dose recommendation for
+
+human papillomavirus vaccine can be extended up to 18 years –
+updated evidence from Indian follow-up cohort study.
+Papillomavirus Res. 2019;7:75–81.
+60. Batmunkh T, Von Mollendorf C, Tulgaa K, et al. HPV genopreva-­
+
+lence and HPV knowledge in young women in Mongolia, five years
+following a pilot 4vHPV vaccination campaign. Papillomavirus Res.
+2019;8:100175.
+61. Brotherton JM, Hawkes D, Sultana F, et al. Age-specific HPV pre-­
+
+valence among 116,052 women in Australia’s renewed cervical
+screening program: a new tool for monitoring vaccine impact.
+Vaccine. 2019;37(3):412–416.
+62. Brouwer AF, Eisenberg MC, Carey TE, et al. Multisite HPV infections
+
+in the United States (NHANES 2003-2014): an overview and synth-­
+esis. Prev Med. 2019;123:288–298.
+63. Castillo A, Osorio JC, Fernandez A, et al. Effect of vaccination
+
+against oral HPV-16 infection in high school students in the city
+of Cali, Colombia. Papillomavirus Res. 2019;7:112–117.
+64. Castle PE, Xie X, Xue X, et al. Impact of human papillomavirus
+
+vaccination on the clinical meaning of cervical screening results.
+Prev Med. 2019;118:44–50.
+65. Enerly E, Flingtorp R, Christiansen IK, et al. An observational study
+
+comparing HPV prevalence and type distribution between HPVvaccinated and -unvaccinated girls after introduction of schoolbased HPV vaccination in Norway. PLoS One. 2019;14(10):
+
+e0223612.
+
+66. Feder MA, Kulasingam SL, Kiviat NB, et al. Correlates of human
+
+papillomavirus vaccination and association with HPV-16 and HPV18 DNA detection in young women. J Womens Health (Larchmt).
+2019;28(10):1428–1435.
+67. Johnson Jones ML, Gargano JW, Powell M, et al. Effectiveness of 1,
+
+2, AND 3 human papillomavirus vaccine doses against HPV-16/18
+positive high-grade cervical lesions. Am J Epidemiol. 2019; 189 (4):
+
+265–276. .
+
+68. Latsuzbaia A, Arbyn M, Tapp J, et al. Effectiveness of bivalent and
+
+quadrivalent human papillomavirus vaccination in Luxembourg.
+Cancer Epidemiol. 2019;63:101593.
+69. Righolt CH, Bozat-Emre S, Mahmud SM. Effectiveness of school
+based and high-risk human papillomavirus vaccination programs
+against cervical dysplasia in Manitoba, Canada. Int J Cancer.
+2019;145:671–677.
+70. Sonawane K, Nyitray AG, Nemutlu GS, et al. Prevalence of human
+
+papillomavirus infection by number of vaccine doses among US
+women. JAMA Network Open. 2019;2(12):e1918571.
+71. Wright TC, Parvu V, Stoler MH, et al. HPV infections and cytologic
+
+abnormalities in vaccinated women 21–34 years of age: results
+from the baseline phase of the onclarity trial. Gynecol Oncol.
+2019;153(2):259–265.
+
+
+EXPERT REVIEW OF VACCINES 237
+
+72. Innes CR, Williman JA, Simcock BJ, et al. Impact of human papillo-­
+
+mavirus vaccination on rates of abnormal cervical cytology and
+histology in young New Zealand women. N Z Med J. 2020;133
+(1508):72–84.
+73. Markowitz LE, Naleway AL, Klein NP, et al. Human papillomavirus
+
+vaccine effectiveness against HPV infection: evaluation of one, two,
+and three doses. J Infect Dis. 2020;221(6):910–918.
+74. Racey CS, Albert A, Donken R, et al. Cervical intraepithelial
+
+Neoplasia rates in British Columbia Women: a population-level
+data linkage evaluation of the school-based HPV immunization
+program. J Infect Dis. 2020;221(1):81–90.
+75. Rodriguez AM, Zeybek B, Vaughn M, et al. Comparison of the long
+term impact and clinical outcomes of fewer doses and standard
+doses of human papillomavirus vaccine in the United States: a
+database study. Cancer. 2020;126:1656–1667.
+76. Seong J, Ryou S, Yoo M, et al. Status of HPV vaccination among
+
+HPV-infected women aged 20-60 years with abnormal cervical
+cytology in South Korea: a multicenter, retrospective study. J
+Gynecol Oncol. 2020;31(1):e4.
+77. Shilling H, Murray G, Brotherton JML, et al. Monitoring human
+
+papillomavirus prevalence among young Australian women under-­
+going routine chlamydia screening. Vaccine. 2020;38(5):1186–1193.
+78. Verdoodt F, Dehlendorff C, Kjaer SK. Dose-related effectiveness of
+
+quadrivalent human papillomavirus vaccine against cervical intrae-­
+pithelial Neoplasia: a Danish nationwide cohort study. Clin Infect
+Dis. 2020;70(4):608–614.
+79. Fairley CK, Hocking JS, Gurrin LC, et al. Rapid decline in presenta-­
+
+tions of genital warts after the implementation of a national quad-­
+rivalent human papillomavirus vaccination programme for young
+women. Sex Transm Infect. 2009;85(7):499–502.
+80. Brotherton JM, Fridman M, May CL, et al. Early effect of the HPV
+
+vaccination programme on cervical abnormalities in Victoria,
+Australia: an ecological study. Lancet. 2011;377(9783):2085–
+
+2092.
+81. Donovan B, Franklin N, Guy R, et al. Quadrivalent human papillo-­
+
+mavirus vaccination and trends in genital warts in Australia: analy-­
+sis of national sentinel surveillance data. Lancet Infect Dis. 2011;11
+
+(1):39–44.
+82. Oliphant J, Perkins N. Impact of the human papillomavirus (HPV)
+
+vaccine on genital wart diagnoses at Auckland sexual health ser-­
+vices. N Z Med J. 2011;124(1339):51–58.
+83. Read TR, Hocking JS, Chen MY, et al. The near disappearance of
+
+genital warts in young women 4 years after commencing a
+national human papillomavirus (HPV) vaccination programme. Sex
+Transm Infect. 2011;87(7):544–547.
+84. Bauer HM, Wright G, Chow J. Evidence of human papillomavirus
+
+vaccine effectiveness in reducing genital warts: an analysis of
+California public family planning administrative claims data, 20072010. Am J Public Health. 2012;102(5):833–835.
+85. Kahn JA, Brown DR, Ding L, et al. Vaccine-type human papilloma-­
+
+virus and evidence of herd protection after vaccine introduction.
+Pediatrics. 2012;130(2):e249–56.
+86. Leval A, Herweijer E, Arnheim-Dahlstrom L, et al. Incidence of
+
+genital warts in Sweden before and after quadrivalent human
+papillomavirus vaccine availability. J Infect Dis. 2012;206(6):860–
+
+866.
+
+87. Ali H, Donovan B, Wand H, et al. Genital warts in young Australians
+
+five years into national human papillomavirus vaccination pro-­
+gramme: national surveillance data. BMJ. 2013;346:f2032.
+88. Ali H, Guy RJ, Wand H, et al. Decline in in-patient treatments of
+
+genital warts among young Australians following the national HPV
+vaccination program. BMC Infect Dis. 2013;13:140.
+89. Baandrup L, Blomberg M, Dehlendorff C, et al. Significant decrease
+
+in the incidence of genital warts in young Danish women after
+implementation of a national human papillomavirus vaccination
+program. Sex Transm Dis. 2013;40(2):130–135.
+90. Flagg EW, Schwartz R, Weinstock H. Prevalence of anogenital warts
+
+among participants in private health plans in the United States,
+2003-2010: potential impact of human papillomavirus vaccination.
+Am J Public Health. 2013;103(8):1428–1435.
+
+238 W. WANG ET AL.
+
+91. Jemal A, Simard EP, Dorell C, et al. Annual report to the nation on
+
+the status of cancer, 1975–2009, featuring the burden and trends in
+Human Papillomavirus (HPV)–associated cancers and HPV vaccina-­
+tion coverage levels. J Natl Cancer Inst. 2013;105(3):175–201.
+92. Markowitz LE, Hariri S, Lin C, et al. Reduction in Human
+
+Papillomavirus (HPV) prevalence among young women following
+HPV vaccine introduction in the United States, national health and
+nutrition examination surveys, 2003–2010. J Infect Dis. 2013;208
+(3):385–393.
+93. Mikolajczyk RT, Kraut AA, Horn J, et al. Changes in incidence of
+
+anogenital warts diagnoses after the introduction of human papil-­
+lomavirus vaccination in Germany-an ecologic study. Sex Transm
+Dis. 2013;40(1):28–31.
+94. Niccolai LM, Julian PJ, Meek JI, et al. Declining rates of high-grade
+
+cervical lesions in young women in Connecticut, 2008-2011. Cancer
+Epidemiol Biomarkers Prev. 2013;22(8):1446–1450.
+95. Nsouli-Maktabi H, Ludwig SL, Yerubandi UD, et al. Incidence of
+
+genital warts among U.S. service members before and after the
+introduction of the quadrivalent human papillomavirus vaccine.
+Msmr. 2013;20(2):17–20.
+96. Baldur-Felskov B, Dehlendorff C, Munk C, et al. Early impact of
+
+human papillomavirus vaccination on cervical neoplasia–nation-­
+wide follow-up of young Danish women. J Natl Cancer Inst.
+2014;106(3):djt460.
+97. Harrison C, Britt H, Garland S, et al. Decreased management of
+
+genital warts in young women in Australian general practice post
+introduction of national HPV vaccination program: results from a
+nationally representative cross-sectional general practice study.
+PLoS One. 2014;9(9):e105967.
+98. Liu B, Donovan B, Brotherton JM, et al. Genital warts and chlamydia
+
+in Australian women: comparison of national population-based
+surveys in 2001 and 2011. Sex Transm Infect. 2014;90(7):532–537.
+99. Merckx M, Benoy I, Meys J, et al. High frequency of genital human
+
+papillomavirus infections and related cervical dysplasia in adoles-­
+cent girls in Belgium. Eur J Cancer Prev. 2014;23(4):288–293.
+100. Sando N, Kofoed K, Zachariae C, et al. A reduced national incidence
+
+of anogenital warts in young Danish men and women after intro-­
+duction of a national quadrivalent human papillomavirus vaccina-­
+tion programme for young women–an ecological study. Acta Derm
+Venereol. 2014;94(3):288–292.
+101. Söderlund-Strand A, Uhnoo I, Dillner J. Change in population pre-­
+
+valences of human papillomavirus after initiation of vaccination:
+the high-throughput HPV monitoring study. Cancer Epidemiol
+Biomarkers Prev. 2014;23(12):2757–2764.
+102. Wilson N, Morgan J, Baker MG. Evidence for effectiveness of a
+
+national HPV vaccination programme: national prescription data
+from New Zealand. Sex Transm Infect. 2014;90(2):103.
+103. Wilson AR, Welch RJ, Hashibe M, et al. Surveillance of human papil-­
+
+loma virus using reference laboratory data for the purpose of evalu-­
+ating vaccine impact. Online J Public Health Inform. 2014;6(3):e194.
+104. Baldur-Felskov B, Munk C, Nielsen TS, et al. Trends in the incidence
+
+of cervical cancer and severe precancerous lesions in Denmark,
+1997-2012. Cancer Causes Control. 2015;26(8):1105–1116.
+105. Brotherton JM, Saville AM, May CL, et al. Human papillomavirus
+
+vaccination is changing the epidemiology of high-grade cervical
+lesions in Australia. Cancer Causes Control. 2015;26(6):953–954.
+106. Chow EP, Read TR, Wigan R, et al. Ongoing decline in genital warts
+
+among young heterosexuals 7 years after the Australian human
+papillomavirus (HPV) vaccination programme. Sex Transm Infect.
+2015;91(3):214–219.
+107. Dickson EL, Vogel RI, Luo X, et al. Recent trends in type-specific
+
+HPV infection rates in the United States. Epidemiol Infect. 2015;143
+(5):1042–1047.
+108. Dunne EF, Naleway A, Smith N, et al. Reduction in human papillo-­
+
+mavirus vaccine type prevalence among young women screened
+for cervical cancer in an integrated US healthcare delivery system
+in 2007 and 2012-2013. J Infect Dis. 2015;212(12):1970–1975.
+109. Hariri S, Johnson ML, Bennett NM, et al. Population-based trends in
+
+high-grade cervical lesions in the early human papillomavirus vac-­
+cine era in the United States. Cancer. 2015;121(16):2775–2781.
+
+
+110. Smith MA, Liu B, McIntyre P, et al. Fall in genital warts diagnoses in
+
+the general and indigenous Australian population following imple-­
+mentation of a national human papillomavirus vaccination pro-­
+gram: analysis of routinely collected national hospital data. J
+Infect Dis. 2015;211(1):91–99.
+111. Berenson AB, Laz TH, Rahman M. Reduction in vaccine-type human
+
+papillomavirus prevalence among women in the United States,
+2009-2012. J Infect Dis. 2016;214(12):1961–1964.
+112. Bollerup S, Baldur-Felskov B, Blomberg M, et al. Significant reduc-­
+
+tion in the incidence of genital warts in young men 5 years into the
+danish human papillomavirus vaccination program for girls and
+women. Sex Transm Dis. 2016;43(4):238–242.
+113. Brotherton JM, Gertig DM, May C, et al. HPV vaccine impact in
+
+Australian women: ready for an HPV-based screening program.
+Med J Aust. 2016;204(5):184–e1.
+114. Flagg EW, Torrone EA, Weinstock H. Ecological association of
+
+human papillomavirus vaccination with cervical Dysplasia preva-­
+lence in the United States, 2007-2014. Am J Public Health. 2016;106
+
+(12):2211–2218.
+115. Guerra FM, Rosella LC, Dunn S, et al. Early impact of Ontario’s
+
+human papillomavirus (HPV) vaccination program on anogenital
+warts (AGWs): a population-based assessment. Vaccine. 2016;34
+(39):4678–4683.
+116. Judlin P, Jacquard AC, Carcopino X, et al. Potential impact of the
+
+human papillomavirus vaccine on the incidence proportion of
+genital warts in French women (EFFICAE study): a multicentric
+prospective observational study. Sex Health. 2016;13(1):49–54.
+117. Smith MA, Liu B, McIntyre P, et al. Trends in genital warts by
+
+socioeconomic status after the introduction of the national HPV
+
+vaccination program in Australia: analysis of national hospital data.
+BMC Infect Dis. 2016;16:52.
+118. Tarney CM, Klaric J, Beltran T, et al. Prevalence of human papillo-­
+
+mavirus in self-collected cervicovaginal Swabs in young women in
+the United States Between 2003 and 2012. Obstet Gynecol.
+2016;128(6):1241–1247.
+119. Ali H, McManus H, O’Connor CC, et al. Human papillomavirus vacci-­
+
+nation and genital warts in young Indigenous Australians: national
+sentinel surveillance data. Med J Aust. 2017;206(5):204–209.
+120. Benard VB, Castle PE, Jenison SA, et al. Population-based incidence
+
+rates of cervical intraepithelial neoplasia in the human papilloma-­
+virus vaccine era. JAMA Oncol. 2017;3(6):833–837.
+121. Berenson AB, Hirth JM, Chang M. Change in human papillomavirus
+
+prevalence among U.S. women aged 18-59 years, 2009-2014.
+Obstet Gynecol. 2017;130(4):693–701.
+122. Cocchio S, Baldovin T, Bertoncello C, et al. Decline in hospitalization
+
+for genital warts in the Veneto region after an HPV vaccination
+program: an observational study. BMC Infect Dis. 2017;17(1):249.
+123. Gargano JW, Unger ER, Liu G, et al. Prevalence of genital human
+
+papillomavirus in males, United States, 2013-2014. J Infect Dis.
+2017;215(7):1070–1079.
+124. Jacot-Guillarmod M, Pasquier J, Greub G, et al. Impact of HPV
+
+vaccination with Gardasil(R) in Switzerland. BMC Infect Dis.
+
+2017;17(1):790.
+125. Lurie S, Mizrachi Y, Chodick G, et al. Impact of quadrivalent human
+
+papillomavirus vaccine on genital warts in an opportunistic vacci-­
+nation structure. Gynecol Oncol. 2017;146(2):299–304.
+126. Machalek DA, Chow EP, Garland SM, et al. Human papillomavirus
+
+prevalence in unvaccinated heterosexual men after a national
+female vaccination program. J Infect Dis. 2017;215(2):202–208.
+127. Matsumoto K, Yaegashi N, Iwata T, et al. Early impact of the
+
+Japanese immunization program implemented before the HPV
+vaccination crisis. Int J Cancer. 2017;141(8):1704–1706.
+128. Niccolai LM, Meek JI, Brackney M, et al. Declines in Human
+
+Papillomavirus (HPV)-associated high-grade cervical lesions after
+introduction of HPV vaccines in connecticut, United States, 20082015. Clin Infect Dis. 2017;65(6):884–889.
+129. Oliphant J, Stewart J, Saxton P, et al. Trends in genital warts
+
+diagnoses in New Zealand five years following the quadrivalent
+human papillomavirus vaccine introduction. N Z Med J. 2017;130
+(1452):9–16.
+
+130. Thone K, Horn J, Mikolajczyk R. Evaluation of vaccination herd
+
+immunity effects for anogenital warts in a low coverage setting
+with human papillomavirus vaccine-an interrupted time series ana-­
+lysis from 2005 to 2010 using health insurance data. BMC Infect Dis.
+2017;17(1):564.
+131. Dillner J, Nygard M, Munk C, et al. Decline of HPV infections in
+
+Scandinavian cervical screening populations after introduction of
+HPV vaccination programs. Vaccine. 2018;36(26):3820–3829.
+132. Flagg EW, Torrone EA. Declines in anogenital warts among age
+
+groups most likely to be impacted by human papillomavirus vacci-­
+nation, United States, 2006-2014. Am J Public Health. 2018;108
+
+(1):112–119.
+133. Guo F, Cofie LE, Berenson AB. Cervical cancer incidence in young U.
+
+S. females after human papillomavirus vaccine introduction. Am J
+Prev Med. 2018;55(2):197–204.
+134. Herweijer E, Ploner A, Sparen P. Substantially reduced incidence of
+
+genital warts in women and men six years after HPV vaccine
+availability in Sweden. Vaccine. 2018;36(15):1917–1920.
+135. Hirth J, McGrath CJ, Kuo YF, et al. Impact of human papillomavirus
+
+vaccination on racial/ethnic disparities in vaccine-type human
+papillomavirus prevalence among 14-26 year old females in the
+U.S. Vaccine. 2018;36(50):7682–7688.
+136. Machalek DA, Garland SM, Brotherton JML, et al. Very low preva-­
+
+lence of vaccine human papillomavirus types among 18- to 35-year
+old australian women 9 years following implementation of vacci-­
+nation. J Infect Dis. 2018;217(10):1590–1600.
+137. McGregor S, Saulo D, Brotherton JML, et al. Decline in prevalence of
+
+human papillomavirus infection following vaccination among
+Australian Indigenous women, a population at higher risk of cervi-­
+cal cancer: the VIP-I study. Vaccine. 2018;36(29):4311–4316.
+138. Novakovic D, Cheng ATL, Zurynski Y, et al. A prospective study of
+
+the incidence of Juvenile-Onset recurrent respiratory papillomato-­
+sis after implementation of a national HPV vaccination program. J
+Infect Dis. 2018;217(2):208–212.
+139. Steben M, Ouhoummane N, Rodier C, et al. The early impact of
+
+human papillomavirus vaccination on anogenital warts in Quebec,
+Canada. J Med Virol. 2018;90(3):592–598.
+140. Checchi M, Mesher D, Mohammed H, et al. Declines in anogenital
+
+warts diagnoses since the change in 2012 to use the quadrivalent
+HPV vaccine in England: data to end 2017. Sex Transm Infect.
+2019;95(5):368–373.
+141. Gargano JW, Park IU, Griffin MR, et al. Trends in high-grade cervical
+
+lesions and cervical cancer screening in 5 states, 2008-2015. Clin
+Infect Dis. 2019;68(8):1282–1291.
+
+142. Karube A, Saito F, Nakamura E, et al. Reduction in HPV 16/18
+
+prevalence among young women following HPV vaccine introduc-­
+tion in a highly vaccinated district, Japan, 2008-2017. J Rural Med.
+2019;14(1):48–57.
+143. Mann LM, Llata E, Flagg EW, et al. Trends in the prevalence of
+
+anogenital warts among patients at sexually transmitted disease
+clinics-sexually transmitted disease surveillance network, United
+States, 2010-2016. J Infect Dis. 2019;219(9):1389–1397.
+144. Markowitz LE, Naleway AL, Lewis RM, et al. Declines in HPV vaccine
+
+type prevalence in women screened for cervical cancer in the
+United States: evidence of direct and herd effects of vaccination.
+
+Vaccine. 2019;37(29):3918–3924.
+145. McClung NM, Gargano JW, Bennett NM, et al. Trends in human
+
+papillomavirus vaccine types 16 and 18 in cervical precancers,
+2008-2014. Cancer Epidemiol Biomarkers Prev. 2019;28(3):602–609.
+146. McClung NM, Gargano JW, Park IU, et al. Estimated number of
+
+cases of high-grade cervical lesions diagnosed among women United States, 2008 and 2016. MMWR Morb Mortal Wkly Rep.
+2019;68(15):337–343.
+147. McClung NM, Lewis RM, Gargano JW, et al. Declines in vaccine-type
+
+human papillomavirus prevalence in females across racial/ethnic
+groups: data from a national survey. J Adolesc Health. 2019;65
+(6):715–722.
+148. Shing JZ, Hull PC, Zhu Y, et al. Trends in anogenital wart incidence
+
+among Tennessee Medicaid enrollees, 2006-2014: the impact of human
+papillomavirus vaccination. Papillomavirus Res. 2019;7:141–149.
+
+
+EXPERT REVIEW OF VACCINES 239
+
+149. Widdice LE, Bernstein DI, Franco EL, et al. Decline in vaccine-type
+
+human papillomavirus prevalence in young men from a Midwest
+metropolitan area of the United States over the six years after
+vaccine introduction. Vaccine. 2019;37(45):6832–6841.
+150. Brackney MM, Gargano JW, Hannagan SE, et al. Human papilloma-­
+
+virus 16/18–associated cervical lesions: differences by area-based
+measures of race and poverty. Am J Prev Med. 2020;58:e149–e157.
+151. Cleveland AA, Gargano JW, Park IU, et al. Cervical adenocarcinoma
+
+in situ: human papillomavirus types and incidence trends in five
+states, 2008-2015. Int J Cancer. 2020;146(3):810–818.
+152. Naleway AL, Crane B, Smith N, et al. Temporal trends in the
+
+incidence of anogenital warts: impact of human papillomavirus
+vaccination. Sex Transm Dis. 2020;47(3):179–186.
+153. Orumaa M, Kjaer SK, Dehlendorff C, et al. The impact of HPV multi
+cohort vaccination: real-world evidence of faster control of HPV
+related morbidity. Vaccine. 2020;38(6):1345–1351.
+154. Oakley F, Desouki MM, Pemmaraju M, et al. Trends in high-grade
+
+cervical cancer precursors in the human papillomavirus vaccine era.
+Am J Prev Med. 2018;55(1):19–25.
+155. Ogilvie GS, Naus M, Money DM, et al. Reduction in cervical intrae-­
+
+pithelial neoplasia in young women in British Columbia after intro-­
+duction of the HPV vaccine: an ecological analysis. Int J Cancer.
+2015;137(8):1931–1937.
+156. Robertson G, Robson SJ. Excisional treatment of cervical Dysplasia
+
+in Australia 2004-2013: a population-based study. J Oncol.
+2016;2016:3056407.
+157. Saadeh K, Park I, Gargano JW, et al. Prevalence of human papillo-­
+
+mavirus (HPV)-vaccine types by race/ethnicity and sociodemo-­
+graphic factors in women with high-grade cervical intraepithelial
+neoplasia (CIN2/3/AIS), Alameda County, California, United States.
+Vaccine. 2020;38(1):39–45.
+158. Ueda Y, Yagi A, Nakayama T, et al. Dynamic changes in Japan’s
+
+prevalence of abnormal findings in cervical cervical cytology
+depending on birth year. Sci Rep. 2018;8(1):5612.
+159. Dominiak-Felden G, Gobbo C, Simondon F. Evaluating the early
+
+benefit of quadrivalent HPV vaccine on genital warts in Belgium: a
+cohort study. PLoS One. 2015;10(7):e0132404.
+160. Grun N, Ahrlund-Richter A, Franzen J, et al. Oral human papilloma-­
+
+virus (HPV) prevalence in youth and cervical HPV prevalence in
+women attending a youth clinic in Sweden, a follow up-study
+2013-2014 after gradual introduction of public HPV vaccination.
+Infect Dis (Lond). 2015;47(1):57–61.
+161. Smith LM, Strumpf EC, Kaufman JS, et al. The early benefits of
+
+human papillomavirus vaccination on cervical dysplasia and ano-­
+genital warts. Pediatrics. 2015;135(5):e1131–40.
+162. Kahn JA, Widdice LE, Ding L, et al. Substantial decline in vaccine
+type Human Papillomavirus (HPV) among vaccinated young
+women during the first 8 years after HPV vaccine introduction in
+a community. Clin Infect Dis. 2016;63(10):1281–1287.
+163. Chow EPF, Machalek DA, Tabrizi SN, et al. Quadrivalent vaccine
+targeted human papillomavirus genotypes in heterosexual men
+after the Australian female human papillomavirus vaccination pro-­
+gramme: a retrospective observational study. Lancet Infect Dis.
+2017;17(1):68–77.
+164. Oliver SE, Unger ER, Lewis R, et al. Prevalence of human papillo-­
+
+mavirus among females after vaccine introduction-national health
+and nutrition examination survey, United States, 2003-2014. J
+Infect Dis. 2017;216(5):594–603.
+165. Feiring B, Laake I, Christiansen IK, et al. Substantial decline in
+
+prevalence of vaccine-type and nonvaccine-type Human
+Papillomavirus (HPV) in vaccinated and unvaccinated girls 5 years
+after implementing HPV vaccine in Norway. J Infect Dis. 2018;218
+(12):1900–1910.
+166. Innes CR, Sykes PH, Harker D, et al. Changes in human papillomavirus
+
+genotypes associated with cervical intraepithelial neoplasia grade 2
+lesions in a cohort of young women (2013-2016). Papillomavirus Res.
+2018;6:77–82.
+167. Thamsborg LH, Napolitano G, Larsen LG, et al. Impact of HPV-vacci-­
+
+nation on outcome of cervical cytology screening in Denmark - a
+register based cohort study. Int J Cancer. 2018;143:1662–1670.
+
+240 W. WANG ET AL.
+
+168. Ährlund-Richter A, Cheng L, Hu YOO, et al. Changes in cervical
+
+Human Papillomavirus (HPV) prevalence at a youth clinic in
+Stockholm, Sweden, a decade after the introduction of the HPV
+vaccine. Front Cell Infect Microbiol. 2019;9:59.
+169. Chow EPF, Tabrizi SN, Fairley CK, et al. Prevalence of human papillo-­
+
+mavirus in teenage heterosexual males following the implementa-­
+tion of female and male school-based vaccination in Australia: 2014
+2017. Vaccine. 2019;37(46):6907–6914.
+170. Covert C, Ding L, Brown D, et al. Evidence for cross-protection but not
+
+type-replacement over the 11 years after human papillomavirus vac-­
+cine introduction. Hum Vaccin Immunother. 2019; 15 (7–8): ;1962–1969.
+171. Hirth JM, Kuo YF, Starkey JM, et al. Regional variations in human
+
+papillomavirus prevalence across time in NHANES (2003-2014).
+Vaccine. 2019;37(30):4040–4046.
+172. Matsumoto K, Yaegashi N, Iwata T, et al. Reduction in HPV16/18
+
+prevalence among young women with high-grade cervical lesions
+following the Japanese HPV vaccination program. Cancer Sci.
+2019;110(12):3811–3820.
+173. Sarr EHM, Mayrand MH, Coutlee F, et al. Exploration of the effect of
+
+human papillomavirus (HPV) vaccination in a cohort of pregnant
+women in Montreal, 2010-2016. Heliyon. 2019;5(8):e02150.
+174. Spinner C, Ding L, Bernstein DI, et al. Human papillomavirus vac-­
+
+cine effectiveness and herd protection in young women. Pediatrics.
+2019;143:2.
+175. Grove Krause T, Jakobsen S, Haarh M, et al. The Danish vaccination
+
+register. Euro Surveill. 2012;17:17.
+176. Machalek DA, Roberts JM, Garland SM, et al. Routine cervical screen-­
+
+ing by primary HPV testing: early findings in the renewed national
+cervical screening program. Med J Aust. 2019;211(3):113–119.
+177. Lei J, Ploner A, Elfström KM, et al. HPV vaccination and the risk of
+
+invasive cervical cancer. N Engl J Med. 2020;383(14):1340–1348.
+
+**•• Study showing that quadrivalent HPV vaccination was asso-­**
+
+**ciated with a substantially reduced risk of invasive cervical**
+**cancer at the population level.**
+178. Veldhuijzen NJ, Snijders PJ, Reiss P, et al. Factors affecting transmis-­
+
+sion of mucosal human papillomavirus. Lancet Infect Dis. 2010;10
+(12):862–874.
+179. Hanley SJ, Yoshioka E, Ito Y, et al. HPV vaccination crisis in Japan.
+
+Lancet. 2015;385(9987):2571.
+180. Corcoran B, Clarke A, Barrett T. Rapid response to HPV vaccination
+
+crisis in Ireland. Lancet. 2018;391(10135):2103.
+181. Suppli CH, Hansen ND, Rasmussen M, et al. Decline in HPV-vaccina-­
+
+tion uptake in Denmark - the association between HPV-related
+
+
+media coverage and HPV-vaccination. BMC Public Health. 2018;18
+(1):1360.
+182. Simas C, Munoz N, Arregoces L, et al. HPV vaccine confidence and
+
+cases of mass psychogenic illness following immunization in Carmen
+de Bolivar, Colombia. Hum Vaccin Immunother. 2019;15(1):163–166.
+183. Perry-Parrish C, Dodge R. Research and statistics: validity hierarchy
+
+for study design and study type. Pediatr Rev. 2010;31(1):27–29.
+184. Murad MH, Asi N, Alsawas M, et al. New evidence pyramid. Evid
+
+Based Med. 2016;21(4):125–127.
+185. European Centre for Disease Prevention and Control. Designing
+
+and implementing an immunisation information system.
+Stockholm (Sweden): European Centre for Disease Prevention and
+Control. Designing and implementing an immunisation informa-­
+tion system. Stockholm; 2018.
+186. Vorsters A, Arbyn M, Baay M, et al. Overcoming barriers in HPV vaccina-­
+
+tion and screening programs. Papillomavirus Res. 2017;4:45–53.
+187. World Health Organization. Global strategy to accelerate the elim-­
+
+ination of cervical cancer as a public health problem. 2020
+[Accessed 21 July 2021 Available from: https://www.who.int/publica](https://www.who.int/publications/i/item/9789240014107)
+[tions/i/item/9789240014107.](https://www.who.int/publications/i/item/9789240014107)
+
+188. Arbyn M, Smith SB, Temin S, et al. Detecting cervical precancer and
+
+reaching underscreened women by using HPV testing on self
+samples: updated meta-analyses. BMJ. 2018;363:k4823.
+189. Van Keer S, Tjalma WAA, Pattyn J, et al. Human papillomavirus
+
+genotype and viral load agreement between paired first-void
+urine and clinician-collected cervical samples. Eur J Clin Microbiol
+Infect Dis. 2018;37(5):859–869.
+190. Bissett SL, Howell-Jones R, Swift C, et al. Human papillomavirus
+
+genotype detection and viral load in paired genital and urine
+samples from both females and males. J Med Virol. 2011;83
+(10):1744–1751.
+191. Koene F, Wolffs P, Brink A, et al. Comparison of urine samples and
+
+penile swabs for detection of human papillomavirus in HIV-nega-­
+tive Dutch men. Sex Transm Infect. 2016;92(6):467–469.
+192. Söderlund-Strand A, Wikström A, Dillner J. Evaluation of human
+
+papillomavirus DNA detection in samples obtained for routine
+Chlamydia trachomatis screening. J Clin Virol. 2015;64:88–91.
+193. Garland SM, Molesworth EG, Machalek DA, et al. How to best
+
+measure the effectiveness of male human papillomavirus vaccine
+programmes? Clin Microbiol Infect. 2015;21(9):834–841.
+194. Jedy-Agba E, Joko WY, Liu B, et al. Trends in cervical cancer
+
+incidence in sub-Saharan Africa. Br J Cancer. 2020;123(1):148–
+
+154.
+
+
+# Formatting Instructions:
+    
+Output Format: Present all findings clearly in a single structured table as follows:
+Aspect of Care, Recommendation
+
+| Aspect of Care              | Recommendation                     |
+| :-------------------------- | :----------------------------------|
+| **Aspect of Care 1**        | **Recommendation 1**               |
+| **Aspect of Care 2**        | **Recommendation 2**               |
+
+Make sure that the table is exhaustive and that all recommendations mentioned in the paper are listed.
