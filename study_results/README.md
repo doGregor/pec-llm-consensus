@@ -14,9 +14,9 @@ Accordingly, all outputs are organized into two parallel directory structures.
 ```
 run_outputs/
 ├── guidelines/
-│   ├── (inputs and outputs for guideline-based experiments)
+│   ├── (outputs for guideline-based experiments)
 └── white_areas/
-    ├── (inputs and outputs for White Area–based experiments)
+    ├── (outputs for White Area–based experiments)
 ```
 
 Both branches follow the same structure and logic. The only difference lies in the type of source documents processed (clinical guidelines vs. research papers).
