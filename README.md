@@ -8,7 +8,7 @@ This framework uses state-of-the-art LLMs to systematically analyze clinical gui
 
 ## Experimental Results
 
-The results from applying the framework to penile cancer (clinical guidelines and "white area" literature) can be found in the `study_results/` directory of this repository. For more details, please check out [this description](study_results/description.md).
+The results from applying the framework to penile cancer (clinical guidelines and "white area" literature) can be found in the `study_results/` directory of this repository. For more details, please check out [this README](study_results/README.md).
 
 ## Installation
 
