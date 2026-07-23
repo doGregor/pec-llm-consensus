@@ -184,3 +184,23 @@ def load_list_of_pdfs(pdf_type='guidelines'):
     pdfs_path = f'{get_root_folder_path()}/input/{pdf_type}'
     list_of_pdfs = [p[:-4] for p in os.listdir(pdfs_path) if p.endswith('pdf')]
     return list_of_pdfs
+
+
+def load_items_to_revise(item_type='guidelines'):
+    assert item_type in ['guidelines', 'white_areas']
+    path_to_items = f'{get_root_folder_path()}/input/{item_type}/items_to_revise.json'
+    with open(path_to_items, "r") as f:
+        items_dict = json.load(f)
+    return items_dict['items']
+
+
+def log_revised_item(revised_item, item_name, item_type='guidelines'):
+    path_name = f'{get_root_folder_path()}/output/revised_item_{item_type}_{item_name}_output.json'
+    if revised_item.startswith("```"):
+        revised_item = revised_item.split("```")[1]
+        if revised_item.startswith("json"):
+            revised_item = revised_item[4:]
+        revised_item = revised_item.strip()
+    loaded_r = json.loads(revised_item)
+    with open(path_name, 'w') as f:
+        json.dump(loaded_r, f)

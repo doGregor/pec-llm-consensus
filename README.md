@@ -113,6 +113,34 @@ python llm_interaction/04_panel_check.py
 ```
 Runs a validation panel (model ensemble) to verify the stance classifications from Step 3. For white areas, set `--pdf-type white_areas`.
 
+#### (optional) Step 5: Revise Specific Items
+```bash
+python llm_interaction/05_item_revision.py
+```
+Revises Items based on human reviewer assessments. This requires a JSON file with the items to be revised and the human reviewer assessments. The output will be a revised set of items including justification.
+
+The JSON file should be structured as follows (placed in the `input/[item-type]` directory, named `items_to_revise.json`):
+```json
+{
+  "items": [
+    {
+      "item": "Full item 1 text here",
+      "reviewer_critique": "Full critique text here"
+    },
+    {
+      "item": "Full item 2 text here",
+      "reviewer_critique": "Full critique text here"
+    }
+  ]
+}
+```
+
+**Options:**
+- `--model`: LLM model to use
+- `--thinking-budget`: Computational thinking budget
+- `--item-type`: Source of the items (i.e. items to reviser were identified in guideline or white area documents)
+
+
 ### Output
 
 Results are saved in the `output/` directory, organized by document type:
@@ -136,6 +164,7 @@ pec-llm-consensus/
 │   ├── 02_unify_recommendations.py
 │   ├── 03_guideline_stances.py
 │   ├── 04_panel_check.py
+│   ├── 05_item_revision.py
 │   ├── api_requests.py        # LLM API interaction handlers
 │   └── utils.py               # Utility functions
 ├── input/                     # Input documents
